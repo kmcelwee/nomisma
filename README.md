@@ -14,6 +14,8 @@
 
 ## Quick run
 
+Create a python 3.8 environment and install dependencies using the command `pip install -r requirements.txt`
+
 `python NomismaPipeline.py` will execute the `run_pipeline` function, which will iterate through all four steps outlined in "Data Pipeline" above.
 
 ## Notes
