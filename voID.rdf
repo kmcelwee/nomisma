@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:void="http://rdfs.org/ns/void#">
+	<void:Dataset rdf:about="https://library.princeton.edu/special-collections/databases/princeton-numismatic-collection-database">
+		<dcterms:title>Princeton University Library Special Collections: Numismatic Collection</dcterms:title>
+		<dcterms:description>
+			Catalog of coins in Princeton's Numismatic Collection that have been digitized.
+		</dcterms:description>
+		<dcterms:publisher>Princeton University Library</dcterms:publisher>
+		<dcterms:license rdf:resource="http://opendatacommons.org/licenses/odbl/"/>
+		<void:uriSpace>https://catalog.princeton.edu/catalog/</void:uriSpace>
+		<void:dataDump rdf:resource="### The link we host ###"/>
+	</void:Dataset>
+</rdf:RDF>
