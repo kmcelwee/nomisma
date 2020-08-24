@@ -131,4 +131,4 @@ class NomismaPipeline(object):
 
 if __name__ == '__main__':
     nm = NomismaPipeline()
-    nm.run_pipeline(scrape=True)
+    nm.run_pipeline(scrape=False)
