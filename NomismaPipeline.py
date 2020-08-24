@@ -9,15 +9,35 @@ class NomismaPipeline(object):
     """Extracts data from figgy, validates that it meets our required schema, 
     and generates an RDF that follows Nomisma's guidelines.
     """
-    def __init__(self, data_dir='data'):
+    def __init__(self, data_dir='data', raw_dir='data/raw'):
         self.data_dir = data_dir
-        self.raw = pjoin(data_dir, 'coin-list-raw.json')
+        self.raw_dir = raw_dir
         self.trimmed = pjoin(data_dir, 'coin-list-trimmed.csv')
         self.rdf_prep = pjoin(data_dir, 'coin-list-rdf.csv')
         self.rdf = 'princeton-nomisma.rdf'
 
         if not os.path.exists(data_dir):
             os.mkdir(data_dir)
+        if not os.path.exists(raw_dir):
+            os.mkdir(raw_dir)
+
+        self.raw_json = None
+
+
+    def get_raw_json(self):
+        """Collect all the raw json files from the raw directory and combine
+         cache it into working memory.
+        """
+        raw_json_paths = [
+            pjoin(self.raw_dir, filename) for filename in os.listdir(self.raw_dir)
+        ]
+        raw_json = []
+        for json_path in raw_json_paths:
+            with open(json_path) as f:
+                raw_json.extend(json.load(f))
+
+        self.raw_json = raw_json
+        return raw_json
 
 
     def collect(self):
@@ -32,29 +52,28 @@ class NomismaPipeline(object):
         req = requests.get(main_url)
         coin_json = json.loads(req.text)
         max_page = coin_json['response']['pages']['total_pages']
+        zfill_max = len(str(max_page))
         print(f'Max: {max_page}')
 
         # Iterate through pages and create a json of all coin data
-        # NOTE: This approach may lead to heavy memory usage if dataset
-        # expands, especially because of list concatenation.
-        coin_list = coin_json['response']['docs']
-        for page in range(2, max_page+1):
+        for page in range(1, max_page+1):
             url = ("https://figgy.princeton.edu/catalog.json?f%5B" +
                 "human_readable_type_ssim%5D%5B%5D=Coin&page={page}&per_page=100")
             req = requests.get(url)
-            coin_list += json.loads(req.text)['response']['docs']
+            coin_list = json.loads(req.text)['response']['docs']
             print(page, end=', ')
             
-        with open(self.raw, 'w') as f:
-            json.dump(coin_list, f, indent=4)
+            json_filename = f'coin-list-raw-{str(page).zfill(zfill_max)}.json'
+            json_path = pjoin(self.raw_dir, json_filename)
+            with open(json_path, 'w') as f:
+                json.dump(coin_list, f, indent=4)
 
 
     def trim(self):
         """ Collect only the useful components of the raw JSON data and output 
         into a CSV.
         """
-        with open(self.raw) as f:
-            coin_list = json.load(f)
+        coin_list = self.get_raw_json()
 
         coin_list_trimmed = []
         for coin in coin_list:
@@ -62,6 +81,7 @@ class NomismaPipeline(object):
                 'coin_number_tsi': coin['coin_number_tsi']
             })
         df = pd.DataFrame(coin_list_trimmed)
+
 
         df.to_csv(pjoin(self.trimmed), index=False)
 
@@ -119,13 +139,18 @@ class NomismaPipeline(object):
         with open(self.rdf, 'w') as f:
             f.write(rdf)
 
+
     def run_pipeline(self, scrape=True):
         """Iterate through entire pipeline"""
         if scrape:
             self.collect()
+        print('Trimming raw data...')
         self.trim()
+        print('Running basic validation...')
         self.validate()
+        print('Preparing data for RDF generation...')
         self.transform()
+        print('Creating RDF...')
         self.generate_rdf()
 
 
