@@ -78,7 +78,7 @@ class NomismaPipeline(object):
         coin_list_trimmed = []
         for coin in coin_list:
             coin_list_trimmed.append({
-                'coin_number_tsi': coin['coin_number_tsi']
+                'coin_number': coin['coin_number_tsi']
             })
         df = pd.DataFrame(coin_list_trimmed)
 
@@ -95,8 +95,8 @@ class NomismaPipeline(object):
         
         df = pd.read_csv(self.trimmed)
 
-        assert no_empty_cells(df['coin_number_tsi'])
-        assert all([cn.startswith('integer-') for cn in df['coin_number_tsi']])
+        assert no_empty_cells(df['coin_number'])
+        assert all([cn.startswith('integer-') for cn in df['coin_number']])
 
 
     def transform(self):
@@ -105,7 +105,7 @@ class NomismaPipeline(object):
         """
         df = pd.read_csv(self.trimmed)
 
-        df['identifier'] = df['coin_number_tsi'].str.replace('integer', 'coin')
+        df['identifier'] = df['coin_number'].str.replace('integer', 'coin')
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
         df['title'] = df['identifier'].apply(lambda x: x.replace('-', ' ').capitalize())
         
