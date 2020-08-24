@@ -1,4 +1,4 @@
-name: Valid CSVs
+name: Pipeline smoke test
 
 on: [push]
 
