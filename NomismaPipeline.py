@@ -30,6 +30,7 @@ class NomismaPipeline(object):
         """
         raw_json_paths = [
             pjoin(self.raw_dir, filename) for filename in os.listdir(self.raw_dir)
+                if filename.endswith('.json')
         ]
         raw_json = []
         for json_path in raw_json_paths:
@@ -58,7 +59,7 @@ class NomismaPipeline(object):
         # Iterate through pages and create a json of all coin data
         for page in range(1, max_page+1):
             url = ("https://figgy.princeton.edu/catalog.json?f%5B" +
-                "human_readable_type_ssim%5D%5B%5D=Coin&page={page}&per_page=100")
+                f"human_readable_type_ssim%5D%5B%5D=Coin&page={page}&per_page=100")
             req = requests.get(url)
             coin_list = json.loads(req.text)['response']['docs']
             print(page, end=', ')
@@ -78,14 +79,15 @@ class NomismaPipeline(object):
         coin_list_trimmed = []
         for coin in coin_list:
             coin_list_trimmed.append({
-                'coin_number': coin['coin_number_tsi']
+                'coin_number': coin['coin_number_tsi'],
+                'weight': coin.get('weight_tesi')
             })
         df = pd.DataFrame(coin_list_trimmed)
 
         # arbitrary sorting to provide clearer diffs
         df.sort_values('coin_number')
 
-        df.to_csv(pjoin(self.trimmed), index=False)
+        df.to_csv(self.trimmed, index=False)
 
 
     def validate(self):
@@ -94,9 +96,12 @@ class NomismaPipeline(object):
         """
         def no_empty_cells(series):
             return series.shape[0] == series.dropna().shape[0]
+        def unique_values(series):
+            return series.shape[0] == series.unique().shape[0]
         
         df = pd.read_csv(self.trimmed)
 
+        # assert unique_values(df['coin_number'])
         assert no_empty_cells(df['coin_number'])
         assert all([cn.startswith('integer-') for cn in df['coin_number']])
 
@@ -111,7 +116,7 @@ class NomismaPipeline(object):
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
         df['title'] = df['identifier'].apply(lambda x: x.replace('-', ' ').capitalize())
         
-        cols = ['identifier', 'full_link', 'title']
+        cols = ['identifier', 'full_link', 'title', 'weight']
         df_o = df[cols]
         df_o.to_csv(self.rdf_prep, index=False)
 
@@ -134,7 +139,11 @@ class NomismaPipeline(object):
         <dcterms:title>{r['title']}</dcterms:title>
         <dcterms:identifier>{r['identifier']}</dcterms:identifier>
         <void:inDataset rdf:resource="https://library.princeton.edu/special-collections/databases/princeton-numismatic-collection-database"/>
-    </nmo:NumismaticObject>""")
+""")
+            if not pd.isna(r['weight']):
+                rdf += f"""        <nmo:hasWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">{r['weight']}</nmo:hasWeight>\n"""
+
+            rdf += "    </nmo:NumismaticObject>"
 
         rdf += "\n</rdf:RDF>\n"
 
