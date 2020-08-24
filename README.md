@@ -1,8 +1,8 @@
 [Nomisma.org](http://nomisma.org) is a dataset of numismatic datasets. We provide them `voID.rdf`, which points to our RDF `princeton-nomisma.rdf` hosted here on GitHub.
 
-## Data Pipeline
+## NomismaPipeline.py
 
-`collect` paginates through items in Figgy listed as "Coins" and places all JSON data into one file, `coin-list-raw.json`
+`collect` paginates through items in Figgy listed as "Coins" and places all raw JSON data into `data/raw`,
 
 `trim` grabs only the essential information from the raw coin JSON and creates `coin-list-trimmed.csv`
 
