@@ -31773,17 +31773,17 @@
         "size_ssi": "12",
         "size_tesi": "12",
         "weight_tsim": [
-            "1.11 g"
+            "1.11"
         ],
         "weight_ssim": [
-            "1.11 g"
+            "1.11"
         ],
         "weight_tesim": [
-            "1.11 g"
+            "1.11"
         ],
-        "weight_tsi": "1.11 g",
-        "weight_ssi": "1.11 g",
-        "weight_tesi": "1.11 g",
+        "weight_tsi": "1.11",
+        "weight_ssi": "1.11",
+        "weight_tesi": "1.11",
         "find_number_tsim": [
             "Cb3756"
         ],

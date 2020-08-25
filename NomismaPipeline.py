@@ -85,7 +85,7 @@ class NomismaPipeline(object):
         df = pd.DataFrame(coin_list_trimmed)
 
         # arbitrary sorting to provide clearer diffs
-        df = df.sort_values('coin_number')
+        # df = df.sort_values('coin_number')
 
         df.to_csv(self.trimmed, index=False)
 
