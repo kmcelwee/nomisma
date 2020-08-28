@@ -46,32 +46,36 @@ class NomismaPipeline(object):
 
 
     def collect(self):
-        """ Paginate through all items in Figgy listed as "Coins". Place all 
-        JSON data into one file.
+        """ Paginate through all items in the Catalog listed as "Coins". Place all 
+        JSON data into `raw_dir`.
         """
+        def get_coin_json(coin):
+            r = requests.get(coin['links']['self'] + '/raw')
+            
+            json_filename = f"{coin['id']}.json"
+            json_path = pjoin(self.raw_dir, json_filename)
+            
+            coin_json = json.loads(r.text)
+            with open(json_path, 'w') as f:
+                json.dump(coin_json, f, indent=4)
 
-        # From first page of figgy's selection of Coins, collect the data and
-        #  the maximum pagination
-        main_url = ("https://figgy.princeton.edu/catalog.json?f%5B" +
-            "human_readable_type_ssim%5D%5B%5D=Coin&per_page=100")
+        main_url = "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100"
         req = requests.get(main_url)
         coin_json = json.loads(req.text)
-        max_page = coin_json['response']['pages']['total_pages']
+        max_page = coin_json['meta']['pages']['total_pages']
         zfill_max = len(str(max_page))
         print(f'Max: {max_page}')
 
         # Iterate through pages and create a json of all coin data
         for page in range(1, max_page+1):
-            url = ("https://figgy.princeton.edu/catalog.json?f%5B" +
-                f"human_readable_type_ssim%5D%5B%5D=Coin&page={page}&per_page=100")
+            url = f'{main_url}&page={page}'
             req = requests.get(url)
-            coin_list = json.loads(req.text)['response']['docs']
-            print(page, end=', ')
+            coin_list = json.loads(req.text)['data']
             
-            json_filename = f'coin-list-raw-{str(page).zfill(zfill_max)}.json'
-            json_path = pjoin(self.raw_dir, json_filename)
-            with open(json_path, 'w') as f:
-                json.dump(coin_list, f, indent=4)
+            for coin in coin_list:
+                get_coin_json(coin)
+            
+            print(page, end=', ')
 
 
     def trim(self):
