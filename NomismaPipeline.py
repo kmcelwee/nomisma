@@ -5,6 +5,10 @@ from os.path import join as pjoin
 
 import pandas as pd
 
+from rdflib import Graph, Literal, RDF, URIRef, Namespace
+from rdflib.namespace import FOAF, XSD, VOID, DCTERMS
+
+
 class NomismaPipeline(object):
     """Extracts data from figgy, validates that it meets our required schema, 
     and generates an RDF that follows Nomisma's guidelines.
@@ -125,30 +129,29 @@ class NomismaPipeline(object):
         """Turn the CSV into the published RDF file."""
         df = pd.read_csv(self.rdf_prep)
 
-        rdf = """<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:void="http://rdfs.org/ns/void#"
-    xmlns:nmo="http://nomisma.org/ontology#"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:foaf="http://xmlns.com/foaf/0.1/"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-"""
+        # create RDF graph 
+        g = Graph()
+
+        # load / create namespaces
+        NMO = Namespace("http://nomisma.org/ontology#")
+
+        g.bind('dcterms', DCTERMS)
+        g.bind('nmo', NMO)
+        g.bind('void', VOID)
 
         for i, r in df.iterrows():
-            rdf += (f"""
-    <nmo:NumismaticObject rdf:about="{r['full_link']}">
-        <dcterms:title>{r['title']}</dcterms:title>
-        <dcterms:identifier>{r['identifier']}</dcterms:identifier>
-        <void:inDataset rdf:resource="https://library.princeton.edu/special-collections/databases/princeton-numismatic-collection-database"/>
-""")
+            coin = URIRef(r['full_link'])
+            g.add((coin, RDF.type, NMO.NumismaticObject))
+            g.add((coin, DCTERMS.title, Literal(r['title'])))
+            g.add((coin, DCTERMS.identifier, Literal(r['identifier'])))
+            g.add((coin, VOID.inDataset, URIRef("https://library.princeton.edu/special-collections/databases/princeton-numismatic-collection-database")))
+
             if not pd.isna(r['weight']):
-                rdf += f"""        <nmo:hasWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">{r['weight']}</nmo:hasWeight>\n"""
-
-            rdf += "    </nmo:NumismaticObject>"
-
-        rdf += "\n</rdf:RDF>\n"
+                g.add((coin, NMO.hasWeight, 
+                    Literal(round(r['weight'], 3), datatype=XSD.decimal)))
 
         with open(self.rdf, 'w') as f:
-            f.write(rdf)
+            f.write(g.serialize(format='pretty-xml').decode('utf-8'))
 
 
     def run_pipeline(self, scrape=True):
