@@ -16,8 +16,7 @@ class NomismaPipeline(object):
     def __init__(self, data_dir='data', raw_dir='data/raw'):
         self.data_dir = data_dir
         self.raw_dir = raw_dir
-        self.trimmed = pjoin(data_dir, 'coin-list-trimmed.csv')
-        self.rdf_prep = pjoin(data_dir, 'coin-list-rdf.csv')
+        self.rdf_prep = pjoin(data_dir, 'coin-list.csv')
         self.rdf = 'princeton-nomisma.rdf'
 
         if not os.path.exists(data_dir):
@@ -78,7 +77,7 @@ class NomismaPipeline(object):
             print(page, end=', ')
 
 
-    def trim(self):
+    def preprocessing(self):
         """ Collect only the useful components of the raw JSON data and output 
         into a CSV.
         """
@@ -96,8 +95,6 @@ class NomismaPipeline(object):
         # arbitrary sorting to provide clearer diffs
         df = df.sort_values('identifier')
 
-        # HACK: this needs to be done before being written to file, so this process occurs
-        #   outside `validate` and `transform`
         # `weight` and `pub_created_display` exist in arrays of length 1, take that value out of its array
         assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']])
         df['weight'] = [None if pd.isna(x) else x[0] for x in df['weight']]
@@ -105,7 +102,11 @@ class NomismaPipeline(object):
         assert all([True if isinstance(a, str) else len(a) == 1 for a in df['title']])
         df['title'] = [x if isinstance(x, str) else x[0] for x in df['title']]
 
-        df.to_csv(self.trimmed, index=False)
+        df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
+        
+        cols = ['identifier', 'full_link', 'title', 'weight']
+        df_o = df[cols]
+        df_o.to_csv(self.rdf_prep, index=False)
 
 
     def validate(self):
@@ -117,25 +118,11 @@ class NomismaPipeline(object):
         def unique_values(series):
             return series.shape[0] == series.unique().shape[0]
         
-        df = pd.read_csv(self.trimmed)
+        df = pd.read_csv(self.rdf_prep)
 
         assert unique_values(df['identifier'])
         assert no_empty_cells(df['identifier'])
         assert all([cn.startswith('coin-') for cn in df['identifier']])
-        
-
-
-    def transform(self):
-        """Transform trimmed data from figgy into data ultimately used in the 
-        RDF.
-        """
-        df = pd.read_csv(self.trimmed)
-
-        df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
-        
-        cols = ['identifier', 'full_link', 'title', 'weight']
-        df_o = df[cols]
-        df_o.to_csv(self.rdf_prep, index=False)
 
 
     def generate_rdf(self):
@@ -171,12 +158,10 @@ class NomismaPipeline(object):
         """Iterate through entire pipeline"""
         if scrape:
             self.collect()
-        print('Trimming raw data...')
-        self.trim()
+        print('Preprocessing data...')
+        self.preprocessing()
         print('Running basic validation...')
         self.validate()
-        print('Preparing data for RDF generation...')
-        self.transform()
         print('Creating RDF...')
         self.generate_rdf()
 

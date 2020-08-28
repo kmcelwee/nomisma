@@ -2,22 +2,21 @@
 
 ## NomismaPipeline.py
 
-`collect` paginates through items in Figgy listed as "Coins" and places all raw JSON data into `data/raw`,
+`collect` paginates through items in the Catalog listed as "Coins" and places all raw JSON data into `data/raw`,
 
-`trim` grabs only the essential information from the raw coin JSON and creates `coin-list-trimmed.csv`
+`preprocessing` grabs only the essential information from the raw coin JSON and transforms it into the fields that will ultimatley populate the RDF. It outputs a CSV, `coin-list.csv`.
 
-`validate` drops any rows in `coin-list-trimmed.csv` that does not follow the schema we've defined. All correctly-formed rows are placed into `coin-list-clean.csv`.
+`validate` runs tests on `coin-list.csv` to ensure that our assumptions about the data's schema are correct.
 
-`transform` turns all fields in `coin-list-clean.csv` into the fields that will ultimately populate the RDF. It outputs a CSV, `coin-list-rdf.csv`.
-
-`generate_rdf` turns `coin-list-rdf.csv` into `princeton-nomisma.rdf`, the published data link.
+`generate_rdf` turns `coin-list.csv` into `princeton-nomisma.rdf`: the published data link.
 
 ## Quick run
 
 Create a python 3.8 environment and install dependencies using the command `pip install -r requirements.txt`
 
-`python NomismaPipeline.py` will execute the `run_pipeline` function, which will iterate through all four steps outlined in "Data Pipeline" above.
+`python NomismaPipeline.py` will execute the `run_pipeline` function, which will iterate through all steps outlined above.
 
 ## Notes
 
 - The location of `princeton-nomisma.rdf` should not be changed unless `voID.rdf` is updated and given to Nomisma.
+- If `princeton-nomisma.rdf` is updated with new data, Nomisma should be contacted to run another ingestion. Preferably, do not contact them more than once every month.
