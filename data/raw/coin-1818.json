@@ -1,0 +1,114 @@
+{
+    "id": "coin-1818",
+    "title_display": "Coin: 1818",
+    "pub_created_display": [
+        "Claudius (41 to 54), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1818"
+    ],
+    "call_number_browse_s": [
+        "Coin 1818"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Details on coin have been lost due to rubbing."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "10.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1818\",\"call_number_browse\":\"Coin 1818\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 42,
+    "pub_date_end_sort": 42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "1183"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Claudius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_legend_s": [
+        "TI CLAVDIVS CAESAR AVG P M TR IMP P P"
+    ],
+    "issue_reverse_figure_s": [
+        "Minerva"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "helmeted female; draped, advancing r., brandishing javelin in r. hand and holding round shield on l. arm"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "S C are found low in field"
+    ],
+    "issue_reverse_legend_s": [
+        "S C"
+    ],
+    "issue_references_s": [
+        "RIC.1. Claudius 66",
+        "BMC.1. Claudius 206",
+        "Sear  1862"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8fc44a8c987232ff"
+    ],
+    "_version_": 1667138214806159360,
+    "timestamp": "2020-05-19T16:48:17.362Z"
+}

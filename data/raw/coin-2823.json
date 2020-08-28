@@ -1,0 +1,101 @@
+{
+    "id": "coin-2823",
+    "title_display": "Coin: 2823",
+    "pub_created_display": [
+        "Joseph Clay Jr."
+    ],
+    "call_number_display": [
+        "Coin 2823"
+    ],
+    "call_number_browse_s": [
+        "Coin 2823"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "This Gold Medal presented to Joseph Clay Jr. 1784 A.D. for an essay delivered in a competition of the students of NJ for the annual medal given by his Excellency John Dickinson Esq LL.D. and President of the State of Pennsylvania, to be adjudged by the\u2026"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2823\",\"call_number_browse\":\"Coin 2823\"}}",
+    "donor_s": [
+        "Thomas Savage Clay"
+    ],
+    "pub_date_start_sort": 1784,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1789"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Joseph Clay Jr."
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "College of New Jersey"
+    ],
+    "issue_obverse_symbol_s": [
+        "Nassau Hall"
+    ],
+    "issue_obverse_figure_description_s": [
+        "winged figure over robed male figure; grass trees and college of New Jersey (Nassau Hall)  in background"
+    ],
+    "issue_obverse_legend_s": [
+        "JOSEPHUS CLAY MERUIT A.D. 1784"
+    ],
+    "issue_reverse_figure_s": [
+        "Three female symbols"
+    ],
+    "issue_reverse_symbol_s": [
+        "flame"
+    ],
+    "issue_reverse_figure_description_s": [
+        "three female figures representing piety, virtue, and knowledge, represented by Athena, surround a flame on top of collumn"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "holding hands"
+    ],
+    "issue_reverse_legend_s": [
+        "SCIENTA FLORENT RESPUBLICAE| PIETATE VIRUTE"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dd4d48d2f34f5f4a"
+    ],
+    "_version_": 1667138478261927936,
+    "timestamp": "2020-05-19T16:52:28.614Z"
+}

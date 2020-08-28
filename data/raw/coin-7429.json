@@ -1,0 +1,104 @@
+{
+    "id": "coin-7429",
+    "title_display": "Coin: 7429",
+    "pub_created_display": [
+        "stater, Sicyon"
+    ],
+    "call_number_display": [
+        "Coin 7429"
+    ],
+    "call_number_browse_s": [
+        "Coin 7429"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "11.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7429\",\"call_number_browse\":\"Coin 7429\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -400,
+    "pub_date_end_sort": -300,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "stater"
+    ],
+    "issue_number_s": [
+        "4649"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Sicyon, Peloponnesus, Greece"
+    ],
+    "issue_city_s": [
+        "Sicyon"
+    ],
+    "issue_state_s": [
+        "Peloponnesus"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Chimera"
+    ],
+    "issue_obverse_symbol_s": [
+        "\u03a3E"
+    ],
+    "issue_obverse_part_s": [
+        "advancing"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "in exergue"
+    ],
+    "issue_reverse_figure_s": [
+        "Dove"
+    ],
+    "issue_reverse_part_s": [
+        "flying"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in olive wreath"
+    ],
+    "issue_references_s": [
+        "Traite des Monnais Grecques et Romaines III.II 775",
+        "Catalogue of Greek Coins - Peloponnesus 38 22"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b3649e93dfbe2ff9"
+    ],
+    "_version_": 1667138257652023296,
+    "timestamp": "2020-05-19T16:48:58.220Z"
+}

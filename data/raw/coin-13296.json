@@ -1,0 +1,115 @@
+{
+    "id": "coin-13296",
+    "title_display": "Coin: 13296",
+    "pub_created_display": [
+        "Antiochus III (-223 to -187), quadruple, Ecbatana"
+    ],
+    "call_number_display": [
+        "Coin 13296"
+    ],
+    "call_number_browse_s": [
+        "Coin 13296"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "9.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13296\",\"call_number_browse\":\"Coin 13296\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": -208,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadruple"
+    ],
+    "issue_number_s": [
+        "8614"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus III (-223 to -187)"
+    ],
+    "issue_place_s": [
+        "Ecbatana, Media, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Ecbatana"
+    ],
+    "issue_state_s": [
+        "Media"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus III"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with diadem, mature features and ragged bangs in diotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos,"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 l \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8523, outer left, above",
+        "m8326.jpg, outer right",
+        "arrow, in r. hand",
+        "grounded bow, in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L I, 459 1247"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b4a1452032828683"
+    ],
+    "_version_": 1667138198542745600,
+    "timestamp": "2020-05-19T16:48:01.849Z"
+}

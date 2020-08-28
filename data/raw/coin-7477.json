@@ -1,0 +1,92 @@
+{
+    "id": "coin-7477",
+    "title_display": "Coin: 7477",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7477"
+    ],
+    "call_number_browse_s": [
+        "Coin 7477"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7477\",\"call_number_browse\":\"Coin 7477\"}}",
+    "pub_date_start_sort": 327,
+    "pub_date_end_sort": 329,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4638"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rosette diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN-TINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN TIAE AVGG"
+    ],
+    "issue_references_s": [
+        "RIC 7 691.78",
+        "Cohen 7, 281 454"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "75d9e2090b1fb9fc"
+    ],
+    "_version_": 1667145454768357376,
+    "timestamp": "2020-05-19T18:53:46.831Z"
+}

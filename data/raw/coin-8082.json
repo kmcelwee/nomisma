@@ -1,0 +1,97 @@
+{
+    "id": "coin-8082",
+    "title_display": "Coin: 8082",
+    "pub_created_display": [
+        "follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8082"
+    ],
+    "call_number_browse_s": [
+        "Coin 8082"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Worn smooth on the obverse, very worn on the reverse"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-3-1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca151"
+    ],
+    "find_description_s": [
+        "Surface"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "12.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8082\",\"call_number_browse\":\"Coin 8082\"}}",
+    "pub_date_start_sort": 514,
+    "pub_date_end_sort": 527,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "404676b10d1b018d"
+    ],
+    "_version_": 1673366750110941184,
+    "timestamp": "2020-07-27T10:48:11.510Z"
+}

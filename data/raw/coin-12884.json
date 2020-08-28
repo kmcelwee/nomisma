@@ -1,0 +1,107 @@
+{
+    "id": "coin-12884",
+    "title_display": "Coin: 12884",
+    "pub_created_display": [
+        "Vologases II, Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12884"
+    ],
+    "call_number_browse_s": [
+        "Coin 12884"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Corrupted legend, 63% Ag, 0.55 mg Au, 100 mg"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12884\",\"call_number_browse\":\"Coin 12884\"}}",
+    "pub_date_start_sort": 77,
+    "pub_date_end_sort": 80,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8445"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Vologases II"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "medium beard with quadrant-ended bottom, wearing tiara decorated with hooks and horn on side, earing visible"
+    ],
+    "issue_obverse_legend_s": [
+        "Parthian script WL behind the head"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, holding bow"
+    ],
+    "issue_reverse_legend_s": [
+        "[\u0392\u0391\u03a3\u039b\u0399\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u039b\u0399\u0395\u03a9\u039d \u0391\u03a1\u03a3\u0391\u039d\u039f\u03a5 \u0395\u03a5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03a5 \u0394\u0399\u03a7\u0391\u0399\u039f\u03a5 [\u0395]\u03a0]\u03a6\u0391\u039d\u039f\u03a5\u03a3 \u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u03a7\u039f\u03a3]"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8445.jpg, below bow"
+    ],
+    "issue_references_s": [
+        "Sellwood  72.8",
+        "Shore  338"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a69cb7e51daaa571"
+    ],
+    "_version_": 1667138340059611136,
+    "timestamp": "2020-05-19T16:50:16.811Z"
+}

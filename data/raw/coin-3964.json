@@ -1,0 +1,127 @@
+{
+    "id": "coin-3964",
+    "title_display": "Coin: 3964",
+    "pub_created_display": [
+        "Augustus (-30 to 14), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3964"
+    ],
+    "call_number_browse_s": [
+        "Coin 3964"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/14/1939"
+    ],
+    "find_feature_s": [
+        "Over bird mosaic North of red mosaic room. (A1)"
+    ],
+    "find_locus_s": [
+        "DH-26-M/N"
+    ],
+    "find_number_s": [
+        "Cc1937"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20.0"
+    ],
+    "weight_s": [
+        "7.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3964\",\"call_number_browse\":\"Coin 3964\"}}",
+    "pub_date_start_sort": 12,
+    "pub_date_end_sort": 13,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "2272"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_series_s": [
+        "Legate series (Antioch)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate head, r."
+    ],
+    "issue_reverse_figure_s": [
+        "Ram"
+    ],
+    "issue_reverse_symbol_s": [
+        "star"
+    ],
+    "issue_reverse_part_s": [
+        "running"
+    ],
+    "issue_reverse_orientation_s": [
+        "right, looking backward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "ram, running r., looking back; star above; in field, date \u0393\u039c"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0395\u03a0\u0399 \u03a3\u0399\u039b\u0391\u039d\u039f\u03a5 \u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u0393\u039c, date in field, under ram"
+    ],
+    "issue_references_s": [
+        "RPC.1  4268"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7cdcec368ad61b8d"
+    ],
+    "_version_": 1667138485843132416,
+    "timestamp": "2020-05-19T16:52:35.842Z"
+}

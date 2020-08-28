@@ -1,0 +1,77 @@
+{
+    "id": "coin-1453",
+    "title_display": "Coin: 1453",
+    "pub_created_display": [
+        "Tong Zhi \u540c\u6cbb (1862 to 1875)"
+    ],
+    "call_number_display": [
+        "Coin 1453"
+    ],
+    "call_number_browse_s": [
+        "Coin 1453"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "38"
+    ],
+    "weight_s": [
+        "19.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1453\",\"call_number_browse\":\"Coin 1453\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1862,
+    "pub_date_end_sort": 1875,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "853"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Tong Zhi \u540c\u6cbb (1862 to 1875)"
+    ],
+    "issue_place_s": [
+        "Zhe Nan, China"
+    ],
+    "issue_state_s": [
+        "Zhe Nan"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u7fa9\u8a18\u91d1\u9322"
+    ],
+    "issue_reverse_attributes_s": [
+        "c27",
+        "c27"
+    ],
+    "issue_references_s": [
+        " 683 2395"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e4abcda9d94f35d7"
+    ],
+    "_version_": 1667138211446521856,
+    "timestamp": "2020-05-19T16:48:14.156Z"
+}

@@ -1,0 +1,101 @@
+{
+    "id": "coin-2648",
+    "title_display": "Coin: 2648",
+    "pub_created_display": [
+        "denaro provisino, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2648"
+    ],
+    "call_number_browse_s": [
+        "Coin 2648"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "0.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2648\",\"call_number_browse\":\"Coin 2648\"}}",
+    "pub_date_start_sort": 1304,
+    "pub_date_end_sort": 1350,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro provisino"
+    ],
+    "issue_number_s": [
+        "1669"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Comb"
+    ],
+    "issue_obverse_symbol_s": [
+        "S"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "above comb: star, backwards S, crescent"
+    ],
+    "issue_obverse_legend_s": [
+        "SENATVS P Q R"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "nail in second and third quadrant"
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA CAPVD M"
+    ],
+    "issue_references_s": [
+        "Le monete dei papi e degli stati pontifici Roman Senate 88.I",
+        "Roma, parte I  IX.22.410"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4befab9500c9cad2"
+    ],
+    "_version_": 1667138423874387968,
+    "timestamp": "2020-05-19T16:51:36.743Z"
+}

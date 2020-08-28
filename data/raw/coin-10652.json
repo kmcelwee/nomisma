@@ -1,0 +1,94 @@
+{
+    "id": "coin-10652",
+    "title_display": "Coin: 10652",
+    "pub_created_display": [
+        "Ohrmazd I, 1/2\u0394"
+    ],
+    "call_number_display": [
+        "Coin 10652"
+    ],
+    "call_number_browse_s": [
+        "Coin 10652"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "1.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10652\",\"call_number_browse\":\"Coin 10652\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 271,
+    "pub_date_end_sort": 273,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/2\u0394"
+    ],
+    "issue_number_s": [
+        "6814"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ohrmazd I"
+    ],
+    "issue_series_s": [
+        "Style D"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Ohrmazd I on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap; covered korymbos; upper ribbons pointing upwards; plain diadem, diadem ribbons commencing above ball of hair pointing upwards; above diadem row of waves; earring consisting of two elements; tunica, neck-line edged with pearl row; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy hwrmzdy ('whrmzdy) MRKAn MRKA 'yr'n W 'nyr'n MNW ctry MN yzd'n| mazd\u0113sn bay Ohrm\u0101zd \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n ud An\u0113r\u0101n k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Ohrmazd, King of Kings of the Iranians and non-Iranians, whose seeds/splendour is from the gods; dot between diadem ribbons and upper ribbons"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; four altar slabs; altar flames depicted with parallel strockes; to the left of the altar attendant with stylized crown of Ohrmazd I, holding barsom in both hands, to the right of the altar attendant with stylized crown of Anahita, holding barsom in both hands, both facing inwards, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "Unclear, triplet on altar shaft"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style D Type Ia/1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f67793b4ee486c8e"
+    ],
+    "_version_": 1667138283742691328,
+    "timestamp": "2020-05-19T16:49:23.106Z"
+}

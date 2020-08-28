@@ -1,0 +1,95 @@
+{
+    "id": "coin-14005",
+    "title_display": "Coin: 14005",
+    "pub_created_display": [
+        "Grade IV, patrolmen"
+    ],
+    "call_number_display": [
+        "Coin 14005"
+    ],
+    "call_number_browse_s": [
+        "Coin 14005"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "61 \u00d7 57"
+    ],
+    "weight_s": [
+        "49.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14005\",\"call_number_browse\":\"Coin 14005\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grade IV, patrolmen"
+    ],
+    "issue_number_s": [
+        "9029"
+    ],
+    "issue_metal_s": [
+        "Silvered nickel"
+    ],
+    "issue_shape_s": [
+        "cross"
+    ],
+    "issue_color_s": [
+        "blue"
+    ],
+    "issue_place_s": [
+        "Cuba"
+    ],
+    "issue_region_s": [
+        "Cuba"
+    ],
+    "issue_obverse_figure_s": [
+        "MP"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on a blue enameled field"
+    ],
+    "issue_obverse_legend_s": [
+        "HONOR DEBER VALOR"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, on a white enameled band"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_reverse_figure_description_s": [
+        "enameled, surrounded by a white enameled band"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:201-6, 2:253-55 ",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  331"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b83cb545f650c017"
+    ],
+    "_version_": 1667145036512362496,
+    "timestamp": "2020-05-19T18:36:43.045Z"
+}

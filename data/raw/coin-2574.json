@@ -1,0 +1,106 @@
+{
+    "id": "coin-2574",
+    "title_display": "Coin: 2574",
+    "pub_created_display": [
+        "Antiochus II Theos (-261 to -246), unit, Tralles"
+    ],
+    "call_number_display": [
+        "Coin 2574"
+    ],
+    "call_number_browse_s": [
+        "Coin 2574"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "humped bull punched in round punch in left field"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17.5"
+    ],
+    "weight_s": [
+        "3.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2574\",\"call_number_browse\":\"Coin 2574\"}}",
+    "pub_date_start_sort": -261,
+    "pub_date_end_sort": -250,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus II Theos (-261 to -246)"
+    ],
+    "issue_place_s": [
+        "Tralles, Caria, Asia"
+    ],
+    "issue_city_s": [
+        "Tralles"
+    ],
+    "issue_state_s": [
+        "Caria"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with long wavy lock falling forward over shoulder, another wavy lock or spiral curl falling down back of neck"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod"
+    ],
+    "issue_reverse_symbol_s": [
+        "anchor"
+    ],
+    "issue_reverse_legend_s": [
+        "ANTIOXOY | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1616, in outer right  field",
+        "m1616a, in outer left field"
+    ],
+    "issue_references_s": [
+        "H & L  537b",
+        "WSM  1393v",
+        "Houghton  598v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d0f5ce3b888a1bf"
+    ],
+    "_version_": 1674371791098740736,
+    "timestamp": "2020-08-07T13:02:53.285Z"
+}

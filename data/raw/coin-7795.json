@@ -1,0 +1,94 @@
+{
+    "id": "coin-7795",
+    "title_display": "Coin: 7795",
+    "pub_created_display": [
+        "Constantine II, follis, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 7795"
+    ],
+    "call_number_browse_s": [
+        "Coin 7795"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7795\",\"call_number_browse\":\"Coin 7795\"}}",
+    "pub_date_start_sort": 320,
+    "pub_date_end_sort": 324,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4846"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Illyria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Illyria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head laureled"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "star"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wreath enclosing VOT / V"
+    ],
+    "issue_reverse_legend_s": [
+        "CAESARVM NOSTRORVM"
+    ],
+    "issue_references_s": [
+        "RIC 7 512.115"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d61f84fcd24abe85"
+    ],
+    "_version_": 1667145415286325248,
+    "timestamp": "2020-05-19T18:42:44.273Z"
+}

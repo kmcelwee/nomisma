@@ -1,0 +1,92 @@
+{
+    "id": "coin-716",
+    "title_display": "Coin: 716",
+    "pub_created_display": [
+        "Geoffrey II Martel (1040 to 1060), penny"
+    ],
+    "call_number_display": [
+        "Coin 716"
+    ],
+    "call_number_browse_s": [
+        "Coin 716"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 716\",\"call_number_browse\":\"Coin 716\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 1040,
+    "pub_date_end_sort": 1060,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "289"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Geoffrey II Martel (1040 to 1060)"
+    ],
+    "issue_place_s": [
+        "Anjou, France"
+    ],
+    "issue_state_s": [
+        "Anjou"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "alpha omega in quadrants"
+    ],
+    "issue_obverse_legend_s": [
+        "+GOSFRIDVSCOS"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_legend_s": [
+        "+VRBSADEGAIS"
+    ],
+    "issue_references_s": [
+        "P.d'A.  1469",
+        "Robert  4113"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "037f97322a7354e2"
+    ],
+    "_version_": 1667138203905163264,
+    "timestamp": "2020-05-19T16:48:06.964Z"
+}

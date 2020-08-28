@@ -1,0 +1,97 @@
+{
+    "id": "coin-15203",
+    "title_display": "Coin: 15203",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), corinth"
+    ],
+    "call_number_display": [
+        "Coin 15203"
+    ],
+    "call_number_browse_s": [
+        "Coin 15203"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "6.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15203\",\"call_number_browse\":\"Coin 15203\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "corinth"
+    ],
+    "issue_number_s": [
+        "9360"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Achaea, Roman Empire"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head of Antoninus r."
+    ],
+    "issue_obverse_legend_s": [
+        "inscription illegible"
+    ],
+    "issue_obverse_attributes_s": [
+        "Central hole on obverse"
+    ],
+    "issue_reverse_figure_s": [
+        "Chimaera r."
+    ],
+    "issue_reverse_legend_s": [
+        "[CLI C]O[R]"
+    ],
+    "issue_references_s": [
+        "Edw. 32 147"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3c1d320f279db510"
+    ],
+    "_version_": 1667144699280883712,
+    "timestamp": "2020-05-19T18:31:21.438Z"
+}

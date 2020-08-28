@@ -1,0 +1,91 @@
+{
+    "id": "coin-1722",
+    "title_display": "Coin: 1722",
+    "pub_created_display": [
+        "Alexander I (-498 to -454), tetrobol"
+    ],
+    "call_number_display": [
+        "Coin 1722"
+    ],
+    "call_number_browse_s": [
+        "Coin 1722"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Slice missing at 9 on obverse, weighs .59 grams"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1722\",\"call_number_browse\":\"Coin 1722\"}}",
+    "pub_date_start_sort": -498,
+    "pub_date_end_sort": -454,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrobol"
+    ],
+    "issue_number_s": [
+        "1108"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Alexander I (-498 to -454)"
+    ],
+    "issue_place_s": [
+        "Macedonia, Greece"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Horse"
+    ],
+    "issue_obverse_part_s": [
+        "advancing"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "free, border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Quadripartite incuse square"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_references_s": [
+        "BMC Mac. Macedonia p.157-6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "19a542d2a8d0ef62"
+    ],
+    "_version_": 1667138415134507008,
+    "timestamp": "2020-05-19T16:51:28.410Z"
+}

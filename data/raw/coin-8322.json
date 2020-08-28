@@ -1,0 +1,115 @@
+{
+    "id": "coin-8322",
+    "title_display": "Coin: 8322",
+    "pub_created_display": [
+        "Trajan (98 to 117), denarius serratus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 8322"
+    ],
+    "call_number_browse_s": [
+        "Coin 8322"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/20/1938"
+    ],
+    "find_feature_s": [
+        "Room B12 near arch."
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Cb645"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "2.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8322\",\"call_number_browse\":\"Coin 8322\"}}",
+    "pub_date_start_sort": 103,
+    "pub_date_end_sort": 111,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius serratus"
+    ],
+    "issue_number_s": [
+        "5314"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Trajan (98 to 117)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP.TRAIANO AVG.GER. DAC.P.M.TR.P.[COS].V.P.P."
+    ],
+    "issue_reverse_figure_s": [
+        "Dacia"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on shield; below, curved sword"
+    ],
+    "issue_reverse_legend_s": [
+        "S.P.Q.R OPTIMO PRINCIPI"
+    ],
+    "issue_references_s": [
+        "RIC 2 258 219"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "40fa02fd6572a95b"
+    ],
+    "_version_": 1667138187145773056,
+    "timestamp": "2020-05-19T16:47:50.983Z"
+}

@@ -1,0 +1,101 @@
+{
+    "id": "coin-1257",
+    "title_display": "Coin: 1257",
+    "pub_created_display": [
+        "bronze"
+    ],
+    "call_number_display": [
+        "Coin 1257"
+    ],
+    "call_number_browse_s": [
+        "Coin 1257"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1257\",\"call_number_browse\":\"Coin 1257\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -229,
+    "pub_date_end_sort": -168,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "704"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Acarnanian League"
+    ],
+    "issue_place_s": [
+        "Acarnania, Greece"
+    ],
+    "issue_state_s": [
+        "Acarnania"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded, laureate"
+    ],
+    "issue_reverse_figure_s": [
+        "Achelous"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "man-headed bull, bearded"
+    ],
+    "issue_references_s": [
+        "BMC, 6 p. 169 15",
+        "Sear  2313v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "821a5328ae27cf89"
+    ],
+    "_version_": 1667138209172160512,
+    "timestamp": "2020-05-19T16:48:11.989Z"
+}

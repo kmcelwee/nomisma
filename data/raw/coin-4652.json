@@ -1,0 +1,97 @@
+{
+    "id": "coin-4652",
+    "title_display": "Coin: 4652",
+    "pub_created_display": [
+        "Justin I (518 to 527), 2 1/2 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 4652"
+    ],
+    "call_number_browse_s": [
+        "Coin 4652"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_feature_s": [
+        "Kaoussie 4-6"
+    ],
+    "find_locus_s": [
+        "12-F Room 12 E. Part"
+    ],
+    "size_s": [
+        "8"
+    ],
+    "weight_s": [
+        "0.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4652\",\"call_number_browse\":\"Coin 4652\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 527,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 1/2 nummi"
+    ],
+    "issue_number_s": [
+        "2540"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_figure_description_s": [
+        " set in wreathe"
+    ],
+    "issue_references_s": [
+        " Justin I 34"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "53564c1a09d97b0f"
+    ],
+    "_version_": 1667145457057398784,
+    "timestamp": "2020-05-19T18:48:23.191Z"
+}

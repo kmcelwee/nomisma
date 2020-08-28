@@ -1,0 +1,104 @@
+{
+    "id": "coin-12",
+    "title_display": "Coin: 12",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 12"
+    ],
+    "call_number_browse_s": [
+        "Coin 12"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "8.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12\",\"call_number_browse\":\"Coin 12\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 512,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "37"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_series_s": [
+        "small flan"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, above",
+        "star, to left and right"
+    ],
+    "issue_references_s": [
+        " Anastasius 23v.",
+        " Anastasius 20v.",
+        "BMC.Byz. Anastasius 36v.",
+        "Sear  15"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4de7c83ab15b5afe"
+    ],
+    "_version_": 1667138423700324352,
+    "timestamp": "2020-05-19T16:51:36.577Z"
+}

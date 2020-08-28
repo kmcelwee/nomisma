@@ -1,0 +1,40 @@
+{
+    "id": "coin-12013",
+    "title_display": "Coin: 12013",
+    "call_number_display": [
+        "Coin 12013"
+    ],
+    "call_number_browse_s": [
+        "Coin 12013"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12013\",\"call_number_browse\":\"Coin 12013\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "8151"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "da77446679efdba8"
+    ],
+    "_version_": 1667960743826292736,
+    "timestamp": "2020-05-28T18:42:02.307Z"
+}

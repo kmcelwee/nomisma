@@ -1,0 +1,97 @@
+{
+    "id": "coin-5160",
+    "title_display": "Coin: 5160",
+    "call_number_display": [
+        "Coin 5160"
+    ],
+    "call_number_browse_s": [
+        "Coin 5160"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "42"
+    ],
+    "weight_s": [
+        "38.19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5160\",\"call_number_browse\":\"Coin 5160\"}}",
+    "donor_s": [
+        "M. Goodridge"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2860"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Napoleon Bonaparte"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of Napoleon Bonaparte facing right; lapels and collar visible"
+    ],
+    "issue_obverse_legend_s": [
+        "BONAPARTE GENERAL EN CHEF | A. BOVY"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Napoleon Bonaparte with arm raised on horseback, speaking to standing French soldiers with arms; Egyptian pyramids in background"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLDATS DU HAUT DE CES PYRAMIDES 40 SIECLES NOUS CONTEMPLENT. | NAPOLEON EN EGYPTE. / 25 JUILLET 1798."
+    ],
+    "issue_references_s": [
+        "Forrer vol. 1, p. 246 "
+    ],
+    "issue_artists_s": [
+        "Jean Fran\u00e7ois Antoine Bovy, A. BOVY"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "90210092fb861c00"
+    ],
+    "_version_": 1667138511258517504,
+    "timestamp": "2020-05-19T16:53:00.079Z"
+}

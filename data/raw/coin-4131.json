@@ -1,0 +1,113 @@
+{
+    "id": "coin-4131",
+    "title_display": "Coin: 4131",
+    "pub_created_display": [
+        "Justin I (518 to 527), 10 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 4131"
+    ],
+    "call_number_browse_s": [
+        "Coin 4131"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/6/1938"
+    ],
+    "find_feature_s": [
+        "Trench 4, over main North wall"
+    ],
+    "find_locus_s": [
+        "13-R (North)"
+    ],
+    "find_number_s": [
+        "Cb295"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.4"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4131\",\"call_number_browse\":\"Coin 4131\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 527,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 nummi"
+    ],
+    "issue_number_s": [
+        "2322"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        " Bust r. draped and diademed"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "[ ]"
+    ],
+    "issue_reverse_figure_description_s": [
+        "surmounted by cross. To l. and r. pellets. To l. upward, CON. To r. downward, CORDI"
+    ],
+    "issue_references_s": [
+        " Justin I 62",
+        " Justin I 54",
+        "BMC.Byz. Justin I 70",
+        "BN Justin I 8",
+        "Sear  107"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2d54eb0daf784892"
+    ],
+    "_version_": 1667138490337329152,
+    "timestamp": "2020-05-19T16:52:40.129Z"
+}

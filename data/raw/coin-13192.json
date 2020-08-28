@@ -1,0 +1,113 @@
+{
+    "id": "coin-13192",
+    "title_display": "Coin: 13192",
+    "pub_created_display": [
+        "Manuel Comnenus-Ducas (1230 to 1237), billon trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 13192"
+    ],
+    "call_number_browse_s": [
+        "Coin 13192"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Second half of reverse inscription missing. Clipped on top of obverse. Obverse legend: \u039f \u0391\u0393 \u0398\u0395 \u039f\u0394 \u03c9 in two columnar groups. Possible mintmark \u0393\u0393 above saint's head on obverse."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "2.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13192\",\"call_number_browse\":\"Coin 13192\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8541"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Manuel Comnenus-Ducas (1230 to 1237)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Theodore"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0395 \u039b\u039f \u0398\u0395 \u039f\u0394 \u03c9"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and St. Demetrius"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "ruler on left, Demetrius on right"
+    ],
+    "issue_reverse_legend_s": [
+        "M\u0391\u039d\u039f\u03a5\u0397\u039b \u039f\u039b"
+    ],
+    "issue_reverse_attributes_s": [
+        "sheathed sword, between figures"
+    ],
+    "issue_references_s": [
+        "DOC IV,p.576 8.1",
+        "Sear  2106"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0d3361133143d781"
+    ],
+    "_version_": 1667138317148225536,
+    "timestamp": "2020-05-19T16:49:54.962Z"
+}

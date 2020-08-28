@@ -1,0 +1,100 @@
+{
+    "id": "coin-8619",
+    "title_display": "Coin: 8619",
+    "pub_created_display": [
+        "Giovanni Maria I Visconti (1402 to 1412), grosso, Milan"
+    ],
+    "call_number_display": [
+        "Coin 8619"
+    ],
+    "call_number_browse_s": [
+        "Coin 8619"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "2.45"
+    ],
+    "weight_s": [
+        "2.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8619\",\"call_number_browse\":\"Coin 8619\"}}",
+    "pub_date_start_sort": 1402,
+    "pub_date_end_sort": 1412,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "5515"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Giovanni Maria I Visconti (1402 to 1412)"
+    ],
+    "issue_place_s": [
+        "Milan, Lombardy, Italy"
+    ],
+    "issue_city_s": [
+        "Milan"
+    ],
+    "issue_state_s": [
+        "Lombardy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_symbol_s": [
+        "snake"
+    ],
+    "issue_obverse_figure_description_s": [
+        "four arches framed with flowers, with snake flanked by I/M"
+    ],
+    "issue_obverse_legend_s": [
+        "IhAMES.MARIA.DVX.MEDIOLA\u0418I.3C`:"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated saint with nimbus, scepter in r.hand"
+    ],
+    "issue_reverse_legend_s": [
+        "S.AMBROSIV` MEDIOLA\u0418"
+    ],
+    "issue_references_s": [
+        "CNI V, p.104 7"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "11e38623c03244f6"
+    ],
+    "_version_": 1667138182971392000,
+    "timestamp": "2020-05-19T16:47:47.001Z"
+}

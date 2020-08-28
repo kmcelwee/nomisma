@@ -1,0 +1,99 @@
+{
+    "id": "coin-15168",
+    "title_display": "Coin: 15168",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), aureus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15168"
+    ],
+    "call_number_browse_s": [
+        "Coin 15168"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "7.10"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15168\",\"call_number_browse\":\"Coin 15168\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 156,
+    "pub_date_end_sort": 157,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "9325"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG-PIVS P P IMP II"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory walking l. with wreath and palm"
+    ],
+    "issue_reverse_legend_s": [
+        "TR POT X-X-COS IIII"
+    ],
+    "issue_references_s": [
+        "BMC.1 130 887-8",
+        "RIC 58 266a",
+        "Strack 316 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dfa073ad8bcdd23a"
+    ],
+    "_version_": 1667145481357099008,
+    "timestamp": "2020-05-19T18:43:47.283Z"
+}

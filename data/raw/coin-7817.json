@@ -1,0 +1,105 @@
+{
+    "id": "coin-7817",
+    "title_display": "Coin: 7817",
+    "pub_created_display": [
+        "John II Komnenos (1118 to 1143), hyperpyron, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7817"
+    ],
+    "call_number_browse_s": [
+        "Coin 7817"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "4.36"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7817\",\"call_number_browse\":\"Coin 7817\"}}",
+    "pub_date_start_sort": 1118,
+    "pub_date_end_sort": 1122,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "4880"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "John II Komnenos (1118 to 1143)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on a throne without back, blessing with his raised r. hand, holding Gospels in l. hand."
+    ],
+    "issue_obverse_legend_s": [
+        "IC  XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and Virgin"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "half-length emperor on l. and Virgin on r., holding patriarchal cross on long staff between them; emperor holds anexikakia; Manus Dei in upper l. field"
+    ],
+    "issue_reverse_legend_s": [
+        "+IW\u0394\u0404C\u03a0\u039f\u03a4\u0397    \u0398V | \u039c-\u03a1"
+    ],
+    "issue_references_s": [
+        "DOC vol. 4 pt. 1 pp. 255-256 1",
+        "BMC.Byz. vol. 2 p. 557 12",
+        "Sear  1938"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "57ef1c011202d1de"
+    ],
+    "_version_": 1667138180987486208,
+    "timestamp": "2020-05-19T16:47:45.110Z"
+}

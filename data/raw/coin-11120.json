@@ -1,0 +1,103 @@
+{
+    "id": "coin-11120",
+    "title_display": "Coin: 11120",
+    "pub_created_display": [
+        "Khusro I, Drachm, ?"
+    ],
+    "call_number_display": [
+        "Coin 11120"
+    ],
+    "call_number_browse_s": [
+        "Coin 11120"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obv./rev. blind spot; obv. Slightly double struck"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "4.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11120\",\"call_number_browse\":\"Coin 11120\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 531,
+    "pub_date_end_sort": 578,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7281"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Khusro I"
+    ],
+    "issue_series_s": [
+        "AS Type II/1"
+    ],
+    "issue_place_s": [
+        "?, Asuristan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "?"
+    ],
+    "issue_state_s": [
+        "Asuristan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Khusro I on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural elements, crescent above forehead, above covered korymbos; ribbons commencing to the left below crescent, running to left; double pearl diadem, diadem ribbons commencing to the left and right behind the shoulders; pointing upwards; earing consisting of three elements; neck-line of tunica edged with row of pearls; crescent on left and right shoulder; both shoulders decorated with crescent and star; double row of pearls running from the shoulders to the breast, star in upper left and right field; crescent at 3 h, 6 h and 9 h; rigged border"
+    ],
+    "issue_obverse_legend_s": [
+        "5 h l. o.hslwb, 11 h l.o. \u02bcpzwn\u00b4| Husraw abz\u014dn| \u201cKhusro, increase\u201d\r\n\t\u201cKhusro, increase\u201d"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Fire altar, base consisting of two elements, altar shaft, in its middle three parallel elements; two altar slabs; altar flames rendered as four tiers of four, three, two and one strokes respectively; star to left of altar flames, crescent to the right; to the left and the right of the altar attendant with stylized crown of Khusro I, right hand and left hand respectively holding spear, left and right hand respectively resting on scabbard, both frontal; regnal year (1-5) at 9 h; ridged border."
+    ],
+    "issue_reverse_legend_s": [
+        "RY 5"
+    ],
+    "issue_references_s": [
+        "SN  AS Type II/1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "52c99ae486cc3ae7"
+    ],
+    "_version_": 1667138162790498304,
+    "timestamp": "2020-05-19T16:47:27.755Z"
+}

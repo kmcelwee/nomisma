@@ -1,0 +1,113 @@
+{
+    "id": "coin-4900",
+    "title_display": "Coin: 4900",
+    "pub_created_display": [
+        "Geneva"
+    ],
+    "call_number_display": [
+        "Coin 4900"
+    ],
+    "call_number_browse_s": [
+        "Coin 4900"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "41"
+    ],
+    "technique_s": [
+        "struck"
+    ],
+    "weight_s": [
+        "46.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4900\",\"call_number_browse\":\"Coin 4900\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 1731,
+    "pub_date_end_sort": 1738,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2697"
+    ],
+    "issue_metal_s": [
+        "White metal"
+    ],
+    "issue_master_s": [
+        "Jean Dassier (1676 to 1763)"
+    ],
+    "issue_series_s": [
+        "British Worthies"
+    ],
+    "issue_place_s": [
+        "Geneva, Switzerland"
+    ],
+    "issue_city_s": [
+        "Geneva"
+    ],
+    "issue_region_s": [
+        "Switzerland"
+    ],
+    "issue_obverse_figure_s": [
+        "John Milton"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of John Milton, facing 3/4 to right; wearing plain collar, tassles, with mantle over right shoulder"
+    ],
+    "issue_obverse_legend_s": [
+        "IOANNES MILTON"
+    ],
+    "issue_reverse_figure_s": [
+        "Adam and Eve"
+    ],
+    "issue_reverse_part_s": [
+        "standing and seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eve, standing, and Adam, seated, before Tree of Knowledge of Good and Evil; serpent wrapped around top branches with apples; to left, wolves attack sheep, birds of prey attack small birds over mountains; to right, bush, Furies with lightning bolts above"
+    ],
+    "issue_reverse_legend_s": [
+        "DIRA DULCE CANIT ALTER HOMERUS. | I.D."
+    ],
+    "issue_references_s": [
+        " vol. 1, pp. 241-42, 268 C5",
+        "Forrer vol. 1, p. 513 "
+    ],
+    "issue_artists_s": [
+        "Jean Dassier, I.D."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "eee363966ee8722f"
+    ],
+    "_version_": 1667138242034532352,
+    "timestamp": "2020-05-19T16:48:43.328Z"
+}

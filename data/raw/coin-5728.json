@@ -1,0 +1,99 @@
+{
+    "id": "coin-5728",
+    "title_display": "Coin: 5728",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5728"
+    ],
+    "call_number_browse_s": [
+        "Coin 5728"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18.2"
+    ],
+    "weight_s": [
+        "3.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5728\",\"call_number_browse\":\"Coin 5728\"}}",
+    "pub_date_start_sort": -61,
+    "pub_date_end_sort": -61,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "3269"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Pupius Piso M. f. Frugi"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Mercury"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Mercury as herm r., wearing winged diadem; behind, wreath and star; before, dish or two-handled cup; border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Knife and patera"
+    ],
+    "issue_reverse_figure_description_s": [
+        "knife and patera; legend above; all within laurel wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "M \u0393ISO M F / FRVGI"
+    ],
+    "issue_references_s": [
+        "RRC  418/2b",
+        "Syd.  825",
+        "Sear  370"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "72d8ad75171b2d1a"
+    ],
+    "_version_": 1667138388358070272,
+    "timestamp": "2020-05-19T16:51:02.872Z"
+}

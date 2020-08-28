@@ -1,0 +1,121 @@
+{
+    "id": "coin-612",
+    "title_display": "Coin: 612",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 612"
+    ],
+    "call_number_browse_s": [
+        "Coin 612"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/23/1937"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Ca2262"
+    ],
+    "find_description_s": [
+        "N Pit of level of walls"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "2.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 612\",\"call_number_browse\":\"Coin 612\"}}",
+    "pub_date_start_sort": 517,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "135"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "?"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u0404"
+    ],
+    "issue_reverse_symbol_s": [
+        "?"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\u0404 without points"
+    ],
+    "issue_references_s": [
+        " Anastasius 63",
+        " Anastasius I 49",
+        "BMC.Byz. Anastasius 69",
+        "Sear  53"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d178a6b4c3d89d76"
+    ],
+    "_version_": 1667138461135536128,
+    "timestamp": "2020-05-19T16:52:12.279Z"
+}

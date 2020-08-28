@@ -1,0 +1,115 @@
+{
+    "id": "coin-2026",
+    "title_display": "Coin: 2026",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2026"
+    ],
+    "call_number_browse_s": [
+        "Coin 2026"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2026\",\"call_number_browse\":\"Coin 2026\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "1342"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "N. Fabius Pictor"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted Roma head r. w/ XVI monogram behind and control letter before."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dots",
+        "m77, XVI monogram."
+    ],
+    "issue_reverse_figure_s": [
+        "Q. Fabius Pictor"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Pictor l., sitting on chair; in l. hand, spear; in r. hand, apex. To r., shield inscribed  QVI / RIN. Control letter above. PICTOR downwards on l., N FABI upwards on r., ROMA in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "QVIRIN; N FABI; PICTOR; ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line"
+    ],
+    "issue_references_s": [
+        "RRC  268/1b",
+        "Syd.  517a",
+        "Sear  144"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "861a38b03a9a5f60"
+    ],
+    "_version_": 1667138471311966208,
+    "timestamp": "2020-05-19T16:52:22.030Z"
+}

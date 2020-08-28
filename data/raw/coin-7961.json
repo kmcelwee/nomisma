@@ -1,0 +1,121 @@
+{
+    "id": "coin-7961",
+    "title_display": "Coin: 7961",
+    "pub_created_display": [
+        "Constantine II, follis, Heraclea"
+    ],
+    "call_number_display": [
+        "Coin 7961"
+    ],
+    "call_number_browse_s": [
+        "Coin 7961"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/8/1934"
+    ],
+    "find_feature_s": [
+        "Room 2"
+    ],
+    "find_locus_s": [
+        "DH256"
+    ],
+    "find_number_s": [
+        "C3750"
+    ],
+    "find_description_s": [
+        "East end"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7961\",\"call_number_browse\":\"Coin 7961\"}}",
+    "pub_date_start_sort": 337,
+    "pub_date_end_sort": 340,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5006"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Heraclea, Thrace, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Heraclea"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust, rosette diademed, dr., cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN-TINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, one standard"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS"
+    ],
+    "issue_references_s": [
+        "RIC 8 431.15"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0cdcf03f6687ccc4"
+    ],
+    "_version_": 1667138264912363520,
+    "timestamp": "2020-05-19T16:49:05.146Z"
+}

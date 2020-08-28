@@ -1,0 +1,99 @@
+{
+    "id": "coin-2354",
+    "title_display": "Coin: 2354",
+    "pub_created_display": [
+        "Baduila (541 to 552), 2 1/2 nummi, Ticinum"
+    ],
+    "call_number_display": [
+        "Coin 2354"
+    ],
+    "call_number_browse_s": [
+        "Coin 2354"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "9"
+    ],
+    "weight_s": [
+        "1.01"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2354\",\"call_number_browse\":\"Coin 2354\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": 549,
+    "pub_date_end_sort": 552,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 1/2 nummi"
+    ],
+    "issue_number_s": [
+        "1514"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Baduila (541 to 552)"
+    ],
+    "issue_place_s": [
+        "Ticinum, Ostrogoths, Italy"
+    ],
+    "issue_city_s": [
+        "Ticinum"
+    ],
+    "issue_state_s": [
+        "Ostrogoths"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head of Anastasius I with paludamentum and diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANA STASIUS"
+    ],
+    "issue_reverse_figure_description_s": [
+        "inscription in wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "DNREX B"
+    ],
+    "issue_references_s": [
+        "MEC.1  164",
+        "Mettlich  95",
+        " Ostrogoths 88"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "00dcf91064172ece"
+    ],
+    "_version_": 1667138220002902016,
+    "timestamp": "2020-05-19T16:48:22.319Z"
+}

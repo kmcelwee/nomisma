@@ -1,0 +1,102 @@
+{
+    "id": "coin-1756",
+    "title_display": "Coin: 1756",
+    "pub_created_display": [
+        "Claudius (41 to 54), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1756"
+    ],
+    "call_number_browse_s": [
+        "Coin 1756"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Our specimen varies from the RIC description.  The reverse legend reads as E/O/ CIVES/ SERVATOS but the coin appear to have sustained no damage.  It may be an imitation."
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "36"
+    ],
+    "weight_s": [
+        "26.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1756\",\"call_number_browse\":\"Coin 1756\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 41,
+    "pub_date_end_sort": 41,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "1139"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Claudius"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "TI CLAUDIUS CAESAR AVG P M TR P"
+    ],
+    "issue_reverse_figure_s": [
+        "Oak wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wreath around the circumference, enclosing the legend"
+    ],
+    "issue_reverse_legend_s": [
+        "EX S C /OB /CIVES / SERVATOS"
+    ],
+    "issue_references_s": [
+        "RIC.1. Claudius 60",
+        "BMC.1. Claudius 117",
+        "Sear  1849v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0ee75ebd9c725f2b"
+    ],
+    "_version_": 1667138466656288768,
+    "timestamp": "2020-05-19T16:52:17.545Z"
+}

@@ -1,0 +1,79 @@
+{
+    "id": "coin-9254",
+    "title_display": "Coin: 9254",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9254"
+    ],
+    "call_number_browse_s": [
+        "Coin 9254"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Cast?"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/16/1937"
+    ],
+    "find_feature_s": [
+        "Central room"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca405"
+    ],
+    "find_description_s": [
+        "with apse to 3 M. (B)"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.49"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9254\",\"call_number_browse\":\"Coin 9254\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5899"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4f60582d2a3220b5"
+    ],
+    "_version_": 1667145330155585536,
+    "timestamp": "2020-05-19T18:42:24.614Z"
+}

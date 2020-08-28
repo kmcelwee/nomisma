@@ -1,0 +1,103 @@
+{
+    "id": "coin-13991",
+    "title_display": "Coin: 13991",
+    "pub_created_display": [
+        "Ptolemy I Soter (-323 to -282), obol, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 13991"
+    ],
+    "call_number_browse_s": [
+        "Coin 13991"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Two attributes, unclear. Helmet?"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "6.19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13991\",\"call_number_browse\":\"Coin 13991\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "obol"
+    ],
+    "issue_number_s": [
+        "9017"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy I Soter (-323 to -282)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Ptolemaic Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Ptolemaic Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of deified Alexander r. in elephant headdress, wih ram's horn at temple, wearing mitra"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eagle with spread wings standing l. on thunderbolt, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a0\u03a4\u039f\u039b\u0395\u039c\u0391\u0399\u039f\u03a5 | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_references_s": [
+        "Lorber I, v. II, 16 B43"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f593a763eb8ba505"
+    ],
+    "_version_": 1667138328908005376,
+    "timestamp": "2020-05-19T16:50:06.176Z"
+}

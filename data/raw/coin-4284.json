@@ -1,0 +1,91 @@
+{
+    "id": "coin-4284",
+    "title_display": "Coin: 4284",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4284"
+    ],
+    "call_number_browse_s": [
+        "Coin 4284"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Specific Gravity: 18.9225"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.549"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4284\",\"call_number_browse\":\"Coin 4284\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1423,
+    "pub_date_end_sort": 1437,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2455"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "_RACFOSCA_I | .S.M.VE_ _TI | DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in mandorla"
+    ],
+    "issue_reverse_legend_s": [
+        "_IT.T.XPEDAT\u2019.Q.TV REGISISTEDVCAT."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "381be3e93bcb0c11"
+    ],
+    "_version_": 1667138236087009280,
+    "timestamp": "2020-05-19T16:48:37.655Z"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "coin-12132",
+    "title_display": "Coin: 12132",
+    "pub_created_display": [
+        "Hadrian (117 to 138), Drachm, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 12132"
+    ],
+    "call_number_browse_s": [
+        "Coin 12132"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "27.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12132\",\"call_number_browse\":\"Coin 12132\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 131,
+    "pub_date_end_sort": 132,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8190"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "cuirassed"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "AVT KAI TPAI A\u0394PIA C\u0404B"
+    ],
+    "issue_reverse_figure_s": [
+        "Nile, river god"
+    ],
+    "issue_reverse_orientation_s": [
+        "reclining left"
+    ],
+    "issue_reverse_legend_s": [
+        "LI\u03da"
+    ],
+    "issue_references_s": [
+        "RPC III 5791"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cdd9bf36950fc6de"
+    ],
+    "_version_": 1667138301037903872,
+    "timestamp": "2020-05-19T16:49:39.599Z"
+}

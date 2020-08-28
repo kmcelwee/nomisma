@@ -1,0 +1,104 @@
+{
+    "id": "coin-12404",
+    "title_display": "Coin: 12404",
+    "pub_created_display": [
+        "Mithradates II (-123 to -88), Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12404"
+    ],
+    "call_number_browse_s": [
+        "Coin 12404"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "83 % Ag; 0.23 Au; 100 mg Ag"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "4.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12404\",\"call_number_browse\":\"Coin 12404\"}}",
+    "pub_date_start_sort": -123,
+    "pub_date_end_sort": -88,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8299"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_ruler_s": [
+        "Mithradates II (-123 to -88)"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "medium bearded, wearing diadem and torque ends in single pellet, earing visible dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        " seated on omphalos, holding bow, square four line legend"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 ME\u0393A\u039bOV \u0391\u03a1\u03a3\u0391\u039a\u039fV E\u03a0I\u03a6ANOV| BASILEOS MEGALOU ARSAKOU EPIPHANOUS| Of Great King Arsaces, God Manifest"
+    ],
+    "issue_references_s": [
+        "Sellwood  24.9",
+        "Shore  69"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "80c1e2bb79306282"
+    ],
+    "_version_": 1667138339764961280,
+    "timestamp": "2020-05-19T16:50:16.532Z"
+}

@@ -1,0 +1,111 @@
+{
+    "id": "coin-1451",
+    "title_display": "Coin: 1451",
+    "pub_created_display": [
+        "Augustus (-30 to 14), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1451"
+    ],
+    "call_number_browse_s": [
+        "Coin 1451"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1451\",\"call_number_browse\":\"Coin 1451\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "851"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Likely imitation. Laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "CAESAR.AVGVSTVS-DIVI F PATER PATRIAE"
+    ],
+    "issue_reverse_figure_s": [
+        "Gaius and Lucius Caesar"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Likely imitation. holding round shields; simpulum and lituus"
+    ],
+    "issue_reverse_legend_s": [
+        "C.L.CAESARES.AVGVSTI.F.COS.DESIG.PRINC.IVVENT"
+    ],
+    "issue_references_s": [
+        "RIC.1.  350",
+        "BMC.1.  519",
+        "Sear  1597"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8cbe856255780143"
+    ],
+    "_version_": 1667138411645894656,
+    "timestamp": "2020-05-19T16:51:25.083Z"
+}

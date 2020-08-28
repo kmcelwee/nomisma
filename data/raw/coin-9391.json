@@ -1,0 +1,113 @@
+{
+    "id": "coin-9391",
+    "title_display": "Coin: 9391",
+    "pub_created_display": [
+        "Tiberius, as, Carthago Nova"
+    ],
+    "call_number_display": [
+        "Coin 9391"
+    ],
+    "call_number_browse_s": [
+        "Coin 9391"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "RPC 183 gives lituus in front as additional feature; missing from this coin."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "9.61"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9391\",\"call_number_browse\":\"Coin 9391\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 14,
+    "pub_date_end_sort": 37,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "6011"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Carthago Nova, Spain, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Carthago Nova"
+    ],
+    "issue_state_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "TICAESAR DIVI AVGV F AVGVPM"
+    ],
+    "issue_reverse_figure_s": [
+        "Caligula"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bare headed"
+    ],
+    "issue_reverse_legend_s": [
+        "CCAESAR TI N  QVINQ IN V I N K"
+    ],
+    "issue_references_s": [
+        "RPC  183",
+        "PUL  812"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c0dcbd48c8abcd5c"
+    ],
+    "_version_": 1667138149600460800,
+    "timestamp": "2020-05-19T16:47:15.176Z"
+}

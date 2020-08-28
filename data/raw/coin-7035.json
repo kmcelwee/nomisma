@@ -1,0 +1,84 @@
+{
+    "id": "coin-7035",
+    "title_display": "Coin: 7035",
+    "pub_created_display": [
+        "semi-uncia"
+    ],
+    "call_number_display": [
+        "Coin 7035"
+    ],
+    "call_number_browse_s": [
+        "Coin 7035"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Martini sale, 1930, for $3.45"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "12.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7035\",\"call_number_browse\":\"Coin 7035\"}}",
+    "pub_date_start_sort": -279,
+    "pub_date_end_sort": -275,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "semi-uncia"
+    ],
+    "issue_number_s": [
+        "4389"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Campania, Italy"
+    ],
+    "issue_state_s": [
+        "Campania"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Acorn"
+    ],
+    "issue_reverse_figure_s": [
+        "Acorn"
+    ],
+    "issue_references_s": [
+        "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  69",
+        "Haeb. pl. 28 16",
+        "Aes Grave  1614"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a6ae36f1fef59f1a"
+    ],
+    "_version_": 1667138358427516928,
+    "timestamp": "2020-05-19T16:50:34.330Z"
+}

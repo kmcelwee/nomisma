@@ -1,0 +1,108 @@
+{
+    "id": "coin-13829",
+    "title_display": "Coin: 13829",
+    "pub_created_display": [
+        "Lucius Aurelius Cotta (-105 to ), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 13829"
+    ],
+    "call_number_browse_s": [
+        "Coin 13829"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13829\",\"call_number_browse\":\"Coin 13829\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8873"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_edge_s": [
+        "serrated"
+    ],
+    "issue_ruler_s": [
+        "Lucius Aurelius Cotta (-105 to )"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust of Vulcan"
+    ],
+    "issue_obverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "draped and wearing cap bound with laurel-wreath, with tongs over shoulder; around, wreath"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_reverse_figure_description_s": [
+        "eagle on thunderbolt r.; around, laurel-wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "L. COT"
+    ],
+    "issue_references_s": [
+        "RRC 322 314/1d",
+        "PUL 14 167",
+        "Syd. 79 577"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0392567e52bf9589"
+    ],
+    "_version_": 1667138523427241984,
+    "timestamp": "2020-05-19T16:53:11.685Z"
+}

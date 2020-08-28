@@ -1,0 +1,91 @@
+{
+    "id": "coin-8511",
+    "title_display": "Coin: 8511",
+    "pub_created_display": [
+        "Unknown, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8511"
+    ],
+    "call_number_browse_s": [
+        "Coin 8511"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin is illegible but Waage thought probably Senatorial bronze of Antioch"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/31/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca1810"
+    ],
+    "find_description_s": [
+        "Dig IV room 1, over cement floor 4.50M"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8511\",\"call_number_browse\":\"Coin 8511\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 100,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5419"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_legend_s": [
+        "Illegible"
+    ],
+    "issue_reverse_legend_s": [
+        "Illegible"
+    ],
+    "issue_references_s": [
+        "Waage  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5cf5562333f3d8c7"
+    ],
+    "_version_": 1667138346862772224,
+    "timestamp": "2020-05-19T16:50:23.299Z"
+}

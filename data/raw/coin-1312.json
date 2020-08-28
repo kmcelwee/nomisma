@@ -1,0 +1,112 @@
+{
+    "id": "coin-1312",
+    "title_display": "Coin: 1312",
+    "pub_created_display": [
+        "Nero (54 to 68), bronze, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 1312"
+    ],
+    "call_number_browse_s": [
+        "Coin 1312"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "6.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1312\",\"call_number_browse\":\"Coin 1312\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 67,
+    "pub_date_end_sort": 68,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "734"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_master_s": [
+        "T. Claudius Anaxilaus"
+    ],
+    "issue_place_s": [
+        "Corinth, Achaea, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CAESAR"
+    ],
+    "issue_reverse_figure_s": [
+        "Nero"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding patera, Tyche turreted crowning him with right hand, holding cornucopiae in left"
+    ],
+    "issue_reverse_legend_s": [
+        "TI CL ANAXILAO II VIR COR"
+    ],
+    "issue_references_s": [
+        "RPC.1  1207"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a251520f2bf2be82"
+    ],
+    "_version_": 1667138210014167040,
+    "timestamp": "2020-05-19T16:48:12.792Z"
+}

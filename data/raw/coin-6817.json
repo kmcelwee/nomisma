@@ -1,0 +1,102 @@
+{
+    "id": "coin-6817",
+    "title_display": "Coin: 6817",
+    "pub_created_display": [
+        "Tigranes II (-95 to -56), 4 chalci, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 6817"
+    ],
+    "call_number_browse_s": [
+        "Coin 6817"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Possible overstrike: understrike visible on obverse at 2 o'clock - prow of ship? (Aradus, like 2237v in Duyrat \"Arados Hellenistique\"?)"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "6.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6817\",\"call_number_browse\":\"Coin 6817\"}}",
+    "pub_date_start_sort": -95,
+    "pub_date_end_sort": -56,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 chalci"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tigranes II (-95 to -56)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Syria, Armenia"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing armenian tiara"
+    ],
+    "issue_reverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing turreted crown, holding palm branch, river-god Orontes swimming at her feet"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9N \u03a4\u0399\u0393\u03a1\u0391\u039d\u039f\u03a5"
+    ],
+    "issue_references_s": [
+        "Bed.  92",
+        "Nercessian  051",
+        "M&D  24"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bd1814ceb80b5873"
+    ],
+    "_version_": 1673557613187432448,
+    "timestamp": "2020-07-29T13:21:52.723Z"
+}

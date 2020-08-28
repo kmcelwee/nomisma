@@ -1,0 +1,103 @@
+{
+    "id": "coin-1194",
+    "title_display": "Coin: 1194",
+    "pub_created_display": [
+        "Tetradrachm, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1194"
+    ],
+    "call_number_browse_s": [
+        "Coin 1194"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "16.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1194\",\"call_number_browse\":\"Coin 1194\"}}",
+    "pub_date_start_sort": -305,
+    "pub_date_end_sort": -295,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "644"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Kore"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "\u039a\u039f\u03a1\u0391\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Nike"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0393\u0391\u0398\u039f\u039a\u039b\u0395\u0399\u039f\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "triskeles, left",
+        "trophy, to right, Nike erects trophy"
+    ],
+    "issue_references_s": [
+        "Agoth  187",
+        "ANS Part 5, Sicily III 669v",
+        "Sear  973v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d2e9ccfaf0a8ae4d"
+    ],
+    "_version_": 1667138453848981504,
+    "timestamp": "2020-05-19T16:52:05.331Z"
+}

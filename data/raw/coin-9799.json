@@ -1,0 +1,107 @@
+{
+    "id": "coin-9799",
+    "title_display": "Coin: 9799",
+    "pub_created_display": [
+        "John VIII Palaeologus (1392 to 1448)"
+    ],
+    "call_number_display": [
+        "Coin 9799"
+    ],
+    "call_number_browse_s": [
+        "Coin 9799"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Chasing to bring out detail and floral embellishments (16th century restyling); loop attached with circular metal band"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "99"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9799\",\"call_number_browse\":\"Coin 9799\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 1438,
+    "pub_date_end_sort": 1439,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6166"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "John VIII Palaeologus (1392 to 1448)"
+    ],
+    "issue_master_s": [
+        "Antonio di Puccio Pisano (Pisanello) (1395 to 1455)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bearded, tall hat with pointed brim"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0399\u03c9\u0391\u039d\u039d\u0397C BACI\u039b\u0395VC KAI AVTO KPAT\u03c9P P\u03c9MAI\u03c9N O \u03a0\u0391V\u0391\u0399\u039f\u039b\u039f\u0393\u039fC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "on horseback"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rocky landscape, page on horseback, praying to road-side crucifix"
+    ],
+    "issue_reverse_legend_s": [
+        "OPVS PISANI PICTORIS | EP\u0393\u039f\u039d \u03a4\u039fV \u03a0\u0399C\u0391\u039d\u039fV \u0396\u03c9\u0393P\u0391\u03a6\u039f\u039d"
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  19",
+        "Currency of Fame  4"
+    ],
+    "issue_artists_s": [
+        "Antonio di Puccio Pisano (Pisanello), OPVS PISANI PICTORIS"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "93cb700d2c435371"
+    ],
+    "_version_": 1667138138099679232,
+    "timestamp": "2020-05-19T16:47:04.210Z"
+}

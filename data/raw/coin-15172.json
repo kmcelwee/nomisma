@@ -1,0 +1,99 @@
+{
+    "id": "coin-15172",
+    "title_display": "Coin: 15172",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15172"
+    ],
+    "call_number_browse_s": [
+        "Coin 15172"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15172\",\"call_number_browse\":\"Coin 15172\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 160,
+    "pub_date_end_sort": 161,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "9329"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG PIVS P P TR P XXIIII"
+    ],
+    "issue_reverse_figure_s": [
+        "Dr. female figure standing facing, head l., with caduceus in right hand, left arm resting on column"
+    ],
+    "issue_reverse_legend_s": [
+        "FELIC SAEC COS IIII"
+    ],
+    "issue_references_s": [
+        "BMC.1 150 1006-7",
+        "RIC 64 309",
+        "Strack 380 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "49d1206b6f3c9673"
+    ],
+    "_version_": 1667145481412673536,
+    "timestamp": "2020-05-19T18:51:23.374Z"
+}

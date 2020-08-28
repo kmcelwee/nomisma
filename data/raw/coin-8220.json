@@ -1,0 +1,100 @@
+{
+    "id": "coin-8220",
+    "title_display": "Coin: 8220",
+    "pub_created_display": [
+        "unit, Onuba"
+    ],
+    "call_number_display": [
+        "Coin 8220"
+    ],
+    "call_number_browse_s": [
+        "Coin 8220"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "7.11"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8220\",\"call_number_browse\":\"Coin 8220\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -100,
+    "pub_date_end_sort": -75,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "5231"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Onuba, Hispania Ulterior, Hispania"
+    ],
+    "issue_city_s": [
+        "Onuba"
+    ],
+    "issue_state_s": [
+        "Hispania Ulterior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "dressing a helmet"
+    ],
+    "issue_obverse_legend_s": [
+        "C.AELI.Q.PVBLILI"
+    ],
+    "issue_reverse_figure_s": [
+        "Corn ear"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two of them"
+    ],
+    "issue_reverse_legend_s": [
+        "ONVBA"
+    ],
+    "issue_references_s": [
+        "CNH 387 4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0ced0ffc38e29e8a"
+    ],
+    "_version_": 1667138348709314560,
+    "timestamp": "2020-05-19T16:50:25.060Z"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "coin-2621",
+    "title_display": "Coin: 2621",
+    "pub_created_display": [
+        "Charles I of Anjou (1278 to 1285), pierreale, Naples"
+    ],
+    "call_number_display": [
+        "Coin 2621"
+    ],
+    "call_number_browse_s": [
+        "Coin 2621"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2621\",\"call_number_browse\":\"Coin 2621\"}}",
+    "donor_s": [
+        "F.J. Mather"
+    ],
+    "pub_date_start_sort": 1277,
+    "pub_date_end_sort": 1285,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "pierreale"
+    ],
+    "issue_number_s": [
+        "1642"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Charles I of Anjou (1278 to 1285)"
+    ],
+    "issue_place_s": [
+        "Naples, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Naples"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_figure_description_s": [
+        "shield of Jerusalem; in field l. and r., rosette between two stars; above, crescent between two stars"
+    ],
+    "issue_obverse_legend_s": [
+        "\u253c KAROL' DEI GRA IERL'M SICILIE REX"
+    ],
+    "issue_reverse_figure_s": [
+        "Annunciation"
+    ],
+    "issue_reverse_figure_description_s": [
+        "angel's r. touches Mary's l.; potted plant between"
+    ],
+    "issue_reverse_legend_s": [
+        "\u253c AUE GRACIA PLENA DOMINUS TECUM"
+    ],
+    "issue_references_s": [
+        "MEC 14  677"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8a1c0d422dcd0cfb"
+    ],
+    "_version_": 1667138423440277504,
+    "timestamp": "2020-05-19T16:51:36.332Z"
+}

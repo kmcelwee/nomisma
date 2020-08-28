@@ -1,0 +1,111 @@
+{
+    "id": "coin-12385",
+    "title_display": "Coin: 12385",
+    "pub_created_display": [
+        "Manuel I Komnenos (1143 to 1180), billon trachy, Tarnovo"
+    ],
+    "call_number_display": [
+        "Coin 12385"
+    ],
+    "call_number_browse_s": [
+        "Coin 12385"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bulgarian/Epirote/Latin imitation of Manuel I Komnenos' fourth coinage. Inscriptions damaged."
+    ],
+    "find_place_s": [
+        "Tarnovo, Tarnovo, Bulgaria"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "3.58"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12385\",\"call_number_browse\":\"Coin 12385\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 1195,
+    "pub_date_end_sort": 1200,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8316"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Manuel I Komnenos (1143 to 1180)"
+    ],
+    "issue_place_s": [
+        "Tarnovo, Tarnovo, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Tarnovo"
+    ],
+    "issue_state_s": [
+        "Tarnovo"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ seated with book"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Asterisk above cushion of throne."
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and Virgin"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u0391\u039d\u039f\u03a5\u0397\u039b \u0394\u0395\u03a3\u03a0O\u03a4 \u039c\u0398"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum, in right hand",
+        "globus cruciger, in left hand"
+    ],
+    "issue_references_s": [
+        "DOC p.437 1a.1",
+        "Iurukova p.192 A"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0d19a37363439c48"
+    ],
+    "_version_": 1667138304663879680,
+    "timestamp": "2020-05-19T16:49:43.055Z"
+}

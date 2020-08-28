@@ -1,0 +1,89 @@
+{
+    "id": "coin-2822",
+    "title_display": "Coin: 2822",
+    "call_number_display": [
+        "Coin 2822"
+    ],
+    "call_number_browse_s": [
+        "Coin 2822"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2822\",\"call_number_browse\":\"Coin 2822\"}}",
+    "donor_s": [
+        "E. R. Morsemen"
+    ],
+    "pub_date_start_sort": 1896,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1788"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "parallelogram"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Arm"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lettering above and below heavily-muscled arm curled in fist"
+    ],
+    "issue_obverse_legend_s": [
+        "HEAVY WEIGHT WRESTLING| 1896"
+    ],
+    "issue_reverse_figure_s": [
+        "Capitalized P"
+    ],
+    "issue_reverse_figure_description_s": [
+        "capitalized P for Princeton University; band extending through the letter with legend"
+    ],
+    "issue_reverse_legend_s": [
+        "PRINCETON| U.T.| A.A."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "959661bbc54ef572"
+    ],
+    "_version_": 1667138223993782272,
+    "timestamp": "2020-05-19T16:48:26.124Z"
+}

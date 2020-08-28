@@ -1,0 +1,88 @@
+{
+    "id": "coin-13621",
+    "title_display": "Coin: 13621",
+    "pub_created_display": [
+        "Civic Coinage, chalkous, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 13621"
+    ],
+    "call_number_browse_s": [
+        "Coin 13621"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "12.63"
+    ],
+    "weight_s": [
+        "1.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13621\",\"call_number_browse\":\"Coin 13621\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8720"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_ruler_s": [
+        "Civic Coinage"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust of tyche"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0394\u039a\u03a3 \u0394\u0399\u039f\u03a5 \u0391"
+    ],
+    "issue_references_s": [
+        "Sellwood  92.37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "31510b6d1f450e7c"
+    ],
+    "_version_": 1667138323336921088,
+    "timestamp": "2020-05-19T16:50:00.864Z"
+}

@@ -1,0 +1,119 @@
+{
+    "id": "coin-4044",
+    "title_display": "Coin: 4044",
+    "pub_created_display": [
+        "Justin I (518 to 527), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 4044"
+    ],
+    "call_number_browse_s": [
+        "Coin 4044"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "8/18/1938"
+    ],
+    "find_feature_s": [
+        "Trench 12; 2M above West wall of pool"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb4407"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "13.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4044\",\"call_number_browse\":\"Coin 4044\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 522,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "2284"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with diadem, cuirass and paludamentum"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "stars"
+    ],
+    "issue_reverse_figure_description_s": [
+        "above, cross. To l. and r. stars."
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_references_s": [
+        " Justin I 11\u0394",
+        "BMC.Byz. Justin I 20",
+        "BN Justin I 4",
+        "Sear Justin I 62",
+        " Justin I 8"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "44860c93e200ee12"
+    ],
+    "_version_": 1667138111746867200,
+    "timestamp": "2020-05-19T16:46:39.075Z"
+}

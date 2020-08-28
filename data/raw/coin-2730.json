@@ -1,0 +1,110 @@
+{
+    "id": "coin-2730",
+    "title_display": "Coin: 2730",
+    "pub_created_display": [
+        "Martin Van Buren (1782 to 1862)"
+    ],
+    "call_number_display": [
+        "Coin 2730"
+    ],
+    "call_number_browse_s": [
+        "Coin 2730"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bronze restrike post-1900 US Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2730\",\"call_number_browse\":\"Coin 2730\"}}",
+    "donor_s": [
+        "Rodman Wanamaker"
+    ],
+    "pub_date_start_sort": 1900,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1728"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Martin Van Buren (1782 to 1862)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "Indian Peace Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust to r. with legend"
+    ],
+    "issue_obverse_legend_s": [
+        "MARTIN VAN BUREN PRESIDENT OF THE UNITED STATES| 1837"
+    ],
+    "issue_reverse_symbol_s": [
+        "pipe, hatchet"
+    ],
+    "issue_reverse_part_s": [
+        "clasped hands"
+    ],
+    "issue_reverse_figure_description_s": [
+        "lettering with clasped hands below a crossed peace pipe and tomahawk"
+    ],
+    "issue_reverse_legend_s": [
+        "PEACE AND FRIENDSHIP"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  IP-18",
+        "Belden  30",
+        "Prucha  "
+    ],
+    "issue_artists_s": [
+        "Moritz Furst, FURST F.",
+        "John Reich"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7342f6a0b742a25f"
+    ],
+    "_version_": 1667138223211544576,
+    "timestamp": "2020-05-19T16:48:25.376Z"
+}

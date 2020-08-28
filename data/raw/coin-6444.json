@@ -1,0 +1,93 @@
+{
+    "id": "coin-6444",
+    "title_display": "Coin: 6444",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6444"
+    ],
+    "call_number_browse_s": [
+        "Coin 6444"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the First Uniform Series of 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "32.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6444\",\"call_number_browse\":\"Coin 6444\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3869"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS MAGNUS REX CHRISTIANISSIMUS ."
+    ],
+    "issue_reverse_figure_s": [
+        "Neptune"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Neptune shown sitting on a wave surrounded by four sea horses.  He holds his trident in one hand and a flag embroidered with fleurs-de-lys with the other."
+    ],
+    "issue_reverse_legend_s": [
+        "BATAVIS CAESIS . | CAYANA RECUPERATA | M . DC . LXXVI ."
+    ],
+    "issue_references_s": [
+        "M\u00e9dailles et Jetons 1, p. XLVII 6",
+        "La M\u00e9daille p. 282-83 393",
+        "Medailles, 1702 p. 158 v"
+    ],
+    "issue_artists_s": [
+        "Jean Mauger"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "53619f66b23f1998"
+    ],
+    "_version_": 1667138369957658624,
+    "timestamp": "2020-05-19T16:50:45.327Z"
+}

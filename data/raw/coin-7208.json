@@ -1,0 +1,82 @@
+{
+    "id": "coin-7208",
+    "title_display": "Coin: 7208",
+    "pub_created_display": [
+        "35 dollars"
+    ],
+    "call_number_display": [
+        "Coin 7208"
+    ],
+    "call_number_browse_s": [
+        "Coin 7208"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "71x91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7208\",\"call_number_browse\":\"Coin 7208\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "35 dollars"
+    ],
+    "issue_number_s": [
+        "4517"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_series_s": [
+        "January 14, 1779"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Seal of a plow in a field with motto HINC OPES (Hence our wealth)."
+    ],
+    "issue_obverse_legend_s": [
+        "The United States OF NORTH AMERICA | THIRTY FIVE DOLLARS. | Thirty-five Dollars. THE BEARER is en-titled to RECEIVE Thirty-five Spanish mil-led DOLLARS, or an equal Sum in GOLD or SILVER, according to a Resolution of CON-GRESS of the 14th January, 1779. 35 Dollars."
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nature print of two willow leaves."
+    ],
+    "issue_reverse_legend_s": [
+        "Thirty-five Dollars. | Printed by HALL and SELLERS. 1779."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0b5df592493c578c"
+    ],
+    "_version_": 1667316329322905600,
+    "timestamp": "2020-05-21T15:59:20.600Z"
+}

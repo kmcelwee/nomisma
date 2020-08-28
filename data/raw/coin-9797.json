@@ -1,0 +1,103 @@
+{
+    "id": "coin-9797",
+    "title_display": "Coin: 9797",
+    "pub_created_display": [
+        "Borso d'Este (1413 to 1471)"
+    ],
+    "call_number_display": [
+        "Coin 9797"
+    ],
+    "call_number_browse_s": [
+        "Coin 9797"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Hole in upper center"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "80"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "159.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9797\",\"call_number_browse\":\"Coin 9797\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 1460,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6181"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Borso d'Este (1413 to 1471)"
+    ],
+    "issue_master_s": [
+        "Jacopo Lixignolo"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "chin-length hair, soft crown cap, elaborate robe"
+    ],
+    "issue_obverse_legend_s": [
+        "BORSIVS DVX MVTINE ET REGII MARCIO ESTENSIS RODIGIIQ COMES ETC"
+    ],
+    "issue_reverse_figure_s": [
+        "Unicorn"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rocky landscape, dipping horn into stream, shining sun"
+    ],
+    "issue_reverse_legend_s": [
+        "OPVS JACOBVS LIXIGNOLO MCCCCLX"
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  94"
+    ],
+    "issue_artists_s": [
+        "Jacopo Lixignolo, OPVS JACOPO LIXIGNOLO"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3a36eeb2f48e36d1"
+    ],
+    "_version_": 1667138138035716096,
+    "timestamp": "2020-05-19T16:47:04.146Z"
+}

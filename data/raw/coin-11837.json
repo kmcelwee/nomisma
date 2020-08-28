@@ -1,0 +1,118 @@
+{
+    "id": "coin-11837",
+    "title_display": "Coin: 11837",
+    "pub_created_display": [
+        "Nicephorus III (1078 to 1081), follis"
+    ],
+    "call_number_display": [
+        "Coin 11837"
+    ],
+    "call_number_browse_s": [
+        "Coin 11837"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria, Asia Minor"
+    ],
+    "find_description_s": [
+        "26-33; 19A 33"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22.4"
+    ],
+    "weight_s": [
+        "3.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11837\",\"call_number_browse\":\"Coin 11837\"}}",
+    "pub_date_start_sort": 1075,
+    "pub_date_end_sort": 1080,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7928"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Nicephorus III (1078 to 1081)"
+    ],
+    "issue_series_s": [
+        "I.53"
+    ],
+    "issue_place_s": [
+        "Asia Minor"
+    ],
+    "issue_region_s": [
+        "Asia Minor"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ seated"
+    ],
+    "issue_obverse_symbol_s": [
+        "Christ with St. Andrew's cross in arm"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Christ (Type VIIb) facing, having long, slightly forked beard and cross nimbus with one pellet in each arm of cross, wearing tunic and himation; r. hand blessing inwards in sling of cloak, left holds book, with X on cover, from beneath"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "Figure, Christ with nimbus having dot in each arm"
+    ],
+    "issue_reverse_figure_s": [
+        "Latin Cross"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Latin Cross with one large and two small pellets at each extremity, small cross at intersection, and pellet with floral ornaments to left and right at base. Above, crescents to left and right."
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, Latin Cross"
+    ],
+    "issue_references_s": [
+        "BL 3.2 I.53"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d10305997e73297"
+    ],
+    "_version_": 1667144764181446656,
+    "timestamp": "2020-05-19T18:32:23.493Z"
+}

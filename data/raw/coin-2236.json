@@ -1,0 +1,128 @@
+{
+    "id": "coin-2236",
+    "title_display": "Coin: 2236",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), double, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 2236"
+    ],
+    "call_number_browse_s": [
+        "Coin 2236"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Exergue off flan, illegible traces of magistrate's mark above legend"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "0814/1938"
+    ],
+    "find_locus_s": [
+        "S 18-J"
+    ],
+    "find_number_s": [
+        "Cb4356"
+    ],
+    "find_description_s": [
+        "W. stoa, surface"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "19.5"
+    ],
+    "weight_s": [
+        "6.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2236\",\"call_number_browse\":\"Coin 2236\"}}",
+    "pub_date_start_sort": -286,
+    "pub_date_end_sort": -281,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "1446"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Medusa"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "winged head"
+    ],
+    "issue_reverse_figure_s": [
+        "Bull"
+    ],
+    "issue_reverse_part_s": [
+        "charging"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1430, in the exergue",
+        "m1446, above bull"
+    ],
+    "issue_references_s": [
+        "H & L  21.4",
+        "WSM  924",
+        "Houghton  9",
+        "Sear  6849"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0477978872c9f7ae"
+    ],
+    "_version_": 1669751298921070592,
+    "timestamp": "2020-06-17T13:02:08.583Z"
+}

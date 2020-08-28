@@ -1,0 +1,94 @@
+{
+    "id": "coin-5261",
+    "title_display": "Coin: 5261",
+    "pub_created_display": [
+        "1 Cent, Newburgh"
+    ],
+    "call_number_display": [
+        "Coin 5261"
+    ],
+    "call_number_browse_s": [
+        "Coin 5261"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "10.123"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5261\",\"call_number_browse\":\"Coin 5261\"}}",
+    "pub_date_start_sort": 1787,
+    "pub_date_end_sort": 1787,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cent"
+    ],
+    "issue_number_s": [
+        "2933"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_master_s": [
+        "James Jarvis"
+    ],
+    "issue_workshop_s": [
+        "Machin's Mills"
+    ],
+    "issue_place_s": [
+        "Newburgh, New York, United States of America"
+    ],
+    "issue_city_s": [
+        "Newburgh"
+    ],
+    "issue_state_s": [
+        "New York"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Sundial"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Sun w/face; rays shining down on sundial"
+    ],
+    "issue_obverse_legend_s": [
+        "*FUGIO.*  *1787* | *MIND*YOUR*OWN*BUSINESS*"
+    ],
+    "issue_reverse_figure_description_s": [
+        "13 rings interlinked, surrounding center text"
+    ],
+    "issue_reverse_legend_s": [
+        "UNITED * STATES * | WE ARE ONE"
+    ],
+    "issue_references_s": [
+        "Breen  1310"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "34f73fcc5b5d76c5"
+    ],
+    "_version_": 1667138133512159232,
+    "timestamp": "2020-05-19T16:46:59.833Z"
+}

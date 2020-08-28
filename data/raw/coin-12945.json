@@ -1,0 +1,98 @@
+{
+    "id": "coin-12945",
+    "title_display": "Coin: 12945",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 12945"
+    ],
+    "call_number_browse_s": [
+        "Coin 12945"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19.88"
+    ],
+    "weight_s": [
+        "3.334"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12945\",\"call_number_browse\":\"Coin 12945\"}}",
+    "pub_date_start_sort": -109,
+    "pub_date_end_sort": -108,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8473"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Mn. Aquilius"
+    ],
+    "issue_place_s": [
+        "Rome"
+    ],
+    "issue_region_s": [
+        "Rome"
+    ],
+    "issue_obverse_figure_s": [
+        "Sol"
+    ],
+    "issue_obverse_symbol_s": [
+        "x"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_s": [
+        "Luna"
+    ],
+    "issue_reverse_part_s": [
+        "riding in a biga"
+    ],
+    "issue_reverse_orientation_s": [
+        "advancing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "starry heavens"
+    ],
+    "issue_reverse_legend_s": [
+        "MN.AQUIL ROMA"
+    ],
+    "issue_references_s": [
+        "RRC 312 303",
+        "RRC  304"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aaca6ede1a3df425"
+    ],
+    "_version_": 1667138314453385216,
+    "timestamp": "2020-05-19T16:49:52.392Z"
+}

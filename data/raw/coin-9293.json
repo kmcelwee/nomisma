@@ -1,0 +1,100 @@
+{
+    "id": "coin-9293",
+    "title_display": "Coin: 9293",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9293"
+    ],
+    "call_number_browse_s": [
+        "Coin 9293"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9293\",\"call_number_browse\":\"Coin 9293\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 539,
+    "pub_date_end_sort": 540,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Wearing diadem with pendilia and holding a globis cruciger in right hand"
+    ],
+    "issue_obverse_legend_s": [
+        "DVNIVSTINI ANVSPP AVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO XIII|\u0398VMO"
+    ],
+    "issue_references_s": [
+        "MIB Justinian I 143",
+        "DOC Justinian I 215c",
+        "BMC Justinian I 285",
+        "BL Justinian I 32"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aa300ad91126bfc0"
+    ],
+    "_version_": 1673365706677157888,
+    "timestamp": "2020-07-27T10:31:36.418Z"
+}

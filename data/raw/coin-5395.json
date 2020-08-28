@@ -1,0 +1,111 @@
+{
+    "id": "coin-5395",
+    "title_display": "Coin: 5395",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5395"
+    ],
+    "call_number_browse_s": [
+        "Coin 5395"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "17.0"
+    ],
+    "weight_s": [
+        "3.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5395\",\"call_number_browse\":\"Coin 5395\"}}",
+    "pub_date_start_sort": -59,
+    "pub_date_end_sort": -59,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "3035"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Nonius Sufenas"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Saturn"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of Saturn, bare, r.; harpa behind; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "SVFENAS - S C"
+    ],
+    "issue_obverse_attributes_s": [
+        "harpa, harpa over shoulder of Saturn"
+    ],
+    "issue_reverse_figure_s": [
+        "Roma"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Roma seated l. on armor, holds scepter in r. hand and sword in l. hand; Victory standing behind, holding palm branch in l. hand and crowning Roma with r. hand; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0393R L V \u0393 F | SEX NONI"
+    ],
+    "issue_references_s": [
+        "RRC  421/1",
+        "Syd.  885",
+        "Sear  377"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "145ebfa6c465076d"
+    ],
+    "_version_": 1667138395395063808,
+    "timestamp": "2020-05-19T16:51:09.583Z"
+}

@@ -1,0 +1,118 @@
+{
+    "id": "coin-8323",
+    "title_display": "Coin: 8323",
+    "pub_created_display": [
+        "Trajan (98 to 117), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 8323"
+    ],
+    "call_number_browse_s": [
+        "Coin 8323"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/16/1938"
+    ],
+    "find_feature_s": [
+        "Sub room C3"
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Cb3928"
+    ],
+    "find_description_s": [
+        "Above bedrock with basket Bl."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "34"
+    ],
+    "weight_s": [
+        "27.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8323\",\"call_number_browse\":\"Coin 8323\"}}",
+    "pub_date_start_sort": 103,
+    "pub_date_end_sort": 111,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "5315"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Trajan (98 to 117)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP.CAES.NERVAE.TRAIANO.AVG.GER.DAC.P.M.[TR].P.COS.V.P.P."
+    ],
+    "issue_reverse_figure_s": [
+        "Abundantia"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding ears of corn and cornicopiae; at her feet, a child holding roll."
+    ],
+    "issue_reverse_legend_s": [
+        "[S.P.]Q.R.OPTIMO PRI[NCI]PI-S.C.| ALIM.ITAL."
+    ],
+    "issue_references_s": [
+        "RIC 2 277 459"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6839ef7ac4a742c0"
+    ],
+    "_version_": 1667138186988486656,
+    "timestamp": "2020-05-19T16:47:50.833Z"
+}

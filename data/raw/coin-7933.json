@@ -1,0 +1,132 @@
+{
+    "id": "coin-7933",
+    "title_display": "Coin: 7933",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7933"
+    ],
+    "call_number_browse_s": [
+        "Coin 7933"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Possibly imitation (if reverse l. legend is N\u03a6\u2026); overstruck;"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-28-1937"
+    ],
+    "find_feature_s": [
+        "Dig III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca599"
+    ],
+    "find_description_s": [
+        "room 4, level II, 3m. basket H."
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7933\",\"call_number_browse\":\"Coin 7933\"}}",
+    "pub_date_start_sort": 642,
+    "pub_date_end_sort": 648,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4975"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing; holds long cross in r. hand, gl. cr. in l. [cross above globe is oblit.]"
+    ],
+    "issue_obverse_legend_s": [
+        "illegible"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m"
+    ],
+    "issue_reverse_legend_s": [
+        "m, l. N[?]\u03a6"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 163",
+        "DOC vol. 2, page 444 class 2",
+        "BL vol. I, page 345 type 2",
+        "Sear  1001",
+        "MIB vol. 3 162-167",
+        "DOC vol. 2, page 442-449 class 1-4",
+        "BL vol. I, page 344-345 type 1-4",
+        "BMC.Byz. vol. I, page 168 101ff.",
+        "Sear  1000ff."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0d1c1b9bf8d0b255"
+    ],
+    "_version_": 1667138348978798592,
+    "timestamp": "2020-05-19T16:50:25.317Z"
+}

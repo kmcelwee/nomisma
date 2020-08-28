@@ -1,0 +1,101 @@
+{
+    "id": "coin-11927",
+    "title_display": "Coin: 11927",
+    "pub_created_display": [
+        "Hadrian (117 to 138), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11927"
+    ],
+    "call_number_browse_s": [
+        "Coin 11927"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "22.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11927\",\"call_number_browse\":\"Coin 11927\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 132,
+    "pub_date_end_sort": 134,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "7997"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Galley"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "FELICITATI AVG|COS III PP"
+    ],
+    "issue_references_s": [
+        "RIC 2 431 706c",
+        "BMC 452 1395"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d21af52d3bcb8cfe"
+    ],
+    "_version_": 1667138128039641088,
+    "timestamp": "2020-05-19T16:46:54.614Z"
+}

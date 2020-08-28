@@ -1,0 +1,101 @@
+{
+    "id": "coin-10112",
+    "title_display": "Coin: 10112",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 10112"
+    ],
+    "call_number_browse_s": [
+        "Coin 10112"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "06/01/1936"
+    ],
+    "find_feature_s": [
+        "Theatre trial 2"
+    ],
+    "find_locus_s": [
+        "18-O/P"
+    ],
+    "find_number_s": [
+        "C6415"
+    ],
+    "find_description_s": [
+        "11m to 12m"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "2.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10112\",\"call_number_browse\":\"Coin 10112\"}}",
+    "pub_date_start_sort": 737,
+    "pub_date_end_sort": 742,
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6382"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_description_s": [
+        "In field, a crescent with a pellet in its center. Around, circular inscription."
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "In field, a circle with a pellet in its center. Around, circular inscription."
+    ],
+    "issue_reverse_legend_s": [
+        "\u0636\u0631\u0628 \u0647\u0630\u0627 \u0627\u0644\u0641\u0644\u0633 \u0628\u062d\u0645\u0635"
+    ],
+    "issue_references_s": [
+        "Bone (c.i) jund Hims, p. 390 7.1a",
+        "Hims  10a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "013afe6e90595b5a"
+    ],
+    "_version_": 1667145229050839040,
+    "timestamp": "2020-05-19T18:39:46.664Z"
+}

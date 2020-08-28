@@ -1,0 +1,82 @@
+{
+    "id": "coin-11376",
+    "title_display": "Coin: 11376",
+    "pub_created_display": [
+        "Shapur II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11376"
+    ],
+    "call_number_browse_s": [
+        "Coin 11376"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11376\",\"call_number_browse\":\"Coin 11376\"}}",
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7532"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint IX (\"Kabul\") Ib1/3a"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, diadem ribbons commencing above ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy \u0161hpwhly MRKAn MRKA 'yr'n| mazd\u0113sn bay \u0160\u0101buhr \u0161\u0101h\u0101n \u0161\u0101h \u0112ran|\u201cThe Mazda-worshiping divine Shapur, king of kings of the Iranian\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; on the shaft l'st (r\u0101st,\u201c just\u201d), to the left and right of the shaft ribbons pointing downwards, three altar plates; above bust with diadem and elaborate coiffure to the right, surrounded by flames depicted by vertical lines; to the left and right of altar attendant with stylized crown of Shapur II, holding a barson with both hands, both figures facing inwards; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint IX (\"Kabul\")  Type Ib1/3a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0103f37c83d9028f"
+    ],
+    "_version_": 1667144764147892224,
+    "timestamp": "2020-05-19T18:32:23.298Z"
+}

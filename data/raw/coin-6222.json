@@ -1,0 +1,95 @@
+{
+    "id": "coin-6222",
+    "title_display": "Coin: 6222",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6222"
+    ],
+    "call_number_browse_s": [
+        "Coin 6222"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the Revised Uniform Series after 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "33.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6222\",\"call_number_browse\":\"Coin 6222\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3668"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV as an adolescent."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS XIIII . REX CHRISTIANISSIMUS"
+    ],
+    "issue_reverse_figure_s": [
+        "Personification"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Distressed La Capelle sits facing left, leaning on a shield bearing her coat of arms. Tents of French Camp behind."
+    ],
+    "issue_reverse_legend_s": [
+        "SPES HISPANORUM IMMINUT\u00c6 . | CAPELLA CAPTA . | XXVI . SEPTEMBRIS . MDCLVI ."
+    ],
+    "issue_references_s": [
+        "Forrer 1, p. 598 ",
+        "La M\u00e9daille p. 142 209",
+        "M\u00e9dailles, 1723 p. 46 ",
+        "M\u00e9dailles et Jetons 1,  p. XLVII 3v"
+    ],
+    "issue_artists_s": [
+        "Jean Mauger, J.MAVGER.F.",
+        "Jean Dollin, J.D"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "65ddc9a1ebe13fdd"
+    ],
+    "_version_": 1667138374012502016,
+    "timestamp": "2020-05-19T16:50:49.191Z"
+}

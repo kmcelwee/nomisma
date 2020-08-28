@@ -1,0 +1,133 @@
+{
+    "id": "coin-11890",
+    "title_display": "Coin: 11890",
+    "pub_created_display": [
+        "Alexios I Komnenos, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 11890"
+    ],
+    "call_number_browse_s": [
+        "Coin 11890"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria, Asia Minor"
+    ],
+    "find_date_s": [
+        "Sept 10, 1934"
+    ],
+    "find_locus_s": [
+        "MSD 319 M"
+    ],
+    "find_number_s": [
+        "C3435"
+    ],
+    "find_description_s": [
+        "MSD 319 M; found in yard."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "4.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11890\",\"call_number_browse\":\"Coin 11890\"}}",
+    "pub_date_start_sort": 1085,
+    "pub_date_end_sort": 1092,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Alexios I Komnenos"
+    ],
+    "issue_series_s": [
+        "K.19"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ seated"
+    ],
+    "issue_obverse_symbol_s": [
+        "Christ seated with book"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "No inscription; bust of Christ (Type VIIb) facing, with cross nimbus having one pellet in each arm of cross, wearing tunic and himation; r. hand raised in blessing in sling of cloak, 1. holds book, with X on cover, from beneath. In field, IC XC. Border of large pellets."
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "Figure, Christ with cross nimbus"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_reverse_symbol_s": [
+        "Virgin wearing tunic and maphorion"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "No inscription; half-length figure of the Virgin facing, nimbate, orans, wearing tunic and maphron. To 1., M; to r., \u0398V; border of large pellets."
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c \u0398V"
+    ],
+    "issue_reverse_attributes_s": [
+        "Figure, Virgin facing"
+    ],
+    "issue_references_s": [
+        "BL 3.2 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ea43544284650668"
+    ],
+    "_version_": 1673453285519917056,
+    "timestamp": "2020-07-28T09:43:38.106Z"
+}

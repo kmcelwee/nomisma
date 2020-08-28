@@ -1,0 +1,101 @@
+{
+    "id": "coin-9985",
+    "title_display": "Coin: 9985",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715), Paris"
+    ],
+    "call_number_display": [
+        "Coin 9985"
+    ],
+    "call_number_browse_s": [
+        "Coin 9985"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "50"
+    ],
+    "weight_s": [
+        "34.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9985\",\"call_number_browse\":\"Coin 9985\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6324"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "Paris, Ile-de-France, France"
+    ],
+    "issue_city_s": [
+        "Paris"
+    ],
+    "issue_state_s": [
+        "Ile-de-France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV with Anne of Austria"
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS XIIII . REX CHRISTIANISSIMUS."
+    ],
+    "issue_reverse_figure_s": [
+        "Personification"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Apollo (Louis) in a four-horse chariot follows the morning star (Anne of Austria) through the clouds over a city to celebrate Louis' accession to the throne."
+    ],
+    "issue_reverse_legend_s": [
+        "LUDOVICVS XIV.R.CHRISTI.ANNA AVSTRIACA AVGVST"
+    ],
+    "issue_references_s": [
+        "Histoire des Medailles (Menestrier, 1689)  4",
+        "French Medals Volume Two (1600-1672)  111-114"
+    ],
+    "issue_artists_s": [
+        "Abraham Dupre, AB.DUPRE F 1643"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a08baf6c6f55683c"
+    ],
+    "_version_": 1667138142835048448,
+    "timestamp": "2020-05-19T16:47:08.731Z"
+}

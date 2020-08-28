@@ -1,0 +1,107 @@
+{
+    "id": "coin-6511",
+    "title_display": "Coin: 6511",
+    "pub_created_display": [
+        "Andronicus II (1282 to 1328), hyperpyron, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 6511"
+    ],
+    "call_number_browse_s": [
+        "Coin 6511"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6511\",\"call_number_browse\":\"Coin 6511\"}}",
+    "pub_date_start_sort": 1325,
+    "pub_date_end_sort": 1328,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "3932"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Andronicus II (1282 to 1328)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_obverse_part_s": [
+        "bust, orans"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Virgin orans within city walls with four groups of towers"
+    ],
+    "issue_obverse_legend_s": [
+        "sigla B K"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ blessing Andronicus II and  Andronicus III"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Christ with nimbus  raises his hands in benediction over a kneeling, bearded Andronicus II on the l., and over a kneeling bearded Andronicus III on r."
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC to either side of Christ's head; on l. circular AN\u0394\u03a1O, r. circular possibly AN\u0394[\u2026]"
+    ],
+    "issue_references_s": [
+        "DOC vol. 5, page 140 7",
+        "Sear  2461"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f7e98b114ce47be7"
+    ],
+    "_version_": 1667138253517488128,
+    "timestamp": "2020-05-19T16:48:54.279Z"
+}

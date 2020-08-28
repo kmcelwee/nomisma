@@ -1,0 +1,118 @@
+{
+    "id": "coin-2928",
+    "title_display": "Coin: 2928",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2928"
+    ],
+    "call_number_browse_s": [
+        "Coin 2928"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2928\",\"call_number_browse\":\"Coin 2928\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "1833"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Opeimius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted Roma head r.; wreath behind; XVI monogram before."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border.",
+        "m77, XVI monogram."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory r. in quadriga; in r. hand, wreath; in l. hand, reins; legends below."
+    ],
+    "issue_reverse_legend_s": [
+        "L. OPEIMI; ROMA [in exergue]"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border."
+    ],
+    "issue_references_s": [
+        "RRC  253/1",
+        "Syd.  473",
+        "Sear  129"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7cc62999389c7b33"
+    ],
+    "_version_": 1667138479332524032,
+    "timestamp": "2020-05-19T16:52:29.634Z"
+}

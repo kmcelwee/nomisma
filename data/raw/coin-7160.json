@@ -1,0 +1,88 @@
+{
+    "id": "coin-7160",
+    "title_display": "Coin: 7160",
+    "pub_created_display": [
+        "4 dollars, Baltimore"
+    ],
+    "call_number_display": [
+        "Coin 7160"
+    ],
+    "call_number_browse_s": [
+        "Coin 7160"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "71x93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7160\",\"call_number_browse\":\"Coin 7160\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "4 dollars"
+    ],
+    "issue_number_s": [
+        "4480"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_series_s": [
+        "February 26, 1777"
+    ],
+    "issue_place_s": [
+        "Baltimore, Maryland, United States of America"
+    ],
+    "issue_city_s": [
+        "Baltimore"
+    ],
+    "issue_state_s": [
+        "Maryland"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Seal of a spear stabbing a pig with motto AUT MORS AUT VITA DECORA"
+    ],
+    "issue_obverse_legend_s": [
+        "THE UNITED COLONIES | FOUR DOLLARS | FOUR DOLLARS. THIS Bill entitles the Bearer to receive Four Spanish milled Dol-lars, or the Value there-of in Gold or Silver, ac-cording to a Resolution of CONGRESS, passed at Baltimore, Feb. 26, 1777. FOUR DOLLARS."
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nature print of three maple fruit leaves"
+    ],
+    "issue_reverse_legend_s": [
+        "FOUR DOLLARS. | Printed by Hall & Sellers,1777."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d45108c5e436da04"
+    ],
+    "_version_": 1667316406944792576,
+    "timestamp": "2020-05-21T16:00:34.628Z"
+}

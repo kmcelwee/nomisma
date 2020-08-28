@@ -1,0 +1,94 @@
+{
+    "id": "coin-8225",
+    "title_display": "Coin: 8225",
+    "pub_created_display": [
+        "half, Gadir"
+    ],
+    "call_number_display": [
+        "Coin 8225"
+    ],
+    "call_number_browse_s": [
+        "Coin 8225"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8225\",\"call_number_browse\":\"Coin 8225\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -200,
+    "pub_date_end_sort": -175,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "5236"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Gadir, Hispania Ulterior, Hispania"
+    ],
+    "issue_city_s": [
+        "Gadir"
+    ],
+    "issue_state_s": [
+        "Hispania Ulterior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "melkart with lion skin"
+    ],
+    "issue_reverse_figure_s": [
+        "Tuna"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_reverse_legend_s": [
+        " MP'L above / 'GDR below in fenician script"
+    ],
+    "issue_references_s": [
+        "CNH 87 40/41"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cea87d7fdbf6471c"
+    ],
+    "_version_": 1667138113141473280,
+    "timestamp": "2020-05-19T16:46:40.407Z"
+}

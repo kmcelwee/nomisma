@@ -1,0 +1,97 @@
+{
+    "id": "coin-10416",
+    "title_display": "Coin: 10416",
+    "pub_created_display": [
+        "Herod the Great (40 to 4), hadris, Antipatris/Caesareia"
+    ],
+    "call_number_display": [
+        "Coin 10416"
+    ],
+    "call_number_browse_s": [
+        "Coin 10416"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "1 hadris is worth 8 prutot"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "8.32"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10416\",\"call_number_browse\":\"Coin 10416\"}}",
+    "pub_date_start_sort": 40,
+    "pub_date_end_sort": 39,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hadris"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Herod the Great (40 to 4)"
+    ],
+    "issue_place_s": [
+        "Antipatris/Caesareia, Samaria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antipatris/Caesareia"
+    ],
+    "issue_state_s": [
+        "Samaria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tripod-lebes"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Left: date: L\u0393 (year 3) Right: monogram TP"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0397\u03a1\u03a9\u0394\u039f\u03a5 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Helmet"
+    ],
+    "issue_reverse_figure_description_s": [
+        "helmet with cheek pieces, and star on top, flanked by two palm branches"
+    ],
+    "issue_references_s": [
+        "RPC.1  4901",
+        "Meshorer 2 p.235 1",
+        "BMC Palestine p. 220 14",
+        "SNG ANS  199"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a284d5c3007c23d1"
+    ],
+    "_version_": 1673103529984655360,
+    "timestamp": "2020-07-24T13:04:25.235Z"
+}

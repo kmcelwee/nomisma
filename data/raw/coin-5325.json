@@ -1,0 +1,114 @@
+{
+    "id": "coin-5325",
+    "title_display": "Coin: 5325",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5325"
+    ],
+    "call_number_browse_s": [
+        "Coin 5325"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18.0"
+    ],
+    "weight_s": [
+        "3.95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5325\",\"call_number_browse\":\"Coin 5325\"}}",
+    "pub_date_start_sort": -60,
+    "pub_date_end_sort": -60,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2975"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "P. Plautius Hypsaeus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Neptune"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of Neptune, bare, r.; trident behind; legend downwards before; border of dots"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "divine ancestor of moneyer"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0393 Y\u0393SAE S C"
+    ],
+    "issue_obverse_attributes_s": [
+        "trident l., trident behind head of Neptune"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter in quadriga left, holding reins in left hand and hurling thunderbolt with right hand; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "C Y\u0393SAE COS / \u0393RIV | CE\u0393IT"
+    ],
+    "issue_references_s": [
+        "RRC  420/1a",
+        "Syd.  910",
+        "Sear  375"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7487677bf35e9b6b"
+    ],
+    "_version_": 1667138400504774656,
+    "timestamp": "2020-05-19T16:51:14.456Z"
+}

@@ -1,0 +1,84 @@
+{
+    "id": "coin-3205",
+    "title_display": "Coin: 3205",
+    "pub_created_display": [
+        "Prosperous King \u798f\u738b (Fu Wang) (1644 to 1645)"
+    ],
+    "call_number_display": [
+        "Coin 3205"
+    ],
+    "call_number_browse_s": [
+        "Coin 3205"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "This coin was issued by the grandson of Shen Zong, You Song, who gave himself the name Prosperous King after setting up court in Nan Jing from 1644-1645.  \u5357\u660e\u653f\u6743\u798f\u738b\uff08\u539f\u540d\uff1a\u7531\u5d27\uff091644-1645 \u5728\u5357\u4eac\u79f0\u5e1d\u540e\u94f8\u9020\u7684\u94b1\u5e01\u3002\u4ed6\u662f\u795e\u5b97\u7684\u5b59\u5b50\u3002Wu Note: \u80cc\u9cf3 (\u5927\u6a23) phoenix on back, big size"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "3.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3205\",\"call_number_browse\":\"Coin 3205\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1954"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Prosperous King \u798f\u738b (Fu Wang) (1644 to 1645)"
+    ],
+    "issue_series_s": [
+        "Southern Ming \u5357\u660e"
+    ],
+    "issue_place_s": [
+        "Nan Jing, China"
+    ],
+    "issue_state_s": [
+        "Nan Jing"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5f18\u5149\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u9cf3"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 243 872",
+        "Jen 128 609",
+        "Zhong Guo 307 1st row, 1st coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ae19ddb61e8a933c"
+    ],
+    "_version_": 1667138429989683200,
+    "timestamp": "2020-05-19T16:51:42.576Z"
+}

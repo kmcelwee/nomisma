@@ -1,0 +1,80 @@
+{
+    "id": "coin-14988",
+    "title_display": "Coin: 14988",
+    "call_number_display": [
+        "Coin 14988"
+    ],
+    "call_number_browse_s": [
+        "Coin 14988"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45 \u00d7 30"
+    ],
+    "weight_s": [
+        "34.37"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14988\",\"call_number_browse\":\"Coin 14988\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1979,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_number_s": [
+        "9167"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "oval"
+    ],
+    "issue_color_s": [
+        "red, white, blue"
+    ],
+    "issue_obverse_figure_s": [
+        "Olympic torch"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Olympic torch with red enameled flames with enameled Cuban flag wrapped in front, to left and right"
+    ],
+    "issue_obverse_legend_s": [
+        "AL MERITO DEPORTIVO"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_reverse_legend_s": [
+        "REPUBLICA DE CUBA | CONSEJO DE ESTADO"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  3:165-68",
+        "World Orders of Knighthood and Merit  1074"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a146f547523fed9d"
+    ],
+    "_version_": 1667145394183733248,
+    "timestamp": "2020-05-19T18:52:44.574Z"
+}

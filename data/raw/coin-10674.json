@@ -1,0 +1,97 @@
+{
+    "id": "coin-10674",
+    "title_display": "Coin: 10674",
+    "pub_created_display": [
+        "Wahram I, AE"
+    ],
+    "call_number_display": [
+        "Coin 10674"
+    ],
+    "call_number_browse_s": [
+        "Coin 10674"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "4.71"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10674\",\"call_number_browse\":\"Coin 10674\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 273,
+    "pub_date_end_sort": 276,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "AE"
+    ],
+    "issue_number_s": [
+        "6834"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Wahram I"
+    ],
+    "issue_series_s": [
+        "Style I (\"Balkh\")"
+    ],
+    "issue_place_s": [
+        "Balkh, Sasanian Empire"
+    ],
+    "issue_state_s": [
+        "Balkh"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Wahram I on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap with rays; covered korymbos; upper ribbons pointing upwards; plain diadem, diadem ribbons commencing above ball of hair; cheek flaps; tunica, neck-line edged with pearl row; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy wrhr'n MRKAn MRKA 'yr'n W 'nyr'n MNW ctry MN yzd'n| mazd\u0113sn bay Wahr\u0101m \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n ud An\u0113r\u0101n k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Wahram, King of Kings of the Iranians and non-Iranians, whose seeds/splendour is from the gods; star in right field"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; two altar slabs; altar flames depicted with parallel strokes; to the left and right of the altar attendant with stylized mural crown with korymbos, holding barsom with both hands, both facing inwards, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "Unclear"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style I (\"Balkh\") Type I/3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3e202c1b3b5c2227"
+    ],
+    "_version_": 1667138284239716352,
+    "timestamp": "2020-05-19T16:49:23.580Z"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "coin-6428",
+    "title_display": "Coin: 6428",
+    "pub_created_display": [
+        "2 Shillings and Sixpence"
+    ],
+    "call_number_display": [
+        "Coin 6428"
+    ],
+    "call_number_browse_s": [
+        "Coin 6428"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "132x212"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6428\",\"call_number_browse\":\"Coin 6428\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "2 Shillings and Sixpence"
+    ],
+    "issue_number_s": [
+        "3855"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "April 10, 1778"
+    ],
+    "issue_place_s": [
+        "South Carolina, United States of America"
+    ],
+    "issue_state_s": [
+        "South Carolina"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Cornucopiae"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Part of an uncut sheet, top left corner"
+    ],
+    "issue_obverse_legend_s": [
+        "South Carolina | TWO SHILLINGS & SIX PENCE Lawful Money dated the tenth day of April 1778. 2.6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "74c2886a6d3f6144"
+    ],
+    "_version_": 1667138377590243328,
+    "timestamp": "2020-05-19T16:50:52.604Z"
+}

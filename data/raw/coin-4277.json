@@ -1,0 +1,94 @@
+{
+    "id": "coin-4277",
+    "title_display": "Coin: 4277",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4277"
+    ],
+    "call_number_browse_s": [
+        "Coin 4277"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Die mark in T of ISTE on Reverse, strangely shaped H/N/M's on Obverse like 4262, specific Gravity: 15.8956"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.403"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4277\",\"call_number_browse\":\"Coin 4277\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1343,
+    "pub_date_end_sort": 1400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2426"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "AH(sideways)DKDAH(sideways)DV(upside down)I | .SH(sideways H)VEHETI | DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in mandorla"
+    ],
+    "issue_reverse_legend_s": [
+        ".S.IT.TXIED.A.TOT.V. .HEGIS(backwards)IS(backwards)TE.DVC.AT."
+    ],
+    "issue_references_s": [
+        "NNM PL. XII 34v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d692c868505d1e3d"
+    ],
+    "_version_": 1667138235393900544,
+    "timestamp": "2020-05-19T16:48:36.995Z"
+}

@@ -1,0 +1,117 @@
+{
+    "id": "coin-3231",
+    "title_display": "Coin: 3231",
+    "pub_created_display": [
+        "Roger of Salerno (1112 to 1119), copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3231"
+    ],
+    "call_number_browse_s": [
+        "Coin 3231"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Probably struck over Schlumberger p. II 6"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/10/1934"
+    ],
+    "find_feature_s": [
+        "yard"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "c3455"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "22.5"
+    ],
+    "weight_s": [
+        "2.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3231\",\"call_number_browse\":\"Coin 3231\"}}",
+    "pub_date_start_sort": 1112,
+    "pub_date_end_sort": 1119,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Roger of Salerno (1112 to 1119)"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ standing, right hand blessing"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with legend in quarters"
+    ],
+    "issue_reverse_legend_s": [
+        "DNE SAL FT RO"
+    ],
+    "issue_references_s": [
+        "Schl. Pl. II 10",
+        "Ox. Pl. 5 86",
+        "Malloy p. 200 7"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "35fe9198d9246643"
+    ],
+    "_version_": 1674169002038919168,
+    "timestamp": "2020-08-05T07:19:38.570Z"
+}

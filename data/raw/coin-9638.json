@@ -1,0 +1,103 @@
+{
+    "id": "coin-9638",
+    "title_display": "Coin: 9638",
+    "pub_created_display": [
+        "Manuel I Komnenos (1143 to 1180), tetarteron"
+    ],
+    "call_number_display": [
+        "Coin 9638"
+    ],
+    "call_number_browse_s": [
+        "Coin 9638"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "1.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9638\",\"call_number_browse\":\"Coin 9638\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 1160,
+    "pub_date_end_sort": 1167,
+    "issue_object_type_s": [
+        "imitation"
+    ],
+    "issue_denomination_s": [
+        "tetarteron"
+    ],
+    "issue_number_s": [
+        "6125"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Manuel I Komnenos (1143 to 1180)"
+    ],
+    "issue_place_s": [
+        "Greece"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Christ, bearded and nimbate, wearing tunic and kolobion; scroll in l. hand. Oellet in each limb of nimbus cross"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Full-legnth figure of bearded emperor, wearing un certain dress (stemma, short military tunic, breastplate and sagion?); holds r. scepter cruciger and l. globus cruciger"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u039b\u039d\u03b3\u0395\u039b \u0394\u0395C\u03a0\u039f\u03a4\u0397"
+    ],
+    "issue_references_s": [
+        "DOC vol. 4 pt. 1 p. 338 24"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1315f18bd984b301"
+    ],
+    "_version_": 1667138276635443200,
+    "timestamp": "2020-05-19T16:49:16.326Z"
+}

@@ -1,0 +1,118 @@
+{
+    "id": "coin-2033",
+    "title_display": "Coin: 2033",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2033"
+    ],
+    "call_number_browse_s": [
+        "Coin 2033"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2033\",\"call_number_browse\":\"Coin 2033\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "1349"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Sergius Silus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted Roma head r.; EX.S.C upwards before. ROMA downwards behind. XVI monogram behind."
+    ],
+    "issue_obverse_legend_s": [
+        "EX.S.C; ROMA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dots",
+        "m77, XVI monogram"
+    ],
+    "issue_reverse_figure_s": [
+        "Horseman"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Horseman l; in l. hand, sword and severed head. Q before; M.SERGI below; SILVS in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "Q; M.SERGI; SILVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Dots"
+    ],
+    "issue_references_s": [
+        "RRC  286/1",
+        "Syd.  534",
+        "Sear  163"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "567e6db5108367cf"
+    ],
+    "_version_": 1667138471365443584,
+    "timestamp": "2020-05-19T16:52:22.036Z"
+}

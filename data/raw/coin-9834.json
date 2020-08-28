@@ -1,0 +1,119 @@
+{
+    "id": "coin-9834",
+    "title_display": "Coin: 9834",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 9834"
+    ],
+    "call_number_browse_s": [
+        "Coin 9834"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/23/1938"
+    ],
+    "find_feature_s": [
+        "Trench 7"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb2580"
+    ],
+    "find_description_s": [
+        "In mortar and rubble pavement"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9834\",\"call_number_browse\":\"Coin 9834\"}}",
+    "pub_date_start_sort": 320,
+    "pub_date_end_sort": 324,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "6221"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Illyria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Illyria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laur."
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN TINVSAVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wreath encircling VOT /  XX"
+    ],
+    "issue_reverse_legend_s": [
+        "DN CONSTANTINI MAXAVG | TSAVI"
+    ],
+    "issue_references_s": [
+        "RIC.7 510, 513 101 or 123",
+        "Waage 119 1426"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7b416f03dd0633d5"
+    ],
+    "_version_": 1667138139843461120,
+    "timestamp": "2020-05-19T16:47:05.873Z"
+}

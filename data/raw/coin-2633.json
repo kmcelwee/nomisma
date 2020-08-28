@@ -1,0 +1,97 @@
+{
+    "id": "coin-2633",
+    "title_display": "Coin: 2633",
+    "pub_created_display": [
+        "Frederick II (1197 to 1250), denaro, Messina"
+    ],
+    "call_number_display": [
+        "Coin 2633"
+    ],
+    "call_number_browse_s": [
+        "Coin 2633"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2633\",\"call_number_browse\":\"Coin 2633\"}}",
+    "pub_date_start_sort": 1242,
+    "pub_date_end_sort": 1242,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "1654"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Frederick II (1197 to 1250)"
+    ],
+    "issue_place_s": [
+        "Messina, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Messina"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Crescent"
+    ],
+    "issue_obverse_symbol_s": [
+        "\u0391"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crescent above star"
+    ],
+    "issue_obverse_legend_s": [
+        "\u253cFROM IP SEMPR"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "star in 2nd and three pellets in 3rd quarter"
+    ],
+    "issue_reverse_legend_s": [
+        "\u253cIERL'ET SICIL'R"
+    ],
+    "issue_references_s": [
+        "MEC 14  552"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1a512fa5f7b1ffaa"
+    ],
+    "_version_": 1667138476740444160,
+    "timestamp": "2020-05-19T16:52:27.160Z"
+}

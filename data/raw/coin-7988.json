@@ -1,0 +1,120 @@
+{
+    "id": "coin-7988",
+    "title_display": "Coin: 7988",
+    "pub_created_display": [
+        "follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7988"
+    ],
+    "call_number_browse_s": [
+        "Coin 7988"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "The understrike on the obverse is unclear and there seems to be no understrike on the reverse."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/15/1937"
+    ],
+    "find_feature_s": [
+        "Dig III East half to 1.70"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca375"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "31.5"
+    ],
+    "weight_s": [
+        "7.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7988\",\"call_number_browse\":\"Coin 7988\"}}",
+    "pub_date_start_sort": 1042,
+    "pub_date_end_sort": 1050,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5010"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "C"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "three-quarter"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ Antiphonetes r.hand raised in blessing l.hand with book"
+    ],
+    "issue_obverse_legend_s": [
+        "+\u0404\u039c\u039c\u0391 \u039d\u039fV\u0397\u039b"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "jeweled"
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC NI KA"
+    ],
+    "issue_references_s": [
+        "DOC  C.1",
+        "BMC.Byz. 507 6",
+        "Sear  1825"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8802489eb6422724"
+    ],
+    "_version_": 1667138349144473600,
+    "timestamp": "2020-05-19T16:50:25.476Z"
+}

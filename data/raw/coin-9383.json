@@ -1,0 +1,91 @@
+{
+    "id": "coin-9383",
+    "title_display": "Coin: 9383",
+    "call_number_display": [
+        "Coin 9383"
+    ],
+    "call_number_browse_s": [
+        "Coin 9383"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "11.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9383\",\"call_number_browse\":\"Coin 9383\"}}",
+    "pub_date_start_sort": 200,
+    "pub_date_end_sort": 400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "6003"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Yaudheya, India"
+    ],
+    "issue_state_s": [
+        "Yaudheya"
+    ],
+    "issue_region_s": [
+        "India"
+    ],
+    "issue_obverse_figure_s": [
+        "Deity"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Raja or deity standing, facing front, grasping spear in r. hand with l. hand on hip; cock l. at his l. foot"
+    ],
+    "issue_obverse_legend_s": [
+        "Br. Legend in well formed characters yaudheya, ganasya jaya, ('Victory to the Yaudheya tribe') tri (3rd) over r. shoulder"
+    ],
+    "issue_reverse_figure_s": [
+        "Man"
+    ],
+    "issue_reverse_part_s": [
+        "walking"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Robed man walking l. with r. hand extended, and l. hand on hip. Dotted circle."
+    ],
+    "issue_references_s": [
+        "Calcutta vol. 1 p. 182 21"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6836ccbaa03c61f6"
+    ],
+    "_version_": 1667138275218817024,
+    "timestamp": "2020-05-19T16:49:14.976Z"
+}

@@ -1,0 +1,88 @@
+{
+    "id": "coin-3146",
+    "title_display": "Coin: 3146",
+    "pub_created_display": [
+        "Yong Zheng \u96cd\u6b63 (1723 to 1736), Chang Sha Fu"
+    ],
+    "call_number_display": [
+        "Coin 3146"
+    ],
+    "call_number_browse_s": [
+        "Coin 3146"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "5.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3146\",\"call_number_browse\":\"Coin 3146\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1723,
+    "pub_date_end_sort": 1736,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1925"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Yong Zheng \u96cd\u6b63 (1723 to 1736)"
+    ],
+    "issue_workshop_s": [
+        "Hun Nan Provincial Mint \u6e56\u5357\u7701\u5c40"
+    ],
+    "issue_series_s": [
+        "Series 3 \u6587 Coins"
+    ],
+    "issue_place_s": [
+        "Chang Sha Fu, Hu Nan, China"
+    ],
+    "issue_city_s": [
+        "Chang Sha Fu"
+    ],
+    "issue_state_s": [
+        "Hu Nan"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u96cd\u6b63\u901a\u5bf6"
+    ],
+    "issue_reverse_attributes_s": [
+        "c1, Manchurian Character- \u5bf6 (bao)",
+        "c17, Manchurian Character- \u5357 (nan)"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 366 1348",
+        "Coole 74 25H",
+        "Zhong Guo 332 1st row, 3rd coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "59be2d68ce12e79f"
+    ],
+    "_version_": 1667138225863393280,
+    "timestamp": "2020-05-19T16:48:27.910Z"
+}

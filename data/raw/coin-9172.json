@@ -1,0 +1,111 @@
+{
+    "id": "coin-9172",
+    "title_display": "Coin: 9172",
+    "pub_created_display": [
+        "Tiberius, sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9172"
+    ],
+    "call_number_browse_s": [
+        "Coin 9172"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "34"
+    ],
+    "weight_s": [
+        "24.84"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9172\",\"call_number_browse\":\"Coin 9172\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 21,
+    "pub_date_end_sort": 22,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "5847"
+    ],
+    "issue_metal_s": [
+        "Brass"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Carpentum"
+    ],
+    "issue_obverse_part_s": [
+        "advancing"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "ornamented carpentum drawn by 2 mules walking right; legend on 3 lines"
+    ],
+    "issue_obverse_legend_s": [
+        "S P Q R IVLIAE AVGVST"
+    ],
+    "issue_reverse_figure_s": [
+        "[ ]"
+    ],
+    "issue_reverse_symbol_s": [
+        "S C"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large SC surrounded by legend"
+    ],
+    "issue_reverse_legend_s": [
+        "TI CAESAR DIVIAVGFAVGVSTPMTRPOTXXIIII"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 51",
+        "BMC.1. Tiberius 76",
+        "Sear  1738"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dc59d0d64766183f"
+    ],
+    "_version_": 1667138273960525824,
+    "timestamp": "2020-05-19T16:49:13.774Z"
+}

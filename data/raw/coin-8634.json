@@ -1,0 +1,127 @@
+{
+    "id": "coin-8634",
+    "title_display": "Coin: 8634",
+    "pub_created_display": [
+        "Justin II (565 to 578), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8634"
+    ],
+    "call_number_browse_s": [
+        "Coin 8634"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "No clear dating, possibly year 1 (565/566)"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/8/1939"
+    ],
+    "find_feature_s": [
+        "Trench 2"
+    ],
+    "find_locus_s": [
+        "15-M"
+    ],
+    "find_number_s": [
+        "Ccll62"
+    ],
+    "find_description_s": [
+        "South Extension Depth 2.38M."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "12.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8634\",\"call_number_browse\":\"Coin 8634\"}}",
+    "pub_date_start_sort": 565,
+    "pub_date_end_sort": 578,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "5528"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Justin II (565 to 578)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Justin II and Sophia"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO |  | THEUP"
+    ],
+    "issue_references_s": [
+        "MIB2 Justin II 56a",
+        " Justin II 150-160",
+        "BMC.Byz. Justin II 193-212",
+        "BL  5/An/AE"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "58872fef83a56fd9"
+    ],
+    "_version_": 1667138270089183232,
+    "timestamp": "2020-05-19T16:49:10.084Z"
+}

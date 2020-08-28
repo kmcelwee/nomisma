@@ -1,0 +1,127 @@
+{
+    "id": "coin-8055",
+    "title_display": "Coin: 8055",
+    "pub_created_display": [
+        "Arcadius (395 to 408), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8055"
+    ],
+    "call_number_browse_s": [
+        "Coin 8055"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Triangular piece taken out of coin; weight is .596"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-30-1937"
+    ],
+    "find_feature_s": [
+        "Dig I Level III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca623"
+    ],
+    "find_description_s": [
+        "to 5m, room 13, Basket B"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8055\",\"call_number_browse\":\"Coin 8055\"}}",
+    "pub_date_start_sort": 383,
+    "pub_date_end_sort": 392,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Arcadius (395 to 408)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "A"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Double pearl-diademed, draped and cuirassed, r."
+    ],
+    "issue_obverse_legend_s": [
+        "DN ARCADIVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_symbol_s": [
+        "A, +"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding trophy on shoulder with r. hand and dragging captive with left. In left field, +."
+    ],
+    "issue_reverse_legend_s": [
+        "SALVS REI-PVBLICAE"
+    ],
+    "issue_references_s": [
+        "RIC 9.293 67(a), 3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9040ed11a186d9ca"
+    ],
+    "_version_": 1673552414757617664,
+    "timestamp": "2020-07-29T11:59:15.114Z"
+}

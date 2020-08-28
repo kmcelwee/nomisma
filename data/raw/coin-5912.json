@@ -1,0 +1,115 @@
+{
+    "id": "coin-5912",
+    "title_display": "Coin: 5912",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 5912"
+    ],
+    "call_number_browse_s": [
+        "Coin 5912"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Piece of coin missing, weight 1.52 g; attribution uncertain"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_feature_s": [
+        "trench 5"
+    ],
+    "find_locus_s": [
+        "12-F"
+    ],
+    "find_number_s": [
+        "7-6"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5912\",\"call_number_browse\":\"Coin 5912\"}}",
+    "pub_date_start_sort": 491,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "3426"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diadem, cross above head"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANAST SIUSPPAVC"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0404"
+    ],
+    "issue_reverse_legend_s": [
+        "AAN"
+    ],
+    "issue_references_s": [
+        "MIB 1, Anastasius I 63",
+        "DOC 1 49a",
+        "BMC.Byz. 1 69",
+        "BN page 33 04"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4518a9543efb20e8"
+    ],
+    "_version_": 1667138384922935296,
+    "timestamp": "2020-05-19T16:50:59.596Z"
+}

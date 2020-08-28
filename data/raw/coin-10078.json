@@ -1,0 +1,96 @@
+{
+    "id": "coin-10078",
+    "title_display": "Coin: 10078",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 10078"
+    ],
+    "call_number_browse_s": [
+        "Coin 10078"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/4/1936"
+    ],
+    "find_locus_s": [
+        "13-R"
+    ],
+    "find_number_s": [
+        "C5910"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "2.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10078\",\"call_number_browse\":\"Coin 10078\"}}",
+    "pub_date_start_sort": 708,
+    "pub_date_end_sort": 735,
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6380"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Inscription in three lines. Pellet border."
+    ],
+    "issue_obverse_legend_s": [
+        "In the field: \u0644\u0627 \u0627\u0644\u0647 | \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 | \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Inscription in four lines with a star at the end of the third line. Pellet border."
+    ],
+    "issue_reverse_legend_s": [
+        "In the field: \u0645\u062d\u0645\u062f | \u0631\u0633\u0648\u0644 | \u0627\u0644\u0644\u0647* | \u0628\u062d\u0645\u0635."
+    ],
+    "issue_references_s": [
+        "Hims  7.1b-c",
+        "Bone (c.i) jund Hims 3.1b-d",
+        "Hims  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4fdf49bda9692e38"
+    ],
+    "_version_": 1667145476319739904,
+    "timestamp": "2020-05-19T18:43:42.475Z"
+}

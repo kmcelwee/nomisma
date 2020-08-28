@@ -1,0 +1,99 @@
+{
+    "id": "coin-292",
+    "title_display": "Coin: 292",
+    "pub_created_display": [
+        "Augustus (-30 to 14), quadrans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 292"
+    ],
+    "call_number_browse_s": [
+        "Coin 292"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "3.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 292\",\"call_number_browse\":\"Coin 292\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -4,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadrans"
+    ],
+    "issue_number_s": [
+        "145"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_master_s": [
+        "L. Valerius Catullus"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Altar"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Wreathed Altar"
+    ],
+    "issue_obverse_legend_s": [
+        "III.VIR.A.A.A.F.F"
+    ],
+    "issue_reverse_figure_s": [
+        "S.C."
+    ],
+    "issue_reverse_legend_s": [
+        "L.VALERIVS.CATVLLVS."
+    ],
+    "issue_references_s": [
+        "BMC.1. Augustus 270",
+        "RIC.1. Augustus 218",
+        "Sear  1706"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b3f24c3ed0feb55c"
+    ],
+    "_version_": 1667145313451769856,
+    "timestamp": "2020-05-19T18:41:07.156Z"
+}

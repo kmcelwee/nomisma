@@ -1,0 +1,83 @@
+{
+    "id": "coin-189",
+    "title_display": "Coin: 189",
+    "pub_created_display": [
+        "Husayn I (1694 to 1722), 4 shahi, Isfahan"
+    ],
+    "call_number_display": [
+        "Coin 189"
+    ],
+    "call_number_browse_s": [
+        "Coin 189"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 189\",\"call_number_browse\":\"Coin 189\"}}",
+    "pub_date_start_sort": 1717,
+    "pub_date_end_sort": 1718,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 shahi"
+    ],
+    "issue_number_s": [
+        "78"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "Husayn I (1694 to 1722)"
+    ],
+    "issue_place_s": [
+        "Isfahan, Isfahan, Iran"
+    ],
+    "issue_city_s": [
+        "Isfahan"
+    ],
+    "issue_state_s": [
+        "Isfahan"
+    ],
+    "issue_region_s": [
+        "Iran"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647| \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647| \u0639\u0644\u064a \u0648\u0644\u064a \u0627\u0644\u0644\u0647"
+    ],
+    "issue_obverse_attributes_s": [
+        "dots, around edge"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0628\u0646\u062f\u0647 \u0634\u0627\u0647 \u0648\u0644\u0627\u064a\u062a | \u062d\u0633\u064a\u0646 \u0636\u0631\u0628 \u0641\u064a \u062a\u0641\u0644\u064a\u0633"
+    ],
+    "issue_reverse_attributes_s": [
+        "dots, around edge",
+        "vegetal pattern, within legend"
+    ],
+    "issue_references_s": [
+        "Mitchiner  2097v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7ca9b2d6cd735f57"
+    ],
+    "_version_": 1667145397058928640,
+    "timestamp": "2020-05-19T18:53:24.755Z"
+}

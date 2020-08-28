@@ -1,0 +1,106 @@
+{
+    "id": "coin-3049",
+    "title_display": "Coin: 3049",
+    "pub_created_display": [
+        "Julio-Claudian (-27 to 68), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3049"
+    ],
+    "call_number_browse_s": [
+        "Coin 3049"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin is damaged on obverse with almost a quarter of its surface missing.  Traces of head but too obscure to have any distinguishing features.  Reverse clearly shows SC surrounded by circle and wreath.  Die axis is indeterminable.  Coin weighs only 8.57 g."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/06/1938"
+    ],
+    "find_feature_s": [
+        "West room 8 to 9M \u00a9"
+    ],
+    "find_locus_s": [
+        "17-P"
+    ],
+    "find_number_s": [
+        "Cb3115"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3049\",\"call_number_browse\":\"Coin 3049\"}}",
+    "pub_date_start_sort": -27,
+    "pub_date_end_sort": 68,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1462"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Julio-Claudian (-27 to 68)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "obscure head right, of a generic Julio Claudian type; also occ. resembles head of Otho"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "unidentifiable due to illegibility of legend"
+    ],
+    "issue_reverse_figure_s": [
+        "S.C."
+    ],
+    "issue_reverse_figure_description_s": [
+        "SC within a plain circle, dot or dots in field usu. absent or illegible.  Whole within laurel wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "SC"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c78866387dcbb08a"
+    ],
+    "_version_": 1667138475240980480,
+    "timestamp": "2020-05-19T16:52:25.732Z"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "coin-13894",
+    "title_display": "Coin: 13894",
+    "pub_created_display": [
+        "Tetradrachm, Athens"
+    ],
+    "call_number_display": [
+        "Coin 13894"
+    ],
+    "call_number_browse_s": [
+        "Coin 13894"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "17.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13894\",\"call_number_browse\":\"Coin 13894\"}}",
+    "donor_s": [
+        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8931"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_workshop_s": [
+        "\"Imperial Mint\""
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Athena, eye full, earring, hairstyle (iii), 3 olive leaves on helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Owl standing, wings closed, olive on stalk between two leaves, waning moon"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0398\u0395 down right side"
+    ],
+    "issue_references_s": [
+        "Athens Its History and Coinage p.209 A293"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1dc39c4f64af92d8"
+    ],
+    "_version_": 1667138328814682112,
+    "timestamp": "2020-05-19T16:50:06.087Z"
+}

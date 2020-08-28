@@ -1,0 +1,100 @@
+{
+    "id": "coin-5616",
+    "title_display": "Coin: 5616",
+    "pub_created_display": [
+        "biunx, Venusia"
+    ],
+    "call_number_display": [
+        "Coin 5616"
+    ],
+    "call_number_browse_s": [
+        "Coin 5616"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Martini sale, 1930, for $10.45. Equivalent to Roman sextans."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "42"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "68.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5616\",\"call_number_browse\":\"Coin 5616\"}}",
+    "pub_date_start_sort": -300,
+    "pub_date_end_sort": -211,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "biunx"
+    ],
+    "issue_number_s": [
+        "3188"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Venusia, Apulia, Italy"
+    ],
+    "issue_city_s": [
+        "Venusia"
+    ],
+    "issue_state_s": [
+        "Apulia"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Dolphin"
+    ],
+    "issue_obverse_symbol_s": [
+        "2 dots"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "2 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_references_s": [
+        "Haeb. 72 5",
+        "Syd.  155",
+        "MIA LXV 9",
+        "Aes Grave  1643"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b10978f16379bd05"
+    ],
+    "_version_": 1667138390866264064,
+    "timestamp": "2020-05-19T16:51:05.265Z"
+}

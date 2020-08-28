@@ -1,0 +1,107 @@
+{
+    "id": "coin-7897",
+    "title_display": "Coin: 7897",
+    "pub_created_display": [
+        "fals, Harran"
+    ],
+    "call_number_display": [
+        "Coin 7897"
+    ],
+    "call_number_browse_s": [
+        "Coin 7897"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Small, thin flan."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-13-1937"
+    ],
+    "find_feature_s": [
+        "under Brick floor"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca318"
+    ],
+    "find_description_s": [
+        "south of Dig I to 3M"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.04"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7897\",\"call_number_browse\":\"Coin 7897\"}}",
+    "pub_date_start_sort": 759,
+    "pub_date_end_sort": 772,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4955"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Ummayid"
+    ],
+    "issue_place_s": [
+        "Harran, Jazira"
+    ],
+    "issue_city_s": [
+        "Harran"
+    ],
+    "issue_region_s": [
+        "Jazira"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "center within circle"
+    ],
+    "issue_obverse_legend_s": [
+        "Center: \u0644\u0627 \u0627\u0644\u0647 /\u0627\u0644\u0627 \u0627\u0644\u0644\u0647 / \u0648\u062d\u062f\u0647 Margins:.\u0627\u0645\u0631 \u0627\u0644\u0627\u0645\u06cc\u0631 \u0627\u0644\u0639\u0628\u0627\u0633 \u0628\u0646 \u0645\u062d\u0645\u062f \u0627\u0639\u0632 \u0627\u0644\u0644\u0647 \u0646\u0635\u0631\u0647"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "center within circle, dot"
+    ],
+    "issue_reverse_legend_s": [
+        "Center: \u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647 Margins: \u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0636\u0631\u0628 \u0647\u0630\u0627 \u0627\u0644\u0641\u0644\u0633 \u0628\u0627\u0644\u062c\u0632\u06cc\u0631 \u0629"
+    ],
+    "issue_references_s": [
+        "Katalog der orientalischen M\u00fcnzen  2260",
+        "Catalogue des Monnaies Musulmanes De La Bibliotheque Nationale  1568"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "78b4f7c7715b925f"
+    ],
+    "_version_": 1667138191812984832,
+    "timestamp": "2020-05-19T16:47:55.432Z"
+}

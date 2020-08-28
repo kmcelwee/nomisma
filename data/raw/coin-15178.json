@@ -1,0 +1,99 @@
+{
+    "id": "coin-15178",
+    "title_display": "Coin: 15178",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), bronze as (Marcus), Rome"
+    ],
+    "call_number_display": [
+        "Coin 15178"
+    ],
+    "call_number_browse_s": [
+        "Coin 15178"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "9.61"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15178\",\"call_number_browse\":\"Coin 15178\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 143,
+    "pub_date_end_sort": 144,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze as (Marcus)"
+    ],
+    "issue_number_s": [
+        "9337"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG PI-VS P P TR P COS III"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter seated l. with thunderbolt and sceptre; in ex., S C"
+    ],
+    "issue_reverse_legend_s": [
+        "IMPERA-TOR. II."
+    ],
+    "issue_references_s": [
+        "BMC.1 260 1617-8",
+        "RIC 120 727a",
+        "Strack 935 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "27e4e506b97dec54"
+    ],
+    "_version_": 1667144763800813568,
+    "timestamp": "2020-05-19T18:32:23.284Z"
+}

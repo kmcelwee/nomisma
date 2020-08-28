@@ -1,0 +1,111 @@
+{
+    "id": "coin-13817",
+    "title_display": "Coin: 13817",
+    "pub_created_display": [
+        "Lucius Thorius Balbus (-105 to ), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 13817"
+    ],
+    "call_number_browse_s": [
+        "Coin 13817"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "18.5"
+    ],
+    "weight_s": [
+        "3.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13817\",\"call_number_browse\":\"Coin 13817\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8861"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_edge_s": [
+        "plain"
+    ],
+    "issue_ruler_s": [
+        "Lucius Thorius Balbus (-105 to )"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Juno Sospita"
+    ],
+    "issue_obverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing goat-skin"
+    ],
+    "issue_obverse_legend_s": [
+        "ISMR"
+    ],
+    "issue_reverse_figure_s": [
+        "Bull"
+    ],
+    "issue_reverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_reverse_part_s": [
+        "charging"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_references_s": [
+        "RRC 323 316",
+        "PUL 14 169",
+        "Syd. 84 598"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0a20f85a32f84a5e"
+    ],
+    "_version_": 1667138519461527552,
+    "timestamp": "2020-05-19T16:53:07.903Z"
+}

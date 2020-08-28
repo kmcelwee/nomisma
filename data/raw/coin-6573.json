@@ -1,0 +1,99 @@
+{
+    "id": "coin-6573",
+    "title_display": "Coin: 6573",
+    "pub_created_display": [
+        "Charles III the pretender (1665 to 1711), 2 reales"
+    ],
+    "call_number_display": [
+        "Coin 6573"
+    ],
+    "call_number_browse_s": [
+        "Coin 6573"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6573\",\"call_number_browse\":\"Coin 6573\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 reales"
+    ],
+    "issue_number_s": [
+        "3987"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Charles III the pretender (1665 to 1711)"
+    ],
+    "issue_workshop_s": [
+        "Barcelona"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_symbol_s": [
+        "R II"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standard crowned shield of Castille and Leon with the shield of Bourbon in the middle"
+    ],
+    "issue_obverse_legend_s": [
+        "+CAROLVS+III+D+G+"
+    ],
+    "issue_reverse_figure_s": [
+        "Crown"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crown above stylized CARLOS above III, all in a circle"
+    ],
+    "issue_reverse_legend_s": [
+        "\u2022HISPANIARVM+REX+1711\u2022"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n p. 573 7168",
+        "Monedas Espanolas p. 266 15",
+        "Heiss vol I, lam.43 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9d83e9c7ee7c032f"
+    ],
+    "_version_": 1667138253928529920,
+    "timestamp": "2020-05-19T16:48:54.670Z"
+}

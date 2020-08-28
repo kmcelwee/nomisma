@@ -1,0 +1,114 @@
+{
+    "id": "coin-4945",
+    "title_display": "Coin: 4945",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4945"
+    ],
+    "call_number_browse_s": [
+        "Coin 4945"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "18.0"
+    ],
+    "weight_s": [
+        "3.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4945\",\"call_number_browse\":\"Coin 4945\"}}",
+    "pub_date_start_sort": -54,
+    "pub_date_end_sort": -54,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2730"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Q. Pompeius Rufus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Q. Pompeius Rufus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Q. Pompeius Rufus, Cos. 88, bare head r.; border of dots"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "Moneyer's paternal grandfather"
+    ],
+    "issue_obverse_legend_s": [
+        "RVFVS COS | Q \u0393OM RVFI"
+    ],
+    "issue_reverse_figure_s": [
+        "Sulla"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Sulla, bare head r.; border of dots"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Moneyer's maternal grandfather"
+    ],
+    "issue_reverse_legend_s": [
+        "SVLLA COS"
+    ],
+    "issue_references_s": [
+        "RRC  434/1",
+        "Syd.  908",
+        "Sear  399"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c60e774e664b7072"
+    ],
+    "_version_": 1667138243200548864,
+    "timestamp": "2020-05-19T16:48:44.438Z"
+}

@@ -1,0 +1,108 @@
+{
+    "id": "coin-4415",
+    "title_display": "Coin: 4415",
+    "pub_created_display": [
+        "as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4415"
+    ],
+    "call_number_browse_s": [
+        "Coin 4415"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "29.8"
+    ],
+    "weight_s": [
+        "18.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4415\",\"call_number_browse\":\"Coin 4415\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -45,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "2475"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_master_s": [
+        "Sex. Pompeius Magnus"
+    ],
+    "issue_workshop_s": [
+        "Spain & Sicily"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Janus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate, with features of Cn. Pompeius Magnus; MA of legend in monogram; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "MAGN"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0393IVS | IM\u0393"
+    ],
+    "issue_references_s": [
+        "RRC  479/1",
+        "Syd.  1044a",
+        "Sear  1394"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3b77cc4641d0a936"
+    ],
+    "_version_": 1667138497058701312,
+    "timestamp": "2020-05-19T16:52:46.539Z"
+}

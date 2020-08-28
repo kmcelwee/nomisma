@@ -1,0 +1,96 @@
+{
+    "id": "coin-2487",
+    "title_display": "Coin: 2487",
+    "pub_created_display": [
+        "Pietro Gradenigo (1289 to 1311), denaro, Venice"
+    ],
+    "call_number_display": [
+        "Coin 2487"
+    ],
+    "call_number_browse_s": [
+        "Coin 2487"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "0.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2487\",\"call_number_browse\":\"Coin 2487\"}}",
+    "pub_date_start_sort": 1289,
+    "pub_date_end_sort": 1311,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "1569"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Pietro Gradenigo (1289 to 1311)"
+    ],
+    "issue_place_s": [
+        "Venice, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Doge wearing a rich mantle and the ducale cap; kneeling and holding in front with both hands a standard with a cross;"
+    ],
+    "issue_obverse_legend_s": [
+        "PE GRA DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "lion holding a standard in its forepaws"
+    ],
+    "issue_reverse_legend_s": [
+        "S MARCVS"
+    ],
+    "issue_references_s": [
+        "Pap. Pietro Gradenigo 3",
+        "CNI, 7  II.14.19",
+        "MEC 12 642-643"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "833a65cbb20621bc"
+    ],
+    "_version_": 1667138220848054272,
+    "timestamp": "2020-05-19T16:48:23.124Z"
+}

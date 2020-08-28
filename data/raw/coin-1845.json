@@ -1,0 +1,92 @@
+{
+    "id": "coin-1845",
+    "title_display": "Coin: 1845",
+    "pub_created_display": [
+        "hemilitra, Akragas"
+    ],
+    "call_number_display": [
+        "Coin 1845"
+    ],
+    "call_number_browse_s": [
+        "Coin 1845"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "Obverse: Heracles head facing right"
+    ],
+    "notes_display": [
+        "Reverse of the coin so badly worn that it is unreadable."
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "18.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1845\",\"call_number_browse\":\"Coin 1845\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": -412,
+    "pub_date_end_sort": -406,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hemilitra"
+    ],
+    "issue_number_s": [
+        "1201"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Akragas, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Akragas"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Crab"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagler"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_references_s": [
+        "ANS Part III, Sicily I 1065v",
+        "Agrigento  263v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d344129c6d50ab3c"
+    ],
+    "_version_": 1667138214541918208,
+    "timestamp": "2020-05-19T16:48:17.109Z"
+}

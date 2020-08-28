@@ -1,0 +1,95 @@
+{
+    "id": "coin-1360",
+    "title_display": "Coin: 1360",
+    "pub_created_display": [
+        "Raymond Berenger (1365 to 1374), gigliato"
+    ],
+    "call_number_display": [
+        "Coin 1360"
+    ],
+    "call_number_browse_s": [
+        "Coin 1360"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "3.81"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1360\",\"call_number_browse\":\"Coin 1360\"}}",
+    "pub_date_start_sort": 1365,
+    "pub_date_end_sort": 1374,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "gigliato"
+    ],
+    "issue_number_s": [
+        "771"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Raymond Berenger (1365 to 1374)"
+    ],
+    "issue_place_s": [
+        "Rhodes, Crusader"
+    ],
+    "issue_state_s": [
+        "Rhodes"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Kneeling figure before cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "grand master kneeling before cross with skull at foot, arms of Berenger at right"
+    ],
+    "issue_obverse_legend_s": [
+        "+F.RAIMVNDVS.BERENGERII.D.GR.M"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, no A after GR"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Greek cross potent and flory"
+    ],
+    "issue_reverse_legend_s": [
+        "+OSPITAL.S.IOhS.IORINI.QT.RODI"
+    ],
+    "issue_references_s": [
+        "Schl. Plate X, 7. ",
+        "Ox.  1208"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fb5ebdcf1a0623d9"
+    ],
+    "_version_": 1667138410356146176,
+    "timestamp": "2020-05-19T16:51:23.851Z"
+}

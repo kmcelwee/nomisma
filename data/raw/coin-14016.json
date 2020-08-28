@@ -1,0 +1,89 @@
+{
+    "id": "coin-14016",
+    "title_display": "Coin: 14016",
+    "pub_created_display": [
+        "Grand Officer"
+    ],
+    "call_number_display": [
+        "Coin 14016"
+    ],
+    "call_number_browse_s": [
+        "Coin 14016"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "80"
+    ],
+    "weight_s": [
+        "74.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14016\",\"call_number_browse\":\"Coin 14016\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grand Officer"
+    ],
+    "issue_number_s": [
+        "9040"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "star"
+    ],
+    "issue_color_s": [
+        "white and blue"
+    ],
+    "issue_place_s": [
+        "Cuba"
+    ],
+    "issue_region_s": [
+        "Cuba"
+    ],
+    "issue_obverse_figure_s": [
+        "Mercury"
+    ],
+    "issue_obverse_figure_description_s": [
+        "seated with caduceus above 1943"
+    ],
+    "issue_obverse_legend_s": [
+        "ORDEN DEL MERITO COMERCIAL | CUBA"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, on a blue enameled band"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:211-18 ",
+        "Reference Catalogue of Orders, Medals and Decorations of the World 332 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d582747dc9c10452"
+    ],
+    "_version_": 1667138331536785408,
+    "timestamp": "2020-05-19T16:50:08.684Z"
+}

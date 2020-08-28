@@ -1,0 +1,85 @@
+{
+    "id": "coin-14039",
+    "title_display": "Coin: 14039",
+    "pub_created_display": [
+        "Marcus Aurelius (138 to 161), Nysa"
+    ],
+    "call_number_display": [
+        "Coin 14039"
+    ],
+    "call_number_browse_s": [
+        "Coin 14039"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "22.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14039\",\"call_number_browse\":\"Coin 14039\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "9065"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Marcus Aurelius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Nysa, Lydia, Asia"
+    ],
+    "issue_city_s": [
+        "Nysa"
+    ],
+    "issue_state_s": [
+        "Lydia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Temple"
+    ],
+    "issue_references_s": [
+        "BMC Lydia  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bbe4b282d1a0e284"
+    ],
+    "_version_": 1667138523884421120,
+    "timestamp": "2020-05-19T16:53:12.120Z"
+}

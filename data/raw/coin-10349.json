@@ -1,0 +1,96 @@
+{
+    "id": "coin-10349",
+    "title_display": "Coin: 10349",
+    "pub_created_display": [
+        "prutot, Jerusalem"
+    ],
+    "call_number_display": [
+        "Coin 10349"
+    ],
+    "call_number_browse_s": [
+        "Coin 10349"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10349\",\"call_number_browse\":\"Coin 10349\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 67,
+    "pub_date_end_sort": 67,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "prutot"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "First Jewish Revolt"
+    ],
+    "issue_place_s": [
+        "Jerusalem, Jerusalem, Judaea"
+    ],
+    "issue_city_s": [
+        "Jerusalem"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Judaea"
+    ],
+    "issue_obverse_figure_s": [
+        "Amphora"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Legend in paleo-Hebrew \"Year two\""
+    ],
+    "issue_obverse_legend_s": [
+        "\u05e9\u05e0\u05ea \u05e9\u05ea\u05d9\u05dd"
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Legend in paleo-Hebrew \"freedom of Zion\""
+    ],
+    "issue_reverse_legend_s": [
+        "\u05d7\u05e8\u05d5\u05ea \u05e6\u05d9\u05d5\u05df"
+    ],
+    "issue_references_s": [
+        "Meshorer Vol. 2, p. 260-261 12",
+        "BMC Palestine p. 273 35",
+        "SNG ANS  435"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "abdb6f8504b1d1e7"
+    ],
+    "_version_": 1672921805014171648,
+    "timestamp": "2020-07-22T12:55:58.797Z"
+}

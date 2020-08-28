@@ -1,0 +1,91 @@
+{
+    "id": "coin-9218",
+    "title_display": "Coin: 9218",
+    "pub_created_display": [
+        "fals, Qinnasrin"
+    ],
+    "call_number_display": [
+        "Coin 9218"
+    ],
+    "call_number_browse_s": [
+        "Coin 9218"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Irregual flan"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/04/1937"
+    ],
+    "find_feature_s": [
+        "Dig IV"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca732"
+    ],
+    "find_description_s": [
+        "below pavement in room 22, depth 1.80"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "weight_s": [
+        "5.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9218\",\"call_number_browse\":\"Coin 9218\"}}",
+    "pub_date_start_sort": 773,
+    "pub_date_end_sort": 774,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5886"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Qinnasrin, Jund Qinnasrin, Syria"
+    ],
+    "issue_city_s": [
+        "Qinnasrin"
+    ],
+    "issue_state_s": [
+        "Jund Qinnasrin"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_references_s": [
+        "Katalog der orientalischen M\u00fcnzen  2096=2098"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "094f0abf189ee589"
+    ],
+    "_version_": 1667144975947661312,
+    "timestamp": "2020-05-19T18:41:23.493Z"
+}

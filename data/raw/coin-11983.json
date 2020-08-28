@@ -1,0 +1,89 @@
+{
+    "id": "coin-11983",
+    "title_display": "Coin: 11983",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 11983"
+    ],
+    "call_number_browse_s": [
+        "Coin 11983"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "17.42"
+    ],
+    "weight_s": [
+        "3.987"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11983\",\"call_number_browse\":\"Coin 11983\"}}",
+    "pub_date_start_sort": -111,
+    "pub_date_end_sort": -110,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8031"
+    ],
+    "issue_master_s": [
+        "Ap. Claudius Pulcher"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "open circle"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "riding in a triga"
+    ],
+    "issue_reverse_orientation_s": [
+        "advancing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Holding reins in both hands"
+    ],
+    "issue_reverse_legend_s": [
+        "T.MAL.AP.CL.Q.VR"
+    ],
+    "issue_references_s": [
+        "RRC  299-1b",
+        "Syd.  570-1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "49439071fd1311c5"
+    ],
+    "_version_": 1667138126159544320,
+    "timestamp": "2020-05-19T16:46:52.819Z"
+}

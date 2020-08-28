@@ -1,0 +1,88 @@
+{
+    "id": "coin-12914",
+    "title_display": "Coin: 12914",
+    "pub_created_display": [
+        "Corinth"
+    ],
+    "call_number_display": [
+        "Coin 12914"
+    ],
+    "call_number_browse_s": [
+        "Coin 12914"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "8.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12914\",\"call_number_browse\":\"Coin 12914\"}}",
+    "pub_date_start_sort": -625,
+    "pub_date_end_sort": -500,
+    "issue_object_type_s": [
+        "forgery"
+    ],
+    "issue_number_s": [
+        "8460"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Corinth, Corinthia, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Corinthia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_obverse_symbol_s": [
+        "coppa"
+    ],
+    "issue_obverse_part_s": [
+        "flying"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "round wing, with bridle"
+    ],
+    "issue_reverse_figure_s": [
+        "Swastika"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "de870b3c7cd5809b"
+    ],
+    "_version_": 1667138313095479296,
+    "timestamp": "2020-05-19T16:49:51.096Z"
+}

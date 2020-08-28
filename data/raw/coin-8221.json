@@ -1,0 +1,97 @@
+{
+    "id": "coin-8221",
+    "title_display": "Coin: 8221",
+    "pub_created_display": [
+        "unit, Obulco"
+    ],
+    "call_number_display": [
+        "Coin 8221"
+    ],
+    "call_number_browse_s": [
+        "Coin 8221"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "16.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8221\",\"call_number_browse\":\"Coin 8221\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -150,
+    "pub_date_end_sort": -125,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "5232"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Obulco, Hispania Ulterior, Hispania"
+    ],
+    "issue_city_s": [
+        "Obulco"
+    ],
+    "issue_state_s": [
+        "Hispania Ulterior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "female"
+    ],
+    "issue_obverse_legend_s": [
+        "OBVLCO"
+    ],
+    "issue_reverse_symbol_s": [
+        "plough"
+    ],
+    "issue_reverse_figure_description_s": [
+        "|in exergue: corn ear"
+    ],
+    "issue_reverse_legend_s": [
+        "URKAILTU / NESELTUKO in iberian script"
+    ],
+    "issue_references_s": [
+        "CNH 344 17"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "52f1d99ea9755e75"
+    ],
+    "_version_": 1667138158504968192,
+    "timestamp": "2020-05-19T16:47:23.666Z"
+}

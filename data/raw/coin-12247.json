@@ -1,0 +1,110 @@
+{
+    "id": "coin-12247",
+    "title_display": "Coin: 12247",
+    "pub_created_display": [
+        "Theodore Svetoslav Terter, billon trachy, Tarnovo"
+    ],
+    "call_number_display": [
+        "Coin 12247"
+    ],
+    "call_number_browse_s": [
+        "Coin 12247"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscription and image well preserved."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "2.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12247\",\"call_number_browse\":\"Coin 12247\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 1300,
+    "pub_date_end_sort": 1321,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8254"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Theodore Svetoslav Terter"
+    ],
+    "issue_place_s": [
+        "Tarnovo, Tarnovo, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Tarnovo"
+    ],
+    "issue_state_s": [
+        "Tarnovo"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "formed by two lines"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor on a horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "advancing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with a low crown"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0398\u03b5\u03bf\u0434\u043e\u0440\u044a \u0426\u0420"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in right hand"
+    ],
+    "issue_references_s": [
+        "Iurukova p.107 ",
+        "Mushmov p.91 45"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "27e118a3c9b5080e"
+    ],
+    "_version_": 1667138302686265344,
+    "timestamp": "2020-05-19T16:49:41.169Z"
+}

@@ -1,0 +1,92 @@
+{
+    "id": "coin-10269",
+    "title_display": "Coin: 10269",
+    "pub_created_display": [
+        "Rome"
+    ],
+    "call_number_display": [
+        "Coin 10269"
+    ],
+    "call_number_browse_s": [
+        "Coin 10269"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "43"
+    ],
+    "weight_s": [
+        "53.346"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10269\",\"call_number_browse\":\"Coin 10269\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6513"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Dido"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "A draped Dido, facing right, is crowned by a wreath"
+    ],
+    "issue_obverse_legend_s": [
+        ".\u0394\u0399\u0394\u03a9 (branch) (leaf) \u0392\u0391\u03a3\u0399\u039b\u0399\u03a3\u03a3\u0391 (branch)"
+    ],
+    "issue_reverse_figure_s": [
+        "City"
+    ],
+    "issue_reverse_figure_description_s": [
+        "An ancient walled city (Carthage) and harbor with three boats"
+    ],
+    "issue_references_s": [
+        "Italian Medals 1 942"
+    ],
+    "issue_artists_s": [
+        "Alessandro Cesati",
+        "Alessandro Cesati"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3324c1882e062c01"
+    ],
+    "_version_": 1667138281610936320,
+    "timestamp": "2020-05-19T16:49:21.072Z"
+}

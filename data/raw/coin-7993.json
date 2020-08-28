@@ -1,0 +1,123 @@
+{
+    "id": "coin-7993",
+    "title_display": "Coin: 7993",
+    "pub_created_display": [
+        "follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7993"
+    ],
+    "call_number_browse_s": [
+        "Coin 7993"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Significantly clipped after minted. Die axis is unclear. Weight is 2.24g. The understrikes on obverse and reverse are unclear."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/24/1937"
+    ],
+    "find_feature_s": [
+        "Dig III Room A Well to 8.50M Basket W."
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca1644"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7993\",\"call_number_browse\":\"Coin 7993\"}}",
+    "pub_date_start_sort": 1085,
+    "pub_date_end_sort": 1092,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5026"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "K"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ r.hand raised in blessing in sling of cloak l.hand holds book from beneath. Border of large pellets."
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_reverse_part_s": [
+        "half-length standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Virgin orans. Border of large pellets."
+    ],
+    "issue_reverse_legend_s": [
+        "to l. M to r. \u03b8V"
+    ],
+    "issue_references_s": [
+        "DOC  K.1",
+        "BMC.Byz. 504 26",
+        "Sear  1901"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6c600d7c8d5b7616"
+    ],
+    "_version_": 1667138265102155776,
+    "timestamp": "2020-05-19T16:49:05.326Z"
+}

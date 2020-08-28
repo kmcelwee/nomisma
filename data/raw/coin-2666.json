@@ -1,0 +1,108 @@
+{
+    "id": "coin-2666",
+    "title_display": "Coin: 2666",
+    "pub_created_display": [
+        "Augustus (-30 to 14), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2666"
+    ],
+    "call_number_browse_s": [
+        "Coin 2666"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2666\",\"call_number_browse\":\"Coin 2666\"}}",
+    "pub_date_start_sort": -34,
+    "pub_date_end_sort": -27,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "287"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Octavian"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare head facing left, line border"
+    ],
+    "issue_obverse_legend_s": [
+        "CAESAR AVGVSTVS - DIVI F PATER PATRIAE"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "victory on globe, with wreath and palm"
+    ],
+    "issue_reverse_legend_s": [
+        "[CAESAR] - DIVI.F."
+    ],
+    "issue_references_s": [
+        "BMC.1. Augustus 603",
+        "RIC.1. Augustus 27",
+        "Sear  1552"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1b443e0a969496bc"
+    ],
+    "_version_": 1667138405132140544,
+    "timestamp": "2020-05-19T16:51:18.869Z"
+}

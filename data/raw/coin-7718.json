@@ -1,0 +1,122 @@
+{
+    "id": "coin-7718",
+    "title_display": "Coin: 7718",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7718"
+    ],
+    "call_number_browse_s": [
+        "Coin 7718"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-4-1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca733"
+    ],
+    "find_description_s": [
+        "Dig IV room 19, near south wall, depth 1.80m"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "4.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7718\",\"call_number_browse\":\"Coin 7718\"}}",
+    "pub_date_start_sort": 651,
+    "pub_date_end_sort": 655,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4819"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_workshop_s": [
+        "B"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing; holds long cross in r. hand, gl. cr. in l."
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "M, cross above"
+    ],
+    "issue_reverse_legend_s": [
+        "M, small B below, l. ANA"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 170 or 171",
+        "DOC vol. 2, page 450 class 5",
+        "BL vol. I, page 346 type 5a",
+        "BMC.Byz. vol. I, page 270 126ff.",
+        "Sear page 209 1004"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df10dae6ebd66d93"
+    ],
+    "_version_": 1667138261818015744,
+    "timestamp": "2020-05-19T16:49:02.195Z"
+}

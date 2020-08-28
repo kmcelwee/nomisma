@@ -1,0 +1,122 @@
+{
+    "id": "coin-9818",
+    "title_display": "Coin: 9818",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9818"
+    ],
+    "call_number_browse_s": [
+        "Coin 9818"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/12/1938"
+    ],
+    "find_feature_s": [
+        "Room A1 and a."
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Cb1693"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20.5"
+    ],
+    "weight_s": [
+        "2.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9818\",\"call_number_browse\":\"Coin 9818\"}}",
+    "pub_date_start_sort": 315,
+    "pub_date_end_sort": 316,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "6205"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head laur., dr., cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "IMP CONSTANTINVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter standing, leaning on scepter in l. hand, Victory on globe in r. hand, eagle with wreath on l. ground"
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONSERVATORI AVG NN | ANT"
+    ],
+    "issue_references_s": [
+        "RIC.7 Vol. VII, p677 15",
+        "Waage 118 1397"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "71c92dea50e2be5f"
+    ],
+    "_version_": 1667138277399855104,
+    "timestamp": "2020-05-19T16:49:17.058Z"
+}

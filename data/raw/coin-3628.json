@@ -1,0 +1,91 @@
+{
+    "id": "coin-3628",
+    "title_display": "Coin: 3628",
+    "call_number_display": [
+        "Coin 3628"
+    ],
+    "call_number_browse_s": [
+        "Coin 3628"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "technique_s": [
+        "struck"
+    ],
+    "weight_s": [
+        "41.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3628\",\"call_number_browse\":\"Coin 3628\"}}",
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2132"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Man, woman and child facing right. Torn down buildings in landscape. One bear tree."
+    ],
+    "issue_obverse_legend_s": [
+        "LA SOMME DEVASTEE"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagler"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eagle at top, wings spread, looking right.  Three tree stumps and tufts of grass on ground.  Path winding toward upper left horizon."
+    ],
+    "issue_reverse_legend_s": [
+        "1914 | 1918"
+    ],
+    "issue_references_s": [
+        "Forrer vol. 8 "
+    ],
+    "issue_artists_s": [
+        "Albert Auguste Roze, ALB ROZE",
+        "P Ansart, P ANSART",
+        "Albert Auguste Roze, A R",
+        "P Ansart, P A"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "09664514ee3cb05b"
+    ],
+    "_version_": 1667138163817054208,
+    "timestamp": "2020-05-19T16:47:28.734Z"
+}

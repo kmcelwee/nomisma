@@ -1,0 +1,103 @@
+{
+    "id": "coin-7914",
+    "title_display": "Coin: 7914",
+    "pub_created_display": [
+        "fals, Tabariya"
+    ],
+    "call_number_display": [
+        "Coin 7914"
+    ],
+    "call_number_browse_s": [
+        "Coin 7914"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-6-1937"
+    ],
+    "find_feature_s": [
+        "to 2M"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca181"
+    ],
+    "find_description_s": [
+        "South of EW pipe"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "4.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7914\",\"call_number_browse\":\"Coin 7914\"}}",
+    "pub_date_start_sort": 730,
+    "pub_date_end_sort": 740,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4970"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Ummayid"
+    ],
+    "issue_place_s": [
+        "Tabariya, Jund Filastin, Syria"
+    ],
+    "issue_city_s": [
+        "Tabariya"
+    ],
+    "issue_state_s": [
+        "Jund Filastin"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_description_s": [
+        "*** (unknown word)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627\u0627\u0644\u0644\u0647 ***"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Tree"
+    ],
+    "issue_references_s": [
+        "SNAT plate 11 339-345"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "818ec8e9583249a8"
+    ],
+    "_version_": 1667138191835004928,
+    "timestamp": "2020-05-19T16:47:55.453Z"
+}

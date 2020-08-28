@@ -1,0 +1,95 @@
+{
+    "id": "coin-5538",
+    "title_display": "Coin: 5538",
+    "pub_created_display": [
+        "1/6 dollar, Annapolis"
+    ],
+    "call_number_display": [
+        "Coin 5538"
+    ],
+    "call_number_browse_s": [
+        "Coin 5538"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Frederick Green| Nicholas Harwood.  Visible flecks of mica."
+    ],
+    "size_s": [
+        "91x75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5538\",\"call_number_browse\":\"Coin 5538\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1/6 dollar"
+    ],
+    "issue_number_s": [
+        "3130"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Annapolis, Maryland, United States of America"
+    ],
+    "issue_city_s": [
+        "Annapolis"
+    ],
+    "issue_state_s": [
+        "Maryland"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Maryland"
+    ],
+    "issue_obverse_legend_s": [
+        "ONE SIXTH of a DOLLAR.  This Bill of ONE SIXTH of a DOLLAR shall entitle the BEARER hereof to receive Gold or Silver, at the Rate of FOUR SHILINGS and SIX PENCE Sterling per DOLLAR for the said BILL according to a RESOLVE of the Provincial Convention\u2026"
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "TWO THIRDS OF A DOLLAR| Equal to Three Shillings Sterling.  ANNAPOLIS: Printed by F. GREEN."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 171"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d1ee0601ea9aa74"
+    ],
+    "_version_": 1667138391608655872,
+    "timestamp": "2020-05-19T16:51:05.975Z"
+}

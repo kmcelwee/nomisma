@@ -1,0 +1,112 @@
+{
+    "id": "coin-14978",
+    "title_display": "Coin: 14978",
+    "pub_created_display": [
+        "Half Dollar, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 14978"
+    ],
+    "call_number_browse_s": [
+        "Coin 14978"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Overton 110a"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32.5"
+    ],
+    "weight_s": [
+        "13.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14978\",\"call_number_browse\":\"Coin 14978\"}}",
+    "donor_s": [
+        "Charles Cass"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Half Dollar"
+    ],
+    "issue_number_s": [
+        "9186"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_edge_s": [
+        "FIFTY CENTS OR HALF A DOLLAR"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Libertas"
+    ],
+    "issue_obverse_part_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "Facing Right"
+    ],
+    "issue_obverse_legend_s": [
+        "LIBERTY"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_part_s": [
+        "heraldic"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_reverse_legend_s": [
+        "UNITED STATES OF AMERICA"
+    ],
+    "issue_references_s": [
+        "Breen  4593"
+    ],
+    "issue_artists_s": [
+        "Robert Scot, "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7e09b8f43a1b68c9"
+    ],
+    "_version_": 1667144700507717632,
+    "timestamp": "2020-05-19T18:31:23.266Z"
+}

@@ -1,0 +1,98 @@
+{
+    "id": "coin-11969",
+    "title_display": "Coin: 11969",
+    "pub_created_display": [
+        "Hadrian (117 to 138), aureus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11969"
+    ],
+    "call_number_browse_s": [
+        "Coin 11969"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "7.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11969\",\"call_number_browse\":\"Coin 11969\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 134,
+    "pub_date_end_sort": 138,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "8022"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVGCOSIIIPP"
+    ],
+    "issue_reverse_figure_s": [
+        "Spes"
+    ],
+    "issue_reverse_orientation_s": [
+        "advancing left"
+    ],
+    "issue_reverse_legend_s": [
+        "SPES P R"
+    ],
+    "issue_references_s": [
+        "RIC 2 371 274e",
+        "BMC 332 732"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e5db319678f2d1ea"
+    ],
+    "_version_": 1667138126432174080,
+    "timestamp": "2020-05-19T16:46:53.082Z"
+}

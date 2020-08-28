@@ -1,0 +1,104 @@
+{
+    "id": "coin-5590",
+    "title_display": "Coin: 5590",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 5590"
+    ],
+    "call_number_browse_s": [
+        "Coin 5590"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "4.237"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5590\",\"call_number_browse\":\"Coin 5590\"}}",
+    "donor_s": [
+        "Ernst Justus Haeberlin"
+    ],
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "3172"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Behind, X."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Dioscuri"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Dioscuri r. Legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border."
+    ],
+    "issue_references_s": [
+        "RRC Vol. I: 158 53/2",
+        "Syd.  229"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3afce6083b16881f"
+    ],
+    "_version_": 1667138391375872000,
+    "timestamp": "2020-05-19T16:51:05.752Z"
+}

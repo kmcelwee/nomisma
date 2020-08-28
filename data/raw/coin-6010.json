@@ -1,0 +1,89 @@
+{
+    "id": "coin-6010",
+    "title_display": "Coin: 6010",
+    "call_number_display": [
+        "Coin 6010"
+    ],
+    "call_number_browse_s": [
+        "Coin 6010"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Edge is a chronogram composed by Friedrich Kleinert and reads: SIC SOL CRESCENTES DECEDENS DVPLICAT VMBRAS VIRG . (Thus the setting sun lengthens the increasing shadows. -comp. Virgil, Eclog. ii. 67) White metal with copper plug."
+    ],
+    "size_s": [
+        "45"
+    ],
+    "weight_s": [
+        "24.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6010\",\"call_number_browse\":\"Coin 6010\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3484"
+    ],
+    "issue_metal_s": [
+        "White metal"
+    ],
+    "issue_master_s": [
+        "Friedrich Kleinert (1633 to 1714)"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Philip V of Spain"
+    ],
+    "issue_obverse_symbol_s": [
+        "eclipse"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Scene celebrating relief of Barcelona and flight of Philip V to French border.  The king's crown is shown falling from his head.  Angel depicted as covering the sun's rays."
+    ],
+    "issue_obverse_legend_s": [
+        "SOLIS ECLIPSIS . D . 12 . MAI . | BARCELLONA OBSIDIONE LIBE . | RATA PHILIPPO ANDEGAV . | EX HISP . FVGATO ."
+    ],
+    "issue_reverse_figure_s": [
+        "Marlborough"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Duke of Marlborough is depicted on horseback in battle with fallen enemy soldiers beneath.  Scene celebrates the promptitude and impetuousness of the Duke in battle."
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIARVM IMPETVS | SVB DUCE MARLEBVRG . VICTORE | PERPETVO . GALL . PROFLIGATIS | BRABANTIA ET FLANDRIA | EREPT\u00c6 | MDCCVI ."
+    ],
+    "issue_references_s": [
+        "M.I. Plate CXXIII 12",
+        "Forrer 2, p.441 "
+    ],
+    "issue_artists_s": [
+        "Georg Hautsch, *"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4070c9f5ced41f8f"
+    ],
+    "_version_": 1667138383544057856,
+    "timestamp": "2020-05-19T16:50:58.283Z"
+}

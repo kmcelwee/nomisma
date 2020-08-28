@@ -1,0 +1,131 @@
+{
+    "id": "coin-10418",
+    "title_display": "Coin: 10418",
+    "pub_created_display": [
+        "Seleucus III (-226 to -223), unit, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 10418"
+    ],
+    "call_number_browse_s": [
+        "Coin 10418"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/07/1935"
+    ],
+    "find_locus_s": [
+        "DH 23/24-N"
+    ],
+    "find_number_s": [
+        "C4785"
+    ],
+    "find_description_s": [
+        "Surface"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "3.4"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10418\",\"call_number_browse\":\"Coin 10418\"}}",
+    "pub_date_start_sort": -226,
+    "pub_date_end_sort": -223,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "8924"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus III (-226 to -223)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Artemis"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "draped"
+    ],
+    "issue_obverse_attributes_s": [
+        "quiver, at shoulder"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, in r.hand",
+        "bow, in l.hand",
+        "m10419, on outer left",
+        "bow, in r.hand",
+        "m13781, behind head"
+    ],
+    "issue_references_s": [
+        "H & L I,v.I,p.334 922.1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d366d0aa072742fd"
+    ],
+    "_version_": 1670214936234557440,
+    "timestamp": "2020-06-22T15:51:27.569Z"
+}

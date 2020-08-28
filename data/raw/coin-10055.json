@@ -1,0 +1,104 @@
+{
+    "id": "coin-10055",
+    "title_display": "Coin: 10055",
+    "pub_created_display": [
+        "Henry of Champagne (1192 to 1197), fractional, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10055"
+    ],
+    "call_number_browse_s": [
+        "Coin 10055"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/3/1937"
+    ],
+    "find_feature_s": [
+        "In ancient dig fallen earth, east of stone pavement"
+    ],
+    "find_locus_s": [
+        "17-N"
+    ],
+    "find_number_s": [
+        "Ca148"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10055\",\"call_number_browse\":\"Coin 10055\"}}",
+    "pub_date_start_sort": 1192,
+    "pub_date_end_sort": 1197,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fractional"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Henry of Champagne (1192 to 1197)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Fleur-de-lis"
+    ],
+    "issue_obverse_legend_s": [
+        "+COMESHENRICVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross pattee"
+    ],
+    "issue_reverse_symbol_s": [
+        "annulet"
+    ],
+    "issue_reverse_legend_s": [
+        "+PVGES DACCOH"
+    ],
+    "issue_references_s": [
+        "Ox.  199",
+        "Schl.  III28"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "17f357af4bbda4ce"
+    ],
+    "_version_": 1674257973214445568,
+    "timestamp": "2020-08-06T06:53:48.092Z"
+}

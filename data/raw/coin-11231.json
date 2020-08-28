@@ -1,0 +1,94 @@
+{
+    "id": "coin-11231",
+    "title_display": "Coin: 11231",
+    "pub_created_display": [
+        "Khusro II/ 2nd reign, AV. D-new"
+    ],
+    "call_number_display": [
+        "Coin 11231"
+    ],
+    "call_number_browse_s": [
+        "Coin 11231"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11231\",\"call_number_browse\":\"Coin 11231\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 591,
+    "pub_date_end_sort": 628,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "AV. D-new"
+    ],
+    "issue_number_s": [
+        "7397"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Khusro II/ 2nd reign"
+    ],
+    "issue_series_s": [
+        "Uncertain Mint, Type II/3"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Khusro II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural elements, crescent above forehead, wing above crown cap to the left and right, above this crescent and star; double pearl diadem, diadem ribbons commencing to the left and right behind the shoulders; pointing upwards; earing consisting of three elements; neck-line of tunica edged with a row of pearls; crescent on left shoulder; both shoulders decorated with crescent and star; double row of pearls running from the shoulders to the breast, two dots on the breast; star in upper left and right field; crescent  at 3 h, 6 h and 9 h; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "1 h l. i. hslwb MLKAn MLKA, 11 h l. o. GDH/\u02bcpzwt\u00b4|Husraw \u0161\u0101h\u0101n \u0161\u0101h xwarrah abz\u016bd| \u201cKhusro, King of Kings, he increased the glory\u201d"
+    ],
+    "issue_reverse_figure_s": [
+        "Fronting bust"
+    ],
+    "issue_reverse_figure_description_s": [
+        "head surrounded by flaming halo; crown cap, crescent above forehead; above ribbons, above uncovered korymbos; double pearl diadem, diadem ribbons commencing to the left and right behind the shoulders, pointing upwards; to the left and the right ball of hairs in the neck; neck-line of tunica edged with a row of pearls; double row of pearls running from the shoulders to the breast, two dots on the breast, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "'yl'n 'pzwt HWYTWN |\u0112r\u0101n abz\u016bd d\u0101nist| \u201cHe increased the strength of Iran\u201d; RY 23"
+    ],
+    "issue_references_s": [
+        "SN  Uncertain Mint, Type II/3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5c354d51fb14026f"
+    ],
+    "_version_": 1667138161636016128,
+    "timestamp": "2020-05-19T16:47:26.652Z"
+}

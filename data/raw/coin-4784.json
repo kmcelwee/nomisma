@@ -1,0 +1,111 @@
+{
+    "id": "coin-4784",
+    "title_display": "Coin: 4784",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4784"
+    ],
+    "call_number_browse_s": [
+        "Coin 4784"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Countermark on obverse."
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "17.1"
+    ],
+    "weight_s": [
+        "3.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4784\",\"call_number_browse\":\"Coin 4784\"}}",
+    "donor_s": [
+        "Rudolf-Ernst Br\u00fcnnow"
+    ],
+    "pub_date_start_sort": -32,
+    "pub_date_end_sort": -31,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2610"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Antonius (c. -83 to -30)"
+    ],
+    "issue_workshop_s": [
+        "Moving with M. Antonius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Galley"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with sceptre tied with fillet on prow; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "ANT AVG | III VIR R \u0393 C"
+    ],
+    "issue_reverse_figure_s": [
+        "Aquila"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "between two standards; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "LEG XX"
+    ],
+    "issue_references_s": [
+        "RRC  544/36",
+        "Syd.  1243",
+        "Sear  1479v."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5fe87567dc91caff"
+    ],
+    "_version_": 1667138504566505472,
+    "timestamp": "2020-05-19T16:52:53.698Z"
+}

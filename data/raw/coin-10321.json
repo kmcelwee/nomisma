@@ -1,0 +1,85 @@
+{
+    "id": "coin-10321",
+    "title_display": "Coin: 10321",
+    "pub_created_display": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399)"
+    ],
+    "call_number_display": [
+        "Coin 10321"
+    ],
+    "call_number_browse_s": [
+        "Coin 10321"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/23/1935"
+    ],
+    "find_feature_s": [
+        "Tomb 5"
+    ],
+    "find_locus_s": [
+        "L-24"
+    ],
+    "find_number_s": [
+        "C4580"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "3.82"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10321\",\"call_number_browse\":\"Coin 10321\"}}",
+    "pub_date_start_sort": 1389,
+    "pub_date_end_sort": 1399,
+    "issue_number_s": [
+        "6557"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399)"
+    ],
+    "issue_place_s": [
+        "Syria, Egypt"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Circle running around"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0633\u0649"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  ?"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fa441d7746fbfece"
+    ],
+    "_version_": 1667138175673303040,
+    "timestamp": "2020-05-19T16:47:40.041Z"
+}

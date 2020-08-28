@@ -1,0 +1,73 @@
+{
+    "id": "coin-3792",
+    "title_display": "Coin: 3792",
+    "call_number_display": [
+        "Coin 3792"
+    ],
+    "call_number_browse_s": [
+        "Coin 3792"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[CORNUCOPIA] BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "67"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3792\",\"call_number_browse\":\"Coin 3792\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2199"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Soldier stands at center, raising flag on pole."
+    ],
+    "issue_reverse_figure_description_s": [
+        "At top center, a town depicted within a circle. Legend underneath."
+    ],
+    "issue_reverse_legend_s": [
+        "VEXILLVM PATRIAE POST ARDVA BELLA TRIVMPHANS CALLICVS ATTOLIT RHENANO IN LITTORE MILES"
+    ],
+    "issue_artists_s": [
+        "Raouil Ren\u00e9 Alphonse B\u00e9nard, RAOUL B\u00c9NARD"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1bcb5802fe7864cc"
+    ],
+    "_version_": 1667138442265362432,
+    "timestamp": "2020-05-19T16:51:54.282Z"
+}

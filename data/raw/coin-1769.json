@@ -1,0 +1,97 @@
+{
+    "id": "coin-1769",
+    "title_display": "Coin: 1769",
+    "pub_created_display": [
+        "bronze, Bottiaea Chalcidice"
+    ],
+    "call_number_display": [
+        "Coin 1769"
+    ],
+    "call_number_browse_s": [
+        "Coin 1769"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "2.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1769\",\"call_number_browse\":\"Coin 1769\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -392,
+    "pub_date_end_sort": -379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1151"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Bottiaea Chalcidice, Macedonia, Greece"
+    ],
+    "issue_city_s": [
+        "Bottiaea Chalcidice"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_reverse_figure_s": [
+        "Lyre"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u039f\u03a4\u03a4\u0399\u0391\u0399\u03a9\u039d"
+    ],
+    "issue_references_s": [
+        "BMC Mac. Macedonia 63-2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "308ec25e25092bdf"
+    ],
+    "_version_": 1667138214084739072,
+    "timestamp": "2020-05-19T16:48:16.674Z"
+}

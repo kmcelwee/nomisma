@@ -1,0 +1,124 @@
+{
+    "id": "coin-3397",
+    "title_display": "Coin: 3397",
+    "pub_created_display": [
+        "Bohemond II, 1119-1130, copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3397"
+    ],
+    "call_number_browse_s": [
+        "Coin 3397"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Overstruck on Schlumberger pl II 12"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3/30/1937"
+    ],
+    "find_locus_s": [
+        "17-N"
+    ],
+    "find_number_s": [
+        "ca106"
+    ],
+    "find_description_s": [
+        "1 to 2 m"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3397\",\"call_number_browse\":\"Coin 3397\"}}",
+    "pub_date_start_sort": 1119,
+    "pub_date_end_sort": 1130,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_number_s": [
+        "2030"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Bohemond II, 1119-1130"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "S. Peter"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "nimbate, cross in l. hand"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "to right  and left of bust"
+    ],
+    "issue_obverse_legend_s": [
+        "O \u03a0 \u03b5 | TOC"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with inscription in four quarters and floriate foot"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "in quadrants"
+    ],
+    "issue_reverse_legend_s": [
+        "BA |IM | VN| \u0394\u039fC |"
+    ],
+    "issue_references_s": [
+        "Schl. pl. II 15"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ad11c4fb7645f084"
+    ],
+    "_version_": 1667138481850155008,
+    "timestamp": "2020-05-19T16:52:32.035Z"
+}

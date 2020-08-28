@@ -1,0 +1,121 @@
+{
+    "id": "coin-4180",
+    "title_display": "Coin: 4180",
+    "pub_created_display": [
+        "quinarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4180"
+    ],
+    "call_number_browse_s": [
+        "Coin 4180"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Sydenham 1054a: TR monogram in VICTRIX (reverse legend) composed of R with a line above rather than a single figure"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "14.1"
+    ],
+    "weight_s": [
+        "2.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4180\",\"call_number_browse\":\"Coin 4180\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -47,
+    "pub_date_end_sort": -46,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quinarius"
+    ],
+    "issue_number_s": [
+        "2381"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Porcius Cato [the Younger/Uticensis] (-95 to -46)"
+    ],
+    "issue_workshop_s": [
+        "Africa"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Liber"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing ivy wreath; border of dots; AT of legend in monogram"
+    ],
+    "issue_obverse_legend_s": [
+        "M CATO \u0393RO \u0393R"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holds patera in r. hand, palm branch in l. hand; legend in exergue; TR of legend in monogram; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "VICTRIX"
+    ],
+    "issue_reverse_attributes_s": [
+        "patera, in right hand",
+        "palm branch, in left hand"
+    ],
+    "issue_references_s": [
+        "RRC  462/2",
+        "Syd.  1054",
+        "Sear  1383"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9d826d485abc423d"
+    ],
+    "_version_": 1667138492552970240,
+    "timestamp": "2020-05-19T16:52:42.244Z"
+}

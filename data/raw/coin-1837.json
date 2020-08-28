@@ -1,0 +1,108 @@
+{
+    "id": "coin-1837",
+    "title_display": "Coin: 1837",
+    "pub_created_display": [
+        "Claudius (41 to 54), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1837"
+    ],
+    "call_number_browse_s": [
+        "Coin 1837"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "on reverse, NCAPR in rectangular stamp"
+    ],
+    "notes_display": [
+        "On both sides of coin, coin has pitted surface.  On obverse, legends reads [AGRIPPIN]A M F GERMANIC[I CAESARIS].  On reverse, legend reads S.C/ [TI] CLAVDIVS CAESAR AVG GERM [P M TR P IMP P P]."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "26.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1837\",\"call_number_browse\":\"Coin 1837\"}}",
+    "pub_date_start_sort": 42,
+    "pub_date_end_sort": 42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "1199"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Agrippina"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare head; draped, hair waved and fasted in a long plait at back; one lock falls free down neck"
+    ],
+    "issue_obverse_legend_s": [
+        "AGRIPPINA M F GERMANICI CAESARIS"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "S C in large capitals in center"
+    ],
+    "issue_reverse_legend_s": [
+        "S.C/ TI CLAVDIVS CAESAR AVG GERM P M TR P IMP P P"
+    ],
+    "issue_references_s": [
+        "RIC.1. Claudius 85",
+        "BMC.1. Claudius 222",
+        "Sear  1906"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3d76b69de4d123b3"
+    ],
+    "_version_": 1667138215161626624,
+    "timestamp": "2020-05-19T16:48:17.699Z"
+}

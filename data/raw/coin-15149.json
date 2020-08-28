@@ -1,0 +1,92 @@
+{
+    "id": "coin-15149",
+    "title_display": "Coin: 15149",
+    "pub_created_display": [
+        "Grand Cross"
+    ],
+    "call_number_display": [
+        "Coin 15149"
+    ],
+    "call_number_browse_s": [
+        "Coin 15149"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15149\",\"call_number_browse\":\"Coin 15149\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1913,
+    "pub_date_end_sort": 1978,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grand Cross"
+    ],
+    "issue_number_s": [
+        "9306"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "cross"
+    ],
+    "issue_color_s": [
+        "red, blue, green"
+    ],
+    "issue_obverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_obverse_figure_description_s": [
+        "enameled"
+    ],
+    "issue_obverse_legend_s": [
+        "INTER ARMA CHARITAS"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a white enameled band"
+    ],
+    "issue_reverse_figure_s": [
+        "Stylized 1909"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on a blue enameled field"
+    ],
+    "issue_reverse_legend_s": [
+        "ORDEN DE HONOR Y MERITO"
+    ],
+    "issue_reverse_attributes_s": [
+        "Legend, on a white enameled band"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:171-76",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  329-30"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2d1ef72628a377d1"
+    ],
+    "_version_": 1667145329321967616,
+    "timestamp": "2020-05-19T18:50:52.199Z"
+}

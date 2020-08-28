@@ -1,0 +1,106 @@
+{
+    "id": "coin-11976",
+    "title_display": "Coin: 11976",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 11976"
+    ],
+    "call_number_browse_s": [
+        "Coin 11976"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "20.47"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11976\",\"call_number_browse\":\"Coin 11976\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -112,
+    "pub_date_end_sort": -111,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8029"
+    ],
+    "issue_master_s": [
+        "L. Caesius"
+    ],
+    "issue_place_s": [
+        "Rome"
+    ],
+    "issue_region_s": [
+        "Rome"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_symbol_s": [
+        "A^P"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left, looking back"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Holding thunderbolt in right hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Lares Praestites"
+    ],
+    "issue_reverse_symbol_s": [
+        "LA[design]PRE"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Bust of Vulcan holding tongs above"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "On either side of dog"
+    ],
+    "issue_reverse_legend_s": [
+        "L.CAESI"
+    ],
+    "issue_references_s": [
+        "RRC Volume 1, Page 312 298"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "733caed52db6aa99"
+    ],
+    "_version_": 1667138126297956352,
+    "timestamp": "2020-05-19T16:46:52.951Z"
+}

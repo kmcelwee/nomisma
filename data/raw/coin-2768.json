@@ -1,0 +1,99 @@
+{
+    "id": "coin-2768",
+    "title_display": "Coin: 2768",
+    "pub_created_display": [
+        "John Armstrong (1717 to 1795)"
+    ],
+    "call_number_display": [
+        "Coin 2768"
+    ],
+    "call_number_browse_s": [
+        "Coin 2768"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bronze struck 1800-1860 US Mint; early signs of die breaks"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2768\",\"call_number_browse\":\"Coin 2768\"}}",
+    "pub_date_start_sort": 1800,
+    "pub_date_end_sort": 1860,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1752"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "John Armstrong (1717 to 1795)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Historical Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_figure_description_s": [
+        "shield blazoned quarterly: azure, on a fess argent two dexter hands conjoined proper; vert, a garb; argent, a pair of scales in equipose proper; azure, a shipt sailing to sinister proper--believed to be arms formerly used by City of Philadelphia"
+    ],
+    "issue_obverse_legend_s": [
+        "THE GIFT OF THE CORPORATION OF THE CITY OF PHILADELPHIA"
+    ],
+    "issue_reverse_figure_s": [
+        "Indian village"
+    ],
+    "issue_reverse_figure_description_s": [
+        "log cabin village in flames; to r. a river; in foreground officer accompanied by two men points to soldier firing under cover of tree; Indian falling on bank of river at r."
+    ],
+    "issue_reverse_legend_s": [
+        "KITTANNING DESTROYED BY COL.L ARMSTRONG. | SEPTEMBER. 8. | 1756"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Betts  400",
+        "Julian  MI-33"
+    ],
+    "issue_artists_s": [
+        "Edward Duffield"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b8cbfd1ffb5643f9"
+    ],
+    "_version_": 1667138478103592960,
+    "timestamp": "2020-05-19T16:52:28.463Z"
+}

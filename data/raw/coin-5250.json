@@ -1,0 +1,118 @@
+{
+    "id": "coin-5250",
+    "title_display": "Coin: 5250",
+    "pub_created_display": [
+        "1 Cent, Birmingham"
+    ],
+    "call_number_display": [
+        "Coin 5250"
+    ],
+    "call_number_browse_s": [
+        "Coin 5250"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "9.873"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5250\",\"call_number_browse\":\"Coin 5250\"}}",
+    "pub_date_start_sort": 1794,
+    "pub_date_end_sort": 1795,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cent"
+    ],
+    "issue_number_s": [
+        "2922"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_master_s": [
+        "Thomas Wyon (1767 to 1830)"
+    ],
+    "issue_workshop_s": [
+        "Kempson's"
+    ],
+    "issue_series_s": [
+        "United States Colonial"
+    ],
+    "issue_place_s": [
+        "Birmingham, Britain, United Kingdom"
+    ],
+    "issue_city_s": [
+        "Birmingham"
+    ],
+    "issue_state_s": [
+        "Britain"
+    ],
+    "issue_region_s": [
+        "United Kingdom"
+    ],
+    "issue_obverse_figure_s": [
+        "Woman"
+    ],
+    "issue_obverse_symbol_s": [
+        "pilius"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Woman w/right breast exposed, standing erect in front of bale; holding pilius cap on staff in left hand.  Right hand at side."
+    ],
+    "issue_obverse_legend_s": [
+        "LIBERTY & COMMERCE 1795"
+    ],
+    "issue_reverse_figure_s": [
+        "Ship"
+    ],
+    "issue_reverse_part_s": [
+        "sailing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Three-masted sailing ship, with sails full, facing right, on water."
+    ],
+    "issue_reverse_legend_s": [
+        "AT THE STORE OF TALBOT ALLUM & LEE NEW YORK.*"
+    ],
+    "issue_references_s": [
+        "Breen  1035",
+        "  Pl. IX, 20",
+        "Hims  ",
+        "Hims  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "26c578c228f7ee09"
+    ],
+    "_version_": 1667138493166387200,
+    "timestamp": "2020-05-19T16:52:42.827Z"
+}

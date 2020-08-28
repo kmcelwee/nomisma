@@ -1,0 +1,73 @@
+{
+    "id": "coin-6192",
+    "title_display": "Coin: 6192",
+    "pub_created_display": [
+        "5 Shillings"
+    ],
+    "call_number_display": [
+        "Coin 6192"
+    ],
+    "call_number_browse_s": [
+        "Coin 6192"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "155x103"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6192\",\"call_number_browse\":\"Coin 6192\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "5 Shillings"
+    ],
+    "issue_number_s": [
+        "3638"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "William Bradford (1663 to 1752)"
+    ],
+    "issue_series_s": [
+        "May 31, 1709"
+    ],
+    "issue_place_s": [
+        "New York, United States of America"
+    ],
+    "issue_state_s": [
+        "New York"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Taped to coin 6191 (10 shilling note). This note is on the right."
+    ],
+    "issue_obverse_legend_s": [
+        "Five Shillings. THis Indented Bill of Five Shillings, due from the Colony of New-York to the Possessor thereof, shall be in equal value to Money, & shall be accordingly accepted by the Treasurer of this Colony, for the time being, in all publick Payments, and for any Fund at any time in the Treasury. Dated, New-York 31st of May, 1709 by order of the Lieut. Governor, Council, and General Assembly of the said Colony."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "18612977ca6f5e5e"
+    ],
+    "_version_": 1667138374872334336,
+    "timestamp": "2020-05-19T16:50:50.013Z"
+}

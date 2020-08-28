@@ -1,0 +1,100 @@
+{
+    "id": "coin-1324",
+    "title_display": "Coin: 1324",
+    "pub_created_display": [
+        "Dionysos 1 (-406 to -367), hemilitra, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1324"
+    ],
+    "call_number_browse_s": [
+        "Coin 1324"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1324\",\"call_number_browse\":\"Coin 1324\"}}",
+    "donor_s": [
+        "Knobloch"
+    ],
+    "pub_date_start_sort": -406,
+    "pub_date_end_sort": -400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hemilitra"
+    ],
+    "issue_number_s": [
+        "743"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Dionysos 1 (-406 to -367)"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Arethusa"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Wheel"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with four spokes"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a3\u03a5\u03a1\u0391"
+    ],
+    "issue_reverse_attributes_s": [
+        "dolphin, two of the wheel sections have dolphins swimming"
+    ],
+    "issue_references_s": [
+        "ANS Part 5, Sicily III 403v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2ef456ec241b65ad"
+    ],
+    "_version_": 1667138210197667840,
+    "timestamp": "2020-05-19T16:48:12.964Z"
+}

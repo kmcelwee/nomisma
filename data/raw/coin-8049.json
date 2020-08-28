@@ -1,0 +1,107 @@
+{
+    "id": "coin-8049",
+    "title_display": "Coin: 8049",
+    "pub_created_display": [
+        "Galerius Maximian (305 to 311)"
+    ],
+    "call_number_display": [
+        "Coin 8049"
+    ],
+    "call_number_browse_s": [
+        "Coin 8049"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/17/1937"
+    ],
+    "find_feature_s": [
+        "Dig III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca1356"
+    ],
+    "find_description_s": [
+        "5-5.0M"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8049\",\"call_number_browse\":\"Coin 8049\"}}",
+    "pub_date_start_sort": 295,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5081"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Galerius Maximian (305 to 311)"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust r. rad., dr. and cuir; drapery seen from back"
+    ],
+    "issue_obverse_legend_s": [
+        "(IMPCMAVRPR)OBUSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory standing r., holding palm, presenting wreath to emperor standing, holding spear"
+    ],
+    "issue_reverse_legend_s": [
+        "CONCORDIAMILITUM"
+    ],
+    "issue_references_s": [
+        "Waage p.110 1280",
+        "RIC, VII V,II,p.117 907"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "daa04b1a20ccd001"
+    ],
+    "_version_": 1667145329143709696,
+    "timestamp": "2020-05-19T18:42:24.145Z"
+}

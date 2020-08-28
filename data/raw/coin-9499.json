@@ -1,0 +1,109 @@
+{
+    "id": "coin-9499",
+    "title_display": "Coin: 9499",
+    "pub_created_display": [
+        "Prusias II, unknown, Kingdom of Bithynia"
+    ],
+    "call_number_display": [
+        "Coin 9499"
+    ],
+    "call_number_browse_s": [
+        "Coin 9499"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_description_s": [
+        "Bought Seaby, 1929, $1.00 (Platt Collection)"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9499\",\"call_number_browse\":\"Coin 9499\"}}",
+    "pub_date_start_sort": 180,
+    "pub_date_end_sort": 149,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unknown"
+    ],
+    "issue_number_s": [
+        "6082"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Prusias II"
+    ],
+    "issue_place_s": [
+        "Kingdom of Bithynia, Bithynia, Asia"
+    ],
+    "issue_city_s": [
+        "Kingdom of Bithynia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Beardless head of Prusias II, r., wearing winged diadem"
+    ],
+    "issue_reverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_reverse_symbol_s": [
+        "Y inside \u041f"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Herakles l., in r. hand, club, in l. hand, lion's skin"
+    ],
+    "issue_reverse_legend_s": [
+        "BA\u03a3I\u039bE\u03a9\u03a3  \\\\  \u041f\u03a1OY\u03a3IOY"
+    ],
+    "issue_references_s": [
+        "Catalogue of the Greek Coins in the British Museum Pontus to Bosporus p. 210, #5"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d974b575e2845d16"
+    ],
+    "_version_": 1667138146668642304,
+    "timestamp": "2020-05-19T16:47:12.380Z"
+}

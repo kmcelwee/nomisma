@@ -1,0 +1,103 @@
+{
+    "id": "coin-14018",
+    "title_display": "Coin: 14018",
+    "pub_created_display": [
+        "Tetradrachm, Athens"
+    ],
+    "call_number_display": [
+        "Coin 14018"
+    ],
+    "call_number_browse_s": [
+        "Coin 14018"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "16.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14018\",\"call_number_browse\":\"Coin 14018\"}}",
+    "donor_s": [
+        "David Magie"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "9042"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of Athena, of archaic style, wearing round earring and close-fitting crested helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "incuse square, within which owl, wings closed; behind, crescent and two olive leaves and berry"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0398\u0395"
+    ],
+    "issue_references_s": [
+        "Catalogue of the Greek Coins in the British Museum p.6  41"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4ee7506c927ec723"
+    ],
+    "_version_": 1667310924077203456,
+    "timestamp": "2020-05-21T14:33:25.760Z"
+}

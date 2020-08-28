@@ -1,0 +1,83 @@
+{
+    "id": "coin-5035",
+    "title_display": "Coin: 5035",
+    "pub_created_display": [
+        "10 Shillings"
+    ],
+    "call_number_display": [
+        "Coin 5035"
+    ],
+    "call_number_browse_s": [
+        "Coin 5035"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "William McKinly| Thomas Collins| Boaz Manlove.  Visible flecks of mica."
+    ],
+    "size_s": [
+        "90x76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5035\",\"call_number_browse\":\"Coin 5035\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "10 Shillings"
+    ],
+    "issue_number_s": [
+        "2789"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Adams"
+    ],
+    "issue_place_s": [
+        "Delaware, United States of America"
+    ],
+    "issue_state_s": [
+        "Delaware"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Delaware"
+    ],
+    "issue_obverse_legend_s": [
+        "TEN SHILLINGS. This Indented BILL shall pass current for Ten Shillings, according to an Act of General Assembly of the counties of Newcastle, Rent, and Suffer, upon Delaware, passed in the 15th Year of the Reign of His Majesty Geo. The 3d. Dated the 1st Day of Jan. 1776. Xs."
+    ],
+    "issue_reverse_figure_s": [
+        "Wheat sheaf"
+    ],
+    "issue_reverse_legend_s": [
+        "TEN SHILLINGS. | To Counterfeit is Death.  Printed by JAMES ADAMS, 1776."
+    ],
+    "issue_references_s": [
+        "Newman p. 121",
+        "Shafer & Cuhaj p. 1102 S640"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d52d60477815a70e"
+    ],
+    "_version_": 1667138394192347136,
+    "timestamp": "2020-05-19T16:51:08.439Z"
+}

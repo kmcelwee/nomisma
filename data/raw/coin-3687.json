@@ -1,0 +1,76 @@
+{
+    "id": "coin-3687",
+    "title_display": "Coin: 3687",
+    "call_number_display": [
+        "Coin 3687"
+    ],
+    "call_number_browse_s": [
+        "Coin 3687"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "13.07"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3687\",\"call_number_browse\":\"Coin 3687\"}}",
+    "donor_s": [
+        "Professor Henry van Dyke, Jr."
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1915,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2171"
+    ],
+    "issue_metal_s": [
+        "Silvered bronze"
+    ],
+    "issue_place_s": [
+        "Belgium"
+    ],
+    "issue_region_s": [
+        "Belgium"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Woman stands on left holding palm branch. Woman sits on right, faces left, holds staff at center with pointed tip and  bow tied at top and fabric  streaming down."
+    ],
+    "issue_reverse_figure_description_s": [
+        "6-pointed star at top center, beams extending from it."
+    ],
+    "issue_reverse_legend_s": [
+        "ETATS UNIS D'AMERIQUE LA POPULATION BELGE RECONNAISSANTS. | 1914-1915 | A AN DE VEREENIGDE STATEN VAN AMERIKA DE BELGISCHE BEVOLKING ERKENTELIJK"
+    ],
+    "issue_artists_s": [
+        "Jules Baetes, BAETES"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8cd696dff726093c"
+    ],
+    "_version_": 1667138441268166656,
+    "timestamp": "2020-05-19T16:51:53.331Z"
+}

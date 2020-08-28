@@ -1,0 +1,82 @@
+{
+    "id": "coin-5555",
+    "title_display": "Coin: 5555",
+    "pub_created_display": [
+        "Xuan of Western Han \u897f\u6f22\u5ba3\u5e1d (-73 to -49), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5555"
+    ],
+    "call_number_browse_s": [
+        "Coin 5555"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u4e0a\u6a2a"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "3.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5555\",\"call_number_browse\":\"Coin 5555\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": -73,
+    "pub_date_end_sort": -49,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3142"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Xuan of Western Han \u897f\u6f22\u5ba3\u5e1d (-73 to -49)"
+    ],
+    "issue_series_s": [
+        "Western Han Wu Zhu \u897f\u6c49\u4e94\u94e2"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u4e94\u9296"
+    ],
+    "issue_references_s": [
+        "Qin Han 184 730"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "39171ce10fc57499"
+    ],
+    "_version_": 1667138395103559680,
+    "timestamp": "2020-05-19T16:51:09.306Z"
+}

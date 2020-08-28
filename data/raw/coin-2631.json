@@ -1,0 +1,94 @@
+{
+    "id": "coin-2631",
+    "title_display": "Coin: 2631",
+    "pub_created_display": [
+        "Henry VI of Sicily (1196 to 1197), denaro, Brindisi"
+    ],
+    "call_number_display": [
+        "Coin 2631"
+    ],
+    "call_number_browse_s": [
+        "Coin 2631"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "0.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2631\",\"call_number_browse\":\"Coin 2631\"}}",
+    "pub_date_start_sort": 1194,
+    "pub_date_end_sort": 1197,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "1652"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Henry VI of Sicily (1196 to 1197)"
+    ],
+    "issue_place_s": [
+        "Brindisi, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Brindisi"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "stars in 2nd and 3rd quadrants"
+    ],
+    "issue_obverse_legend_s": [
+        "HE. INPERATOR"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u03a9 AP"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_legend_s": [
+        "C. INPERZTRIX"
+    ],
+    "issue_references_s": [
+        "MEC 14  485"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dbda3f9c038571c8"
+    ],
+    "_version_": 1667138160034840576,
+    "timestamp": "2020-05-19T16:47:25.126Z"
+}

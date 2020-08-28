@@ -1,0 +1,88 @@
+{
+    "id": "coin-9234",
+    "title_display": "Coin: 9234",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9234"
+    ],
+    "call_number_browse_s": [
+        "Coin 9234"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "*/ baraka marginal legend vanished, but fabic suggests group 1."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/07/1937"
+    ],
+    "find_feature_s": [
+        "North East Corner"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca223"
+    ],
+    "find_description_s": [
+        "to 1.80M."
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9234\",\"call_number_browse\":\"Coin 9234\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5896"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_place_s": [
+        "Iraq"
+    ],
+    "issue_region_s": [
+        "Iraq"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2086e9efb63e88e1"
+    ],
+    "_version_": 1667144973564248064,
+    "timestamp": "2020-05-19T18:35:43.073Z"
+}

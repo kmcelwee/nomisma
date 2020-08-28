@@ -1,0 +1,93 @@
+{
+    "id": "coin-9880",
+    "title_display": "Coin: 9880",
+    "pub_created_display": [
+        "Alexius I (1081 to 1118), tetarteron, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 9880"
+    ],
+    "call_number_browse_s": [
+        "Coin 9880"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9880\",\"call_number_browse\":\"Coin 9880\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1092,
+    "pub_date_end_sort": 1093,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetarteron"
+    ],
+    "issue_number_s": [
+        "6251"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Alexius I (1081 to 1118)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "jeweled, radiate cross"
+    ],
+    "issue_obverse_legend_s": [
+        "C \u03a6 M \u0394"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_legend_s": [
+        "T\u03c9K O MNH"
+    ],
+    "issue_reverse_attributes_s": [
+        "scepter cruciger, in r.hand",
+        "globus cruciger, in l.hand"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection IV,p.236 40a.11",
+        "Sear  1931"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6b889871132822ec"
+    ],
+    "_version_": 1667146588845244416,
+    "timestamp": "2020-05-19T19:02:24.586Z"
+}

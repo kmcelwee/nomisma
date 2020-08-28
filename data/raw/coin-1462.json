@@ -1,0 +1,73 @@
+{
+    "id": "coin-1462",
+    "title_display": "Coin: 1462",
+    "pub_created_display": [
+        "Dao Guang \u9053\u5149 (1821 to 1851)"
+    ],
+    "call_number_display": [
+        "Coin 1462"
+    ],
+    "call_number_browse_s": [
+        "Coin 1462"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.96"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1462\",\"call_number_browse\":\"Coin 1462\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1821,
+    "pub_date_end_sort": 1850,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "862"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Dao Guang \u9053\u5149 (1821 to 1851)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u9053\u5149\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u9053\u5149\u901a\u5bf6 \uff08\u5927\u6d0b\uff0c\u5408\u80cc\uff09"
+    ],
+    "issue_references_s": [
+        "Shang Hai QDMGJZB 417 1551"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "01394ee01a78467e"
+    ],
+    "_version_": 1667138211883778048,
+    "timestamp": "2020-05-19T16:48:14.574Z"
+}

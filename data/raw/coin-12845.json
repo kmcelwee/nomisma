@@ -1,0 +1,103 @@
+{
+    "id": "coin-12845",
+    "title_display": "Coin: 12845",
+    "pub_created_display": [
+        "Artabanus II, Drachm, Herat"
+    ],
+    "call_number_display": [
+        "Coin 12845"
+    ],
+    "call_number_browse_s": [
+        "Coin 12845"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "44% Ag, 0.70 mg Au, 100 mg; based on Sellwood this type has assigned to 63.9 due to the barbarous legends and debased silver"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.39"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12845\",\"call_number_browse\":\"Coin 12845\"}}",
+    "pub_date_start_sort": 10,
+    "pub_date_end_sort": 38,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8426"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Artabanus II"
+    ],
+    "issue_place_s": [
+        "Herat, Aria, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Herat"
+    ],
+    "issue_state_s": [
+        "Aria"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long-square cut beard, straight hair, earing visible, wearing diadem with loop at the top"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "enthroned, holding bow"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d \u0391\u03a1\u03a3\u0391\u039a\u039f\u03a5 \u0394\u0399\u039a\u0391\u0399\u039f\u03a3 \u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03a5\u03a3 \u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u039d\u039f\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8426.jpg, below bow"
+    ],
+    "issue_references_s": [
+        "Sellwood  63.9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4b0f2dac00f07c8a"
+    ],
+    "_version_": 1667138310694240256,
+    "timestamp": "2020-05-19T16:49:48.807Z"
+}

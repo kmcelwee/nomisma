@@ -1,0 +1,128 @@
+{
+    "id": "coin-7979",
+    "title_display": "Coin: 7979",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7979"
+    ],
+    "call_number_browse_s": [
+        "Coin 7979"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Sideways placement of N on reverse suggests imitation; possible counterstamps on reverse and obverse; overstruck likely on a coin of Heraclius (MIB 158)"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6-6-1936"
+    ],
+    "find_feature_s": [
+        "Theatre trial 2"
+    ],
+    "find_locus_s": [
+        "18-O/P"
+    ],
+    "find_number_s": [
+        "C6511"
+    ],
+    "find_description_s": [
+        "to 6 m."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "5.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7979\",\"call_number_browse\":\"Coin 7979\"}}",
+    "pub_date_start_sort": 646,
+    "pub_date_end_sort": 648,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5001"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing, with short beard; holds long cross in r. hand, gl. cr. in l."
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m"
+    ],
+    "issue_reverse_legend_s": [
+        "m, l. Z EOS"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 168",
+        "DOC vol. 2, page 446 class 4",
+        "BL vol. I, page 345 type 4",
+        "BMC.Byz. vol. I, page 268 101ff",
+        "Sear  1005"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "017f3369a57cf337"
+    ],
+    "_version_": 1667138264488738816,
+    "timestamp": "2020-05-19T16:49:04.742Z"
+}

@@ -1,0 +1,73 @@
+{
+    "id": "coin-6416",
+    "title_display": "Coin: 6416",
+    "pub_created_display": [
+        "100 dollars"
+    ],
+    "call_number_display": [
+        "Coin 6416"
+    ],
+    "call_number_browse_s": [
+        "Coin 6416"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "75x95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6416\",\"call_number_browse\":\"Coin 6416\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "100 dollars"
+    ],
+    "issue_number_s": [
+        "3844"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "John Dunlap"
+    ],
+    "issue_series_s": [
+        "May 7, 1781"
+    ],
+    "issue_place_s": [
+        "Virginia, United States of America"
+    ],
+    "issue_state_s": [
+        "Virginia"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_legend_s": [
+        "DEATH TO COUNTERFEIT | ONE HUNDRED DOLLARS. | THIS Bill of One Hundred Dollars shall be exchanged and redeemed in SPANISH MILLED DOLLARS, or the value thereof in Gold or Silver, at the rate of One for Forty, at the Treasury of VIRGINIA, on or before the thirtieth day of December, One thousand seven hundred and ninety-four, according to an Act of Assembly passed the seventh day of May, 1781. | THIRTY POUNDS. | Printed by JOHN DUNLAP. | Virginia Commonwealth. | ONE HUNDRED DOLLARS"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "791c487a576cfa20"
+    ],
+    "_version_": 1667138253015220224,
+    "timestamp": "2020-05-19T16:48:53.801Z"
+}

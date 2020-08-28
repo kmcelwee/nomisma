@@ -1,0 +1,121 @@
+{
+    "id": "coin-9149",
+    "title_display": "Coin: 9149",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9149"
+    ],
+    "call_number_browse_s": [
+        "Coin 9149"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/12/1932"
+    ],
+    "find_feature_s": [
+        "Trench 1"
+    ],
+    "find_locus_s": [
+        "N-9 SE"
+    ],
+    "find_number_s": [
+        "572"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "21.5"
+    ],
+    "weight_s": [
+        "2.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9149\",\"call_number_browse\":\"Coin 9149\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 313,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5822"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCONSTANTINVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Sol"
+    ],
+    "issue_reverse_symbol_s": [
+        "R | F"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding globe in left hand"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLIINV I CTO COMITI| RP-Q"
+    ],
+    "issue_references_s": [
+        "RIC.7 Vol. VII, 298 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0d938176fcfbe889"
+    ],
+    "_version_": 1667138150140477440,
+    "timestamp": "2020-05-19T16:47:15.691Z"
+}

@@ -1,0 +1,92 @@
+{
+    "id": "coin-6840",
+    "title_display": "Coin: 6840",
+    "pub_created_display": [
+        "Maria Theresia, kronentaler"
+    ],
+    "call_number_display": [
+        "Coin 6840"
+    ],
+    "call_number_browse_s": [
+        "Coin 6840"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "29.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6840\",\"call_number_browse\":\"Coin 6840\"}}",
+    "pub_date_start_sort": 1740,
+    "pub_date_end_sort": 1780,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "kronentaler"
+    ],
+    "issue_number_s": [
+        "4248"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Maria Theresia"
+    ],
+    "issue_place_s": [
+        "Austria, Europe"
+    ],
+    "issue_state_s": [
+        "Austria"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "4 crowns"
+    ],
+    "issue_obverse_figure_description_s": [
+        "in the angles of a floriated cross"
+    ],
+    "issue_obverse_legend_s": [
+        "MAR. THERESIA D:G:R. IMP GERM. HUNG. BOH. REG."
+    ],
+    "issue_reverse_figure_s": [
+        "Double eagle"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crowned, with arms on breast"
+    ],
+    "issue_reverse_legend_s": [
+        "ARCH. AUST. DUX. BURG. BRAB. COM. FLAND. 1765"
+    ],
+    "issue_references_s": [
+        "Davenport 1700-1800,  1282",
+        "Herinek 1740-1969, Maria Theresia 1941"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df475bd4e0154d7e"
+    ],
+    "_version_": 1667138359822123008,
+    "timestamp": "2020-05-19T16:50:35.660Z"
+}

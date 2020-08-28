@@ -1,0 +1,110 @@
+{
+    "id": "coin-6748",
+    "title_display": "Coin: 6748",
+    "pub_created_display": [
+        "Levon I (1198 to 1219), tram"
+    ],
+    "call_number_display": [
+        "Coin 6748"
+    ],
+    "call_number_browse_s": [
+        "Coin 6748"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "3.09"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6748\",\"call_number_browse\":\"Coin 6748\"}}",
+    "pub_date_start_sort": 1198,
+    "pub_date_end_sort": 1219,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tram"
+    ],
+    "issue_number_s": [
+        "4157"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Levon I (1198 to 1219)"
+    ],
+    "issue_place_s": [
+        "Cilicia, Armenia"
+    ],
+    "issue_state_s": [
+        "Cilicia"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "kneeling"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "kneeling in front of Virgin, who is standing to left, facing, in orans position; sphere being passed to king; ray of light descending from above"
+    ],
+    "issue_obverse_legend_s": [
+        "\u053c\u0535\u0552\u0548\u0546 \u0539\u0531\u0533\u0531\u0552\u0548\u0550 \u0540\u0531\u0545\u0548\u0551"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_part_s": [
+        "rampant"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two lions rampant regardant with a long cross between them"
+    ],
+    "issue_reverse_legend_s": [
+        "\u053f\u0531\u0550\u0548\u0542\u0548\u0552\u0539\u0532\u0546 \u0531\u054d\u054f"
+    ],
+    "issue_references_s": [
+        "Bedoukian  116",
+        "Nercessian  263v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5d509c311c099512"
+    ],
+    "_version_": 1667138254889025536,
+    "timestamp": "2020-05-19T16:48:55.588Z"
+}

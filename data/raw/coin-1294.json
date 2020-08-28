@@ -1,0 +1,91 @@
+{
+    "id": "coin-1294",
+    "title_display": "Coin: 1294",
+    "pub_created_display": [
+        "Dionysos 1 (-406 to -367), tetrantes, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1294"
+    ],
+    "call_number_browse_s": [
+        "Coin 1294"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "1.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1294\",\"call_number_browse\":\"Coin 1294\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -406,
+    "pub_date_end_sort": -400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrantes"
+    ],
+    "issue_number_s": [
+        "723"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Dionysos 1 (-406 to -367)"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Arethusa"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_s": [
+        "Octopus"
+    ],
+    "issue_references_s": [
+        "ANS Part 5, Sicily III 385"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a37d0da2f848de33"
+    ],
+    "_version_": 1667138461163847680,
+    "timestamp": "2020-05-19T16:52:12.305Z"
+}

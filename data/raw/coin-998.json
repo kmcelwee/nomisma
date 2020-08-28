@@ -1,0 +1,96 @@
+{
+    "id": "coin-998",
+    "title_display": "Coin: 998",
+    "pub_created_display": [
+        "Charles VII (1422 to 1461), guenar"
+    ],
+    "call_number_display": [
+        "Coin 998"
+    ],
+    "call_number_browse_s": [
+        "Coin 998"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "2.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 998\",\"call_number_browse\":\"Coin 998\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1422,
+    "pub_date_end_sort": 1461,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "guenar"
+    ],
+    "issue_number_s": [
+        "457"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Charles VII (1422 to 1461)"
+    ],
+    "issue_workshop_s": [
+        "Toulouse"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "cross in quadralobe with fleur-de-lis and crowns in quadrants"
+    ],
+    "issue_obverse_legend_s": [
+        "+SIT:NOME:DNI:BENEDICTV"
+    ],
+    "issue_reverse_figure_s": [
+        "Shield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "three fluer-de-lis triangulated by crowns in trilobe"
+    ],
+    "issue_reverse_legend_s": [
+        "+KAROLVS:FRANCORVM:REX"
+    ],
+    "issue_references_s": [
+        "Lafaurie p. 110 514 v",
+        "Robert  3011",
+        "Duplessy  519"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b1c9e206b6d5e3a5"
+    ],
+    "_version_": 1667138206443765760,
+    "timestamp": "2020-05-19T16:48:09.386Z"
+}

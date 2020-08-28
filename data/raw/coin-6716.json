@@ -1,0 +1,110 @@
+{
+    "id": "coin-6716",
+    "title_display": "Coin: 6716",
+    "pub_created_display": [
+        "John Komnenos-Doukas (1237 to 1244), aspron trachy nomisma, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6716"
+    ],
+    "call_number_browse_s": [
+        "Coin 6716"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse lefend: \u2026H\u2026 [obscure]      reverse legend: ...\u0394\u0395C\u03a0\u039f\u03a4\u0397C"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6716\",\"call_number_browse\":\"Coin 6716\"}}",
+    "pub_date_start_sort": 1237,
+    "pub_date_end_sort": 1244,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "4012"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "John Komnenos-Doukas (1237 to 1244)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Demetrius"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "full-length figure of St. Demetrius, beardless and nimbate, wearing short military tunic, breastplate, and sagion; in r. hand holds sword, resting over shoulder, and in l., shield, resting on ground"
+    ],
+    "issue_obverse_legend_s": [
+        "O\u039b\u0393HOC\u0394H MHTRIOC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "full-length figure of beardless emperor wearing stemma, divitision, jeweled loros of simplified type, and sagion; in r. hand holds labarum on long shaft, and in l., anexikakia"
+    ],
+    "issue_reverse_legend_s": [
+        "]NIC \u0394\u0395C\u03a0\u039f\u03a4\u0397C"
+    ],
+    "issue_references_s": [
+        "DOC vol. IV, page 596 38.1",
+        "Sear  2223"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15940fe3d357bfe8"
+    ],
+    "_version_": 1667138366052761600,
+    "timestamp": "2020-05-19T16:50:41.603Z"
+}

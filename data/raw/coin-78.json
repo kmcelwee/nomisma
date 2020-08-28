@@ -1,0 +1,100 @@
+{
+    "id": "coin-78",
+    "title_display": "Coin: 78",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 20 nummi, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 78"
+    ],
+    "call_number_browse_s": [
+        "Coin 78"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.84"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 78\",\"call_number_browse\":\"Coin 78\"}}",
+    "pub_date_start_sort": 507,
+    "pub_date_end_sort": 512,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "20 nummi"
+    ],
+    "issue_number_s": [
+        "56"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_series_s": [
+        "small flan"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Byzantium"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039a"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, to left, flanked N and I"
+    ],
+    "issue_references_s": [
+        " Anastasius 47",
+        " Anastasius 35v.",
+        "BMC.Byz. Anastasius 63",
+        "Sear  38"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "45b618f48681e503"
+    ],
+    "_version_": 1667138199010410496,
+    "timestamp": "2020-05-19T16:48:02.296Z"
+}

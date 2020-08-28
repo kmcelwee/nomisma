@@ -1,0 +1,119 @@
+{
+    "id": "coin-8210",
+    "title_display": "Coin: 8210",
+    "pub_created_display": [
+        "Constantius II (337 to 361), Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8210"
+    ],
+    "call_number_browse_s": [
+        "Coin 8210"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/5/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca769"
+    ],
+    "find_description_s": [
+        "Dig IV level II to 3.5M. room 26"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "1.7"
+    ],
+    "weight_s": [
+        "1.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8210\",\"call_number_browse\":\"Coin 8210\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5221"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantius II (337 to 361)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head with laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINUSMAXAUG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers with one standard"
+    ],
+    "issue_reverse_legend_s": [
+        "GLORIAEXERCITUS"
+    ],
+    "issue_references_s": [
+        "Waage p.130 1648",
+        "RIC.7 p.572 16"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "917454bdab8b0954"
+    ],
+    "_version_": 1667138190878703616,
+    "timestamp": "2020-05-19T16:47:54.542Z"
+}

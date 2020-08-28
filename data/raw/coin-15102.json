@@ -1,0 +1,96 @@
+{
+    "id": "coin-15102",
+    "title_display": "Coin: 15102",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denaurius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15102"
+    ],
+    "call_number_browse_s": [
+        "Coin 15102"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15102\",\"call_number_browse\":\"Coin 15102\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaurius"
+    ],
+    "issue_number_s": [
+        "9266"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bare head of Antoninus Pius r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS-AVG PIVS P P."
+    ],
+    "issue_reverse_figure_s": [
+        "Bare head of dr. bust Marcus Aurelius r."
+    ],
+    "issue_reverse_legend_s": [
+        "AVRELIVS CAES AVG PII F COS DES"
+    ],
+    "issue_references_s": [
+        "BMC.1 22 128",
+        "Strack  64",
+        "Roman Imperial Coinage 77 411C (DR. BUST OF MARCUS i.)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e82cb95e65bd9508"
+    ],
+    "_version_": 1667146086902398976,
+    "timestamp": "2020-05-19T18:59:36.596Z"
+}

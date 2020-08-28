@@ -1,0 +1,100 @@
+{
+    "id": "coin-1643",
+    "title_display": "Coin: 1643",
+    "pub_created_display": [
+        "Augustus (-30 to 14), bronze, Julia Traducta"
+    ],
+    "call_number_display": [
+        "Coin 1643"
+    ],
+    "call_number_browse_s": [
+        "Coin 1643"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "11.19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1643\",\"call_number_browse\":\"Coin 1643\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": -30,
+    "pub_date_end_sort": 14,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1034"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Julia Traducta, Spain, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Julia Traducta"
+    ],
+    "issue_state_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_legend_s": [
+        "PERM CAES AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Oak wreath"
+    ],
+    "issue_reverse_part_s": [
+        "leaping"
+    ],
+    "issue_reverse_legend_s": [
+        "IVLIA / TRAD"
+    ],
+    "issue_references_s": [
+        "RPC.1 1 108"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3c4a460369cd56d5"
+    ],
+    "_version_": 1667138212999462912,
+    "timestamp": "2020-05-19T16:48:15.639Z"
+}

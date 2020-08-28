@@ -1,0 +1,91 @@
+{
+    "id": "coin-8509",
+    "title_display": "Coin: 8509",
+    "pub_created_display": [
+        "Unknown, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8509"
+    ],
+    "call_number_browse_s": [
+        "Coin 8509"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin split, only two incomplete fragments remaining"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/3/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca663"
+    ],
+    "find_description_s": [
+        "Dig III Level II to 3.50M; room 5, basket B"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8509\",\"call_number_browse\":\"Coin 8509\"}}",
+    "pub_date_start_sort": 300,
+    "pub_date_end_sort": 400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5417"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_legend_s": [
+        "Illegible"
+    ],
+    "issue_reverse_legend_s": [
+        "Illegible"
+    ],
+    "issue_references_s": [
+        "Waage  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b54d884a5dbf49c5"
+    ],
+    "_version_": 1667138268676751360,
+    "timestamp": "2020-05-19T16:49:08.736Z"
+}

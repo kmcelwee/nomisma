@@ -1,0 +1,112 @@
+{
+    "id": "coin-14803",
+    "title_display": "Coin: 14803",
+    "pub_created_display": [
+        "Diocletian   (244 to 311), antoninianus, Carthage"
+    ],
+    "call_number_display": [
+        "Coin 14803"
+    ],
+    "call_number_browse_s": [
+        "Coin 14803"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Variant; E-N legend breakage"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "9.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14803\",\"call_number_browse\":\"Coin 14803\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_number_s": [
+        "9084"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Diocletian   (244 to 311)"
+    ],
+    "issue_place_s": [
+        "Carthage, Africa, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Carthage"
+    ],
+    "issue_state_s": [
+        "Africa"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "Facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPDIOCLETIANVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Africa"
+    ],
+    "issue_reverse_symbol_s": [
+        "/ PKP"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding standard"
+    ],
+    "issue_reverse_legend_s": [
+        "FELIXADVE NTAUGGNN"
+    ],
+    "issue_references_s": [
+        "RIC 6 425 19a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a4d692a48a6fb761"
+    ],
+    "_version_": 1667309053223632896,
+    "timestamp": "2020-05-21T14:03:41.617Z"
+}

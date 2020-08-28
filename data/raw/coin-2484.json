@@ -1,0 +1,100 @@
+{
+    "id": "coin-2484",
+    "title_display": "Coin: 2484",
+    "pub_created_display": [
+        "Pietro Loredano (1567 to 1570), sesino, Venice"
+    ],
+    "call_number_display": [
+        "Coin 2484"
+    ],
+    "call_number_browse_s": [
+        "Coin 2484"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "1.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2484\",\"call_number_browse\":\"Coin 2484\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 1567,
+    "pub_date_end_sort": 1570,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sesino"
+    ],
+    "issue_number_s": [
+        "1560"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Pietro Loredano (1567 to 1570)"
+    ],
+    "issue_place_s": [
+        "Venice, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "cross with diamonds between each arm"
+    ],
+    "issue_obverse_legend_s": [
+        "PET LAVREDA DVX VENET"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_part_s": [
+        "rampant"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "SANCTVS MARCVS VENET"
+    ],
+    "issue_references_s": [
+        "CNI, 7  XIV.12.42"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f24a5c746c313caf"
+    ],
+    "_version_": 1667138427140702208,
+    "timestamp": "2020-05-19T16:51:39.858Z"
+}

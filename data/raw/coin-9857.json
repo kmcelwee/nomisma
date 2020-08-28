@@ -1,0 +1,114 @@
+{
+    "id": "coin-9857",
+    "title_display": "Coin: 9857",
+    "pub_created_display": [
+        "'Abd al-Malik ibn Marwan (685 to 705), fals"
+    ],
+    "call_number_display": [
+        "Coin 9857"
+    ],
+    "call_number_browse_s": [
+        "Coin 9857"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7-2-1938"
+    ],
+    "find_feature_s": [
+        "dump"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Cb3628"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "1.9"
+    ],
+    "weight_s": [
+        "2.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9857\",\"call_number_browse\":\"Coin 9857\"}}",
+    "pub_date_start_sort": 690,
+    "pub_date_end_sort": 702,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6236"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "'Abd al-Malik ibn Marwan (685 to 705)"
+    ],
+    "issue_place_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Caliph"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standing caliph wearing long robes, r. hand on pommel of sword, which hangs in scabbard to the l.; girdle band shown line to the r."
+    ],
+    "issue_obverse_legend_s": [
+        "to r., downwards \u062e\u0644\u064a\u0641\u0629 \u0627\u0644\u0644\u0647; to l., obli."
+    ],
+    "issue_reverse_figure_s": [
+        "Modified cross on steps"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "transformed cross on steps"
+    ],
+    "issue_reverse_legend_s": [
+        "to l., moon; to r., star; legend obliterated"
+    ],
+    "issue_references_s": [
+        "BMC pages 30-31 99-103?",
+        "Ash. 1 plate 43 674-76?",
+        "Hims  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ba575168f24e20a4"
+    ],
+    "_version_": 1667138136215388160,
+    "timestamp": "2020-05-19T16:47:02.410Z"
+}

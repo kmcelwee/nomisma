@@ -1,0 +1,104 @@
+{
+    "id": "coin-6433",
+    "title_display": "Coin: 6433",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6433"
+    ],
+    "call_number_browse_s": [
+        "Coin 6433"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 242, R: 474"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "7.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6433\",\"call_number_browse\":\"Coin 6433\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -380,
+    "pub_date_end_sort": -355,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3814"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on standing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "[theta]"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider's left hand holds reins, right hangs at side;  horse lifts left front hoof; kantharos below horse;  theta below horse raised front hoof"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's right hand,  left arm stretches back"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  458",
+        "F-B  618"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "689fef18423a7083"
+    ],
+    "_version_": 1667138252898828288,
+    "timestamp": "2020-05-19T16:48:53.688Z"
+}

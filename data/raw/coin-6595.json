@@ -1,0 +1,110 @@
+{
+    "id": "coin-6595",
+    "title_display": "Coin: 6595",
+    "pub_created_display": [
+        "Theodore Comnenus-Ducas (1227 to 1230), aspron trachy nomisma, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6595"
+    ],
+    "call_number_browse_s": [
+        "Coin 6595"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Attribution uncertain"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6595\",\"call_number_browse\":\"Coin 6595\"}}",
+    "pub_date_start_sort": 1227,
+    "pub_date_end_sort": 1230,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "4011"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Theodore Comnenus-Ducas (1227 to 1230)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of Christ Emmanuel, beardless and nimbate, wearing tunic and kolobion; holds scroll in l. hand"
+    ],
+    "issue_obverse_legend_s": [
+        "obscure"
+    ],
+    "issue_reverse_figure_s": [
+        "Theodore Ducas and St. Demetrius"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "full-length figure of emperor on l., beardless and nimbate St. Demetrius on r., holding between them cross-within-circle, surmounting triangular decoration on long shaft; saint holds sword in l. hand, resting over shoulder"
+    ],
+    "issue_reverse_legend_s": [
+        "obscure"
+    ],
+    "issue_references_s": [
+        "DOC vol. IV, page 553 4.3",
+        "Sear  2161"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6ef1a8b713f4cfba"
+    ],
+    "_version_": 1667138254235762688,
+    "timestamp": "2020-05-19T16:48:54.963Z"
+}

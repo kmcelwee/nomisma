@@ -1,0 +1,100 @@
+{
+    "id": "coin-10014",
+    "title_display": "Coin: 10014",
+    "pub_created_display": [
+        "Christian Albert of Holstein-Gottorp (1659 to 1695), Gottorp"
+    ],
+    "call_number_display": [
+        "Coin 10014"
+    ],
+    "call_number_browse_s": [
+        "Coin 10014"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "weight_s": [
+        "29.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10014\",\"call_number_browse\":\"Coin 10014\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6333"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Christian Albert of Holstein-Gottorp (1659 to 1695)"
+    ],
+    "issue_place_s": [
+        "Gottorp, Holstein-Gottorp, Germany"
+    ],
+    "issue_city_s": [
+        "Gottorp"
+    ],
+    "issue_state_s": [
+        "Holstein-Gottorp"
+    ],
+    "issue_region_s": [
+        "Germany"
+    ],
+    "issue_obverse_figure_s": [
+        "Fama"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "(also Angel or La Renomm\u00e9e) with two trumpets astride a globe marked \"IDM 1688\" for artist Jean-Daniel Major"
+    ],
+    "issue_obverse_legend_s": [
+        "IN.CIMBRICI. MV   SEI.MEMORIAM | IDM 1688"
+    ],
+    "issue_reverse_figure_s": [
+        "Monument"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Museum of Gottorp: surrounded by eagle with initials CA (Duke Christian Albert), busts of Minerva and Jupiter Ammon, sphere, money, book, and an owl"
+    ],
+    "issue_reverse_legend_s": [
+        "PHYSIS. PROTECTIO. TECHNE. ANTIQUAS."
+    ],
+    "issue_references_s": [
+        "M\u00e9dailles et jetons des numismates  123"
+    ],
+    "issue_artists_s": [
+        "Jean-Daniel Major"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9f41250566833bb9"
+    ],
+    "_version_": 1667138142721802240,
+    "timestamp": "2020-05-19T16:47:08.616Z"
+}

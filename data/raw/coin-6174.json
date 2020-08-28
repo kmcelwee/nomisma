@@ -1,0 +1,70 @@
+{
+    "id": "coin-6174",
+    "title_display": "Coin: 6174",
+    "pub_created_display": [
+        "1/10 dollar"
+    ],
+    "call_number_display": [
+        "Coin 6174"
+    ],
+    "call_number_browse_s": [
+        "Coin 6174"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "70x87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6174\",\"call_number_browse\":\"Coin 6174\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1/10 dollar"
+    ],
+    "issue_number_s": [
+        "3621"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "June 8, 1777"
+    ],
+    "issue_place_s": [
+        "Georgia, United States of America"
+    ],
+    "issue_state_s": [
+        "Georgia"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Ship"
+    ],
+    "issue_obverse_legend_s": [
+        "GEORGIA. 1777. THIS CERTIFICATE, for the Support of the Continental Troops, and other Expences of Government, entitles the Bearer to ONE TENTH OF A DOLLAR, in CONTINENTAL Currency, Value 6d. according to the Resolution of Assembly, June 8, 1777."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6d2555d233254fa7"
+    ],
+    "_version_": 1667138251772657664,
+    "timestamp": "2020-05-19T16:48:52.614Z"
+}

@@ -1,0 +1,94 @@
+{
+    "id": "coin-10151",
+    "title_display": "Coin: 10151",
+    "pub_created_display": [
+        "Padua"
+    ],
+    "call_number_display": [
+        "Coin 10151"
+    ],
+    "call_number_browse_s": [
+        "Coin 10151"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "33"
+    ],
+    "weight_s": [
+        "25.014"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10151\",\"call_number_browse\":\"Coin 10151\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "imitation"
+    ],
+    "issue_number_s": [
+        "6412"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Padua, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Padua"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Caligula"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_legend_s": [
+        "C.CAESAR.DIVI.AVG.PRON.AVG.P.M.TR.P.IIII.P.P."
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "One of four interchangable reverses; Emperor Caligula addresses five soldiers with eagles"
+    ],
+    "issue_reverse_legend_s": [
+        "ADLOCVT / COH"
+    ],
+    "issue_references_s": [
+        "The Paduans  13"
+    ],
+    "issue_artists_s": [
+        "Giovanni Cavino"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "85f573b4832e3fef"
+    ],
+    "_version_": 1667138280522514432,
+    "timestamp": "2020-05-19T16:49:20.032Z"
+}

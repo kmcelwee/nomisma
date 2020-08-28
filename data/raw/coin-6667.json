@@ -1,0 +1,112 @@
+{
+    "id": "coin-6667",
+    "title_display": "Coin: 6667",
+    "pub_created_display": [
+        "Manuel Comnenus-Ducas (1230 to 1237), trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6667"
+    ],
+    "call_number_browse_s": [
+        "Coin 6667"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Attribution uncertain"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "3.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6667\",\"call_number_browse\":\"Coin 6667\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1230,
+    "pub_date_end_sort": 1237,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "trachy"
+    ],
+    "issue_number_s": [
+        "4089"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Manuel Comnenus-Ducas (1230 to 1237)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "nimbate Christ seated upon throne with back, holding book in r. hand"
+    ],
+    "issue_obverse_legend_s": [
+        "\u2026IC in upper field"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "nimbate military saint holding spear in r. hand, possibly St. Demetrios"
+    ],
+    "issue_references_s": [
+        "DOC vol. IV, page 572 4a.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3702bacce32c3802"
+    ],
+    "_version_": 1667138367821709312,
+    "timestamp": "2020-05-19T16:50:43.291Z"
+}

@@ -1,0 +1,112 @@
+{
+    "id": "coin-14857",
+    "title_display": "Coin: 14857",
+    "pub_created_display": [
+        "Half Dollar, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 14857"
+    ],
+    "call_number_browse_s": [
+        "Coin 14857"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "16 Stars - Die Crack Between First Two Stars"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32.5"
+    ],
+    "weight_s": [
+        "13.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14857\",\"call_number_browse\":\"Coin 14857\"}}",
+    "donor_s": [
+        "F.J. Mather"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Half Dollar"
+    ],
+    "issue_number_s": [
+        "9121"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_edge_s": [
+        "FIFTY CENTS OR HALF A DOLLAR"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "*********LIBERTY*******"
+    ],
+    "issue_obverse_attributes_s": [
+        "Stars, 16"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "UNITED STATES OF AMERICA"
+    ],
+    "issue_references_s": [
+        "Breen  4566"
+    ],
+    "issue_artists_s": [
+        "Robert Scot, "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f41e7d843f52b6f2"
+    ],
+    "_version_": 1667305702296649728,
+    "timestamp": "2020-05-21T13:10:25.881Z"
+}

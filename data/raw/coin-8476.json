@@ -1,0 +1,76 @@
+{
+    "id": "coin-8476",
+    "title_display": "Coin: 8476",
+    "pub_created_display": [
+        "Trajan (98 to 117), Rome"
+    ],
+    "call_number_display": [
+        "Coin 8476"
+    ],
+    "call_number_browse_s": [
+        "Coin 8476"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin missing 10/28/1991, attribution to Trajan on envelope. Ms. No. 396"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "8/4/1939"
+    ],
+    "find_feature_s": [
+        "Trench 4"
+    ],
+    "find_locus_s": [
+        "15-M"
+    ],
+    "find_number_s": [
+        "Cc2755"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8476\",\"call_number_browse\":\"Coin 8476\"}}",
+    "pub_date_start_sort": 98,
+    "pub_date_end_sort": 117,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5400"
+    ],
+    "issue_ruler_s": [
+        "Trajan (98 to 117)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5c4f60b20b32f446"
+    ],
+    "_version_": 1667144973844217856,
+    "timestamp": "2020-05-19T18:41:22.979Z"
+}

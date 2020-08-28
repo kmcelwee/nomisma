@@ -1,0 +1,95 @@
+{
+    "id": "coin-6408",
+    "title_display": "Coin: 6408",
+    "pub_created_display": [
+        "Carlos I and Juana (1506 to 1516), 4 maravedis, Santo Domingo"
+    ],
+    "call_number_display": [
+        "Coin 6408"
+    ],
+    "call_number_browse_s": [
+        "Coin 6408"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6408\",\"call_number_browse\":\"Coin 6408\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1506,
+    "pub_date_end_sort": 1516,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 maravedis"
+    ],
+    "issue_number_s": [
+        "3836"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Carlos I and Juana (1506 to 1516)"
+    ],
+    "issue_workshop_s": [
+        "Santo Domingo"
+    ],
+    "issue_place_s": [
+        "Santo Domingo, Hispaniola"
+    ],
+    "issue_city_s": [
+        "Santo Domingo"
+    ],
+    "issue_region_s": [
+        "Hispaniola"
+    ],
+    "issue_obverse_figure_s": [
+        "Y"
+    ],
+    "issue_obverse_symbol_s": [
+        "E 4"
+    ],
+    "issue_obverse_figure_description_s": [
+        "a large crowned Y, E to the left, 4 to the right"
+    ],
+    "issue_obverse_legend_s": [
+        "CAROLVS\u25cfET\u25cfIOAN"
+    ],
+    "issue_reverse_figure_s": [
+        "I I"
+    ],
+    "issue_reverse_symbol_s": [
+        "S P"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two large crowned I's, S to the left, P to the right"
+    ],
+    "issue_reverse_legend_s": [
+        "REGIS\u25cfISPANIARUM"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n  var. 2866",
+        "Heiss vol. I, lam. 28 17"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a155a14f5d637fed"
+    ],
+    "_version_": 1667138374953074688,
+    "timestamp": "2020-05-19T16:50:50.090Z"
+}

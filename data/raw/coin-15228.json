@@ -1,0 +1,67 @@
+{
+    "id": "coin-15228",
+    "title_display": "Coin: 15228",
+    "call_number_display": [
+        "Coin 15228"
+    ],
+    "call_number_browse_s": [
+        "Coin 15228"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15228\",\"call_number_browse\":\"Coin 15228\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1937,
+    "pub_date_end_sort": 1961,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_obverse_figure_s": [
+        "Rafael Trujillo Molina"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "DISCIPLINA Y LEALTAD | TRUJILLO"
+    ],
+    "issue_reverse_attributes_s": [
+        "Inscription, MEDALLA | CONMEMORATIVA | DEL | AVENIMIENTO | DE LA | PATRIA NUEVA | 23 DE FEBRERO | 1930"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "042ace31dbbf6207"
+    ],
+    "_version_": 1671709886897979392,
+    "timestamp": "2020-07-09T03:53:03.616Z"
+}

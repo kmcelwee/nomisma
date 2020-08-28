@@ -1,0 +1,103 @@
+{
+    "id": "coin-8985",
+    "title_display": "Coin: 8985",
+    "pub_created_display": [
+        "Orodes II (-57 to -38), Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 8985"
+    ],
+    "call_number_browse_s": [
+        "Coin 8985"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Tabriz, Azerbaijan, Iran"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8985\",\"call_number_browse\":\"Coin 8985\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": -57,
+    "pub_date_end_sort": -38,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Orodes II (-57 to -38)"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "crescent and star"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3|\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d|\u0391\u03a1\u03a3\u0391\u039a\u039f\u03c5|\u0395\u03c5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03c5|\u0394\u0399\u039a\u0391\u0399\u039f\u03c5|\u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03c5\u03a3|\u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u039d\u039f\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8985, below bow"
+    ],
+    "issue_references_s": [
+        "Sellwood  47.6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7472ddc257ae80ee"
+    ],
+    "_version_": 1672838207328223232,
+    "timestamp": "2020-07-21T14:47:13.836Z"
+}

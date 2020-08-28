@@ -1,0 +1,93 @@
+{
+    "id": "coin-6453",
+    "title_display": "Coin: 6453",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6453"
+    ],
+    "call_number_browse_s": [
+        "Coin 6453"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the First Uniform Series of 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "25.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6453\",\"call_number_browse\":\"Coin 6453\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3878"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS MAGNUS REX CHRISTIANISSIMUS ."
+    ],
+    "issue_reverse_figure_s": [
+        "Personification"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Savoy in the shape of a woman sitting at the feet of mountains and rocks."
+    ],
+    "issue_reverse_legend_s": [
+        "SABAUDIA SUBACTA . | M . DC . LXXXX ."
+    ],
+    "issue_references_s": [
+        "Medailles, 1702 p. 233 ",
+        "M\u00e9dailles et Jetons 3, p. 509-11 7",
+        "M\u00e9dailles et Jetons 1, p. XLVII 7"
+    ],
+    "issue_artists_s": [
+        "Jean Mauger, I.MAVGER.F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "847c76c83c7eaea5"
+    ],
+    "_version_": 1667138371607068672,
+    "timestamp": "2020-05-19T16:50:46.899Z"
+}

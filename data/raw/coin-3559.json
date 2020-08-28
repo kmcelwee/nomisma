@@ -1,0 +1,102 @@
+{
+    "id": "coin-3559",
+    "title_display": "Coin: 3559",
+    "pub_created_display": [
+        "Augustus (-30 to 14), bronze, Berytus"
+    ],
+    "call_number_display": [
+        "Coin 3559"
+    ],
+    "call_number_browse_s": [
+        "Coin 3559"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "18.9"
+    ],
+    "weight_s": [
+        "7.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3559\",\"call_number_browse\":\"Coin 3559\"}}",
+    "donor_s": [
+        "Rudolf-Ernst Br\u00fcnnow"
+    ],
+    "pub_date_start_sort": 16,
+    "pub_date_end_sort": 14,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "2090"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Berytus, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Berytus"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "CAESAR"
+    ],
+    "issue_reverse_figure_s": [
+        "Dolphin and trident"
+    ],
+    "issue_reverse_figure_description_s": [
+        "all in wreath"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, around dolphin and trident"
+    ],
+    "issue_references_s": [
+        "RPC.1  4536",
+        "PUC  770",
+        "Augustus  1481"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8df6d1de70d62713"
+    ],
+    "_version_": 1667138227478200320,
+    "timestamp": "2020-05-19T16:48:29.445Z"
+}

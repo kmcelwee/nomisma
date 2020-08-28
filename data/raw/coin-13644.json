@@ -1,0 +1,70 @@
+{
+    "id": "coin-13644",
+    "title_display": "Coin: 13644",
+    "pub_created_display": [
+        "dirham"
+    ],
+    "call_number_display": [
+        "Coin 13644"
+    ],
+    "call_number_browse_s": [
+        "Coin 13644"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13644\",\"call_number_browse\":\"Coin 13644\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "dirham"
+    ],
+    "issue_number_s": [
+        "8729"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Umayyad"
+    ],
+    "issue_region_s": [
+        "Umayyad"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 |\u0627\u0644\u0627 \u0627\u0644\u0644\u0647 |\u0648\u062d\u062f\u0647 center"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0645\u062d\u0645\u062f | \u0631\u0633\u0648\u0644 | \u0627\u0644\u0644\u0647"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e3e2823417bcc6ef"
+    ],
+    "_version_": 1667146577205002240,
+    "timestamp": "2020-05-19T19:01:12.365Z"
+}

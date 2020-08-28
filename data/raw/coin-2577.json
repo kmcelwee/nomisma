@@ -1,0 +1,114 @@
+{
+    "id": "coin-2577",
+    "title_display": "Coin: 2577",
+    "pub_created_display": [
+        "Tancred (1101 to 1112), copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2577"
+    ],
+    "call_number_browse_s": [
+        "Coin 2577"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/8/1934"
+    ],
+    "find_feature_s": [
+        "street"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "c3383"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24.5"
+    ],
+    "weight_s": [
+        "3.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2577\",\"call_number_browse\":\"Coin 2577\"}}",
+    "pub_date_start_sort": 1101,
+    "pub_date_end_sort": 1112,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tancred (1101 to 1112)"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Tancred"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "turbaned bust facing, sword in l. hand."
+    ],
+    "issue_obverse_legend_s": [
+        "+ \u039a\u0395 \u0392\u039f \u03a4\u0391\u039d\u039a\u03a1"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "croos with legend in quadrants and decorative scroll at base"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0399C XC | NI KA"
+    ],
+    "issue_references_s": [
+        "Schl. pl. II 7",
+        "Ox. pl. 4 63",
+        "Malloy p. 199 4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8c2db685f9dc171d"
+    ],
+    "_version_": 1674169481416409088,
+    "timestamp": "2020-08-05T07:27:15.738Z"
+}

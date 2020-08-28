@@ -1,0 +1,102 @@
+{
+    "id": "coin-1409",
+    "title_display": "Coin: 1409",
+    "pub_created_display": [
+        "Agathocles (-317 to -288), litra, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1409"
+    ],
+    "call_number_browse_s": [
+        "Coin 1409"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "9.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1409\",\"call_number_browse\":\"Coin 1409\"}}",
+    "pub_date_start_sort": -295,
+    "pub_date_end_sort": -289,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "litra"
+    ],
+    "issue_number_s": [
+        "809"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Agathocles (-317 to -288)"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Artemis"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "quiver behind left shoulder"
+    ],
+    "issue_obverse_legend_s": [
+        "\u03a3\u03a9\u03a4\u0395\u0399\u03a1\u0391"
+    ],
+    "issue_reverse_figure_s": [
+        "Thunderbolt"
+    ],
+    "issue_reverse_figure_description_s": [
+        "winged thunderbolt"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0393\u0391\u0398\u039f\u039a\u039b\u0395\u039f\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u039f\u03a3"
+    ],
+    "issue_references_s": [
+        "ANS Part 5, Sicily III 726",
+        "Agoth AE Page 92, pl. 7 7",
+        "Sicily AE page 179 275"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "42b07a7c0eee4504"
+    ],
+    "_version_": 1667138463203328000,
+    "timestamp": "2020-05-19T16:52:14.250Z"
+}

@@ -1,0 +1,109 @@
+{
+    "id": "coin-14955",
+    "title_display": "Coin: 14955",
+    "pub_created_display": [
+        "Jacopo Tiepolo  (1229 to 1249), grosso"
+    ],
+    "call_number_display": [
+        "Coin 14955"
+    ],
+    "call_number_browse_s": [
+        "Coin 14955"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "2.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14955\",\"call_number_browse\":\"Coin 14955\"}}",
+    "donor_s": [
+        "Platt"
+    ],
+    "pub_date_start_sort": 1229,
+    "pub_date_end_sort": 1249,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "9169"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Jacopo Tiepolo  (1229 to 1249)"
+    ],
+    "issue_place_s": [
+        "Venice, Italy"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "San Marco gives banner to doge"
+    ],
+    "issue_obverse_legend_s": [
+        "IA TEVPL DVX S M VENETI"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_symbol_s": [
+        "Sign 3"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Redeemer seated in throne"
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_references_s": [
+        "Pap. 1 98, 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4c8496ccc5034510"
+    ],
+    "_version_": 1667223560935964672,
+    "timestamp": "2020-05-20T15:24:49.784Z"
+}

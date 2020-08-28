@@ -1,0 +1,117 @@
+{
+    "id": "coin-8282",
+    "title_display": "Coin: 8282",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 8282"
+    ],
+    "call_number_browse_s": [
+        "Coin 8282"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-11-1936"
+    ],
+    "find_feature_s": [
+        "Room 4"
+    ],
+    "find_locus_s": [
+        "16-P"
+    ],
+    "find_number_s": [
+        "c6027"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8282\",\"call_number_browse\":\"Coin 8282\"}}",
+    "pub_date_start_sort": 670,
+    "pub_date_end_sort": 690,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5280"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "imperial bust, beardless, crown with small cross, r. holding gl. cr., with prominent fibula on r. shoulder"
+    ],
+    "issue_obverse_legend_s": [
+        "to l., downwards KA[\u039bON], to r., downwards \u0628\u062d\u0645\u0633"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m, small star above with small wavy lines to either side"
+    ],
+    "issue_reverse_legend_s": [
+        "m, to  l. EMI, to r. CHC, in ex. \u0637\u064a\u0628"
+    ],
+    "issue_references_s": [
+        "Ash. 1 plate 38 548-554",
+        "BMC p. 20-21 57-64",
+        "BMC vol. IX, page 9 30-31"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dd2b142eaf2b2b7f"
+    ],
+    "_version_": 1667138187424694272,
+    "timestamp": "2020-05-19T16:47:51.247Z"
+}

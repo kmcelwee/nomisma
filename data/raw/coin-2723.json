@@ -1,0 +1,98 @@
+{
+    "id": "coin-2723",
+    "title_display": "Coin: 2723",
+    "pub_created_display": [
+        "Henry Lee (1756 to 1818)"
+    ],
+    "call_number_display": [
+        "Coin 2723"
+    ],
+    "call_number_browse_s": [
+        "Coin 2723"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "In decorative holder suspended by orange and black ribbon from pin reading Princeton University Southern Dinner April 25, 1935. In custom box engraved with \"Friends of the Princeton Library Southern Dinner April 25, 1935\" bearing Gorham stamp."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "technique_s": [
+        "engraved"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2723\",\"call_number_browse\":\"Coin 2723\"}}",
+    "pub_date_start_sort": -1779,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1723"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Henry Lee (1756 to 1818)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_description_s": [
+        "text encircled in a decorative holder"
+    ],
+    "issue_obverse_legend_s": [
+        "TO| HENRY LEE| FOR VALOUR| & PATRIOTISM"
+    ],
+    "issue_obverse_attributes_s": [
+        "die"
+    ],
+    "issue_reverse_figure_description_s": [
+        "text encircled in a decorative holder"
+    ],
+    "issue_reverse_legend_s": [
+        "WASHINGTON &| INDEPENDENCE| 1775-1783."
+    ],
+    "issue_reverse_attributes_s": [
+        "die"
+    ],
+    "issue_references_s": [
+        "Stahl pp. 9-12 ",
+        "Stahl Lee pp. 3-5 "
+    ],
+    "issue_artists_s": [
+        "Joseph Wright"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "850b991faca26b73"
+    ],
+    "_version_": 1667138477576159232,
+    "timestamp": "2020-05-19T16:52:27.957Z"
+}

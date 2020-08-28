@@ -1,0 +1,114 @@
+{
+    "id": "coin-8235",
+    "title_display": "Coin: 8235",
+    "pub_created_display": [
+        "Justin II (565 to 578), 40 nummi, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 8235"
+    ],
+    "call_number_browse_s": [
+        "Coin 8235"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/13/1937"
+    ],
+    "find_feature_s": [
+        "Under brick floor South of dig I to 3M."
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca337"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "10.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8235\",\"call_number_browse\":\"Coin 8235\"}}",
+    "pub_date_start_sort": 573,
+    "pub_date_end_sort": 574,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "5247"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin II (565 to 578)"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Byzantium"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Justin II and Sophia"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Justin II (l) and Sophia (r) seated facing on double throne. Justin holds globus cr.; sophia holds cruciform sceptre."
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on l. ANNO; above, cross; in ex., NIKO"
+    ],
+    "issue_reverse_legend_s": [
+        "on r.,ql ll(numerals 5+1&1+1) in two lines; beneath,\u03b2"
+    ],
+    "issue_references_s": [
+        " 229 99c.2",
+        "MIB 2, Justin II 46b",
+        "BMC 87 143"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "76f9bc7c031d6dbc"
+    ],
+    "_version_": 1667144891711356928,
+    "timestamp": "2020-05-19T18:36:33.325Z"
+}

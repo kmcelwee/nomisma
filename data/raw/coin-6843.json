@@ -1,0 +1,91 @@
+{
+    "id": "coin-6843",
+    "title_display": "Coin: 6843",
+    "pub_created_display": [
+        "Maria Theresia, 1 kreuzer"
+    ],
+    "call_number_display": [
+        "Coin 6843"
+    ],
+    "call_number_browse_s": [
+        "Coin 6843"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "10.04"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6843\",\"call_number_browse\":\"Coin 6843\"}}",
+    "pub_date_start_sort": 1740,
+    "pub_date_end_sort": 1780,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 kreuzer"
+    ],
+    "issue_number_s": [
+        "4251"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Maria Theresia"
+    ],
+    "issue_place_s": [
+        "Austria, Europe"
+    ],
+    "issue_state_s": [
+        "Austria"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Value and date"
+    ],
+    "issue_reverse_orientation_s": [
+        "within cartouche"
+    ],
+    "issue_reverse_legend_s": [
+        "EIN KREUTZER 1762."
+    ],
+    "issue_reverse_attributes_s": [
+        "W., below date, Breslau mint"
+    ],
+    "issue_references_s": [
+        "Herinek 1740-1969, Maria Theresia 1584"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2742263e05939246"
+    ],
+    "_version_": 1667138360789958656,
+    "timestamp": "2020-05-19T16:50:36.583Z"
+}

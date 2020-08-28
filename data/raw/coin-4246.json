@@ -1,0 +1,111 @@
+{
+    "id": "coin-4246",
+    "title_display": "Coin: 4246",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4246"
+    ],
+    "call_number_browse_s": [
+        "Coin 4246"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Border of dots on obverse omitted (Sydenham 991a)"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "18.9"
+    ],
+    "weight_s": [
+        "3.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4246\",\"call_number_browse\":\"Coin 4246\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -46,
+    "pub_date_end_sort": -46,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2398"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Considius Paetus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_symbol_s": [
+        "A"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate; A behind head; border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Curule chair"
+    ],
+    "issue_reverse_figure_description_s": [
+        "garlanded; wreath lying atop; first half of legend above, second half in exergue"
+    ],
+    "issue_reverse_legend_s": [
+        "C CONSIDI | \u0393AETI"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, lying on curule chair"
+    ],
+    "issue_references_s": [
+        "RRC  465/2a",
+        "Syd.  991-991a",
+        "Sear  455"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "94b99def100ac2c2"
+    ],
+    "_version_": 1667138234479542272,
+    "timestamp": "2020-05-19T16:48:36.124Z"
+}

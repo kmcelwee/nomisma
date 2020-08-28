@@ -1,0 +1,97 @@
+{
+    "id": "coin-11310",
+    "title_display": "Coin: 11310",
+    "pub_created_display": [
+        "Ardashir I (224 to 240), AE/2"
+    ],
+    "call_number_display": [
+        "Coin 11310"
+    ],
+    "call_number_browse_s": [
+        "Coin 11310"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "7% Ag, Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "2.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11310\",\"call_number_browse\":\"Coin 11310\"}}",
+    "pub_date_start_sort": 224,
+    "pub_date_end_sort": 240,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "AE/2"
+    ],
+    "issue_number_s": [
+        "7479"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Ardashir I (224 to 240)"
+    ],
+    "issue_series_s": [
+        "Phase 2c/ Flames 1 (d)"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap edged with triple  pearls, star in the center of lateral field, surrounded by zigzag design, one outer row of pearl; diadem, ribbed diadem ribbons; cheek-flaps; tunica with one cross-like device; row of pearls on neck-cutout; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "unclear"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; four altar slabs; altar flames depicted with vertical strokes; to the left and right mushroom-shaped bases supporting lion-paw structures; below left and right edge of altar table pendent diadem ribbon; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "unclear"
+    ],
+    "issue_references_s": [
+        "SNS 1 Phase 2 Group / Mint Mint C \u201cCtesiphon\" Type IIh(3d)/3a flame 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "22f9dc7313096f89"
+    ],
+    "_version_": 1667138161423155200,
+    "timestamp": "2020-05-19T16:47:26.451Z"
+}

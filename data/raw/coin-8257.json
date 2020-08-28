@@ -1,0 +1,116 @@
+{
+    "id": "coin-8257",
+    "title_display": "Coin: 8257",
+    "pub_created_display": [
+        "Bohemund IV (1202 to 1216), denier, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8257"
+    ],
+    "call_number_browse_s": [
+        "Coin 8257"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "The coin is significantly clipped."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/4/1937"
+    ],
+    "find_feature_s": [
+        "Dig IV below room 23 (SE) about 1.50M"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca725"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "0.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8257\",\"call_number_browse\":\"Coin 8257\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier"
+    ],
+    "issue_number_s": [
+        "5266"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Bohemund IV (1202 to 1216)"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Helmeted Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted head facing left. on l. downward crescent. on r. star"
+    ],
+    "issue_obverse_legend_s": [
+        "+BOAMVNDVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with a crescent in upper right quadrant"
+    ],
+    "issue_reverse_legend_s": [
+        "+ANTIOCHIA"
+    ],
+    "issue_references_s": [
+        "Ox.  445",
+        "Schl. plate 3 5"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "13f7e6940b713eb9"
+    ],
+    "_version_": 1667145330785779712,
+    "timestamp": "2020-05-19T18:41:23.687Z"
+}

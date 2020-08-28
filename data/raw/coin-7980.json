@@ -1,0 +1,129 @@
+{
+    "id": "coin-7980",
+    "title_display": "Coin: 7980",
+    "pub_created_display": [
+        "Alexander I [Bala] (-152 to -142), diobol, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 7980"
+    ],
+    "call_number_browse_s": [
+        "Coin 7980"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Central hole on each side"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/7/1937"
+    ],
+    "find_locus_s": [
+        "A 17-O"
+    ],
+    "find_number_s": [
+        "Ca0790"
+    ],
+    "find_description_s": [
+        "Dig I-II, under level III, room 11, to 5.5m (basket A)"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "4.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7980\",\"call_number_browse\":\"Coin 7980\"}}",
+    "pub_date_start_sort": -150,
+    "pub_date_end_sort": -145,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "5015"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Alexander I [Bala] (-152 to -142)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Alexander I"
+    ],
+    "issue_obverse_symbol_s": [
+        "lion's skin"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing lion's skin"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_symbol_s": [
+        "cornucopia"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "bow, in l. hand",
+        "arrow, in extended r. hand",
+        "cornucopia, in outer l. field"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "849d3227a1fbc388"
+    ],
+    "_version_": 1670005588146257920,
+    "timestamp": "2020-06-20T08:23:57.718Z"
+}

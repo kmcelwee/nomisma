@@ -1,0 +1,122 @@
+{
+    "id": "coin-7537",
+    "title_display": "Coin: 7537",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7537"
+    ],
+    "call_number_browse_s": [
+        "Coin 7537"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6-24-1938"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb3403"
+    ],
+    "find_description_s": [
+        "Trench 10, surface (B1)"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "4.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7537\",\"call_number_browse\":\"Coin 7537\"}}",
+    "pub_date_start_sort": 642,
+    "pub_date_end_sort": 648,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4708"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constans II standing, facing, holding long cross in r., globus cruciger in l."
+    ],
+    "issue_obverse_legend_s": [
+        "EN[TOUTO]NIKA"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m, cross above"
+    ],
+    "issue_reverse_legend_s": [
+        "large m, cross above, l. A[NA], r. NE[OS], ex. illegible"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 162 or 167",
+        "DOC vol. 2, page 442 class 1 or class 4",
+        "BL vol. I, page 344 type 1 or type 4",
+        "BMC.Byz. vol. I, page 268 101",
+        "Sear page 208 1000 or 1005"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c9ed44047c2c6fcb"
+    ],
+    "_version_": 1667138259820478464,
+    "timestamp": "2020-05-19T16:49:00.291Z"
+}

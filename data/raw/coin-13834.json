@@ -1,0 +1,105 @@
+{
+    "id": "coin-13834",
+    "title_display": "Coin: 13834",
+    "pub_created_display": [
+        "Ptolemy I Soter (-323 to -282), Tetradrachm, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 13834"
+    ],
+    "call_number_browse_s": [
+        "Coin 13834"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "15.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13834\",\"call_number_browse\":\"Coin 13834\"}}",
+    "donor_s": [
+        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8879"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy I Soter (-323 to -282)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Ptolemaic Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Ptolemaic Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Horned head of deified Alexander, wearing elephant headdress, mitra, and scaly aegis, dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Athena"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Athena Promachos advancing r., brandishing spear and shield, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "helmet, In right field, under shield",
+        "eagle, In right field, under helmet",
+        "m13834, Under shield, between helmet and eagle"
+    ],
+    "issue_references_s": [
+        "Lorber I, v.1, 265 69"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "febcbb391a9eea26"
+    ],
+    "_version_": 1667138331564048384,
+    "timestamp": "2020-05-19T16:50:08.709Z"
+}

@@ -1,0 +1,119 @@
+{
+    "id": "coin-8009",
+    "title_display": "Coin: 8009",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8009"
+    ],
+    "call_number_browse_s": [
+        "Coin 8009"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/16/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca407"
+    ],
+    "find_description_s": [
+        "Central Room with apse to 3M"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "12.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8009\",\"call_number_browse\":\"Coin 8009\"}}",
+    "pub_date_start_sort": 529,
+    "pub_date_end_sort": 533,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_workshop_s": [
+        "B"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Emperor enthroned, diademed with trefoil ornament in front. With r. hand leans on long sceptor."
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINI ANVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross above, large star to right, crescent to left"
+    ],
+    "issue_reverse_legend_s": [
+        "+THEUP"
+    ],
+    "issue_references_s": [
+        "DOC Volume 1 206b",
+        "BMC.Byz. volume 1 278"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1043b92ce6695e20"
+    ],
+    "_version_": 1673366429282336768,
+    "timestamp": "2020-07-27T10:43:05.542Z"
+}

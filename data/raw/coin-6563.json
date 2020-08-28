@@ -1,0 +1,107 @@
+{
+    "id": "coin-6563",
+    "title_display": "Coin: 6563",
+    "pub_created_display": [
+        "John Komnenos-Doukas (1237 to 1244), aspron trachy nomisma, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6563"
+    ],
+    "call_number_browse_s": [
+        "Coin 6563"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "0.87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6563\",\"call_number_browse\":\"Coin 6563\"}}",
+    "pub_date_start_sort": 1237,
+    "pub_date_end_sort": 1244,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "3976"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "John Komnenos-Doukas (1237 to 1244)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Theodore"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of St. Theodore, bearded and nimbate"
+    ],
+    "issue_obverse_legend_s": [
+        "obscure"
+    ],
+    "issue_reverse_figure_s": [
+        "John Ducas and St. Demetrius"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "half-length of John Ducas on l. and St. Demetrius, beardless and nimate, on r., holding between them large cross within circle, surmounting triangle decoration on staff; emperor holds shaft with l. hand, saint holds shaft with both hands"
+    ],
+    "issue_reverse_legend_s": [
+        "obscure"
+    ],
+    "issue_references_s": [
+        "DOC vol. 4, page 589 17a.2",
+        "Sear  2202"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e42fa6f5d72b8a1d"
+    ],
+    "_version_": 1667138366322245632,
+    "timestamp": "2020-05-19T16:50:41.858Z"
+}

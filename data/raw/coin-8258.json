@@ -1,0 +1,107 @@
+{
+    "id": "coin-8258",
+    "title_display": "Coin: 8258",
+    "pub_created_display": [
+        "1/4 denier, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8258"
+    ],
+    "call_number_browse_s": [
+        "Coin 8258"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/6/1937"
+    ],
+    "find_feature_s": [
+        "Dig II Surface"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca198"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8258\",\"call_number_browse\":\"Coin 8258\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/4 denier"
+    ],
+    "issue_number_s": [
+        "5267"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "S [reversed]"
+    ],
+    "issue_obverse_figure_description_s": [
+        "S [reversed] with 4 pellets in field"
+    ],
+    "issue_obverse_legend_s": [
+        "+PRINCEPS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Cross with pellets in first, second, and third quadrant and deep crescents in fourth."
+    ],
+    "issue_reverse_legend_s": [
+        "+ANTIOCHIA"
+    ],
+    "issue_references_s": [
+        "Ox.  468",
+        "Schl. plate 3 16"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "50f8d8d00a4c29ef"
+    ],
+    "_version_": 1667144976294739968,
+    "timestamp": "2020-05-19T18:35:45.647Z"
+}

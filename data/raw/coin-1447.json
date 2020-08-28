@@ -1,0 +1,99 @@
+{
+    "id": "coin-1447",
+    "title_display": "Coin: 1447",
+    "pub_created_display": [
+        "Augustus (-30 to 14), denarius, Lugdunum"
+    ],
+    "call_number_display": [
+        "Coin 1447"
+    ],
+    "call_number_browse_s": [
+        "Coin 1447"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1447\",\"call_number_browse\":\"Coin 1447\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": -15,
+    "pub_date_end_sort": -12,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "847"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Lugdunum, Gaul, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Lugdunum"
+    ],
+    "issue_state_s": [
+        "Gaul"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_legend_s": [
+        "AVGVSTVS DIVI.F"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Apollo, dressed as a citharoedus, standing to front, head l., holding plecrum in r. hand and lyre in l."
+    ],
+    "issue_reverse_legend_s": [
+        "IMP .X ACT"
+    ],
+    "issue_references_s": [
+        "RIC.1.  328",
+        "BMC.1.  461",
+        "Sear  1611"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c8d79c0bb159f1e3"
+    ],
+    "_version_": 1667138411471831040,
+    "timestamp": "2020-05-19T16:51:24.917Z"
+}

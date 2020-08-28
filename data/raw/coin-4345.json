@@ -1,0 +1,102 @@
+{
+    "id": "coin-4345",
+    "title_display": "Coin: 4345",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4345"
+    ],
+    "call_number_browse_s": [
+        "Coin 4345"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "21.0"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4345\",\"call_number_browse\":\"Coin 4345\"}}",
+    "pub_date_start_sort": -45,
+    "pub_date_end_sort": -45,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2444"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Lollius Palicanus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Honos"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "HONORIS"
+    ],
+    "issue_reverse_figure_s": [
+        "Curule chair"
+    ],
+    "issue_reverse_figure_description_s": [
+        "chair garlanded; to either side, ear of corn; legend above; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0393ALIKANVS"
+    ],
+    "issue_references_s": [
+        "RRC  473/2c",
+        "Syd.  961",
+        "RRC  466"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "109223bdc97aac00"
+    ],
+    "_version_": 1667138235877294080,
+    "timestamp": "2020-05-19T16:48:37.457Z"
+}

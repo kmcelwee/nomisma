@@ -1,0 +1,122 @@
+{
+    "id": "coin-4076",
+    "title_display": "Coin: 4076",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4076"
+    ],
+    "call_number_browse_s": [
+        "Coin 4076"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "19.2"
+    ],
+    "weight_s": [
+        "3.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4076\",\"call_number_browse\":\"Coin 4076\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -49,
+    "pub_date_end_sort": -49,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2341"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Q. Sicinius"
+    ],
+    "issue_workshop_s": [
+        "Moving with Pompey in the East"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_symbol_s": [
+        "star"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "hair tied; star below; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "Q SICINIVS | IIIVIR"
+    ],
+    "issue_obverse_attributes_s": [
+        "star, below portrait"
+    ],
+    "issue_reverse_figure_s": [
+        "Club"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "lionskin hangs from club; to l., arrow; to r., bow; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "C CO\u0393ONIVS | \u0393R S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, to left of club",
+        "lionskin, hangs on club",
+        "bow, to right of club"
+    ],
+    "issue_references_s": [
+        "RRC  444/1a",
+        "Syd.  939, 939b-940",
+        "Sear  413"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0e1204e80c51f2bd"
+    ],
+    "_version_": 1667138404074127360,
+    "timestamp": "2020-05-19T16:51:17.862Z"
+}

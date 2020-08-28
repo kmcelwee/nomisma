@@ -1,0 +1,97 @@
+{
+    "id": "coin-8668",
+    "title_display": "Coin: 8668",
+    "pub_created_display": [
+        "Milan Republic (1250 to 1310), soldo, Milan"
+    ],
+    "call_number_display": [
+        "Coin 8668"
+    ],
+    "call_number_browse_s": [
+        "Coin 8668"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8668\",\"call_number_browse\":\"Coin 8668\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1250,
+    "pub_date_end_sort": 1310,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "soldo"
+    ],
+    "issue_number_s": [
+        "5545"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Milan Republic (1250 to 1310)"
+    ],
+    "issue_place_s": [
+        "Milan, Lombardy, Italy"
+    ],
+    "issue_city_s": [
+        "Milan"
+    ],
+    "issue_state_s": [
+        "Lombardy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Cross with 4 clovers"
+    ],
+    "issue_obverse_legend_s": [
+        "(clover) MEDIOLANVM"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint Ambrose"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Saint Ambrose seated with scepter in l. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "+ S'AMB ROSIV'"
+    ],
+    "issue_references_s": [
+        "CNI V., p.59 23"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0ab98a413349fdea"
+    ],
+    "_version_": 1667138157487849472,
+    "timestamp": "2020-05-19T16:47:22.699Z"
+}

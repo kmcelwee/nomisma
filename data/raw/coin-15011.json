@@ -1,0 +1,109 @@
+{
+    "id": "coin-15011",
+    "title_display": "Coin: 15011",
+    "pub_created_display": [
+        "Lorenzo Tiepolo (1268 to 1275), grosso, Venice"
+    ],
+    "call_number_display": [
+        "Coin 15011"
+    ],
+    "call_number_browse_s": [
+        "Coin 15011"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.07"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15011\",\"call_number_browse\":\"Coin 15011\"}}",
+    "donor_s": [
+        "Platt"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "9209"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Lorenzo Tiepolo (1268 to 1275)"
+    ],
+    "issue_place_s": [
+        "Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "San Marco gives banner to doge"
+    ],
+    "issue_obverse_legend_s": [
+        "LA TEVPL DUX SM VENETI"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_symbol_s": [
+        "Sign 15"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Redeemer seated in throne"
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_references_s": [
+        "Pap. 1 112, 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "61d803a2c9a07523"
+    ],
+    "_version_": 1667144764968927232,
+    "timestamp": "2020-05-19T18:32:24.189Z"
+}

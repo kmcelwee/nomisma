@@ -1,0 +1,101 @@
+{
+    "id": "coin-11939",
+    "title_display": "Coin: 11939",
+    "pub_created_display": [
+        "Hadrian (117 to 138), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11939"
+    ],
+    "call_number_browse_s": [
+        "Coin 11939"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "13.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11939\",\"call_number_browse\":\"Coin 11939\"}}",
+    "donor_s": [
+        "Anonymous"
+    ],
+    "pub_date_start_sort": 119,
+    "pub_date_end_sort": 121,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "8009"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "cuirassed"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP CAESAR TRAIAN HADRIANVS AVG P M TR P COS III"
+    ],
+    "issue_reverse_figure_s": [
+        "Pietas"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing right"
+    ],
+    "issue_reverse_legend_s": [
+        "PIETAS AVGVSTI SC"
+    ],
+    "issue_references_s": [
+        "RIC 2 419 608",
+        "BMC 420 1232"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8d09212bdb56441e"
+    ],
+    "_version_": 1667138294619570176,
+    "timestamp": "2020-05-19T16:49:33.476Z"
+}

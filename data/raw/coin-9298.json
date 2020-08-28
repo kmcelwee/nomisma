@@ -1,0 +1,111 @@
+{
+    "id": "coin-9298",
+    "title_display": "Coin: 9298",
+    "pub_created_display": [
+        "Tiberius, as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9298"
+    ],
+    "call_number_browse_s": [
+        "Coin 9298"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "8.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9298\",\"call_number_browse\":\"Coin 9298\"}}",
+    "donor_s": [
+        "Ernest DeWald"
+    ],
+    "pub_date_start_sort": 22,
+    "pub_date_end_sort": 23,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "5924"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare headed"
+    ],
+    "issue_obverse_legend_s": [
+        "TI CAESAR DIVIAVG F AVGVSTIMP VIII"
+    ],
+    "issue_reverse_figure_s": [
+        "[ ]"
+    ],
+    "issue_reverse_symbol_s": [
+        "S C"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large S C center surrounded by legend"
+    ],
+    "issue_reverse_legend_s": [
+        "S C; PONTIFMAXIMTRIBVN POTESTXXIIII"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 44",
+        "BMC.1. Tiberius 91",
+        "Sear  1770"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8c1ba5da6f419426"
+    ],
+    "_version_": 1667138154371481600,
+    "timestamp": "2020-05-19T16:47:19.727Z"
+}

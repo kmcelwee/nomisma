@@ -1,0 +1,98 @@
+{
+    "id": "coin-6638",
+    "title_display": "Coin: 6638",
+    "pub_created_display": [
+        "Jose Napoleon (1808 to 1814), 4 reales"
+    ],
+    "call_number_display": [
+        "Coin 6638"
+    ],
+    "call_number_browse_s": [
+        "Coin 6638"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "5.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6638\",\"call_number_browse\":\"Coin 6638\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 reales"
+    ],
+    "issue_number_s": [
+        "4060"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Jose Napoleon (1808 to 1814)"
+    ],
+    "issue_workshop_s": [
+        "Barcelona or Madrid"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "left facing bust"
+    ],
+    "issue_obverse_legend_s": [
+        "\u2022IOSEPH\u2022NAP\u2022DEI\u2022GRATIA\u20221810\u2022"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Castille, Leon, Granada and Burbon"
+    ],
+    "issue_reverse_symbol_s": [
+        "4 R."
+    ],
+    "issue_reverse_figure_description_s": [
+        "arms of Castille, Leon, Granada and Borbon inside a crowned shield"
+    ],
+    "issue_reverse_legend_s": [
+        "HISPANIARUM ET IND\u2022REX.M[crown on top]\u2022A\u2022I\u2022"
+    ],
+    "issue_references_s": [
+        "Las Monedas Espanolas p. 761 13246",
+        "Monedas Espanolas p. 393 52"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e4bb5dce05d8797b"
+    ],
+    "_version_": 1667138254338523136,
+    "timestamp": "2020-05-19T16:48:55.061Z"
+}

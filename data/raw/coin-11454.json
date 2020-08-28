@@ -1,0 +1,106 @@
+{
+    "id": "coin-11454",
+    "title_display": "Coin: 11454",
+    "pub_created_display": [
+        "Constantine V (741 to 775), half follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 11454"
+    ],
+    "call_number_browse_s": [
+        "Coin 11454"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11454\",\"call_number_browse\":\"Coin 11454\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 741,
+    "pub_date_end_sort": 751,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half follis"
+    ],
+    "issue_number_s": [
+        "7611"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Constantine V (741 to 775)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constantine V facing, bearded, holding cross potent in right hand"
+    ],
+    "issue_obverse_legend_s": [
+        "C OSTA"
+    ],
+    "issue_reverse_symbol_s": [
+        "K"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on left, X X X (vertical); on right, N N N (vertical); beneath, A; above, cross"
+    ],
+    "issue_reverse_legend_s": [
+        "X X X; N N N"
+    ],
+    "issue_references_s": [
+        "DOC 305 9V"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "13f487ef6c529c33"
+    ],
+    "_version_": 1667138293648588800,
+    "timestamp": "2020-05-19T16:49:32.549Z"
+}

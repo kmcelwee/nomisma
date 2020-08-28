@@ -1,0 +1,111 @@
+{
+    "id": "coin-7368",
+    "title_display": "Coin: 7368",
+    "pub_created_display": [
+        "Philip I the Arab (244 to 249), antoninianus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7368"
+    ],
+    "call_number_browse_s": [
+        "Coin 7368"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "4.04"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7368\",\"call_number_browse\":\"Coin 7368\"}}",
+    "pub_date_start_sort": 248,
+    "pub_date_end_sort": 248,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_number_s": [
+        "4611"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip I the Arab (244 to 249)"
+    ],
+    "issue_series_s": [
+        "Roman Millenium"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate, draped, cuirassed"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP. PHILIPPVS AVG."
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_symbol_s": [
+        "I"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "walking"
+    ],
+    "issue_reverse_legend_s": [
+        "SAECVLARES AVGG."
+    ],
+    "issue_references_s": [
+        "RIC 4, pt. III 70.12",
+        "RSC 4 15.173",
+        "Cohen 4 195.173"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9fd69961736317c0"
+    ],
+    "_version_": 1667138192717905920,
+    "timestamp": "2020-05-19T16:47:56.297Z"
+}

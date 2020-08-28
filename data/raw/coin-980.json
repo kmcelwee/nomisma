@@ -1,0 +1,89 @@
+{
+    "id": "coin-980",
+    "title_display": "Coin: 980",
+    "pub_created_display": [
+        "Alexander III the Great (-336 to -323), bronze, Salamis"
+    ],
+    "call_number_display": [
+        "Coin 980"
+    ],
+    "call_number_browse_s": [
+        "Coin 980"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 980\",\"call_number_browse\":\"Coin 980\"}}",
+    "pub_date_start_sort": -332,
+    "pub_date_end_sort": -323,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "449"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Alexander III the Great (-336 to -323)"
+    ],
+    "issue_place_s": [
+        "Salamis, Cyprus, Asia"
+    ],
+    "issue_city_s": [
+        "Salamis"
+    ],
+    "issue_state_s": [
+        "Cyprus"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lion skin headdress"
+    ],
+    "issue_reverse_figure_description_s": [
+        "club r., quiver+bow"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u03a3\u0391, above club",
+        "A, below bow"
+    ],
+    "issue_references_s": [
+        "Price  3143"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8b0ac3c0e7209e20"
+    ],
+    "_version_": 1667146586837221376,
+    "timestamp": "2020-05-19T19:01:21.551Z"
+}

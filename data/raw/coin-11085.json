@@ -1,0 +1,97 @@
+{
+    "id": "coin-11085",
+    "title_display": "Coin: 11085",
+    "pub_created_display": [
+        "Kawad I/ 1st reign, Drachm, Eran-khwarrah-Shapur"
+    ],
+    "call_number_display": [
+        "Coin 11085"
+    ],
+    "call_number_browse_s": [
+        "Coin 11085"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "4.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11085\",\"call_number_browse\":\"Coin 11085\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 488,
+    "pub_date_end_sort": 496,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7246"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Kawad I/ 1st reign"
+    ],
+    "issue_series_s": [
+        "AY Type Ia1/1"
+    ],
+    "issue_place_s": [
+        "Eran-khwarrah-Shapur, Khuzistan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Eran-khwarrah-Shapur"
+    ],
+    "issue_state_s": [
+        "Khuzistan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Kawad I on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "With Whiskers only, crown with two mural elements, crescent above forehead, above covered korymbos; two ribbons commencing to the left below crescent, pointing upwards, double pearl diadem, diadem ribbons commencing to the left and right behind right shoulder; pointing upwards; earing consisting of three elements; neck-line of tunica edged with row of pearls; crescent on both shoulders; double row of pearls running from the shoulders to the breast (varying decoration); star in left upper field; rigged border"
+    ],
+    "issue_obverse_legend_s": [
+        "2 h l.o. kw't| kaw\u0101d| \"Kawad\"; B4"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of three elements; round altar shaft; to the left and right of the shaft ribbons pointing downwards, three altar slabs; altar flames rendered in four tiers of four, three, two and one strokes respectively; star to the left of altar flames, crescent to the right; to the left and the right of altar attendant with stylized crown of Kawad I, right hand raised, both figures facing inwards; \t Kw\u2019t at 9 h; ridged border"
+    ],
+    "issue_references_s": [
+        "SNS  AY Type Ia1/1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15a516c86c993883"
+    ],
+    "_version_": 1667138168557666304,
+    "timestamp": "2020-05-19T16:47:33.254Z"
+}

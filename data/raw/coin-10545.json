@@ -1,0 +1,112 @@
+{
+    "id": "coin-10545",
+    "title_display": "Coin: 10545",
+    "pub_created_display": [
+        "Elagabalus (218 to 222), small, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10545"
+    ],
+    "call_number_browse_s": [
+        "Coin 10545"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "find_date_s": [
+        "4/16/35"
+    ],
+    "find_feature_s": [
+        "Foundations stage bldg. West side."
+    ],
+    "find_locus_s": [
+        "DH-20N"
+    ],
+    "find_number_s": [
+        "C4485"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "6.33"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10545\",\"call_number_browse\":\"Coin 10545\"}}",
+    "pub_date_start_sort": 218,
+    "pub_date_end_sort": 222,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "small"
+    ],
+    "issue_number_s": [
+        "6711"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Elagabalus (218 to 222)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laureate Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head laureate right"
+    ],
+    "issue_obverse_legend_s": [
+        ". . .T\u03a9N\u03b5I. . ."
+    ],
+    "issue_reverse_figure_s": [
+        "S C in wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "eagle"
+    ],
+    "issue_reverse_figure_description_s": [
+        "SC in wreath, \u0394\u03b5 above, eagle below"
+    ],
+    "issue_references_s": [
+        "BMC Syria  431"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e87a8369679f807e"
+    ],
+    "_version_": 1667144762739654656,
+    "timestamp": "2020-05-19T18:32:22.223Z"
+}

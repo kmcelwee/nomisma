@@ -1,0 +1,93 @@
+{
+    "id": "coin-6631",
+    "title_display": "Coin: 6631",
+    "pub_created_display": [
+        "Carlos IV (1788 to 1808), 8 reales"
+    ],
+    "call_number_display": [
+        "Coin 6631"
+    ],
+    "call_number_browse_s": [
+        "Coin 6631"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "39"
+    ],
+    "weight_s": [
+        "26.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6631\",\"call_number_browse\":\"Coin 6631\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "8 reales"
+    ],
+    "issue_number_s": [
+        "4052"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Carlos IV (1788 to 1808)"
+    ],
+    "issue_workshop_s": [
+        "Mexico"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right-facing bust with laurels with legend around outside"
+    ],
+    "issue_obverse_legend_s": [
+        "DEI\u2022GRATIA\u20221802\u2022CAROLUS\u2022IIII\u2022"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Castille, Leon, Granada and Burbon"
+    ],
+    "issue_reverse_figure_description_s": [
+        "arms of Castille, Leon, Granda and Borbon inside a crowned shield between two columns with ribbons around them that say PLVS VLTRA"
+    ],
+    "issue_reverse_legend_s": [
+        "\u2022HISPAN\u2022ET IND\u2022REX\u2022M[cirlce above]]\u20228R\u2022F\u2022T\u2022"
+    ],
+    "issue_references_s": [
+        "Heiss vol. I, lam. 59 var. 13",
+        "Monedas Espanolas p. 368 658",
+        "Las Monedas Espanolas p. 740 12564"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1265680c1c61aa18"
+    ],
+    "_version_": 1667138364314222592,
+    "timestamp": "2020-05-19T16:50:39.944Z"
+}

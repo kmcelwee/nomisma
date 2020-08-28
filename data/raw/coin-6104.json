@@ -1,0 +1,87 @@
+{
+    "id": "coin-6104",
+    "title_display": "Coin: 6104",
+    "call_number_display": [
+        "Coin 6104"
+    ],
+    "call_number_browse_s": [
+        "Coin 6104"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Medal commemorates capture of Porto Bello.  It appears to have been dropped on its edge, causing a pit.  Last number of date on reverse legend has been worn off."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "37"
+    ],
+    "weight_s": [
+        "16.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6104\",\"call_number_browse\":\"Coin 6104\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3557"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Admiral Vernon on left, facing 3/4 right.  Commodore Brown on right, facing left."
+    ],
+    "issue_obverse_legend_s": [
+        "ADMIRAL . VERNON . AND . COMMODORE . BROWN"
+    ],
+    "issue_reverse_figure_s": [
+        "Six ships"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Scene depicting the battle of Porto Bello.  Six ships are shown."
+    ],
+    "issue_reverse_legend_s": [
+        "TOOK * PORTO * BELLO * WITH * SIX * SHIPS * ONLY | NOV 22 1739"
+    ],
+    "issue_references_s": [
+        "M.I. Plate CLV 7",
+        "Forrer 4, p.547 ",
+        "Betts p.118 250"
+    ],
+    "issue_artists_s": [
+        "Edward Pinchbeck"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "af912f4087546c8c"
+    ],
+    "_version_": 1667138251140366336,
+    "timestamp": "2020-05-19T16:48:52.010Z"
+}

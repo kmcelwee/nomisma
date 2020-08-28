@@ -1,0 +1,113 @@
+{
+    "id": "coin-9547",
+    "title_display": "Coin: 9547",
+    "pub_created_display": [
+        "Nero (54 to 68), unknown, Smyrna"
+    ],
+    "call_number_display": [
+        "Coin 9547"
+    ],
+    "call_number_browse_s": [
+        "Coin 9547"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "PUL classifies as time of Tiberius. Probably Nero (?)."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "4.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9547\",\"call_number_browse\":\"Coin 9547\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 68,
+    "pub_date_end_sort": 69,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unknown"
+    ],
+    "issue_number_s": [
+        "6097"
+    ],
+    "issue_metal_s": [
+        "Brass"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Smyrna, Asia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Smyrna"
+    ],
+    "issue_state_s": [
+        "Asia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nemesis"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right hand raised"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0395\u03a0\u0399 \u03a4\u0399 \u039a\u039b\u0391\u03a5\u0394\u0399\u039f\u03a5 [\u0399\u0395\u03a1\u039f\u039d\u03a5\u039c\u039f\u03a5]"
+    ],
+    "issue_reverse_figure_s": [
+        "River God"
+    ],
+    "issue_reverse_part_s": [
+        "reclining"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with reed and amphora"
+    ],
+    "issue_reverse_legend_s": [
+        "CT[\u03a1\u0391] \u03a4\u0399 C\u03a9C\u0391\u039d\u0394\u03a0\u039f\u03a5 \u0396\u039c\u03a5\u03a1"
+    ],
+    "issue_references_s": [
+        "RPC  2490",
+        "PUL  841"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "819da9cff6fee288"
+    ],
+    "_version_": 1667138276378542080,
+    "timestamp": "2020-05-19T16:49:16.092Z"
+}

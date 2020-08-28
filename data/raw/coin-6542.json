@@ -1,0 +1,103 @@
+{
+    "id": "coin-6542",
+    "title_display": "Coin: 6542",
+    "pub_created_display": [
+        "Alfonso (1465 to 1468), cuartillo"
+    ],
+    "call_number_display": [
+        "Coin 6542"
+    ],
+    "call_number_browse_s": [
+        "Coin 6542"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "The inscriptions on the two sides are reversed; the observe inscription is on the reverse and vice versa."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "3.71"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6542\",\"call_number_browse\":\"Coin 6542\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1465,
+    "pub_date_end_sort": 1468,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "cuartillo"
+    ],
+    "issue_number_s": [
+        "3959"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Alfonso (1465 to 1468)"
+    ],
+    "issue_workshop_s": [
+        "Burgos"
+    ],
+    "issue_place_s": [
+        "Castille and Leon, Spain"
+    ],
+    "issue_state_s": [
+        "Castille and Leon"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Facing bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "forward facing bust with inscription around the outside"
+    ],
+    "issue_obverse_legend_s": [
+        "DOMINVS:MICHI:ADIVTOR:ELEC"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_symbol_s": [
+        "B"
+    ],
+    "issue_reverse_figure_description_s": [
+        "castle in wavy circle with inscription around the outside"
+    ],
+    "issue_reverse_legend_s": [
+        "ALFONSVS:DEI:GRA:REXC\u2026"
+    ],
+    "issue_references_s": [
+        "Heiss vol I, lam. 16 4, var."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "869491c5220bbb67"
+    ],
+    "_version_": 1667138366971314176,
+    "timestamp": "2020-05-19T16:50:42.478Z"
+}

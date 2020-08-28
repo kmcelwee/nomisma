@@ -1,0 +1,113 @@
+{
+    "id": "coin-7707",
+    "title_display": "Coin: 7707",
+    "pub_created_display": [
+        "Marcian (450 to 457), aes IV, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7707"
+    ],
+    "call_number_browse_s": [
+        "Coin 7707"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Monogram variant: (H) instead of (s); see Kent p99"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/31/1939"
+    ],
+    "find_locus_s": [
+        "DH 26-M/N"
+    ],
+    "find_number_s": [
+        "Cc1663"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "weight_s": [
+        "0.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7707\",\"call_number_browse\":\"Coin 7707\"}}",
+    "pub_date_start_sort": 450,
+    "pub_date_end_sort": 457,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aes IV"
+    ],
+    "issue_number_s": [
+        "4782"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Marcian (450 to 457)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "D N MARCIANVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross or star within wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "[illegible]"
+    ],
+    "issue_references_s": [
+        "RIC X  545?",
+        "DOC  497?"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8201201b3a876b11"
+    ],
+    "_version_": 1667138351026667520,
+    "timestamp": "2020-05-19T16:50:27.270Z"
+}

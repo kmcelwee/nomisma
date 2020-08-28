@@ -1,0 +1,108 @@
+{
+    "id": "coin-4678",
+    "title_display": "Coin: 4678",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4678"
+    ],
+    "call_number_browse_s": [
+        "Coin 4678"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "19.8"
+    ],
+    "weight_s": [
+        "3.64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4678\",\"call_number_browse\":\"Coin 4678\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -43,
+    "pub_date_end_sort": -42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2543"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "P. Cornelius Lentulus Spinther"
+    ],
+    "issue_workshop_s": [
+        "Moving with Brutus and Cassius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Libertas"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing diadem; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "LEIBERTAS | C CASSI IM\u0393"
+    ],
+    "issue_reverse_figure_s": [
+        "Jug and lituus"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend below in two lines; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "LENTVLVS | SPINT"
+    ],
+    "issue_references_s": [
+        "RRC  500/7",
+        "Syd.  1310",
+        "Sear  1431"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1daf303dee03a845"
+    ],
+    "_version_": 1667138500103766016,
+    "timestamp": "2020-05-19T16:52:49.440Z"
+}

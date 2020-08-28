@@ -1,0 +1,95 @@
+{
+    "id": "coin-5532",
+    "title_display": "Coin: 5532",
+    "pub_created_display": [
+        "1 Dollar, Annapolis"
+    ],
+    "call_number_display": [
+        "Coin 5532"
+    ],
+    "call_number_browse_s": [
+        "Coin 5532"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "John Clapham| William Eddis."
+    ],
+    "size_s": [
+        "124x63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5532\",\"call_number_browse\":\"Coin 5532\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1 Dollar"
+    ],
+    "issue_number_s": [
+        "3126"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Annapolis, Maryland, United States of America"
+    ],
+    "issue_city_s": [
+        "Annapolis"
+    ],
+    "issue_state_s": [
+        "Maryland"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Maryland"
+    ],
+    "issue_obverse_legend_s": [
+        "THIS Indented BILL of ONE DOLLAR shall entitle the BEARER hereof to receive Bills of Exchange payable in LONDON, or Gold and Silver, at the Rate of Four Shillings and Six-pence Sterling per DOLLAR for the said Bill, according to the Directions"
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "ONE DOLLAR.  Equal to 4s, 6d Sterling.| Printed by A.C. and F. GREEN.  'Tis Death to Counterfeit."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 169"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "95466bd6cad27fe8"
+    ],
+    "_version_": 1667138391679959040,
+    "timestamp": "2020-05-19T16:51:06.044Z"
+}

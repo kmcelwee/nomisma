@@ -1,0 +1,99 @@
+{
+    "id": "coin-459",
+    "title_display": "Coin: 459",
+    "pub_created_display": [
+        "Eudes III (1193 to 1218), penny, Dijon"
+    ],
+    "call_number_display": [
+        "Coin 459"
+    ],
+    "call_number_browse_s": [
+        "Coin 459"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "0.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 459\",\"call_number_browse\":\"Coin 459\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 1193,
+    "pub_date_end_sort": 1218,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "206"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Eudes III (1193 to 1218)"
+    ],
+    "issue_place_s": [
+        "Dijon, Burgundy, France"
+    ],
+    "issue_city_s": [
+        "Dijon"
+    ],
+    "issue_state_s": [
+        "Burgundy"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "[OD]ODVXBVRG:DIE"
+    ],
+    "issue_obverse_attributes_s": [
+        "cross, pellet in each quandrant of cross"
+    ],
+    "issue_reverse_figure_s": [
+        "Fragmented cross"
+    ],
+    "issue_reverse_legend_s": [
+        "+DIVIONENSIS"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, variation star and pellet on either side"
+    ],
+    "issue_references_s": [
+        "Robert  4523",
+        "P.d'A.  5659",
+        "Dieudonne pages 114-15 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2804941719dbc296"
+    ],
+    "_version_": 1667138201966346240,
+    "timestamp": "2020-05-19T16:48:05.114Z"
+}

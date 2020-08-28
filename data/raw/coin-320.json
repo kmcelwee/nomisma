@@ -1,0 +1,96 @@
+{
+    "id": "coin-320",
+    "title_display": "Coin: 320",
+    "pub_created_display": [
+        "Philip II Augustus (1180 to 1223), penny, Deols"
+    ],
+    "call_number_display": [
+        "Coin 320"
+    ],
+    "call_number_browse_s": [
+        "Coin 320"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "1.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 320\",\"call_number_browse\":\"Coin 320\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 1180,
+    "pub_date_end_sort": 1223,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "168"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip II Augustus (1180 to 1223)"
+    ],
+    "issue_place_s": [
+        "Deols, France"
+    ],
+    "issue_city_s": [
+        "Deols"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+REXFILIPUS"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, S on side"
+    ],
+    "issue_reverse_figure_s": [
+        "Star"
+    ],
+    "issue_reverse_legend_s": [
+        "+DEDOLIS"
+    ],
+    "issue_reverse_attributes_s": [
+        "star, six pointed star with circle in center",
+        "legend, S on side"
+    ],
+    "issue_references_s": [
+        "Lafaurie  169",
+        "Robert  2327"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "219df4f52312f9ef"
+    ],
+    "_version_": 1667138402680569856,
+    "timestamp": "2020-05-19T16:51:16.531Z"
+}

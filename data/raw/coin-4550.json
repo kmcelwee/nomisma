@@ -1,0 +1,102 @@
+{
+    "id": "coin-4550",
+    "title_display": "Coin: 4550",
+    "pub_created_display": [
+        "aureus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4550"
+    ],
+    "call_number_browse_s": [
+        "Coin 4550"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "20.1"
+    ],
+    "weight_s": [
+        "8.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4550\",\"call_number_browse\":\"Coin 4550\"}}",
+    "pub_date_start_sort": -42,
+    "pub_date_end_sort": -42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "2513"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_master_s": [
+        "P. Clodius Turrinus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Sol"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate; quiver behind; border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Crescent"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crescent upwards, surrounded by 5 stars; legend beneath; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "P CLODIVS | M F"
+    ],
+    "issue_references_s": [
+        "RRC  494/20a",
+        "Syd.  1114a",
+        "Sear  14v."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6a93a5e4369ddb1b"
+    ],
+    "_version_": 1667138497905950720,
+    "timestamp": "2020-05-19T16:52:47.347Z"
+}

@@ -1,0 +1,100 @@
+{
+    "id": "coin-10523",
+    "title_display": "Coin: 10523",
+    "pub_created_display": [
+        "Galba (68 to 69), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 10523"
+    ],
+    "call_number_browse_s": [
+        "Coin 10523"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "34"
+    ],
+    "weight_s": [
+        "22.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10523\",\"call_number_browse\":\"Coin 10523\"}}",
+    "pub_date_start_sort": 68,
+    "pub_date_end_sort": 68,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "6690"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Galba (68 to 69)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Galba"
+    ],
+    "issue_obverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Galba, wreathed, facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP.SER.GALBA AVG.TR.P."
+    ],
+    "issue_reverse_figure_s": [
+        "Oak wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Oak wreath with three-line inscription"
+    ],
+    "issue_reverse_legend_s": [
+        "SPQR / OB / CIVSER"
+    ],
+    "issue_references_s": [
+        "Roman Imperial Coinage  261"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8214d652feaa5e1c"
+    ],
+    "_version_": 1667138180541841408,
+    "timestamp": "2020-05-19T16:47:44.682Z"
+}

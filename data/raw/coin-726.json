@@ -1,0 +1,92 @@
+{
+    "id": "coin-726",
+    "title_display": "Coin: 726",
+    "pub_created_display": [
+        "Raymond VII (1222 to 1249), penny"
+    ],
+    "call_number_display": [
+        "Coin 726"
+    ],
+    "call_number_browse_s": [
+        "Coin 726"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 726\",\"call_number_browse\":\"Coin 726\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 1222,
+    "pub_date_end_sort": 1249,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "299"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Raymond VII (1222 to 1249)"
+    ],
+    "issue_place_s": [
+        "Toulouse, France"
+    ],
+    "issue_state_s": [
+        "Toulouse"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "S in quadrant"
+    ],
+    "issue_obverse_legend_s": [
+        "+RAMONCOMES"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_legend_s": [
+        "+TOLOSACIVI"
+    ],
+    "issue_references_s": [
+        "P.d'A.  3702",
+        "Robert  4226"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ecf0c9c5eb0d9bc3"
+    ],
+    "_version_": 1667138204213444608,
+    "timestamp": "2020-05-19T16:48:07.259Z"
+}

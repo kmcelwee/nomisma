@@ -1,0 +1,119 @@
+{
+    "id": "coin-13485",
+    "title_display": "Coin: 13485",
+    "pub_created_display": [
+        "Antiochus IV Epiphanes (-175 to -164), half, Ake-Ptolemais"
+    ],
+    "call_number_display": [
+        "Coin 13485"
+    ],
+    "call_number_browse_s": [
+        "Coin 13485"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "2.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13485\",\"call_number_browse\":\"Coin 13485\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -175,
+    "pub_date_end_sort": -172,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_edge_s": [
+        "serrated"
+    ],
+    "issue_ruler_s": [
+        "Antiochus IV Epiphanes (-175 to -164)"
+    ],
+    "issue_place_s": [
+        "Ake-Ptolemais, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Ake-Ptolemais"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_attributes_s": [
+        "m8630.jpg, behind head"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_symbol_s": [
+        "aphlaston"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, in r. hand",
+        "grounded bow, in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L II, 91 1478"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a61440f774f5d3b7"
+    ],
+    "_version_": 1673003132499525632,
+    "timestamp": "2020-07-23T10:28:38.731Z"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "coin-8315",
+    "title_display": "Coin: 8315",
+    "pub_created_display": [
+        "Valens (364 to 378), Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8315"
+    ],
+    "call_number_browse_s": [
+        "Coin 8315"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/24/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca539"
+    ],
+    "find_description_s": [
+        "Dig I central part to 3.50 (Basket C)"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8315\",\"call_number_browse\":\"Coin 8315\"}}",
+    "pub_date_start_sort": 364,
+    "pub_date_end_sort": 367,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5307"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Valens (364 to 378)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust., diad."
+    ],
+    "issue_obverse_legend_s": [
+        "DNVALEN["
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_reverse_part_s": [
+        "running"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory running l. with wreath and palm"
+    ],
+    "issue_reverse_legend_s": [
+        "SECURIT [] REIPUBLICAE"
+    ],
+    "issue_references_s": [
+        "Waage p. 136 1792",
+        "RIC.9 p. 275 12"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7c8c91a58500a890"
+    ],
+    "_version_": 1667138187283136512,
+    "timestamp": "2020-05-19T16:47:51.112Z"
+}

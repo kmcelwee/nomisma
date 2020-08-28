@@ -1,0 +1,85 @@
+{
+    "id": "coin-7902",
+    "title_display": "Coin: 7902",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 7902"
+    ],
+    "call_number_browse_s": [
+        "Coin 7902"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Traces of inscription visible; cast coin of the late 2nd-3rd/8th-9th century"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-3-1937"
+    ],
+    "find_feature_s": [
+        "Room 2, Basket D"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca717"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "1.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7902\",\"call_number_browse\":\"Coin 7902\"}}",
+    "pub_date_start_sort": 790,
+    "pub_date_end_sort": 910,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4926"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        " \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \\ \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \\ \u0644\u0627\u0634\u0631\u06cc\u0643 \u0644\u0647"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b1542aededf114c9"
+    ],
+    "_version_": 1667138135355555840,
+    "timestamp": "2020-05-19T16:47:01.592Z"
+}

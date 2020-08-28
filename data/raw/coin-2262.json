@@ -1,0 +1,120 @@
+{
+    "id": "coin-2262",
+    "title_display": "Coin: 2262",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), unit, Sardis"
+    ],
+    "call_number_display": [
+        "Coin 2262"
+    ],
+    "call_number_browse_s": [
+        "Coin 2262"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, , Syria"
+    ],
+    "find_date_s": [
+        "06/03/1938"
+    ],
+    "find_locus_s": [
+        "S 19-J/K"
+    ],
+    "find_number_s": [
+        "Cb3118"
+    ],
+    "find_description_s": [
+        "Excavation 3, room 10"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "2.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2262\",\"call_number_browse\":\"Coin 2262\"}}",
+    "pub_date_start_sort": -282,
+    "pub_date_end_sort": -281,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_place_s": [
+        "Sardis, Lydia, Asia"
+    ],
+    "issue_city_s": [
+        "Sardis"
+    ],
+    "issue_state_s": [
+        "Lydia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Medusa"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "winged head"
+    ],
+    "issue_reverse_figure_s": [
+        "Bull"
+    ],
+    "issue_reverse_part_s": [
+        "charging"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u03a3, between legs",
+        "palm branch, held in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L  6.2b",
+        "WSM  1628"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "353390e9d50b110f"
+    ],
+    "_version_": 1673104838999670784,
+    "timestamp": "2020-07-24T13:25:13.609Z"
+}

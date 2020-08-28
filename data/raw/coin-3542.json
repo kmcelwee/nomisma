@@ -1,0 +1,110 @@
+{
+    "id": "coin-3542",
+    "title_display": "Coin: 3542",
+    "pub_created_display": [
+        "Augustus (-30 to 14), sestertius"
+    ],
+    "call_number_display": [
+        "Coin 3542"
+    ],
+    "call_number_browse_s": [
+        "Coin 3542"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "33.9"
+    ],
+    "weight_s": [
+        "24.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3542\",\"call_number_browse\":\"Coin 3542\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": -31,
+    "pub_date_end_sort": 14,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "2076"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_series_s": [
+        "CA coinage"
+    ],
+    "issue_place_s": [
+        "Asia, Roman Empire"
+    ],
+    "issue_state_s": [
+        "Asia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare"
+    ],
+    "issue_obverse_legend_s": [
+        "AVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "text in laurel wreath; dotted line inside and outside of wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "CA"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, around text"
+    ],
+    "issue_references_s": [
+        "RPC.1  2233",
+        "RIC.1.  501",
+        "BMC.1.  713",
+        "Augustus  696",
+        "PUC  767"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "78da8dfa2f2bb84f"
+    ],
+    "_version_": 1667138434900164608,
+    "timestamp": "2020-05-19T16:51:47.260Z"
+}

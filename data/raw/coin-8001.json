@@ -1,0 +1,107 @@
+{
+    "id": "coin-8001",
+    "title_display": "Coin: 8001",
+    "pub_created_display": [
+        "Heraclius (610 to 641), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8001"
+    ],
+    "call_number_browse_s": [
+        "Coin 8001"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/6/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "CA188"
+    ],
+    "find_description_s": [
+        "To 2M. North of EW Pipe"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8001\",\"call_number_browse\":\"Coin 8001\"}}",
+    "pub_date_start_sort": 615,
+    "pub_date_end_sort": 620,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5035"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Heraclius (610 to 641)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Heraclius and Heraclius Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO | CON"
+    ],
+    "issue_references_s": [
+        "MIB Volume 3 161",
+        "DOC Volume 2 Part 1 90a.1, 92a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0184c11db0a8c911"
+    ],
+    "_version_": 1667138265203867648,
+    "timestamp": "2020-05-19T16:49:05.423Z"
+}

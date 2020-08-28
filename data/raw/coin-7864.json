@@ -1,0 +1,100 @@
+{
+    "id": "coin-7864",
+    "title_display": "Coin: 7864",
+    "pub_created_display": [
+        "fals, Damascus"
+    ],
+    "call_number_display": [
+        "Coin 7864"
+    ],
+    "call_number_browse_s": [
+        "Coin 7864"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-28-1937"
+    ],
+    "find_feature_s": [
+        "Dig III level II room 39"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca607"
+    ],
+    "find_description_s": [
+        "Basket G"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "2.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7864\",\"call_number_browse\":\"Coin 7864\"}}",
+    "pub_date_start_sort": 737,
+    "pub_date_end_sort": 757,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4925"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Ummayad"
+    ],
+    "issue_place_s": [
+        "Damascus, Jund Dimashq, Syria"
+    ],
+    "issue_city_s": [
+        "Damascus"
+    ],
+    "issue_state_s": [
+        "Jund Dimashq"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 /\u0627\u0644\u0627 \u0627\u0644\u0644\u0647 / \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "six-petalled rosette / \u0636\u0631\u0628 / crescent with dot / \u0628\u062f\u0645\u0634\u0642"
+    ],
+    "issue_references_s": [
+        "BMC  817"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "132f88663458c262"
+    ],
+    "_version_": 1667138263548166144,
+    "timestamp": "2020-05-19T16:49:03.845Z"
+}

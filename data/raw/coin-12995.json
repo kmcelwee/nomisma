@@ -1,0 +1,97 @@
+{
+    "id": "coin-12995",
+    "title_display": "Coin: 12995",
+    "pub_created_display": [
+        "Vonones II, chalkous, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12995"
+    ],
+    "call_number_browse_s": [
+        "Coin 12995"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "12.87"
+    ],
+    "weight_s": [
+        "1.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12995\",\"call_number_browse\":\"Coin 12995\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 51,
+    "pub_date_end_sort": 51,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8496"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Vonones II"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing helmet with lateral motif and horn on each side and ear flaps, royal wart on brow, short beard, six pointed star at each side"
+    ],
+    "issue_reverse_figure_s": [
+        "Naked male figure"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "eagle on left hand, under a portico"
+    ],
+    "issue_references_s": [
+        "Sellwood  67.4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d75f99d2daac2975"
+    ],
+    "_version_": 1667138316051415040,
+    "timestamp": "2020-05-19T16:49:53.914Z"
+}

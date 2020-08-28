@@ -1,0 +1,77 @@
+{
+    "id": "coin-13714",
+    "title_display": "Coin: 13714",
+    "call_number_display": [
+        "Coin 13714"
+    ],
+    "call_number_browse_s": [
+        "Coin 13714"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "11.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13714\",\"call_number_browse\":\"Coin 13714\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_number_s": [
+        "8774"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_place_s": [
+        "Cuba"
+    ],
+    "issue_region_s": [
+        "Cuba"
+    ],
+    "issue_obverse_figure_s": [
+        "Star superimposed on an anchor"
+    ],
+    "issue_obverse_legend_s": [
+        "MARINA DE GUERRA | SEMPER FIDELIS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cuban arms surrounded by an oak and laurel wreath"
+    ],
+    "issue_references_s": [
+        "The Decorations and Medals of the Central American Countries  6",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  326"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8a9685c5ad3a65cd"
+    ],
+    "_version_": 1667144763817590784,
+    "timestamp": "2020-05-19T18:32:23.294Z"
+}

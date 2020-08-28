@@ -1,0 +1,104 @@
+{
+    "id": "coin-6375",
+    "title_display": "Coin: 6375",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6375"
+    ],
+    "call_number_browse_s": [
+        "Coin 6375"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 220, R: 409"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "7.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6375\",\"call_number_browse\":\"Coin 6375\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -380,
+    "pub_date_end_sort": -355,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3807"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on galloping horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "DOR"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider's left hand holds the reins, right hand holds whip; DOR below in field"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's right hand extended holds garland, left hand stretched back"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  487-8",
+        "F-B  538"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "57a998f0950a4538"
+    ],
+    "_version_": 1667138375635697664,
+    "timestamp": "2020-05-19T16:50:50.739Z"
+}

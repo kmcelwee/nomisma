@@ -1,0 +1,97 @@
+{
+    "id": "coin-13837",
+    "title_display": "Coin: 13837",
+    "pub_created_display": [
+        "Ptolemy I Soter (-323 to -282), Tetradrachm"
+    ],
+    "call_number_display": [
+        "Coin 13837"
+    ],
+    "call_number_browse_s": [
+        "Coin 13837"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "From Alexandria"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25.5"
+    ],
+    "weight_s": [
+        "15.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13837\",\"call_number_browse\":\"Coin 13837\"}}",
+    "donor_s": [
+        "David Magie"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8882"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy I Soter (-323 to -282)"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Horned head of deified Alexander r., wearing elephant headdress, mitra, and scaly aegis"
+    ],
+    "issue_reverse_figure_s": [
+        "Athena"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Athena Promachos advancing r., brandishing spear and shield"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "eagle, In right field, underneath shield",
+        "m13837.1, In right field, above eagle",
+        "m13837.2, In right field, below shield and above eagle",
+        "m13837.3, In left field"
+    ],
+    "issue_references_s": [
+        "Lorber I, v.1, p.263 59"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "439d90b73075e9dc"
+    ],
+    "_version_": 1667138326217359360,
+    "timestamp": "2020-05-19T16:50:03.611Z"
+}

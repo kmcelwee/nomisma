@@ -1,0 +1,91 @@
+{
+    "id": "coin-5995",
+    "title_display": "Coin: 5995",
+    "pub_created_display": [
+        "5 shillings and 4 pence, Boston"
+    ],
+    "call_number_display": [
+        "Coin 5995"
+    ],
+    "call_number_browse_s": [
+        "Coin 5995"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "65x76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5995\",\"call_number_browse\":\"Coin 5995\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "5 shillings and 4 pence"
+    ],
+    "issue_number_s": [
+        "3474"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Paul Revere (1735 to 1818)"
+    ],
+    "issue_workshop_s": [
+        "Paul Revere and Thomas Fleet"
+    ],
+    "issue_series_s": [
+        "1779"
+    ],
+    "issue_place_s": [
+        "Boston, Massachusetts, United States of America"
+    ],
+    "issue_city_s": [
+        "Boston"
+    ],
+    "issue_state_s": [
+        "Massachusetts"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Rising sun"
+    ],
+    "issue_obverse_legend_s": [
+        "FIVE SHILLINGS and four-pence shall be paid to the Bearer of this Bill, by the 1st Day of Decem'r, 1782, agreeable to an Act of the Gen'l Court of said State."
+    ],
+    "issue_reverse_figure_s": [
+        "Pine tree"
+    ],
+    "issue_reverse_legend_s": [
+        "Five Shillings and Four Pence. BOSTON, 1779."
+    ],
+    "issue_artists_s": [
+        "Paul Revere"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c6d803f1bafb1e50"
+    ],
+    "_version_": 1667138383962439680,
+    "timestamp": "2020-05-19T16:50:58.681Z"
+}

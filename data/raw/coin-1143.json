@@ -1,0 +1,102 @@
+{
+    "id": "coin-1143",
+    "title_display": "Coin: 1143",
+    "pub_created_display": [
+        "Nero (54 to 68), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1143"
+    ],
+    "call_number_browse_s": [
+        "Coin 1143"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "36"
+    ],
+    "weight_s": [
+        "24.59"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1143\",\"call_number_browse\":\"Coin 1143\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 64,
+    "pub_date_end_sort": 64,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "582"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CLAVD CAESAR AUG GER P M TR P IMP P P"
+    ],
+    "issue_reverse_figure_description_s": [
+        "port of Ostia with eight ships"
+    ],
+    "issue_reverse_legend_s": [
+        "AUGUST S POR OST C"
+    ],
+    "issue_references_s": [
+        "RIC.1. Nero 91",
+        "MacDowall  120",
+        "Sear  1953"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0be3441a2aa5bdef"
+    ],
+    "_version_": 1667138458711228416,
+    "timestamp": "2020-05-19T16:52:09.969Z"
+}

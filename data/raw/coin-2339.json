@@ -1,0 +1,96 @@
+{
+    "id": "coin-2339",
+    "title_display": "Coin: 2339",
+    "pub_created_display": [
+        "Athalaric (526 to 534), quarter siliqua, Ravenna"
+    ],
+    "call_number_display": [
+        "Coin 2339"
+    ],
+    "call_number_browse_s": [
+        "Coin 2339"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "weight_s": [
+        "0.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2339\",\"call_number_browse\":\"Coin 2339\"}}",
+    "pub_date_start_sort": 527,
+    "pub_date_end_sort": 534,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quarter siliqua"
+    ],
+    "issue_number_s": [
+        "1501"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Athalaric (526 to 534)"
+    ],
+    "issue_place_s": [
+        "Ravenna, Ostrogoths, Italy"
+    ],
+    "issue_city_s": [
+        "Ravenna"
+    ],
+    "issue_state_s": [
+        "Ostrogoths"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head of Justinian with 'Ostrogothic' garment and diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NIANA(V)C"
+    ],
+    "issue_reverse_figure_description_s": [
+        "inscription in wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "DN ATHAL ARICVS REX"
+    ],
+    "issue_references_s": [
+        "MEC.1  127",
+        "Mettlich  59",
+        " Ostrogothic 54"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "68868cb29f5e2221"
+    ],
+    "_version_": 1667138474621272064,
+    "timestamp": "2020-05-19T16:52:25.139Z"
+}

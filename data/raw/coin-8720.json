@@ -1,0 +1,114 @@
+{
+    "id": "coin-8720",
+    "title_display": "Coin: 8720",
+    "pub_created_display": [
+        "Romanus III (1028 to 1034), nomisma histamenon, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8720"
+    ],
+    "call_number_browse_s": [
+        "Coin 8720"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "5 pellets in emperor's loros;"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "4.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8720\",\"call_number_browse\":\"Coin 8720\"}}",
+    "pub_date_start_sort": 1028,
+    "pub_date_end_sort": 1034,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "nomisma histamenon"
+    ],
+    "issue_number_s": [
+        "5554"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Romanus III (1028 to 1034)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_figure_s": [
+        "Seated figure"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on a throne"
+    ],
+    "issue_obverse_legend_s": [
+        "+IhSXISREX  RESNANTIhM"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin crowning emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "virgin crowning emperor, both standing and facing"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "virgin on the right; emperor on the left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03b8C\u03b5b\u03bfH\u03b8' R\u03c9MAn\u03c9"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection vol. 3 part 2, Romanus III 1cv",
+        "BMC Romanus III 2-3v",
+        "BL Romanus III 43/Cp/AU/"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bdfa878c17171fc5"
+    ],
+    "_version_": 1667138157378797568,
+    "timestamp": "2020-05-19T16:47:22.594Z"
+}

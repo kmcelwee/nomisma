@@ -1,0 +1,121 @@
+{
+    "id": "coin-9553",
+    "title_display": "Coin: 9553",
+    "pub_created_display": [
+        "Isaac II Komnenos (1185 to 1195), aspron trachy nomisma, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9553"
+    ],
+    "call_number_browse_s": [
+        "Coin 9553"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Pierced"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "33"
+    ],
+    "weight_s": [
+        "51.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9553\",\"call_number_browse\":\"Coin 9553\"}}",
+    "pub_date_start_sort": 1185,
+    "pub_date_end_sort": 1195,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "6101"
+    ],
+    "issue_metal_s": [
+        "Electrum"
+    ],
+    "issue_shape_s": [
+        "skyphate"
+    ],
+    "issue_ruler_s": [
+        "Isaac II Komnenos (1185 to 1195)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_obverse_symbol_s": [
+        "head of christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Virgin nimbate, wearing tunic and maphorion, seated upon throne with back;"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "nimbate head of Christ on breast"
+    ],
+    "issue_obverse_legend_s": [
+        "M-P \u0398V"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and Archangel Michael"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Full-legnth figure of emperor on l. crowned by archangel  Michael beardless and nimbate r. Emperor wears stemma divitision and chlamys; holds in r. scepter cruciger and in l. anexikakia. Archangel wears short military tunic, breastplate and sagion"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Archangel also holds jeweled scepter l."
+    ],
+    "issue_reverse_legend_s": [
+        "ICAAKIOC\u0394EC"
+    ],
+    "issue_references_s": [
+        "DOC Vol. 4 pt. 1 p. 373 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "28f7c98aa142d515"
+    ],
+    "_version_": 1667138143122358272,
+    "timestamp": "2020-05-19T16:47:09.003Z"
+}

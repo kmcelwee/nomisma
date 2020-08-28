@@ -1,0 +1,118 @@
+{
+    "id": "coin-2562",
+    "title_display": "Coin: 2562",
+    "pub_created_display": [
+        "Antiochus II Theos (-261 to -246), Tetradrachm, Bargylia"
+    ],
+    "call_number_display": [
+        "Coin 2562"
+    ],
+    "call_number_browse_s": [
+        "Coin 2562"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Monogram in exergue partially effaced"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "16.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2562\",\"call_number_browse\":\"Coin 2562\"}}",
+    "pub_date_start_sort": -261,
+    "pub_date_end_sort": -246,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "1609"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus II Theos (-261 to -246)"
+    ],
+    "issue_place_s": [
+        "Bargylia, Caria, Asia"
+    ],
+    "issue_city_s": [
+        "Bargylia"
+    ],
+    "issue_state_s": [
+        "Caria"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus II"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed and rejuvenated"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_symbol_s": [
+        "Artemis Kindyas Statue"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "ANTIOXOY | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1609, in exergue",
+        "bow, in l. hand",
+        "arrow, in extended r. hand"
+    ],
+    "issue_references_s": [
+        "H & L  549",
+        "WSM  1468"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b35492ec5270f3f2"
+    ],
+    "_version_": 1667138121510158336,
+    "timestamp": "2020-05-19T16:46:48.386Z"
+}

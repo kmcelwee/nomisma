@@ -1,0 +1,121 @@
+{
+    "id": "coin-2903",
+    "title_display": "Coin: 2903",
+    "pub_created_display": [
+        "Nero (54 to 68), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2903"
+    ],
+    "call_number_browse_s": [
+        "Coin 2903"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Handwritten notes say \"quadratus.\"  Waage states that the \"condition of the coins makes it uncertain whether a head or a bust is represented on the obverse. This type is the second denomination of the group called by MacDonald 'semi-autonomous coins.'\""
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/02/1938"
+    ],
+    "find_feature_s": [
+        "At N-S street, SE part"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Cb1171"
+    ],
+    "find_description_s": [
+        "below level of the walls"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2903\",\"call_number_browse\":\"Coin 2903\"}}",
+    "pub_date_start_sort": 55,
+    "pub_date_end_sort": 56,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1814"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "circlet of raised dots around rim of coin"
+    ],
+    "issue_reverse_figure_s": [
+        "Laurel branch"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "circlet of raised dots around rim of coin"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d.\u0394\u03a1"
+    ],
+    "issue_references_s": [
+        "RPC.1  4289"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3e7bdb62cef90d50"
+    ],
+    "_version_": 1667138479022145536,
+    "timestamp": "2020-05-19T16:52:29.339Z"
+}

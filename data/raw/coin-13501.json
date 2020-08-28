@@ -1,0 +1,103 @@
+{
+    "id": "coin-13501",
+    "title_display": "Coin: 13501",
+    "pub_created_display": [
+        "Demetrius I Soter (-162 to -150), double, Tyre"
+    ],
+    "call_number_display": [
+        "Coin 13501"
+    ],
+    "call_number_browse_s": [
+        "Coin 13501"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "8.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13501\",\"call_number_browse\":\"Coin 13501\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": -154,
+    "pub_date_end_sort": -153,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Seleucid"
+    ],
+    "issue_ruler_s": [
+        "Demetrius I Soter (-162 to -150)"
+    ],
+    "issue_place_s": [
+        "Tyre, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Tyre"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Demetrius I"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with diadem in dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Stern of galley"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a5"
+    ],
+    "issue_references_s": [
+        "H & L II, 179 1672.2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aabcedd54c6437c2"
+    ],
+    "_version_": 1673108444105670656,
+    "timestamp": "2020-07-24T14:22:31.706Z"
+}

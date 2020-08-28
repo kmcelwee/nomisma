@@ -1,0 +1,96 @@
+{
+    "id": "coin-203",
+    "title_display": "Coin: 203",
+    "pub_created_display": [
+        "Augustus (-30 to 14), quadrans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 203"
+    ],
+    "call_number_browse_s": [
+        "Coin 203"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "2.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 203\",\"call_number_browse\":\"Coin 203\"}}",
+    "pub_date_start_sort": -9,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadrans"
+    ],
+    "issue_number_s": [
+        "102"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_master_s": [
+        "Lamia, Silius, Annius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Clasped hands"
+    ],
+    "issue_obverse_figure_description_s": [
+        "two clasped hands behind caduceus"
+    ],
+    "issue_obverse_legend_s": [
+        "LAMIA.SILIVS.ANNIVS."
+    ],
+    "issue_reverse_figure_s": [
+        "S.C."
+    ],
+    "issue_reverse_legend_s": [
+        "III.VIR.A.A.A.F.F."
+    ],
+    "issue_references_s": [
+        "BMC.1. Augustus 200",
+        "RIC.1. Augustus 180",
+        "Sear  1693"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8bd43483fc775c36"
+    ],
+    "_version_": 1667138126630354944,
+    "timestamp": "2020-05-19T16:46:53.268Z"
+}

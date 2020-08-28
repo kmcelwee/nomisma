@@ -1,0 +1,94 @@
+{
+    "id": "coin-4278",
+    "title_display": "Coin: 4278",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4278"
+    ],
+    "call_number_browse_s": [
+        "Coin 4278"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Doublie struck,similar to 4275 and 4279, pale gold alloy with apparent darker gold wash, specific gravity: 12.8157"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.385"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4278\",\"call_number_browse\":\"Coin 4278\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1343,
+    "pub_date_end_sort": 1400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2432"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0391\u0397(sideways)DKDA_DVIO | _HVHETI | DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in mandorla"
+    ],
+    "issue_reverse_legend_s": [
+        ".SITTXP(backwards)EDATOTV. K(backwards)D_SITEDVEAT."
+    ],
+    "issue_references_s": [
+        "Schl. PL. XII 34v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4cb77eb470d85a4d"
+    ],
+    "_version_": 1667138494771757056,
+    "timestamp": "2020-05-19T16:52:44.357Z"
+}

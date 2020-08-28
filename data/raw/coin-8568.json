@@ -1,0 +1,94 @@
+{
+    "id": "coin-8568",
+    "title_display": "Coin: 8568",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 8568"
+    ],
+    "call_number_browse_s": [
+        "Coin 8568"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/22/37"
+    ],
+    "find_feature_s": [
+        "Dig III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca1626"
+    ],
+    "find_description_s": [
+        "Medieval well to 6m, Basket W"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "2.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8568\",\"call_number_browse\":\"Coin 8568\"}}",
+    "pub_date_start_sort": 1084,
+    "pub_date_end_sort": 1200,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5465"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "octagonal"
+    ],
+    "issue_place_s": [
+        "Seljuk, Syria"
+    ],
+    "issue_state_s": [
+        "Seljuk"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0633\u0627"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0633\u0627"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "462f0ff09d8e2548"
+    ],
+    "_version_": 1667138268997615616,
+    "timestamp": "2020-05-19T16:49:09.042Z"
+}

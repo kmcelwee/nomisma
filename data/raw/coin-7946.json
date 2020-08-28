@@ -1,0 +1,125 @@
+{
+    "id": "coin-7946",
+    "title_display": "Coin: 7946",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7946"
+    ],
+    "call_number_browse_s": [
+        "Coin 7946"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse and reverse dies 19-20 mm in diameter; cut from larger coin; overstruck over coin with CON in exergue, likely of Heraclius (off flan)"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6-20-1936"
+    ],
+    "find_locus_s": [
+        "13-R north"
+    ],
+    "find_number_s": [
+        "C6605"
+    ],
+    "find_description_s": [
+        "surface to 2.50"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "5.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7946\",\"call_number_browse\":\"Coin 7946\"}}",
+    "pub_date_start_sort": 645,
+    "pub_date_end_sort": 647,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4995"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing, without beard; holds long cross in r. hand [slightly askew], gl. cr. in l. [slightly askew], dot in field r."
+    ],
+    "issue_obverse_legend_s": [
+        "[EN] TOU[ligature]T[O NIKA]"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m"
+    ],
+    "issue_reverse_legend_s": [
+        "m, l. ANA, small K above, l. NE[OS], E in ex."
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 167d",
+        "DOC vol. 2, page 446-449 class 4",
+        "BL vol. I, page 345 type 4",
+        "BMC.Byz. vol. I, page 168 101ff.",
+        "Sear  1005"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "54a4d6a93dedf5c9"
+    ],
+    "_version_": 1667138350527545344,
+    "timestamp": "2020-05-19T16:50:26.794Z"
+}

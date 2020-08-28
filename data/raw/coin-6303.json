@@ -1,0 +1,98 @@
+{
+    "id": "coin-6303",
+    "title_display": "Coin: 6303",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6303"
+    ],
+    "call_number_browse_s": [
+        "Coin 6303"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the First Uniform Series of 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "29.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6303\",\"call_number_browse\":\"Coin 6303\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3737"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_series_s": [
+        "Uniform Series of 1702"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV as a young man."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS XIIII . REX CHRISTIANISSIMUS ."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_symbol_s": [
+        "palm branch"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory rides a chariot in the clouds.  She holds a palm branch and an olive crown.  The chariot portrays the speed in which the Seine provinces were conquered."
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIAE CELERITAS | SEQUANORUM PROVINCIA | X . DIEB . SUBACTA . | M . DC . LXVIII ."
+    ],
+    "issue_references_s": [
+        "Medailles, 1702 p. 106 ",
+        "M\u00e9dailles et Jetons 1, p. XLVII 5"
+    ],
+    "issue_artists_s": [
+        "Jean Mauger, J.MAVGER.F"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d9f04b380f17556"
+    ],
+    "_version_": 1667138381158547456,
+    "timestamp": "2020-05-19T16:50:56.008Z"
+}

@@ -1,0 +1,96 @@
+{
+    "id": "coin-2342",
+    "title_display": "Coin: 2342",
+    "pub_created_display": [
+        "Theodahad (534 to 536), 10 nummi, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2342"
+    ],
+    "call_number_browse_s": [
+        "Coin 2342"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2342\",\"call_number_browse\":\"Coin 2342\"}}",
+    "pub_date_start_sort": 534,
+    "pub_date_end_sort": 536,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 nummi"
+    ],
+    "issue_number_s": [
+        "1503"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Theodahad (534 to 536)"
+    ],
+    "issue_place_s": [
+        "Rome, Ostrogoths, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Ostrogoths"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmeted head of Roma"
+    ],
+    "issue_obverse_legend_s": [
+        "INVICT AROMA"
+    ],
+    "issue_reverse_figure_description_s": [
+        "inscription in wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "DN THEODA HATHVS REX"
+    ],
+    "issue_references_s": [
+        "MEC.1  144",
+        "Mettlich  90",
+        " Ostrogothic 82"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cefac742771d1b7c"
+    ],
+    "_version_": 1667138473992126464,
+    "timestamp": "2020-05-19T16:52:24.539Z"
+}

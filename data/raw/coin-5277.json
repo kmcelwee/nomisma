@@ -1,0 +1,89 @@
+{
+    "id": "coin-5277",
+    "title_display": "Coin: 5277",
+    "pub_created_display": [
+        "15 dollars, Halifax"
+    ],
+    "call_number_display": [
+        "Coin 5277"
+    ],
+    "call_number_browse_s": [
+        "Coin 5277"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "William Williams| J. Webb| David Sumner| William Haywood."
+    ],
+    "size_s": [
+        "92x59"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5277\",\"call_number_browse\":\"Coin 5277\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "15 dollars"
+    ],
+    "issue_number_s": [
+        "2941"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Halifax, North Carolina, United States of America"
+    ],
+    "issue_city_s": [
+        "Halifax"
+    ],
+    "issue_state_s": [
+        "North Carolina"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Boar"
+    ],
+    "issue_obverse_legend_s": [
+        "No. Carolina Currency.  FIFTEEN DOLLARS.  By Authority of Congress at Halifax April 2 1776."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 317"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a5abe7ec96f6f094"
+    ],
+    "_version_": 1667138414893334528,
+    "timestamp": "2020-05-19T16:51:28.180Z"
+}

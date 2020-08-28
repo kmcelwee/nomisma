@@ -1,0 +1,100 @@
+{
+    "id": "coin-2643",
+    "title_display": "Coin: 2643",
+    "pub_created_display": [
+        "Raffaele Adorno (1443 to 1447), petachina, Genoa"
+    ],
+    "call_number_display": [
+        "Coin 2643"
+    ],
+    "call_number_browse_s": [
+        "Coin 2643"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2643\",\"call_number_browse\":\"Coin 2643\"}}",
+    "pub_date_start_sort": 1443,
+    "pub_date_end_sort": 1447,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "petachina"
+    ],
+    "issue_number_s": [
+        "1664"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Raffaele Adorno (1443 to 1447)"
+    ],
+    "issue_place_s": [
+        "Genoa, Liguria, Italy"
+    ],
+    "issue_city_s": [
+        "Genoa"
+    ],
+    "issue_state_s": [
+        "Liguria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Castle"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "three towers with gate"
+    ],
+    "issue_obverse_legend_s": [
+        "\u253c R A DVX IAN XXIII"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross within dotted line"
+    ],
+    "issue_reverse_legend_s": [
+        "\u253c CONRAD REX RO E"
+    ],
+    "issue_references_s": [
+        "Liguria - Isola Di Corsica Raffaele Adorno V.16.26"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "da4b605f65333ba9"
+    ],
+    "_version_": 1667138476639780864,
+    "timestamp": "2020-05-19T16:52:27.064Z"
+}

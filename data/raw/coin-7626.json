@@ -1,0 +1,106 @@
+{
+    "id": "coin-7626",
+    "title_display": "Coin: 7626",
+    "pub_created_display": [
+        "Achaean League (-280 to -146), diobol, Elis"
+    ],
+    "call_number_display": [
+        "Coin 7626"
+    ],
+    "call_number_browse_s": [
+        "Coin 7626"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7626\",\"call_number_browse\":\"Coin 7626\"}}",
+    "donor_s": [
+        "Rodman Wanamaker"
+    ],
+    "pub_date_start_sort": -280,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "4767"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Achaean League (-280 to -146)"
+    ],
+    "issue_place_s": [
+        "Elis, Achaea, Greece"
+    ],
+    "issue_city_s": [
+        "Elis"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_symbol_s": [
+        "\u0391"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurelled"
+    ],
+    "issue_reverse_figure_s": [
+        "Thunderbolt"
+    ],
+    "issue_reverse_orientation_s": [
+        "below"
+    ],
+    "issue_reverse_figure_description_s": [
+        "(see monogram); within wreath of bay"
+    ],
+    "issue_reverse_attributes_s": [
+        "m4767.jpg, monogram"
+    ],
+    "issue_references_s": [
+        "Catalogue of Greek Coins - Peloponnesus 6 67"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2799898be8622d24"
+    ],
+    "_version_": 1667138184911257600,
+    "timestamp": "2020-05-19T16:47:48.851Z"
+}

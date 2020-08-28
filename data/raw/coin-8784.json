@@ -1,0 +1,117 @@
+{
+    "id": "coin-8784",
+    "title_display": "Coin: 8784",
+    "pub_created_display": [
+        "Alexius I (1081 to 1118), hyperpyron, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8784"
+    ],
+    "call_number_browse_s": [
+        "Coin 8784"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Concave; on right bottom side of obverse, a scratch in the shape of an encircled X."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "4.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8784\",\"call_number_browse\":\"Coin 8784\"}}",
+    "donor_s": [
+        "Louis C. West"
+    ],
+    "pub_date_start_sort": 1092,
+    "pub_date_end_sort": 1118,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "5586"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Alexius I (1081 to 1118)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ, bearded, with nimbus; seated on throne; holding book with left hand, blessing with right hand; double border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "+KERO H\u0398EI"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing away from each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "emperor standing, holding scepter in right hand, globe with cross in left hand; hand of God in upper right; 6 very large pellets under the globe; double border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039b\u039b\u0395\u039e\u0399W  \u0394\u0395C\u03a0\u039f\u03a4\u0397  \u03a4W  \u039a\u039f\u039c\u039d\u0397\u039dW"
+    ],
+    "issue_references_s": [
+        "Sear Vol. 4, Part 1, Alexius I 20g.4v",
+        "BMC Alexius I gold.type 1.4-5v",
+        "BL Alexis I 59/Cp/AU/04-07"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9c350495b1422fea"
+    ],
+    "_version_": 1667138265655803904,
+    "timestamp": "2020-05-19T16:49:05.855Z"
+}

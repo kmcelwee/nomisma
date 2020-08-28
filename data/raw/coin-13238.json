@@ -1,0 +1,97 @@
+{
+    "id": "coin-13238",
+    "title_display": "Coin: 13238",
+    "pub_created_display": [
+        "Uncertain Early Arsacid King, Tetradrachm, Khuzistan"
+    ],
+    "call_number_display": [
+        "Coin 13238"
+    ],
+    "call_number_browse_s": [
+        "Coin 13238"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Late century B.C.-early 2nd century A.D."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "15.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13238\",\"call_number_browse\":\"Coin 13238\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8577"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Uncertain Early Arsacid King"
+    ],
+    "issue_place_s": [
+        "Khuzistan, Seleucia on the Hedyphon, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Khuzistan"
+    ],
+    "issue_state_s": [
+        "Seleucia on the Hedyphon"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "descent style, with long pointed beared, cruly hair dresed in a curved pattern from forhead to the nape of the neck, topped by a tuft of hair bound with a diadem, its ties falling behind, behind star in crescent above anchor with two corssbars,"
+    ],
+    "issue_reverse_figure_s": [
+        "Bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "diadem bearded, rudimentary to compleletly degraded style, degraded legend around, no border"
+    ],
+    "issue_references_s": [
+        "Van't Haaff  10.4-1-1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d377ab49dd806fe0"
+    ],
+    "_version_": 1667138317979746304,
+    "timestamp": "2020-05-19T16:49:55.753Z"
+}

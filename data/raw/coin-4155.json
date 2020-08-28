@@ -1,0 +1,112 @@
+{
+    "id": "coin-4155",
+    "title_display": "Coin: 4155",
+    "pub_created_display": [
+        "sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4155"
+    ],
+    "call_number_browse_s": [
+        "Coin 4155"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "11.5"
+    ],
+    "weight_s": [
+        "0.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4155\",\"call_number_browse\":\"Coin 4155\"}}",
+    "pub_date_start_sort": -47,
+    "pub_date_end_sort": -47,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "2367"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "A. Licinius Nerva"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate; legend downwards behind; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "NERVA"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "walking"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holds wreath in r. hand and palm branch in l. hand; legend downwards before; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "A LICINI"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, held in r. hand",
+        "palm branch, held in l. hand"
+    ],
+    "issue_references_s": [
+        "RRC  454/4",
+        "Syd.  957",
+        "Sear  432"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7325cf8ba07be433"
+    ],
+    "_version_": 1667138490587938816,
+    "timestamp": "2020-05-19T16:52:40.369Z"
+}

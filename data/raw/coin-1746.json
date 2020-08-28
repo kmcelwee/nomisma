@@ -1,0 +1,93 @@
+{
+    "id": "coin-1746",
+    "title_display": "Coin: 1746",
+    "pub_created_display": [
+        "Charles II of Anjou (1285 to 1289), denier tournois, Clarentia"
+    ],
+    "call_number_display": [
+        "Coin 1746"
+    ],
+    "call_number_browse_s": [
+        "Coin 1746"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "0.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1746\",\"call_number_browse\":\"Coin 1746\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 1285,
+    "pub_date_end_sort": 1289,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier tournois"
+    ],
+    "issue_number_s": [
+        "1131"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Charles II of Anjou (1285 to 1289)"
+    ],
+    "issue_place_s": [
+        "Clarentia, Achaea, Crusader"
+    ],
+    "issue_city_s": [
+        "Clarentia"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+.K.R.PRINC'Ach'"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_legend_s": [
+        ":DE:CLARENTIA"
+    ],
+    "issue_references_s": [
+        "Malloy  12",
+        "Ox.  928",
+        "Schl.  XII, 17"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c097ce40bf474072"
+    ],
+    "_version_": 1667145458247532544,
+    "timestamp": "2020-05-19T18:43:25.244Z"
+}

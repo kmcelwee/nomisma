@@ -1,0 +1,106 @@
+{
+    "id": "coin-8053",
+    "title_display": "Coin: 8053",
+    "pub_created_display": [
+        "Harun al-Rashid, fals, al-Raqqa"
+    ],
+    "call_number_display": [
+        "Coin 8053"
+    ],
+    "call_number_browse_s": [
+        "Coin 8053"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Mint and year clearly legible"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-1-1937"
+    ],
+    "find_feature_s": [
+        "Dig III to room 8"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca649"
+    ],
+    "find_description_s": [
+        "Basket D"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "2.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8053\",\"call_number_browse\":\"Coin 8053\"}}",
+    "pub_date_start_sort": 799,
+    "pub_date_end_sort": 800,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5085"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Harun al-Rashid"
+    ],
+    "issue_place_s": [
+        "al-Raqqa, Jazira"
+    ],
+    "issue_city_s": [
+        "al-Raqqa"
+    ],
+    "issue_region_s": [
+        "Jazira"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Legend in a square design"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \u0644\u0627 \u0634\u0631\u064a\u0643 \u0644\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Star"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647"
+    ],
+    "issue_references_s": [
+        "Die Renaissance der St\u00e4dte in Nordsyrien und Nordmesopotamien p. 119 5"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0cb8be80eb18e4a6"
+    ],
+    "_version_": 1667145328927703040,
+    "timestamp": "2020-05-19T18:42:24.106Z"
+}

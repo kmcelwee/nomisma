@@ -1,0 +1,111 @@
+{
+    "id": "coin-4106",
+    "title_display": "Coin: 4106",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4106"
+    ],
+    "call_number_browse_s": [
+        "Coin 4106"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "20.0"
+    ],
+    "weight_s": [
+        "3.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4106\",\"call_number_browse\":\"Coin 4106\"}}",
+    "pub_date_start_sort": -48,
+    "pub_date_end_sort": -48,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2357"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Vibius C.f. C.n. Pansa ( to -43)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Liber"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wreathed in ivy; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0393ANSA"
+    ],
+    "issue_reverse_figure_s": [
+        "Ceres"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in biga drawn by snakes; holds torch in l. hand and reins in r. hand; legend upwards"
+    ],
+    "issue_reverse_legend_s": [
+        "C VIBIVS C F C N"
+    ],
+    "issue_reverse_attributes_s": [
+        "torch, held in l. hand"
+    ],
+    "issue_references_s": [
+        "RRC  449/3a",
+        "Syd.  945",
+        "Sear  422"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e1be2db33a568677"
+    ],
+    "_version_": 1667138490283851776,
+    "timestamp": "2020-05-19T16:52:40.078Z"
+}

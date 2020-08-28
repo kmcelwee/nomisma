@@ -1,0 +1,92 @@
+{
+    "id": "coin-6985",
+    "title_display": "Coin: 6985",
+    "pub_created_display": [
+        "triens, Tuder"
+    ],
+    "call_number_display": [
+        "Coin 6985"
+    ],
+    "call_number_browse_s": [
+        "Coin 6985"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "32.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6985\",\"call_number_browse\":\"Coin 6985\"}}",
+    "pub_date_start_sort": -275,
+    "pub_date_end_sort": -268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "triens"
+    ],
+    "issue_number_s": [
+        "4367"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Tuder, Umbria, Italy"
+    ],
+    "issue_city_s": [
+        "Tuder"
+    ],
+    "issue_state_s": [
+        "Umbria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Hand in cestus"
+    ],
+    "issue_obverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_reverse_figure_s": [
+        "2 clubs"
+    ],
+    "issue_reverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_reverse_legend_s": [
+        "E(mirrored)D(mirrored)E(mirrored)TVT"
+    ],
+    "issue_references_s": [
+        "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  211",
+        "Haeb. pl. 80 9-13"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a24d7c7ba2cb00ba"
+    ],
+    "_version_": 1667138359587241984,
+    "timestamp": "2020-05-19T16:50:35.436Z"
+}

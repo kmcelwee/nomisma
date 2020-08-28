@@ -1,0 +1,105 @@
+{
+    "id": "coin-9179",
+    "title_display": "Coin: 9179",
+    "pub_created_display": [
+        "Tiberius, as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9179"
+    ],
+    "call_number_browse_s": [
+        "Coin 9179"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "11.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9179\",\"call_number_browse\":\"Coin 9179\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 35,
+    "pub_date_end_sort": 36,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "5853"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "TICAESARDIVIAVGFAVGVSTIMPVIII"
+    ],
+    "issue_reverse_figure_s": [
+        "Rudder"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rudder superimposed on large globe with band running from upper left to lower right; smaller globe at right lower edge of rudder; S and C on either side of rudder/globe"
+    ],
+    "issue_reverse_legend_s": [
+        "PONTIF MAXTR POT XXXVII; S C"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 58",
+        "BMC.1. Tiberius 117",
+        "Sear  1772"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "67f249697fdb67e9"
+    ],
+    "_version_": 1667138274093694976,
+    "timestamp": "2020-05-19T16:49:14.101Z"
+}

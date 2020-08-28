@@ -1,0 +1,107 @@
+{
+    "id": "coin-3979",
+    "title_display": "Coin: 3979",
+    "pub_created_display": [
+        "Justin I (518 to 527), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 3979"
+    ],
+    "call_number_browse_s": [
+        "Coin 3979"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "33"
+    ],
+    "weight_s": [
+        "17.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3979\",\"call_number_browse\":\"Coin 3979\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 522,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "2284"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with diadem, cuirass and paludamentum"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "stars"
+    ],
+    "issue_reverse_figure_description_s": [
+        "above, cross. To l. and r. stars."
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_references_s": [
+        " Justin I 11\u0394",
+        "BMC.Byz. Justin I 20",
+        "BN Justin I 4",
+        "Sear Justin I 62",
+        " Justin I 8"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4923484f72fd1a36"
+    ],
+    "_version_": 1667138230181429248,
+    "timestamp": "2020-05-19T16:48:32.024Z"
+}

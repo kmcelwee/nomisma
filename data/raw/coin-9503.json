@@ -1,0 +1,106 @@
+{
+    "id": "coin-9503",
+    "title_display": "Coin: 9503",
+    "pub_created_display": [
+        "Nicomedes II, unknown, Kingdom of Bithynia"
+    ],
+    "call_number_display": [
+        "Coin 9503"
+    ],
+    "call_number_browse_s": [
+        "Coin 9503"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "See figure 267 in Barclay reference for another image"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "16.7"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9503\",\"call_number_browse\":\"Coin 9503\"}}",
+    "pub_date_start_sort": 149,
+    "pub_date_end_sort": 120,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unknown"
+    ],
+    "issue_number_s": [
+        "6086"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Nicomedes II"
+    ],
+    "issue_place_s": [
+        "Kingdom of Bithynia, Bithynia, Asia"
+    ],
+    "issue_city_s": [
+        "Kingdom of Bithynia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head of Nicomedes II"
+    ],
+    "issue_reverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Zeus standing, Zeus standing, crowning the royal name; symbol eagle on fulmen"
+    ],
+    "issue_reverse_legend_s": [
+        "BA\u03a3I\u039bE\u03a9\u03a3  E\u041fI\u03a6ANOY\u03a3 NIKOMH\u0394OY"
+    ],
+    "issue_references_s": [
+        "Historia Numorum: A Manual of Greek Numismatics 520 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5eb90dcc03eb0adc"
+    ],
+    "_version_": 1667138276155195392,
+    "timestamp": "2020-05-19T16:49:15.868Z"
+}

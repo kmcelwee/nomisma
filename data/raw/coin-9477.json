@@ -1,0 +1,107 @@
+{
+    "id": "coin-9477",
+    "title_display": "Coin: 9477",
+    "pub_created_display": [
+        "Tiberius, as, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 9477"
+    ],
+    "call_number_browse_s": [
+        "Coin 9477"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "7.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9477\",\"call_number_browse\":\"Coin 9477\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 32,
+    "pub_date_end_sort": 34,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "6072"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Corinth, Achaea, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Livia"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Livia in veil and stephane"
+    ],
+    "issue_obverse_legend_s": [
+        "[L FV]RIO LAB[EO]NE IIVIR"
+    ],
+    "issue_reverse_figure_s": [
+        "Temple"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "hexastyle temple; cental hole"
+    ],
+    "issue_reverse_legend_s": [
+        "L ARRIO PEREGRINO IIVIR"
+    ],
+    "issue_references_s": [
+        "RPC  1161",
+        "PUL  834"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9fc2a4a852552a76"
+    ],
+    "_version_": 1667138140065759232,
+    "timestamp": "2020-05-19T16:47:06.083Z"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "coin-7657",
+    "title_display": "Coin: 7657",
+    "pub_created_display": [
+        "Constantine II, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7657"
+    ],
+    "call_number_browse_s": [
+        "Coin 7657"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "10/22/1934"
+    ],
+    "find_feature_s": [
+        "Rm 1"
+    ],
+    "find_locus_s": [
+        "D-H 256"
+    ],
+    "find_number_s": [
+        "C3864"
+    ],
+    "find_description_s": [
+        "Below Phoenix Mosaic"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.657"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7657\",\"call_number_browse\":\"Coin 7657\"}}",
+    "pub_date_start_sort": 326,
+    "pub_date_end_sort": 327,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4761"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor's bust, facing left with diadem tied at neck"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "camp gate, two turrets no doors, star above, varying number of stone layers"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN-TIAE CAESS"
+    ],
+    "issue_references_s": [
+        "RIC 7 690.73",
+        "Cohen 7 384.160"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "99827d653a36955a"
+    ],
+    "_version_": 1667138351073853440,
+    "timestamp": "2020-05-19T16:50:27.315Z"
+}

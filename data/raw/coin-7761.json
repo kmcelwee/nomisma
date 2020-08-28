@@ -1,0 +1,97 @@
+{
+    "id": "coin-7761",
+    "title_display": "Coin: 7761",
+    "pub_created_display": [
+        "diobol, Sicyon"
+    ],
+    "call_number_display": [
+        "Coin 7761"
+    ],
+    "call_number_browse_s": [
+        "Coin 7761"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "2.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7761\",\"call_number_browse\":\"Coin 7761\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -400,
+    "pub_date_end_sort": -300,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "4838"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Sicyon, Peloponnesus, Greece"
+    ],
+    "issue_city_s": [
+        "Sicyon"
+    ],
+    "issue_state_s": [
+        "Peloponnesus"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Dove"
+    ],
+    "issue_obverse_symbol_s": [
+        "\u03a3I"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "in field"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod-lebes"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in olive wreath"
+    ],
+    "issue_references_s": [
+        "BL 50 181"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8c25203fa8ab485d"
+    ],
+    "_version_": 1667138262259466240,
+    "timestamp": "2020-05-19T16:49:02.619Z"
+}

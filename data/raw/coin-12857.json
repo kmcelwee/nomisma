@@ -1,0 +1,104 @@
+{
+    "id": "coin-12857",
+    "title_display": "Coin: 12857",
+    "pub_created_display": [
+        "Caligula (37 to 41), as, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 12857"
+    ],
+    "call_number_browse_s": [
+        "Coin 12857"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "7.58"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12857\",\"call_number_browse\":\"Coin 12857\"}}",
+    "pub_date_start_sort": 37,
+    "pub_date_end_sort": 38,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "8434"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Caligula (37 to 41)"
+    ],
+    "issue_place_s": [
+        "Corinth, Achaea, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Caligula"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "C CAESAR-AVGVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_reverse_part_s": [
+        "flying"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "COR underneath pegasus"
+    ],
+    "issue_reverse_legend_s": [
+        "M BELLIO PROCVLO IIVIR"
+    ],
+    "issue_references_s": [
+        "BMC Corinth  437",
+        "Amandry  XVII.ii.h"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9acd6e757318c59c"
+    ],
+    "_version_": 1667138337176027136,
+    "timestamp": "2020-05-19T16:50:14.061Z"
+}

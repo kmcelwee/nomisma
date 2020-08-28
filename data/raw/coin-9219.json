@@ -1,0 +1,91 @@
+{
+    "id": "coin-9219",
+    "title_display": "Coin: 9219",
+    "pub_created_display": [
+        "Harun al-Rashid, fals, Qinnasrin"
+    ],
+    "call_number_display": [
+        "Coin 9219"
+    ],
+    "call_number_browse_s": [
+        "Coin 9219"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/03/1937"
+    ],
+    "find_feature_s": [
+        "Dig III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca715"
+    ],
+    "find_description_s": [
+        "Level II Room 4, basket C"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "4.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9219\",\"call_number_browse\":\"Coin 9219\"}}",
+    "pub_date_start_sort": 797,
+    "pub_date_end_sort": 798,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5887"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Harun al-Rashid"
+    ],
+    "issue_place_s": [
+        "Qinnasrin, Jund Qinnasrin, Syria"
+    ],
+    "issue_city_s": [
+        "Qinnasrin"
+    ],
+    "issue_state_s": [
+        "Jund Qinnasrin"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "41fb19c5cee132d3"
+    ],
+    "_version_": 1667144975946612736,
+    "timestamp": "2020-05-19T18:35:45.286Z"
+}

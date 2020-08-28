@@ -1,0 +1,92 @@
+{
+    "id": "coin-4261",
+    "title_display": "Coin: 4261",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4261"
+    ],
+    "call_number_browse_s": [
+        "Coin 4261"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Specific Gravity: 14.7590"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.533"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4261\",\"call_number_browse\":\"Coin 4261\"}}",
+    "pub_date_start_sort": 1343,
+    "pub_date_end_sort": 1400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2410"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "ANDRDANDVIO | .S_VENETI | DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in mandorla"
+    ],
+    "issue_reverse_legend_s": [
+        ".SITTXPE.DAT'Q.TV RGEGISIS.TE.DVEAT."
+    ],
+    "issue_references_s": [
+        "Pap.  vol. 1, page 181 1",
+        "Paolucci page 29 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d616835b21ee0f10"
+    ],
+    "_version_": 1667138493199941632,
+    "timestamp": "2020-05-19T16:52:42.859Z"
+}

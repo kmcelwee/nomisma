@@ -1,0 +1,114 @@
+{
+    "id": "coin-8248",
+    "title_display": "Coin: 8248",
+    "pub_created_display": [
+        "Maurice Tiberius, 10 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8248"
+    ],
+    "call_number_browse_s": [
+        "Coin 8248"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/27/1937"
+    ],
+    "find_feature_s": [
+        "Room 10 to 3M. Basket B."
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca580"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "2.33"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8248\",\"call_number_browse\":\"Coin 8248\"}}",
+    "pub_date_start_sort": 595,
+    "pub_date_end_sort": 596,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 nummi"
+    ],
+    "issue_number_s": [
+        "5260"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Maurice Tiberius"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Maurice Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Maurice Tiberius bust facing, in consular robes and crown w/ trefoil ornament. in r. hand, mappa; in l., scepter."
+    ],
+    "issue_obverse_legend_s": [
+        "ONMA CNPA"
+    ],
+    "issue_reverse_figure_s": [
+        "I"
+    ],
+    "issue_reverse_figure_description_s": [
+        "l, ANNO; beneath, THEUP; above, cross;"
+    ],
+    "issue_reverse_legend_s": [
+        "to r., X IIII (in two lines)"
+    ],
+    "issue_references_s": [
+        " 351 207",
+        "MIB 2, Maurice 102c",
+        "BMC 147 212"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7f78562c1c2c59aa"
+    ],
+    "_version_": 1667145020722905088,
+    "timestamp": "2020-05-19T18:42:22.670Z"
+}

@@ -1,0 +1,89 @@
+{
+    "id": "coin-876",
+    "title_display": "Coin: 876",
+    "pub_created_display": [
+        "William Bishop (1208 to 1234), penny"
+    ],
+    "call_number_display": [
+        "Coin 876"
+    ],
+    "call_number_browse_s": [
+        "Coin 876"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 876\",\"call_number_browse\":\"Coin 876\"}}",
+    "pub_date_start_sort": 1208,
+    "pub_date_end_sort": 1234,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "358"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "William Bishop (1208 to 1234)"
+    ],
+    "issue_place_s": [
+        "Languedoc, France"
+    ],
+    "issue_state_s": [
+        "Languedoc"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+CATVRCENSIS"
+    ],
+    "issue_obverse_attributes_s": [
+        "cross, V in quadrant"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross and crozier"
+    ],
+    "issue_reverse_legend_s": [
+        "+EPISCOPUS"
+    ],
+    "issue_references_s": [
+        "Robert  4665",
+        "P.d'A.  3903"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "477e8f03299fbb10"
+    ],
+    "_version_": 1667138453811232768,
+    "timestamp": "2020-05-19T16:52:05.295Z"
+}

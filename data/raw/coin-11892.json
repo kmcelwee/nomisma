@@ -1,0 +1,98 @@
+{
+    "id": "coin-11892",
+    "title_display": "Coin: 11892",
+    "pub_created_display": [
+        "Hadrian (117 to 138), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11892"
+    ],
+    "call_number_browse_s": [
+        "Coin 11892"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.09"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11892\",\"call_number_browse\":\"Coin 11892\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 125,
+    "pub_date_end_sort": 128,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "6442"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing front, head right"
+    ],
+    "issue_reverse_legend_s": [
+        "C O S III"
+    ],
+    "issue_references_s": [
+        "RIC 2 361 182d",
+        "BMC 292 422"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1ecc7d57a8a79024"
+    ],
+    "_version_": 1667138195794427904,
+    "timestamp": "2020-05-19T16:47:59.230Z"
+}

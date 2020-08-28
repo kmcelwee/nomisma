@@ -1,0 +1,119 @@
+{
+    "id": "coin-8318",
+    "title_display": "Coin: 8318",
+    "pub_created_display": [
+        "Valens (364 to 378), Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8318"
+    ],
+    "call_number_browse_s": [
+        "Coin 8318"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/5/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca761"
+    ],
+    "find_description_s": [
+        "Dig IV room 19 to 3.50M. Basket A"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8318\",\"call_number_browse\":\"Coin 8318\"}}",
+    "pub_date_start_sort": 364,
+    "pub_date_end_sort": 367,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5310"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Valens (364 to 378)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust r., diad."
+    ],
+    "issue_obverse_legend_s": [
+        "DNVALENS PFAUG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Emperor, holding labarum, dragging captive r."
+    ],
+    "issue_reverse_legend_s": [
+        "GLORIARO MANORUM|ANT"
+    ],
+    "issue_references_s": [
+        "Waage p.134 1737",
+        "RIC.9 p. 274 10B"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "296ce1d07c670ac2"
+    ],
+    "_version_": 1667138187248533504,
+    "timestamp": "2020-05-19T16:47:51.081Z"
+}

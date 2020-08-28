@@ -1,0 +1,72 @@
+{
+    "id": "coin-4810",
+    "title_display": "Coin: 4810",
+    "pub_created_display": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162), 2 Cash"
+    ],
+    "call_number_display": [
+        "Coin 4810"
+    ],
+    "call_number_browse_s": [
+        "Coin 4810"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse legend written in 'regular script' or Kai Shu.  Wu note: \u6298\u4e8c\u6977\u4e66\u4e2d\u7a7f"
+    ],
+    "size_s": [
+        "30.6"
+    ],
+    "weight_s": [
+        "7.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4810\",\"call_number_browse\":\"Coin 4810\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1127,
+    "pub_date_end_sort": 1162,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 Cash"
+    ],
+    "issue_number_s": [
+        "2634"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5efa\u708e\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Hartill 161 17.18v",
+        "Zhong Guo 157 2nd row, 1st coin",
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 463 1835"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "01e07d33fc29e9e8"
+    ],
+    "_version_": 1667138407194689536,
+    "timestamp": "2020-05-19T16:51:20.839Z"
+}

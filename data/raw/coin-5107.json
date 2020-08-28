@@ -1,0 +1,75 @@
+{
+    "id": "coin-5107",
+    "title_display": "Coin: 5107",
+    "pub_created_display": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162), 2 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5107"
+    ],
+    "call_number_browse_s": [
+        "Coin 5107"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse legend written in zhen script or Zhen Shu ( \u771f\u66f8). Wu note: AD 1131"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "6.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5107\",\"call_number_browse\":\"Coin 5107\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1127,
+    "pub_date_end_sort": 1162,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 Cash"
+    ],
+    "issue_number_s": [
+        "2819"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162)"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Written in zhen script or Zhen Shu ( \u771f\u66f8)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u7d39\u8208\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 490 1944",
+        "Jen 74 328",
+        "Hartill 164 17.58"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2155262e3808aabc"
+    ],
+    "_version_": 1667138228683014144,
+    "timestamp": "2020-05-19T16:48:30.596Z"
+}

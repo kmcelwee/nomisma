@@ -1,0 +1,100 @@
+{
+    "id": "coin-11072",
+    "title_display": "Coin: 11072",
+    "pub_created_display": [
+        "Walkash, Drachm, Eran-khwarrah-Shapur"
+    ],
+    "call_number_display": [
+        "Coin 11072"
+    ],
+    "call_number_browse_s": [
+        "Coin 11072"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obv./rev. blind spot; rev. die cracks"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "4.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11072\",\"call_number_browse\":\"Coin 11072\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 484,
+    "pub_date_end_sort": 488,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7233"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Walkash"
+    ],
+    "issue_series_s": [
+        "AY"
+    ],
+    "issue_place_s": [
+        "Eran-khwarrah-Shapur, Khuzistan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Eran-khwarrah-Shapur"
+    ],
+    "issue_state_s": [
+        "Khuzistan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Walkash on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three mural elements, crescent, above covered korymbos; two ribbons commencing to the left below crescent, pointing upwards, double pearl diadem, diadem ribbons commencing behind right shoulder; pointing upwards; flame on left shoulder; earing consisting of three elements; neck-line of tunica edged with row of pearls; double row of pearls running from the shoulders to the breast ornament (only upper part visible); double ridged border"
+    ],
+    "issue_obverse_legend_s": [
+        "2 h l. i. hwkd wld' \u0161| hukay Walax\u0161| \u201cThe good king Walkash\u201d"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; to the left and right of the shaft ribbons pointing downwards, three altar slabs; in front of them bust with stylized crown of Walkash to the right; alter flames, depicted with vertical strokes; star to the left of altar flames, crescent to the right; to the left and the right of altar attendant with stylized crown of Walkash, right hand raised, both figures facing inwards; wld\u2019h\u0161 at 9 h; ridged border"
+    ],
+    "issue_references_s": [
+        "SNS 3 AY Type Ib/1b"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1121c71e0d7a8d2b"
+    ],
+    "_version_": 1667138289237229568,
+    "timestamp": "2020-05-19T16:49:28.345Z"
+}

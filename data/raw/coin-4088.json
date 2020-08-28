@@ -1,0 +1,115 @@
+{
+    "id": "coin-4088",
+    "title_display": "Coin: 4088",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4088"
+    ],
+    "call_number_browse_s": [
+        "Coin 4088"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "\"8\" inscribed in r. field"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "19.2"
+    ],
+    "weight_s": [
+        "3.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4088\",\"call_number_browse\":\"Coin 4088\"}}",
+    "pub_date_start_sort": -49,
+    "pub_date_end_sort": -49,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2345"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Terentius Varro (-116 to -27)"
+    ],
+    "issue_workshop_s": [
+        "Moving with Pompey, probably in Spain"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Jupiter Terminalis"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed; legend downwards; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "VARRO \u0393RO Q"
+    ],
+    "issue_reverse_figure_s": [
+        "Sceptre"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "to l., dolphin; to r., eagle; legend in two lines in exergue; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "MAGN \u0393RO | COS"
+    ],
+    "issue_reverse_attributes_s": [
+        "dolphin, to left of sceptre, facing r.",
+        "eagle, to right of sceptre, facing l."
+    ],
+    "issue_references_s": [
+        "RRC  447/1a",
+        "Syd.  1033-34",
+        "Sear  1374"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "515927ea6ebe20b6"
+    ],
+    "_version_": 1667138232205180928,
+    "timestamp": "2020-05-19T16:48:33.953Z"
+}

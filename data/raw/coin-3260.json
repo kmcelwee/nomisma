@@ -1,0 +1,112 @@
+{
+    "id": "coin-3260",
+    "title_display": "Coin: 3260",
+    "pub_created_display": [
+        "Nero (54 to 68), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 3260"
+    ],
+    "call_number_browse_s": [
+        "Coin 3260"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "10.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3260\",\"call_number_browse\":\"Coin 3260\"}}",
+    "donor_s": [
+        "Ernest DeWald"
+    ],
+    "pub_date_start_sort": 65,
+    "pub_date_end_sort": 65,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "1980"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP NERO CA[ESAR] AVG GERM"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "SC in ex"
+    ],
+    "issue_reverse_attributes_s": [
+        "shield, buckler shield inscribed SPQR held in r. hand"
+    ],
+    "issue_references_s": [
+        "RIC.1. Nero 325",
+        "BMC.1. Nero 244ff.",
+        "NNM  296",
+        "Sear  1976v."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "37cbb6d0f252bf78"
+    ],
+    "_version_": 1667138436867293184,
+    "timestamp": "2020-05-19T16:51:49.136Z"
+}

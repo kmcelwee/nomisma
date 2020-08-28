@@ -1,0 +1,86 @@
+{
+    "id": "coin-3074",
+    "title_display": "Coin: 3074",
+    "pub_created_display": [
+        "Kang Xi \u5eb7\u7199 (1662 to 1723), Mi Yun Zhen"
+    ],
+    "call_number_display": [
+        "Coin 3074"
+    ],
+    "call_number_browse_s": [
+        "Coin 3074"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "\u80cc\u96d9\u5b57\u6f22\u6eff\u5c40\u540d | On the reverse there are double Chinese and Manchurian characters indicating provincial mint"
+    ],
+    "size_s": [
+        "27.5"
+    ],
+    "weight_s": [
+        "5.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3074\",\"call_number_browse\":\"Coin 3074\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1897"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Kang Xi \u5eb7\u7199 (1662 to 1723)"
+    ],
+    "issue_workshop_s": [
+        "Yun Nan Provincial Mint (\u96f2\u5357\u7701\u5c40)"
+    ],
+    "issue_place_s": [
+        "Mi Yun Zhen, Shan Xi , China"
+    ],
+    "issue_city_s": [
+        "Mi Yun Zhen"
+    ],
+    "issue_state_s": [
+        "Shan Xi "
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5eb7\u7199\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u96f2 | \u96f2"
+    ],
+    "issue_reverse_attributes_s": [
+        "c56, Manchurian Character- \u96f2 (yun)",
+        "c56, Manchurian Character- \u96f2 (yun)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aa813b6e43eab184"
+    ],
+    "_version_": 1667138480418848768,
+    "timestamp": "2020-05-19T16:52:30.670Z"
+}

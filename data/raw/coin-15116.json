@@ -1,0 +1,92 @@
+{
+    "id": "coin-15116",
+    "title_display": "Coin: 15116",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denaurius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15116"
+    ],
+    "call_number_browse_s": [
+        "Coin 15116"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15116\",\"call_number_browse\":\"Coin 15116\"}}",
+    "pub_date_start_sort": 145,
+    "pub_date_end_sort": 161,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaurius"
+    ],
+    "issue_number_s": [
+        "9276"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS-AVG PIVS P P"
+    ],
+    "issue_reverse_figure_s": [
+        "Draped seat (pulvinar), with thunderbolt on it"
+    ],
+    "issue_reverse_legend_s": [
+        "COS-IIII"
+    ],
+    "issue_references_s": [
+        "BMC.1 77-8 536-9",
+        "RIC 43 137 (described as \"winged thunderbolt\")"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a051613f9f72f648"
+    ],
+    "_version_": 1667145478987317248,
+    "timestamp": "2020-05-19T18:43:45.023Z"
+}

@@ -1,0 +1,120 @@
+{
+    "id": "coin-1915",
+    "title_display": "Coin: 1915",
+    "pub_created_display": [
+        "Constantine X Ducas (1059 to 1067), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 1915"
+    ],
+    "call_number_browse_s": [
+        "Coin 1915"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "6.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1915\",\"call_number_browse\":\"Coin 1915\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 1059,
+    "pub_date_end_sort": 1067,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "1252"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine X Ducas (1059 to 1067)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standing on footstool, with cross nimbus and wearing a tunic"
+    ],
+    "issue_obverse_legend_s": [
+        "+EMMA NOVH\u039b"
+    ],
+    "issue_obverse_attributes_s": [
+        "right hand, raised in blessing",
+        "left hand, holding book",
+        "inscription, IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Constantine and Eudocia"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "each wearing loros and crown with cross and pendilia"
+    ],
+    "issue_reverse_legend_s": [
+        "+\u039aW\u039d\u03a4\u0394\u039a \u0395V\u0394\u039a\u0391V\u0393\u039f"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum, held between them, standing on three steps"
+    ],
+    "issue_references_s": [
+        "DOC 3.774 8",
+        "BMC.Byz. 517 18",
+        "BN 645 51/Cp/AE/01",
+        "Sear 363 1853"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "560d6ffd10c6e6df"
+    ],
+    "_version_": 1667138416919183360,
+    "timestamp": "2020-05-19T16:51:30.110Z"
+}

@@ -1,0 +1,114 @@
+{
+    "id": "coin-2591",
+    "title_display": "Coin: 2591",
+    "pub_created_display": [
+        "Tancred (1101 to 1112), copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2591"
+    ],
+    "call_number_browse_s": [
+        "Coin 2591"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Overstruck on issue 1610"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/8/1934"
+    ],
+    "find_feature_s": [
+        "street"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "c3382"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "2.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2591\",\"call_number_browse\":\"Coin 2591\"}}",
+    "pub_date_start_sort": 1101,
+    "pub_date_end_sort": 1112,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tancred (1101 to 1112)"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "S. Peter"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "peter standing, cloaked, r. hand blessing, cross in l. hand"
+    ],
+    "issue_obverse_legend_s": [
+        "S PE"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with legend in quarters"
+    ],
+    "issue_reverse_legend_s": [
+        "D S F T"
+    ],
+    "issue_references_s": [
+        "Schl. pl. V 1",
+        "Ox. pl. 4 71",
+        "Malloy p. 200 6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d60fc4f1cbf41a52"
+    ],
+    "_version_": 1674170280183857152,
+    "timestamp": "2020-08-05T07:39:57.502Z"
+}

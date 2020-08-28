@@ -1,0 +1,106 @@
+{
+    "id": "coin-10010",
+    "title_display": "Coin: 10010",
+    "pub_created_display": [
+        "Raymond III Orange (1335 to 1340), fractional, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10010"
+    ],
+    "call_number_browse_s": [
+        "Coin 10010"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/11/1937"
+    ],
+    "find_feature_s": [
+        "Bridge Dig over basalt pavement"
+    ],
+    "find_locus_s": [
+        "21-H"
+    ],
+    "find_number_s": [
+        "Ca859"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10010\",\"call_number_browse\":\"Coin 10010\"}}",
+    "pub_date_start_sort": 1314,
+    "pub_date_end_sort": 1340,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fractional"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Raymond III Orange (1335 to 1340)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "+R PRINCEPS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross pattee"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_legend_s": [
+        "+AVRAICENSIS"
+    ],
+    "issue_references_s": [
+        "P.d'A. II XCVIII9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "745f97ea249ce62e"
+    ],
+    "_version_": 1674168202242818048,
+    "timestamp": "2020-08-05T07:06:55.822Z"
+}

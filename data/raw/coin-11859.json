@@ -1,0 +1,98 @@
+{
+    "id": "coin-11859",
+    "title_display": "Coin: 11859",
+    "pub_created_display": [
+        "Hadrian (117 to 138), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11859"
+    ],
+    "call_number_browse_s": [
+        "Coin 11859"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "2.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11859\",\"call_number_browse\":\"Coin 11859\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 119,
+    "pub_date_end_sort": 122,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "7946"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCAESARTRAIAN HADRIANVSAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Concordia"
+    ],
+    "issue_reverse_orientation_s": [
+        "seated left"
+    ],
+    "issue_reverse_legend_s": [
+        "P M TR P COS III"
+    ],
+    "issue_references_s": [
+        "RIC 2 350 82b",
+        "BMC 261 165"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df780f5eeaacc420"
+    ],
+    "_version_": 1667138126574780416,
+    "timestamp": "2020-05-19T16:46:53.217Z"
+}

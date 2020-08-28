@@ -1,0 +1,76 @@
+{
+    "id": "coin-1482",
+    "title_display": "Coin: 1482",
+    "pub_created_display": [
+        "Xian Feng \u54b8\u8c50 (1851 to 1862), 10 Cash"
+    ],
+    "call_number_display": [
+        "Coin 1482"
+    ],
+    "call_number_browse_s": [
+        "Coin 1482"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "38"
+    ],
+    "weight_s": [
+        "18.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1482\",\"call_number_browse\":\"Coin 1482\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1850,
+    "pub_date_end_sort": 1861,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 Cash"
+    ],
+    "issue_number_s": [
+        "876"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Xian Feng \u54b8\u8c50 (1851 to 1862)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6210\u8c50\u91cd\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u5bf6\u6cc9\u7576\u5341"
+    ],
+    "issue_references_s": [
+        "Shang Hai QDMGJZB 454 1693"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "609cc8bb4f4ffa25"
+    ],
+    "_version_": 1667138462718885888,
+    "timestamp": "2020-05-19T16:52:13.787Z"
+}

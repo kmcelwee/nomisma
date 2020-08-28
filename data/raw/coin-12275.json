@@ -1,0 +1,101 @@
+{
+    "id": "coin-12275",
+    "title_display": "Coin: 12275",
+    "pub_created_display": [
+        "Ivan Shishman, grosh, Tarnovo"
+    ],
+    "call_number_display": [
+        "Coin 12275"
+    ],
+    "call_number_browse_s": [
+        "Coin 12275"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "First half of reverse and obverse inscriptions damaged."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "0.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12275\",\"call_number_browse\":\"Coin 12275\"}}",
+    "pub_date_start_sort": 1382,
+    "pub_date_end_sort": 1393,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosh"
+    ],
+    "issue_number_s": [
+        "8272"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ivan Shishman"
+    ],
+    "issue_place_s": [
+        "Tarnovo, Tarnovo, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Tarnovo"
+    ],
+    "issue_state_s": [
+        "Tarnovo"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Virgin and child"
+    ],
+    "issue_obverse_part_s": [
+        "bust, orans"
+    ],
+    "issue_obverse_legend_s": [
+        "\u039c\u0398 C\u03a7"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crowned"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03b9\u03c9(\u0430\u043d\u043d\u044a) \u0428\u03b9(\u0448\u043c\u0430\u043d\u044a) \u0426\u0420"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, cruciger in right hand"
+    ],
+    "issue_references_s": [
+        "Iurukova p.168,type IV",
+        "Mushmov p.143 188"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1d11761935d2933b"
+    ],
+    "_version_": 1667138302633836544,
+    "timestamp": "2020-05-19T16:49:41.120Z"
+}

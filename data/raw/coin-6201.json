@@ -1,0 +1,67 @@
+{
+    "id": "coin-6201",
+    "title_display": "Coin: 6201",
+    "call_number_display": [
+        "Coin 6201"
+    ],
+    "call_number_browse_s": [
+        "Coin 6201"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "129x274"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6201\",\"call_number_browse\":\"Coin 6201\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "check"
+    ],
+    "issue_number_s": [
+        "3647"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_workshop_s": [
+        "Massachusetts Treasury"
+    ],
+    "issue_series_s": [
+        "January 1, 1780"
+    ],
+    "issue_place_s": [
+        "Massachusetts, United States of America"
+    ],
+    "issue_state_s": [
+        "Massachusetts"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Check issued by Massachusetts Treasurer Henry Gardner"
+    ],
+    "issue_obverse_legend_s": [
+        "STATE of MASSACHUSETTS BAY | The First Day of January, A. D. 1780. IN Behalf of the State of Massachusetts Bay, I the Subscriber do hereby promise and oblige Myself and Successors in the Office of TREASURER of said STATE, to pay unto William Booth or to his Order, the SUM of Three Hundred Twenty Four Pounds 11s on or before the FIRST Day of MARCH, in the year of our Lord One Thousand Seven Hundred and Eighty One, with Interest at Six per Cent. Per Annum:  Both Principal and Interest to be paid in the then current Money of said STATE, in a greater or less SUM, according as Five Bushels of CORN, Sixty-eight Pounds and four-seventh Parts of a Pound of BEEF, Ten Pounds of SHEEPS WOOL, and Sixteen Pounds of SOLE LEATHER shall then cost, more or less than One Hundred and Thirty Pounds current Money, at the then current Prices of said ARTICLES - This SUM being THIRTY-TWO TIMES AND A HALF what the same Quantities of the same Articles would cost\u2026 Witness my Hand. H. Gardner. Treasurer"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "85f72a753daba18e"
+    ],
+    "_version_": 1667138374743359488,
+    "timestamp": "2020-05-19T16:50:49.890Z"
+}

@@ -1,0 +1,106 @@
+{
+    "id": "coin-2640",
+    "title_display": "Coin: 2640",
+    "pub_created_display": [
+        "Domenico Contarini (1659 to 1674), soldo, Venice"
+    ],
+    "call_number_display": [
+        "Coin 2640"
+    ],
+    "call_number_browse_s": [
+        "Coin 2640"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2640\",\"call_number_browse\":\"Coin 2640\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1659,
+    "pub_date_end_sort": 1674,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "soldo"
+    ],
+    "issue_number_s": [
+        "1661"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Domenico Contarini (1659 to 1674)"
+    ],
+    "issue_place_s": [
+        "Venice, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Doge"
+    ],
+    "issue_obverse_part_s": [
+        "kneeling"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "doge kneeling holding a standard with a cross atop r.; winged walking lion l. with open book"
+    ],
+    "issue_obverse_legend_s": [
+        "S M V DOMIN CONT"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "giving benediction r.; holds book l;"
+    ],
+    "issue_reverse_legend_s": [
+        "DEFENS NOSTER"
+    ],
+    "issue_references_s": [
+        "Pap. Domenico Contarini 202"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15dbe66fa8442b32"
+    ],
+    "_version_": 1667138424030625792,
+    "timestamp": "2020-05-19T16:51:36.894Z"
+}

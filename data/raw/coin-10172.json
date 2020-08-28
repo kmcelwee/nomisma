@@ -1,0 +1,95 @@
+{
+    "id": "coin-10172",
+    "title_display": "Coin: 10172",
+    "pub_created_display": [
+        "Hadrian (117 to 138), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 10172"
+    ],
+    "call_number_browse_s": [
+        "Coin 10172"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10172\",\"call_number_browse\":\"Coin 10172\"}}",
+    "pub_date_start_sort": 117,
+    "pub_date_end_sort": 117,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "6425"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCAESARTRAIAN HADRIANVSAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Concordia"
+    ],
+    "issue_reverse_orientation_s": [
+        "seated left"
+    ],
+    "issue_reverse_legend_s": [
+        "PMTRPCOSDESII|CONCORD"
+    ],
+    "issue_references_s": [
+        "RIC 2 341 17a",
+        "BMC 241 36"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c17587ab01dfc2e0"
+    ],
+    "_version_": 1667138180187422720,
+    "timestamp": "2020-05-19T16:47:44.344Z"
+}

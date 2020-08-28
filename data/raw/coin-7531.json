@@ -1,0 +1,97 @@
+{
+    "id": "coin-7531",
+    "title_display": "Coin: 7531",
+    "pub_created_display": [
+        "diobol, Sicyon"
+    ],
+    "call_number_display": [
+        "Coin 7531"
+    ],
+    "call_number_browse_s": [
+        "Coin 7531"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "2.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7531\",\"call_number_browse\":\"Coin 7531\"}}",
+    "donor_s": [
+        "A.C. Johnson"
+    ],
+    "pub_date_start_sort": -323,
+    "pub_date_end_sort": -251,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "4698"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Sicyon, Peloponnesus, Greece"
+    ],
+    "issue_city_s": [
+        "Sicyon"
+    ],
+    "issue_state_s": [
+        "Peloponnesus"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Dove"
+    ],
+    "issue_obverse_part_s": [
+        "flying"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Olive wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u03a3I"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\u03a3I inside olive wreath"
+    ],
+    "issue_references_s": [
+        "Catalogue of Greek Coins - Peloponnesus 47 138"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "37b328c32ee53f9b"
+    ],
+    "_version_": 1667138260099399680,
+    "timestamp": "2020-05-19T16:49:00.556Z"
+}

@@ -1,0 +1,85 @@
+{
+    "id": "coin-9229",
+    "title_display": "Coin: 9229",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9229"
+    ],
+    "call_number_browse_s": [
+        "Coin 9229"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/22/1937"
+    ],
+    "find_feature_s": [
+        "DIG IV"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca495"
+    ],
+    "find_description_s": [
+        "level 1, room 24; to 1.30M (Basket C)"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9229\",\"call_number_browse\":\"Coin 9229\"}}",
+    "pub_date_start_sort": 783,
+    "pub_date_end_sort": 825,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5895"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_place_s": [
+        "Iraq"
+    ],
+    "issue_region_s": [
+        "Iraq"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d8fc011c27bf4261"
+    ],
+    "_version_": 1667144976015818752,
+    "timestamp": "2020-05-19T18:41:23.494Z"
+}

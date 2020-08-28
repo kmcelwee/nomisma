@@ -1,0 +1,68 @@
+{
+    "id": "coin-5481",
+    "title_display": "Coin: 5481",
+    "pub_created_display": [
+        "Wu Zong \u5143\u6b66\u5b97 (1308 to 1311), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5481"
+    ],
+    "call_number_browse_s": [
+        "Coin 5481"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "22.8"
+    ],
+    "weight_s": [
+        "3.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5481\",\"call_number_browse\":\"Coin 5481\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1308,
+    "pub_date_end_sort": 1311,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3085"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Wu Zong \u5143\u6b66\u5b97 (1308 to 1311)"
+    ],
+    "issue_obverse_legend_s": [
+        " \u81f3\u5927\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 10 36",
+        "Hartill 227 19.39"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "09bd9f0746768846"
+    ],
+    "_version_": 1667138248014561280,
+    "timestamp": "2020-05-19T16:48:49.031Z"
+}

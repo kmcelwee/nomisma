@@ -1,0 +1,107 @@
+{
+    "id": "coin-5437",
+    "title_display": "Coin: 5437",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5437"
+    ],
+    "call_number_browse_s": [
+        "Coin 5437"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 10, R: 18. Reverse legend invisible."
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "7.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5437\",\"call_number_browse\":\"Coin 5437\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -510,
+    "pub_date_end_sort": -450,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3061"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right hand extended and opened upward, left hand holds an octopus"
+    ],
+    "issue_obverse_legend_s": [
+        "TARAS [three-bar sigma]"
+    ],
+    "issue_reverse_figure_s": [
+        "Hippocamp"
+    ],
+    "issue_reverse_symbol_s": [
+        "scallop shell"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS [retrograde; three-bar sigma]"
+    ],
+    "issue_reverse_attributes_s": [
+        "cabled border"
+    ],
+    "issue_references_s": [
+        "F-B  23",
+        "Vlasto Coll.  129"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "754d84323faacc0b"
+    ],
+    "_version_": 1667138393510772736,
+    "timestamp": "2020-05-19T16:51:07.788Z"
+}

@@ -1,0 +1,104 @@
+{
+    "id": "coin-13405",
+    "title_display": "Coin: 13405",
+    "pub_created_display": [
+        "diobol, Aradus"
+    ],
+    "call_number_display": [
+        "Coin 13405"
+    ],
+    "call_number_browse_s": [
+        "Coin 13405"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "weight_s": [
+        "1.17"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13405\",\"call_number_browse\":\"Coin 13405\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "8683"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_series_s": [
+        "8"
+    ],
+    "issue_place_s": [
+        "Aradus, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Aradus"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Medusa"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "winged, dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Aplustre"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Greek date vertical l.; Phoenician and Greek letters vertical r."
+    ],
+    "issue_reverse_legend_s": [
+        "\u039d\u03a1 \u0392C"
+    ],
+    "issue_reverse_attributes_s": [
+        "m13378, right of aplustre, before Greek letters"
+    ],
+    "issue_references_s": [
+        "Arados Hell\u00e9nistique  4416",
+        "BMC.Phoen  322v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "983c3c85f7f02922"
+    ],
+    "_version_": 1667138524856451072,
+    "timestamp": "2020-05-19T16:53:13.047Z"
+}

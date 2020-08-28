@@ -1,0 +1,120 @@
+{
+    "id": "coin-13297",
+    "title_display": "Coin: 13297",
+    "pub_created_display": [
+        "Seleucus IV (-187 to -175), quadruple, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 13297"
+    ],
+    "call_number_browse_s": [
+        "Coin 13297"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "10.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13297\",\"call_number_browse\":\"Coin 13297\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -187,
+    "pub_date_end_sort": -175,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadruple"
+    ],
+    "issue_number_s": [
+        "8615"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_edge_s": [
+        "serrated"
+    ],
+    "issue_ruler_s": [
+        "Seleucus IV (-187 to -175)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with laurel in archaizing severe style, hair rolled behind, long locks falling down neck in dotted border"
+    ],
+    "issue_obverse_attributes_s": [
+        ""
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 l \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, in r. hand",
+        "elbow, resting on tall tripod"
+    ],
+    "issue_references_s": [
+        "H & L II, 15 1315.6"
+    ],
+    "issue_monogram_title_s": [
+        "Control mark",
+        "^B"
+    ],
+    "issue_monogram_1display": "[{\"title\":\"Control mark\",\"document_id\":\"007577aa-f3be-4433-bb06-538270b23ba0\"},{\"title\":\"^B\",\"document_id\":\"ab05201f-f971-4b74-9920-98fbb9309e99\"}]",
+    "hashed_id_s": [
+        "73f48e236f07fa44"
+    ],
+    "_version_": 1667138219830935552,
+    "timestamp": "2020-05-19T16:48:22.154Z"
+}

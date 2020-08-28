@@ -1,0 +1,94 @@
+{
+    "id": "coin-6860",
+    "title_display": "Coin: 6860",
+    "pub_created_display": [
+        "Rudolf Augustus, Duke of Brunswick-Wolfenb\u00fcttel, 4 mariengroschen"
+    ],
+    "call_number_display": [
+        "Coin 6860"
+    ],
+    "call_number_browse_s": [
+        "Coin 6860"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6860\",\"call_number_browse\":\"Coin 6860\"}}",
+    "pub_date_start_sort": 1666,
+    "pub_date_end_sort": 1704,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 mariengroschen"
+    ],
+    "issue_number_s": [
+        "4268"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Rudolf Augustus, Duke of Brunswick-Wolfenb\u00fcttel"
+    ],
+    "issue_place_s": [
+        "Brunswick-Wolfenb\u00fcttel, Austria"
+    ],
+    "issue_state_s": [
+        "Brunswick-Wolfenb\u00fcttel"
+    ],
+    "issue_region_s": [
+        "Austria"
+    ],
+    "issue_obverse_figure_s": [
+        "Wildman"
+    ],
+    "issue_obverse_part_s": [
+        "holding tree"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "RUDOLPH AUGUSTUS DUX BEL DG"
+    ],
+    "issue_reverse_figure_s": [
+        "Value"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\"IIII MARIE GROS\""
+    ],
+    "issue_reverse_legend_s": [
+        "REMIGIO ALTISSIMI 1668"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c562a2963de551e2"
+    ],
+    "_version_": 1667138255521316864,
+    "timestamp": "2020-05-19T16:48:56.191Z"
+}

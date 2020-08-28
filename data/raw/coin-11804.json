@@ -1,0 +1,112 @@
+{
+    "id": "coin-11804",
+    "title_display": "Coin: 11804",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 11804"
+    ],
+    "call_number_browse_s": [
+        "Coin 11804"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Doubtable attribution due to the partial nature of the coin"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/3/1938"
+    ],
+    "find_locus_s": [
+        "17-P"
+    ],
+    "find_number_s": [
+        "Cb3065"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "1.73"
+    ],
+    "weight_s": [
+        "0.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11804\",\"call_number_browse\":\"Coin 11804\"}}",
+    "pub_date_start_sort": 336,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7899"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with laurel and cuirass"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "each holding reversed spear and resting hand on shield set on the ground; between them on standard"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS"
+    ],
+    "issue_references_s": [
+        "RIC 7 589 139"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e5de769b486f71d2"
+    ],
+    "_version_": 1667138298399686656,
+    "timestamp": "2020-05-19T16:49:37.083Z"
+}

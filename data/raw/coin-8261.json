@@ -1,0 +1,110 @@
+{
+    "id": "coin-8261",
+    "title_display": "Coin: 8261",
+    "pub_created_display": [
+        "Henry III (1574 to 1589), denaro, Lucca"
+    ],
+    "call_number_display": [
+        "Coin 8261"
+    ],
+    "call_number_browse_s": [
+        "Coin 8261"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "The obverse and reverse is for the mostly illegible; die axis is therefore uncertain."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/15/1937"
+    ],
+    "find_feature_s": [
+        "Dig III East half to 1.70"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca376"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8261\",\"call_number_browse\":\"Coin 8261\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "5269"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Henry III (1574 to 1589)"
+    ],
+    "issue_place_s": [
+        "Lucca, Tuscany, Italy"
+    ],
+    "issue_city_s": [
+        "Lucca"
+    ],
+    "issue_state_s": [
+        "Tuscany"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "H"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Large Letter H [debased OTTO monogram]"
+    ],
+    "issue_obverse_legend_s": [
+        "+IHPERATOR"
+    ],
+    "issue_reverse_figure_s": [
+        "LVCA"
+    ],
+    "issue_reverse_figure_description_s": [
+        "LVCA cross-wise around central pellet"
+    ],
+    "issue_reverse_legend_s": [
+        "+ENRICVS"
+    ],
+    "issue_references_s": [
+        "Ox.  9",
+        "CNI Plate IV 33"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f7bfbed2ab4fc590"
+    ],
+    "_version_": 1667144976042033152,
+    "timestamp": "2020-05-19T18:41:23.495Z"
+}

@@ -1,0 +1,114 @@
+{
+    "id": "coin-4789",
+    "title_display": "Coin: 4789",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4789"
+    ],
+    "call_number_browse_s": [
+        "Coin 4789"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "18.9"
+    ],
+    "weight_s": [
+        "3.81"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4789\",\"call_number_browse\":\"Coin 4789\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": -31,
+    "pub_date_end_sort": -31,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2613"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "D. Turullius"
+    ],
+    "issue_workshop_s": [
+        "Moving with M. Antonius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "M. Antonius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "M ANTONIVS AVG IMP IIII COS TERT III VIR R \u0393 C"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding wreath tied with fillet in r. hand and palm-branch over l. shoulder with l. hand; TVR in monogram; laurel-wreath border"
+    ],
+    "issue_reverse_legend_s": [
+        "D TVR"
+    ],
+    "issue_references_s": [
+        "RRC  545/1",
+        "Syd.  1211",
+        "Sear  1485"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fb6b36b0bd4ec129"
+    ],
+    "_version_": 1667138504476327936,
+    "timestamp": "2020-05-19T16:52:53.611Z"
+}

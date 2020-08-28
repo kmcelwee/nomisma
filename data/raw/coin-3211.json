@@ -1,0 +1,76 @@
+{
+    "id": "coin-3211",
+    "title_display": "Coin: 3211",
+    "pub_created_display": [
+        "Xuan De \u5ba3\u5fb7 (Zhu Zhan Ji \u6731\u77bb\u57fa) (1426 to 1436), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 3211"
+    ],
+    "call_number_browse_s": [
+        "Coin 3211"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3211\",\"call_number_browse\":\"Coin 3211\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "1958"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Xuan De \u5ba3\u5fb7 (Zhu Zhan Ji \u6731\u77bb\u57fa) (1426 to 1436)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5ba3\u5fb7\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 118 398",
+        "Jen 119 547",
+        "Coole 49 1st Column 2nd Coin",
+        "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 284 1st Column 2nd Coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e3faf3cb88413cbb"
+    ],
+    "_version_": 1667138436049403904,
+    "timestamp": "2020-05-19T16:51:48.356Z"
+}

@@ -1,0 +1,111 @@
+{
+    "id": "coin-9299",
+    "title_display": "Coin: 9299",
+    "pub_created_display": [
+        "Tiberius, as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9299"
+    ],
+    "call_number_browse_s": [
+        "Coin 9299"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "10.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9299\",\"call_number_browse\":\"Coin 9299\"}}",
+    "donor_s": [
+        "Ernest DeWald"
+    ],
+    "pub_date_start_sort": 36,
+    "pub_date_end_sort": 37,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "5925"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate; last part of legend not visible"
+    ],
+    "issue_obverse_legend_s": [
+        "TICAESARDIVIAVGFAVGVST [IMP VIII]"
+    ],
+    "issue_reverse_figure_s": [
+        "Rudder"
+    ],
+    "issue_reverse_symbol_s": [
+        "S C"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large S C on either side of rudder placed vertically on top of banded globe; band running from upper left to lower right; smaller globe at base of rudder"
+    ],
+    "issue_reverse_legend_s": [
+        "S C; PONTIF MAXTR POT X XXIIX"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 64",
+        "BMC.1. Tiberius 135",
+        "Sear  1772"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "22d5703a5eef7ab5"
+    ],
+    "_version_": 1667138154285498368,
+    "timestamp": "2020-05-19T16:47:19.643Z"
+}

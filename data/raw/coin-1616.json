@@ -1,0 +1,91 @@
+{
+    "id": "coin-1616",
+    "title_display": "Coin: 1616",
+    "pub_created_display": [
+        "Pierre d'Aubusson (1476 to 1503), ducat"
+    ],
+    "call_number_display": [
+        "Coin 1616"
+    ],
+    "call_number_browse_s": [
+        "Coin 1616"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "3.49"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1616\",\"call_number_browse\":\"Coin 1616\"}}",
+    "pub_date_start_sort": 1476,
+    "pub_date_end_sort": 1503,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "1007"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Pierre d'Aubusson (1476 to 1503)"
+    ],
+    "issue_place_s": [
+        "Rhodes, Crusader"
+    ],
+    "issue_state_s": [
+        "Rhodes"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Grand Master"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Grand Master kneeling, receiving flag from St. John"
+    ],
+    "issue_obverse_legend_s": [
+        "F.PE.DAUBUSSON.MA.S.IOhPNNI."
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Christ standing with 9 stars"
+    ],
+    "issue_reverse_legend_s": [
+        "SIT.T.XRE DATU. .REGIS ISTE D."
+    ],
+    "issue_references_s": [
+        "Schl. Plate XI 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "264fe340018c1907"
+    ],
+    "_version_": 1667138465125367808,
+    "timestamp": "2020-05-19T16:52:16.085Z"
+}

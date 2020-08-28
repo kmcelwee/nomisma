@@ -1,0 +1,98 @@
+{
+    "id": "coin-12272",
+    "title_display": "Coin: 12272",
+    "pub_created_display": [
+        "Ivan Sratsimir Shishman, billon trachy, Vidin"
+    ],
+    "call_number_display": [
+        "Coin 12272"
+    ],
+    "call_number_browse_s": [
+        "Coin 12272"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Top left of obverse inscription damaged."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12272\",\"call_number_browse\":\"Coin 12272\"}}",
+    "pub_date_start_sort": 1380,
+    "pub_date_end_sort": 1396,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8269"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Ivan Sratsimir Shishman"
+    ],
+    "issue_place_s": [
+        "Vidin, Vidin Tsardom, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Vidin"
+    ],
+    "issue_state_s": [
+        "Vidin Tsardom"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_obverse_symbol_s": [
+        "vertical line"
+    ],
+    "issue_obverse_figure_description_s": [
+        "forming the enscription"
+    ],
+    "issue_obverse_legend_s": [
+        "\u03b9\u03c9\u03b1(\u043d) C\u0440\u0446\u043d\u043c\u043d\u0440 \u0426\u0420 \u0411\u041b(\u0433\u0430\u0440\u043e\u043c\u044a)"
+    ],
+    "issue_reverse_figure_s": [
+        "Bust of Christ"
+    ],
+    "issue_reverse_figure_description_s": [
+        "blessing, with halo"
+    ],
+    "issue_references_s": [
+        "Iurukova p.162,type III",
+        "Mushmov p.137 179"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f88054f3c98d0805"
+    ],
+    "_version_": 1667138342697828352,
+    "timestamp": "2020-05-19T16:50:19.330Z"
+}

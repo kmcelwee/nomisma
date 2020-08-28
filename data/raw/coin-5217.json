@@ -1,0 +1,102 @@
+{
+    "id": "coin-5217",
+    "title_display": "Coin: 5217",
+    "pub_created_display": [
+        "quadrans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5217"
+    ],
+    "call_number_browse_s": [
+        "Coin 5217"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Martini sale, 1930, $18; From the collection of Sydenham, #36"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "33"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "31.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5217\",\"call_number_browse\":\"Coin 5217\"}}",
+    "pub_date_start_sort": -225,
+    "pub_date_end_sort": -217,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadrans"
+    ],
+    "issue_number_s": [
+        "2903"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_symbol_s": [
+        "3 dots"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_symbol_s": [
+        "3 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_references_s": [
+        "Haeb. 44 18-20",
+        "Aes Grave  21",
+        "RRC 36 4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "91c30aa476979bf1"
+    ],
+    "_version_": 1667138396162621440,
+    "timestamp": "2020-05-19T16:51:10.315Z"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "coin-7547",
+    "title_display": "Coin: 7547",
+    "pub_created_display": [
+        "diobol, Sicyon"
+    ],
+    "call_number_display": [
+        "Coin 7547"
+    ],
+    "call_number_browse_s": [
+        "Coin 7547"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "No named donor in accession book 1."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "4.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7547\",\"call_number_browse\":\"Coin 7547\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -250,
+    "pub_date_end_sort": -146,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "4715"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Sicyon, Peloponnesus, Greece"
+    ],
+    "issue_city_s": [
+        "Sicyon"
+    ],
+    "issue_state_s": [
+        "Peloponnesus"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurelled"
+    ],
+    "issue_reverse_figure_s": [
+        "Dove"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u03a3I"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in beak, fillet"
+    ],
+    "issue_references_s": [
+        "Catalogue of Greek Coins - Peloponnesus 54 227"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b5a958988e58f48f"
+    ],
+    "_version_": 1667138175313641472,
+    "timestamp": "2020-05-19T16:47:39.698Z"
+}

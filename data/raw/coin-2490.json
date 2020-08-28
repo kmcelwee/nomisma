@@ -1,0 +1,114 @@
+{
+    "id": "coin-2490",
+    "title_display": "Coin: 2490",
+    "pub_created_display": [
+        "Francesco Dandolo (1329 to 1339), grosso, Venice"
+    ],
+    "call_number_display": [
+        "Coin 2490"
+    ],
+    "call_number_browse_s": [
+        "Coin 2490"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Small hole in one side"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "1.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2490\",\"call_number_browse\":\"Coin 2490\"}}",
+    "donor_s": [
+        "Lincoln"
+    ],
+    "pub_date_start_sort": 1329,
+    "pub_date_end_sort": 1339,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "1571"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Francesco Dandolo (1329 to 1339)"
+    ],
+    "issue_place_s": [
+        "Venice, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Saint Mark, bearded, holding gospel book hands banner to Doge, holding cross; both richly garbed"
+    ],
+    "issue_obverse_legend_s": [
+        "FRA DANDVLO DVX S M VENETI"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Redeemer seated on pearl-encrusted throne"
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_references_s": [
+        "Pap. 1 162, 5",
+        "CNI, 7  III.5.13",
+        "MEC 12 560, 576, 643-644"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0779d65a1dc856d3"
+    ],
+    "_version_": 1667138447299575808,
+    "timestamp": "2020-05-19T16:51:59.083Z"
+}

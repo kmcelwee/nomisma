@@ -1,0 +1,94 @@
+{
+    "id": "coin-8536",
+    "title_display": "Coin: 8536",
+    "pub_created_display": [
+        "Paris"
+    ],
+    "call_number_display": [
+        "Coin 8536"
+    ],
+    "call_number_browse_s": [
+        "Coin 8536"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Plaque reads: MOUSSOULOU ZADE HUSSEIN"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "50"
+    ],
+    "weight_s": [
+        "104.4"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8536\",\"call_number_browse\":\"Coin 8536\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "5441"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "International Exposition, 1903"
+    ],
+    "issue_place_s": [
+        "Paris, France"
+    ],
+    "issue_city_s": [
+        "Paris"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Hellas"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "seated on throne, holding spear and laurel branch, with shield an dowl at feet. On either side, representations of Art, Philosophy, Industry, and Trade; in background, Acropolis"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0395\u039b\u039b\u0391\u03a3 \u0391\u0398\u0397\u039d\u0391\u0399 \u0394\u0399\u0395\u0398\u039dH\u03a3 \u0395\u039a\u0398\u0395\u03a3\u0399\u03a3 \u0391\u0398\u0397\u039d\u03a9\u039d 1903 \u03a5\u03a0\u039f \u03a4\u0397\u039d \u03a5\u03a8\u0397\u039dH\u039d \u03a0\u03a1\u039f\u03a3\u03a4\u0391\u0395\u03a3\u0399\u0391\u039d \u03a4\u0397\u03a3 \u0391.\u0392.\u03a5. \u03a4\u0397\u03a3 \u03a0\u03a1I\u0393\u039aHPI\u03a3\u03a3H\u03a3 \u03a3\u039f\u03a6\u0399\u0391\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Olive branch"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Plaque and Scroll, with olive branch to right"
+    ],
+    "issue_reverse_legend_s": [
+        "Plaque inscription varies by medal; scroll reads \"\u03a0\u03a1\u039f\u039f\u0394\u039f\u03a3\""
+    ],
+    "issue_artists_s": [
+        "HOND PARIS"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "655623ec82a4ced7"
+    ],
+    "_version_": 1667138330285834240,
+    "timestamp": "2020-05-19T16:50:07.490Z"
+}

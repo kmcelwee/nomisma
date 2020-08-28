@@ -1,0 +1,95 @@
+{
+    "id": "coin-6472",
+    "title_display": "Coin: 6472",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6472"
+    ],
+    "call_number_browse_s": [
+        "Coin 6472"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the Third Uniform Series of 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "34.71"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6472\",\"call_number_browse\":\"Coin 6472\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3896"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS MAGNUS REX CHRISTIANISSIMUS ."
+    ],
+    "issue_reverse_figure_s": [
+        "Temple"
+    ],
+    "issue_reverse_symbol_s": [
+        "Janus"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Closed temple of Janus."
+    ],
+    "issue_reverse_legend_s": [
+        "UBIQUE PAX . | FOEDUS RASTADIENSE . | VI . MARTII . M . DCC . XIV ."
+    ],
+    "issue_references_s": [
+        "M\u00e9dailles et Jetons 1, p. XLVII 8",
+        "M\u00e9dailles, 1723 p. 315 "
+    ],
+    "issue_artists_s": [
+        "Jean Mauger, I.MAVGER.F"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "430e8ad38157d179"
+    ],
+    "_version_": 1667138370387574784,
+    "timestamp": "2020-05-19T16:50:45.737Z"
+}

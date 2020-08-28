@@ -1,0 +1,76 @@
+{
+    "id": "coin-4906",
+    "title_display": "Coin: 4906",
+    "pub_created_display": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162), 3 Cash"
+    ],
+    "call_number_display": [
+        "Coin 4906"
+    ],
+    "call_number_browse_s": [
+        "Coin 4906"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Written in seal script or Zhuan Shu (\u7bc6\u66f8)."
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "6.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4906\",\"call_number_browse\":\"Coin 4906\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1127,
+    "pub_date_end_sort": 1162,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "3 Cash"
+    ],
+    "issue_number_s": [
+        "2703"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Gao Zong \u9ad8\u5b97 (Zhao Gou \u8d99\u69cb) (1127 to 1162)"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Written in seal script or Zhuan Shu ( \u7bc6\u66f8)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5efa\u708e\u91cd\u5bf6"
+    ],
+    "issue_references_s": [
+        "Hartill 162 17.34",
+        "Zhong Guo 160 row 3, 1st coin",
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 470 1865",
+        "Jen 72 319"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1c26fa51918c5c63"
+    ],
+    "_version_": 1667138506879664128,
+    "timestamp": "2020-05-19T16:52:55.904Z"
+}

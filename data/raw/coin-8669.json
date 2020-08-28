@@ -1,0 +1,85 @@
+{
+    "id": "coin-8669",
+    "title_display": "Coin: 8669",
+    "pub_created_display": [
+        "Henry III (1574 to 1589), obolino"
+    ],
+    "call_number_display": [
+        "Coin 8669"
+    ],
+    "call_number_browse_s": [
+        "Coin 8669"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8669\",\"call_number_browse\":\"Coin 8669\"}}",
+    "pub_date_start_sort": 1039,
+    "pub_date_end_sort": 1125,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "obolino"
+    ],
+    "issue_number_s": [
+        "5547"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Henry III (1574 to 1589)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_description_s": [
+        ".[HE]llRIC;;.N.ll with four wedges in on the rim"
+    ],
+    "issue_obverse_legend_s": [
+        "+ Imperator"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross in center"
+    ],
+    "issue_reverse_legend_s": [
+        "MEDIOLANV"
+    ],
+    "issue_references_s": [
+        "CNI V., p.50 23"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "44b6662224fe6ffa"
+    ],
+    "_version_": 1667138157519306752,
+    "timestamp": "2020-05-19T16:47:22.728Z"
+}

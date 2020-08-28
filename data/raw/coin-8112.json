@@ -1,0 +1,123 @@
+{
+    "id": "coin-8112",
+    "title_display": "Coin: 8112",
+    "pub_created_display": [
+        "Constantine X Ducas (1059 to 1067), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8112"
+    ],
+    "call_number_browse_s": [
+        "Coin 8112"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/2/1938"
+    ],
+    "find_feature_s": [
+        "Dump"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Cb3589"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "8.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8112\",\"call_number_browse\":\"Coin 8112\"}}",
+    "pub_date_start_sort": 1059,
+    "pub_date_end_sort": 1067,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5137"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine X Ducas (1059 to 1067)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ on sqaure souppedion r.hand raised in blessing in sling l.hand holds book"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Eudocia and Constantine X"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "l.figure Eudocia with hand on heart r.figure Constantine X with hand on heart. Between them is labarum with cross piece on shaft, standing on base and three steps."
+    ],
+    "issue_reverse_legend_s": [
+        "+K\u03a8NT\u0394K (on r.) EV\u0394KAV\u0393O (on l.)"
+    ],
+    "issue_references_s": [
+        "DOC pg.774 8.2",
+        "BMC.Byz. 517 18",
+        "Sear  1853"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "464b901b287f9b5d"
+    ],
+    "_version_": 1667138189067812864,
+    "timestamp": "2020-05-19T16:47:52.815Z"
+}

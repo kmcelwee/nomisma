@@ -1,0 +1,105 @@
+{
+    "id": "coin-9151",
+    "title_display": "Coin: 9151",
+    "pub_created_display": [
+        "Tiberius, denarius, Lugdunum"
+    ],
+    "call_number_display": [
+        "Coin 9151"
+    ],
+    "call_number_browse_s": [
+        "Coin 9151"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9151\",\"call_number_browse\":\"Coin 9151\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 36,
+    "pub_date_end_sort": 37,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "5824"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Lugdunum, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Lugdunum"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "TICAESARDIVI AVGFAVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Livia"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "sceptre in right hand; branch in left hand; legs of chair plain"
+    ],
+    "issue_reverse_legend_s": [
+        "PONTIF MAXIM"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 26",
+        "BMC.1. Tiberius 34",
+        "Sear  1763"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a434b3eecd95d56c"
+    ],
+    "_version_": 1667138150060785664,
+    "timestamp": "2020-05-19T16:47:15.615Z"
+}

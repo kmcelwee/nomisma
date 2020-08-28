@@ -1,0 +1,100 @@
+{
+    "id": "coin-4796",
+    "title_display": "Coin: 4796",
+    "pub_created_display": [
+        "bronze, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 4796"
+    ],
+    "call_number_browse_s": [
+        "Coin 4796"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Notes: in adidition to BM 90/678, Levy cites E. Fox, \"The Duoviri of Corinth\" 7/9."
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "3.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4796\",\"call_number_browse\":\"Coin 4796\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -46,
+    "pub_date_end_sort": 69,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "2620"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Corinth, Achaea, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Poseidon"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend appears in wreath; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "COR"
+    ],
+    "issue_references_s": [
+        "BMC Corinth Corinthia 678"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6332c505cf4f7284"
+    ],
+    "_version_": 1667138240872710144,
+    "timestamp": "2020-05-19T16:48:42.219Z"
+}

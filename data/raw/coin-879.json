@@ -1,0 +1,86 @@
+{
+    "id": "coin-879",
+    "title_display": "Coin: 879",
+    "pub_created_display": [
+        "Hugh V (1305 to 1315), penny"
+    ],
+    "call_number_display": [
+        "Coin 879"
+    ],
+    "call_number_browse_s": [
+        "Coin 879"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 879\",\"call_number_browse\":\"Coin 879\"}}",
+    "pub_date_start_sort": 1305,
+    "pub_date_end_sort": 1315,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "361"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hugh V (1305 to 1315)"
+    ],
+    "issue_place_s": [
+        "Burgundy, France"
+    ],
+    "issue_state_s": [
+        "Burgundy"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Fragmented cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+VGODVXBVRG:DIE"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_legend_s": [
+        "+DIVIONENSIS"
+    ],
+    "issue_references_s": [
+        "Robert  4534",
+        "P.d'A.  5677"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "92b58cc80b4edafc"
+    ],
+    "_version_": 1667138205210640384,
+    "timestamp": "2020-05-19T16:48:08.210Z"
+}

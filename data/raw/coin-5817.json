@@ -1,0 +1,91 @@
+{
+    "id": "coin-5817",
+    "title_display": "Coin: 5817",
+    "pub_created_display": [
+        "25 pfennig"
+    ],
+    "call_number_display": [
+        "Coin 5817"
+    ],
+    "call_number_browse_s": [
+        "Coin 5817"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "4.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5817\",\"call_number_browse\":\"Coin 5817\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "25 pfennig"
+    ],
+    "issue_number_s": [
+        "3349"
+    ],
+    "issue_metal_s": [
+        "Nickel"
+    ],
+    "issue_workshop_s": [
+        "Berlin"
+    ],
+    "issue_place_s": [
+        "Germany"
+    ],
+    "issue_region_s": [
+        "Germany"
+    ],
+    "issue_obverse_figure_s": [
+        "Wheat sheaf"
+    ],
+    "issue_obverse_symbol_s": [
+        "A"
+    ],
+    "issue_obverse_legend_s": [
+        "25 PFENNIG"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Crowned imperial with shield on breast"
+    ],
+    "issue_reverse_legend_s": [
+        "DEUTSCHES REICH 1911"
+    ],
+    "issue_references_s": [
+        "Paproth p. 83 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "67a5c349eebda5dc"
+    ],
+    "_version_": 1667145459140919296,
+    "timestamp": "2020-05-19T18:58:52.677Z"
+}

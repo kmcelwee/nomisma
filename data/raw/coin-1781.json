@@ -1,0 +1,108 @@
+{
+    "id": "coin-1781",
+    "title_display": "Coin: 1781",
+    "pub_created_display": [
+        "Claudius (41 to 54), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1781"
+    ],
+    "call_number_browse_s": [
+        "Coin 1781"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "26.64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1781\",\"call_number_browse\":\"Coin 1781\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": 41,
+    "pub_date_end_sort": 45,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "1163"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CLAVDIVS DRVSVS GERMANICVS IMP"
+    ],
+    "issue_reverse_figure_s": [
+        "Claudius"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        " bare-headed; togate, seated r. on curule chair, holding out branch in r. hand and resting l. hand on lap; around the chair are scattered arms (spears, shields, cuirass, helmet, etc.)"
+    ],
+    "issue_reverse_legend_s": [
+        "TICLAVDIUS CAESAR AVG P M TR P IMP SC"
+    ],
+    "issue_references_s": [
+        "RIC.1. Claudius 78",
+        "BMC.1. Claudius 157",
+        "Sear  1896"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6b041f7769b11d33"
+    ],
+    "_version_": 1667138127079145472,
+    "timestamp": "2020-05-19T16:46:53.700Z"
+}

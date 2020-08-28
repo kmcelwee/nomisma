@@ -1,0 +1,107 @@
+{
+    "id": "coin-12114",
+    "title_display": "Coin: 12114",
+    "pub_created_display": [
+        "stater, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 12114"
+    ],
+    "call_number_browse_s": [
+        "Coin 12114"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Die flaw on obverse"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "8.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12114\",\"call_number_browse\":\"Coin 12114\"}}",
+    "donor_s": [
+        "David Magie"
+    ],
+    "pub_date_start_sort": -405,
+    "pub_date_end_sort": -345,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "stater"
+    ],
+    "issue_number_s": [
+        "8171"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Corinth, Corinthia, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Corinthia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_obverse_symbol_s": [
+        "coppa"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Athena"
+    ],
+    "issue_reverse_symbol_s": [
+        "astragalus"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Corinthian helmet"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u0391"
+    ],
+    "issue_references_s": [
+        "Cal. 1 400",
+        "Ravel 2 1039"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9206814b0d9558b8"
+    ],
+    "_version_": 1667138300590161920,
+    "timestamp": "2020-05-19T16:49:39.170Z"
+}

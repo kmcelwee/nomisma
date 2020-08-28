@@ -1,0 +1,111 @@
+{
+    "id": "coin-11311",
+    "title_display": "Coin: 11311",
+    "pub_created_display": [
+        "Constantine IX Monomachus (1042 to 1055), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 11311"
+    ],
+    "call_number_browse_s": [
+        "Coin 11311"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29.82"
+    ],
+    "weight_s": [
+        "7.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11311\",\"call_number_browse\":\"Coin 11311\"}}",
+    "pub_date_start_sort": 1042,
+    "pub_date_end_sort": 1050,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7473"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine IX Monomachus (1042 to 1055)"
+    ],
+    "issue_series_s": [
+        "Anonymous Folles, Class C, var. 35"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ standing"
+    ],
+    "issue_obverse_symbol_s": [
+        "Christ Antiphonetes"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Three-quarters length figures of Christ Antiphonetes (Type IVc) facing, bearded, with cross nimbus having pellet in each arm, wearing tunic and himation; r. hand raised in blessing in front of body; 1. holds book. In field IC XC."
+    ],
+    "issue_obverse_legend_s": [
+        "+EMMA NOVHA"
+    ],
+    "issue_obverse_attributes_s": [
+        "inscription, IC XC",
+        "nimbus cross, with one pellet in each arm",
+        "ornamentation on Gospel book, five pellets in book?"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "2 lines; text in angles of jeweled cross with pellet at eand of each arm."
+    ],
+    "issue_reverse_legend_s": [
+        "IC|XC/NI|KA"
+    ],
+    "issue_references_s": [
+        "DOC 3.2 C"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1a9aa37b2d336b01"
+    ],
+    "_version_": 1667144764924887041,
+    "timestamp": "2020-05-19T18:32:24.056Z"
+}

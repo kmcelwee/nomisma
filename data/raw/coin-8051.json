@@ -1,0 +1,120 @@
+{
+    "id": "coin-8051",
+    "title_display": "Coin: 8051",
+    "pub_created_display": [
+        "Constantine II, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8051"
+    ],
+    "call_number_browse_s": [
+        "Coin 8051"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/7/1937"
+    ],
+    "find_feature_s": [
+        "Dig I"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca795"
+    ],
+    "find_description_s": [
+        "Under Level  III to 5M.room2. Under Byz. Pavement"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8051\",\"call_number_browse\":\"Coin 8051\"}}",
+    "pub_date_start_sort": 330,
+    "pub_date_end_sort": 333,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5083"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust r., laur., cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVSIVNNOBC"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers with two standards"
+    ],
+    "issue_reverse_legend_s": [
+        "GLORIAEXERCITVS | ANT"
+    ],
+    "issue_references_s": [
+        "Waage p.124 1513",
+        "Numismatique Constantinienne III,p.210 I,2",
+        "RIC.7 p.693 87"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e7bd7703a6dee98a"
+    ],
+    "_version_": 1667144973842120704,
+    "timestamp": "2020-05-19T18:35:43.281Z"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "coin-5642",
+    "title_display": "Coin: 5642",
+    "pub_created_display": [
+        "stater, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5642"
+    ],
+    "call_number_browse_s": [
+        "Coin 5642"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "6.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5642\",\"call_number_browse\":\"Coin 5642\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -281,
+    "pub_date_end_sort": -228,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "stater"
+    ],
+    "issue_number_s": [
+        "3209"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Head of satyra"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "hair bound with diadem, wearing three-drop earring and necklace"
+    ],
+    "issue_reverse_figure_s": [
+        "Horseman"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naked boy rider crowning horse, downward-facing dolphin with below a rhyton ending in head and forelegs of a goat"
+    ],
+    "issue_reverse_legend_s": [
+        "TA"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  1032-4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ea2ef798b89aa6a3"
+    ],
+    "_version_": 1667138389884796928,
+    "timestamp": "2020-05-19T16:51:04.329Z"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "coin-93",
+    "title_display": "Coin: 93",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 40 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 93"
+    ],
+    "call_number_browse_s": [
+        "Coin 93"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/6/1932"
+    ],
+    "find_feature_s": [
+        "NW wall"
+    ],
+    "find_locus_s": [
+        "11-M"
+    ],
+    "find_number_s": [
+        "344 (C205)"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "16.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 93\",\"call_number_browse\":\"Coin 93\"}}",
+    "pub_date_start_sort": 512,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0391"
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, above",
+        "cross, to left and right"
+    ],
+    "issue_references_s": [
+        " Anastasius 57A",
+        " Anastasius 45v.",
+        "BMC.Byz. Anastasius 67v.",
+        "Sear  47"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f6d2a6fe8eedc99f"
+    ],
+    "_version_": 1674171339128176640,
+    "timestamp": "2020-08-05T07:56:47.388Z"
+}

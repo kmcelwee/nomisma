@@ -1,0 +1,98 @@
+{
+    "id": "coin-11970",
+    "title_display": "Coin: 11970",
+    "pub_created_display": [
+        "Hadrian (117 to 138), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11970"
+    ],
+    "call_number_browse_s": [
+        "Coin 11970"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "25.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11970\",\"call_number_browse\":\"Coin 11970\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 134,
+    "pub_date_end_sort": 138,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "8023"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVGVSTVSPP"
+    ],
+    "issue_reverse_figure_s": [
+        "Hilaritas"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing left"
+    ],
+    "issue_reverse_legend_s": [
+        "HILARI TAS P R  S C|COS III"
+    ],
+    "issue_references_s": [
+        "RIC 2 468 970b",
+        "BMC 446 1371"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d72138c99693785e"
+    ],
+    "_version_": 1667138336457752576,
+    "timestamp": "2020-05-19T16:50:13.376Z"
+}

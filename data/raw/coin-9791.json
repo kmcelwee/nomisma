@@ -1,0 +1,103 @@
+{
+    "id": "coin-9791",
+    "title_display": "Coin: 9791",
+    "pub_created_display": [
+        "Sigismondo Pandolfo Malatesta (1417 to 1468)"
+    ],
+    "call_number_display": [
+        "Coin 9791"
+    ],
+    "call_number_browse_s": [
+        "Coin 9791"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "84"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "213.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9791\",\"call_number_browse\":\"Coin 9791\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 1445,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6176"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Sigismondo Pandolfo Malatesta (1417 to 1468)"
+    ],
+    "issue_master_s": [
+        "Antonio di Puccio Pisano (Pisanello) (1395 to 1455)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "clean-shaven, wearing armor"
+    ],
+    "issue_obverse_legend_s": [
+        "SIGISMVNDVS PANDVLFVS DE MALATESTIS ARIMINI FANI D"
+    ],
+    "issue_reverse_figure_s": [
+        "Ruler"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in armor, heraldic rose tree on left, shield of arms to right"
+    ],
+    "issue_reverse_legend_s": [
+        "OPVS PISANI PICTORIS"
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  33"
+    ],
+    "issue_artists_s": [
+        "Antonio di Puccio Pisano (Pisanello), OPVS PISANI PICTORIS"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "12411dc7e0d2c177"
+    ],
+    "_version_": 1667138138264305664,
+    "timestamp": "2020-05-19T16:47:04.364Z"
+}

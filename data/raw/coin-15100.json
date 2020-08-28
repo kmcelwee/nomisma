@@ -1,0 +1,95 @@
+{
+    "id": "coin-15100",
+    "title_display": "Coin: 15100",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denaurius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15100"
+    ],
+    "call_number_browse_s": [
+        "Coin 15100"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15100\",\"call_number_browse\":\"Coin 15100\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaurius"
+    ],
+    "issue_number_s": [
+        "9264"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS-AVG PIVS P P."
+    ],
+    "issue_reverse_figure_s": [
+        "Clasped hands with caduceus and two wheat-ears"
+    ],
+    "issue_reverse_legend_s": [
+        "COS-II TR P."
+    ],
+    "issue_references_s": [
+        "BMC.1 17 86-7",
+        "Strack  45"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "75f7e35af9f2700f"
+    ],
+    "_version_": 1667145397398667264,
+    "timestamp": "2020-05-19T18:45:27.843Z"
+}

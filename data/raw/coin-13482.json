@@ -1,0 +1,116 @@
+{
+    "id": "coin-13482",
+    "title_display": "Coin: 13482",
+    "pub_created_display": [
+        "Antiochus, son of Seleucus IV (-175 to -175), Tetradrachm, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 13482"
+    ],
+    "call_number_browse_s": [
+        "Coin 13482"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "15.3"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13482\",\"call_number_browse\":\"Coin 13482\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8694"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus, son of Seleucus IV (-175 to -175)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "as a child, with diadem, one diadem ends falling behind in fillet border"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_symbol_s": [
+        "tripod"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, in r. hand",
+        "grounded bow, in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L II, 38 1369"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "37977a15dd8533d0"
+    ],
+    "_version_": 1667138519230840832,
+    "timestamp": "2020-05-19T16:53:07.683Z"
+}

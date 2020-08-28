@@ -1,0 +1,113 @@
+{
+    "id": "coin-7591",
+    "title_display": "Coin: 7591",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 7591"
+    ],
+    "call_number_browse_s": [
+        "Coin 7591"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/11/1932"
+    ],
+    "find_locus_s": [
+        "S 9-N"
+    ],
+    "find_number_s": [
+        "1473"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "2.33"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7591\",\"call_number_browse\":\"Coin 7591\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 317,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4752"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C VAL LICIN LICINIVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter stg. l., chlamys across l. shoulder, Victory on globe in r. hand; at feet, eagle with wreath."
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONS-ERVATORI"
+    ],
+    "issue_references_s": [
+        "RIC, VII 601 13",
+        "Numismatique Constantinienne III. 27. I. 1."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d4718ac31a2faae3"
+    ],
+    "_version_": 1667138191629484032,
+    "timestamp": "2020-05-19T16:47:55.258Z"
+}

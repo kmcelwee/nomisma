@@ -1,0 +1,98 @@
+{
+    "id": "coin-5755",
+    "title_display": "Coin: 5755",
+    "pub_created_display": [
+        "quadrans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5755"
+    ],
+    "call_number_browse_s": [
+        "Coin 5755"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "41"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "66.66"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5755\",\"call_number_browse\":\"Coin 5755\"}}",
+    "pub_date_start_sort": -269,
+    "pub_date_end_sort": -266,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quadrans"
+    ],
+    "issue_number_s": [
+        "3291"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Hand"
+    ],
+    "issue_obverse_symbol_s": [
+        "3 dots"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Hand"
+    ],
+    "issue_reverse_symbol_s": [
+        "3 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_references_s": [
+        "Haeb. pl. 27 11-12",
+        "RRC 21 4",
+        "Syd.  34",
+        "ICC  19",
+        "Sear  549"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e198375ce1e5b3ac"
+    ],
+    "_version_": 1667138386565005312,
+    "timestamp": "2020-05-19T16:51:01.164Z"
+}

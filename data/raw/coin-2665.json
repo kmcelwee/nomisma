@@ -1,0 +1,82 @@
+{
+    "id": "coin-2665",
+    "title_display": "Coin: 2665",
+    "pub_created_display": [
+        "denarius serratus"
+    ],
+    "call_number_display": [
+        "Coin 2665"
+    ],
+    "call_number_browse_s": [
+        "Coin 2665"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2665\",\"call_number_browse\":\"Coin 2665\"}}",
+    "pub_date_start_sort": -31,
+    "pub_date_end_sort": -29,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius serratus"
+    ],
+    "issue_number_s": [
+        "1682"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Asia, Roman Empire"
+    ],
+    "issue_state_s": [
+        "Asia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Victory"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Victory with hair knotted and fastened with ornament"
+    ],
+    "issue_reverse_figure_s": [
+        "Poseidon"
+    ],
+    "issue_reverse_figure_description_s": [
+        "foot on globe, holding apustre in right hand and scepter in left"
+    ],
+    "issue_reverse_legend_s": [
+        "CAESAR.DIVI.F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f8897c355685c560"
+    ],
+    "_version_": 1667138424536039424,
+    "timestamp": "2020-05-19T16:51:37.375Z"
+}

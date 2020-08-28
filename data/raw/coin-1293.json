@@ -1,0 +1,97 @@
+{
+    "id": "coin-1293",
+    "title_display": "Coin: 1293",
+    "pub_created_display": [
+        "diobol, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1293"
+    ],
+    "call_number_browse_s": [
+        "Coin 1293"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "2.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1293\",\"call_number_browse\":\"Coin 1293\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -317,
+    "pub_date_end_sort": -310,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "722"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_attributes_s": [
+        "wreath, Apollo wears a laurel wreath"
+    ],
+    "issue_reverse_figure_s": [
+        "Biga"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_attributes_s": [
+        "indeterminate object, in exergue"
+    ],
+    "issue_references_s": [
+        "Dewing  936v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c60283fd89cec46c"
+    ],
+    "_version_": 1667138209871560704,
+    "timestamp": "2020-05-19T16:48:12.655Z"
+}

@@ -1,0 +1,94 @@
+{
+    "id": "coin-8515",
+    "title_display": "Coin: 8515",
+    "pub_created_display": [
+        "Otto I of Greece (1833 to 1862)"
+    ],
+    "call_number_display": [
+        "Coin 8515"
+    ],
+    "call_number_browse_s": [
+        "Coin 8515"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "96.159"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8515\",\"call_number_browse\":\"Coin 8515\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "5363"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Otto I of Greece (1833 to 1862)"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Britannia"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with shield, helmet,  and inscribed talbet, with statue of Poseidon behind, also facing l."
+    ],
+    "issue_obverse_legend_s": [
+        "MDCCCXVII; in exergue,  ENGLAND GIVES A CONSTITUTION TO"
+    ],
+    "issue_reverse_figure_s": [
+        "Seven women"
+    ],
+    "issue_reverse_part_s": [
+        "clasped hands"
+    ],
+    "issue_reverse_figure_description_s": [
+        "dancing around the flag of Great Britain"
+    ],
+    "issue_reverse_legend_s": [
+        "in exergue - THE IONIAN ISLANDS ; below, MUDIE D. , DEPAULIS A."
+    ],
+    "issue_artists_s": [
+        "A.J. DePaulis"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "73878fc946f4a7bd"
+    ],
+    "_version_": 1667144974348582912,
+    "timestamp": "2020-05-19T18:41:22.985Z"
+}

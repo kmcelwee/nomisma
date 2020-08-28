@@ -1,0 +1,97 @@
+{
+    "id": "coin-8833",
+    "title_display": "Coin: 8833",
+    "pub_created_display": [
+        "Ferdinand II de Medici (1620 to 1670), teston"
+    ],
+    "call_number_display": [
+        "Coin 8833"
+    ],
+    "call_number_browse_s": [
+        "Coin 8833"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "8.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8833\",\"call_number_browse\":\"Coin 8833\"}}",
+    "pub_date_start_sort": 1620,
+    "pub_date_end_sort": 1670,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "teston"
+    ],
+    "issue_number_s": [
+        "5629"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ferdinand II de Medici (1620 to 1670)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Ferdinand II de Medici"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Ferdinand II de Medici facing right"
+    ],
+    "issue_obverse_legend_s": [
+        ".FERD.II.MAGN.DVX.ETR.V"
+    ],
+    "issue_reverse_figure_s": [
+        "St. John"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated St. John in the act of preaching; l.hand holding long cross; r.hand raised."
+    ],
+    "issue_reverse_legend_s": [
+        ".S.IOANNES. .BAPTISTA."
+    ],
+    "issue_references_s": [
+        "Signorie e Principati: monete italiane con ritratto, 1450-1796 II, 371 7"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dce550c8fb8bd4d3"
+    ],
+    "_version_": 1667138153370091520,
+    "timestamp": "2020-05-19T16:47:18.781Z"
+}

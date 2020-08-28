@@ -1,0 +1,97 @@
+{
+    "id": "coin-6851",
+    "title_display": "Coin: 6851",
+    "pub_created_display": [
+        "Francis II, 20 kreuzer"
+    ],
+    "call_number_display": [
+        "Coin 6851"
+    ],
+    "call_number_browse_s": [
+        "Coin 6851"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "6.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6851\",\"call_number_browse\":\"Coin 6851\"}}",
+    "pub_date_start_sort": 1792,
+    "pub_date_end_sort": 1835,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "20 kreuzer"
+    ],
+    "issue_number_s": [
+        "4259"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Francis II"
+    ],
+    "issue_place_s": [
+        "Austria, Europe"
+    ],
+    "issue_state_s": [
+        "Austria"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "within wreath"
+    ],
+    "issue_obverse_legend_s": [
+        "FRANC.II.D.G.R.I.S.A.GERM.HV.BO.REX"
+    ],
+    "issue_obverse_attributes_s": [
+        "B, under bust. Kremnitz mint"
+    ],
+    "issue_reverse_figure_s": [
+        "Double eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "crowned"
+    ],
+    "issue_reverse_legend_s": [
+        "ARCH.AVST.D.BVRG.LOTH.M.D.HET.1796"
+    ],
+    "issue_references_s": [
+        "Herinek 1740-1969, Francis II 632"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b67a9350c23977ff"
+    ],
+    "_version_": 1667138360610652160,
+    "timestamp": "2020-05-19T16:50:36.412Z"
+}

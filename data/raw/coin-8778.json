@@ -1,0 +1,111 @@
+{
+    "id": "coin-8778",
+    "title_display": "Coin: 8778",
+    "pub_created_display": [
+        "Nicephorus III (1078 to 1081), nomisma histamenon, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8778"
+    ],
+    "call_number_browse_s": [
+        "Coin 8778"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Concave"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "4.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8778\",\"call_number_browse\":\"Coin 8778\"}}",
+    "pub_date_start_sort": 1078,
+    "pub_date_end_sort": 1081,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "nomisma histamenon"
+    ],
+    "issue_number_s": [
+        "5580"
+    ],
+    "issue_metal_s": [
+        "Electrum"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Nicephorus III (1078 to 1081)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on square-backed throne; with nimbus; holding a book in his left hand; blessing with his right hand; double border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nicephorus standing on dais; holding scepter in right hand (X on its lower part), globe with cross in left hand (pear shaped figure below); double border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "+NIKH\u03a6\u0394\u0395C  TWPOTANIAT"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection Vol. 3, Part 2 - Nicephorus III 3b.1-16v",
+        "BMC Nicephorus III type 1.1-4v",
+        "BL Nicephorus III 56/Cp/AU/01-07v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "837707d0bf4177f0"
+    ],
+    "_version_": 1667138181687934976,
+    "timestamp": "2020-05-19T16:47:45.776Z"
+}

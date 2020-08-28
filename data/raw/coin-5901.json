@@ -1,0 +1,73 @@
+{
+    "id": "coin-5901",
+    "title_display": "Coin: 5901",
+    "pub_created_display": [
+        "TaiZong of Song \u592a\u5b97\uff08\u5b8b\uff09 (976 to 997), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5901"
+    ],
+    "call_number_browse_s": [
+        "Coin 5901"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u4e0a\u6708 (mark on the top of the reverse side)"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "3.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5901\",\"call_number_browse\":\"Coin 5901\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 976,
+    "pub_date_end_sort": 997,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3420"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "TaiZong of Song \u592a\u5b97\uff08\u5b8b\uff09 (976 to 997)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u592a\u5e73\u901a\u5b9d"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\u4e0a\u6708 (Mark on the top)"
+    ],
+    "issue_references_s": [
+        "Hartill 129 16.18"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3773338f16740899"
+    ],
+    "_version_": 1667138385235410944,
+    "timestamp": "2020-05-19T16:50:59.894Z"
+}

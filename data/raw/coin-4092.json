@@ -1,0 +1,112 @@
+{
+    "id": "coin-4092",
+    "title_display": "Coin: 4092",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4092"
+    ],
+    "call_number_browse_s": [
+        "Coin 4092"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17.9"
+    ],
+    "weight_s": [
+        "3.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4092\",\"call_number_browse\":\"Coin 4092\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -48,
+    "pub_date_end_sort": -48,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2349"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Hostilius Saserna"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Male figure"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded, draped; Gallic shield behind; border of dots"
+    ],
+    "issue_obverse_attributes_s": [
+        "shield, Gallic shield behind male bust"
+    ],
+    "issue_reverse_figure_s": [
+        "Biga"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "driven by charioteer with whip in l. hand, reins in r. hand; behind, warrior backwards holding shield in l. hand and spear in r. hand; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "L HOSTILIVS | SASERN"
+    ],
+    "issue_reverse_attributes_s": [
+        "shield, warrior in biga holds shield in l. hand",
+        "spear, warrior in biga throws spear with r. hand"
+    ],
+    "issue_references_s": [
+        "RRC  448/2a",
+        "Syd.  952",
+        "Sear  418"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5864166910188a53"
+    ],
+    "_version_": 1667138232432721920,
+    "timestamp": "2020-05-19T16:48:34.173Z"
+}

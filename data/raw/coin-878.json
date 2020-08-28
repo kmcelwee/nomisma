@@ -1,0 +1,89 @@
+{
+    "id": "coin-878",
+    "title_display": "Coin: 878",
+    "pub_created_display": [
+        "Richard I Lionheart (1169 to 1196), penny"
+    ],
+    "call_number_display": [
+        "Coin 878"
+    ],
+    "call_number_browse_s": [
+        "Coin 878"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "0.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 878\",\"call_number_browse\":\"Coin 878\"}}",
+    "pub_date_start_sort": 1189,
+    "pub_date_end_sort": 1199,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "360"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Richard I Lionheart (1169 to 1196)"
+    ],
+    "issue_place_s": [
+        "Poitou, France"
+    ],
+    "issue_state_s": [
+        "Poitou"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+RICARDVSREX"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, sideways S"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend on three lines"
+    ],
+    "issue_reverse_legend_s": [
+        "PIC/TAVIEN/SIS"
+    ],
+    "issue_references_s": [
+        "Robert  3887",
+        "P.d'A.  2536"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fea7ac39b1746a38"
+    ],
+    "_version_": 1667138452974469120,
+    "timestamp": "2020-05-19T16:52:04.496Z"
+}

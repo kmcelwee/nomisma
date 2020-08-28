@@ -1,0 +1,82 @@
+{
+    "id": "coin-10259",
+    "title_display": "Coin: 10259",
+    "call_number_display": [
+        "Coin 10259"
+    ],
+    "call_number_browse_s": [
+        "Coin 10259"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "34.346"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10259\",\"call_number_browse\":\"Coin 10259\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6504"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "John the Baptist"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "John the Baptist, facing left, in Roman style"
+    ],
+    "issue_obverse_legend_s": [
+        "S. IOANNES. APOSTOLVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "Flower"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Crucifixion legend inside wreath topped by flower"
+    ],
+    "issue_reverse_legend_s": [
+        "PASSVS.SVB.P\u00f4TIO.PILATO.CRV.MORTVVS.ET.SEPVLTVS.EST."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4bc8a5ea4f987016"
+    ],
+    "_version_": 1667138281380249600,
+    "timestamp": "2020-05-19T16:49:20.852Z"
+}

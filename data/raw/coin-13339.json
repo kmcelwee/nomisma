@@ -1,0 +1,100 @@
+{
+    "id": "coin-13339",
+    "title_display": "Coin: 13339",
+    "pub_created_display": [
+        "Artabanus II, chalkous, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 13339"
+    ],
+    "call_number_browse_s": [
+        "Coin 13339"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Very worn"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "11.93"
+    ],
+    "weight_s": [
+        "1.4"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13339\",\"call_number_browse\":\"Coin 13339\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8610"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Artabanus II"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long-square cut beard, straight hair, earing visible, wearing diadem with loop at the top"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing wreath, no border"
+    ],
+    "issue_references_s": [
+        "Sellwood  63.39"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d7e8456fb03fa4eb"
+    ],
+    "_version_": 1667138319144714240,
+    "timestamp": "2020-05-19T16:49:56.865Z"
+}

@@ -1,0 +1,116 @@
+{
+    "id": "coin-11778",
+    "title_display": "Coin: 11778",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 11778"
+    ],
+    "call_number_browse_s": [
+        "Coin 11778"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "The AVG part of the reverse has been destroyed, but easily identifiable wen compared. Minta Mark: SMANT\u0393"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/13/1937"
+    ],
+    "find_locus_s": [
+        "DH 28-0"
+    ],
+    "find_number_s": [
+        "Ca955"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "1.9"
+    ],
+    "weight_s": [
+        "2.21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11778\",\"call_number_browse\":\"Coin 11778\"}}",
+    "pub_date_start_sort": 327,
+    "pub_date_end_sort": 329,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4638"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rosette diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN-TINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN TIAE AVGG"
+    ],
+    "issue_references_s": [
+        "RIC 7 691.78",
+        "Cohen 7, 281 454"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b2084216feb1ca0a"
+    ],
+    "_version_": 1667138259371687936,
+    "timestamp": "2020-05-19T16:48:59.863Z"
+}

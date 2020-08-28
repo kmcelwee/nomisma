@@ -1,0 +1,91 @@
+{
+    "id": "coin-2632",
+    "title_display": "Coin: 2632",
+    "pub_created_display": [
+        "William II of Sicily (1166 to 1189), follaro, Palermo"
+    ],
+    "call_number_display": [
+        "Coin 2632"
+    ],
+    "call_number_browse_s": [
+        "Coin 2632"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2632\",\"call_number_browse\":\"Coin 2632\"}}",
+    "pub_date_start_sort": 1166,
+    "pub_date_end_sort": 1189,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follaro"
+    ],
+    "issue_number_s": [
+        "1653"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "William II of Sicily (1166 to 1189)"
+    ],
+    "issue_place_s": [
+        "Palermo, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Palermo"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_description_s": [
+        "inscr. in center and around"
+    ],
+    "issue_obverse_legend_s": [
+        "OPERATA IN VRGE MESSANE REX W"
+    ],
+    "issue_reverse_figure_s": [
+        "Kufic"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in center on three lines: al-malik Ghulyalim al-thani"
+    ],
+    "issue_reverse_legend_s": [
+        "duriba bi-amr al-mal'azzam al-musta'izz billah"
+    ],
+    "issue_references_s": [
+        "MEC 14  401"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "166272fd2e91f0ba"
+    ],
+    "_version_": 1667138423754850304,
+    "timestamp": "2020-05-19T16:51:36.631Z"
+}

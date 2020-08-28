@@ -1,0 +1,120 @@
+{
+    "id": "coin-8424",
+    "title_display": "Coin: 8424",
+    "pub_created_display": [
+        "large, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8424"
+    ],
+    "call_number_browse_s": [
+        "Coin 8424"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "For this issue, the flan is always too small for the type."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/03/1934"
+    ],
+    "find_locus_s": [
+        "DH 217"
+    ],
+    "find_number_s": [
+        "C3297"
+    ],
+    "find_description_s": [
+        "Sub room 8"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "5.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8424\",\"call_number_browse\":\"Coin 8424\"}}",
+    "pub_date_start_sort": -63,
+    "pub_date_end_sort": -62,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "large"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Pompeian"
+    ],
+    "issue_series_s": [
+        "municipal"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d \u03a4\u0397\u03a3 \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u039b\u0395\u03a9\u03a3 \u0394"
+    ],
+    "issue_reverse_attributes_s": [
+        "rudder, in r. hand",
+        "cornucopia, in l. hand"
+    ],
+    "issue_references_s": [
+        "Waage  268",
+        "From Vespasian to Domitian (AD 69\u201396)  4204"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8f88da2e8c312cb2"
+    ],
+    "_version_": 1671470344662155264,
+    "timestamp": "2020-07-06T12:25:38.342Z"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "coin-14025",
+    "title_display": "Coin: 14025",
+    "call_number_display": [
+        "Coin 14025"
+    ],
+    "call_number_browse_s": [
+        "Coin 14025"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "65"
+    ],
+    "weight_s": [
+        "48.66"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14025\",\"call_number_browse\":\"Coin 14025\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_number_s": [
+        "9048"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Star"
+    ],
+    "issue_color_s": [
+        "red, white, blue"
+    ],
+    "issue_obverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_obverse_figure_description_s": [
+        "pointed white enameled shield with the initials CND in blue below the arms of Cuba; outside the shields appear sporting symbols in relief on a blue field"
+    ],
+    "issue_obverse_legend_s": [
+        "REPUBLICA DE CUBA | ORDEN DEPORTIVA NACIONAL"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, on a red enameled band"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:242-44, 2:278-81 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9a68c4b7cf69078f"
+    ],
+    "_version_": 1667144699700314112,
+    "timestamp": "2020-05-19T18:31:21.838Z"
+}

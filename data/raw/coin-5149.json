@@ -1,0 +1,107 @@
+{
+    "id": "coin-5149",
+    "title_display": "Coin: 5149",
+    "pub_created_display": [
+        "sextans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5149"
+    ],
+    "call_number_browse_s": [
+        "Coin 5149"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Baldwin sale, 1926, $15"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "33"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "39.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5149\",\"call_number_browse\":\"Coin 5149\"}}",
+    "pub_date_start_sort": -225,
+    "pub_date_end_sort": -217,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sextans"
+    ],
+    "issue_number_s": [
+        "2849"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Mercury"
+    ],
+    "issue_obverse_symbol_s": [
+        "2 dots"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "In winged petasus"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_symbol_s": [
+        "2 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_references_s": [
+        "Haeb. pl. 18 10-21",
+        "RRC 35 5",
+        "Syd.  76",
+        "ICC  55",
+        "Sear  587"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "896abeece446d240"
+    ],
+    "_version_": 1667138245340692480,
+    "timestamp": "2020-05-19T16:48:46.480Z"
+}

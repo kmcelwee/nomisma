@@ -1,0 +1,103 @@
+{
+    "id": "coin-6813",
+    "title_display": "Coin: 6813",
+    "pub_created_display": [
+        "Tigranes II (-95 to -56), 4 chalci, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 6813"
+    ],
+    "call_number_browse_s": [
+        "Coin 6813"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "4.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6813\",\"call_number_browse\":\"Coin 6813\"}}",
+    "pub_date_start_sort": -95,
+    "pub_date_end_sort": -56,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "4 chalci"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tigranes II (-95 to -56)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Syria, Armenia"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with Armenian tiara"
+    ],
+    "issue_reverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped, wearing turreted crown, holding palm branch, river-god Orontes swimming at her feet"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9N \u03a4\u0399\u0393\u03a1\u0391\u039d\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "A, right, below palm",
+        "T, left of palm, above arm of Tyche"
+    ],
+    "issue_references_s": [
+        "Bed.  95",
+        "Nercessian  050",
+        "M&D  85"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e6fedb393c04e8d6"
+    ],
+    "_version_": 1673557398846963712,
+    "timestamp": "2020-07-29T13:18:28.312Z"
+}

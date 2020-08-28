@@ -1,0 +1,112 @@
+{
+    "id": "coin-2693",
+    "title_display": "Coin: 2693",
+    "pub_created_display": [
+        "John Eager Howard (1752 to 1827)"
+    ],
+    "call_number_display": [
+        "Coin 2693"
+    ],
+    "call_number_browse_s": [
+        "Coin 2693"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Lead cast bronzed post-1880 Paris Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "46"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2693\",\"call_number_browse\":\"Coin 2693\"}}",
+    "pub_date_start_sort": 1880,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1699"
+    ],
+    "issue_metal_s": [
+        "Lead"
+    ],
+    "issue_color_s": [
+        "bronzed"
+    ],
+    "issue_ruler_s": [
+        "John Eager Howard (1752 to 1827)"
+    ],
+    "issue_workshop_s": [
+        "Paris Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Howard"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on horseback charging to r.w. sword in raised arm, victory w. wreath and palm behind, standard-bearer running to r."
+    ],
+    "issue_obverse_legend_s": [
+        "JOH.EGAR.HOWARD LEGIONIS PEDITUM PRAEFECTO|COMITIA AMERICANA"
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 1"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "laurel wreath, ribbon ties at top and bottom"
+    ],
+    "issue_reverse_legend_s": [
+        "QUOD| IN NUTANTEM HOSTIUM ACIEM| SUBITO IRRUENS|PRAECLARUM BELLICAE VIRTUTIS| SPECIMEN DEDIT| IN PUGNA AD COWPENS| XVII.JAN.MDCCLXXXI"
+    ],
+    "issue_reverse_attributes_s": [
+        "die, A"
+    ],
+    "issue_references_s": [
+        "Betts  595",
+        "Julian  MI-9",
+        "Stahl, Comitia Americana  83",
+        "Adams  145-152"
+    ],
+    "issue_artists_s": [
+        "Pierre Simon Benjamin Duvivier, DU VIV."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b113ce03df45ff39"
+    ],
+    "_version_": 1667138222979809280,
+    "timestamp": "2020-05-19T16:48:25.158Z"
+}

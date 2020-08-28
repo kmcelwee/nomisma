@@ -1,0 +1,101 @@
+{
+    "id": "coin-5991",
+    "title_display": "Coin: 5991",
+    "pub_created_display": [
+        "Philip V (1700 to 1746), 2 reales"
+    ],
+    "call_number_display": [
+        "Coin 5991"
+    ],
+    "call_number_browse_s": [
+        "Coin 5991"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "5.96"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5991\",\"call_number_browse\":\"Coin 5991\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 reales"
+    ],
+    "issue_number_s": [
+        "3470"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip V (1700 to 1746)"
+    ],
+    "issue_master_s": [
+        "M"
+    ],
+    "issue_workshop_s": [
+        "Segovia"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_symbol_s": [
+        "\"aqueduct\"[lis] F[lis]"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standard crowned shield of Castille and Leon with the shield of Bourbon in the middle"
+    ],
+    "issue_obverse_legend_s": [
+        "[lis]PHILIPPUS[lis]V[lis]D[lis]G[lis]"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Castille and Leon"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in wavy circle"
+    ],
+    "issue_reverse_legend_s": [
+        "1721[lis]HISPANIARUM[lis]REX[lis]"
+    ],
+    "issue_references_s": [
+        "Heiss Vol I, Lim. 48 50",
+        "Cast\u00e1n y Cay\u00f3n  7879"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ca19565a3e7a822d"
+    ],
+    "_version_": 1667138382301495296,
+    "timestamp": "2020-05-19T16:50:57.097Z"
+}

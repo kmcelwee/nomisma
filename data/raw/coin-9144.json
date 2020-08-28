@@ -1,0 +1,125 @@
+{
+    "id": "coin-9144",
+    "title_display": "Coin: 9144",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 9144"
+    ],
+    "call_number_browse_s": [
+        "Coin 9144"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "May 7, 1937"
+    ],
+    "find_feature_s": [
+        "Dig I Level III"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca798"
+    ],
+    "find_description_s": [
+        "Dig I Level III to 5 M. Basket D."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "4.45"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9144\",\"call_number_browse\":\"Coin 9144\"}}",
+    "pub_date_start_sort": 307,
+    "pub_date_end_sort": 313,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5818"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurel"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C VAL LIC LICINNIVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "H over branch"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Genius standing left, modius on head, naked but for chlamys over l. shoulder, r. holding head of Serapis, l. cournucopiae"
+    ],
+    "issue_reverse_legend_s": [
+        "GENIO-AVGVSTI"
+    ],
+    "issue_references_s": [
+        "RIC 7 685.157a",
+        "Cohen 7 192.33"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "163fdc76b361c3d4"
+    ],
+    "_version_": 1667138272941309952,
+    "timestamp": "2020-05-19T16:49:12.801Z"
+}

@@ -1,0 +1,116 @@
+{
+    "id": "coin-7599",
+    "title_display": "Coin: 7599",
+    "pub_created_display": [
+        "Marcian (450 to 457), aes IV, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7599"
+    ],
+    "call_number_browse_s": [
+        "Coin 7599"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Monogram, bust and legends partially obscured, so reference and die axis uncertain"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/9/1936"
+    ],
+    "find_feature_s": [
+        "Trench W. of room 1 from surface to 130cms depth"
+    ],
+    "find_locus_s": [
+        "26-0YP"
+    ],
+    "find_number_s": [
+        "C5986"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "0.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7599\",\"call_number_browse\":\"Coin 7599\"}}",
+    "pub_date_start_sort": 450,
+    "pub_date_end_sort": 457,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aes IV"
+    ],
+    "issue_number_s": [
+        "4782"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Marcian (450 to 457)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "D N MARCIANVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross or star within wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "[illegible]"
+    ],
+    "issue_references_s": [
+        "RIC X  545?",
+        "DOC  497?"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "300ef5b4a7c8e5ad"
+    ],
+    "_version_": 1667138189567983616,
+    "timestamp": "2020-05-19T16:47:53.291Z"
+}

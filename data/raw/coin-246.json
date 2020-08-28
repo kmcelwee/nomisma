@@ -1,0 +1,103 @@
+{
+    "id": "coin-246",
+    "title_display": "Coin: 246",
+    "pub_created_display": [
+        "Basil I the Macedonian (867 to 886), miliaresion, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 246"
+    ],
+    "call_number_browse_s": [
+        "Coin 246"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 246\",\"call_number_browse\":\"Coin 246\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 868,
+    "pub_date_end_sort": 879,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "miliaresion"
+    ],
+    "issue_number_s": [
+        "128"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Basil I the Macedonian (867 to 886)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_legend_s": [
+        "+bASI/LIOSC\u0404/CONS\u03a4A\u039d/\u03a4\u0399\u039d'PISTV/bASILIS/ROM\u0404O'"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, 6 lines",
+        "dots, three concentric circles around edge"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Cross potent on base and three steps"
+    ],
+    "issue_reverse_legend_s": [
+        "lhSYSXRI STYSNICA"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, on steps",
+        "dots, three concentric circles around edge",
+        "globe, below"
+    ],
+    "issue_references_s": [
+        "BMC.Byz. Basil 1 6",
+        "Sear  1708",
+        "DOC Basil 1 7",
+        "BN  34/Cp/AR/01"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "06ca136772c3f1c1"
+    ],
+    "_version_": 1667138447635120128,
+    "timestamp": "2020-05-19T16:51:59.405Z"
+}

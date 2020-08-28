@@ -1,0 +1,103 @@
+{
+    "id": "coin-10860",
+    "title_display": "Coin: 10860",
+    "pub_created_display": [
+        "Ardashir II, Drachm, Ohrmazd-Ardashir"
+    ],
+    "call_number_display": [
+        "Coin 10860"
+    ],
+    "call_number_browse_s": [
+        "Coin 10860"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Slightly broken rim; obv./rev. blind spot, slightly double struck"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "4.07"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10860\",\"call_number_browse\":\"Coin 10860\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 379,
+    "pub_date_end_sort": 383,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7021"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ardashir II"
+    ],
+    "issue_series_s": [
+        " Mint III = AW"
+    ],
+    "issue_place_s": [
+        "Ohrmazd-Ardashir, Khuzistan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Ohrmazd-Ardashir"
+    ],
+    "issue_state_s": [
+        "Khuzistan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Ardashir II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, one broad diadem ribbons commencing below ball of hair, pointing upwards, upper part horizontally ribbed; earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border; symbol above diadem ribbon (SNS 3, var. 1a)"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o.  mzdysn bgy 'rth\u0161tr-MRKAn MRKA 'ry'n W 'nyr'n MNW ctry MN yzd'n| mazd\u0113sn bay Arda\u0161ir  \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n ud An\u0113r\u0101n k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Ardashir, King of Kings of the Iranians and non-Iranians, whose seed (image|splendour) is from the gods\";"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; to the left and right of the shaft ribbons pointing downwards, three altar plates; altar flames, depicted by several lines in triangular form; to the left and right of altar attendant with stylized crown of Ardashir II, holding a barson with both hands, both figures facing inwards; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend; symbol on altar shaft; A-W (right and left of altarflames)"
+    ],
+    "issue_references_s": [
+        "SNS 3  Mint III = AW Type Id/1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1fa6ac4db3ecaaed"
+    ],
+    "_version_": 1667138286883176448,
+    "timestamp": "2020-05-19T16:49:26.101Z"
+}

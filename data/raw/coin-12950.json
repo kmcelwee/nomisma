@@ -1,0 +1,104 @@
+{
+    "id": "coin-12950",
+    "title_display": "Coin: 12950",
+    "pub_created_display": [
+        "Parthamaspates, Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12950"
+    ],
+    "call_number_browse_s": [
+        "Coin 12950"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "55% Ag, 0.44 mg Au, 100 mg"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21.67"
+    ],
+    "weight_s": [
+        "3.84"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12950\",\"call_number_browse\":\"Coin 12950\"}}",
+    "pub_date_start_sort": 116,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8475"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Parthamaspates"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "short beard wearing tiara with star in center and ear flaps; diadem with loop at the top and two wide end,earring visible"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, holding bow, archer's seat represented as horizontal line"
+    ],
+    "issue_reverse_legend_s": [
+        "blundered Greek legend"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8475.jpg, below bow"
+    ],
+    "issue_references_s": [
+        "Sellwood  81.1",
+        "Shore  423"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "be43f7ab8394d0b4"
+    ],
+    "_version_": 1667138339853041664,
+    "timestamp": "2020-05-19T16:50:16.615Z"
+}

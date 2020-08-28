@@ -1,0 +1,99 @@
+{
+    "id": "coin-15173",
+    "title_display": "Coin: 15173",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15173"
+    ],
+    "call_number_browse_s": [
+        "Coin 15173"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "7.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15173\",\"call_number_browse\":\"Coin 15173\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 140,
+    "pub_date_end_sort": 143,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "9330"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS-AVG PIVS P P"
+    ],
+    "issue_reverse_figure_s": [
+        "Dr. female figure standing, head l., with branch and cornucopiae (Pax)"
+    ],
+    "issue_reverse_legend_s": [
+        "S-C; [TR] POT-COS II"
+    ],
+    "issue_references_s": [
+        "BMC.1 184 after 1164",
+        "RIC 103 567",
+        "Strack 808 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f5a3f971f2000c92"
+    ],
+    "_version_": 1667144764680568832,
+    "timestamp": "2020-05-19T18:32:23.883Z"
+}

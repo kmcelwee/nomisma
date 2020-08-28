@@ -1,0 +1,91 @@
+{
+    "id": "coin-5632",
+    "title_display": "Coin: 5632",
+    "pub_created_display": [
+        "Julio-Claudian (-27 to 68), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 5632"
+    ],
+    "call_number_browse_s": [
+        "Coin 5632"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Fragment, half coin.  Size: 19 mm. Weight: 2.75 g.  Die axis indeterminate.  Both obverse and reverse are totally obliterated. Coin identified as Julio-Claudian based on characteristic lamination."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/09/1938"
+    ],
+    "find_feature_s": [
+        "Dump"
+    ],
+    "find_locus_s": [
+        "18-O"
+    ],
+    "find_number_s": [
+        "Cb3838"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5632\",\"call_number_browse\":\"Coin 5632\"}}",
+    "pub_date_start_sort": 27,
+    "pub_date_end_sort": 68,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "3039"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Julio-Claudian (-27 to 68)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_figure_description_s": [
+        "obscure head, of a generic Julio Claudian type"
+    ],
+    "issue_reverse_figure_description_s": [
+        "none (see notes)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c4f45ef89fabe8b4"
+    ],
+    "_version_": 1667138386590171136,
+    "timestamp": "2020-05-19T16:51:01.188Z"
+}

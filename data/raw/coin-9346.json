@@ -1,0 +1,88 @@
+{
+    "id": "coin-9346",
+    "title_display": "Coin: 9346",
+    "pub_created_display": [
+        "`Ali al-Zahir li-I`zaz Din Allah (1021 to 1036), double dirham"
+    ],
+    "call_number_display": [
+        "Coin 9346"
+    ],
+    "call_number_browse_s": [
+        "Coin 9346"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "5.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9346\",\"call_number_browse\":\"Coin 9346\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 1021,
+    "pub_date_end_sort": 1036,
+    "issue_object_type_s": [
+        "token"
+    ],
+    "issue_denomination_s": [
+        "double dirham"
+    ],
+    "issue_number_s": [
+        "5966"
+    ],
+    "issue_metal_s": [
+        "Glass"
+    ],
+    "issue_color_s": [
+        "green"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "`Ali al-Zahir li-I`zaz Din Allah (1021 to 1036)"
+    ],
+    "issue_place_s": [
+        "Misr , Egypt"
+    ],
+    "issue_state_s": [
+        "Misr "
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Three lines, circular border"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Three lines"
+    ],
+    "issue_references_s": [
+        "The Fatimid Glass Jeton  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2e3cc0759bfea2c3"
+    ],
+    "_version_": 1667144890258030592,
+    "timestamp": "2020-05-19T18:35:39.752Z"
+}

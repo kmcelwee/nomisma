@@ -1,0 +1,81 @@
+{
+    "id": "coin-5189",
+    "title_display": "Coin: 5189",
+    "pub_created_display": [
+        "Chong Zhen \u5d07\u796f (Zhu You Jian \u6731\u7531\u6aa2) (1627 to 1644), 5 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5189"
+    ],
+    "call_number_browse_s": [
+        "Coin 5189"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Gong Wu right and left.Board of Works mint. Wu Note: \u5de5\u4e94"
+    ],
+    "size_s": [
+        "32.1"
+    ],
+    "weight_s": [
+        "134.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5189\",\"call_number_browse\":\"Coin 5189\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 Cash"
+    ],
+    "issue_number_s": [
+        "2880"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Chong Zhen \u5d07\u796f (Zhu You Jian \u6731\u7531\u6aa2) (1627 to 1644)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5d07\u798e\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u5de5\u4e94"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 233 835",
+        "Hartill 261 20.330",
+        "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 304 2nd Column 2nd Coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1b6e87a8a9b3da0f"
+    ],
+    "_version_": 1667138245925797888,
+    "timestamp": "2020-05-19T16:48:47.037Z"
+}

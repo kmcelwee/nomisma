@@ -1,0 +1,107 @@
+{
+    "id": "coin-1086",
+    "title_display": "Coin: 1086",
+    "pub_created_display": [
+        "Philip III Arrhidaeus (-323 to -317), Drachm, Sardis"
+    ],
+    "call_number_display": [
+        "Coin 1086"
+    ],
+    "call_number_browse_s": [
+        "Coin 1086"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1086\",\"call_number_browse\":\"Coin 1086\"}}",
+    "donor_s": [
+        "McClean"
+    ],
+    "pub_date_start_sort": -323,
+    "pub_date_end_sort": -319,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip III Arrhidaeus (-323 to -317)"
+    ],
+    "issue_place_s": [
+        "Sardis, Lydia, Asia"
+    ],
+    "issue_city_s": [
+        "Sardis"
+    ],
+    "issue_state_s": [
+        "Lydia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lion skin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, legs crossed, eagle in l. hand, sceptre in r. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "rose, in l. field",
+        "m32, under throne"
+    ],
+    "issue_references_s": [
+        "Price  P106"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4dea25556eb82ed2"
+    ],
+    "_version_": 1673105493199945728,
+    "timestamp": "2020-07-24T13:35:37.503Z"
+}

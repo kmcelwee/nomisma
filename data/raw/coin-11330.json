@@ -1,0 +1,98 @@
+{
+    "id": "coin-11330",
+    "title_display": "Coin: 11330",
+    "pub_created_display": [
+        "Wahram II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11330"
+    ],
+    "call_number_browse_s": [
+        "Coin 11330"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "86.3% Ag; 0.52 Au; 100 mg Ag"
+    ],
+    "notes_display": [
+        "Hole at 3 h; Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "4.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11330\",\"call_number_browse\":\"Coin 11330\"}}",
+    "pub_date_start_sort": 276,
+    "pub_date_end_sort": 293,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7497"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Wahram II"
+    ],
+    "issue_series_s": [
+        "Style A Type VIIa(1)/5a (1a)"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Wahram II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap; terminating in an eagle's wing at the back; covered korymbos; plain diadem, diadem ribbons commencing above ball of hair pointing upwards; earing consisting of two elements; tunica, neck-line edged with double row of pearls; jugate bust of Wahram's wife with right profile on a frontal bust; crown cap adorned with boar's head; plain diadem surmounted by row of pearls; opposite the two busts small bust with left profile on frontal bust; crown cap adorned with eagle's head; pearl diadem, pendent diadem ribbon; holding in left hand diadem wreath ending one long, ribbed ribbon; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy wrhr'n MRKAn MRKA ['yr'n: miss-spelt] [W 'nyr'n] MNW ctry MN yzd'n]| mazd\u0113sn bay Wahr\u0101m \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n [ud An\u0113r\u0101n] k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Wahram, King of Kings of the Iranians [and non-Iranians], whose seed (image| splendour) is from the gods\"; legend misspelt"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; altar ribbon across shaft, to the left and the right of the shaft ribbons pointing downwards; four altar slabs; altar flames depicted with parallel strokes; to the left of the altar attendant with stylized crown of Wahram II, right hand extended towards Anahita, left hand resting on scabbard, to the right of the altar attendant with stylized crown of Anahita holding lance in right hand, left hand resting on scabbard, to the right of the altar attendant with stylized crown of Anahita, handing over diadem wreath to Wahram II; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "3 h l. i. NW[R]A ZY, unclear legend; 9 h l. o. wrh[r]'n| \u0101dur \u012b wrhr'n|\u201cthe fire of Wahram\u201d; symbol to the left of altar flames (SNS 3, var.25), symbol to the right of altar flames (SNS 3, var.33)"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style A Type VIIa(1)/5a (1a)",
+        "De Morgan  Plate 51, no 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "686330bc53916651"
+    ],
+    "_version_": 1667138135044128768,
+    "timestamp": "2020-05-19T16:47:01.292Z"
+}

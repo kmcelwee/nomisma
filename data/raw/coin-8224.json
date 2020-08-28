@@ -1,0 +1,97 @@
+{
+    "id": "coin-8224",
+    "title_display": "Coin: 8224",
+    "pub_created_display": [
+        "unit, Obulco"
+    ],
+    "call_number_display": [
+        "Coin 8224"
+    ],
+    "call_number_browse_s": [
+        "Coin 8224"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "29.77"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8224\",\"call_number_browse\":\"Coin 8224\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -200,
+    "pub_date_end_sort": -175,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "5235"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Obulco, Hispania Ulterior, Hispania"
+    ],
+    "issue_city_s": [
+        "Obulco"
+    ],
+    "issue_state_s": [
+        "Hispania Ulterior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "female"
+    ],
+    "issue_obverse_legend_s": [
+        "OBVLCO"
+    ],
+    "issue_reverse_symbol_s": [
+        "plough"
+    ],
+    "issue_reverse_legend_s": [
+        "SITUBOLAI / URKAIL"
+    ],
+    "issue_reverse_attributes_s": [
+        "corn ear, in exergue"
+    ],
+    "issue_references_s": [
+        "CNH 342 8"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3e3c0d838a3c2a14"
+    ],
+    "_version_": 1667138263752638464,
+    "timestamp": "2020-05-19T16:49:04.041Z"
+}

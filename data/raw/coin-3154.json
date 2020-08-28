@@ -1,0 +1,88 @@
+{
+    "id": "coin-3154",
+    "title_display": "Coin: 3154",
+    "pub_created_display": [
+        "Qian Long \u4e7e\u9686 (1736 to 1796), Tai Yuan"
+    ],
+    "call_number_display": [
+        "Coin 3154"
+    ],
+    "call_number_browse_s": [
+        "Coin 3154"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "5.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3154\",\"call_number_browse\":\"Coin 3154\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1736,
+    "pub_date_end_sort": 1796,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1932"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Qian Long \u4e7e\u9686 (1736 to 1796)"
+    ],
+    "issue_workshop_s": [
+        "Shan Xi Official Jin Mint \u5c71\u897f\u5bf6\u6649\u5c40"
+    ],
+    "issue_series_s": [
+        "Series 3 \u6587 Coins"
+    ],
+    "issue_place_s": [
+        "Tai Yuan, Shan Xi, China"
+    ],
+    "issue_city_s": [
+        "Tai Yuan"
+    ],
+    "issue_state_s": [
+        "Shan Xi"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u4e7e\u9686\u901a\u5bf6"
+    ],
+    "issue_reverse_attributes_s": [
+        "c1, Manchurian Character- \u5bf6 (bao)",
+        "c28, Manchurian Character- \u6649 (jin)"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 381 1409",
+        "Coole 72 10A",
+        "Zhong Guo 333 3rd row, center"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e83ffc2d2b48c287"
+    ],
+    "_version_": 1667138434140995584,
+    "timestamp": "2020-05-19T16:51:46.537Z"
+}

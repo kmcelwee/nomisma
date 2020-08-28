@@ -1,0 +1,111 @@
+{
+    "id": "coin-3497",
+    "title_display": "Coin: 3497",
+    "pub_created_display": [
+        "Anonymous 1120-1140, copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3497"
+    ],
+    "call_number_browse_s": [
+        "Coin 3497"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/25/1936"
+    ],
+    "find_feature_s": [
+        "surface"
+    ],
+    "find_locus_s": [
+        "9-V/W"
+    ],
+    "find_number_s": [
+        "c6624"
+    ],
+    "find_description_s": [
+        "West trench n. end"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.45"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3497\",\"call_number_browse\":\"Coin 3497\"}}",
+    "pub_date_start_sort": 1120,
+    "pub_date_end_sort": 1140,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_number_s": [
+        "2047"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Anonymous 1120-1140"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Castle"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Three towered castle with closed doors"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Horizontal legend with three dots above and below legend"
+    ],
+    "issue_reverse_legend_s": [
+        "AN / TIOC / HIA"
+    ],
+    "issue_references_s": [
+        "Schl. Pl. III 12",
+        "Ox. Pl. 18 463v",
+        "Malloy p. 203 13a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "589eaf6e1424c92d"
+    ],
+    "_version_": 1667138434784821248,
+    "timestamp": "2020-05-19T16:51:47.151Z"
+}

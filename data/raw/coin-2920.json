@@ -1,0 +1,93 @@
+{
+    "id": "coin-2920",
+    "title_display": "Coin: 2920",
+    "pub_created_display": [
+        "Kang Xi \u5eb7\u7199 (1662 to 1723), Bei Jing"
+    ],
+    "call_number_display": [
+        "Coin 2920"
+    ],
+    "call_number_browse_s": [
+        "Coin 2920"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note- \u55ae\u9ede\u901a\u5bf6\u6e90"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2920\",\"call_number_browse\":\"Coin 2920\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1662,
+    "pub_date_end_sort": 1723,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1826"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Kang Xi \u5eb7\u7199 (1662 to 1723)"
+    ],
+    "issue_workshop_s": [
+        "Board of Public Works Official Mint \uff08\u5de5\u90e8\u5b9d\u6e90\u5c40\uff09"
+    ],
+    "issue_series_s": [
+        "Series 3 \u6587 Coins"
+    ],
+    "issue_place_s": [
+        "Bei Jing, Zhi Li (He Bei), China"
+    ],
+    "issue_city_s": [
+        "Bei Jing"
+    ],
+    "issue_state_s": [
+        "Zhi Li (He Bei)"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5eb7\u7199\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        " \u5bf6\u6e90"
+    ],
+    "issue_reverse_attributes_s": [
+        "c1, Manchurian Character- \u5bf6 (bao)",
+        "c6, Manchurian Character- \u6e90  (yuan)"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 323 1181",
+        "Coole 76 37K"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ed0ba0df73b1acac"
+    ],
+    "_version_": 1667138479140634624,
+    "timestamp": "2020-05-19T16:52:29.451Z"
+}

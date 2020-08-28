@@ -1,0 +1,86 @@
+{
+    "id": "coin-542",
+    "title_display": "Coin: 542",
+    "pub_created_display": [
+        "penny, Tours"
+    ],
+    "call_number_display": [
+        "Coin 542"
+    ],
+    "call_number_browse_s": [
+        "Coin 542"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 542\",\"call_number_browse\":\"Coin 542\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 1266,
+    "pub_date_end_sort": 1270,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "242"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tours, France"
+    ],
+    "issue_city_s": [
+        "Tours"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "SCSMARTINVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Doorway"
+    ],
+    "issue_reverse_legend_s": [
+        "+TVRONVSCIVI"
+    ],
+    "issue_references_s": [
+        "P.d'A. vol. 1 1646",
+        "Robert  4857"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f57ba3875473109a"
+    ],
+    "_version_": 1667138203331592192,
+    "timestamp": "2020-05-19T16:48:06.418Z"
+}

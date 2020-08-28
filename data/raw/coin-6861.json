@@ -1,0 +1,91 @@
+{
+    "id": "coin-6861",
+    "title_display": "Coin: 6861",
+    "pub_created_display": [
+        "Ferdinand I, taler"
+    ],
+    "call_number_display": [
+        "Coin 6861"
+    ],
+    "call_number_browse_s": [
+        "Coin 6861"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "39"
+    ],
+    "weight_s": [
+        "28.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6861\",\"call_number_browse\":\"Coin 6861\"}}",
+    "pub_date_start_sort": 1558,
+    "pub_date_end_sort": 1564,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "taler"
+    ],
+    "issue_number_s": [
+        "4269"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ferdinand I"
+    ],
+    "issue_place_s": [
+        "Austria, Europe"
+    ],
+    "issue_state_s": [
+        "Austria"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        ".FERDINAND:D:G:ARCHIDVX:AVSTRI\u00c6."
+    ],
+    "issue_reverse_figure_s": [
+        "Arms"
+    ],
+    "issue_reverse_orientation_s": [
+        "crowned"
+    ],
+    "issue_reverse_legend_s": [
+        "DVX.BVRGUNDIE-COMES.TIROLIS"
+    ],
+    "issue_references_s": [
+        "European Crowns, 1484-1500  8095"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2db2ec319b896291"
+    ],
+    "_version_": 1667138255504539648,
+    "timestamp": "2020-05-19T16:48:56.175Z"
+}

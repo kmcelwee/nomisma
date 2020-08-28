@@ -1,0 +1,91 @@
+{
+    "id": "coin-8660",
+    "title_display": "Coin: 8660",
+    "pub_created_display": [
+        "Giovanni Galeazzo Maria and Lodovico Maria Sforza (1481 to 1494), Grosso of 5 soldi"
+    ],
+    "call_number_display": [
+        "Coin 8660"
+    ],
+    "call_number_browse_s": [
+        "Coin 8660"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "2.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8660\",\"call_number_browse\":\"Coin 8660\"}}",
+    "pub_date_start_sort": 1481,
+    "pub_date_end_sort": 1494,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Grosso of 5 soldi"
+    ],
+    "issue_number_s": [
+        "5536"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Giovanni Galeazzo Maria and Lodovico Maria Sforza (1481 to 1494)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Helmet"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crest surmonted by dragon; below, tilted shield with snake"
+    ],
+    "issue_obverse_legend_s": [
+        "IOGZ,M,SF,VI CCO,DVX,MLI,SX,"
+    ],
+    "issue_reverse_figure_s": [
+        "Sextant"
+    ],
+    "issue_reverse_figure_description_s": [
+        "sextant with ribbons"
+    ],
+    "issue_reverse_legend_s": [
+        "(head) *LVVDOVICO*PATRVO*GVBNANTE"
+    ],
+    "issue_references_s": [
+        "CNI V, p.194 70"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f0f83eeb138b3bc0"
+    ],
+    "_version_": 1667138157733216256,
+    "timestamp": "2020-05-19T16:47:22.932Z"
+}

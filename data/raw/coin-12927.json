@@ -1,0 +1,101 @@
+{
+    "id": "coin-12927",
+    "title_display": "Coin: 12927",
+    "pub_created_display": [
+        "Vologases IV, Tetradrachm, Ctesiphon"
+    ],
+    "call_number_display": [
+        "Coin 12927"
+    ],
+    "call_number_browse_s": [
+        "Coin 12927"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "45% Ag, 0.53 mg Au, 100 mg, the Greek numeral E\u039e\u03a5 (465= AD153 )"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "12.09"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12927\",\"call_number_browse\":\"Coin 12927\"}}",
+    "pub_date_start_sort": 147,
+    "pub_date_end_sort": 191,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8464"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Vologases IV"
+    ],
+    "issue_place_s": [
+        "Ctesiphon, Seleucia on the Tigris, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Ctesiphon"
+    ],
+    "issue_state_s": [
+        "Seleucia on the Tigris"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long tapered beard with square cut end, wearing tiara with hooks on crest, horn on side and long, curved earflap, lock of hair representing royal wart on forehead; earring visible, \u0392 behind head, diadem with loop at top and four ends"
+    ],
+    "issue_reverse_figure_s": [
+        "King"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, Tyche standing right before him, giving him diadem and holding scepter, year above diadem"
+    ],
+    "issue_reverse_legend_s": [
+        "[B\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d \u0391\u03a1\u03a3\u0391\u039a\u039f\u03a5 \u039f\u039b\u0391\u0393\u0391\u03a3\u039f\u03a5 \u0394\u0399\u039a\u0391\u0399\u039f\u03a3 \u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03a5 \u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u039d\u039f\u03a3], Between the heads of Tyche and the king is the Greek numeral E\u039e\u03a5"
+    ],
+    "issue_references_s": [
+        "Sellwood  84.16",
+        "Shore  428"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c2d7abf2d0d17823"
+    ],
+    "_version_": 1667138313972088832,
+    "timestamp": "2020-05-19T16:49:51.932Z"
+}

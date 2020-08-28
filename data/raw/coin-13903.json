@@ -1,0 +1,98 @@
+{
+    "id": "coin-13903",
+    "title_display": "Coin: 13903",
+    "pub_created_display": [
+        "chalkous, Rhodes"
+    ],
+    "call_number_display": [
+        "Coin 13903"
+    ],
+    "call_number_browse_s": [
+        "Coin 13903"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "9"
+    ],
+    "weight_s": [
+        "0.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13903\",\"call_number_browse\":\"Coin 13903\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8938"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Rhodes, Islands off Caria, Greece"
+    ],
+    "issue_city_s": [
+        "Rhodes"
+    ],
+    "issue_state_s": [
+        "Islands off Caria"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Rose"
+    ],
+    "issue_obverse_orientation_s": [
+        "upright"
+    ],
+    "issue_obverse_legend_s": [
+        "\u03a1 \u039f"
+    ],
+    "issue_reverse_figure_s": [
+        "Rose"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bud r., letter in field left?"
+    ],
+    "issue_references_s": [
+        "BMC Caria  70",
+        "Coinage of Rhodes  317"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "27426226e3bc43d6"
+    ],
+    "_version_": 1667138329402933248,
+    "timestamp": "2020-05-19T16:50:06.649Z"
+}

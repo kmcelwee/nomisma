@@ -1,0 +1,85 @@
+{
+    "id": "coin-5319",
+    "title_display": "Coin: 5319",
+    "call_number_display": [
+        "Coin 5319"
+    ],
+    "call_number_browse_s": [
+        "Coin 5319"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[Cornucopia] BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "72"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "153.36"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5319\",\"call_number_browse\":\"Coin 5319\"}}",
+    "donor_s": [
+        "H.K. Twitchell"
+    ],
+    "pub_date_start_sort": 1915,
+    "pub_date_end_sort": 1915,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2973"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Rectangle with rounded top"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Man in  loincloth shielding a woman and child, broken sword in right hand. Tree on left, dog on right."
+    ],
+    "issue_obverse_legend_s": [
+        "HALTE L\u00c0! | LA DEFENSE DU FOYER | ANNO 1915"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Gun, swords and flag lay atop one another."
+    ],
+    "issue_reverse_legend_s": [
+        "SI VIS PACEM PARA BELLUM"
+    ],
+    "issue_artists_s": [
+        "Emile Andre Boisseau, E. BOISSEAU"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b68182f5e02a76be"
+    ],
+    "_version_": 1667138401722171392,
+    "timestamp": "2020-05-19T16:51:15.618Z"
+}

@@ -1,0 +1,106 @@
+{
+    "id": "coin-11809",
+    "title_display": "Coin: 11809",
+    "pub_created_display": [
+        "Michael VII (1071 to 1078), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 11809"
+    ],
+    "call_number_browse_s": [
+        "Coin 11809"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11809\",\"call_number_browse\":\"Coin 11809\"}}",
+    "pub_date_start_sort": 1075,
+    "pub_date_end_sort": 1080,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Michael VII (1071 to 1078)"
+    ],
+    "issue_series_s": [
+        "I.37"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ seated"
+    ],
+    "issue_obverse_symbol_s": [
+        "Christ with St. Andrew's cross in arm"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "No inscription; bust of Christ (Type VIIb) facing, having long, slightly forked beard and cross nimbus with one pellet in each arm of cross, wearing tunic and himation; r. hand blessing inwards in sling of cloak, 1. holds book with X on cover, from beneat"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "Figure, Christ with nimbus; X in arm, holding book."
+    ],
+    "issue_reverse_figure_s": [
+        "Latin Cross"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "No inscription; Latin cross with one large and two small pellets at intersection, and pellet with floral ornaments to 1. and r. at base. Above, crescents to 1. and r."
+    ],
+    "issue_reverse_attributes_s": [
+        "cross"
+    ],
+    "issue_references_s": [
+        "BL 3.2 I.37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "88b0eca6cc3a1b2f"
+    ],
+    "_version_": 1673453575783579648,
+    "timestamp": "2020-07-28T09:48:14.923Z"
+}

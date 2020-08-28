@@ -1,0 +1,103 @@
+{
+    "id": "coin-2758",
+    "title_display": "Coin: 2758",
+    "pub_created_display": [
+        "Thomas Truxtun (1755 to 1822)"
+    ],
+    "call_number_display": [
+        "Coin 2758"
+    ],
+    "call_number_browse_s": [
+        "Coin 2758"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "White metal post-1800 US Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2758\",\"call_number_browse\":\"Coin 2758\"}}",
+    "pub_date_start_sort": 1800,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1745"
+    ],
+    "issue_metal_s": [
+        "White metal"
+    ],
+    "issue_ruler_s": [
+        "Thomas Truxtun (1755 to 1822)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Historical Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust to l."
+    ],
+    "issue_reverse_figure_s": [
+        "Sailing ship"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naval battle scene with two ships. Large plain borders"
+    ],
+    "issue_reverse_legend_s": [
+        "BY VOTE OF CONGRESS| TO THOMAS TRUXTUN| 24 MAR. 1800"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  NA-2",
+        "Belden  ",
+        "Prucha  "
+    ],
+    "issue_artists_s": [
+        "Robert Scot"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b6e33f1b67a0ab81"
+    ],
+    "_version_": 1667138425680035840,
+    "timestamp": "2020-05-19T16:51:38.465Z"
+}

@@ -1,0 +1,70 @@
+{
+    "id": "coin-6348",
+    "title_display": "Coin: 6348",
+    "pub_created_display": [
+        "15 dollars"
+    ],
+    "call_number_display": [
+        "Coin 6348"
+    ],
+    "call_number_browse_s": [
+        "Coin 6348"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "63x93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6348\",\"call_number_browse\":\"Coin 6348\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "15 dollars"
+    ],
+    "issue_number_s": [
+        "3778"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "October 7, 1776"
+    ],
+    "issue_place_s": [
+        "Virginia, United States of America"
+    ],
+    "issue_state_s": [
+        "Virginia"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Virginia coat of arms"
+    ],
+    "issue_obverse_legend_s": [
+        "FIFTEEN SPANISH MILLED DOLLARS, or their Value in GOLD or SILVER, to be given in EXCHANGE for this Bill at the TREASURY of VIRGINIA, pursuant to ACT of ASSEMBLY passed Oct. 7, 1776. | SIC SEMPER TYRANNUS | FIFTEEN DOLLARS | XV DOL."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d2b80d984227c4de"
+    ],
+    "_version_": 1667138372126113792,
+    "timestamp": "2020-05-19T16:50:47.392Z"
+}

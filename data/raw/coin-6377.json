@@ -1,0 +1,101 @@
+{
+    "id": "coin-6377",
+    "title_display": "Coin: 6377",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6377"
+    ],
+    "call_number_browse_s": [
+        "Coin 6377"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 164, R:277. So worn that some details are obscured."
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "7.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6377\",\"call_number_browse\":\"Coin 6377\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -415,
+    "pub_date_end_sort": -390,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3809"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on jumping horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "L"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider's left hand holds the reins, right held back bent at an acute angle; L in front of rider's foot"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's left hand extended on a level, right hand casts spear"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  341",
+        "F-B  355"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "427df612455b2e22"
+    ],
+    "_version_": 1667138375785644032,
+    "timestamp": "2020-05-19T16:50:50.884Z"
+}

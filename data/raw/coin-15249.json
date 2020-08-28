@@ -1,0 +1,110 @@
+{
+    "id": "coin-15249",
+    "title_display": "Coin: 15249",
+    "pub_created_display": [
+        "Vitellius   (69 to 69), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15249"
+    ],
+    "call_number_browse_s": [
+        "Coin 15249"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15249\",\"call_number_browse\":\"Coin 15249\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 69,
+    "pub_date_end_sort": 69,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "9396"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Vitellius   (69 to 69)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laureate Head"
+    ],
+    "issue_obverse_part_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "of Vitellius"
+    ],
+    "issue_obverse_legend_s": [
+        "A VITELLIVS GERMAN IMP TR P."
+    ],
+    "issue_reverse_figure_s": [
+        "Dr. female figure"
+    ],
+    "issue_reverse_part_s": [
+        "standing facing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with pileus and long sceptre"
+    ],
+    "issue_reverse_legend_s": [
+        "LIBERTAS - RESTITVTA"
+    ],
+    "issue_references_s": [
+        "BMC.1 369 7",
+        "RIC 225 18"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "07a3f5f89804f2d7"
+    ],
+    "_version_": 1667145374171660288,
+    "timestamp": "2020-05-19T18:43:23.666Z"
+}

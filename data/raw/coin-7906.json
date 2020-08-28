@@ -1,0 +1,121 @@
+{
+    "id": "coin-7906",
+    "title_display": "Coin: 7906",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7906"
+    ],
+    "call_number_browse_s": [
+        "Coin 7906"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-4-1936"
+    ],
+    "find_locus_s": [
+        "13-R"
+    ],
+    "find_number_s": [
+        "C5911"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "4.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7906\",\"call_number_browse\":\"Coin 7906\"}}",
+    "pub_date_start_sort": 643,
+    "pub_date_end_sort": 644,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4963"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing, without beard, wearing crown with cross; holds long staff with chi-rho in r. hand, gl. cr. in l.; dot in field r."
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m"
+    ],
+    "issue_reverse_legend_s": [
+        "m, l. III between crosses, r. NEOU, \u0393 in ex., above [ANA]"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 164",
+        "DOC vol. 2, page 445 class 3, 62",
+        "BL vol. 3, page 345 type 3",
+        "Sear  1002"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "81872b097e72ea8a"
+    ],
+    "_version_": 1667138264048336896,
+    "timestamp": "2020-05-19T16:49:04.322Z"
+}

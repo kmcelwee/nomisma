@@ -1,0 +1,103 @@
+{
+    "id": "coin-8789",
+    "title_display": "Coin: 8789",
+    "pub_created_display": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399), dirham, Aleppo"
+    ],
+    "call_number_display": [
+        "Coin 8789"
+    ],
+    "call_number_browse_s": [
+        "Coin 8789"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Balog type 552b"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/23/1935"
+    ],
+    "find_feature_s": [
+        "SE Cemetery Tomb 5"
+    ],
+    "find_locus_s": [
+        "L-24"
+    ],
+    "find_number_s": [
+        "C8789"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8789\",\"call_number_browse\":\"Coin 8789\"}}",
+    "pub_date_start_sort": 1382,
+    "pub_date_end_sort": 1399,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "dirham"
+    ],
+    "issue_number_s": [
+        "5589"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "Uncertain"
+    ],
+    "issue_ruler_s": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399)"
+    ],
+    "issue_place_s": [
+        "Aleppo, Syria, Egypt"
+    ],
+    "issue_city_s": [
+        "Aleppo"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0636\u0631\u0628 \u0628\u062d\u0627\u0644\u0628 | \u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u0644\u0643 | \u0633\u064a\u0641 | \u0644\u0638\u0627\u0647\u0631 \u0627\u0644\u062f\u0646\u064a\u0627 \u0648 \u0627\u0644\u062f\u064a\u0646 | \u0627\u0628\u0648 \u0633\u0639\u064a\u062f \u0628\u0631\u0642\u0648\u0641 | \u062e\u0644\u062f"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0648 \u0633\u0628\u0639\u0645\u064a\u0629 | \u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 | \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 | \u0627\u0631\u0633\u0644\u0647 \u0628\u0627\u0644\u0647\u062f\u0649 \u0648 \u062f\u064a\u0646 | \u0633\u0646\u0629 \u0627\u0631\u0628\u0639 \u0648 \u062b\u0645\u0627\u0646\u064a\u0646"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  552"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fcdf4a2433037645"
+    ],
+    "_version_": 1667138153868165120,
+    "timestamp": "2020-05-19T16:47:19.245Z"
+}

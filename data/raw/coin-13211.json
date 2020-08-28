@@ -1,0 +1,103 @@
+{
+    "id": "coin-13211",
+    "title_display": "Coin: 13211",
+    "pub_created_display": [
+        "Antiochus III (-223 to -187), unit, Seleuceia ad Tigrim"
+    ],
+    "call_number_display": [
+        "Coin 13211"
+    ],
+    "call_number_browse_s": [
+        "Coin 13211"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "2.4"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13211\",\"call_number_browse\":\"Coin 13211\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -204,
+    "pub_date_end_sort": -197,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "8560"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus III (-223 to -187)"
+    ],
+    "issue_place_s": [
+        "Seleuceia ad Tigrim, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Seleuceia ad Tigrim"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with laurel in dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with holmos"
+    ],
+    "issue_reverse_legend_s": [
+        "BA\u03a3I\u039bE\u03a9\u03a3 l ANTIOXOY"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8560, outer left"
+    ],
+    "issue_references_s": [
+        "H & L I, 445 1188"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7aaa9823413cbd6f"
+    ],
+    "_version_": 1667138159626944512,
+    "timestamp": "2020-05-19T16:47:24.738Z"
+}

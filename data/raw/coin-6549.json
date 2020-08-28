@@ -1,0 +1,104 @@
+{
+    "id": "coin-6549",
+    "title_display": "Coin: 6549",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6549"
+    ],
+    "call_number_browse_s": [
+        "Coin 6549"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 385, R: 763"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "7.37"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6549\",\"call_number_browse\":\"Coin 6549\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -325,
+    "pub_date_end_sort": -281,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3964"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on rearing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "DAI"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider brandishes spear in right hand, on left arm shield with two spears beneath; DAI below horse's belly"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "PHILI"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "boy brandishes trident in right hand, on left arm shield (with a hippocamp on it, facing left); murex shell below to the right; PHI in upper left"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  594-6",
+        "F-B  992"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "73a5582cdfb50596"
+    ],
+    "_version_": 1667138253860372480,
+    "timestamp": "2020-05-19T16:48:54.607Z"
+}

@@ -1,0 +1,114 @@
+{
+    "id": "coin-11389",
+    "title_display": "Coin: 11389",
+    "pub_created_display": [
+        "Constantine V (741 to 775), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 11389"
+    ],
+    "call_number_browse_s": [
+        "Coin 11389"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse: no pellets at left end of line; 1 or 2 pellets at right end; N illegible"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11389\",\"call_number_browse\":\"Coin 11389\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 751,
+    "pub_date_end_sort": 769,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7550"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Constantine V (741 to 775)"
+    ],
+    "issue_workshop_s": [
+        "\u0391"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "2 busts"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constantine V bearded on left; Leo IV beardless on right; between heads, cross"
+    ],
+    "issue_obverse_legend_s": [
+        "no legend"
+    ],
+    "issue_reverse_figure_s": [
+        "Bust"
+    ],
+    "issue_reverse_symbol_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Leo III facing, with cross to right; under, horizontal line with little pellets on ends; under, M with X to left, N to right, A beneath"
+    ],
+    "issue_reverse_legend_s": [
+        "X M N"
+    ],
+    "issue_references_s": [
+        "DOC 306 11V",
+        "BN 470 2V",
+        "BMC.Byz. 382 23V"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "455fc19fe49e26b3"
+    ],
+    "_version_": 1667138293385396224,
+    "timestamp": "2020-05-19T16:49:32.301Z"
+}

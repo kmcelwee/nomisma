@@ -1,0 +1,106 @@
+{
+    "id": "coin-8922",
+    "title_display": "Coin: 8922",
+    "pub_created_display": [
+        "Orodes II (-57 to -38), Drachm, Nisa-Mithradatkart"
+    ],
+    "call_number_display": [
+        "Coin 8922"
+    ],
+    "call_number_browse_s": [
+        "Coin 8922"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Sellwood (1971, 1st edition) #47/19 (Mint Nisa), legend type i\u03b9\u03b9, Orodes II (c. 57-38BC)"
+    ],
+    "find_place_s": [
+        "Tabriz, Azerbaijan, Iran"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8922\",\"call_number_browse\":\"Coin 8922\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": -57,
+    "pub_date_end_sort": -38,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Orodes II (-57 to -38)"
+    ],
+    "issue_place_s": [
+        "Nisa-Mithradatkart, Parthia, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Nisa-Mithradatkart"
+    ],
+    "issue_state_s": [
+        "Parthia"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "crescent and star"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3|(remaining six words more or less illegible, random letters)"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8914, below bow, Shore (1993) Monogram #30"
+    ],
+    "issue_references_s": [
+        "Sellwood  47.9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "82264be8aaebc800"
+    ],
+    "_version_": 1672998154840047616,
+    "timestamp": "2020-07-23T09:09:31.666Z"
+}

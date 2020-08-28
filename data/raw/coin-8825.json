@@ -1,0 +1,94 @@
+{
+    "id": "coin-8825",
+    "title_display": "Coin: 8825",
+    "pub_created_display": [
+        "Cosimo I de Medici (1537 to 1574), julio, Florence"
+    ],
+    "call_number_display": [
+        "Coin 8825"
+    ],
+    "call_number_browse_s": [
+        "Coin 8825"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "28.5"
+    ],
+    "weight_s": [
+        "3.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8825\",\"call_number_browse\":\"Coin 8825\"}}",
+    "pub_date_start_sort": 1537,
+    "pub_date_end_sort": 1574,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "julio"
+    ],
+    "issue_number_s": [
+        "5621"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Cosimo I de Medici (1537 to 1574)"
+    ],
+    "issue_place_s": [
+        "Florence, Tuscany, Italy"
+    ],
+    "issue_city_s": [
+        "Florence"
+    ],
+    "issue_state_s": [
+        "Tuscany"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Medici coat of arms"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Crowned oval crest with 6 balls"
+    ],
+    "issue_obverse_legend_s": [
+        "COS.M.MAGNVS* *DVX.ETRVRIAE.1572."
+    ],
+    "issue_reverse_figure_s": [
+        "Two saints"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two standing saints are conversing; l.figure holds long cross with r.hand and points up w/ l.hand; r. figure holds book with r.hand;'DIVIS'"
+    ],
+    "issue_reverse_legend_s": [
+        "IOA.B.PRO .E.COS.CONS."
+    ],
+    "issue_references_s": [
+        "CNI XII, 282 304"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "62023b757f22bc4b"
+    ],
+    "_version_": 1667138153561980928,
+    "timestamp": "2020-05-19T16:47:18.954Z"
+}

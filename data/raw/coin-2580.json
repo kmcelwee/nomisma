@@ -1,0 +1,114 @@
+{
+    "id": "coin-2580",
+    "title_display": "Coin: 2580",
+    "pub_created_display": [
+        "Tancred (1101 to 1112), copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2580"
+    ],
+    "call_number_browse_s": [
+        "Coin 2580"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin also has object number 1430. Overstuck on issue 1621"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/10/1932"
+    ],
+    "find_locus_s": [
+        "k-21-se"
+    ],
+    "find_number_s": [
+        "c1150A"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "1.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2580\",\"call_number_browse\":\"Coin 2580\"}}",
+    "pub_date_start_sort": 1101,
+    "pub_date_end_sort": 1112,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tancred (1101 to 1112)"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of christ, nimbate, holding gospels"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "equal armed cross with scoll on bottom arm"
+    ],
+    "issue_reverse_legend_s": [
+        "TA NK P H"
+    ],
+    "issue_references_s": [
+        "Schl. pl. II 8",
+        "Ox. pl. 5 81",
+        "Malloy p. 199 5"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "73f12061b861a432"
+    ],
+    "_version_": 1674170712518033408,
+    "timestamp": "2020-08-05T07:46:49.808Z"
+}

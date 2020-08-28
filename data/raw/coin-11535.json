@@ -1,0 +1,104 @@
+{
+    "id": "coin-11535",
+    "title_display": "Coin: 11535",
+    "pub_created_display": [
+        "Wahram V, Drachm, Weh-Andiyok-Shapur"
+    ],
+    "call_number_display": [
+        "Coin 11535"
+    ],
+    "call_number_browse_s": [
+        "Coin 11535"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "91 % Ag"
+    ],
+    "notes_display": [
+        "Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak; Hole at 3h; Flan crack"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "3.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11535\",\"call_number_browse\":\"Coin 11535\"}}",
+    "pub_date_start_sort": 420,
+    "pub_date_end_sort": 438,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7673"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Wahram V"
+    ],
+    "issue_series_s": [
+        "WH Ib2/1, Var.5"
+    ],
+    "issue_place_s": [
+        "Weh-Andiyok-Shapur, Khuzistan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Weh-Andiyok-Shapur"
+    ],
+    "issue_state_s": [
+        "Khuzistan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Wahram V on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural element, in the middle a crescent on a pearl; covered korymbos; pearl diadem, diadem ribbons commencing below ball of hair, pointing upwards; earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running from the shoulders to the breast ornament (only upper part visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy wlhl'n MRKAn MRKA 'nyr'n W 'yr'n MNW ctry MN yzd'n| mazd\u0113sn bay W\u0101hram \u0161\u0101h\u0101n \u0161\u0101h  \u0112r\u0101n ud k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Wahram, King of Kings of the Iranians and non-Iranians, whose seeds/splendour is from the gods\", barbarized"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; on the shaft l\u2019st (r\u0101st, \u201cjust\u201d), to the left and right of the shaft ribbons pointing downwards, three altar slabs; in front of them bust with stylized crown of Wahram V to the right; alter flames depicted with vertical strokes; to the left and right of altar attendant with stylized crown of Wahram V, holding a barsom with both hands, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "9 h l.o. wlhl'n| W\u0101hram| Wahram, barbarized"
+    ],
+    "issue_references_s": [
+        "SNS 3 WH Ib2/1, Var.5",
+        "SN  I/1 (SN)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "67c771aa6d66c8b7"
+    ],
+    "_version_": 1667138294659416064,
+    "timestamp": "2020-05-19T16:49:33.516Z"
+}

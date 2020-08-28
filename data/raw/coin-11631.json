@@ -1,0 +1,106 @@
+{
+    "id": "coin-11631",
+    "title_display": "Coin: 11631",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11631"
+    ],
+    "call_number_browse_s": [
+        "Coin 11631"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "10/25/1938"
+    ],
+    "find_locus_s": [
+        "15-M"
+    ],
+    "find_number_s": [
+        "Cc197"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "10.6"
+    ],
+    "weight_s": [
+        "2.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11631\",\"call_number_browse\":\"Coin 11631\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7746"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust laur., dr., cuir, seen from the back"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP CONSTANTINVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Sun-god"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Sol rad, stg. l., raising r. hand, globe in l., chlamys across r. shoulder"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLI INV-I-CTO COMITI"
+    ],
+    "issue_references_s": [
+        "RIC 7 298 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9fb9f46442a3ee92"
+    ],
+    "_version_": 1667138128731701248,
+    "timestamp": "2020-05-19T16:46:55.275Z"
+}

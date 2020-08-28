@@ -1,0 +1,100 @@
+{
+    "id": "coin-11475",
+    "title_display": "Coin: 11475",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 11475"
+    ],
+    "call_number_browse_s": [
+        "Coin 11475"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "17.63"
+    ],
+    "weight_s": [
+        "3.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11475\",\"call_number_browse\":\"Coin 11475\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -113,
+    "pub_date_end_sort": -112,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "7632"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "P. Lucinius Nerva"
+    ],
+    "issue_place_s": [
+        "Rome"
+    ],
+    "issue_region_s": [
+        "Rome"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "6-Point Asterisk and Crescent"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_figure_s": [
+        "Voting scene"
+    ],
+    "issue_reverse_symbol_s": [
+        "P"
+    ],
+    "issue_reverse_figure_description_s": [
+        "one voter on l. of pons recives ballot from attendant below, another voter on r. of pons places ballot in cista; above, P. nerva at top of coin, bar on which stands tablet bearing letter P"
+    ],
+    "issue_reverse_legend_s": [
+        "P. NERVA"
+    ],
+    "issue_references_s": [
+        "RRC  292-1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b26dd0781d8299e2"
+    ],
+    "_version_": 1667138131775717376,
+    "timestamp": "2020-05-19T16:46:58.176Z"
+}

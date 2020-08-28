@@ -1,0 +1,119 @@
+{
+    "id": "coin-7566",
+    "title_display": "Coin: 7566",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7566"
+    ],
+    "call_number_browse_s": [
+        "Coin 7566"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/7/1934"
+    ],
+    "find_feature_s": [
+        "Trial Trench 14"
+    ],
+    "find_locus_s": [
+        "7-O"
+    ],
+    "find_number_s": [
+        "C2850"
+    ],
+    "find_description_s": [
+        "Level of the lime shores"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "2.7"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7566\",\"call_number_browse\":\"Coin 7566\"}}",
+    "pub_date_start_sort": 321,
+    "pub_date_end_sort": 323,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4731"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_workshop_s": [
+        "E"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C VAL LICIN LICINIVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONS-ERVATORI"
+    ],
+    "issue_references_s": [
+        "RIC, VII 682 36",
+        "Numismatique Constantinienne III. 195 I. 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c21717a728e5721a"
+    ],
+    "_version_": 1667138260224180224,
+    "timestamp": "2020-05-19T16:49:00.676Z"
+}

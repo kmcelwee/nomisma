@@ -1,0 +1,115 @@
+{
+    "id": "coin-7977",
+    "title_display": "Coin: 7977",
+    "pub_created_display": [
+        "Maximianus Herculius (285 to 310), officnae, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7977"
+    ],
+    "call_number_browse_s": [
+        "Coin 7977"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-7-1937"
+    ],
+    "find_feature_s": [
+        "Dig I under level 3 to 5 m."
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca797"
+    ],
+    "find_description_s": [
+        "Room 2 under byzantine pavement, basket C"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.01"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7977\",\"call_number_browse\":\"Coin 7977\"}}",
+    "pub_date_start_sort": 285,
+    "pub_date_end_sort": 310,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "officnae"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Maximianus Herculius (285 to 310)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crowned, draped"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C M A MAXIMIANVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "standing r., holding sceptre and receiving Victory on glove from Jupiter standing l., holding sceptre."
+    ],
+    "issue_reverse_legend_s": [
+        "VIRTVS AVGGG"
+    ],
+    "issue_references_s": [
+        "RIC V.294 621"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "de0b2d361a8a4319"
+    ],
+    "_version_": 1673554526456512512,
+    "timestamp": "2020-07-29T12:32:48.988Z"
+}

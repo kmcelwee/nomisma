@@ -1,0 +1,111 @@
+{
+    "id": "coin-8274",
+    "title_display": "Coin: 8274",
+    "pub_created_display": [
+        "Otto I of Greece (1833 to 1862), Athens"
+    ],
+    "call_number_display": [
+        "Coin 8274"
+    ],
+    "call_number_browse_s": [
+        "Coin 8274"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "43"
+    ],
+    "weight_s": [
+        "57.952"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8274\",\"call_number_browse\":\"Coin 8274\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "5276"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Otto I of Greece (1833 to 1862)"
+    ],
+    "issue_master_s": [
+        "Konrad Lange (1875 to 1950)"
+    ],
+    "issue_workshop_s": [
+        "Vienna (?)"
+    ],
+    "issue_series_s": [
+        "Greek War of Independence Commemorative"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Admiral Andreas Miaoulis;  bareheaded with cropped curly hair and hooked nose"
+    ],
+    "issue_obverse_legend_s": [
+        "(outer ring) O NAYAPXO\u03a3 AN\u0394PEA\u03a3 MIAOY\u039bH\u03a3; (inner ring) \u0393ENNH\u0398.TH.K.MAIOYA\u03a1\u039e\u0398 A\u03a0E\u0398.TH.IA.IOYN.A\u03a9E; below, K.\u039b\u0391\u039d\u0393\u0393"
+    ],
+    "issue_reverse_figure_s": [
+        "Head"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "writing on column with six ornate protrusions; on pediment, a man with spear on the prow of a ship; a laurel wreath to left."
+    ],
+    "issue_reverse_legend_s": [
+        "NAYTHIKHI APETHI"
+    ],
+    "issue_references_s": [
+        "Spink Sale 5  ",
+        "Hims  "
+    ],
+    "issue_artists_s": [
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393",
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d743f156d651b7b5"
+    ],
+    "_version_": 1667144976058810368,
+    "timestamp": "2020-05-19T18:41:23.497Z"
+}

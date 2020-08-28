@@ -1,0 +1,82 @@
+{
+    "id": "coin-9305",
+    "title_display": "Coin: 9305",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9305"
+    ],
+    "call_number_browse_s": [
+        "Coin 9305"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/08/1937"
+    ],
+    "find_feature_s": [
+        "North addition"
+    ],
+    "find_locus_s": [
+        "16-P"
+    ],
+    "find_number_s": [
+        "Ca252"
+    ],
+    "find_description_s": [
+        "under stone mediaeval floor level 1.50 to 2.50M"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.82"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9305\",\"call_number_browse\":\"Coin 9305\"}}",
+    "pub_date_start_sort": 781,
+    "pub_date_end_sort": 815,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5931"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627 \\ \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \\ \u0644\u0627\u0634\u0631\u06cc\u0643 \u0644 \u0647 ; marginal legend: Qur\u02be\u0101n 9,33var: (\u2026) al-\u1e25aqq (\u2026)."
+    ],
+    "issue_reverse_legend_s": [
+        "within circle: \u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647 /?Marginal legend"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "715b431ef01a4219"
+    ],
+    "_version_": 1667144951913250816,
+    "timestamp": "2020-05-19T18:35:22.380Z"
+}

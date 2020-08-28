@@ -1,0 +1,99 @@
+{
+    "id": "coin-15201",
+    "title_display": "Coin: 15201",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15201"
+    ],
+    "call_number_browse_s": [
+        "Coin 15201"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "23.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15201\",\"call_number_browse\":\"Coin 15201\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 158,
+    "pub_date_end_sort": 159,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "9358"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG-PIVS  P P TR P XXII"
+    ],
+    "issue_reverse_figure_s": [
+        "Antoninus, veiled and togate, standing facing, head l., with right, sacrificing from patera over tripod-altar; in left hand, rotulus; to l-r., S - C; in ex. COS IIII"
+    ],
+    "issue_reverse_legend_s": [
+        "VOTA SVSCE-PTA DEC III"
+    ],
+    "issue_references_s": [
+        "BMC.1 353 2068",
+        "RIC 150 1010",
+        "Strack 1171 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "42d58185c5d49054"
+    ],
+    "_version_": 1667144699518910464,
+    "timestamp": "2020-05-19T18:31:21.711Z"
+}

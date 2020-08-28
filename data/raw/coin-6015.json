@@ -1,0 +1,83 @@
+{
+    "id": "coin-6015",
+    "title_display": "Coin: 6015",
+    "call_number_display": [
+        "Coin 6015"
+    ],
+    "call_number_browse_s": [
+        "Coin 6015"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Medal commemorates the Capture of Ghent and Bruges.  It is composed of white metal with a copper plug."
+    ],
+    "size_s": [
+        "43"
+    ],
+    "weight_s": [
+        "24.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6015\",\"call_number_browse\":\"Coin 6015\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3488"
+    ],
+    "issue_metal_s": [
+        "White metal"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Two generals"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Duke of Marlborough and Prince Eugene represented each holding a laurel-wreath and plucking a flower from a lily.  Meant to represent recent victory at Oudernarde and the capture of yet another French possession."
+    ],
+    "issue_obverse_legend_s": [
+        "AD EXORNANDAM LAVREAM . | EVGENII ET MARLBORVGII | CONIVNCTIO GALLORVM | DISSIPATIO ."
+    ],
+    "issue_reverse_figure_s": [
+        "Cock"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Depiction of a boy catching a cock with a hook and line, meant to represent the bait left out for the French in their taking of Ghent and Bruges without resistance, ultimately leading to the English victory at the battle of Oudenarde."
+    ],
+    "issue_reverse_legend_s": [
+        "V\u00c6 TIBI LVDENTI NAM MOX POST IVBILA FLEBIS . | GALLI GANDAVO ET BRVGA CAP- | TA , ALDENARDAM OBSES- | SVRI VINCVNTVR . | MDCCIIX . XI . IVL ."
+    ],
+    "issue_references_s": [
+        "M.I. Plate CXXVII 9",
+        "Forrer 1, p.301 "
+    ],
+    "issue_artists_s": [
+        "Martin Brunner"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1de4fdbf8af078e7"
+    ],
+    "_version_": 1667138383039692800,
+    "timestamp": "2020-05-19T16:50:57.800Z"
+}

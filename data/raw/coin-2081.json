@@ -1,0 +1,110 @@
+{
+    "id": "coin-2081",
+    "title_display": "Coin: 2081",
+    "pub_created_display": [
+        "Athalaric (526 to 534), 10 nummi, Rome"
+    ],
+    "call_number_display": [
+        "Coin 2081"
+    ],
+    "call_number_browse_s": [
+        "Coin 2081"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.01"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2081\",\"call_number_browse\":\"Coin 2081\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 526,
+    "pub_date_end_sort": 534,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 nummi"
+    ],
+    "issue_number_s": [
+        "1367"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Athalaric (526 to 534)"
+    ],
+    "issue_place_s": [
+        "Rome, Ostrogoths, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Ostrogoths"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmeted head of Roma, with plume; circular earring with pendant; necklace of two rows and drapery; long hair; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "INVICT AROMA"
+    ],
+    "issue_reverse_figure_s": [
+        "Warrior"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding spear in r.; in l. oval shield with pellet in center; wears helmet, cuirass, and paludamentum;"
+    ],
+    "issue_reverse_legend_s": [
+        "SC X"
+    ],
+    "issue_references_s": [
+        " Ostrogoths Copper 77",
+        "BMC.Vand Athalaric 62",
+        "Sabatier I, 199 3",
+        "Mettlich  85a",
+        "Charles the Bald  132"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d67ae16f57579209"
+    ],
+    "_version_": 1667138217399287808,
+    "timestamp": "2020-05-19T16:48:19.833Z"
+}

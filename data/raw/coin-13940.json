@@ -1,0 +1,82 @@
+{
+    "id": "coin-13940",
+    "title_display": "Coin: 13940",
+    "pub_created_display": [
+        "Suleiman I The Magnificent, Dinar"
+    ],
+    "call_number_display": [
+        "Coin 13940"
+    ],
+    "call_number_browse_s": [
+        "Coin 13940"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18.5"
+    ],
+    "weight_s": [
+        "3.481"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13940\",\"call_number_browse\":\"Coin 13940\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Dinar"
+    ],
+    "issue_number_s": [
+        "8974"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "Suleiman I The Magnificent"
+    ],
+    "issue_place_s": [
+        "Constantinople, Ottoman"
+    ],
+    "issue_state_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Ottoman"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0636\u0627\u0631\u0628 \u0627\u0644\u0646\u0636\u0631 \\ \u0635\u0627\u062d\u0628 \u0627\u0644\u0639\u0632 \u0648 \u0627\u0644\u0639\u0646\u0635\u0631 \\ \u0641\u064a \u0627\u0644\u0628\u0631 \u0648 \u0627\u0644\u0628\u062d\u0631"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0669\u0662\u0666\r\n\u0633\u0644\u0637\u0627\u0646 \u0633\u0644\u064a\u0645\u0627\u0646 \\ \u0627\u0628\u0646 \u0633\u0644\u064a\u0645 \u062e\u0627\u0646 \\ \u0639\u0632\u0627 \u0646\u0635\u0631\u0647 \u0636\u0631\u0628 \u0641\u064a \\ \u0627\u0644\u0642\u0633\u0637\u0646\u0637\u064a\u0646\u064a\u0629 \\ \u0633\u0646\u0629"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1b875e6133d4f829"
+    ],
+    "_version_": 1667144700432220160,
+    "timestamp": "2020-05-19T18:31:22.534Z"
+}

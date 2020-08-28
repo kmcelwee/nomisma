@@ -1,0 +1,94 @@
+{
+    "id": "coin-4939",
+    "title_display": "Coin: 4939",
+    "call_number_display": [
+        "Coin 4939"
+    ],
+    "call_number_browse_s": [
+        "Coin 4939"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "38.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4939\",\"call_number_browse\":\"Coin 4939\"}}",
+    "donor_s": [
+        "Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2726"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "David Lloyd George"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of David Lloyd George, former British prime minister"
+    ],
+    "issue_obverse_legend_s": [
+        "DAVID LLOYD GEORGE | MCMXVII"
+    ],
+    "issue_reverse_figure_s": [
+        "Victoria"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victoria stands at center, downward-pointing sword on left, shield with lion's head on the right."
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIA PER LABOREM"
+    ],
+    "issue_references_s": [
+        "Forrer vol. 7, A-L "
+    ],
+    "issue_artists_s": [
+        "Frank Bowcher, F. BOWCHER 1917"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fa6065c7424cd2a6"
+    ],
+    "_version_": 1667138409932521472,
+    "timestamp": "2020-05-19T16:51:23.449Z"
+}

@@ -1,0 +1,83 @@
+{
+    "id": "coin-1554",
+    "title_display": "Coin: 1554",
+    "pub_created_display": [
+        "Da Zhong \u5927\u4e2d (Zhu Yuan Zhang) (1361 to 1398), 10 Cash, Bei Jing"
+    ],
+    "call_number_display": [
+        "Coin 1554"
+    ],
+    "call_number_browse_s": [
+        "Coin 1554"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "weight_s": [
+        "25.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1554\",\"call_number_browse\":\"Coin 1554\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1361,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 Cash"
+    ],
+    "issue_number_s": [
+        "945"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Da Zhong \u5927\u4e2d (Zhu Yuan Zhang) (1361 to 1398)"
+    ],
+    "issue_series_s": [
+        "Ming Dynasty"
+    ],
+    "issue_place_s": [
+        "Bei Jing, China"
+    ],
+    "issue_city_s": [
+        "Bei Jing"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5927\u4e2d\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u5341\uff0c\u5317\u5e73"
+    ],
+    "issue_references_s": [
+        "  279v",
+        "Jen  521v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15b655caa61abbbd"
+    ],
+    "_version_": 1667138411496996864,
+    "timestamp": "2020-05-19T16:51:24.941Z"
+}

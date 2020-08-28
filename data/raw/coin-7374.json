@@ -1,0 +1,111 @@
+{
+    "id": "coin-7374",
+    "title_display": "Coin: 7374",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7374"
+    ],
+    "call_number_browse_s": [
+        "Coin 7374"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7374\",\"call_number_browse\":\"Coin 7374\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4617"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Tiberius Minucius Augurinus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Star behind."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Column"
+    ],
+    "issue_reverse_symbol_s": [
+        "corn ear"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Spiral column with corn-ear on each side at base and standing on top, statue w/ staff in r. hand. Two figures flanking column; fig. on l. holding loaves; fig. on r. holding lituus. Legends above, and upwards and downwards on sides."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA; TI.MINVCI.C.F; AVGVRINI"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_references_s": [
+        "RRC  243/1",
+        "Syd.  494",
+        "Sear Volume I 120"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1ec157a9062b34e2"
+    ],
+    "_version_": 1667138257143463936,
+    "timestamp": "2020-05-19T16:48:57.736Z"
+}

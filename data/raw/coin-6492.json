@@ -1,0 +1,97 @@
+{
+    "id": "coin-6492",
+    "title_display": "Coin: 6492",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 6492"
+    ],
+    "call_number_browse_s": [
+        "Coin 6492"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Rusted obverse and reverse, unknown mint and ruler, specific gravity 17.6820"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.361"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6492\",\"call_number_browse\":\"Coin 6492\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "3915"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "S. Mark"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "doge kneeling"
+    ],
+    "issue_obverse_legend_s": [
+        "SIT.T.T _ A _ | _H.D(sidways)D(sidewaysA.I |DVX|.D(sideways)."
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in mandorla"
+    ],
+    "issue_reverse_legend_s": [
+        ".SIT.T.XP_D_ _ _ .TV _ _ _ _ STED.T."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8b76a80ed01fae73"
+    ],
+    "_version_": 1667138369716486144,
+    "timestamp": "2020-05-19T16:50:45.096Z"
+}

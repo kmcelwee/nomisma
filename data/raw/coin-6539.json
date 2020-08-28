@@ -1,0 +1,98 @@
+{
+    "id": "coin-6539",
+    "title_display": "Coin: 6539",
+    "pub_created_display": [
+        "victoriatus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 6539"
+    ],
+    "call_number_browse_s": [
+        "Coin 6539"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6539\",\"call_number_browse\":\"Coin 6539\"}}",
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "victoriatus"
+    ],
+    "issue_number_s": [
+        "3954"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate Jupiter head r. Dot border"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory crowning trophy, r. Legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border."
+    ],
+    "issue_references_s": [
+        "RRC  44/1",
+        "Sear  49"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d204ceb85cd8b9e2"
+    ],
+    "_version_": 1667138366811930624,
+    "timestamp": "2020-05-19T16:50:42.326Z"
+}

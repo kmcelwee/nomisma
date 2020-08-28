@@ -1,0 +1,99 @@
+{
+    "id": "coin-6598",
+    "title_display": "Coin: 6598",
+    "pub_created_display": [
+        "Carlos III (1759 to 1788), 2 reales"
+    ],
+    "call_number_display": [
+        "Coin 6598"
+    ],
+    "call_number_browse_s": [
+        "Coin 6598"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "6.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6598\",\"call_number_browse\":\"Coin 6598\"}}",
+    "donor_s": [
+        "M. Goodridge"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 reales"
+    ],
+    "issue_number_s": [
+        "4015"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Carlos III (1759 to 1788)"
+    ],
+    "issue_workshop_s": [
+        "Potosi"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right-facing bust with laurel"
+    ],
+    "issue_obverse_legend_s": [
+        "DEI\u2022GRATIA\u20221777\u2022CAROLUS\u2022III\u2022"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Castille, Leon, and Burbon"
+    ],
+    "issue_reverse_symbol_s": [
+        "ST\u20222R\u2022P\u2022R\u2022"
+    ],
+    "issue_reverse_figure_description_s": [
+        "arms of Castille, Leon, and Borbon inside a crowned shield between two columns with ribbons around them that say PLVS VLTRA"
+    ],
+    "issue_reverse_legend_s": [
+        "\u2022HISPAN\u2022ETIND\u2022REX\u2022ST\u20222R\u2022P\u2022R\u2022"
+    ],
+    "issue_references_s": [
+        "Las Monedas Espanolas p. 681 10373",
+        "Monedas Espanolas p. 336 1241",
+        "Heiss vol. I, lam. 56 25"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3f462c4769940564"
+    ],
+    "_version_": 1667138254144536576,
+    "timestamp": "2020-05-19T16:48:54.876Z"
+}

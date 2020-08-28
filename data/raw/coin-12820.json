@@ -1,0 +1,107 @@
+{
+    "id": "coin-12820",
+    "title_display": "Coin: 12820",
+    "pub_created_display": [
+        "Phraataces and Musa, Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12820"
+    ],
+    "call_number_browse_s": [
+        "Coin 12820"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "80% Ag, 0.46 mg Au, 100 mg; chipped edge"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12820\",\"call_number_browse\":\"Coin 12820\"}}",
+    "pub_date_start_sort": -2,
+    "pub_date_end_sort": 4,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8420"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Phraataces and Musa"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "Nike"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diagonal square ended beard,no royal wart, wearing diadem, spiral torque, Nike each side of bust crowning him with wreath"
+    ],
+    "issue_reverse_figure_s": [
+        "Queen Musa"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing tiata and diadem, necklace with central medallion"
+    ],
+    "issue_reverse_legend_s": [
+        "[\u0398\u0395\u0391\u03a3] \u039f\u03a5\u03a1\u0391\u039d\u0399\u0391\u03a3 [\u039c\u039f]\u03a5\u03a3\u0397\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0399\u03a3\u03a3[\u0395\u03a3]"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8420.jpg, below queen's chin"
+    ],
+    "issue_references_s": [
+        "Sellwood  58.9",
+        "Shore  324"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1ad3853ad3ea6cb6"
+    ],
+    "_version_": 1667138310502350848,
+    "timestamp": "2020-05-19T16:49:48.624Z"
+}

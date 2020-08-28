@@ -1,0 +1,82 @@
+{
+    "id": "coin-10015",
+    "title_display": "Coin: 10015",
+    "pub_created_display": [
+        "Henry III Franconia (1056 to 1106), denaro, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10015"
+    ],
+    "call_number_browse_s": [
+        "Coin 10015"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10015\",\"call_number_browse\":\"Coin 10015\"}}",
+    "pub_date_start_sort": 1056,
+    "pub_date_end_sort": 1106,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Henry III Franconia (1056 to 1106)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Legend"
+    ],
+    "issue_obverse_figure_description_s": [
+        "H / RIC / N"
+    ],
+    "issue_obverse_legend_s": [
+        "+AVCV~TV~"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "PA / * / PA / I"
+    ],
+    "issue_reverse_legend_s": [
+        "+INPERATOR"
+    ],
+    "issue_references_s": [
+        "CNI IV XL20"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "658f30c1aa81c3e4"
+    ],
+    "_version_": 1674261169968250880,
+    "timestamp": "2020-08-06T07:44:36.755Z"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "coin-10257",
+    "title_display": "Coin: 10257",
+    "pub_created_display": [
+        "C. Julius Caesar (-44 to -44)"
+    ],
+    "call_number_display": [
+        "Coin 10257"
+    ],
+    "call_number_browse_s": [
+        "Coin 10257"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "36.884"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10257\",\"call_number_browse\":\"Coin 10257\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "imitation"
+    ],
+    "issue_number_s": [
+        "6502"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "C. Julius Caesar (-44 to -44)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "C. Julius Caesar"
+    ],
+    "issue_obverse_symbol_s": [
+        "cornucopia"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Caesar in toga, laureate. Cornucopia to left"
+    ],
+    "issue_obverse_legend_s": [
+        "DIVI.IVLI."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e07dd0ac716efc2f"
+    ],
+    "_version_": 1667138194925158400,
+    "timestamp": "2020-05-19T16:47:58.401Z"
+}

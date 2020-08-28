@@ -1,0 +1,116 @@
+{
+    "id": "coin-7800",
+    "title_display": "Coin: 7800",
+    "pub_created_display": [
+        "Antiochus III (-223 to -187), Tetradrachm, Uncertain Mint 68"
+    ],
+    "call_number_display": [
+        "Coin 7800"
+    ],
+    "call_number_browse_s": [
+        "Coin 7800"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "39"
+    ],
+    "weight_s": [
+        "17.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7800\",\"call_number_browse\":\"Coin 7800\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": -197,
+    "pub_date_end_sort": -187,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "4863"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus III (-223 to -187)"
+    ],
+    "issue_place_s": [
+        "Uncertain Mint 68, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Uncertain Mint 68"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus III"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed, mature, falling diadem, dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, in r. hand",
+        "bow, in l. hand",
+        "\u0391\u03a3 \u03a3\u0391, in outer l. field"
+    ],
+    "issue_references_s": [
+        "H & L  1132.6",
+        "Houghton  902",
+        "WSM  858"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "653f8cd860c39fda"
+    ],
+    "_version_": 1667138123847434240,
+    "timestamp": "2020-05-19T16:46:50.616Z"
+}

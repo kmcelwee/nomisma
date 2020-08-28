@@ -1,0 +1,102 @@
+{
+    "id": "coin-6119",
+    "title_display": "Coin: 6119",
+    "pub_created_display": [
+        "Carlos III (1759 to 1788), 1 real"
+    ],
+    "call_number_display": [
+        "Coin 6119"
+    ],
+    "call_number_browse_s": [
+        "Coin 6119"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.11"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6119\",\"call_number_browse\":\"Coin 6119\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 real"
+    ],
+    "issue_number_s": [
+        "3569"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Carlos III (1759 to 1788)"
+    ],
+    "issue_master_s": [
+        "M"
+    ],
+    "issue_workshop_s": [
+        "Mejico"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_symbol_s": [
+        "four fleurs de lis above and below the R and I"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standard shield of Castille and Leon with shield of Bourbon in the middle"
+    ],
+    "issue_obverse_legend_s": [
+        "\u2022CAR\u2022III\u2022D\u2022G\u2022HISP\u2022ET\u2022IND\u2022R\u2022"
+    ],
+    "issue_reverse_figure_s": [
+        "Crown above two globes and two pillars on sides"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two globes with a crown on top behind an ocean and between two columns (left: \"PLUS\", right: \"VLTR\")"
+    ],
+    "issue_reverse_legend_s": [
+        "\u2022VTRA\u2022QUE\u2022VNUM\u2022M\u20221767\u2022Mo[o on top of M]"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n  10086",
+        "Las Monedas Espanolas  1196",
+        "Heiss Vol I, Lam. 57 37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ef125aef7fc8ffd6"
+    ],
+    "_version_": 1667138379221827584,
+    "timestamp": "2020-05-19T16:50:54.162Z"
+}

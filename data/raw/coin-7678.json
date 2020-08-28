@@ -1,0 +1,107 @@
+{
+    "id": "coin-7678",
+    "title_display": "Coin: 7678",
+    "pub_created_display": [
+        "Marcian (450 to 457), aes IV, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7678"
+    ],
+    "call_number_browse_s": [
+        "Coin 7678"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/3/1937"
+    ],
+    "find_feature_s": [
+        "Cleaning mosaic in Room B 20"
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Ca2438"
+    ],
+    "size_s": [
+        "9"
+    ],
+    "weight_s": [
+        "0.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7678\",\"call_number_browse\":\"Coin 7678\"}}",
+    "pub_date_start_sort": 450,
+    "pub_date_end_sort": 457,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aes IV"
+    ],
+    "issue_number_s": [
+        "4753"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Marcian (450 to 457)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "D N MARCIANVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "[illegible]"
+    ],
+    "issue_references_s": [
+        "RIC X  542",
+        "DOC  494"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "63bbd5e309989a63"
+    ],
+    "_version_": 1667138189847953408,
+    "timestamp": "2020-05-19T16:47:53.557Z"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "coin-7070",
+    "title_display": "Coin: 7070",
+    "pub_created_display": [
+        "1/6 dollar"
+    ],
+    "call_number_display": [
+        "Coin 7070"
+    ],
+    "call_number_browse_s": [
+        "Coin 7070"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "81x62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7070\",\"call_number_browse\":\"Coin 7070\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1/6 dollar"
+    ],
+    "issue_number_s": [
+        "4415"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_series_s": [
+        "February 17, 1776"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Sundial"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Seal of sun and sundial with mottoes FUGIO (I fly) and MIND YOUR BUSINESS."
+    ],
+    "issue_obverse_legend_s": [
+        "ONE SIXTH OF A DOLLAR, According to a Resolu-tion OF CON-GRESS, pas-sed at Phi-ladelphia, February 17, 1776."
+    ],
+    "issue_reverse_figure_s": [
+        "Chain"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Chain with thirteen links, each representing one of the original colonies, and each depicting a colony's name. Sun in the center of the chain with the motto WE ARE ONE | AMERICAN CONGRESS."
+    ],
+    "issue_reverse_legend_s": [
+        "One Sixth of a DOLLAR. | Printed by Hall & Sellers, in Philadelphia. 1776."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "17a65dc8dbb9dbc0"
+    ],
+    "_version_": 1667315521801945088,
+    "timestamp": "2020-05-21T15:46:30.489Z"
+}

@@ -1,0 +1,121 @@
+{
+    "id": "coin-7784",
+    "title_display": "Coin: 7784",
+    "pub_created_display": [
+        "Constantine II, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7784"
+    ],
+    "call_number_browse_s": [
+        "Coin 7784"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "May 18, 1932"
+    ],
+    "find_feature_s": [
+        "House A"
+    ],
+    "find_locus_s": [
+        "N-10"
+    ],
+    "find_number_s": [
+        "1620"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.566"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7784\",\"call_number_browse\":\"Coin 7784\"}}",
+    "pub_date_start_sort": 335,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4847"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust, facing right with diadem tied at neck"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, one standard"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS"
+    ],
+    "issue_references_s": [
+        "RIC 7 697.109"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "88a7804206cc66db"
+    ],
+    "_version_": 1667138353407983616,
+    "timestamp": "2020-05-19T16:50:29.544Z"
+}

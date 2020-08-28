@@ -1,0 +1,104 @@
+{
+    "id": "coin-2801",
+    "title_display": "Coin: 2801",
+    "pub_created_display": [
+        "William McKinley (1843 to 1901)"
+    ],
+    "call_number_display": [
+        "Coin 2801"
+    ],
+    "call_number_browse_s": [
+        "Coin 2801"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2801\",\"call_number_browse\":\"Coin 2801\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 1901,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1774"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "William McKinley (1843 to 1901)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "suited bust with bowtie to l. with legend"
+    ],
+    "issue_obverse_legend_s": [
+        "WILLIAM MCKINLEY"
+    ],
+    "issue_reverse_figure_s": [
+        "Columbia"
+    ],
+    "issue_reverse_symbol_s": [
+        "shield"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Columbia stands with gestures and symbols of mourning; a V-shaped Presidential shielf with ealge and palm with wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "INAUGURATED| PRESIDENT OF THE| UNITED STATES| MAR 4 1897| MAR 4 1901| ASSASSINATED| SEP 6 1901| DIED SEP 14| 1901"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_artists_s": [
+        "Charles E. Barber, C.E. BARBER F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c9fedfc90a39974b"
+    ],
+    "_version_": 1667138427682816000,
+    "timestamp": "2020-05-19T16:51:40.374Z"
+}

@@ -1,0 +1,116 @@
+{
+    "id": "coin-2702",
+    "title_display": "Coin: 2702",
+    "pub_created_display": [
+        "Anthony Wayne (1745 to 1796)"
+    ],
+    "call_number_display": [
+        "Coin 2702"
+    ],
+    "call_number_browse_s": [
+        "Coin 2702"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Lead cast bronzed 1790- Paris Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "54"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2702\",\"call_number_browse\":\"Coin 2702\"}}",
+    "pub_date_start_sort": 1790,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1706"
+    ],
+    "issue_metal_s": [
+        "Lead"
+    ],
+    "issue_color_s": [
+        "bronzed"
+    ],
+    "issue_ruler_s": [
+        "Anthony Wayne (1745 to 1796)"
+    ],
+    "issue_workshop_s": [
+        "Paris Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Wayne, Indian"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_figure_description_s": [
+        "female dressed as Indian at l., alligator, bow and shield at feet, presenting wreath and crown to Wayne at r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONIO WAYNE DUCI EXERCITUS| COMITIA AMERICANA"
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 1"
+    ],
+    "issue_reverse_figure_s": [
+        "Battlefield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cannon to r. trained on fortress on hill in l. background, soldiers in l. foreground"
+    ],
+    "issue_reverse_legend_s": [
+        "STONEY-POINT EXPUGNATUM| XV JUL.MDCCLXXIX"
+    ],
+    "issue_reverse_attributes_s": [
+        "die, A"
+    ],
+    "issue_references_s": [
+        "Betts  565",
+        "Julian  MI-3",
+        "Stahl, Comitia Americana  34",
+        "Adams pp 67-76 "
+    ],
+    "issue_artists_s": [
+        "Nicolas Gatteaux, GATTEAUX",
+        "Nicolas Gatteaux, GATTEAUX"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3607b6982fe8e4da"
+    ],
+    "_version_": 1667138425149456384,
+    "timestamp": "2020-05-19T16:51:37.959Z"
+}

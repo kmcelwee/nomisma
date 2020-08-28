@@ -1,0 +1,123 @@
+{
+    "id": "coin-2275",
+    "title_display": "Coin: 2275",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), double, Seleuceia ad Tigrim"
+    ],
+    "call_number_display": [
+        "Coin 2275"
+    ],
+    "call_number_browse_s": [
+        "Coin 2275"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/10/1938"
+    ],
+    "find_locus_s": [
+        "S 18-J"
+    ],
+    "find_number_s": [
+        "Cb3839"
+    ],
+    "find_description_s": [
+        "Trench 2, over upper wall"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "7.29"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2275\",\"call_number_browse\":\"Coin 2275\"}}",
+    "pub_date_start_sort": -296,
+    "pub_date_end_sort": -295,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "1465"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_workshop_s": [
+        "First workshop"
+    ],
+    "issue_place_s": [
+        "Seleuceia ad Tigrim, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Seleuceia ad Tigrim"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long hair and crested Corinthian helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Elephant"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1463, above elephant",
+        "m1465, beneath elephant"
+    ],
+    "issue_references_s": [
+        "H & L  128c",
+        "ESM  18"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9c7eba79e7b9d394"
+    ],
+    "_version_": 1669832921323667456,
+    "timestamp": "2020-06-18T10:39:29.760Z"
+}

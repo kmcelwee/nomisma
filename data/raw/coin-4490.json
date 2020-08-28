@@ -1,0 +1,119 @@
+{
+    "id": "coin-4490",
+    "title_display": "Coin: 4490",
+    "pub_created_display": [
+        "Justin I (518 to 527), 40 nummi, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 4490"
+    ],
+    "call_number_browse_s": [
+        "Coin 4490"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/28/1935"
+    ],
+    "find_feature_s": [
+        "Above sandstone parados pavement"
+    ],
+    "find_locus_s": [
+        "20N-D-H"
+    ],
+    "find_number_s": [
+        "C5078"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "15.3"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4490\",\"call_number_browse\":\"Coin 4490\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 522,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "2277"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_workshop_s": [
+        "B"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Asia"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Asia"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust r. with diadem, cuirass and paludamentum"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_symbol_s": [
+        "stars"
+    ],
+    "issue_reverse_figure_description_s": [
+        "above cross. to l. and r. stars."
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_references_s": [
+        " Justin I 35",
+        " Justin I 8",
+        "BMC.Byz. Justin I 29",
+        "BN Justin I 01",
+        "Sear Justin I 62"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "72c9c97617a430f9"
+    ],
+    "_version_": 1667138485764489216,
+    "timestamp": "2020-05-19T16:52:35.772Z"
+}

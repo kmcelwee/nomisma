@@ -1,0 +1,93 @@
+{
+    "id": "coin-1828",
+    "title_display": "Coin: 1828",
+    "pub_created_display": [
+        "Isabelle of Villehardouin (1297 to 1301), denier tournois, Clarentia"
+    ],
+    "call_number_display": [
+        "Coin 1828"
+    ],
+    "call_number_browse_s": [
+        "Coin 1828"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "0.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1828\",\"call_number_browse\":\"Coin 1828\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1299,
+    "pub_date_end_sort": 1301,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier tournois"
+    ],
+    "issue_number_s": [
+        "1191"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Isabelle of Villehardouin (1297 to 1301)"
+    ],
+    "issue_place_s": [
+        "Clarentia, Achaea, Crusader"
+    ],
+    "issue_city_s": [
+        "Clarentia"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+YSABELLA.P.Ach"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_legend_s": [
+        "+DECLARENCIA"
+    ],
+    "issue_references_s": [
+        "Schl. Plate XII 19",
+        "Coole  15a",
+        "Ox.  972"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "906b57a2ca9fb2a4"
+    ],
+    "_version_": 1667145412740382720,
+    "timestamp": "2020-05-19T18:53:24.781Z"
+}

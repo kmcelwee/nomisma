@@ -1,0 +1,94 @@
+{
+    "id": "coin-9211",
+    "title_display": "Coin: 9211",
+    "pub_created_display": [
+        "Harun al-Rashid, fals, Damascus"
+    ],
+    "call_number_display": [
+        "Coin 9211"
+    ],
+    "call_number_browse_s": [
+        "Coin 9211"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin struck, but the cast flan has a hole."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/09/1937"
+    ],
+    "find_feature_s": [
+        "South under cement floor"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca256"
+    ],
+    "find_description_s": [
+        "to 2 M."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9211\",\"call_number_browse\":\"Coin 9211\"}}",
+    "pub_date_start_sort": 807,
+    "pub_date_end_sort": 808,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5879"
+    ],
+    "issue_ruler_s": [
+        "Harun al-Rashid"
+    ],
+    "issue_place_s": [
+        "Damascus, Jund Dimashq, Syria"
+    ],
+    "issue_city_s": [
+        "Damascus"
+    ],
+    "issue_state_s": [
+        "Jund Dimashq"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_references_s": [
+        "Katalog der orientalischen M\u00fcnzen  2178-2179"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "88ec63fe2e191814"
+    ],
+    "_version_": 1667144976075587584,
+    "timestamp": "2020-05-19T18:35:45.409Z"
+}

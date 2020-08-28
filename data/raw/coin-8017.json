@@ -1,0 +1,119 @@
+{
+    "id": "coin-8017",
+    "title_display": "Coin: 8017",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8017"
+    ],
+    "call_number_browse_s": [
+        "Coin 8017"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "10/15/1938"
+    ],
+    "find_feature_s": [
+        "Dump"
+    ],
+    "find_locus_s": [
+        "13-R"
+    ],
+    "find_number_s": [
+        "Cc132"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "5.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8017\",\"call_number_browse\":\"Coin 8017\"}}",
+    "pub_date_start_sort": 302,
+    "pub_date_end_sort": 303,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5052"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCLICLICINNIVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Genius"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0394"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "pouring libation over altar and holding cornucopiae"
+    ],
+    "issue_reverse_legend_s": [
+        "GENIOIMP-ERATORIS | ANT"
+    ],
+    "issue_references_s": [
+        "RIC 6 636 133b",
+        "Numismatique Constantinienne III pp. 165-166, XVII 3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9270b711e5cfdcbf"
+    ],
+    "_version_": 1667138348786909184,
+    "timestamp": "2020-05-19T16:50:25.135Z"
+}

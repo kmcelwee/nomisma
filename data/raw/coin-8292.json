@@ -1,0 +1,92 @@
+{
+    "id": "coin-8292",
+    "title_display": "Coin: 8292",
+    "pub_created_display": [
+        "Athens"
+    ],
+    "call_number_display": [
+        "Coin 8292"
+    ],
+    "call_number_browse_s": [
+        "Coin 8292"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8292\",\"call_number_browse\":\"Coin 8292\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "5293"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Konrad Lange (1875 to 1950)"
+    ],
+    "issue_series_s": [
+        "Greek War of Independence Commemorative"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Marcos Botsanis - Hero of the Greek War of Liberation; with long moustache and receding/shaved hairline with longer hair in back"
+    ],
+    "issue_obverse_legend_s": [
+        "MAPKO\u03a3 BOTZAPH\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Three figures"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Greek soldier pulls back curtain, threatening two turbaned men, one standing and another crouched behind a draped table at centre"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039bO\u0393O\u03a3 \u0398EYMOI \u03a0PO\u03a3 \u03a3E. in emerge: KAP\u03a0ENH\u03a3I"
+    ],
+    "issue_references_s": [
+        "Wurzbach Lexikon 140 914 / 1323/44"
+    ],
+    "issue_artists_s": [
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393",
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "442fd6c47419a6ee"
+    ],
+    "_version_": 1667144975894183936,
+    "timestamp": "2020-05-19T18:35:45.258Z"
+}

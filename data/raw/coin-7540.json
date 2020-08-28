@@ -1,0 +1,113 @@
+{
+    "id": "coin-7540",
+    "title_display": "Coin: 7540",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7540"
+    ],
+    "call_number_browse_s": [
+        "Coin 7540"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Overstruck on M coin of Heraclius or Constans II"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-21-1938"
+    ],
+    "find_locus_s": [
+        "18-N"
+    ],
+    "find_number_s": [
+        "Cb2351"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "2.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7540\",\"call_number_browse\":\"Coin 7540\"}}",
+    "pub_date_start_sort": 642,
+    "pub_date_end_sort": 648,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4712"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constans II standing, facing, holding long cross in r., globus cruciger in l."
+    ],
+    "issue_obverse_legend_s": [
+        "ENT[OUTON]IKA"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "completely oblit."
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 162-174",
+        "DOC vol. I, page 442 class 1-class 7",
+        "BL vol. I, page 344 type 1-type 7",
+        "Sear page 108 1000-1009",
+        "BMC.Byz. vol. I, page 268 101"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "81d0afa7815e66f3"
+    ],
+    "_version_": 1667138185222684672,
+    "timestamp": "2020-05-19T16:47:49.150Z"
+}

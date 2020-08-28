@@ -1,0 +1,94 @@
+{
+    "id": "coin-8840",
+    "title_display": "Coin: 8840",
+    "pub_created_display": [
+        "Leopold II di Lorena (1824 to 1859), mezzo paolo"
+    ],
+    "call_number_display": [
+        "Coin 8840"
+    ],
+    "call_number_browse_s": [
+        "Coin 8840"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "1.33"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8840\",\"call_number_browse\":\"Coin 8840\"}}",
+    "pub_date_start_sort": 1824,
+    "pub_date_end_sort": 1859,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "mezzo paolo"
+    ],
+    "issue_number_s": [
+        "5636"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Leopold II di Lorena (1824 to 1859)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Leopold II di Lorena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Leopold II di Lorena facing right; exergue, 'G.N.'"
+    ],
+    "issue_obverse_legend_s": [
+        "LEOP.II.D.G.P.R.H.ETB.A.AM.D.ETR"
+    ],
+    "issue_reverse_figure_s": [
+        "Coat of arms"
+    ],
+    "issue_reverse_figure_description_s": [
+        "coat of arms superimposed onto the cross of St. Stefano; surrounded by the collar of the Order of the Golden Fleece"
+    ],
+    "issue_reverse_legend_s": [
+        "SVSCEPTOR NOST.DEVS"
+    ],
+    "issue_references_s": [
+        "CNI XII, 477 114"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3fd108ea294e6e3b"
+    ],
+    "_version_": 1667138270589353984,
+    "timestamp": "2020-05-19T16:49:10.559Z"
+}

@@ -1,0 +1,116 @@
+{
+    "id": "coin-7405",
+    "title_display": "Coin: 7405",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7405"
+    ],
+    "call_number_browse_s": [
+        "Coin 7405"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-2-1933"
+    ],
+    "find_description_s": [
+        "8034 High Ta Temple"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7405\",\"call_number_browse\":\"Coin 7405\"}}",
+    "pub_date_start_sort": 325,
+    "pub_date_end_sort": 326,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4633"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "Antioch"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurelled"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN-TINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0404"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two turrets, no doors, star above; varying number of stone layers; in left field, A."
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN-TIAE AVGG"
+    ],
+    "issue_references_s": [
+        "RIC 7 688.63",
+        "Cohen 7 281.454"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "50d3982674aa3a8b"
+    ],
+    "_version_": 1667138174163353600,
+    "timestamp": "2020-05-19T16:47:38.600Z"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "coin-13897",
+    "title_display": "Coin: 13897",
+    "pub_created_display": [
+        "Tetradrachm, Athens"
+    ],
+    "call_number_display": [
+        "Coin 13897"
+    ],
+    "call_number_browse_s": [
+        "Coin 13897"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "16.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13897\",\"call_number_browse\":\"Coin 13897\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8933"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_workshop_s": [
+        "\"Imperial Mint\""
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Athena, eye full, earring, hairstyle (iii), 3 olive leaves on helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Owl standing, long and slender, wings closed, olive on stalk between two leaves, waning moon"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0398\u0395 down right side"
+    ],
+    "issue_references_s": [
+        "Athens Its History and Coinage p.209 A297"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3a745618723f25d0"
+    ],
+    "_version_": 1667138328830410752,
+    "timestamp": "2020-05-19T16:50:06.103Z"
+}

@@ -1,0 +1,94 @@
+{
+    "id": "coin-9207",
+    "title_display": "Coin: 9207",
+    "pub_created_display": [
+        "Abu Tamim Ma'add al-Mutansir (1036 to 1094), Half Dirham"
+    ],
+    "call_number_display": [
+        "Coin 9207"
+    ],
+    "call_number_browse_s": [
+        "Coin 9207"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "\"black dirham\"; hard to read, possibly from Aleppo (Haleb); no readable date"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9207\",\"call_number_browse\":\"Coin 9207\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1036,
+    "pub_date_end_sort": 1094,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Half Dirham"
+    ],
+    "issue_number_s": [
+        "5875"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "Abu Tamim Ma'add al-Mutansir (1036 to 1094)"
+    ],
+    "issue_place_s": [
+        "Misr , Egypt"
+    ],
+    "issue_state_s": [
+        "Misr "
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Two concentric rings containing a central inscription and a marginal inscription"
+    ],
+    "issue_obverse_legend_s": [
+        "Center: \u0628\u0627\u0644\u0644\u0647  //\u0627\u0644\u0645\u0633\u062a\u0646\u0635\u0631  // \u0627\u0645\u064a\u0631 \u0627\u0644\u0645\u0624\u0645\u0646\u064a\u0646 ***** Margins: \u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0636\u0631\u0628 \u0647\u0630\u0627 \u0627\u0644\u062f\u064a\u0646\u0631 \u0628...  \u0633\u0646\u0629"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two concentric rings containing a central inscription and a marginal inscription"
+    ],
+    "issue_reverse_legend_s": [
+        "Center: \u0627\u0644\u0644\u0647  //\u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627  //\u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 ***** Margins: \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 \u0627\u0631\u0633\u0644\u0647 \u0628\u0627\u0644\u0647\u062f\u0649 \u0648\u062f\u064a\u0646 \u0627\u0644\u062d\u0642 \u0644\u064a\u0638\u0647\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u062f\u064a\u0646 \u0643\u0644\u0647 \u0648\u0644\u0648 \u0643\u0631\u0647 \u0627\u0644\u0645\u0634\u0631\u0643\u0648\u0646"
+    ],
+    "issue_references_s": [
+        "CFC Type U1 (p. 242), #1719 (p. 259) "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "887206664282d4c8"
+    ],
+    "_version_": 1667138147944759296,
+    "timestamp": "2020-05-19T16:47:13.596Z"
+}

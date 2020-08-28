@@ -1,0 +1,122 @@
+{
+    "id": "coin-7314",
+    "title_display": "Coin: 7314",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7314"
+    ],
+    "call_number_browse_s": [
+        "Coin 7314"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "27-5-1935"
+    ],
+    "find_locus_s": [
+        "9-N"
+    ],
+    "find_description_s": [
+        "8 N 24 surface"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7314\",\"call_number_browse\":\"Coin 7314\"}}",
+    "pub_date_start_sort": 333,
+    "pub_date_end_sort": 335,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4578"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "Antioch"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed, draped, cuirassed"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTI NUSMAXAUG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "A"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with two standards"
+    ],
+    "issue_reverse_legend_s": [
+        "GLORIA EXERCITUS"
+    ],
+    "issue_references_s": [
+        "Cohen 7 258.254",
+        "RIC 7 693.86"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9e82da5200177c03"
+    ],
+    "_version_": 1667138256811065344,
+    "timestamp": "2020-05-19T16:48:57.419Z"
+}

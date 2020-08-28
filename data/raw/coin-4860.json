@@ -1,0 +1,77 @@
+{
+    "id": "coin-4860",
+    "title_display": "Coin: 4860",
+    "pub_created_display": [
+        "Chong Zhen \u5d07\u796f (Zhu You Jian \u6731\u7531\u6aa2) (1627 to 1644), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 4860"
+    ],
+    "call_number_browse_s": [
+        "Coin 4860"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "24.5"
+    ],
+    "weight_s": [
+        "2.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4860\",\"call_number_browse\":\"Coin 4860\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "2669"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Chong Zhen \u5d07\u796f (Zhu You Jian \u6731\u7531\u6aa2) (1627 to 1644)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5d07\u798e\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u634c"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 224 797",
+        "Hartill 259 20.308"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4fa7f422db08c4a7"
+    ],
+    "_version_": 1667138408044036096,
+    "timestamp": "2020-05-19T16:51:21.648Z"
+}

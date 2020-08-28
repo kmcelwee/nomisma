@@ -1,0 +1,99 @@
+{
+    "id": "coin-5113",
+    "title_display": "Coin: 5113",
+    "pub_created_display": [
+        "triens"
+    ],
+    "call_number_display": [
+        "Coin 5113"
+    ],
+    "call_number_browse_s": [
+        "Coin 5113"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought from P&P Santamaria sale for $450"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "13.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5113\",\"call_number_browse\":\"Coin 5113\"}}",
+    "donor_s": [
+        "Ernest DeWald"
+    ],
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "triens"
+    ],
+    "issue_number_s": [
+        "2825"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_obverse_figure_s": [
+        "Minerva"
+    ],
+    "issue_obverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Wearing Corinthian helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_references_s": [
+        "RRC 56 4",
+        "Syd.  1436",
+        "Sear  911"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "05b05d11b007dbda"
+    ],
+    "_version_": 1667138392503091200,
+    "timestamp": "2020-05-19T16:51:06.827Z"
+}

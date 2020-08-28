@@ -1,0 +1,108 @@
+{
+    "id": "coin-1763",
+    "title_display": "Coin: 1763",
+    "pub_created_display": [
+        "as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1763"
+    ],
+    "call_number_browse_s": [
+        "Coin 1763"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Heavily worn on both sides."
+    ],
+    "die_axis_s": [
+        "42"
+    ],
+    "size_s": [
+        "39"
+    ],
+    "weight_s": [
+        "56.37"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1763\",\"call_number_browse\":\"Coin 1763\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "1144"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_master_s": [
+        "L. Saufeius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Janus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate head of Janus; | above"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Prow  r. Monogram and crescent above. | before. Legend below."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1018, Monogram"
+    ],
+    "issue_references_s": [
+        "RRC  204/2",
+        "Syd.  385",
+        "Sear  720"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d525a0dd145a5ee2"
+    ],
+    "_version_": 1667138133416738816,
+    "timestamp": "2020-05-19T16:46:59.744Z"
+}

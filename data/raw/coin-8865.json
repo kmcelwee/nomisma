@@ -1,0 +1,82 @@
+{
+    "id": "coin-8865",
+    "title_display": "Coin: 8865",
+    "pub_created_display": [
+        "Leopold II di Lorena (1824 to 1859), 5 quattrini"
+    ],
+    "call_number_display": [
+        "Coin 8865"
+    ],
+    "call_number_browse_s": [
+        "Coin 8865"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "2.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8865\",\"call_number_browse\":\"Coin 8865\"}}",
+    "pub_date_start_sort": 1824,
+    "pub_date_end_sort": 1859,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 quattrini"
+    ],
+    "issue_number_s": [
+        "5648"
+    ],
+    "issue_metal_s": [
+        "Mistura"
+    ],
+    "issue_ruler_s": [
+        "Leopold II di Lorena (1824 to 1859)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Coat of arms"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crowned coat of arms"
+    ],
+    "issue_obverse_legend_s": [
+        "LEOP.II.A.D'A   GRAND.DI TOSC."
+    ],
+    "issue_reverse_legend_s": [
+        "5 QUATTRINI"
+    ],
+    "issue_references_s": [
+        "CNI XII, 469 34"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ad3a418246d9dca5"
+    ],
+    "_version_": 1667138151553957888,
+    "timestamp": "2020-05-19T16:47:17.039Z"
+}

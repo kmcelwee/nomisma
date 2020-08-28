@@ -1,0 +1,112 @@
+{
+    "id": "coin-9604",
+    "title_display": "Coin: 9604",
+    "pub_created_display": [
+        "Unknown, unknown, Histiaea"
+    ],
+    "call_number_display": [
+        "Coin 9604"
+    ],
+    "call_number_browse_s": [
+        "Coin 9604"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "2.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9604\",\"call_number_browse\":\"Coin 9604\"}}",
+    "donor_s": [
+        "Platt"
+    ],
+    "pub_date_start_sort": 196,
+    "pub_date_end_sort": 146,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unknown"
+    ],
+    "issue_number_s": [
+        "6118"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_place_s": [
+        "Histiaea, Euboea, Greece"
+    ],
+    "issue_city_s": [
+        "Histiaea"
+    ],
+    "issue_state_s": [
+        "Euboea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "female head right., wearing earring, necklace, and vine-wreath; hair rolled"
+    ],
+    "issue_reverse_figure_s": [
+        "Nymph"
+    ],
+    "issue_reverse_symbol_s": [
+        "Trident and AP (combined)"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nymph Histiaea seated on stern of galley and holding trophy stand"
+    ],
+    "issue_reverse_legend_s": [
+        "I\u03a3TI AIE\u03a9N"
+    ],
+    "issue_references_s": [
+        "Catalogue of the Greek Coins in the British Museum Central Greece 128.39"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e4df88e7cd377b57"
+    ],
+    "_version_": 1667138143706415104,
+    "timestamp": "2020-05-19T16:47:09.555Z"
+}

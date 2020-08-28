@@ -1,0 +1,119 @@
+{
+    "id": "coin-9858",
+    "title_display": "Coin: 9858",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 9858"
+    ],
+    "call_number_browse_s": [
+        "Coin 9858"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-24-1938"
+    ],
+    "find_feature_s": [
+        "Trench 5"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb778"
+    ],
+    "find_description_s": [
+        "Surface"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "1.9"
+    ],
+    "weight_s": [
+        "1.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9858\",\"call_number_browse\":\"Coin 9858\"}}",
+    "pub_date_start_sort": 670,
+    "pub_date_end_sort": 690,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6237"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "imperial bust, beardless, crowned"
+    ],
+    "issue_obverse_legend_s": [
+        "to l., downwards KA\u039bON; to r., downwards \u0628\u062d\u0645\u0633"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m"
+    ],
+    "issue_reverse_legend_s": [
+        "m; to r. EMI; to r. CHC; in ex. \u0637\u064a\u0628"
+    ],
+    "issue_references_s": [
+        "BMC page 20 57",
+        "Ash. 1 plates 37-38 538-41"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "644d665f395d2dcf"
+    ],
+    "_version_": 1667138136181833728,
+    "timestamp": "2020-05-19T16:47:02.380Z"
+}

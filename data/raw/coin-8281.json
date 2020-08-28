@@ -1,0 +1,112 @@
+{
+    "id": "coin-8281",
+    "title_display": "Coin: 8281",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 8281"
+    ],
+    "call_number_browse_s": [
+        "Coin 8281"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse exergue legend is unusual and has no known parallel; mint uncertain; Waage identified this coin as Byzantine (Constans II)"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9-22-1938"
+    ],
+    "find_feature_s": [
+        "dump"
+    ],
+    "find_locus_s": [
+        "13-R"
+    ],
+    "find_number_s": [
+        "Cb4621"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8281\",\"call_number_browse\":\"Coin 8281\"}}",
+    "pub_date_start_sort": 650,
+    "pub_date_end_sort": 670,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5283"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standing beardless emperor wearing chlamys, holding long cross in l., gl. cr. in r., wearing crown with small cross"
+    ],
+    "issue_obverse_legend_s": [
+        "l. [IN TOUTO, oblit.], r. NIKA"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m, small cross above"
+    ],
+    "issue_reverse_legend_s": [
+        "m, l. ANA, r. obli., in ex. ENS"
+    ],
+    "issue_references_s": [
+        "Ash. 1 plate 37 523"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8fc52cdd99459af2"
+    ],
+    "_version_": 1667138347347214336,
+    "timestamp": "2020-05-19T16:50:23.761Z"
+}

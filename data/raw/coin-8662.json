@@ -1,0 +1,91 @@
+{
+    "id": "coin-8662",
+    "title_display": "Coin: 8662",
+    "pub_created_display": [
+        "Louis XII (1500 to 1513), teston"
+    ],
+    "call_number_display": [
+        "Coin 8662"
+    ],
+    "call_number_browse_s": [
+        "Coin 8662"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "29.5"
+    ],
+    "weight_s": [
+        "9.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8662\",\"call_number_browse\":\"Coin 8662\"}}",
+    "pub_date_start_sort": 1500,
+    "pub_date_end_sort": 1513,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "teston"
+    ],
+    "issue_number_s": [
+        "5538"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Louis XII (1500 to 1513)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of crowned Louis XII facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "+ LVDOVICVS,D,G,FRANCORVM,REX"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint Ambrose"
+    ],
+    "issue_reverse_figure_description_s": [
+        "St. Ambrose mounted on galloping horse; under, crown shield of France"
+    ],
+    "issue_reverse_legend_s": [
+        "ME DIO LAN I,D VX,"
+    ],
+    "issue_references_s": [
+        "CNI V, p.209 60"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c7d52338e32f751d"
+    ],
+    "_version_": 1667138269884710912,
+    "timestamp": "2020-05-19T16:49:09.887Z"
+}

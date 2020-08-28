@@ -1,0 +1,88 @@
+{
+    "id": "coin-8832",
+    "title_display": "Coin: 8832",
+    "pub_created_display": [
+        "Ferdinand I de Medici (1587 to 1608), quattrino"
+    ],
+    "call_number_display": [
+        "Coin 8832"
+    ],
+    "call_number_browse_s": [
+        "Coin 8832"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "0.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8832\",\"call_number_browse\":\"Coin 8832\"}}",
+    "pub_date_start_sort": 1587,
+    "pub_date_end_sort": 1608,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quattrino"
+    ],
+    "issue_number_s": [
+        "5628"
+    ],
+    "issue_metal_s": [
+        "Mistura"
+    ],
+    "issue_ruler_s": [
+        "Ferdinand I de Medici (1587 to 1608)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Medici coat of arms"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Crowned oval crest with 6 balls"
+    ],
+    "issue_obverse_legend_s": [
+        "FER.M.MA. ETIII"
+    ],
+    "issue_reverse_figure_s": [
+        "St. John"
+    ],
+    "issue_reverse_figure_description_s": [
+        "St. John seated; l.hand holding cross; r.hand raised"
+    ],
+    "issue_reverse_legend_s": [
+        "S.IOANNES. BAPTIST.S."
+    ],
+    "issue_references_s": [
+        "CNI XII, 339 313"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7fc609073cdd1b54"
+    ],
+    "_version_": 1667138153298788352,
+    "timestamp": "2020-05-19T16:47:18.704Z"
+}

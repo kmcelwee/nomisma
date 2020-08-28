@@ -1,0 +1,108 @@
+{
+    "id": "coin-211",
+    "title_display": "Coin: 211",
+    "pub_created_display": [
+        "Didrachm, Rome"
+    ],
+    "call_number_display": [
+        "Coin 211"
+    ],
+    "call_number_browse_s": [
+        "Coin 211"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "6.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 211\",\"call_number_browse\":\"Coin 211\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -269,
+    "pub_date_end_sort": -266,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "109"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "hair bound w ribbon, club & lionskin over shoulder"
+    ],
+    "issue_obverse_attributes_s": [
+        "dots, border"
+    ],
+    "issue_reverse_figure_s": [
+        "She-wolf"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "suckling twins"
+    ],
+    "issue_reverse_legend_s": [
+        "ROMANO"
+    ],
+    "issue_references_s": [
+        "RRC  20/1",
+        "Syd.  6",
+        "Sear  24"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "59bfe22558316076"
+    ],
+    "_version_": 1667138447788212224,
+    "timestamp": "2020-05-19T16:51:59.507Z"
+}

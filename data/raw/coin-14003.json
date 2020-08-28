@@ -1,0 +1,100 @@
+{
+    "id": "coin-14003",
+    "title_display": "Coin: 14003",
+    "pub_created_display": [
+        "Diocletian, fractional, Carthage"
+    ],
+    "call_number_display": [
+        "Coin 14003"
+    ],
+    "call_number_browse_s": [
+        "Coin 14003"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14003\",\"call_number_browse\":\"Coin 14003\"}}",
+    "donor_s": [
+        "David Magie"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fractional"
+    ],
+    "issue_number_s": [
+        "9027"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Diocletian"
+    ],
+    "issue_place_s": [
+        "Carthage, Africa, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Carthage"
+    ],
+    "issue_state_s": [
+        "Africa"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "radiate"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCDIOCLETIANVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "VOT/XX/FK"
+    ],
+    "issue_references_s": [
+        "RIC 6 427 37a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "30dbbd4247b9151d"
+    ],
+    "_version_": 1667145456620142592,
+    "timestamp": "2020-05-19T18:54:22.353Z"
+}

@@ -1,0 +1,91 @@
+{
+    "id": "coin-9999",
+    "title_display": "Coin: 9999",
+    "pub_created_display": [
+        "Louis XII (1500 to 1513), Paris"
+    ],
+    "call_number_display": [
+        "Coin 9999"
+    ],
+    "call_number_browse_s": [
+        "Coin 9999"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "215"
+    ],
+    "weight_s": [
+        "282.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9999\",\"call_number_browse\":\"Coin 9999\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6335"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XII (1500 to 1513)"
+    ],
+    "issue_place_s": [
+        "Paris, Ile-de-France, France"
+    ],
+    "issue_city_s": [
+        "Paris"
+    ],
+    "issue_state_s": [
+        "Ile-de-France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Louis XII"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Portrait of crowned Louis XII with Collar of St. Michael, surrounded by fleurs-de-lys; Louis rests above a lion of Lyon"
+    ],
+    "issue_obverse_legend_s": [
+        "+ FELICE.LVDOVICO REGNATE.DVODECIMO.CESARE.ALTER.GAVDET.OMNIS.NACIO."
+    ],
+    "issue_reverse_figure_s": [
+        "[ ]"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Blank"
+    ],
+    "issue_references_s": [
+        "French Medals Volume Two (1600-1672) Volume I p. 36-37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d4e6532357233b76"
+    ],
+    "_version_": 1667138142624284672,
+    "timestamp": "2020-05-19T16:47:08.519Z"
+}

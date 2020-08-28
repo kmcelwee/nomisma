@@ -1,0 +1,109 @@
+{
+    "id": "coin-12202",
+    "title_display": "Coin: 12202",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Arles"
+    ],
+    "call_number_display": [
+        "Coin 12202"
+    ],
+    "call_number_browse_s": [
+        "Coin 12202"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/24/1939"
+    ],
+    "find_feature_s": [
+        "In stratum immediately below late walls (B1)"
+    ],
+    "find_locus_s": [
+        "DH 26-M/N"
+    ],
+    "find_number_s": [
+        "Cc812"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "1.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12202\",\"call_number_browse\":\"Coin 12202\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "8230"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Arles, Narbonensis, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Arles"
+    ],
+    "issue_state_s": [
+        "Narbonensis"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C CONSTANTINVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Sol"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Sol standing l., globe in l. hand, chlamys flying under l. arm."
+    ],
+    "issue_reverse_legend_s": [
+        "SOLI IN-VI-CTO COMITI"
+    ],
+    "issue_references_s": [
+        "RIC.7 235 20"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6d10cb45a0548cdc"
+    ],
+    "_version_": 1667138329952387072,
+    "timestamp": "2020-05-19T16:50:07.173Z"
+}

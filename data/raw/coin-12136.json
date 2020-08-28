@@ -1,0 +1,123 @@
+{
+    "id": "coin-12136",
+    "title_display": "Coin: 12136",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 12136"
+    ],
+    "call_number_browse_s": [
+        "Coin 12136"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/19/1939"
+    ],
+    "find_locus_s": [
+        "DH-26-M/N"
+    ],
+    "find_number_s": [
+        "Cc491"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12136\",\"call_number_browse\":\"Coin 12136\"}}",
+    "pub_date_start_sort": 335,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4581"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "Antioch"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed, draped"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTI-NVS MAX AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0391"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "standard at center"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITUS"
+    ],
+    "issue_references_s": [
+        "RIC 7 697.108",
+        "Cohen 7 257.244",
+        "Numismatique Constantinienne 3 212.II.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2c0e2a69bae22fa2"
+    ],
+    "_version_": 1667138257530388480,
+    "timestamp": "2020-05-19T16:48:58.105Z"
+}

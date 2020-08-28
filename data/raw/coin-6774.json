@@ -1,0 +1,112 @@
+{
+    "id": "coin-6774",
+    "title_display": "Coin: 6774",
+    "pub_created_display": [
+        "Manuel Comnenus-Ducas (1230 to 1237), aspron trachy nomisma, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6774"
+    ],
+    "call_number_browse_s": [
+        "Coin 6774"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Doublestruck"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "2.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6774\",\"call_number_browse\":\"Coin 6774\"}}",
+    "pub_date_start_sort": 1230,
+    "pub_date_end_sort": 1237,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "3767"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Manuel Comnenus-Ducas (1230 to 1237)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Demetrius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of St. Demetrius, beardless and nimbate, wearing tunic, breastplate, and sagion; holds in r. hand spear, and in l., hilt of sword"
+    ],
+    "issue_obverse_legend_s": [
+        "columnar ]\u0393 O C to l. of bust, \u0394 HM IT to r."
+    ],
+    "issue_reverse_figure_s": [
+        "Manuel Ducas and Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "full-length figure of emperor on l., crowned by Christ, bearded and nimbate; emperor wears stemma, divitision, and paneled chlamys; holds in r. hand scepter cruciger, and in l., anexikakia; Christ wears tunic and kolobion, holds Gospels in l. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "obscure; IC XC to either side of Christ; star to r. in field"
+    ],
+    "issue_references_s": [
+        "DOC vol. IV, page 571 3a.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d55ee92395226efb"
+    ],
+    "_version_": 1667138372358897664,
+    "timestamp": "2020-05-19T16:50:47.616Z"
+}

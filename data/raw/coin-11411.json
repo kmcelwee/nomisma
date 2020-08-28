@@ -1,0 +1,118 @@
+{
+    "id": "coin-11411",
+    "title_display": "Coin: 11411",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 11411"
+    ],
+    "call_number_browse_s": [
+        "Coin 11411"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "10/1/1938"
+    ],
+    "find_locus_s": [
+        "S 19-J"
+    ],
+    "find_number_s": [
+        "Cc54"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "1.6"
+    ],
+    "weight_s": [
+        "1.37"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11411\",\"call_number_browse\":\"Coin 11411\"}}",
+    "pub_date_start_sort": 336,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7562"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constantine rosette-diadem, dr., cuir. Bust"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTI-NUS MAX AUG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers, helemeted, standing looking at one another, one standard between them"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS | \u03a3\u039c\u039d\u0393"
+    ],
+    "issue_references_s": [
+        "RIC.7 7, 635 199"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ef7aa8aa35ea193b"
+    ],
+    "_version_": 1667138162080612352,
+    "timestamp": "2020-05-19T16:47:27.079Z"
+}

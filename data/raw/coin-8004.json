@@ -1,0 +1,110 @@
+{
+    "id": "coin-8004",
+    "title_display": "Coin: 8004",
+    "pub_created_display": [
+        "Heraclius (610 to 641), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8004"
+    ],
+    "call_number_browse_s": [
+        "Coin 8004"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/22/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca486"
+    ],
+    "find_description_s": [
+        "Dig IV level I, Room 165 to 2M. (Basket A)"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "5.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8004\",\"call_number_browse\":\"Coin 8004\"}}",
+    "pub_date_start_sort": 629,
+    "pub_date_end_sort": 630,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5041"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Heraclius (610 to 641)"
+    ],
+    "issue_workshop_s": [
+        "B"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Heraclius and Heraclius Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Heraclius standing with mustache and long beard, wearing military dress and crown with cross. Heraclius Constantine standing, with short beard, wearing chlamys and crown with cross"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO | CON"
+    ],
+    "issue_references_s": [
+        "MIB Volume 3 164",
+        "DOC Volume 2 Part 1 105"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df90b10cfcabaf00"
+    ],
+    "_version_": 1667138191341125632,
+    "timestamp": "2020-05-19T16:47:54.982Z"
+}

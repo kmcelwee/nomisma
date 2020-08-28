@@ -1,0 +1,128 @@
+{
+    "id": "coin-50",
+    "title_display": "Coin: 50",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 50"
+    ],
+    "call_number_browse_s": [
+        "Coin 50"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "8/18/1938"
+    ],
+    "find_feature_s": [
+        "Trench 12"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb4405"
+    ],
+    "find_description_s": [
+        "2 M. above west wall of pool"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "16.77"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 50\",\"call_number_browse\":\"Coin 50\"}}",
+    "pub_date_start_sort": 512,
+    "pub_date_end_sort": 517,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "43"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "\u0404"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0404"
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, above",
+        "star, to left and right"
+    ],
+    "issue_references_s": [
+        " Anastasius 27\u0404",
+        " Anastasius 23i",
+        "BMC.Byz. Anastasius 28",
+        "Sear  19"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e8f1abbeca203e2a"
+    ],
+    "_version_": 1667138200177475584,
+    "timestamp": "2020-05-19T16:48:03.411Z"
+}

@@ -1,0 +1,107 @@
+{
+    "id": "coin-4493",
+    "title_display": "Coin: 4493",
+    "pub_created_display": [
+        "Nero (54 to 68), sestertius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4493"
+    ],
+    "call_number_browse_s": [
+        "Coin 4493"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "34.5"
+    ],
+    "weight_s": [
+        "26.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4493\",\"call_number_browse\":\"Coin 4493\"}}",
+    "donor_s": [
+        "Ernest DeWald"
+    ],
+    "pub_date_start_sort": 65,
+    "pub_date_end_sort": 68,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "2507"
+    ],
+    "issue_metal_s": [
+        "Orichalcum"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CLAVD CAESAR AVG GER P M TR P IMP P P"
+    ],
+    "issue_reverse_figure_s": [
+        "Temple of Janus"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "doors closed r.; S C in field"
+    ],
+    "issue_reverse_legend_s": [
+        "PACE P R TERRA MARIQ PARTA IANUM CLVSIT"
+    ],
+    "issue_references_s": [
+        "RIC.1. Nero 171",
+        "Sear  1958"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "33ecb2787112ea2c"
+    ],
+    "_version_": 1667138497509588992,
+    "timestamp": "2020-05-19T16:52:46.968Z"
+}

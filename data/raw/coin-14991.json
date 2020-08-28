@@ -1,0 +1,125 @@
+{
+    "id": "coin-14991",
+    "title_display": "Coin: 14991",
+    "pub_created_display": [
+        "Antiochus III (-223 to -187), unit, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 14991"
+    ],
+    "call_number_browse_s": [
+        "Coin 14991"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/02/1937"
+    ],
+    "find_locus_s": [
+        "A 16-O"
+    ],
+    "find_number_s": [
+        "Ca2401"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "2.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14991\",\"call_number_browse\":\"Coin 14991\"}}",
+    "pub_date_start_sort": -223,
+    "pub_date_end_sort": -210,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "9197"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus III (-223 to -187)"
+    ],
+    "issue_series_s": [
+        "Series 1"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus III"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "Facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate, as Apollo"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on omphalos"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "arrow, r. hand",
+        "l. hand, on grounded bow"
+    ],
+    "issue_references_s": [
+        "H & L I, v.I, p.400 1049"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0852af7b8ed4e47a"
+    ],
+    "_version_": 1670294622328324096,
+    "timestamp": "2020-06-23T12:58:02.150Z"
+}

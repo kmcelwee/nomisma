@@ -1,0 +1,109 @@
+{
+    "id": "coin-11807",
+    "title_display": "Coin: 11807",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 11807"
+    ],
+    "call_number_browse_s": [
+        "Coin 11807"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/19/1939"
+    ],
+    "find_locus_s": [
+        "DH 26-M/N"
+    ],
+    "find_number_s": [
+        "Cc455"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "1.3"
+    ],
+    "weight_s": [
+        "1.37"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11807\",\"call_number_browse\":\"Coin 11807\"}}",
+    "pub_date_start_sort": 336,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7902"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor with rosette diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTI-NVS MAX AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers helmeted, stg. facing each one another reverse spear in outer hands, inner hands on shields resting on grounds, between one standard"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS"
+    ],
+    "issue_references_s": [
+        "RIC 7 589 137"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7837c3790647b7f4"
+    ],
+    "_version_": 1667138126909276160,
+    "timestamp": "2020-05-19T16:46:53.538Z"
+}

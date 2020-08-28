@@ -1,0 +1,100 @@
+{
+    "id": "coin-14021",
+    "title_display": "Coin: 14021",
+    "pub_created_display": [
+        "triobol, Athens"
+    ],
+    "call_number_display": [
+        "Coin 14021"
+    ],
+    "call_number_browse_s": [
+        "Coin 14021"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "8"
+    ],
+    "weight_s": [
+        "1.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14021\",\"call_number_browse\":\"Coin 14021\"}}",
+    "donor_s": [
+        "David R. Winans"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "triobol"
+    ],
+    "issue_number_s": [
+        "9044"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing round earring and close-fitting crested helmet with 3 upright olive leaves and floral ornament"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wings closed, surrounded by wreath of olives"
+    ],
+    "issue_reverse_legend_s": [
+        "uncertain"
+    ],
+    "issue_references_s": [
+        "Catalogue of the Greek Coins in the British Museum p.16 162var"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4c2d6f0550f6a67b"
+    ],
+    "_version_": 1667310756977180672,
+    "timestamp": "2020-05-21T14:30:46.399Z"
+}

@@ -1,0 +1,91 @@
+{
+    "id": "coin-13030",
+    "title_display": "Coin: 13030",
+    "pub_created_display": [
+        "Pacorus II, Dichalkoi, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 13030"
+    ],
+    "call_number_browse_s": [
+        "Coin 13030"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "weight_s": [
+        "0.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13030\",\"call_number_browse\":\"Coin 13030\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 78,
+    "pub_date_end_sort": 105,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Dichalkoi"
+    ],
+    "issue_number_s": [
+        "8499"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Pacorus II"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "beardless"
+    ],
+    "issue_reverse_figure_s": [
+        "Amphora"
+    ],
+    "issue_references_s": [
+        "Sellwood  73.16"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2ba1b3ad23cdc709"
+    ],
+    "_version_": 1667138340592287744,
+    "timestamp": "2020-05-19T16:50:17.320Z"
+}

@@ -1,0 +1,100 @@
+{
+    "id": "coin-7680",
+    "title_display": "Coin: 7680",
+    "pub_created_display": [
+        "Achaean League (-280 to -146), unit, Manteneia"
+    ],
+    "call_number_display": [
+        "Coin 7680"
+    ],
+    "call_number_browse_s": [
+        "Coin 7680"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7680\",\"call_number_browse\":\"Coin 7680\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -280,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "4799"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Achaean League (-280 to -146)"
+    ],
+    "issue_place_s": [
+        "Manteneia, Achaea, Greece"
+    ],
+    "issue_city_s": [
+        "Manteneia"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "holds in r. hand, Nike ; in l., long sceptre.; in front, symbol (see attribute)"
+    ],
+    "issue_obverse_legend_s": [
+        "in field, XI"
+    ],
+    "issue_reverse_figure_s": [
+        "Achaia"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holds wreath and long sceptre"
+    ],
+    "issue_reverse_legend_s": [
+        "around, AXAI\u03a9N ANTI\u0393\u03bfNE\u03a9N"
+    ],
+    "issue_references_s": [
+        "Catalogue of Greek Coins - Peloponnesus 14 160"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "05d60343031e797b"
+    ],
+    "_version_": 1667138189789233152,
+    "timestamp": "2020-05-19T16:47:53.503Z"
+}

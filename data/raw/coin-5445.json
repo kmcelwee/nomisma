@@ -1,0 +1,108 @@
+{
+    "id": "coin-5445",
+    "title_display": "Coin: 5445",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5445"
+    ],
+    "call_number_browse_s": [
+        "Coin 5445"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18.0"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5445\",\"call_number_browse\":\"Coin 5445\"}}",
+    "pub_date_start_sort": -57,
+    "pub_date_end_sort": -57,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "3070"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Considius Nonianus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Venus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Venus Erycina r., laureate and diademed; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "C.CONSIDI.NONIANI - S.C"
+    ],
+    "issue_reverse_figure_s": [
+        "Temple"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Tetrastyle temple of Venus Erycina on rocky prominence with ERVC at base; wall in foreground with gate at center and two towers; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "ERVC"
+    ],
+    "issue_references_s": [
+        "RRC  424/1",
+        "Syd.  886-8",
+        "Sear  381"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "606f47ac6e8c742d"
+    ],
+    "_version_": 1667138392598511616,
+    "timestamp": "2020-05-19T16:51:06.915Z"
+}

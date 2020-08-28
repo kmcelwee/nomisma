@@ -1,0 +1,115 @@
+{
+    "id": "coin-1310",
+    "title_display": "Coin: 1310",
+    "pub_created_display": [
+        "Nero (54 to 68), bronze, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 1310"
+    ],
+    "call_number_browse_s": [
+        "Coin 1310"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscriptions illegible; may be L Rutilius Piso or P Memmius Cleander. Shallow hole, reverse center."
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "6.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1310\",\"call_number_browse\":\"Coin 1310\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 66,
+    "pub_date_end_sort": 67,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "733"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_master_s": [
+        "P. Memmius Cleander"
+    ],
+    "issue_place_s": [
+        "Corinth, Achaea, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CAES AVG IMP"
+    ],
+    "issue_reverse_figure_s": [
+        "Nero"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nero standing on podium with hand raised; ADLO AVG in field"
+    ],
+    "issue_reverse_legend_s": [
+        "P MEM CLEANDRO II VIR Q COR"
+    ],
+    "issue_references_s": [
+        "RPC.1  1206"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2be5d66c21dbc215"
+    ],
+    "_version_": 1667138461769924608,
+    "timestamp": "2020-05-19T16:52:12.883Z"
+}

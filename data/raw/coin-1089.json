@@ -1,0 +1,83 @@
+{
+    "id": "coin-1089",
+    "title_display": "Coin: 1089",
+    "pub_created_display": [
+        "penny, Clermont"
+    ],
+    "call_number_display": [
+        "Coin 1089"
+    ],
+    "call_number_browse_s": [
+        "Coin 1089"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "10"
+    ],
+    "weight_s": [
+        "0.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1089\",\"call_number_browse\":\"Coin 1089\"}}",
+    "pub_date_start_sort": 700,
+    "pub_date_end_sort": 725,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "541"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Clermont, France"
+    ],
+    "issue_city_s": [
+        "Clermont"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_figure_description_s": [
+        "line and dot above monogram"
+    ],
+    "issue_reverse_legend_s": [
+        "AR"
+    ],
+    "issue_references_s": [
+        "Robert  0445",
+        "Prou  1773"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "763d29bd7d3c6de5"
+    ],
+    "_version_": 1667138408955248640,
+    "timestamp": "2020-05-19T16:51:22.516Z"
+}

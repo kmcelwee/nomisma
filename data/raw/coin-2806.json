@@ -1,0 +1,94 @@
+{
+    "id": "coin-2806",
+    "title_display": "Coin: 2806",
+    "pub_created_display": [
+        "James Monroe (1758 to 1831)"
+    ],
+    "call_number_display": [
+        "Coin 2806"
+    ],
+    "call_number_browse_s": [
+        "Coin 2806"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "\"Original Clay Model Medal JAMES MONROE Pres. U. S. 1817-25\" on leaflet inside wooden case"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "71"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2806\",\"call_number_browse\":\"Coin 2806\"}}",
+    "donor_s": [
+        "Katherine C Rockwood"
+    ],
+    "pub_date_start_sort": 1821,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1778"
+    ],
+    "issue_metal_s": [
+        "Clay"
+    ],
+    "issue_ruler_s": [
+        "James Monroe (1758 to 1831)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "clothed bust draped in fur coat to r."
+    ],
+    "issue_obverse_legend_s": [
+        "JAMES MONROE PRESIDENT OF THE U.S.A. A.D. 1817. RE-ELECT. 1821"
+    ],
+    "issue_obverse_attributes_s": [
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  PR-4"
+    ],
+    "issue_artists_s": [
+        "Moritz Furst, FURST F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c9d18d97d2309fd4"
+    ],
+    "_version_": 1667138427765653504,
+    "timestamp": "2020-05-19T16:51:40.455Z"
+}

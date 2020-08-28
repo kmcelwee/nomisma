@@ -39,7 +39,7 @@ class NomismaPipeline(object):
         raw_json = []
         for json_path in raw_json_paths:
             with open(json_path) as f:
-                raw_json.extend(json.load(f))
+                raw_json.append(json.load(f))
 
         self.raw_json = raw_json
         return raw_json
@@ -83,13 +83,18 @@ class NomismaPipeline(object):
         coin_list_trimmed = []
         for coin in coin_list:
             coin_list_trimmed.append({
-                'coin_number': coin['coin_number_tsi'],
-                'weight': coin.get('weight_tesi')
+                'identifier': coin['id'],
+                'weight': coin.get('weight_s')
             })
         df = pd.DataFrame(coin_list_trimmed)
 
         # arbitrary sorting to provide clearer diffs
-        # df = df.sort_values('coin_number')
+        df = df.sort_values('identifier')
+
+        # HACK: this needs to be done before being written to file, so this process occurs
+        #   outside `validate` and `transform`
+        assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']]), list(df['weight'])
+        df['weight'] = [None if pd.isna(x) else x[0] for x in df['weight']]
 
         df.to_csv(self.trimmed, index=False)
 
@@ -105,9 +110,10 @@ class NomismaPipeline(object):
         
         df = pd.read_csv(self.trimmed)
 
-        # assert unique_values(df['coin_number'])
-        assert no_empty_cells(df['coin_number'])
-        assert all([cn.startswith('integer-') for cn in df['coin_number']])
+        assert unique_values(df['identifier'])
+        assert no_empty_cells(df['identifier'])
+        assert all([cn.startswith('coin-') for cn in df['identifier']])
+        
 
 
     def transform(self):
@@ -116,7 +122,6 @@ class NomismaPipeline(object):
         """
         df = pd.read_csv(self.trimmed)
 
-        df['identifier'] = df['coin_number'].str.replace('integer', 'coin')
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
         df['title'] = df['identifier'].apply(lambda x: x.replace('-', ' ').capitalize())
         
@@ -148,7 +153,7 @@ class NomismaPipeline(object):
 
             if not pd.isna(r['weight']):
                 g.add((coin, NMO.hasWeight, 
-                    Literal(round(r['weight'], 3), datatype=XSD.decimal)))
+                    Literal(r['weight'], datatype=XSD.decimal)))
 
         with open(self.rdf, 'w') as f:
             f.write(g.serialize(format='pretty-xml').decode('utf-8'))

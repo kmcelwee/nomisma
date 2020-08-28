@@ -1,0 +1,111 @@
+{
+    "id": "coin-9197",
+    "title_display": "Coin: 9197",
+    "pub_created_display": [
+        "Tiberius, as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9197"
+    ],
+    "call_number_browse_s": [
+        "Coin 9197"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "10.49"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9197\",\"call_number_browse\":\"Coin 9197\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 22,
+    "pub_date_end_sort": 30,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "5863"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Augustus radiate"
+    ],
+    "issue_obverse_legend_s": [
+        "DIVVS AVGVS TV S PA TE R"
+    ],
+    "issue_reverse_figure_s": [
+        "Altar"
+    ],
+    "issue_reverse_symbol_s": [
+        "S C"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "altar of the Ara Providentiae Augusti; double panelled door, horns of altar visible above; S C on either side"
+    ],
+    "issue_reverse_legend_s": [
+        "S C; PROVIDENT"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 81",
+        "BMC.1. Tiberius 146",
+        "Sear  1789"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fda3f583cf0a37f1"
+    ],
+    "_version_": 1667138148215291904,
+    "timestamp": "2020-05-19T16:47:13.855Z"
+}

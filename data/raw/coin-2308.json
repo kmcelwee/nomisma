@@ -1,0 +1,98 @@
+{
+    "id": "coin-2308",
+    "title_display": "Coin: 2308",
+    "pub_created_display": [
+        "twopence, Boston"
+    ],
+    "call_number_display": [
+        "Coin 2308"
+    ],
+    "call_number_browse_s": [
+        "Coin 2308"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15.5"
+    ],
+    "weight_s": [
+        "0.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2308\",\"call_number_browse\":\"Coin 2308\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "twopence"
+    ],
+    "issue_number_s": [
+        "1483"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "John Hull"
+    ],
+    "issue_workshop_s": [
+        "Boston"
+    ],
+    "issue_place_s": [
+        "Boston, Massachusetts, United States of America"
+    ],
+    "issue_city_s": [
+        "Boston"
+    ],
+    "issue_state_s": [
+        "Massachusetts"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Oak tree"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Large \"2\""
+    ],
+    "issue_obverse_legend_s": [
+        "MASATHVSETS . NE :"
+    ],
+    "issue_reverse_figure_s": [
+        "1662 II"
+    ],
+    "issue_reverse_legend_s": [
+        "NEW  ENGLAND *"
+    ],
+    "issue_references_s": [
+        "Breen  36",
+        "Noe  34"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "374e5d06eed551ba"
+    ],
+    "_version_": 1667138422223929344,
+    "timestamp": "2020-05-19T16:51:35.171Z"
+}

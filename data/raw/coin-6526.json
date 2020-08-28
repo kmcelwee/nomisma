@@ -1,0 +1,104 @@
+{
+    "id": "coin-6526",
+    "title_display": "Coin: 6526",
+    "pub_created_display": [
+        "John V (1341 to 1391), hyperpyron"
+    ],
+    "call_number_display": [
+        "Coin 6526"
+    ],
+    "call_number_browse_s": [
+        "Coin 6526"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6526\",\"call_number_browse\":\"Coin 6526\"}}",
+    "pub_date_start_sort": 1341,
+    "pub_date_end_sort": 1347,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "3947"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "John V (1341 to 1391)"
+    ],
+    "issue_place_s": [
+        "Byzantium"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ blessing Andronicus III"
+    ],
+    "issue_obverse_part_s": [
+        "standing and kneeling"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Andronicus III l. kneeling before Christ on r. standing with hand raised in benediction"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC to r. of Christ, \u2026HK vertically on l."
+    ],
+    "issue_reverse_figure_s": [
+        "John V and Anna of Savoy"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Anna on l. holding trefoil-headed scepter in r. hand and placing l. hand on breast, John V holding cross-scepter in l. and akakia in r."
+    ],
+    "issue_reverse_legend_s": [
+        "circular A on r., N on l., IW vertically in center, sigla \u0393"
+    ],
+    "issue_references_s": [
+        "DOC vol. V, page 176 2",
+        "Sear  2466"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4c76705775dea72c"
+    ],
+    "_version_": 1667138253577256960,
+    "timestamp": "2020-05-19T16:48:54.337Z"
+}

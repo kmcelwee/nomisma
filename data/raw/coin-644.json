@@ -1,0 +1,107 @@
+{
+    "id": "coin-644",
+    "title_display": "Coin: 644",
+    "pub_created_display": [
+        "Alexander III the Great (-336 to -323), Tetradrachm, Babylon"
+    ],
+    "call_number_display": [
+        "Coin 644"
+    ],
+    "call_number_browse_s": [
+        "Coin 644"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "16.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 644\",\"call_number_browse\":\"Coin 644\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": -317,
+    "pub_date_end_sort": -311,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Alexander III the Great (-336 to -323)"
+    ],
+    "issue_place_s": [
+        "Babylon, Mesopotamia, Persia"
+    ],
+    "issue_city_s": [
+        "Babylon"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Persia"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lionskin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, legs crossed, eagle in r. hand, sceptre in l. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 \u0392\u0391\u03a3\u0399\u039b\u0399\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m11, in l. field",
+        "m12 in wreath, under throne"
+    ],
+    "issue_references_s": [
+        "Price  3723"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "174930234e1081fc"
+    ],
+    "_version_": 1674367385374556160,
+    "timestamp": "2020-08-07T11:52:51.659Z"
+}

@@ -1,0 +1,110 @@
+{
+    "id": "coin-1076",
+    "title_display": "Coin: 1076",
+    "pub_created_display": [
+        "Nero (54 to 68), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1076"
+    ],
+    "call_number_browse_s": [
+        "Coin 1076"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17.8"
+    ],
+    "weight_s": [
+        "3.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1076\",\"call_number_browse\":\"Coin 1076\"}}",
+    "pub_date_start_sort": 64,
+    "pub_date_end_sort": 66,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "530"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CAESAR"
+    ],
+    "issue_reverse_figure_s": [
+        "Nero"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_legend_s": [
+        "AUGUSTUS GERMANICUS"
+    ],
+    "issue_reverse_attributes_s": [
+        "victory, on globe, in left hand of Nero",
+        "branch, in right hand of Nero"
+    ],
+    "issue_references_s": [
+        "RIC.1. Nero 42",
+        "BMC.1. Nero 60",
+        "MacDowall  54",
+        "Sear  1941"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e88e040dfe2e98dc"
+    ],
+    "_version_": 1667138207475564544,
+    "timestamp": "2020-05-19T16:48:10.369Z"
+}

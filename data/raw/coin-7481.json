@@ -1,0 +1,112 @@
+{
+    "id": "coin-7481",
+    "title_display": "Coin: 7481",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7481"
+    ],
+    "call_number_browse_s": [
+        "Coin 7481"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Edges missing top and bottom"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "August 15, 1935"
+    ],
+    "find_description_s": [
+        "9; N Circus Surface"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7481\",\"call_number_browse\":\"Coin 7481\"}}",
+    "pub_date_start_sort": 327,
+    "pub_date_end_sort": 328,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4683"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor's head, veiled, facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "DV CONSTANTINVS PT AVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Pietas"
+    ],
+    "issue_reverse_symbol_s": [
+        "T"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Piety, turned to the right, veiled with hands envelopped in her robe"
+    ],
+    "issue_reverse_legend_s": [
+        "VN-MR"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1c6178ed0550a8e3"
+    ],
+    "_version_": 1667138259040337920,
+    "timestamp": "2020-05-19T16:48:59.546Z"
+}

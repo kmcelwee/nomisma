@@ -1,0 +1,108 @@
+{
+    "id": "coin-4533",
+    "title_display": "Coin: 4533",
+    "pub_created_display": [
+        "aureus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4533"
+    ],
+    "call_number_browse_s": [
+        "Coin 4533"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "20.2"
+    ],
+    "weight_s": [
+        "8.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4533\",\"call_number_browse\":\"Coin 4533\"}}",
+    "pub_date_start_sort": -43,
+    "pub_date_end_sort": -43,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "2512"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_master_s": [
+        "L. Cestius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Sibyl"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "draped; above, C NORBANVS; below, L CESTIVS; before, \u0393R; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "C NORBANVS | L CESTIVS | \u0393R"
+    ],
+    "issue_reverse_figure_s": [
+        "Cybele"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in biga drawn by lions; holds patera in r. hand, rests l. arm on tympanum; S C above; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "S C"
+    ],
+    "issue_references_s": [
+        "RRC  491/2",
+        "Syd.  1155",
+        "Sear  12"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "21cc08dd873e1689"
+    ],
+    "_version_": 1667138405384847360,
+    "timestamp": "2020-05-19T16:51:19.112Z"
+}

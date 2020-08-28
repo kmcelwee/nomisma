@@ -1,0 +1,104 @@
+{
+    "id": "coin-346",
+    "title_display": "Coin: 346",
+    "pub_created_display": [
+        "Leo VI (886 to 912), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 346"
+    ],
+    "call_number_browse_s": [
+        "Coin 346"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "7.17"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 346\",\"call_number_browse\":\"Coin 346\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 886,
+    "pub_date_end_sort": 912,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "178"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Leo VI (886 to 912)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Leo 6"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Short beard and wearing loros"
+    ],
+    "issue_obverse_legend_s": [
+        "+LEONbAS ILEVSROM"
+    ],
+    "issue_obverse_attributes_s": [
+        "cross, in crown",
+        "akakia, held in left hand"
+    ],
+    "issue_reverse_legend_s": [
+        "+LEON/E\u0398EObA/SILEVSR/OMEON"
+    ],
+    "issue_references_s": [
+        "DOC 3.515 5",
+        "BN 554 35/Cp/AE/01",
+        "Sear 331 1729",
+        "BMC.Byz. 447 8"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5386de730da1d450"
+    ],
+    "_version_": 1667138402498117632,
+    "timestamp": "2020-05-19T16:51:16.358Z"
+}

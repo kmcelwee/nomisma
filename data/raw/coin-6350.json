@@ -1,0 +1,73 @@
+{
+    "id": "coin-6350",
+    "title_display": "Coin: 6350",
+    "pub_created_display": [
+        "1/3 dollar"
+    ],
+    "call_number_display": [
+        "Coin 6350"
+    ],
+    "call_number_browse_s": [
+        "Coin 6350"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "64x92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6350\",\"call_number_browse\":\"Coin 6350\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1/3 dollar"
+    ],
+    "issue_number_s": [
+        "3782"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "May 5, 1777"
+    ],
+    "issue_place_s": [
+        "Virginia, United States of America"
+    ],
+    "issue_state_s": [
+        "Virginia"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Virginia coat of arms"
+    ],
+    "issue_obverse_legend_s": [
+        "ONE THIRD OF A SPANISH Mill'd DOLLAR, or the Value thereof in Gold OR Silver to be Given in exchange at the Treasury OF VIRGINIA Pursuant to ACT of ASSEMBLY May 5, 1777. | ONE THIRD OF A DOLLAR | DEATH TO COUNTERFEIT"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f6606179d02f0b8f"
+    ],
+    "_version_": 1667138372277108736,
+    "timestamp": "2020-05-19T16:50:47.538Z"
+}

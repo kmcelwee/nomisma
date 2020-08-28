@@ -1,0 +1,114 @@
+{
+    "id": "coin-7468",
+    "title_display": "Coin: 7468",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7468"
+    ],
+    "call_number_browse_s": [
+        "Coin 7468"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.909"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7468\",\"call_number_browse\":\"Coin 7468\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4676"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Numerius Fabius Pictor"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "control-letter"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Star behind. Control-letter (K) before."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Q. Fabius Pictor"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Q. Fabius Pictor sitting l., on chair; in l. hand, spear; in r. hand, apex. Legends: QVIRIN inscribed on shield beside; N.FABI upwards on r.; PICTOR downwards on l.; ROMA below in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "QVIRIN; N.FABI; PICTOR; ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border."
+    ],
+    "issue_references_s": [
+        "RRC  268/1b",
+        "Syd.  517a",
+        "Sear Volume I 144"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "412dba7494b79590"
+    ],
+    "_version_": 1667138190258995200,
+    "timestamp": "2020-05-19T16:47:53.950Z"
+}

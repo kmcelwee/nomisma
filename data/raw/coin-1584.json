@@ -1,0 +1,105 @@
+{
+    "id": "coin-1584",
+    "title_display": "Coin: 1584",
+    "pub_created_display": [
+        "1/24 stater, Tyre"
+    ],
+    "call_number_display": [
+        "Coin 1584"
+    ],
+    "call_number_browse_s": [
+        "Coin 1584"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "9"
+    ],
+    "weight_s": [
+        "0.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1584\",\"call_number_browse\":\"Coin 1584\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": -390,
+    "pub_date_end_sort": -333,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/24 stater"
+    ],
+    "issue_number_s": [
+        "972"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "Phoenician Era of Alexander"
+    ],
+    "issue_place_s": [
+        "Tyre, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Tyre"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Hippocamp"
+    ],
+    "issue_obverse_part_s": [
+        "flying"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with curled wings; below, dolphin r.; cable border"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "head facing; over l. shoulder crook and flail; in field, letters or numerals; cable border; all in shallow incuse circle"
+    ],
+    "issue_references_s": [
+        "BMC.Phoen Tyre 23",
+        "Sear  5909",
+        "Phoen Tyre 14"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8bc94558be7c8943"
+    ],
+    "_version_": 1667145442008236032,
+    "timestamp": "2020-05-19T18:47:11.939Z"
+}

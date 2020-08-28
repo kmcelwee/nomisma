@@ -1,0 +1,112 @@
+{
+    "id": "coin-9215",
+    "title_display": "Coin: 9215",
+    "pub_created_display": [
+        "Justinian I (527 to 565), solidus, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9215"
+    ],
+    "call_number_browse_s": [
+        "Coin 9215"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "4.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9215\",\"call_number_browse\":\"Coin 9215\"}}",
+    "donor_s": [
+        "Jean Labatut"
+    ],
+    "pub_date_start_sort": 542,
+    "pub_date_end_sort": 552,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "solidus"
+    ],
+    "issue_number_s": [
+        "5883"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Justinian I wearing diadem with pendilia and cuirass, holding globe"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINI ANVSPP AVC"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory holding long staff with chi-ro at top in right hand and gl.cr. In left."
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORI AAVCCC|CONOB"
+    ],
+    "issue_references_s": [
+        " Justinian I 7B",
+        " Justinian I 9e",
+        "BL Justinian I 11",
+        "BMC.Byz. Justinian I 10"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "44bfb5d8aee73a06"
+    ],
+    "_version_": 1667138147744481280,
+    "timestamp": "2020-05-19T16:47:13.405Z"
+}

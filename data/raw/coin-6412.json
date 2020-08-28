@@ -1,0 +1,93 @@
+{
+    "id": "coin-6412",
+    "title_display": "Coin: 6412",
+    "pub_created_display": [
+        "Philip IV (1621 to 1665), 8 maravedis"
+    ],
+    "call_number_display": [
+        "Coin 6412"
+    ],
+    "call_number_browse_s": [
+        "Coin 6412"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "8 maravedis"
+    ],
+    "notes_display": [
+        "Counter stamp erased original date and workshop. Weight with edges worn off: 7.79 g. Size with edges worn off: 21 mm."
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6412\",\"call_number_browse\":\"Coin 6412\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1621,
+    "pub_date_end_sort": 1665,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "8 maravedis"
+    ],
+    "issue_number_s": [
+        "3840"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Philip IV (1621 to 1665)"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Arms of Castille"
+    ],
+    "issue_obverse_symbol_s": [
+        "VIII"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crowned shield of Castille,VIII to the right"
+    ],
+    "issue_obverse_legend_s": [
+        "PHILIPPVS\u25cfIIII\u25cfD\u25cfG\u25cf"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_figure_description_s": [
+        "lion in shield with crown"
+    ],
+    "issue_reverse_legend_s": [
+        "HISPANIARVM\u25cfREX"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n  var. 4892",
+        "Heiss vol. I, lam. 37 var. 36",
+        "Las Monedas Espanolas  var. 915"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9aae5062884dc7e1"
+    ],
+    "_version_": 1667138371737092096,
+    "timestamp": "2020-05-19T16:50:47.024Z"
+}

@@ -1,0 +1,112 @@
+{
+    "id": "coin-8459",
+    "title_display": "Coin: 8459",
+    "pub_created_display": [
+        "medium, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 8459"
+    ],
+    "call_number_browse_s": [
+        "Coin 8459"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/29/1936"
+    ],
+    "find_locus_s": [
+        "DH 26-O/P"
+    ],
+    "find_number_s": [
+        "C6188"
+    ],
+    "find_description_s": [
+        "Sub 5 to 1.45 from drain"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "3.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8459\",\"call_number_browse\":\"Coin 8459\"}}",
+    "pub_date_start_sort": -92,
+    "pub_date_end_sort": -72,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "medium"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Seleucid"
+    ],
+    "issue_series_s": [
+        "municipal"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "veiled and turreted"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod-lebes"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with three handles, decorated with three laurel branches. Exergue off flan"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d \u03a4\u0397\u03a3 \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_references_s": [
+        "Waage  263"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "09f9fab31b76b422"
+    ],
+    "_version_": 1671474548484079616,
+    "timestamp": "2020-07-06T13:32:27.413Z"
+}

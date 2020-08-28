@@ -1,0 +1,103 @@
+{
+    "id": "coin-12381",
+    "title_display": "Coin: 12381",
+    "pub_created_display": [
+        "Drachm, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 12381"
+    ],
+    "call_number_browse_s": [
+        "Coin 12381"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "2.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12381\",\"call_number_browse\":\"Coin 12381\"}}",
+    "pub_date_start_sort": -300,
+    "pub_date_end_sort": -243,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8312"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Corinth, Corinthia, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Corinthia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_obverse_symbol_s": [
+        "coppa"
+    ],
+    "issue_obverse_part_s": [
+        "flying"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Aphrodite"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing earring and necklace; hair tied behind, leaving loose ends"
+    ],
+    "issue_reverse_attributes_s": [
+        "m12381, right of head"
+    ],
+    "issue_references_s": [
+        "BMC Corinth  413v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "891ca0a0c898a18d"
+    ],
+    "_version_": 1667138304315752448,
+    "timestamp": "2020-05-19T16:49:42.724Z"
+}

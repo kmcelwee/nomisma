@@ -1,0 +1,99 @@
+{
+    "id": "coin-15200",
+    "title_display": "Coin: 15200",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15200"
+    ],
+    "call_number_browse_s": [
+        "Coin 15200"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "9.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15200\",\"call_number_browse\":\"Coin 15200\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 156,
+    "pub_date_end_sort": 157,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "9357"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG-PIVS P P IMP II"
+    ],
+    "issue_reverse_figure_s": [
+        "Dr. female figure (Providentia) standing facing, head l., with r. pointing at globe at her feet; in left have, scepter; to l.-r., S - C"
+    ],
+    "issue_reverse_legend_s": [
+        "TR POT XX - COS IIII"
+    ],
+    "issue_references_s": [
+        "BMC.1 342 2029",
+        "RIC 146 972",
+        "Strack 1132 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "11af6d9c98070c58"
+    ],
+    "_version_": 1667146545992040448,
+    "timestamp": "2020-05-19T19:02:24.580Z"
+}

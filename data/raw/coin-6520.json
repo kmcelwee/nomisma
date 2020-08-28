@@ -1,0 +1,101 @@
+{
+    "id": "coin-6520",
+    "title_display": "Coin: 6520",
+    "pub_created_display": [
+        "Andronicus II (1282 to 1328), trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6520"
+    ],
+    "call_number_browse_s": [
+        "Coin 6520"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "1.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6520\",\"call_number_browse\":\"Coin 6520\"}}",
+    "pub_date_start_sort": 1282,
+    "pub_date_end_sort": 1328,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "trachy"
+    ],
+    "issue_number_s": [
+        "3941"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Andronicus II (1282 to 1328)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Patriarchal cross"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "large patriarchal cross, two stars in lower field (obscure)"
+    ],
+    "issue_reverse_figure_s": [
+        "Andronicus II"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Andronicus II standing holding two haloed crosses"
+    ],
+    "issue_references_s": [
+        "DOC vol. V, page 159 30",
+        "Sear  2387"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b5bfd2b6c08e49ca"
+    ],
+    "_version_": 1667138367314198528,
+    "timestamp": "2020-05-19T16:50:42.805Z"
+}

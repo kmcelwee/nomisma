@@ -1,0 +1,103 @@
+{
+    "id": "coin-8819",
+    "title_display": "Coin: 8819",
+    "pub_created_display": [
+        "Cosimo I de Medici (1537 to 1574), teston, Florence"
+    ],
+    "call_number_display": [
+        "Coin 8819"
+    ],
+    "call_number_browse_s": [
+        "Coin 8819"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "8.82"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8819\",\"call_number_browse\":\"Coin 8819\"}}",
+    "pub_date_start_sort": 1537,
+    "pub_date_end_sort": 1574,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "teston"
+    ],
+    "issue_number_s": [
+        "5615"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Cosimo I de Medici (1537 to 1574)"
+    ],
+    "issue_place_s": [
+        "Florence, Tuscany, Italy"
+    ],
+    "issue_city_s": [
+        "Florence"
+    ],
+    "issue_state_s": [
+        "Tuscany"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Cosimo I de Medici"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Cosimo I de Medici"
+    ],
+    "issue_obverse_legend_s": [
+        "COSMVS MED.FLOREN.ET SENARVMDV.XII"
+    ],
+    "issue_reverse_figure_s": [
+        "St. John"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Seated St. John preaching;r.hand raised; l.hand holding long cross"
+    ],
+    "issue_reverse_legend_s": [
+        "S IOANNES BAPTISTA"
+    ],
+    "issue_references_s": [
+        "Signorie e Principati: monete italiane con ritratto, 1450-1796 II, 327 6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "40dcc3723f388c69"
+    ],
+    "_version_": 1667138153640624128,
+    "timestamp": "2020-05-19T16:47:19.029Z"
+}

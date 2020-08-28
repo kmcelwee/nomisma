@@ -1,0 +1,98 @@
+{
+    "id": "coin-11623",
+    "title_display": "Coin: 11623",
+    "pub_created_display": [
+        "Narseh, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11623"
+    ],
+    "call_number_browse_s": [
+        "Coin 11623"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Loop removed"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.038"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11623\",\"call_number_browse\":\"Coin 11623\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 293,
+    "pub_date_end_sort": 302,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7742"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Narseh"
+    ],
+    "issue_series_s": [
+        "Style A/1(Phase 1) Ia/1a (SNS2)"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Narseh on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "arcaded crown surmounted by three floral elements; covered korymbos; plain diadem, diadem ribbons pointing upwards; earing consisting of two elements; neck-line of tunica edged with row of pearls; double lines running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy nrshy MRKAn MRKA/mazd\u0113sn bay N\u0101rseh \u0161\u0101h\u0101n \u0161\u0101h/\u201cThe Mazda-worshiping divine Narseh, king of kings\u201d"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; four altar slabs; altar flames depicted with vertical lines; to the left of the altar attendant with stylized crown of Narseh, holding a barsom in his left hand, right hand resting on his scabbard, to the right of the altar attendant with stylized crown of Ahuramazda, holding a barsom with both hands, both facing inwards; dotted border; to the left of the later flames symbol (SNS, var. 25), to the right symbol (SNS 3, var. 48)"
+    ],
+    "issue_reverse_legend_s": [
+        "4h l. o. NWRA ZY; 8h l. o. nrshy \u0101dur \u012b N\u0101rseh/\u201cthe fire of Narseh\u201d;(Barbarized)"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style A/1(Phase 1) TYpe Ia/1a",
+        "SN  II/2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "239b99a486b02f4a"
+    ],
+    "_version_": 1667138295634591744,
+    "timestamp": "2020-05-19T16:49:34.447Z"
+}

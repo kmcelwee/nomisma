@@ -1,0 +1,116 @@
+{
+    "id": "coin-9954",
+    "title_display": "Coin: 9954",
+    "pub_created_display": [
+        "Unknown, fractional, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9954"
+    ],
+    "call_number_browse_s": [
+        "Coin 9954"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Alternate number 2047 given"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/8/1932"
+    ],
+    "find_locus_s": [
+        "17-N"
+    ],
+    "find_number_s": [
+        "C1446"
+    ],
+    "find_description_s": [
+        "Selucia"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.07"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9954\",\"call_number_browse\":\"Coin 9954\"}}",
+    "pub_date_start_sort": 1100,
+    "pub_date_end_sort": 1270,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fractional"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_symbol_s": [
+        "pellet"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "pellet in each quadrant of cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+PRINCEP[S]"
+    ],
+    "issue_reverse_figure_s": [
+        "Terastyle building surmounted by cross"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_legend_s": [
+        "+AHTIOCHIE"
+    ],
+    "issue_references_s": [
+        "Ox.  465",
+        "Schl.  III15"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e5616af1d0c50c6b"
+    ],
+    "_version_": 1674260807144177664,
+    "timestamp": "2020-08-06T07:38:50.738Z"
+}

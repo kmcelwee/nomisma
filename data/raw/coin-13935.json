@@ -1,0 +1,103 @@
+{
+    "id": "coin-13935",
+    "title_display": "Coin: 13935",
+    "pub_created_display": [
+        "bronze, Rhodes"
+    ],
+    "call_number_display": [
+        "Coin 13935"
+    ],
+    "call_number_browse_s": [
+        "Coin 13935"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "1.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13935\",\"call_number_browse\":\"Coin 13935\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "8969"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Rhodes, Islands off Caria, Greece"
+    ],
+    "issue_city_s": [
+        "Rhodes"
+    ],
+    "issue_state_s": [
+        "Islands off Caria"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Rhodos"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate; wearing stephane, earring, and necklace"
+    ],
+    "issue_reverse_figure_s": [
+        "Rose"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "branches on both sides, magistrate name above (unclear), whole in incuse square"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u03a1\u039f, in field"
+    ],
+    "issue_references_s": [
+        "BMC Caria  333"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "112ae33d5420c91a"
+    ],
+    "_version_": 1667138328693047296,
+    "timestamp": "2020-05-19T16:50:05.971Z"
+}

@@ -1,0 +1,118 @@
+{
+    "id": "coin-7973",
+    "title_display": "Coin: 7973",
+    "pub_created_display": [
+        "Numerian (282 to 284), officnae, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7973"
+    ],
+    "call_number_browse_s": [
+        "Coin 7973"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Broken; weight is 2.57 g."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-27-1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca579"
+    ],
+    "find_description_s": [
+        "North to 4m, Basket F"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7973\",\"call_number_browse\":\"Coin 7973\"}}",
+    "pub_date_start_sort": 222,
+    "pub_date_end_sort": 235,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "officnae"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Numerian (282 to 284)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crowned, with short beard and flowing hair"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C M AVR NVMERIANVS NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "Z"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "standing l., holding sceptre and giving Victory on globe to prince, standing r., holding sceptre l."
+    ],
+    "issue_reverse_legend_s": [
+        "VIRTVS AVGGG"
+    ],
+    "issue_references_s": [
+        "RIC 5.191 378"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dc23da3733e02e35"
+    ],
+    "_version_": 1673554598148702208,
+    "timestamp": "2020-07-29T12:33:57.357Z"
+}

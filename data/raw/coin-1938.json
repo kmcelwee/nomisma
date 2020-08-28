@@ -1,0 +1,121 @@
+{
+    "id": "coin-1938",
+    "title_display": "Coin: 1938",
+    "pub_created_display": [
+        "Gallienus (253 to 268), bronze, Tyre"
+    ],
+    "call_number_display": [
+        "Coin 1938"
+    ],
+    "call_number_browse_s": [
+        "Coin 1938"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/31/1938"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Cb2963"
+    ],
+    "find_description_s": [
+        "West side of B12"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "15.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1938\",\"call_number_browse\":\"Coin 1938\"}}",
+    "pub_date_start_sort": 253,
+    "pub_date_end_sort": 268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1266"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Gallienus (253 to 268)"
+    ],
+    "issue_place_s": [
+        "Tyre, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Tyre"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Gallienus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing paludamentum and cuirass; inscr. around bust;"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCPLICGALLIENVSAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Temple of the Koinon of Phoenicia"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in perspective; six columns in front and on side; star or dot in pediment. Below, murex shell."
+    ],
+    "issue_reverse_legend_s": [
+        "COLTVRO METRO"
+    ],
+    "issue_references_s": [
+        "BMC.Phoen Tyre 475v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4a7240a2e4cd9609"
+    ],
+    "_version_": 1667138215702691840,
+    "timestamp": "2020-05-19T16:48:18.214Z"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "coin-12034",
+    "title_display": "Coin: 12034",
+    "call_number_display": [
+        "Coin 12034"
+    ],
+    "call_number_browse_s": [
+        "Coin 12034"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12034\",\"call_number_browse\":\"Coin 12034\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "8152"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d1ff1ddb99d0c4ef"
+    ],
+    "_version_": 1667949376339705856,
+    "timestamp": "2020-05-28T15:41:21.287Z"
+}

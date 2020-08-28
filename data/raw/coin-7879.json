@@ -1,0 +1,97 @@
+{
+    "id": "coin-7879",
+    "title_display": "Coin: 7879",
+    "pub_created_display": [
+        "fals, Ba'albik"
+    ],
+    "call_number_display": [
+        "Coin 7879"
+    ],
+    "call_number_browse_s": [
+        "Coin 7879"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Most of the legend obliterated"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "13-4-37"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca319"
+    ],
+    "find_description_s": [
+        "near Byzantine wall under cement floor to 3 M"
+    ],
+    "size_s": [
+        "11 mm"
+    ],
+    "weight_s": [
+        "0.842"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7879\",\"call_number_browse\":\"Coin 7879\"}}",
+    "pub_date_start_sort": 670,
+    "pub_date_end_sort": 690,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4940"
+    ],
+    "issue_place_s": [
+        "Ba'albik, Jund Dimashq, Syria"
+    ],
+    "issue_city_s": [
+        "Ba'albik"
+    ],
+    "issue_state_s": [
+        "Jund Dimashq"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large M"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c, below \u0394, r. H\u039bIOU[ligature] l. \u03a0O\u039bE, in ex. \u0628\u0639\u0644\u0628\u0643\r\n\r\n\u039c/ h\u03bb\u03b9\u03b4\r\n\r\n\u03c0\u03bf\u03bb\u03b5"
+    ],
+    "issue_references_s": [
+        "BMC  35"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5eeb0a90ed82596c"
+    ],
+    "_version_": 1667138263824990208,
+    "timestamp": "2020-05-19T16:49:04.108Z"
+}

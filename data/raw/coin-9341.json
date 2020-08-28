@@ -1,0 +1,106 @@
+{
+    "id": "coin-9341",
+    "title_display": "Coin: 9341",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Cyzicus"
+    ],
+    "call_number_display": [
+        "Coin 9341"
+    ],
+    "call_number_browse_s": [
+        "Coin 9341"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "18.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9341\",\"call_number_browse\":\"Coin 9341\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 541,
+    "pub_date_end_sort": 542,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5960"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_place_s": [
+        "Cyzicus, Mysia, Byzantium"
+    ],
+    "issue_city_s": [
+        "Cyzicus"
+    ],
+    "issue_state_s": [
+        "Mysia"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Justinian I wearing diadem with pendilia and cuirass, holding globe"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINI ANVSPP AVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO XU|KYZ"
+    ],
+    "issue_references_s": [
+        "MIB Justinian I 120a",
+        "DOC Justinian I 168B",
+        "BL Justinian I 15",
+        "BMC Justinian I 243"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8d06b99674f5c95d"
+    ],
+    "_version_": 1667138148638916608,
+    "timestamp": "2020-05-19T16:47:14.258Z"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "coin-7787",
+    "title_display": "Coin: 7787",
+    "pub_created_display": [
+        "Constantine II, follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 7787"
+    ],
+    "call_number_browse_s": [
+        "Coin 7787"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "June 5, 1934"
+    ],
+    "find_feature_s": [
+        "Circus, Trench 2 Arena"
+    ],
+    "find_locus_s": [
+        "7-N"
+    ],
+    "find_number_s": [
+        "C3122"
+    ],
+    "find_description_s": [
+        "west side, north end"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7787\",\"call_number_browse\":\"Coin 7787\"}}",
+    "pub_date_start_sort": 317,
+    "pub_date_end_sort": 320,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4850"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust, facing right, laur., dr., cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "D N FL CL CONSTANTINVS NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "Z"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter standing left, chlamys across left shoulder, leaning on sceptre, holding Victory on globe in right hand"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN-TIAE CAESS"
+    ],
+    "issue_references_s": [
+        "RIC 7 605.36",
+        "Cohen 7 384.161"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5d77fb1e747b034a"
+    ],
+    "_version_": 1667138262289874944,
+    "timestamp": "2020-05-19T16:49:02.644Z"
+}

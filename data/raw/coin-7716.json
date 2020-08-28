@@ -1,0 +1,124 @@
+{
+    "id": "coin-7716",
+    "title_display": "Coin: 7716",
+    "pub_created_display": [
+        "Constantine II, follis, Arles"
+    ],
+    "call_number_display": [
+        "Coin 7716"
+    ],
+    "call_number_browse_s": [
+        "Coin 7716"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Mint mark QAR, unknown (not identified in original notes, nor attributed to any known mint): coin attributed to Siscia in original notes"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "August 6, 1935"
+    ],
+    "find_feature_s": [
+        "Circus"
+    ],
+    "find_locus_s": [
+        "7-N"
+    ],
+    "find_number_s": [
+        "C5729"
+    ],
+    "find_description_s": [
+        " Along drain outside South West tower"
+    ],
+    "die_axis_s": [
+        "0"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "185.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7716\",\"call_number_browse\":\"Coin 7716\"}}",
+    "pub_date_start_sort": 320,
+    "pub_date_end_sort": 323,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4817"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Arles, Narbonensis, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Arles"
+    ],
+    "issue_state_s": [
+        "Narbonensis"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust, laureled, dr., facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "Q"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "C___M legend wrapped around VOT/X inside laurel wreath"
+    ],
+    "issue_reverse_legend_s": [
+        "CAESARVM NOSTRORVM around VOT/X"
+    ],
+    "issue_references_s": [
+        "RIC 7 260.251"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8c8ca1abff82e465"
+    ],
+    "_version_": 1667138261713158144,
+    "timestamp": "2020-05-19T16:49:02.094Z"
+}

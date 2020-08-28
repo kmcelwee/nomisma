@@ -1,0 +1,113 @@
+{
+    "id": "coin-9895",
+    "title_display": "Coin: 9895",
+    "pub_created_display": [
+        "Latin Imitative (1204 to 1261), billon trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 9895"
+    ],
+    "call_number_browse_s": [
+        "Coin 9895"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin in rough condition. Inscriptions missing. Obverse obscure."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "1.09"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9895\",\"call_number_browse\":\"Coin 9895\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1080,
+    "pub_date_end_sort": 1200,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "6277"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Latin Imitative (1204 to 1261)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC O EMMAN\u039f\u03a5\u0397\u039b"
+    ],
+    "issue_obverse_attributes_s": [
+        "scroll, in l.hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_figure_description_s": [
+        "jeweled, decorated"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a4\u03c9\u039a\u039f\u039c\u039d"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum scepter, in r.hand",
+        "globus cruciger, in l.hand"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection IV,p.697 34.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e5327d624154661d"
+    ],
+    "_version_": 1667138142093705216,
+    "timestamp": "2020-05-19T16:47:08.017Z"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "coin-8174",
+    "title_display": "Coin: 8174",
+    "pub_created_display": [
+        "half, Castulo"
+    ],
+    "call_number_display": [
+        "Coin 8174"
+    ],
+    "call_number_browse_s": [
+        "Coin 8174"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "5.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8174\",\"call_number_browse\":\"Coin 8174\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -125,
+    "pub_date_end_sort": -100,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "5186"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Castulo, Hispania Ulterior, Hispania"
+    ],
+    "issue_city_s": [
+        "Castulo"
+    ],
+    "issue_state_s": [
+        "Hispania Ulterior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_symbol_s": [
+        "palm branch"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_s": [
+        "Bull"
+    ],
+    "issue_reverse_symbol_s": [
+        "crescent"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_legend_s": [
+        "KASTILO in iberian script"
+    ],
+    "issue_references_s": [
+        "CNH 336 42"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8b82f4cf5d64853b"
+    ],
+    "_version_": 1667138188994412544,
+    "timestamp": "2020-05-19T16:47:52.744Z"
+}

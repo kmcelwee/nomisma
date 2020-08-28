@@ -1,0 +1,94 @@
+{
+    "id": "coin-9361",
+    "title_display": "Coin: 9361",
+    "pub_created_display": [
+        "florin, Florence"
+    ],
+    "call_number_display": [
+        "Coin 9361"
+    ],
+    "call_number_browse_s": [
+        "Coin 9361"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9361\",\"call_number_browse\":\"Coin 9361\"}}",
+    "pub_date_start_sort": 1436,
+    "pub_date_end_sort": 1449,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "florin"
+    ],
+    "issue_number_s": [
+        "5983"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_place_s": [
+        "Florence, Italy"
+    ],
+    "issue_city_s": [
+        "Florence"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Florentine Lily"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_legend_s": [
+        "FLOR ENTIA"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint John"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Symbol: Letter T encicled below a square cross with four points; Saint John with a long cloak  and staff topped by cross"
+    ],
+    "issue_reverse_legend_s": [
+        "SIOHA  N NESB"
+    ],
+    "issue_references_s": [
+        "Paolucci II 49.556"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0173c2a673fb87fe"
+    ],
+    "_version_": 1667145542244761600,
+    "timestamp": "2020-05-19T18:52:24.396Z"
+}

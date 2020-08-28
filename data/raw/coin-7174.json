@@ -1,0 +1,94 @@
+{
+    "id": "coin-7174",
+    "title_display": "Coin: 7174",
+    "call_number_display": [
+        "Coin 7174"
+    ],
+    "call_number_browse_s": [
+        "Coin 7174"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Pin on reverse for fastening"
+    ],
+    "size_s": [
+        "76 x 76"
+    ],
+    "technique_s": [
+        "gilt, enameled"
+    ],
+    "weight_s": [
+        "79.21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7174\",\"call_number_browse\":\"Coin 7174\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "star"
+    ],
+    "issue_number_s": [
+        "4492"
+    ],
+    "issue_metal_s": [
+        "Gilt silver"
+    ],
+    "issue_shape_s": [
+        "eight-pointed star"
+    ],
+    "issue_color_s": [
+        "red, blue, green, white, gilt"
+    ],
+    "issue_place_s": [
+        "Mexico"
+    ],
+    "issue_region_s": [
+        "Mexico"
+    ],
+    "issue_obverse_figure_s": [
+        "Eagle and snake"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Over eight-pointed metal star, smaller red enameled four-pointed star; between points, eagles with snakes; in the middle, eagle and snake over Mexican flag colors"
+    ],
+    "issue_obverse_legend_s": [
+        "GENERAL DE DIV. - IGNACIO COMONFORT -"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle and snake"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "In center, eagle and snake over green/white/red stripes (Mexican flag)"
+    ],
+    "issue_reverse_legend_s": [
+        "CUERPO DE DEFENSORES DE LA REPUBLICA | SERVICIOS DISTINGUIDOS  DESDE 1836"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cc104086e9cad4c9"
+    ],
+    "_version_": 1667138127962046464,
+    "timestamp": "2020-05-19T16:46:54.541Z"
+}

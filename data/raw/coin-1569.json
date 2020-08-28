@@ -1,0 +1,98 @@
+{
+    "id": "coin-1569",
+    "title_display": "Coin: 1569",
+    "pub_created_display": [
+        "litra, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 1569"
+    ],
+    "call_number_browse_s": [
+        "Coin 1569"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "8.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1569\",\"call_number_browse\":\"Coin 1569\"}}",
+    "pub_date_start_sort": -289,
+    "pub_date_end_sort": -287,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "litra"
+    ],
+    "issue_number_s": [
+        "811"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Persephone"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "\u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d"
+    ],
+    "issue_reverse_figure_s": [
+        "Biga"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_attributes_s": [
+        "star, above",
+        "m73, below horses' forelegs"
+    ],
+    "issue_references_s": [
+        "ANS Part 5, Sicily III 764v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fae77b7ad957200b"
+    ],
+    "_version_": 1667138211186475008,
+    "timestamp": "2020-05-19T16:48:13.910Z"
+}

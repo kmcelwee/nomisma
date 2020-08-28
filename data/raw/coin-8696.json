@@ -1,0 +1,97 @@
+{
+    "id": "coin-8696",
+    "title_display": "Coin: 8696",
+    "pub_created_display": [
+        "Faraj Al-Nasir Nasir al-Din Abu al-Sa'adat (1399 to 1412), fals, Aleppo"
+    ],
+    "call_number_display": [
+        "Coin 8696"
+    ],
+    "call_number_browse_s": [
+        "Coin 8696"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/23/1935"
+    ],
+    "find_feature_s": [
+        "SE Cemetery Tomb 5"
+    ],
+    "find_locus_s": [
+        "24-L"
+    ],
+    "find_number_s": [
+        "C4561"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "3.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8696\",\"call_number_browse\":\"Coin 8696\"}}",
+    "pub_date_start_sort": 1400,
+    "pub_date_end_sort": 1401,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5533"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "Faraj Al-Nasir Nasir al-Din Abu al-Sa'adat (1399 to 1412)"
+    ],
+    "issue_place_s": [
+        "Aleppo, Syria, Egypt"
+    ],
+    "issue_city_s": [
+        "Aleppo"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0627\u0644\u0645\u0643 \u0627\u0644\u0646\u0627\u0635\u0631 | \u0627\u0628\u0648  \u0627\u0633\u0639\u062f\u0627\u062a \u0641\u0631\u062e | \u0627\u0628\u0646 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u0638\u0627\u0647\u0631 | \u0628\u0631\u0642\u0648\u0642"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0641\u0649 \u0634\u0647\u0648\u0631 | \u0636\u0631\u0628 \u0628\u062d\u0627\u0628 || \u0646 \u0648 \u0646 | \u0627\u062b\u0646\u0627 \u062b\u0645\u0627 \u0645\u064a\u0629"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  653"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c94ce4c58f33b80e"
+    ],
+    "_version_": 1667138274792046592,
+    "timestamp": "2020-05-19T16:49:14.566Z"
+}

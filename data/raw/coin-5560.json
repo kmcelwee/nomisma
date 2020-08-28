@@ -1,0 +1,80 @@
+{
+    "id": "coin-5560",
+    "title_display": "Coin: 5560",
+    "pub_created_display": [
+        "Xiao Zong \u5b5d\u5b97 (Zhao Shen \u8d99\u614e) (1163 to 1190), 2 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5560"
+    ],
+    "call_number_browse_s": [
+        "Coin 5560"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse has Nine or Jiu character (\u4e5d) above. Obverse legend written in regular script or Kai Shu  (\u6977\u66f8)."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29.5"
+    ],
+    "weight_s": [
+        "8.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5560\",\"call_number_browse\":\"Coin 5560\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1163,
+    "pub_date_end_sort": 1190,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 Cash"
+    ],
+    "issue_number_s": [
+        "3147"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Xiao Zong \u5b5d\u5b97 (Zhao Shen \u8d99\u614e) (1163 to 1190)"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Written in regular script or Kai Shu  (\u6977\u66f8)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6df3\u7199\u5143\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "Reverse has Nine or Jiu character (\u4e5d) above."
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 516 2048",
+        "Hartill 174 17.231"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dc5baa6d8c8c4437"
+    ],
+    "_version_": 1667138394796326912,
+    "timestamp": "2020-05-19T16:51:09.015Z"
+}

@@ -1,0 +1,95 @@
+{
+    "id": "coin-540",
+    "title_display": "Coin: 540",
+    "pub_created_display": [
+        "Henry I (1152 to 1180), penny, Provins"
+    ],
+    "call_number_display": [
+        "Coin 540"
+    ],
+    "call_number_browse_s": [
+        "Coin 540"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "0.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 540\",\"call_number_browse\":\"Coin 540\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1125,
+    "pub_date_end_sort": 1152,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "241"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Henry I (1152 to 1180)"
+    ],
+    "issue_place_s": [
+        "Provins, Champagne, France"
+    ],
+    "issue_city_s": [
+        "Provins"
+    ],
+    "issue_state_s": [
+        "Champagne"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+TEBALTCOMES"
+    ],
+    "issue_obverse_attributes_s": [
+        "cross, monogram in quadrants"
+    ],
+    "issue_reverse_figure_s": [
+        "Comb"
+    ],
+    "issue_reverse_legend_s": [
+        "CASTRIPRVVINS"
+    ],
+    "issue_references_s": [
+        "P.d'A. vol. 3 5970",
+        "Robert  4726"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "09fb7bace0bdf200"
+    ],
+    "_version_": 1667138404405477376,
+    "timestamp": "2020-05-19T16:51:18.175Z"
+}

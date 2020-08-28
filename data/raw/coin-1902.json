@@ -1,0 +1,101 @@
+{
+    "id": "coin-1902",
+    "title_display": "Coin: 1902",
+    "pub_created_display": [
+        "Tetradrachm, Catana"
+    ],
+    "call_number_display": [
+        "Coin 1902"
+    ],
+    "call_number_browse_s": [
+        "Coin 1902"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "16.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1902\",\"call_number_browse\":\"Coin 1902\"}}",
+    "pub_date_start_sort": -450,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "1246"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Catana, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Catana"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Quadriga"
+    ],
+    "issue_obverse_part_s": [
+        "walking"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Nike crowns charioteer"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039a\u0391\u03a4\u0391\u039d\u0391\u0399\u039f\u039d"
+    ],
+    "issue_references_s": [
+        "ANS Part III, Sicily I 1251v",
+        "Agrigento  515v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fb3b0fb5a9fdfd35"
+    ],
+    "_version_": 1667138468284727296,
+    "timestamp": "2020-05-19T16:52:19.096Z"
+}

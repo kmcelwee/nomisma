@@ -1,0 +1,107 @@
+{
+    "id": "coin-7517",
+    "title_display": "Coin: 7517",
+    "pub_created_display": [
+        "Constantine II, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7517"
+    ],
+    "call_number_browse_s": [
+        "Coin 7517"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "May 11, 1936"
+    ],
+    "find_locus_s": [
+        "16-P"
+    ],
+    "find_description_s": [
+        "16-P Dig VI Surface"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "1.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7517\",\"call_number_browse\":\"Coin 7517\"}}",
+    "pub_date_start_sort": 337,
+    "pub_date_end_sort": 347,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "DV CONSTANTINVS PT AVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0394"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Emperor, veiled, to r. in quadriga, hand reaching down to him, star overhead"
+    ],
+    "issue_references_s": [
+        "Cohen 7 318.460",
+        "RIC 8 514.37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "516133a2c884842c"
+    ],
+    "_version_": 1673553350938853376,
+    "timestamp": "2020-07-29T12:14:07.927Z"
+}

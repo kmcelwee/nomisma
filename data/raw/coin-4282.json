@@ -1,0 +1,82 @@
+{
+    "id": "coin-4282",
+    "title_display": "Coin: 4282",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4282"
+    ],
+    "call_number_browse_s": [
+        "Coin 4282"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Specific Gravity: 17.9277"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.458"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4282\",\"call_number_browse\":\"Coin 4282\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1423,
+    "pub_date_end_sort": 1437,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2434"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "AHDKDAHD.VIO | .SHVEHETI | DVX"
+    ],
+    "issue_reverse_legend_s": [
+        ".SITTXPEDATOTV .K(backwards)EGISISTEDVEAT."
+    ],
+    "issue_references_s": [
+        "Schl. PL. XII 34v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3d55323dcf7250c9"
+    ],
+    "_version_": 1667138494674239488,
+    "timestamp": "2020-05-19T16:52:44.265Z"
+}

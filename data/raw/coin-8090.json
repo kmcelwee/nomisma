@@ -1,0 +1,122 @@
+{
+    "id": "coin-8090",
+    "title_display": "Coin: 8090",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Tarragona"
+    ],
+    "call_number_display": [
+        "Coin 8090"
+    ],
+    "call_number_browse_s": [
+        "Coin 8090"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/13/1937"
+    ],
+    "find_feature_s": [
+        "Under mosaic of room B:E end"
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Ca2548"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8090\",\"call_number_browse\":\"Coin 8090\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 313,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5119"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Tarragona, Tarraconensis, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Tarragona"
+    ],
+    "issue_state_s": [
+        "Tarraconensis"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laur."
+    ],
+    "issue_obverse_legend_s": [
+        "IMPLICINIVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Sol"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rad., raising r. hand, globe in l., chlamys across l. shoulder"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLI INVI-C-TO COMITI | S"
+    ],
+    "issue_references_s": [
+        "RIC.7 p. 360 4",
+        "Numismatique Constantinienne II p. 233 V 3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1201b8362691b434"
+    ],
+    "_version_": 1667138350122795008,
+    "timestamp": "2020-05-19T16:50:26.408Z"
+}

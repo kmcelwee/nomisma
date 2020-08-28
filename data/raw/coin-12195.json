@@ -1,0 +1,108 @@
+{
+    "id": "coin-12195",
+    "title_display": "Coin: 12195",
+    "pub_created_display": [
+        "Manuel I Komnenos (1143 to 1180), half-tetarteron, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 12195"
+    ],
+    "call_number_browse_s": [
+        "Coin 12195"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscriptions obscure."
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12195\",\"call_number_browse\":\"Coin 12195\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 1167,
+    "pub_date_end_sort": 1183,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half-tetarteron"
+    ],
+    "issue_number_s": [
+        "8227"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Manuel I Komnenos (1143 to 1180)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on three steps"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bearded"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u0391\u039d\u039f\u03a5\u0397\u039b \u0394\u0395\u03a3\u03a0\u039f\u03a4H"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum, in right hand",
+        "globus cruciger, in left hand"
+    ],
+    "issue_references_s": [
+        "DOC p.338 24.2",
+        "Sear  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c03dc1ab53410f0b"
+    ],
+    "_version_": 1667138301780295680,
+    "timestamp": "2020-05-19T16:49:40.306Z"
+}

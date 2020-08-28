@@ -1,0 +1,106 @@
+{
+    "id": "coin-14954",
+    "title_display": "Coin: 14954",
+    "pub_created_display": [
+        "Pietro Ziani (1205 to 1229), grosso"
+    ],
+    "call_number_display": [
+        "Coin 14954"
+    ],
+    "call_number_browse_s": [
+        "Coin 14954"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "2.03"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14954\",\"call_number_browse\":\"Coin 14954\"}}",
+    "donor_s": [
+        "Platt"
+    ],
+    "pub_date_start_sort": 1205,
+    "pub_date_end_sort": 1229,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "9168"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Pietro Ziani (1205 to 1229)"
+    ],
+    "issue_place_s": [
+        "Venice, Italy"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "San Marco gives banner to doge"
+    ],
+    "issue_obverse_legend_s": [
+        "+ P ZIANI DVX S M VENETI"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Redeemer seated in throne"
+    ],
+    "issue_reverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_references_s": [
+        "Pap. 1 93, 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c3f6fed54d78acbb"
+    ],
+    "_version_": 1667223612332965888,
+    "timestamp": "2020-05-20T15:25:38.788Z"
+}

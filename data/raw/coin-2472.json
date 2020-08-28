@@ -1,0 +1,105 @@
+{
+    "id": "coin-2472",
+    "title_display": "Coin: 2472",
+    "pub_created_display": [
+        "Antonio Venier (1382 to 1400), grosso, Venice"
+    ],
+    "call_number_display": [
+        "Coin 2472"
+    ],
+    "call_number_browse_s": [
+        "Coin 2472"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "1.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2472\",\"call_number_browse\":\"Coin 2472\"}}",
+    "pub_date_start_sort": 1382,
+    "pub_date_end_sort": 1400,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosso"
+    ],
+    "issue_number_s": [
+        "9332"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Antonio Venier (1382 to 1400)"
+    ],
+    "issue_place_s": [
+        "Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Saint Mark hands banner to the doge"
+    ],
+    "issue_obverse_legend_s": [
+        "ANTO VENERIO DVX S M VENETI"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Redeemer seated on throne"
+    ],
+    "issue_reverse_legend_s": [
+        "+ TIBI LAUS 7 GLORIA"
+    ],
+    "issue_references_s": [
+        "Pap. 1 229, 3",
+        "MEC 12 647",
+        "CNI, 7  III.27.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8d7b9d2a6ec01bb1"
+    ],
+    "_version_": 1667138127319269376,
+    "timestamp": "2020-05-19T16:46:53.926Z"
+}

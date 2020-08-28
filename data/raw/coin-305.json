@@ -1,0 +1,89 @@
+{
+    "id": "coin-305",
+    "title_display": "Coin: 305",
+    "pub_created_display": [
+        "Hugh Capet (987 to 996), penny, Beauvais"
+    ],
+    "call_number_display": [
+        "Coin 305"
+    ],
+    "call_number_browse_s": [
+        "Coin 305"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "1.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 305\",\"call_number_browse\":\"Coin 305\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 987,
+    "pub_date_end_sort": 996,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "155"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hugh Capet (987 to 996)"
+    ],
+    "issue_place_s": [
+        "Beauvais, France"
+    ],
+    "issue_city_s": [
+        "Beauvais"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "HERVEVS HVGO REX"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_legend_s": [
+        "BELVACVS CIVITAS"
+    ],
+    "issue_references_s": [
+        "Lafaurie  6",
+        "Robert  2251"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fc0dba045de73d1c"
+    ],
+    "_version_": 1667138201383337984,
+    "timestamp": "2020-05-19T16:48:04.560Z"
+}

@@ -1,0 +1,109 @@
+{
+    "id": "coin-9873",
+    "title_display": "Coin: 9873",
+    "pub_created_display": [
+        "Latin Imitative (1204 to 1261), billon trachy, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9873"
+    ],
+    "call_number_browse_s": [
+        "Coin 9873"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse double-struck. Inscription on obverse missing. Inscription on reverse  \u03bd \u0398\u03a5"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "1.81"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9873\",\"call_number_browse\":\"Coin 9873\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1195,
+    "pub_date_end_sort": 1197,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "6250"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Latin Imitative (1204 to 1261)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Latin Empire, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Latin Empire"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ seated with book"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on throne without back, bearded"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_reverse_part_s": [
+        "orans"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u03a1 \u0398\u03a5"
+    ],
+    "issue_references_s": [
+        "DOC IV,p.685 18.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "36894b6a26560451"
+    ],
+    "_version_": 1667138194375704576,
+    "timestamp": "2020-05-19T16:47:57.877Z"
+}

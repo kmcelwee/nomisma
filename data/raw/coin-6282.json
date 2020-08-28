@@ -1,0 +1,82 @@
+{
+    "id": "coin-6282",
+    "title_display": "Coin: 6282",
+    "pub_created_display": [
+        "1 Dollar, Charleston"
+    ],
+    "call_number_display": [
+        "Coin 6282"
+    ],
+    "call_number_browse_s": [
+        "Coin 6282"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "73x100"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6282\",\"call_number_browse\":\"Coin 6282\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "1 Dollar"
+    ],
+    "issue_number_s": [
+        "3714"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Peter Timothy (1725 to 1782)"
+    ],
+    "issue_series_s": [
+        "December 23, 1776"
+    ],
+    "issue_place_s": [
+        "Charleston, South Carolina, United States of America"
+    ],
+    "issue_city_s": [
+        "Charleston"
+    ],
+    "issue_state_s": [
+        "South Carolina"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Tree. PER ARDUA SURGO (I rise through adversity)."
+    ],
+    "issue_obverse_legend_s": [
+        "I DOLLAR. | SOUTH-CAROLINA. | This BILL intitles the Bearer to receive One Spanish milled Dollar or th. Value thereof in GOLD or SILVER, according to an Act of the General Assembly passed, at CHARLES-TOWN, the 23d Day of December, 1776."
+    ],
+    "issue_reverse_legend_s": [
+        "I Dollar. DEATH TO COUNTERFEIT. | L. 1: 12: 6 | CHARLES-TOWN: Printed by Peter Timothy, 1777 | DEATH TO COUNTERFEIT."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5abb4d18e98bf147"
+    ],
+    "_version_": 1667138377842950144,
+    "timestamp": "2020-05-19T16:50:52.845Z"
+}

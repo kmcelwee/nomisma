@@ -1,0 +1,106 @@
+{
+    "id": "coin-13516",
+    "title_display": "Coin: 13516",
+    "pub_created_display": [
+        "Antiochus IV Epiphanes (-175 to -164), half, Ecbatana"
+    ],
+    "call_number_display": [
+        "Coin 13516"
+    ],
+    "call_number_browse_s": [
+        "Coin 13516"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13516\",\"call_number_browse\":\"Coin 13516\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -173,
+    "pub_date_end_sort": -164,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "8703"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus IV Epiphanes (-175 to -164)"
+    ],
+    "issue_place_s": [
+        "Ecbatana, Media, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Ecbatana"
+    ],
+    "issue_state_s": [
+        "Media"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Elephant"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with mahout"
+    ],
+    "issue_reverse_figure_s": [
+        "Nike"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "filleted wreath, in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L II, 121 1555"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1dae20d3e5bf5a6d"
+    ],
+    "_version_": 1667138514200821760,
+    "timestamp": "2020-05-19T16:53:02.886Z"
+}

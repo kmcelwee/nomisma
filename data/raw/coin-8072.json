@@ -1,0 +1,100 @@
+{
+    "id": "coin-8072",
+    "title_display": "Coin: 8072",
+    "pub_created_display": [
+        "Justinian I (527 to 565), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8072"
+    ],
+    "call_number_browse_s": [
+        "Coin 8072"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-24-1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca523"
+    ],
+    "find_description_s": [
+        "Dig I: Central part under walls of level II"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "1.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8072\",\"call_number_browse\":\"Coin 8072\"}}",
+    "pub_date_start_sort": 556,
+    "pub_date_end_sort": 561,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Epsilon with crossed het"
+    ],
+    "issue_reverse_symbol_s": [
+        "sideways small alpha"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cb5cd6eeeafea8d2"
+    ],
+    "_version_": 1673365476023992320,
+    "timestamp": "2020-07-27T10:27:56.446Z"
+}

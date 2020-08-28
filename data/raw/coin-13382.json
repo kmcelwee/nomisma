@@ -1,0 +1,105 @@
+{
+    "id": "coin-13382",
+    "title_display": "Coin: 13382",
+    "pub_created_display": [
+        "Ivan Sratsimir Shishman, grosh, Vidin"
+    ],
+    "call_number_display": [
+        "Coin 13382"
+    ],
+    "call_number_browse_s": [
+        "Coin 13382"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Top of obverse and left of reverse inscriptions lost ."
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "1.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13382\",\"call_number_browse\":\"Coin 13382\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "grosh"
+    ],
+    "issue_number_s": [
+        "8662"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Ivan Sratsimir Shishman"
+    ],
+    "issue_place_s": [
+        "Vidin, Vidin Tsardom, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Vidin"
+    ],
+    "issue_state_s": [
+        "Vidin Tsardom"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust of Christ"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC (around figure), \u0399\u03c9 \u0421\u0420\u0410\u0427\u0397\u039c\u0399\u03a1 \u0426\u0420 \u0411 \u0411\u039b\u0413\u0412\u0420 around Christ"
+    ],
+    "issue_obverse_attributes_s": [
+        "Gospel book, in l.hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on throne without back"
+    ],
+    "issue_reverse_legend_s": [
+        "Copy of obverse inscription around figure"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in r.hand",
+        "anexikakia, in l.hand"
+    ],
+    "issue_references_s": [
+        "Mushmov  175",
+        "Iurukova p.149 I"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bdfaa05a8ed591b2"
+    ],
+    "_version_": 1667138320825581568,
+    "timestamp": "2020-05-19T16:49:58.468Z"
+}

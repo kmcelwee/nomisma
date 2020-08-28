@@ -1,0 +1,97 @@
+{
+    "id": "coin-13583",
+    "title_display": "Coin: 13583",
+    "pub_created_display": [
+        "Artabanus II, chalkous, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 13583"
+    ],
+    "call_number_browse_s": [
+        "Coin 13583"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "0.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13583\",\"call_number_browse\":\"Coin 13583\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8716"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Artabanus II"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long-square cut beard, straight hair, earing visible, wearing diadem with loop at the top"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on wreath, wings open"
+    ],
+    "issue_references_s": [
+        "Sellwood  63.23"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9fe5e1599f35714e"
+    ],
+    "_version_": 1667138333568925696,
+    "timestamp": "2020-05-19T16:50:10.621Z"
+}

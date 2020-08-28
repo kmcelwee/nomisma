@@ -1,0 +1,98 @@
+{
+    "id": "coin-4057",
+    "title_display": "Coin: 4057",
+    "pub_created_display": [
+        "Alexander III the Great (-336 to -323), bronze"
+    ],
+    "call_number_display": [
+        "Coin 4057"
+    ],
+    "call_number_browse_s": [
+        "Coin 4057"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "17.4"
+    ],
+    "weight_s": [
+        "5.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4057\",\"call_number_browse\":\"Coin 4057\"}}",
+    "pub_date_start_sort": -325,
+    "pub_date_end_sort": -310,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "2330"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Alexander III the Great (-336 to -323)"
+    ],
+    "issue_place_s": [
+        "Macedonia, Greece"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lion skin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Bow and quiver"
+    ],
+    "issue_reverse_figure_description_s": [
+        "quiver+bow above B A; club l. below"
+    ],
+    "issue_reverse_legend_s": [
+        "BA"
+    ],
+    "issue_reverse_attributes_s": [
+        "thunderbolt, horizontal, below club"
+    ],
+    "issue_references_s": [
+        "Price  376",
+        "SNG-Alpha Bank  782-4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15c0234becd43466"
+    ],
+    "_version_": 1667138231560306688,
+    "timestamp": "2020-05-19T16:48:33.338Z"
+}

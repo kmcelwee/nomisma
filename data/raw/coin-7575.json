@@ -1,0 +1,113 @@
+{
+    "id": "coin-7575",
+    "title_display": "Coin: 7575",
+    "pub_created_display": [
+        "Constantine II, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7575"
+    ],
+    "call_number_browse_s": [
+        "Coin 7575"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Weight 1.26g, piece of coin removed"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "July 4, 1934"
+    ],
+    "find_feature_s": [
+        "Circus, Trench 2"
+    ],
+    "find_locus_s": [
+        "7-N"
+    ],
+    "find_number_s": [
+        "C3111"
+    ],
+    "find_description_s": [
+        " over wash arena, north end"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7575\",\"call_number_browse\":\"Coin 7575\"}}",
+    "pub_date_start_sort": 324,
+    "pub_date_end_sort": 325,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4740"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust laureate"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend/script in three lines, star above"
+    ],
+    "issue_reverse_legend_s": [
+        "CONSTANT/TINVS/CAESAR"
+    ],
+    "issue_references_s": [
+        "RIC 7 686.54",
+        "Cohen 7 373.83"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0246a865543cc945"
+    ],
+    "_version_": 1667138260258783232,
+    "timestamp": "2020-05-19T16:49:00.708Z"
+}

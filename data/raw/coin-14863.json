@@ -1,0 +1,115 @@
+{
+    "id": "coin-14863",
+    "title_display": "Coin: 14863",
+    "pub_created_display": [
+        "denarius, Corfinium"
+    ],
+    "call_number_display": [
+        "Coin 14863"
+    ],
+    "call_number_browse_s": [
+        "Coin 14863"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14863\",\"call_number_browse\":\"Coin 14863\"}}",
+    "donor_s": [
+        "W.S. Watson"
+    ],
+    "pub_date_start_sort": -90,
+    "pub_date_end_sort": -79,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "9125"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_place_s": [
+        "Corfinium, Marsic Confederation, Italy"
+    ],
+    "issue_city_s": [
+        "Corfinium"
+    ],
+    "issue_state_s": [
+        "Marsic Confederation"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Italia"
+    ],
+    "issue_obverse_part_s": [
+        "laureate"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing earring and necklace"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "behind, legend"
+    ],
+    "issue_obverse_legend_s": [
+        "[Oscan letters]"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldier"
+    ],
+    "issue_reverse_symbol_s": [
+        "[oscan letter: reverse R]"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding spear and sword"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "left of bull, standing on Roman pennant"
+    ],
+    "issue_references_s": [
+        "Syd.  627 [variant]"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "de70214b7e9f63bd"
+    ],
+    "_version_": 1667305488250830848,
+    "timestamp": "2020-05-21T13:07:01.753Z"
+}

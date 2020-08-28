@@ -1,0 +1,82 @@
+{
+    "id": "coin-10309",
+    "title_display": "Coin: 10309",
+    "pub_created_display": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399)"
+    ],
+    "call_number_display": [
+        "Coin 10309"
+    ],
+    "call_number_browse_s": [
+        "Coin 10309"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/13/1935"
+    ],
+    "find_feature_s": [
+        "Tomb 1"
+    ],
+    "find_locus_s": [
+        "L-24"
+    ],
+    "find_number_s": [
+        "C4353"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "4.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10309\",\"call_number_browse\":\"Coin 10309\"}}",
+    "pub_date_start_sort": 1396,
+    "pub_date_end_sort": 1397,
+    "issue_number_s": [
+        "6545"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "Barquq Al-Zahir Sayf af-Din (1382 to 1399)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u0644\u0643 | \u0638\u0627\u0647\u0631 \u0633\u0639 |"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0636\u0631\u0628 | \u0639  CHALICE  \u062a\u0633\u0639 | \u0648 \u0633\u0628\u0639\u0627"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  591"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "24b48a401b1a8409"
+    ],
+    "_version_": 1667138175944884224,
+    "timestamp": "2020-05-19T16:47:40.299Z"
+}

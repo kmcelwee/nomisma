@@ -1,0 +1,85 @@
+{
+    "id": "coin-9824",
+    "title_display": "Coin: 9824",
+    "pub_created_display": [
+        "Aloysius Gonzaga"
+    ],
+    "call_number_display": [
+        "Coin 9824"
+    ],
+    "call_number_browse_s": [
+        "Coin 9824"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "78"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "125.45"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9824\",\"call_number_browse\":\"Coin 9824\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6211"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Aloysius Gonzaga"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded, wearing tall tiered hat, armor, with chain around neck"
+    ],
+    "issue_obverse_legend_s": [
+        "ALOYSIVS GONZAGA DON MANTV"
+    ],
+    "issue_reverse_figure_description_s": [
+        "incuse reverse"
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  272v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4e7a8dedad70ba67"
+    ],
+    "_version_": 1667138277862277120,
+    "timestamp": "2020-05-19T16:49:17.494Z"
+}

@@ -1,0 +1,124 @@
+{
+    "id": "coin-7438",
+    "title_display": "Coin: 7438",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7438"
+    ],
+    "call_number_browse_s": [
+        "Coin 7438"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-19-1939."
+    ],
+    "find_locus_s": [
+        "DH 26-M/N"
+    ],
+    "find_number_s": [
+        "Cc608"
+    ],
+    "find_description_s": [
+        "Surface stratum of black humus over e. side of rm1"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "2.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7438\",\"call_number_browse\":\"Coin 7438\"}}",
+    "pub_date_start_sort": 653,
+    "pub_date_end_sort": 654,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4657"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_workshop_s": [
+        "E"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constans II standing, facing, with long beard; in r. hand, holds long cross; l. obscure"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large M, star above"
+    ],
+    "issue_reverse_legend_s": [
+        "large M, l. [ANA], r.[N]E[OS], E beneath; [X]III in ex."
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 170c",
+        "DOC vol. 2, page 450 71d",
+        "BL vol. I, page 346 23",
+        "Sear page 210 1007"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d3251b9af2613980"
+    ],
+    "_version_": 1667138257853349888,
+    "timestamp": "2020-05-19T16:48:58.415Z"
+}

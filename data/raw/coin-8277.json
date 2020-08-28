@@ -1,0 +1,101 @@
+{
+    "id": "coin-8277",
+    "title_display": "Coin: 8277",
+    "pub_created_display": [
+        "Athens"
+    ],
+    "call_number_display": [
+        "Coin 8277"
+    ],
+    "call_number_browse_s": [
+        "Coin 8277"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "weight_s": [
+        "46.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8277\",\"call_number_browse\":\"Coin 8277\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "5279"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_master_s": [
+        "Konrad Lange (1875 to 1950)"
+    ],
+    "issue_series_s": [
+        "Greek War of Independence Commemorative"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Archbishop Palaion Patron Germanos; long beard and hair"
+    ],
+    "issue_obverse_legend_s": [
+        "FEPMANO\u03a3 APXIE\u03a0I\u03a3KO\u03a0O\u03a3 \u03a0ATP\u03a9N"
+    ],
+    "issue_reverse_figure_s": [
+        "Three figures"
+    ],
+    "issue_reverse_part_s": [
+        "battling"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Archbishop, centre, holding flag and cross; on either side, soldiers; l. raises r. arm upwards; r. raises r. arm, pointing down"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0398EO\u03a3 TOY \u03a0ATPO\u03a3 MOY KAY\u03a8\u03a9\u03a3\u03a9 AYTON, in exergue. KA\u039bABPYTA, 25 MAPT 1821"
+    ],
+    "issue_references_s": [
+        "Wurzbach Lexikon 500 3207-1821, 144"
+    ],
+    "issue_artists_s": [
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393",
+        "Konrad Lange, K.\u039b\u0391\u039d\u0393\u0393"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f650b737ed022d5a"
+    ],
+    "_version_": 1667144976036790272,
+    "timestamp": "2020-05-19T18:35:45.372Z"
+}

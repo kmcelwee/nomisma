@@ -1,0 +1,105 @@
+{
+    "id": "coin-5166",
+    "title_display": "Coin: 5166",
+    "pub_created_display": [
+        "Mary II (1689 to 1694)"
+    ],
+    "call_number_display": [
+        "Coin 5166"
+    ],
+    "call_number_browse_s": [
+        "Coin 5166"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "technique_s": [
+        "struck"
+    ],
+    "weight_s": [
+        "53.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5166\",\"call_number_browse\":\"Coin 5166\"}}",
+    "pub_date_start_sort": 1694,
+    "pub_date_end_sort": 1695,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2864"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Mary II (1689 to 1694)"
+    ],
+    "issue_workshop_s": [
+        "Royal Mint, London"
+    ],
+    "issue_place_s": [
+        "Great Britain"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Mary II"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of Mary II facing right; hair in bun, loose collar"
+    ],
+    "issue_obverse_legend_s": [
+        "MARIA. II. D. G. MAG. BR. FR. ET. HIB. REGINA."
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend only"
+    ],
+    "issue_reverse_legend_s": [
+        "(at center) NAT. / APR. 30. 1662. / MOR. DEC. 28 / 1694; (encircling) SVBLATAM EX OCVLIS QV \u00c6RIMVS INVIDI"
+    ],
+    "issue_references_s": [
+        "Forrer vol. 5, pp. 157, 184 ",
+        "M.I. Plate 98 4"
+    ],
+    "issue_artists_s": [
+        "James Roettiers",
+        "Norbert Roettiers"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d3578a280ff7dba1"
+    ],
+    "_version_": 1667138245396267008,
+    "timestamp": "2020-05-19T16:48:46.535Z"
+}

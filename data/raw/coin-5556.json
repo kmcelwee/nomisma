@@ -1,0 +1,103 @@
+{
+    "id": "coin-5556",
+    "title_display": "Coin: 5556",
+    "pub_created_display": [
+        "stater, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5556"
+    ],
+    "call_number_browse_s": [
+        "Coin 5556"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Same coin as Vlasto 998, which Ravel lists as plated"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "7.3"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5556\",\"call_number_browse\":\"Coin 5556\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -281,
+    "pub_date_end_sort": -228,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "stater"
+    ],
+    "issue_number_s": [
+        "3143"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Head of satyra"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "hair bound with diadem, wearing three-drop earring and necklace"
+    ],
+    "issue_reverse_figure_s": [
+        "Horseman"
+    ],
+    "issue_reverse_symbol_s": [
+        "dolphin"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naked boy rider crowning horse"
+    ],
+    "issue_reverse_legend_s": [
+        "TA"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  998"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7e42f9318b3e1575"
+    ],
+    "_version_": 1667138248378417152,
+    "timestamp": "2020-05-19T16:48:49.379Z"
+}

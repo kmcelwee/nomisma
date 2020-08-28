@@ -1,0 +1,95 @@
+{
+    "id": "coin-5517",
+    "title_display": "Coin: 5517",
+    "pub_created_display": [
+        "5 shillings and 4 pence, New York"
+    ],
+    "call_number_display": [
+        "Coin 5517"
+    ],
+    "call_number_browse_s": [
+        "Coin 5517"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Jacob Abramse| Abraham Van Alstyne."
+    ],
+    "size_s": [
+        "104x70"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5517\",\"call_number_browse\":\"Coin 5517\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "5 shillings and 4 pence"
+    ],
+    "issue_number_s": [
+        "3113"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "New York, New York, United States of America"
+    ],
+    "issue_city_s": [
+        "New York"
+    ],
+    "issue_state_s": [
+        "New York"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of New York"
+    ],
+    "issue_obverse_legend_s": [
+        "TWO THIRDS OF A DOLLAR. THIS BILL shall pass current in all Payments in this Colony, for FIVE SHILLINGS AND FOUR PENCE, (being equal to Two Thirds of a Spanish Milled Dollar) or the Value therof in Gold or Silver, according to the Resolution of the"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagler"
+    ],
+    "issue_reverse_legend_s": [
+        "FIVE SHILLINGS and FOUR PENCE, NEW-YORK Currency. TWO THIRDS of a DOLLAR.  NEW-YORK: Printed by Samuel Loudon, in the Year M, DCC, LXXVI."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 284"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "67471c2cc2430731"
+    ],
+    "_version_": 1667138391665278976,
+    "timestamp": "2020-05-19T16:51:06.029Z"
+}

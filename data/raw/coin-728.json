@@ -1,0 +1,108 @@
+{
+    "id": "coin-728",
+    "title_display": "Coin: 728",
+    "pub_created_display": [
+        "Alexander III the Great (-336 to -323), Tetradrachm, Odessus"
+    ],
+    "call_number_display": [
+        "Coin 728"
+    ],
+    "call_number_browse_s": [
+        "Coin 728"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "15.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 728\",\"call_number_browse\":\"Coin 728\"}}",
+    "pub_date_start_sort": -125,
+    "pub_date_end_sort": -70,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "300"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Alexander III the Great (-336 to -323)"
+    ],
+    "issue_place_s": [
+        "Odessus, Thrace, Europe"
+    ],
+    "issue_city_s": [
+        "Odessus"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lionskin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "seated on throne, legs crossed, eagle in r. hand, sceptre in l. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039b\u0395\u03a7\u0391\u039d\u0394\u03a1\u039f\u03a5 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u0395\u039a\u0391, in l. field",
+        "star, under throne",
+        "\u039f\u0394\u0397\u03a3\u0399\u03a4\u03a9\u039d, under throne"
+    ],
+    "issue_references_s": [
+        "Price  1197"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f9845e140da8350f"
+    ],
+    "_version_": 1667138202937327616,
+    "timestamp": "2020-05-19T16:48:06.041Z"
+}

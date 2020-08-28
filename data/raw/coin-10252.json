@@ -1,0 +1,107 @@
+{
+    "id": "coin-10252",
+    "title_display": "Coin: 10252",
+    "pub_created_display": [
+        "Aristeides (-530 to -468), Vicenza"
+    ],
+    "call_number_display": [
+        "Coin 10252"
+    ],
+    "call_number_browse_s": [
+        "Coin 10252"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "13.361"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10252\",\"call_number_browse\":\"Coin 10252\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "imitation"
+    ],
+    "issue_number_s": [
+        "6496"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Aristeides (-530 to -468)"
+    ],
+    "issue_place_s": [
+        "Vicenza, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Vicenza"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Aristeides"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Aristeides \"The Just\", bearded, facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0391\u03a1\u0399\u03a3\u03a4\u0395\u0399\u0394\u0397\u0395 \u039f \u0394\u0399\u039a\u0391\u0399\u039f\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Justitia"
+    ],
+    "issue_reverse_symbol_s": [
+        "sceptre"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\"Not to seem but to be\" - Draped woman on chair with scepter in right hand (personification of Justitia or Securitas). Exergue: \"By decree of the Senate\""
+    ],
+    "issue_reverse_legend_s": [
+        "\u039f\u03a5 \u0394\u039f\u039a\u0395\u0399\u039d \u0391\u039b\u039b \u0395\u0399\u039d\u0391\u0399 / \u0392\u039f\u03a5\u039b\u0397\u03a3 \u0393\u039d\u03a9\u039c\u0397"
+    ],
+    "issue_references_s": [
+        "Italian Medals vol. 1 p. 216 351",
+        "Imitation and Emulation in the Numismatic Fantasies of Valerio Belli 29 18-29"
+    ],
+    "issue_artists_s": [
+        "Valerio Belli"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "651fd077aca59abe"
+    ],
+    "_version_": 1667138195120193536,
+    "timestamp": "2020-05-19T16:47:58.587Z"
+}

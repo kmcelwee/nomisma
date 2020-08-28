@@ -1,0 +1,89 @@
+{
+    "id": "coin-5709",
+    "title_display": "Coin: 5709",
+    "pub_created_display": [
+        "Annapolis"
+    ],
+    "call_number_display": [
+        "Coin 5709"
+    ],
+    "call_number_browse_s": [
+        "Coin 5709"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "John Brice| John Duckett."
+    ],
+    "size_s": [
+        "118x60"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5709\",\"call_number_browse\":\"Coin 5709\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_number_s": [
+        "3259"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Annapolis, Maryland, United States of America"
+    ],
+    "issue_city_s": [
+        "Annapolis"
+    ],
+    "issue_state_s": [
+        "Maryland"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Petition of Continental Congress"
+    ],
+    "issue_obverse_legend_s": [
+        "THIS BILL of FOUR DOLLARS, shall entitle the BEARER hereof to receive Gold and Silver, at the Rate of Four Shillings and Six pense Sterling per DOLLAR, for the said BILL, according to a RESOLVE of the PROVINCIAL CONVENTION of MARYLAND, held at the City"
+    ],
+    "issue_reverse_figure_s": [
+        "Petition of Continental Congress"
+    ],
+    "issue_reverse_legend_s": [
+        "Four Dollars."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 170"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d565f0863558d0b"
+    ],
+    "_version_": 1667138388415741952,
+    "timestamp": "2020-05-19T16:51:02.930Z"
+}

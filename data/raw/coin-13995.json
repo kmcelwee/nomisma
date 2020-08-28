@@ -1,0 +1,100 @@
+{
+    "id": "coin-13995",
+    "title_display": "Coin: 13995",
+    "pub_created_display": [
+        "hemiobol, Athens"
+    ],
+    "call_number_display": [
+        "Coin 13995"
+    ],
+    "call_number_browse_s": [
+        "Coin 13995"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "7"
+    ],
+    "weight_s": [
+        "0.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13995\",\"call_number_browse\":\"Coin 13995\"}}",
+    "donor_s": [
+        "Katharine S. Pearce"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hemiobol"
+    ],
+    "issue_number_s": [
+        "9019"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_workshop_s": [
+        "\"Mint of Athenian Cleruchs in Euboea\""
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Athena, eye full, 3 olive leaves on helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Owl standing, wings closed, olive on stalk with one leaf"
+    ],
+    "issue_references_s": [
+        "Athens Its History and Coinage p.216 pl.XXI \u03b3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "44805740b85a5036"
+    ],
+    "_version_": 1667138328667881472,
+    "timestamp": "2020-05-19T16:50:05.947Z"
+}

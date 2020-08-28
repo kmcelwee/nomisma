@@ -1,0 +1,98 @@
+{
+    "id": "coin-11377",
+    "title_display": "Coin: 11377",
+    "pub_created_display": [
+        "Shapur II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11377"
+    ],
+    "call_number_browse_s": [
+        "Coin 11377"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "95.4 % Ag; 1.02 Au; 100 mg Ag"
+    ],
+    "notes_display": [
+        "Obv. Blind spot; Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "4.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11377\",\"call_number_browse\":\"Coin 11377\"}}",
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7545"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint IX (\"Kabul\") Ib1/3a"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, diadem ribbons commencing above ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "5 h l. o. \u0161hpwhly MRKAn M[RKA] \u0160\u0101buhr \u0161\u0101h\u0101n \u0161\u0101h |\u201c Shapur, king of kings\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; on the shaft l'st (r\u0101st,\u201c just\u201d), to the left and right of the shaft ribbons pointing downwards, three altar plates; above bust with diadem and elaborate coiffure to the right, surrounded by flames depicted by vertical lines; to the left and right of altar attendant with stylized crown of Shapur II, holding a barson with both hands, both figures facing inwards; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint IX (\"Kabul\") Ib1/3a",
+        "MK  1322"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f0bfa172686e8b07"
+    ],
+    "_version_": 1667138162291376128,
+    "timestamp": "2020-05-19T16:47:27.278Z"
+}

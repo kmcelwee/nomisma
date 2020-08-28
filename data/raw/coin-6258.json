@@ -1,0 +1,99 @@
+{
+    "id": "coin-6258",
+    "title_display": "Coin: 6258",
+    "pub_created_display": [
+        "Philip IV (1621 to 1665), 8 maravedis"
+    ],
+    "call_number_display": [
+        "Coin 6258"
+    ],
+    "call_number_browse_s": [
+        "Coin 6258"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6258\",\"call_number_browse\":\"Coin 6258\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "8 maravedis"
+    ],
+    "issue_number_s": [
+        "3695"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Philip IV (1621 to 1665)"
+    ],
+    "issue_workshop_s": [
+        "Madrid"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right facing bust"
+    ],
+    "issue_obverse_legend_s": [
+        "\u25cfPHILIPPVS\u25cfIIII\u25cfDG"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Castille and Leon"
+    ],
+    "issue_reverse_symbol_s": [
+        "Y VIII [vertical] MD"
+    ],
+    "issue_reverse_figure_description_s": [
+        "arms of Castille and Leon with crown on top, Y to the left between two dots, VIII facing to the left on the right, and MD on the bottom"
+    ],
+    "issue_reverse_legend_s": [
+        "\u25cf1661\u25cfHISPANIARVM\u25cfREX"
+    ],
+    "issue_references_s": [
+        "Heiss vol I, lam. 39 75",
+        "Cast\u00e1n y Cay\u00f3n  var. 5026",
+        "Las Monedas Espanolas  var. 1032"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3dbe906f0420f4d8"
+    ],
+    "_version_": 1667138378276012032,
+    "timestamp": "2020-05-19T16:50:53.257Z"
+}

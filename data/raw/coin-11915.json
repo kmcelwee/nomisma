@@ -1,0 +1,101 @@
+{
+    "id": "coin-11915",
+    "title_display": "Coin: 11915",
+    "pub_created_display": [
+        "Hadrian (117 to 138), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11915"
+    ],
+    "call_number_browse_s": [
+        "Coin 11915"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.81"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11915\",\"call_number_browse\":\"Coin 11915\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 134,
+    "pub_date_end_sort": 138,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "7985"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVGCOSIIIPP"
+    ],
+    "issue_reverse_figure_s": [
+        "Nile, river god"
+    ],
+    "issue_reverse_part_s": [
+        "reclining"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "NI LVS"
+    ],
+    "issue_references_s": [
+        "RIC 2 375 310a",
+        "BMC 348 857-9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d7a14c36ed5c5c44"
+    ],
+    "_version_": 1667138299087552512,
+    "timestamp": "2020-05-19T16:49:37.739Z"
+}

@@ -1,0 +1,120 @@
+{
+    "id": "coin-3395",
+    "title_display": "Coin: 3395",
+    "pub_created_display": [
+        "Bohemond II, 1119-1130, copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3395"
+    ],
+    "call_number_browse_s": [
+        "Coin 3395"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/25/1932"
+    ],
+    "find_locus_s": [
+        "N-9"
+    ],
+    "find_number_s": [
+        "c679"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18.5"
+    ],
+    "weight_s": [
+        "2.87"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3395\",\"call_number_browse\":\"Coin 3395\"}}",
+    "pub_date_start_sort": 1119,
+    "pub_date_end_sort": 1130,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_number_s": [
+        "2029"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Bohemond II, 1119-1130"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "S. Peter"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "nimbate, cross in l. hand"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "to right and left of bust"
+    ],
+    "issue_obverse_legend_s": [
+        "OA  \u03a0   | \u03b5"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with insription in four quarters"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "in quadrants"
+    ],
+    "issue_reverse_legend_s": [
+        "|BA |IM | VN| \u0394\u039fC |"
+    ],
+    "issue_references_s": [
+        "Schl. PL. II 14",
+        "Ox. pl. 6 102",
+        "Malloy p. 201 10"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "78feb41898853016"
+    ],
+    "_version_": 1667138481785143296,
+    "timestamp": "2020-05-19T16:52:31.973Z"
+}

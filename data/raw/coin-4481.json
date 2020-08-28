@@ -1,0 +1,110 @@
+{
+    "id": "coin-4481",
+    "title_display": "Coin: 4481",
+    "pub_created_display": [
+        "Justin I (518 to 527), 5 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 4481"
+    ],
+    "call_number_browse_s": [
+        "Coin 4481"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/11/1939"
+    ],
+    "find_locus_s": [
+        "15-M"
+    ],
+    "find_number_s": [
+        "Cc1242"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "11.5"
+    ],
+    "weight_s": [
+        "1.69"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4481\",\"call_number_browse\":\"Coin 4481\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 527,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "2500"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "legend unbroken. Bust r. draped and diademed"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u0404"
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_references_s": [
+        " Justin I 27",
+        " Justin I 20",
+        "Sear Justin I 74",
+        "Hims  ",
+        "BN Justin I 2/22"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e3f6e4556f393efc"
+    ],
+    "_version_": 1667138497555726336,
+    "timestamp": "2020-05-19T16:52:47.013Z"
+}

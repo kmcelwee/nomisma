@@ -1,0 +1,67 @@
+{
+    "id": "coin-15096",
+    "title_display": "Coin: 15096",
+    "call_number_display": [
+        "Coin 15096"
+    ],
+    "call_number_browse_s": [
+        "Coin 15096"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15096\",\"call_number_browse\":\"Coin 15096\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_number_s": [
+        "9261"
+    ],
+    "issue_metal_s": [
+        "Gilt with white enamel"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_color_s": [
+        "white"
+    ],
+    "issue_obverse_figure_description_s": [
+        "nurse attending a wounded soldier on a battlefield"
+    ],
+    "issue_obverse_legend_s": [
+        "CRUZ ROJA CUBANA | RECONOCIMIENTO AL MERITO"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a white enameled band"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5603ec89e85d332b"
+    ],
+    "_version_": 1670396886894247936,
+    "timestamp": "2020-06-24T16:03:29.241Z"
+}

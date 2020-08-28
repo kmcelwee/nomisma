@@ -1,0 +1,104 @@
+{
+    "id": "coin-9996",
+    "title_display": "Coin: 9996",
+    "pub_created_display": [
+        "Henry II of Sassionia (1004 to 1024), denaro, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9996"
+    ],
+    "call_number_browse_s": [
+        "Coin 9996"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3/4/1932"
+    ],
+    "find_feature_s": [
+        "Lower Area"
+    ],
+    "find_number_s": [
+        "7"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9996\",\"call_number_browse\":\"Coin 9996\"}}",
+    "pub_date_start_sort": 1004,
+    "pub_date_end_sort": 1024,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Henry II of Sassionia (1004 to 1024)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "H"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_legend_s": [
+        "+INPERATOR"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "LCVA cross-wise around central pellet"
+    ],
+    "issue_reverse_legend_s": [
+        "EHRICV~"
+    ],
+    "issue_references_s": [
+        "CNI IV IV27",
+        "Ox.  9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d61df677dd3a74ae"
+    ],
+    "_version_": 1674261262276493312,
+    "timestamp": "2020-08-06T07:46:04.787Z"
+}

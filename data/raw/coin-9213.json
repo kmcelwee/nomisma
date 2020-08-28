@@ -1,0 +1,121 @@
+{
+    "id": "coin-9213",
+    "title_display": "Coin: 9213",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9213"
+    ],
+    "call_number_browse_s": [
+        "Coin 9213"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Even hole at 12 o'clock of obverse."
+    ],
+    "find_place_s": [
+        "Bostra, Daraa, Syria"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "19.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9213\",\"call_number_browse\":\"Coin 9213\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 539,
+    "pub_date_end_sort": 540,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5882"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Wearing diadem with pendilia and holding a globe in right hand."
+    ],
+    "issue_obverse_legend_s": [
+        "DVNIVSTINI ANVSPP AVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO XIII|CON"
+    ],
+    "issue_references_s": [
+        " Justinian I 95",
+        " Justinian I 38C",
+        "BMC.Byz. Justinain I 48",
+        "BN Justinian I 1-43"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "034264c5f52cfd54"
+    ],
+    "_version_": 1667138147851436032,
+    "timestamp": "2020-05-19T16:47:13.509Z"
+}

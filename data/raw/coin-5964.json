@@ -1,0 +1,107 @@
+{
+    "id": "coin-5964",
+    "title_display": "Coin: 5964",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5964"
+    ],
+    "call_number_browse_s": [
+        "Coin 5964"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 174, R: 305"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "7.69"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5964\",\"call_number_browse\":\"Coin 5964\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -390,
+    "pub_date_end_sort": -380,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3458"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on jumping horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "L"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider in profile, both hands on reins,"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "L"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's outstretched right arm holds acrostolion"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "F-B  395",
+        "Vlasto Coll.  366"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4c1e3c78e2a89afe"
+    ],
+    "_version_": 1667138250011049984,
+    "timestamp": "2020-05-19T16:48:50.934Z"
+}

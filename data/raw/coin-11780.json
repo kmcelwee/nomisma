@@ -1,0 +1,106 @@
+{
+    "id": "coin-11780",
+    "title_display": "Coin: 11780",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11780"
+    ],
+    "call_number_browse_s": [
+        "Coin 11780"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "8/22/1938"
+    ],
+    "find_locus_s": [
+        "18-0"
+    ],
+    "find_number_s": [
+        "Cb4463"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "1.9"
+    ],
+    "weight_s": [
+        "2.32"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11780\",\"call_number_browse\":\"Coin 11780\"}}",
+    "pub_date_start_sort": 320,
+    "pub_date_end_sort": 321,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7873"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head laur."
+    ],
+    "issue_obverse_legend_s": [
+        "CONST-ANTINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Laurel wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        " Laurate wreath enclosing VOT/XX"
+    ],
+    "issue_reverse_legend_s": [
+        "DN CONSTANTINI MAX AVG l R.P."
+    ],
+    "issue_references_s": [
+        "RIC 7 319 225"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b16685830677249b"
+    ],
+    "_version_": 1667138125771571200,
+    "timestamp": "2020-05-19T16:46:52.451Z"
+}

@@ -1,0 +1,98 @@
+{
+    "id": "coin-13272",
+    "title_display": "Coin: 13272",
+    "pub_created_display": [
+        "Artaxerxes II, hemidrachm, Persepolis"
+    ],
+    "call_number_display": [
+        "Coin 13272"
+    ],
+    "call_number_browse_s": [
+        "Coin 13272"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Die axis is not clear due to hr corrosion , legend is illegible"
+    ],
+    "size_s": [
+        "12.43"
+    ],
+    "weight_s": [
+        "0.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13272\",\"call_number_browse\":\"Coin 13272\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hemidrachm"
+    ],
+    "issue_number_s": [
+        "8600"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_ruler_s": [
+        "Artaxerxes II"
+    ],
+    "issue_place_s": [
+        "Persepolis, Pars, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Persepolis"
+    ],
+    "issue_state_s": [
+        "Pars"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Diademed head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with short beard, wearing diadem with three ties, torque with three segments, and mural crown; no symbol behind"
+    ],
+    "issue_reverse_figure_s": [
+        "King"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding sceptre and sacrificing before altar"
+    ],
+    "issue_references_s": [
+        "Alram  571",
+        "Die sogenannten dunken Jahrhunderte der Persis: Anmerkungen zu einem lange vernachl\u00e4ssigten Thema  25"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "01239453138350be"
+    ],
+    "_version_": 1667138318593163264,
+    "timestamp": "2020-05-19T16:49:56.339Z"
+}

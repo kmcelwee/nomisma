@@ -1,0 +1,118 @@
+{
+    "id": "coin-2364",
+    "title_display": "Coin: 2364",
+    "pub_created_display": [
+        "Antiochus I Soter (-280 to -261), double, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 2364"
+    ],
+    "call_number_browse_s": [
+        "Coin 2364"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/24/1939"
+    ],
+    "find_locus_s": [
+        "A 13-R (S.)"
+    ],
+    "find_number_s": [
+        "Cc2604"
+    ],
+    "find_description_s": [
+        "Trench over colonnade to street"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "5.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2364\",\"call_number_browse\":\"Coin 2364\"}}",
+    "pub_date_start_sort": -278,
+    "pub_date_end_sort": -268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "1517"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus I Soter (-280 to -261)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Macedonian shield"
+    ],
+    "issue_obverse_figure_description_s": [
+        "anchor on boss"
+    ],
+    "issue_reverse_figure_s": [
+        "Elephant"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "horned"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1516, beneath elephant",
+        "m1516a, beneath legend"
+    ],
+    "issue_references_s": [
+        "H & L  339.2",
+        "WSM  942",
+        "Houghton  18v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7ac26ed7f613ca24"
+    ],
+    "_version_": 1669835405802864640,
+    "timestamp": "2020-06-18T11:18:59.143Z"
+}

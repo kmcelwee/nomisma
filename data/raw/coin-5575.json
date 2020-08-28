@@ -1,0 +1,80 @@
+{
+    "id": "coin-5575",
+    "title_display": "Coin: 5575",
+    "pub_created_display": [
+        "Guang Zhong \u5149\u5b97 (Zhao Dun \u8d99\u60c7) (1190 to 1194), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5575"
+    ],
+    "call_number_browse_s": [
+        "Coin 5575"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse has Yuan character (\u5143) below. Obverse written in regular script or Kai Shu (\u6977\u66f8)."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "6.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5575\",\"call_number_browse\":\"Coin 5575\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1190,
+    "pub_date_end_sort": 1194,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3160"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Guang Zhong \u5149\u5b97 (Zhao Dun \u8d99\u60c7) (1190 to 1194)"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Written in regular script or Kai Shu  (\u6977\u66f8)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u7d39\u7199\u5143\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "Yuan character (\u5143) below"
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 532 2122",
+        "Hartill 179 17.335"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7521eb4cf8c43953"
+    ],
+    "_version_": 1667138248593375232,
+    "timestamp": "2020-05-19T16:48:49.584Z"
+}

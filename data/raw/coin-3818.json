@@ -1,0 +1,86 @@
+{
+    "id": "coin-3818",
+    "title_display": "Coin: 3818",
+    "pub_created_display": [
+        "10 Shillings, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 3818"
+    ],
+    "call_number_browse_s": [
+        "Coin 3818"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Thomas Tilbury| Isaac Howell| Richard Humphreys.  Howell in red ink.  Visible flecks of mica."
+    ],
+    "size_s": [
+        "89x74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3818\",\"call_number_browse\":\"Coin 3818\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "10 Shillings"
+    ],
+    "issue_number_s": [
+        "2216"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Pennsylvania"
+    ],
+    "issue_obverse_legend_s": [
+        "TEN SHILLINGS. According to an Act of General Assembly of Pennsylvania, passed in the 15th Year of the Reign of his Majesty GEORGE III.  Dated the 25th Day of October, Anno Domini 1775. Ten Shillings."
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "TEN SHILLINGS. | To Counterfeit is DEATH. | Printed by HALL and SELLERS. 1775."
+    ],
+    "issue_references_s": [
+        "Newman p. 348",
+        "Shafer & Cuhaj p. 1149 S2554"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "552e72be2b658e2c"
+    ],
+    "_version_": 1667138168679301120,
+    "timestamp": "2020-05-19T16:47:33.370Z"
+}

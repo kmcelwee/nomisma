@@ -1,0 +1,123 @@
+{
+    "id": "coin-8767",
+    "title_display": "Coin: 8767",
+    "pub_created_display": [
+        "Romanus IV (1068 to 1071), nomisma histamenon, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8767"
+    ],
+    "call_number_browse_s": [
+        "Coin 8767"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Underweight; concave"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "2.95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8767\",\"call_number_browse\":\"Coin 8767\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 1068,
+    "pub_date_end_sort": 1071,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "nomisma histamenon"
+    ],
+    "issue_number_s": [
+        "5569"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Romanus IV (1068 to 1071)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_figure_s": [
+        "Three Imperial Figures holding globus crucigers"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Three figures standing on separate cushions; Michael VII in the center, largest; holding a scepter in r. hand; the smaller figures hold a globe each; double border of dots"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "on the left, Constantius; on the right, Andronicus"
+    ],
+    "issue_obverse_legend_s": [
+        "KWN  MX  AN\u0394"
+    ],
+    "issue_reverse_figure_s": [
+        "Three figures"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "In center, Christ, standing on a cushion, with nimbus, crowing Romanus and Eudocia; Romanus holds a globe in his left hand, Eudocia in her right hand; double border of dots"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Romanus to the left, Eudocia to the right"
+    ],
+    "issue_reverse_legend_s": [
+        "+RWMANS  EV\u0394UKIA"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection Vol.3, Part 2 - Romanus IV 1.5v",
+        "BMC Romanus IV type 1.3v",
+        "BL Romanus IV 53/Cp/AU/01-03v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "274fd577d96b6067"
+    ],
+    "_version_": 1667138157141819392,
+    "timestamp": "2020-05-19T16:47:22.369Z"
+}

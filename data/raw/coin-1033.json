@@ -1,0 +1,76 @@
+{
+    "id": "coin-1033",
+    "title_display": "Coin: 1033",
+    "pub_created_display": [
+        "bronze"
+    ],
+    "call_number_display": [
+        "Coin 1033"
+    ],
+    "call_number_browse_s": [
+        "Coin 1033"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "4.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1033\",\"call_number_browse\":\"Coin 1033\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "481"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Gorgoneion boss"
+    ],
+    "issue_reverse_figure_s": [
+        "Helmet"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "horsehair crest, B in upper l., A in upper r."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fd805e0c5c5dbc5d"
+    ],
+    "_version_": 1667138408230682624,
+    "timestamp": "2020-05-19T16:51:21.823Z"
+}

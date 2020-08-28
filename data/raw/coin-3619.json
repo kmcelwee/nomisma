@@ -1,0 +1,79 @@
+{
+    "id": "coin-3619",
+    "title_display": "Coin: 3619",
+    "pub_created_display": [
+        "Tai Chang \u6cf0\u660c (Zhu Chang Luo \u6731\u5e38\u6d1b) (1620 to 1621), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 3619"
+    ],
+    "call_number_browse_s": [
+        "Coin 3619"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Tai Chang Tong Bao is written on one side of the coin and Wan Li Tong Bao is written on the other side of the coin. Wu Note: \u6cf0\u660c/\u842c\u66c6\u5408\u80cc"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3619\",\"call_number_browse\":\"Coin 3619\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1620,
+    "pub_date_end_sort": 1621,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3066"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Tai Chang \u6cf0\u660c (Zhu Chang Luo \u6731\u5e38\u6d1b) (1620 to 1621)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6cf0\u660c\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u842c\u66c6\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 149 509"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6923d08f45e427c5"
+    ],
+    "_version_": 1667138247714668544,
+    "timestamp": "2020-05-19T16:48:48.743Z"
+}

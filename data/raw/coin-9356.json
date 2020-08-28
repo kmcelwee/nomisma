@@ -1,0 +1,112 @@
+{
+    "id": "coin-9356",
+    "title_display": "Coin: 9356",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9356"
+    ],
+    "call_number_browse_s": [
+        "Coin 9356"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "17.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9356\",\"call_number_browse\":\"Coin 9356\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 556,
+    "pub_date_end_sort": 557,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5977"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Emperor seated on throne holding staff in left hand and globis cruciger in right."
+    ],
+    "issue_obverse_legend_s": [
+        "DVNIVSTINI ANVSPP AYI"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_orientation_s": [
+        "above"
+    ],
+    "issue_reverse_legend_s": [
+        "|THEUP"
+    ],
+    "issue_references_s": [
+        "MIB Justinian I 150"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f0fcecfa0ba6dd87"
+    ],
+    "_version_": 1667138145663057920,
+    "timestamp": "2020-05-19T16:47:11.423Z"
+}

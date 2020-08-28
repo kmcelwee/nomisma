@@ -1,0 +1,103 @@
+{
+    "id": "coin-7094",
+    "title_display": "Coin: 7094",
+    "pub_created_display": [
+        "Azes II (-35 to -12), Sirsukh"
+    ],
+    "call_number_display": [
+        "Coin 7094"
+    ],
+    "call_number_browse_s": [
+        "Coin 7094"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "9.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7094\",\"call_number_browse\":\"Coin 7094\"}}",
+    "pub_date_start_sort": -15,
+    "pub_date_end_sort": 20,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "4435"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Azes II (-35 to -12)"
+    ],
+    "issue_place_s": [
+        "Sirsukh, Taxila, India"
+    ],
+    "issue_city_s": [
+        "Sirsukh"
+    ],
+    "issue_state_s": [
+        "Taxila"
+    ],
+    "issue_region_s": [
+        "India"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_part_s": [
+        "on horseback"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "king holding whip mounted on horseback"
+    ],
+    "issue_obverse_legend_s": [
+        "B\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d \u039c\u0395\u03a1\u0391\u039b\u039f\u03a5 \u0391\u0396\u039f\u03a5"
+    ],
+    "issue_reverse_figure_s": [
+        "Pallas"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Pallas standing right with shield at left side and spear on left; right hand outstretched"
+    ],
+    "issue_reverse_legend_s": [
+        "Maharajasa rajadirajasa mahatasa Ayasa"
+    ],
+    "issue_references_s": [
+        "Azes pg. 575 868"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6bc132d582f08c5f"
+    ],
+    "_version_": 1667138357998649344,
+    "timestamp": "2020-05-19T16:50:33.922Z"
+}

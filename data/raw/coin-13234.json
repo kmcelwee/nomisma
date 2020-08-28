@@ -1,0 +1,100 @@
+{
+    "id": "coin-13234",
+    "title_display": "Coin: 13234",
+    "pub_created_display": [
+        "Aurelian (270 to 275), antoninianus"
+    ],
+    "call_number_display": [
+        "Coin 13234"
+    ],
+    "call_number_browse_s": [
+        "Coin 13234"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Attribution uncertain"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "8/22/1937"
+    ],
+    "find_feature_s": [
+        "DUMP"
+    ],
+    "find_locus_s": [
+        "S 19-G"
+    ],
+    "find_number_s": [
+        "Ca3035"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "2.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13234\",\"call_number_browse\":\"Coin 13234\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_number_s": [
+        "8574"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Aurelian (270 to 275)"
+    ],
+    "issue_place_s": [
+        "Roman Empire"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate, cuirassed"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPAVRELIANVSAVG"
+    ],
+    "issue_reverse_figure_description_s": [
+        "illegible"
+    ],
+    "issue_reverse_legend_s": [
+        "illegible"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aa7801c2e4ddbd2d"
+    ],
+    "_version_": 1667138317774225408,
+    "timestamp": "2020-05-19T16:49:55.558Z"
+}

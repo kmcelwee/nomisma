@@ -1,0 +1,112 @@
+{
+    "id": "coin-6369",
+    "title_display": "Coin: 6369",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), bronze, Laodiceia ad Mare"
+    ],
+    "call_number_display": [
+        "Coin 6369"
+    ],
+    "call_number_browse_s": [
+        "Coin 6369"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse legend reads: .\u0391V\u03a4\u039fKR K\u0391\u0399 \u03a4\u0399 \u0391\u0399\u039b \u0391\u039d\u03a4\u03c9[\u039d\u0395\u0399\u039d\u039f\u039d] C[\u0395\u0392]; uncertain letters are partially visible. Reverse legend reads: \u039aA; IOV\u039b\u0399\u0395\u03a9\u039d \u03a4\u03a9\u039d \u039a\u0391\u0399 \u039b\u0391\u039f\u0394\u0399\u039a[\u0395]\u03a9\u039d; [\u03bc]P. Compare to issue 3781, BM Gal., Capp., and Syria p. 256, 67 whose reverse has KC not  KA."
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "10.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6369\",\"call_number_browse\":\"Coin 6369\"}}",
+    "pub_date_start_sort": 142,
+    "pub_date_end_sort": 143,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Laodiceia ad Mare, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Laodiceia ad Mare"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antoninus Pius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate head of bearded emperor"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "legends cw from lower l."
+    ],
+    "issue_obverse_legend_s": [
+        ".\u0391V\u03a4\u039fKP K\u0391\u0399 \u03a4\u0399 \u0391\u0399\u039b \u0391\u039d\u03a4\u03c9\u039d\u0395\u0399\u039d\u039f\u039d"
+    ],
+    "issue_reverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing turreted headress with bunches of grapes"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "KA sideways in l. field; main legend cc from left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039aA; IOV\u039b\u0399\u0395\u03a9\u039d \u03a4\u03a9\u039d \u039a\u0391\u0399 \u039b\u0391\u039f\u0394\u0399\u039a\u0395\u03a9\u039d;[\u03bc]P"
+    ],
+    "issue_references_s": [
+        "BMC Gal. p. 256 67"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4690c7a34ca3e982"
+    ],
+    "_version_": 1674370100718731264,
+    "timestamp": "2020-08-07T12:36:01.214Z"
+}

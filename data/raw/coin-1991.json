@@ -1,0 +1,106 @@
+{
+    "id": "coin-1991",
+    "title_display": "Coin: 1991",
+    "pub_created_display": [
+        "litra, Gela"
+    ],
+    "call_number_display": [
+        "Coin 1991"
+    ],
+    "call_number_browse_s": [
+        "Coin 1991"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "bucranium"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "6.36"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1991\",\"call_number_browse\":\"Coin 1991\"}}",
+    "pub_date_start_sort": -282,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "litra"
+    ],
+    "issue_number_s": [
+        "1316"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_workshop_s": [
+        "Phintias"
+    ],
+    "issue_place_s": [
+        "Gela, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Gela"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Gela"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Warrior"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "warrior sacrifices a lamb"
+    ],
+    "issue_reverse_legend_s": [
+        "CE\u039b\u0391\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "H, to left"
+    ],
+    "issue_references_s": [
+        "ANS Part V, Sicily II, Gela 133"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f2bd75654897a7d8"
+    ],
+    "_version_": 1667138214061670400,
+    "timestamp": "2020-05-19T16:48:16.649Z"
+}

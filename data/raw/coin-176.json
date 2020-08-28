@@ -1,0 +1,108 @@
+{
+    "id": "coin-176",
+    "title_display": "Coin: 176",
+    "pub_created_display": [
+        "Augustus (-30 to 14), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 176"
+    ],
+    "call_number_browse_s": [
+        "Coin 176"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 176\",\"call_number_browse\":\"Coin 176\"}}",
+    "pub_date_start_sort": -12,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "85"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_master_s": [
+        "L. Caninius Gallus"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "AVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Barbarian"
+    ],
+    "issue_reverse_part_s": [
+        "kneeling"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding up a vexillum"
+    ],
+    "issue_reverse_legend_s": [
+        "L.CANINIVS GALLVS.III.VIR 1."
+    ],
+    "issue_references_s": [
+        "BMC.1. Augustus 127",
+        "RIC.1. Augustus 175",
+        "Sear  1615"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2098a784f89ac484"
+    ],
+    "_version_": 1667138119575535616,
+    "timestamp": "2020-05-19T16:46:46.544Z"
+}

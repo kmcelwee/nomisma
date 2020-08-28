@@ -1,0 +1,103 @@
+{
+    "id": "coin-10915",
+    "title_display": "Coin: 10915",
+    "pub_created_display": [
+        "Wahram IV (388 to 399), Drachm, Herat"
+    ],
+    "call_number_display": [
+        "Coin 10915"
+    ],
+    "call_number_browse_s": [
+        "Coin 10915"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Rev. corroded"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10915\",\"call_number_browse\":\"Coin 10915\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 388,
+    "pub_date_end_sort": 389,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7076"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Wahram IV (388 to 399)"
+    ],
+    "issue_series_s": [
+        "HLYDY"
+    ],
+    "issue_place_s": [
+        "Herat, Khorasan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Herat"
+    ],
+    "issue_state_s": [
+        "Khorasan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Wahram IV on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap; crown with mural element and two staggered wings; covered korymbos; ribbons between crown cap and korymbos pointing to the left, pearl diadem, diadem ribbons commencing below ball of hair; earing consisting of two elements; tunica, neck-line edged with double row of pearls running from shoulder to the breast ornament (only upper part visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy wrhr'n MRKAn MRKA 'yr'n W 'nyr'n MNW ctry MN yzd'n| mazd\u0113sn bay Wahr\u0101m \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n ud An\u0113r\u0101n k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Wahram, King of Kings of the Iranians and non-Iranians, whose seeds/splendour is from the gods"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square, vertically ribbed altar shaft; four altar plates; small triangle attached to altar table, below these ribbed ribbons; altar flames; to the left and right of altar pillar in the form of a lion's paw resting on mushroom-shaped object; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "1 h l. i. l'sty,11 h l. o. wrhr'n| \u0101dur \u012b Wahr\u0101m|\u201cthe fire of Wahram\u201d"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint HLYDY Type Ia2/1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d4b8fe21c2bef8da"
+    ],
+    "_version_": 1667138287712600064,
+    "timestamp": "2020-05-19T16:49:26.890Z"
+}

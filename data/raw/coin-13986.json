@@ -1,0 +1,100 @@
+{
+    "id": "coin-13986",
+    "title_display": "Coin: 13986",
+    "pub_created_display": [
+        "Ptolemy I Soter (-323 to -282), chalkous, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 13986"
+    ],
+    "call_number_browse_s": [
+        "Coin 13986"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Mintmark/attribute unclear. No A or \u039b."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18.5"
+    ],
+    "weight_s": [
+        "2.64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13986\",\"call_number_browse\":\"Coin 13986\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "9015"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy I Soter (-323 to -282)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Ptolemaic Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Ptolemaic Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of deified Alexander r., wearing mitra, with ram's horn at temple and short hair."
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eagle with spread wings standing l."
+    ],
+    "issue_references_s": [
+        "Lorber I, v.II, 6 B7"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4d1dbae24a97f902"
+    ],
+    "_version_": 1667138328770641920,
+    "timestamp": "2020-05-19T16:50:06.045Z"
+}

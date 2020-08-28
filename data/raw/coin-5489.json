@@ -1,0 +1,68 @@
+{
+    "id": "coin-5489",
+    "title_display": "Coin: 5489",
+    "pub_created_display": [
+        "Wu Zong \u5143\u6b66\u5b97 (1308 to 1311), 10 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5489"
+    ],
+    "call_number_browse_s": [
+        "Coin 5489"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "44.2"
+    ],
+    "weight_s": [
+        "23.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5489\",\"call_number_browse\":\"Coin 5489\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1308,
+    "pub_date_end_sort": 1311,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "10 Cash"
+    ],
+    "issue_number_s": [
+        "3089"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Wu Zong \u5143\u6b66\u5b97 (1308 to 1311)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5927\u5143\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 16 59",
+        "Hartill 228 19.46"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1f851251fa02564e"
+    ],
+    "_version_": 1667138395059519488,
+    "timestamp": "2020-05-19T16:51:09.265Z"
+}

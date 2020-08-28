@@ -1,0 +1,80 @@
+{
+    "id": "coin-6101",
+    "title_display": "Coin: 6101",
+    "call_number_display": [
+        "Coin 6101"
+    ],
+    "call_number_browse_s": [
+        "Coin 6101"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Medal commemorates the successes of Eugene & Marlborough.  Medal composed of white metal with copper plug.  Edge enscription reads: ARMORVM FOEDERATORVM FRVCTVS (The fruits of the allied arms)."
+    ],
+    "size_s": [
+        "45"
+    ],
+    "weight_s": [
+        "29.01"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6101\",\"call_number_browse\":\"Coin 6101\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3554"
+    ],
+    "issue_metal_s": [
+        "White metal"
+    ],
+    "issue_obverse_figure_s": [
+        "Two busts"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Prince Eugene on left, facing right, and bust of the Duke of Marlborough on right, facing left."
+    ],
+    "issue_obverse_legend_s": [
+        "EVGENIVS . FRANC . DVX . SABAVD . * IOHANNES . DVX . D . MARLB . S . R . I . P . *"
+    ],
+    "issue_reverse_figure_s": [
+        "Towns"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Five compartments shown commemorating the successes of Eugene and Marlborough during campaign of 1710."
+    ],
+    "issue_reverse_legend_s": [
+        "MVNIMENTA OCCVPATA | DOVAY . | S . VENANT . | BETHVNE . | ARIEN . | MDCCX ."
+    ],
+    "issue_references_s": [
+        "M.I. Plate CXXXIII 2",
+        "Forrer 2, p.441 "
+    ],
+    "issue_artists_s": [
+        "Georg Hautsch, *"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "717b584be547653c"
+    ],
+    "_version_": 1667138379948490752,
+    "timestamp": "2020-05-19T16:50:54.854Z"
+}

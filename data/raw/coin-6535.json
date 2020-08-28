@@ -1,0 +1,49 @@
+{
+    "id": "coin-6535",
+    "title_display": "Coin: 6535",
+    "call_number_display": [
+        "Coin 6535"
+    ],
+    "call_number_browse_s": [
+        "Coin 6535"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_number_s": [
+        "Ca2712"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6535\",\"call_number_browse\":\"Coin 6535\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "4598"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a31f0dd398225577"
+    ],
+    "_version_": 1667138256886562816,
+    "timestamp": "2020-05-19T16:48:57.491Z"
+}

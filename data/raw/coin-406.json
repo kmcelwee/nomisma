@@ -1,0 +1,124 @@
+{
+    "id": "coin-406",
+    "title_display": "Coin: 406",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 406"
+    ],
+    "call_number_browse_s": [
+        "Coin 406"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/16/1938"
+    ],
+    "find_feature_s": [
+        "Trench 4"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb500"
+    ],
+    "find_description_s": [
+        "Down N. Wall to Ca. 3 to 3.5 M (A1-4)"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "1.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 406\",\"call_number_browse\":\"Coin 406\"}}",
+    "pub_date_start_sort": 517,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "134"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u0404"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0391"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\u0404 without points"
+    ],
+    "issue_references_s": [
+        " Anastasius I 63a",
+        " Anastasius I 49a",
+        "BMC.Byz. Anastasius I 69",
+        "Sear  53"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5175059f4de552ce"
+    ],
+    "_version_": 1667138204920184832,
+    "timestamp": "2020-05-19T16:48:07.937Z"
+}

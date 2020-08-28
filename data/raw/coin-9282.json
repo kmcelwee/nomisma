@@ -1,0 +1,88 @@
+{
+    "id": "coin-9282",
+    "title_display": "Coin: 9282",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9282"
+    ],
+    "call_number_browse_s": [
+        "Coin 9282"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Die axis 6 or 12. Three metal waves on each side."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/16/1937"
+    ],
+    "find_feature_s": [
+        "Under oven room"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca401"
+    ],
+    "find_description_s": [
+        "to 3 M. (D)"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "1.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9282\",\"call_number_browse\":\"Coin 9282\"}}",
+    "pub_date_start_sort": 790,
+    "pub_date_end_sort": 910,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4926"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        " \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \\ \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \\ \u0644\u0627\u0634\u0631\u06cc\u0643 \u0644\u0647"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7b33070fdc2c2c59"
+    ],
+    "_version_": 1667144952084168704,
+    "timestamp": "2020-05-19T18:35:22.529Z"
+}

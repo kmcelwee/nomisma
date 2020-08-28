@@ -1,0 +1,107 @@
+{
+    "id": "coin-9939",
+    "title_display": "Coin: 9939",
+    "pub_created_display": [
+        "Unknown, fractional, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9939"
+    ],
+    "call_number_browse_s": [
+        "Coin 9939"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/4/1933"
+    ],
+    "find_feature_s": [
+        "Hill A 7025 surface 0.30 to 1.00 meters"
+    ],
+    "find_number_s": [
+        "2430"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "0.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9939\",\"call_number_browse\":\"Coin 9939\"}}",
+    "pub_date_start_sort": 1100,
+    "pub_date_end_sort": 1300,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fractional"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "palm branch"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmeted"
+    ],
+    "issue_reverse_figure_s": [
+        "Grid"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "annulets in each field of grid, figure surrounded by curved line"
+    ],
+    "issue_references_s": [
+        "Ox.  481",
+        "Schl.  III17"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "56e7636cc33a639b"
+    ],
+    "_version_": 1674260160851214336,
+    "timestamp": "2020-08-06T07:28:34.386Z"
+}

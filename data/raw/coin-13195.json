@@ -1,0 +1,82 @@
+{
+    "id": "coin-13195",
+    "title_display": "Coin: 13195",
+    "pub_created_display": [
+        "bronze, Aegina"
+    ],
+    "call_number_display": [
+        "Coin 13195"
+    ],
+    "call_number_browse_s": [
+        "Coin 13195"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "1.31"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13195\",\"call_number_browse\":\"Coin 13195\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "8544"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Aegina, Attica, Greece"
+    ],
+    "issue_city_s": [
+        "Aegina"
+    ],
+    "issue_state_s": [
+        "Attica"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Two dolphins"
+    ],
+    "issue_obverse_symbol_s": [
+        "A"
+    ],
+    "issue_reverse_figure_s": [
+        "Incuse square"
+    ],
+    "issue_references_s": [
+        "Milbank Pl. 4 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bdcb51e606093bac"
+    ],
+    "_version_": 1667146588691103744,
+    "timestamp": "2020-05-19T19:02:24.583Z"
+}

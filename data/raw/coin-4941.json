@@ -1,0 +1,82 @@
+{
+    "id": "coin-4941",
+    "title_display": "Coin: 4941",
+    "pub_created_display": [
+        "Reims"
+    ],
+    "call_number_display": [
+        "Coin 4941"
+    ],
+    "call_number_browse_s": [
+        "Coin 4941"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "BRONZE"
+    ],
+    "size_s": [
+        "50"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "56.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4941\",\"call_number_browse\":\"Coin 4941\"}}",
+    "donor_s": [
+        "H.K. Twitchell"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2728"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Reims, France"
+    ],
+    "issue_city_s": [
+        "Reims"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cathedral of Reims"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Cathedral of Reims at center, smoke emanating from the top.  Shield and palm frond at bottom."
+    ],
+    "issue_obverse_legend_s": [
+        "LA CATHEDRALE DE REIMS VICTIME DU VANDALISME 1914"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "03c24710c79da4b7"
+    ],
+    "_version_": 1667138397784768512,
+    "timestamp": "2020-05-19T16:51:11.862Z"
+}

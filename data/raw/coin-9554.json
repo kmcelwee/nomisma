@@ -1,0 +1,115 @@
+{
+    "id": "coin-9554",
+    "title_display": "Coin: 9554",
+    "pub_created_display": [
+        "Isaac II Komnenos (1185 to 1195), aspron trachy nomisma, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9554"
+    ],
+    "call_number_browse_s": [
+        "Coin 9554"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "37"
+    ],
+    "weight_s": [
+        "75.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9554\",\"call_number_browse\":\"Coin 9554\"}}",
+    "pub_date_start_sort": 1185,
+    "pub_date_end_sort": 1195,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "6102"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "skyphate"
+    ],
+    "issue_ruler_s": [
+        "Isaac II Komnenos (1185 to 1195)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Virgin Mary"
+    ],
+    "issue_obverse_symbol_s": [
+        "head of christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Virgin nimbate wearing tunic and maphorion, enthroned, holding beardless head of christ on breast"
+    ],
+    "issue_obverse_legend_s": [
+        "M-P \u0398V"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "Manus Dei"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Full egnth emperor wearing stemma divitision collarpiece simplified jewled loros and sagion; holds r. scepter cruciger and l. anexikakia; manus dei"
+    ],
+    "issue_reverse_legend_s": [
+        "In two columnar groups ICAAKIOC \u0394EC\u03a0\u039f\u03a4C"
+    ],
+    "issue_references_s": [
+        "DOC Vol 4. pt. 1 p. 377 3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9fd427f38c7b04a0"
+    ],
+    "_version_": 1667138139987116032,
+    "timestamp": "2020-05-19T16:47:06.008Z"
+}

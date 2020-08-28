@@ -1,0 +1,110 @@
+{
+    "id": "coin-2694",
+    "title_display": "Coin: 2694",
+    "pub_created_display": [
+        "Daniel Morgan (1736 to 1802)"
+    ],
+    "call_number_display": [
+        "Coin 2694"
+    ],
+    "call_number_browse_s": [
+        "Coin 2694"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bronze striking post-1839 Philadelphia Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2694\",\"call_number_browse\":\"Coin 2694\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 1839,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1762"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Daniel Morgan (1736 to 1802)"
+    ],
+    "issue_workshop_s": [
+        "Philadelphia Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Morgan, Indian"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_figure_description_s": [
+        "semi-nude female attired as Indian to l. places wreath on head of Morgan to r. Flags, instruments, cannon, shield behind; trees behind to r."
+    ],
+    "issue_obverse_legend_s": [
+        "DANIELI MORGAN DUCI EXERCITUS| COMITIA AMERICANA."
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 2"
+    ],
+    "issue_reverse_figure_s": [
+        "Battlefield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Morgan on horseback leads infantry from r., combat of soldiers with horsemen to l., cavalry behind in center"
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIA LIBERTATIS VINDEX| FVGATIS CAPTIS AVT CAESIS| AD COWPENS HOSTIBVS| XVII.JAN.MDCCLXXXI."
+    ],
+    "issue_reverse_attributes_s": [
+        "die, B"
+    ],
+    "issue_references_s": [
+        "Betts  593",
+        "Julian  MI-7",
+        "Stahl, Comitia Americana  66",
+        "Stahl, Comitia Americana pp. 129-138 "
+    ],
+    "issue_artists_s": [
+        "Augustin Dupre, dupre. f.",
+        "Augustin Dupre, DUPRE INV.ET F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6d062df7ffc11e94"
+    ],
+    "_version_": 1667138428364390400,
+    "timestamp": "2020-05-19T16:51:41.026Z"
+}

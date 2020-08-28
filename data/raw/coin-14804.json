@@ -1,0 +1,118 @@
+{
+    "id": "coin-14804",
+    "title_display": "Coin: 14804",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 14804"
+    ],
+    "call_number_browse_s": [
+        "Coin 14804"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14804\",\"call_number_browse\":\"Coin 14804\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "9085"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Farsuleius Mensor  "
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Libertas"
+    ],
+    "issue_obverse_symbol_s": [
+        "S.C."
+    ],
+    "issue_obverse_part_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "Facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "draped and wearing diadem"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "behind, symbol and pileus"
+    ],
+    "issue_obverse_legend_s": [
+        "MENSOR"
+    ],
+    "issue_reverse_figure_s": [
+        "Warrior & togate figure"
+    ],
+    "issue_reverse_symbol_s": [
+        "XXCVII"
+    ],
+    "issue_reverse_part_s": [
+        "In biga"
+    ],
+    "issue_reverse_orientation_s": [
+        "Riding right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Holding spear"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "above symbol"
+    ],
+    "issue_reverse_legend_s": [
+        "L.FARSVLEI"
+    ],
+    "issue_references_s": [
+        "RRC  392-1b"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fcb6c653167b2440"
+    ],
+    "_version_": 1667308654510997504,
+    "timestamp": "2020-05-21T13:57:21.330Z"
+}

@@ -1,0 +1,117 @@
+{
+    "id": "coin-9363",
+    "title_display": "Coin: 9363",
+    "pub_created_display": [
+        "John II Komnenos (1118 to 1143), hyperpyron, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 9363"
+    ],
+    "call_number_browse_s": [
+        "Coin 9363"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Flattened; double strike on obverse"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "4.13"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9363\",\"call_number_browse\":\"Coin 9363\"}}",
+    "donor_s": [
+        "Louis C. West"
+    ],
+    "pub_date_start_sort": 1122,
+    "pub_date_end_sort": 1137,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "5985"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "John II Komnenos (1118 to 1143)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_figure_s": [
+        "Seated figure"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on a throne; right hand raised in benefaction, left hand holding the Gospels (5 pellets)"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin crowning emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "full length virgin crowns emperor holding a labarum (r.) and anexikakia (l.)"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "virgin on the right; emperor on the left"
+    ],
+    "issue_reverse_legend_s": [
+        "IW \\ \u0394CC \\ \u03a0OT \\ TW \\ \u03a0  *** \u03a6V \\ PO \\ \u0393C \\ NH \\ T *** M\u0398"
+    ],
+    "issue_references_s": [
+        "DOC Vol. 4.1; John II 2.1-22",
+        "BL Vol.2 ; Jean II 60/Cp/AU/05-07",
+        "BMC Vol. 2; John II Type 3#41"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "57d7c33c47a36037"
+    ],
+    "_version_": 1667138146321563648,
+    "timestamp": "2020-05-19T16:47:12.049Z"
+}

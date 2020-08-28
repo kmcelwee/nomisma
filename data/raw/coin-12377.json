@@ -1,0 +1,111 @@
+{
+    "id": "coin-12377",
+    "title_display": "Coin: 12377",
+    "pub_created_display": [
+        "Constantine Tikh-Asen, billon trachy, Tarnovo"
+    ],
+    "call_number_display": [
+        "Coin 12377"
+    ],
+    "call_number_browse_s": [
+        "Coin 12377"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscriptions damaged."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "2.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12377\",\"call_number_browse\":\"Coin 12377\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 1268,
+    "pub_date_end_sort": 1277,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8308"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Constantine Tikh-Asen"
+    ],
+    "issue_place_s": [
+        "Tarnovo, Tarnovo, Bulgaria"
+    ],
+    "issue_city_s": [
+        "Tarnovo"
+    ],
+    "issue_state_s": [
+        "Tarnovo"
+    ],
+    "issue_region_s": [
+        "Bulgaria"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust of Christ"
+    ],
+    "issue_obverse_figure_description_s": [
+        "blessing with right hand, stars below figure"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "Gospel book, in left hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_legend_s": [
+        "KOCTANTHN\u042a \u0410\u0421\u042fN\u042c \u0426\u0410\u0420\u042c"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum, in right hand",
+        "anexikakia, in left hand"
+    ],
+    "issue_references_s": [
+        "DOC p.647 4a",
+        "Iurukova p.88,type V"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "faf2365d1e329485"
+    ],
+    "_version_": 1667138303899467776,
+    "timestamp": "2020-05-19T16:49:42.327Z"
+}

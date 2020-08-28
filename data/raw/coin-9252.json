@@ -1,0 +1,79 @@
+{
+    "id": "coin-9252",
+    "title_display": "Coin: 9252",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 9252"
+    ],
+    "call_number_browse_s": [
+        "Coin 9252"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Marginal legend clearly legible"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/06/1937"
+    ],
+    "find_feature_s": [
+        "To 2 M."
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca180"
+    ],
+    "find_description_s": [
+        "South of EW pipe"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9252\",\"call_number_browse\":\"Coin 9252\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5899"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c901aa705cf54d86"
+    ],
+    "_version_": 1667144975873212416,
+    "timestamp": "2020-05-19T18:35:45.223Z"
+}

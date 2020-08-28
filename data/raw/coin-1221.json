@@ -1,0 +1,104 @@
+{
+    "id": "coin-1221",
+    "title_display": "Coin: 1221",
+    "pub_created_display": [
+        "uncia, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1221"
+    ],
+    "call_number_browse_s": [
+        "Coin 1221"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "9.21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1221\",\"call_number_browse\":\"Coin 1221\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": -217,
+    "pub_date_end_sort": -215,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "uncia"
+    ],
+    "issue_number_s": [
+        "666"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Sol"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "draped bust of Sol, facing, surrounded by rays"
+    ],
+    "issue_reverse_figure_s": [
+        "Crescent"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crescent w/ two stars and O above, ROMA below"
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "star, two stars above crescent",
+        "pellet, pellet above crescent",
+        "line, border"
+    ],
+    "issue_references_s": [
+        "RRC  39/4",
+        "Syd.  96",
+        "Sear  614"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "63e34f2540431a2c"
+    ],
+    "_version_": 1667138209598930944,
+    "timestamp": "2020-05-19T16:48:12.396Z"
+}

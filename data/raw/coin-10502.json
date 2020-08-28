@@ -1,0 +1,112 @@
+{
+    "id": "coin-10502",
+    "title_display": "Coin: 10502",
+    "pub_created_display": [
+        "Elagabalus (218 to 222), small, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10502"
+    ],
+    "call_number_browse_s": [
+        "Coin 10502"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "find_date_s": [
+        "5/9/33"
+    ],
+    "find_feature_s": [
+        "Hippodrome A 42 surface over gallery wall"
+    ],
+    "find_locus_s": [
+        "7O"
+    ],
+    "find_number_s": [
+        "2968"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "5.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10502\",\"call_number_browse\":\"Coin 10502\"}}",
+    "pub_date_start_sort": 218,
+    "pub_date_end_sort": 222,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "small"
+    ],
+    "issue_number_s": [
+        "6675"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Elagabalus (218 to 222)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Radiate head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "head radiate left"
+    ],
+    "issue_obverse_legend_s": [
+        "AVTKAI.... ANT\u03a9N\u03b5INOC"
+    ],
+    "issue_reverse_figure_s": [
+        "S C in wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "eagle"
+    ],
+    "issue_reverse_figure_description_s": [
+        "SC in wreath, \u0394\u03b5 above, eagle below"
+    ],
+    "issue_references_s": [
+        "BMC Syria  436"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "66c26acf362ddac0"
+    ],
+    "_version_": 1667138180557570048,
+    "timestamp": "2020-05-19T16:47:44.698Z"
+}

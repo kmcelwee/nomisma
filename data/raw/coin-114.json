@@ -1,0 +1,121 @@
+{
+    "id": "coin-114",
+    "title_display": "Coin: 114",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 5 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 114"
+    ],
+    "call_number_browse_s": [
+        "Coin 114"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3/28/1935"
+    ],
+    "find_feature_s": [
+        "Surface S. of Room 2"
+    ],
+    "find_locus_s": [
+        "15-R"
+    ],
+    "find_number_s": [
+        "C4152"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "3.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 114\",\"call_number_browse\":\"Coin 114\"}}",
+    "pub_date_start_sort": 517,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "70"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "\u0394"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u0404"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0394"
+    ],
+    "issue_reverse_attributes_s": [
+        "pellet, 2 within \u0404"
+    ],
+    "issue_references_s": [
+        " Anastasius 39d",
+        " Anastasius 29d",
+        "BMC.Byz. Anastasius 58",
+        "Sear  29"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e7f55f3ff8319685"
+    ],
+    "_version_": 1667138446170259456,
+    "timestamp": "2020-05-19T16:51:58.007Z"
+}

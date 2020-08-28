@@ -1,0 +1,110 @@
+{
+    "id": "coin-6519",
+    "title_display": "Coin: 6519",
+    "pub_created_display": [
+        "Andronicus II (1282 to 1328), trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 6519"
+    ],
+    "call_number_browse_s": [
+        "Coin 6519"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "0.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6519\",\"call_number_browse\":\"Coin 6519\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1282,
+    "pub_date_end_sort": 1328,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "trachy"
+    ],
+    "issue_number_s": [
+        "3940"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Andronicus II (1282 to 1328)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Demetrius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of St. Demetrius holding small cross (obscure)"
+    ],
+    "issue_reverse_figure_s": [
+        "Virgin blessing Andronicus II"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Andronicus II standing blessed by Virgin, standing, with star between them"
+    ],
+    "issue_reverse_legend_s": [
+        "backwards B between figures"
+    ],
+    "issue_references_s": [
+        "DOC vol. 5, page 159 38",
+        "Sear  2360"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7c56b4d4307c9d83"
+    ],
+    "_version_": 1667138367152717824,
+    "timestamp": "2020-05-19T16:50:42.651Z"
+}

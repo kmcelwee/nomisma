@@ -1,0 +1,117 @@
+{
+    "id": "coin-1954",
+    "title_display": "Coin: 1954",
+    "pub_created_display": [
+        "denarius serratus, Narbo"
+    ],
+    "call_number_display": [
+        "Coin 1954"
+    ],
+    "call_number_browse_s": [
+        "Coin 1954"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1954\",\"call_number_browse\":\"Coin 1954\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius serratus"
+    ],
+    "issue_number_s": [
+        "1275"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Licinius Crassus, Cn. Domitius Ahenobarbus & Associates"
+    ],
+    "issue_place_s": [
+        "Narbo, Gaul, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Narbo"
+    ],
+    "issue_state_s": [
+        "Gaul"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head in Attic helmet  r.; legend around; X behind."
+    ],
+    "issue_obverse_legend_s": [
+        "L.PO\u03a3\u03a0ONI.CNF"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Warrior"
+    ],
+    "issue_reverse_part_s": [
+        "charging"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Naked, bearded, Gallic warrior in biga r.; in r. hand, hurling spear; in l. hand, holding reins, carnyx, shield. Legend below in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "L.LIC.CN.DOM"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Dots"
+    ],
+    "issue_references_s": [
+        "RRC  282/4",
+        "Syd.  522",
+        "Sear  158"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df80cba0122b53b2"
+    ],
+    "_version_": 1667138215818035200,
+    "timestamp": "2020-05-19T16:48:18.325Z"
+}

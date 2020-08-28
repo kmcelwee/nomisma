@@ -1,0 +1,110 @@
+{
+    "id": "coin-8445",
+    "title_display": "Coin: 8445",
+    "pub_created_display": [
+        "fals, Tabariyya"
+    ],
+    "call_number_display": [
+        "Coin 8445"
+    ],
+    "call_number_browse_s": [
+        "Coin 8445"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-20-1938"
+    ],
+    "find_locus_s": [
+        "18-N"
+    ],
+    "find_number_s": [
+        "Cb2164"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8445\",\"call_number_browse\":\"Coin 8445\"}}",
+    "pub_date_start_sort": 670,
+    "pub_date_end_sort": 690,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5380"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Tabariyya, Tiberias, Syria"
+    ],
+    "issue_city_s": [
+        "Tabariyya"
+    ],
+    "issue_state_s": [
+        "Tiberias"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Three figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "three standing imperial figures holding stylized globus crucigers"
+    ],
+    "issue_obverse_legend_s": [
+        "illegible"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "M with monogram above and illegible officina symbol below"
+    ],
+    "issue_reverse_legend_s": [
+        "[TIBEPI]A\u0394O around from 11 clockwise (missing final C); to r., downwards, \u0637\u0628\u0631\u064a\u0629"
+    ],
+    "issue_references_s": [
+        "Ash. 1 plate 40 589",
+        "BMC page 15 43ff."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "45c84adc9ae76ca6"
+    ],
+    "_version_": 1667138268435578880,
+    "timestamp": "2020-05-19T16:49:08.507Z"
+}

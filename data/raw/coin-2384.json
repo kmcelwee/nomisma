@@ -1,0 +1,120 @@
+{
+    "id": "coin-2384",
+    "title_display": "Coin: 2384",
+    "pub_created_display": [
+        "Antiochus I Soter (-280 to -261), half, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 2384"
+    ],
+    "call_number_browse_s": [
+        "Coin 2384"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Legend effaced"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "08/12/1937"
+    ],
+    "find_locus_s": [
+        "S 20-K"
+    ],
+    "find_number_s": [
+        "Ca2936"
+    ],
+    "find_description_s": [
+        "(baskets A1 ff.)"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "1.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2384\",\"call_number_browse\":\"Coin 2384\"}}",
+    "pub_date_start_sort": -278,
+    "pub_date_end_sort": -268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "1531"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus I Soter (-280 to -261)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Thunderbolt"
+    ],
+    "issue_reverse_symbol_s": [
+        "club"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399 | \u0391\u039d\u03a4\u0399"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1522, above legend"
+    ],
+    "issue_references_s": [
+        "H & L  344",
+        "WSM  950",
+        "Houghton  24"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6c2168b7a8db9062"
+    ],
+    "_version_": 1669841268581072896,
+    "timestamp": "2020-06-18T12:52:10.326Z"
+}

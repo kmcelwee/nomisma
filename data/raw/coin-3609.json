@@ -1,0 +1,127 @@
+{
+    "id": "coin-3609",
+    "title_display": "Coin: 3609",
+    "pub_created_display": [
+        "Unknown, follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 3609"
+    ],
+    "call_number_browse_s": [
+        "Coin 3609"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/12/1934"
+    ],
+    "find_feature_s": [
+        "Yard"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "C3516"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "8.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3609\",\"call_number_browse\":\"Coin 3609\"}}",
+    "pub_date_start_sort": 1030,
+    "pub_date_end_sort": 1042,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "2024"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_series_s": [
+        "Anonymous Folles, Class B"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with nimbus cross, right hand raised, left hand holding book"
+    ],
+    "issue_obverse_legend_s": [
+        "+EMMA NOVH\u039b"
+    ],
+    "issue_obverse_attributes_s": [
+        "inscription, IC XC",
+        "nimbus cross, in each arm, square with pellet at each corner",
+        "ornamentation on Gospel book, five dots :\u2219: on cover",
+        "nimbus cross, single pellet in each upper corner"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "3 lines, cross on base and two steps, pellet at end of each arm of the cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ISXS/BASILE/BASILE"
+    ],
+    "issue_references_s": [
+        "DOC 3.676 B",
+        "Sear 377 1823",
+        "BN 599 41/Cp/AE/67",
+        "BMC.Byz. 497 (Class II) 6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fd15570373ffc221"
+    ],
+    "_version_": 1667138388773306368,
+    "timestamp": "2020-05-19T16:51:03.271Z"
+}

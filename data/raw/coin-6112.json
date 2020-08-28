@@ -1,0 +1,102 @@
+{
+    "id": "coin-6112",
+    "title_display": "Coin: 6112",
+    "pub_created_display": [
+        "Philip V (1700 to 1746), 1/2 real"
+    ],
+    "call_number_display": [
+        "Coin 6112"
+    ],
+    "call_number_browse_s": [
+        "Coin 6112"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Weight with hole and ring is 1.58 g."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6112\",\"call_number_browse\":\"Coin 6112\"}}",
+    "donor_s": [
+        "M. Goodridge"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/2 real"
+    ],
+    "issue_number_s": [
+        "3564"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip V (1700 to 1746)"
+    ],
+    "issue_master_s": [
+        "MF"
+    ],
+    "issue_workshop_s": [
+        "Mexico"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Shield"
+    ],
+    "issue_obverse_symbol_s": [
+        "MF"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standard crowned shield of Castille and Leon with the shield of Bourbon in the middle"
+    ],
+    "issue_obverse_legend_s": [
+        "\u2022HISPAN\u2022ET\u2022IND\u2022REX*PHILIP\u2022V\u2022D\u2022G"
+    ],
+    "issue_reverse_figure_s": [
+        "Crown above two globes and two pillars on sides"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two globes with a crown on top behind an ocean and between two columns (left: \"PLUS\", right: \"VLTR\")"
+    ],
+    "issue_reverse_legend_s": [
+        "VTRAQUE VNUM*Mo[on top]*1734*Mo[on top]*"
+    ],
+    "issue_references_s": [
+        "Las Monedas Espanolas  1479",
+        "Cast\u00e1n y Cay\u00f3n  7421 var.",
+        "Heiss Vol I, Lam. 49 66"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e2e6daff94f70482"
+    ],
+    "_version_": 1667138384315809792,
+    "timestamp": "2020-05-19T16:50:59.017Z"
+}

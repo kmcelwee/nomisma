@@ -1,0 +1,84 @@
+{
+    "id": "coin-1516",
+    "title_display": "Coin: 1516",
+    "pub_created_display": [
+        "Xian Feng \u54b8\u8c50 (1851 to 1862), 15 Cash"
+    ],
+    "call_number_display": [
+        "Coin 1516"
+    ],
+    "call_number_browse_s": [
+        "Coin 1516"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "51"
+    ],
+    "weight_s": [
+        "45.39"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1516\",\"call_number_browse\":\"Coin 1516\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1851,
+    "pub_date_end_sort": 1861,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "15 Cash"
+    ],
+    "issue_number_s": [
+        "912"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
+    ],
+    "issue_ruler_s": [
+        "Xian Feng \u54b8\u8c50 (1851 to 1862)"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u54b8\u8c50\u91cd\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u7576\u5341\u4e94"
+    ],
+    "issue_reverse_attributes_s": [
+        "c1, \u5bf6 (Manchurian- Bao)",
+        "c11, \u660c (Manchurian- Bao)"
+    ],
+    "issue_references_s": [
+        "Shang Hai QDMGJZB 581 2019",
+        "Shang Hai QDMGJZB 581 2020"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "278a4684bd494cc2"
+    ],
+    "_version_": 1667305798761447424,
+    "timestamp": "2020-05-21T13:11:57.874Z"
+}

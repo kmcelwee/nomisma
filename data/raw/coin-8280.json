@@ -1,0 +1,122 @@
+{
+    "id": "coin-8280",
+    "title_display": "Coin: 8280",
+    "pub_created_display": [
+        "'Abd al-Malik ibn Marwan (685 to 705), fals, Tanukh"
+    ],
+    "call_number_display": [
+        "Coin 8280"
+    ],
+    "call_number_browse_s": [
+        "Coin 8280"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-25-1936"
+    ],
+    "find_feature_s": [
+        "Dig III"
+    ],
+    "find_locus_s": [
+        "16-P"
+    ],
+    "find_number_s": [
+        "C6168"
+    ],
+    "find_description_s": [
+        "above stone pavement of road"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "2.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8280\",\"call_number_browse\":\"Coin 8280\"}}",
+    "pub_date_start_sort": 690,
+    "pub_date_end_sort": 702,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5282"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "'Abd al-Malik ibn Marwan (685 to 705)"
+    ],
+    "issue_place_s": [
+        "Tanukh, Jund Qinnasrin, Syria"
+    ],
+    "issue_city_s": [
+        "Tanukh"
+    ],
+    "issue_state_s": [
+        "Jund Qinnasrin"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Caliph"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standing caliph wearing long robes, r. hand on pommel of sword, which hangs in scabbard to the l.; girdle band shown as long loop to the r."
+    ],
+    "issue_obverse_legend_s": [
+        "around clockwise \u0644\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0639\u0628\u062f \u0627\u0644\u0645\u0644\u0643 \u0627\u0645\u064a\u0631 \u0627\u0644\u0645\u0624\u0645\u0646\u064a\u0646"
+    ],
+    "issue_reverse_figure_s": [
+        "Modified cross on steps"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "transformed cross on steps"
+    ],
+    "issue_reverse_legend_s": [
+        "to the r., downwards \u0648\u0627\u0641; to the l., upwards \u0628\u062a\u0646\u0648\u062e ; around clockwise \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647"
+    ],
+    "issue_references_s": [
+        "Ash. 1 plate 43 656",
+        "BMC p. 264 884"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "866bc8d4e0dff8d2"
+    ],
+    "_version_": 1667138347475140608,
+    "timestamp": "2020-05-19T16:50:23.885Z"
+}

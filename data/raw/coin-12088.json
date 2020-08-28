@@ -1,0 +1,58 @@
+{
+    "id": "coin-12088",
+    "title_display": "Coin: 12088",
+    "pub_created_display": [
+        "Justinian I (527 to 565)"
+    ],
+    "call_number_display": [
+        "Coin 12088"
+    ],
+    "call_number_browse_s": [
+        "Coin 12088"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "11.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12088\",\"call_number_browse\":\"Coin 12088\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "8155"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "12e21e494958f702"
+    ],
+    "_version_": 1667144825723420672,
+    "timestamp": "2020-05-19T18:33:22.022Z"
+}

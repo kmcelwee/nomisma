@@ -1,0 +1,102 @@
+{
+    "id": "coin-5142",
+    "title_display": "Coin: 5142",
+    "pub_created_display": [
+        "as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5142"
+    ],
+    "call_number_browse_s": [
+        "Coin 5142"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Martini sale, 1930, for $10.50"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "39"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "64.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5142\",\"call_number_browse\":\"Coin 5142\"}}",
+    "pub_date_start_sort": -215,
+    "pub_date_end_sort": -212,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "2852"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Janus"
+    ],
+    "issue_obverse_symbol_s": [
+        "\u0399"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0399"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_references_s": [
+        "Haeb. pl. 49-50 ",
+        "Aes Grave  24",
+        "RRC 41 5",
+        "Syd.  101",
+        "ICC  70, 70a",
+        "Sear  573"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "16f2ab1e99c6a0e6"
+    ],
+    "_version_": 1667138511317237760,
+    "timestamp": "2020-05-19T16:53:00.136Z"
+}

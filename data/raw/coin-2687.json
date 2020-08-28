@@ -1,0 +1,107 @@
+{
+    "id": "coin-2687",
+    "title_display": "Coin: 2687",
+    "pub_created_display": [
+        "George Washington (1789 to 1797)"
+    ],
+    "call_number_display": [
+        "Coin 2687"
+    ],
+    "call_number_browse_s": [
+        "Coin 2687"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "(cornucopia) BRONZE on edge"
+    ],
+    "notes_display": [
+        "Paris Mint restrike 1880-present"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2687\",\"call_number_browse\":\"Coin 2687\"}}",
+    "pub_date_start_sort": 1880,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1693"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "George Washington (1789 to 1797)"
+    ],
+    "issue_workshop_s": [
+        "Paris Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "GEORGIO WASHINGTON SVPREMO DVCI EXERCITVVM ADSERTORI LIBERTATIS| COMITIA AMERICANA"
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 2"
+    ],
+    "issue_reverse_figure_s": [
+        "Washington"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on horseback with three other horsemen, Boston and troops in background, cannon to right"
+    ],
+    "issue_reverse_legend_s": [
+        "HOSTIBUS PRIMO FUGATIS|BOSTONIUM RECUPERATUM|XVII.MARTII|MDCCLXXVI"
+    ],
+    "issue_reverse_attributes_s": [
+        "die, C"
+    ],
+    "issue_references_s": [
+        "Betts  542",
+        "Julian  MI-1",
+        "Stahl, Comitia Americana  22",
+        "Adams  39-53"
+    ],
+    "issue_artists_s": [
+        "Pierre Simon Benjamin Duvivier, DV VIVIER| PARIS.F.",
+        "Pierre Simon Benjamin Duvivier, DV VIV."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2eac1bede92e8202"
+    ],
+    "_version_": 1667138424682840064,
+    "timestamp": "2020-05-19T16:51:37.515Z"
+}

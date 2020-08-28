@@ -1,0 +1,103 @@
+{
+    "id": "coin-14797",
+    "title_display": "Coin: 14797",
+    "pub_created_display": [
+        "Diocletian   (244 to 311), antoninianus, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 14797"
+    ],
+    "call_number_browse_s": [
+        "Coin 14797"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "3.98"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14797\",\"call_number_browse\":\"Coin 14797\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_number_s": [
+        "9080"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Diocletian   (244 to 311)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "Facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCCVALDIOCLETIANVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter and Hercules"
+    ],
+    "issue_reverse_figure_description_s": [
+        "standing flanking sceptre"
+    ],
+    "issue_reverse_legend_s": [
+        "B / XXI."
+    ],
+    "issue_references_s": [
+        "Probus to Amandus Diocletian 323"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d66423e01b6b1cff"
+    ],
+    "_version_": 1667309234835947520,
+    "timestamp": "2020-05-21T14:06:34.774Z"
+}

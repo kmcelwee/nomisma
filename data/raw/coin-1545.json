@@ -1,0 +1,77 @@
+{
+    "id": "coin-1545",
+    "title_display": "Coin: 1545",
+    "pub_created_display": [
+        "20 Cash"
+    ],
+    "call_number_display": [
+        "Coin 1545"
+    ],
+    "call_number_browse_s": [
+        "Coin 1545"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "10.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1545\",\"call_number_browse\":\"Coin 1545\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "20 Cash"
+    ],
+    "issue_number_s": [
+        "937"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u4e2d\u83ef\u9285\u5e63 | The Republic of China"
+    ],
+    "issue_reverse_legend_s": [
+        "\u6c11\u570b\u5341\u4e09\u5e74\u9020 | \u96d9\u679a"
+    ],
+    "issue_references_s": [
+        "Qing Dai 478 1614",
+        "KM 2005 413 312v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15a330428bb22466"
+    ],
+    "_version_": 1667138413291110400,
+    "timestamp": "2020-05-19T16:51:26.650Z"
+}

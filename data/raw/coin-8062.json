@@ -1,0 +1,103 @@
+{
+    "id": "coin-8062",
+    "title_display": "Coin: 8062",
+    "pub_created_display": [
+        "Justin I (518 to 527), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8062"
+    ],
+    "call_number_browse_s": [
+        "Coin 8062"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-30-1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca620"
+    ],
+    "find_description_s": [
+        "Dig I level III to 5 M. room 21; Basket A"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "11"
+    ],
+    "weight_s": [
+        "1.09"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8062\",\"call_number_browse\":\"Coin 8062\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 527,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "380b0f328bca4fad"
+    ],
+    "_version_": 1673366665633464320,
+    "timestamp": "2020-07-27T10:46:50.944Z"
+}

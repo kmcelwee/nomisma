@@ -1,0 +1,107 @@
+{
+    "id": "coin-12829",
+    "title_display": "Coin: 12829",
+    "pub_created_display": [
+        "Vonones I, Drachm, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 12829"
+    ],
+    "call_number_browse_s": [
+        "Coin 12829"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "82% Ag, 0.48 mg Au, 100 mg; very well struck"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12829\",\"call_number_browse\":\"Coin 12829\"}}",
+    "pub_date_start_sort": 8,
+    "pub_date_end_sort": 12,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8422"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Vonones I"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "square-bearded, with earing visible, short hair, wearing diadem and torque"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a5\u03a3 \u039f\u039d\u03a9\u039d\u0397\u03a3"
+    ],
+    "issue_reverse_figure_s": [
+        "Nike"
+    ],
+    "issue_reverse_orientation_s": [
+        "walking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding wreath and palm branch"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a5\u03a3 \u039f\u039d\u03a9\u039d\u0397\u03a3 \u039d\u0395\u0399\u039a\u0397\u03a3\u0391\u03a3 \u0391\u03a1\u03a4\u0391\u0392\u0391\u039d\u039f\u039d"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8422.jpg"
+    ],
+    "issue_references_s": [
+        "Sellwood  60.5",
+        "Shore  329"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "071a75a000ceace4"
+    ],
+    "_version_": 1667138311930511360,
+    "timestamp": "2020-05-19T16:49:49.985Z"
+}

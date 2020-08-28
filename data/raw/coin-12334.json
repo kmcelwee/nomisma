@@ -1,0 +1,129 @@
+{
+    "id": "coin-12334",
+    "title_display": "Coin: 12334",
+    "pub_created_display": [
+        "Antiochus III (-223 to -187), half, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 12334"
+    ],
+    "call_number_browse_s": [
+        "Coin 12334"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/27/1934"
+    ],
+    "find_locus_s": [
+        "DH 200-217"
+    ],
+    "find_number_s": [
+        "C3263"
+    ],
+    "find_description_s": [
+        "Room 3, along N. wall, under mosaic level, not sealed"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "10"
+    ],
+    "weight_s": [
+        "2.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12334\",\"call_number_browse\":\"Coin 12334\"}}",
+    "pub_date_start_sort": 223,
+    "pub_date_end_sort": 211,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "8262"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus III (-223 to -187)"
+    ],
+    "issue_series_s": [
+        "Series 1"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus III"
+    ],
+    "issue_obverse_symbol_s": [
+        "laurel branch"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate head of r. Antiochus III as Apollo with dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5 | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m12255",
+        "arrow, in r. hand",
+        "grounded bow, in l. hand"
+    ],
+    "issue_references_s": [
+        "H & L I, 401 1052"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8b6cabea9f816866"
+    ],
+    "_version_": 1670209275083882496,
+    "timestamp": "2020-06-22T14:21:28.676Z"
+}

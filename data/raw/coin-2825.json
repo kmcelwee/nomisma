@@ -1,0 +1,98 @@
+{
+    "id": "coin-2825",
+    "title_display": "Coin: 2825",
+    "pub_created_display": [
+        "John Witherspoon (1723 to 1794)"
+    ],
+    "call_number_display": [
+        "Coin 2825"
+    ],
+    "call_number_browse_s": [
+        "Coin 2825"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "MEDALLIC ART CO NY"
+    ],
+    "size_s": [
+        "88x61"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2825\",\"call_number_browse\":\"Coin 2825\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 1926,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1790"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "plaquette"
+    ],
+    "issue_ruler_s": [
+        "John Witherspoon (1723 to 1794)"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Nassau Hall"
+    ],
+    "issue_obverse_figure_description_s": [
+        "winged figure with trumpet flying over Nassau Hall in background; Princeton shield in lower l. corner; legend in lower r."
+    ],
+    "issue_obverse_legend_s": [
+        "-NASSAU-HALL-1776-|-PRINCETON-1926"
+    ],
+    "issue_reverse_figure_s": [
+        "Three busts"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "three clothed busts of Stockton, Rush, Witherspoon; legend beneath"
+    ],
+    "issue_reverse_legend_s": [
+        "STOCKTON-RUSH-WITHERSPOON-|-TO-COMMEMORATE-THE-SIGNING-OF-THE-|-DECLARATION-OF-INDEPENDENCE-"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_artists_s": [
+        "Gaetano Cecere, G. CECERE"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a1bff461ac5ae338"
+    ],
+    "_version_": 1667138478378319872,
+    "timestamp": "2020-05-19T16:52:28.722Z"
+}

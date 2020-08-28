@@ -1,0 +1,90 @@
+{
+    "id": "coin-3079",
+    "title_display": "Coin: 3079",
+    "pub_created_display": [
+        "diobol, Aegae or Edessa"
+    ],
+    "call_number_display": [
+        "Coin 3079"
+    ],
+    "call_number_browse_s": [
+        "Coin 3079"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "1.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3079\",\"call_number_browse\":\"Coin 3079\"}}",
+    "pub_date_start_sort": -500,
+    "pub_date_end_sort": -480,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "diobol"
+    ],
+    "issue_number_s": [
+        "1902"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Aegae or Edessa, Macedonia, Greece"
+    ],
+    "issue_city_s": [
+        "Aegae or Edessa"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Goat"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "kneeling on r. knee, looking back"
+    ],
+    "issue_obverse_attributes_s": [
+        "pellet, above goat",
+        "pellet, in front of goat"
+    ],
+    "issue_reverse_figure_description_s": [
+        "quadripartite incuse square"
+    ],
+    "issue_references_s": [
+        "BMC Mac. p. 38 6",
+        "Maced  p.51"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "84a52ee9e77100c2"
+    ],
+    "_version_": 1667138480483860480,
+    "timestamp": "2020-05-19T16:52:30.731Z"
+}

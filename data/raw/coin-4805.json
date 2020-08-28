@@ -1,0 +1,91 @@
+{
+    "id": "coin-4805",
+    "title_display": "Coin: 4805",
+    "call_number_display": [
+        "Coin 4805"
+    ],
+    "call_number_browse_s": [
+        "Coin 4805"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "10.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4805\",\"call_number_browse\":\"Coin 4805\"}}",
+    "donor_s": [
+        "Savage"
+    ],
+    "pub_date_start_sort": 1918,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2627"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Georges Clemenceau"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, turned leftward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Georges Clemenceau, from shoulders up, center, turned leftward."
+    ],
+    "issue_obverse_legend_s": [
+        "GEORGRES CLEMENCEAU"
+    ],
+    "issue_reverse_figure_s": [
+        "Tiger"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Open-mouthed tiger, center looking right."
+    ],
+    "issue_reverse_legend_s": [
+        "EN 1918 LE TIGRE A DEVORE LE BOCHE"
+    ],
+    "issue_artists_s": [
+        "Bertault, CH BERTAULT"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cf6541b51649c7b6"
+    ],
+    "_version_": 1667145456915841024,
+    "timestamp": "2020-05-19T18:43:23.974Z"
+}

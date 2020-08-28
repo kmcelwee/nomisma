@@ -1,0 +1,93 @@
+{
+    "id": "coin-6829",
+    "title_display": "Coin: 6829",
+    "pub_created_display": [
+        "Tigranes II (-95 to -56), chalcus, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 6829"
+    ],
+    "call_number_browse_s": [
+        "Coin 6829"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "2.82"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6829\",\"call_number_browse\":\"Coin 6829\"}}",
+    "pub_date_start_sort": -95,
+    "pub_date_end_sort": -56,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalcus"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tigranes II (-95 to -56)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Syria, Armenia"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with Armenian tiara"
+    ],
+    "issue_reverse_figure_s": [
+        "Cornucopia"
+    ],
+    "issue_reverse_orientation_s": [
+        "upper half to the right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9N \u03a4\u0399\u0393\u03a1\u0391\u039d\u039f\u03a5"
+    ],
+    "issue_references_s": [
+        "Bed.  104",
+        "Nercessian  094",
+        "M&D  87"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fb4dfb4d24750f1a"
+    ],
+    "_version_": 1673557572491149312,
+    "timestamp": "2020-07-29T13:21:13.912Z"
+}

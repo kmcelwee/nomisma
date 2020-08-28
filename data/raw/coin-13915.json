@@ -1,0 +1,113 @@
+{
+    "id": "coin-13915",
+    "title_display": "Coin: 13915",
+    "pub_created_display": [
+        "Drachm, Rhodes"
+    ],
+    "call_number_display": [
+        "Coin 13915"
+    ],
+    "call_number_browse_s": [
+        "Coin 13915"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "According to Ashton, this is a possible imitation."
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "2.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13915\",\"call_number_browse\":\"Coin 13915\"}}",
+    "donor_s": [
+        "Raymond"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8948"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Rhodes, Islands off Caria, Greece"
+    ],
+    "issue_city_s": [
+        "Rhodes"
+    ],
+    "issue_state_s": [
+        "Islands off Caria"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Helios"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "hair loose"
+    ],
+    "issue_reverse_figure_s": [
+        "Rose"
+    ],
+    "issue_reverse_symbol_s": [
+        "club and bow"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bud r., club and bow crossed l., magistrate name above"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a3\u03a4\u0391\u03a3\u0399\u03a9\u039d"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u03a1\u039f, in field"
+    ],
+    "issue_references_s": [
+        "BMC Caria  182",
+        "Coinage of Rhodes  297"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d896937a4e2b9db5"
+    ],
+    "_version_": 1667138329610551296,
+    "timestamp": "2020-05-19T16:50:06.846Z"
+}

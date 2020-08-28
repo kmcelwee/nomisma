@@ -1,0 +1,105 @@
+{
+    "id": "coin-4561",
+    "title_display": "Coin: 4561",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4561"
+    ],
+    "call_number_browse_s": [
+        "Coin 4561"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "19.8"
+    ],
+    "weight_s": [
+        "3.95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4561\",\"call_number_browse\":\"Coin 4561\"}}",
+    "pub_date_start_sort": -42,
+    "pub_date_end_sort": -42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2517"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Livineius Regulus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "L. Regulus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "REGVLVS | \u0393R"
+    ],
+    "issue_reverse_figure_s": [
+        "Curule chair"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_reverse_figure_description_s": [
+        "between six fasces, three on each side; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "L LIVINEIVS | REGVLVS"
+    ],
+    "issue_references_s": [
+        "RRC  494/27",
+        "Syd.  1209",
+        "Sear  487"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "eb1c8893bde80bc9"
+    ],
+    "_version_": 1667138237612687360,
+    "timestamp": "2020-05-19T16:48:39.110Z"
+}

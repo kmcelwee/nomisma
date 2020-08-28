@@ -1,0 +1,86 @@
+{
+    "id": "coin-2821",
+    "title_display": "Coin: 2821",
+    "call_number_display": [
+        "Coin 2821"
+    ],
+    "call_number_browse_s": [
+        "Coin 2821"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Medal on black leather clasp"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2821\",\"call_number_browse\":\"Coin 2821\"}}",
+    "donor_s": [
+        "Charles S. Presbrey"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1787"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Golfer"
+    ],
+    "issue_obverse_figure_description_s": [
+        "golfer teeing off with club raised; golf ball on grass with hills in background"
+    ],
+    "issue_reverse_figure_s": [
+        "Princeton shield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "orange and black Princeton University shield above legend"
+    ],
+    "issue_reverse_legend_s": [
+        "CLASS| CHAMPIONSHIP| PRINCETON '79| JUNE 1914"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_artists_s": [
+        "IEGES & CLUST 14 K"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "85556e64de4b2893"
+    ],
+    "_version_": 1667138478156021760,
+    "timestamp": "2020-05-19T16:52:28.509Z"
+}

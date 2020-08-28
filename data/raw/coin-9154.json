@@ -1,0 +1,108 @@
+{
+    "id": "coin-9154",
+    "title_display": "Coin: 9154",
+    "pub_created_display": [
+        "Tiberius, aureus, Lugdunum"
+    ],
+    "call_number_display": [
+        "Coin 9154"
+    ],
+    "call_number_browse_s": [
+        "Coin 9154"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "7.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9154\",\"call_number_browse\":\"Coin 9154\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 36,
+    "pub_date_end_sort": 37,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "5827"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Tiberius"
+    ],
+    "issue_place_s": [
+        "Lugdunum, Gaul, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Lugdunum"
+    ],
+    "issue_state_s": [
+        "Gaul"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tiberius"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "TICAESARDIVI AVGFAVGVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Livia"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "inverted spear in right hand; branch in left hand; chair legs ornamented"
+    ],
+    "issue_reverse_legend_s": [
+        "PONTIF MAXIM"
+    ],
+    "issue_references_s": [
+        "RIC, 2nd ed. Tiberius 27",
+        "BMC.1. Tiberius 39",
+        "Sear  1760"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6ef4dfbabca713c5"
+    ],
+    "_version_": 1667138149332025344,
+    "timestamp": "2020-05-19T16:47:14.918Z"
+}

@@ -1,0 +1,107 @@
+{
+    "id": "coin-6434",
+    "title_display": "Coin: 6434",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6434"
+    ],
+    "call_number_browse_s": [
+        "Coin 6434"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 301, R: 593"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "7.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6434\",\"call_number_browse\":\"Coin 6434\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -340,
+    "pub_date_end_sort": -325,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3859"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on rearing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "[heta][eta][rho], AR"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider's left arm holds round shield and two spears, right hand casts a third spear; above the two spears heta, to the left by the horse knee joint A, under the horse's belly KAL, the right and below D"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "ARI, monogram"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "boy's left hand holds a Phrygian helmet, whose plume he plucks with his right hand"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  543-4",
+        "F-B  764"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "18cabfc1236dbfda"
+    ],
+    "_version_": 1667138377717121024,
+    "timestamp": "2020-05-19T16:50:52.723Z"
+}

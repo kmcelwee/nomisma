@@ -1,0 +1,97 @@
+{
+    "id": "coin-1320",
+    "title_display": "Coin: 1320",
+    "pub_created_display": [
+        "Philip II (-359 to -336), bronze"
+    ],
+    "call_number_display": [
+        "Coin 1320"
+    ],
+    "call_number_browse_s": [
+        "Coin 1320"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "5.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1320\",\"call_number_browse\":\"Coin 1320\"}}",
+    "pub_date_start_sort": -359,
+    "pub_date_end_sort": -336,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "741"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Philip II (-359 to -336)"
+    ],
+    "issue_place_s": [
+        "Macedonia, Greece"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lionskin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Young nude rider whipping horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "caduceus, under horse"
+    ],
+    "issue_references_s": [
+        "ANS Part 8: Macedonia II 972"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "584194c993e00531"
+    ],
+    "_version_": 1667138210091761664,
+    "timestamp": "2020-05-19T16:48:12.864Z"
+}

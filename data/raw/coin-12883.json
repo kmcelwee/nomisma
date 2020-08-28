@@ -1,0 +1,91 @@
+{
+    "id": "coin-12883",
+    "title_display": "Coin: 12883",
+    "pub_created_display": [
+        "Palmyra"
+    ],
+    "call_number_display": [
+        "Coin 12883"
+    ],
+    "call_number_browse_s": [
+        "Coin 12883"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "11/17/1934"
+    ],
+    "find_locus_s": [
+        "12N"
+    ],
+    "find_number_s": [
+        "c3996"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "10"
+    ],
+    "weight_s": [
+        "0.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12883\",\"call_number_browse\":\"Coin 12883\"}}",
+    "pub_date_start_sort": 100,
+    "pub_date_end_sort": 260,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "8444"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Palmyra, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Palmyra"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "in Corinthian helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Palm branch"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6644dbb9381b93a4"
+    ],
+    "_version_": 1667138515385712640,
+    "timestamp": "2020-05-19T16:53:04.015Z"
+}

@@ -1,0 +1,109 @@
+{
+    "id": "coin-10541",
+    "title_display": "Coin: 10541",
+    "pub_created_display": [
+        "Unknown, follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 10541"
+    ],
+    "call_number_browse_s": [
+        "Coin 10541"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "No evidence of overstriking visible; DO E, variety 1?; collector includes notes: \"ISAAC I./1051=1059\"; \"John 61/200\""
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "27.81"
+    ],
+    "weight_s": [
+        "10.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10541\",\"call_number_browse\":\"Coin 10541\"}}",
+    "pub_date_start_sort": 976,
+    "pub_date_end_sort": 1059,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "6707"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Unknown"
+    ],
+    "issue_series_s": [
+        "Anonymous Folles, Class E, var. 1?"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "With nimbus cross; Christ seated."
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "nimbus cross, single dot in top arm; 2 dots in side arms."
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "3 lines of inscr.; - U - , above inscr."
+    ],
+    "issue_reverse_legend_s": [
+        "ISXS/BASILEY'/BASILE'"
+    ],
+    "issue_reverse_attributes_s": [
+        "ornament, - U - below inscr., obscure above inscr."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2bbe07400993b8fd"
+    ],
+    "_version_": 1667144763368800256,
+    "timestamp": "2020-05-19T18:32:22.558Z"
+}

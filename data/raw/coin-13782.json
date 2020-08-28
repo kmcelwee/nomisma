@@ -1,0 +1,77 @@
+{
+    "id": "coin-13782",
+    "title_display": "Coin: 13782",
+    "call_number_display": [
+        "Coin 13782"
+    ],
+    "call_number_browse_s": [
+        "Coin 13782"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "35"
+    ],
+    "weight_s": [
+        "25.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13782\",\"call_number_browse\":\"Coin 13782\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_number_s": [
+        "8829"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_obverse_figure_s": [
+        "2 hands shaking"
+    ],
+    "issue_obverse_figure_description_s": [
+        "The left hand's sleeve is decorated with the chevrons of a first sergeant, the same rank as Batista, while the right sleeve is from a civilian suit, symbolizing the union of military and civilians who carried out the coup d'\u00e9tat. A semicircle above the hands displays the symbols of the branches of the armed forces. Oak and laurel branches below the hands flank a fasces."
+    ],
+    "issue_obverse_legend_s": [
+        "4 SEPT DE 1933 | PATRIA ORDEN JUSTICIA"
+    ],
+    "issue_reverse_legend_s": [
+        "A LA PERPETUIDAD DEL 4 DE SEPTIEMBRE"
+    ],
+    "issue_reverse_attributes_s": [
+        "medallion, star"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:285-88 ",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  325"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7d29545e0d885221"
+    ],
+    "_version_": 1667145329356570624,
+    "timestamp": "2020-05-19T18:50:52.201Z"
+}

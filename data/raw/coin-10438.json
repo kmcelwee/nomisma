@@ -1,0 +1,109 @@
+{
+    "id": "coin-10438",
+    "title_display": "Coin: 10438",
+    "pub_created_display": [
+        "Galba (68 to 69), dupondius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 10438"
+    ],
+    "call_number_browse_s": [
+        "Coin 10438"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "13.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10438\",\"call_number_browse\":\"Coin 10438\"}}",
+    "pub_date_start_sort": 68,
+    "pub_date_end_sort": 69,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "dupondius"
+    ],
+    "issue_number_s": [
+        "6622"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Galba (68 to 69)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Galba"
+    ],
+    "issue_obverse_symbol_s": [
+        "laurel wreath"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate draped bust of Galba, right"
+    ],
+    "issue_obverse_legend_s": [
+        "SER GALBA IMP - CAES AVG TR P."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_symbol_s": [
+        "caduceus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Draped Victory standing, left, with branch and caduceus"
+    ],
+    "issue_reverse_legend_s": [
+        "S - C / PA X - AVGVST."
+    ],
+    "issue_references_s": [
+        "Roman Imperial Coinage  280"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2c857bfba148e50a"
+    ],
+    "_version_": 1667138282297753600,
+    "timestamp": "2020-05-19T16:49:21.725Z"
+}

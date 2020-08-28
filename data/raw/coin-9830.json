@@ -1,0 +1,119 @@
+{
+    "id": "coin-9830",
+    "title_display": "Coin: 9830",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Heraclea"
+    ],
+    "call_number_display": [
+        "Coin 9830"
+    ],
+    "call_number_browse_s": [
+        "Coin 9830"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/10/1938"
+    ],
+    "find_feature_s": [
+        "Trench 7"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb1577"
+    ],
+    "find_description_s": [
+        "Surface to ca.-2.00(A1-2)"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9830\",\"call_number_browse\":\"Coin 9830\"}}",
+    "pub_date_start_sort": 318,
+    "pub_date_end_sort": 320,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "6217"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Heraclea, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Heraclea"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "other details unclear"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTA NTINVSAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_figure_description_s": [
+        "city gate with three turrets, several stone layers"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN TIAEAVGG | SMH\u0393"
+    ],
+    "issue_references_s": [
+        "RIC.7 547 28V",
+        "Waage 120 1433"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ba12efbfb863fb50"
+    ],
+    "_version_": 1667138144599801856,
+    "timestamp": "2020-05-19T16:47:10.408Z"
+}

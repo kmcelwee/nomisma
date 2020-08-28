@@ -1,0 +1,89 @@
+{
+    "id": "coin-5252",
+    "title_display": "Coin: 5252",
+    "pub_created_display": [
+        "half a dollar, Wilmington"
+    ],
+    "call_number_display": [
+        "Coin 5252"
+    ],
+    "call_number_browse_s": [
+        "Coin 5252"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "C. Markland."
+    ],
+    "size_s": [
+        "82x62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5252\",\"call_number_browse\":\"Coin 5252\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "half a dollar"
+    ],
+    "issue_number_s": [
+        "2927"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Wilmington, North Carolina, United States of America"
+    ],
+    "issue_city_s": [
+        "Wilmington"
+    ],
+    "issue_state_s": [
+        "North Carolina"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_legend_s": [
+        "HALF A DOLLAR. STATE OF NORTH CAROLINA. THIS BILL entitles the Bearer to receive Half a Spanish milled  DOLLAR, or the Value therof, in Gold or Silver, agreeable to an Act of Assembly passed at Hillsborough the 8th Day of August, 1778."
+    ],
+    "issue_reverse_legend_s": [
+        "HALF A DOLLAR.  PRINTED BY J.A. DAVIS, 1778."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 319"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2171d1a41ca6fcb6"
+    ],
+    "_version_": 1667138512226353152,
+    "timestamp": "2020-05-19T16:53:01.002Z"
+}

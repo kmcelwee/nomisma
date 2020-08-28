@@ -1,0 +1,101 @@
+{
+    "id": "coin-1980",
+    "title_display": "Coin: 1980",
+    "pub_created_display": [
+        "dikonkia, Centuripae"
+    ],
+    "call_number_display": [
+        "Coin 1980"
+    ],
+    "call_number_browse_s": [
+        "Coin 1980"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "10.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1980\",\"call_number_browse\":\"Coin 1980\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -241,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "dikonkia"
+    ],
+    "issue_number_s": [
+        "1304"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Centuripae, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Centuripae"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate Zeus"
+    ],
+    "issue_reverse_figure_s": [
+        "Thunderbolt"
+    ],
+    "issue_reverse_part_s": [
+        "winged"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039a\u0395\u039d\u03a4\u039f\u03a0\u0399\u039d\u0399\u039d\u03a9\u039d"
+    ],
+    "issue_references_s": [
+        "ANS Part V, Sicily I 1307",
+        "SNG Cop. Sicily, Part I 212"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8171baa054ef1b73"
+    ],
+    "_version_": 1667138469814599680,
+    "timestamp": "2020-05-19T16:52:20.558Z"
+}

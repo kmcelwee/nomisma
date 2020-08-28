@@ -1,0 +1,98 @@
+{
+    "id": "coin-11763",
+    "title_display": "Coin: 11763",
+    "pub_created_display": [
+        "Khusro II/ 2nd reign, Drachm, Forat-Meshan"
+    ],
+    "call_number_display": [
+        "Coin 11763"
+    ],
+    "call_number_browse_s": [
+        "Coin 11763"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "33.85"
+    ],
+    "weight_s": [
+        "4.11"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11763\",\"call_number_browse\":\"Coin 11763\"}}",
+    "pub_date_start_sort": 591,
+    "pub_date_end_sort": 628,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7859"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Khusro II/ 2nd reign"
+    ],
+    "issue_series_s": [
+        "PL Type II/3"
+    ],
+    "issue_place_s": [
+        "Forat-Meshan, Meshan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Forat-Meshan"
+    ],
+    "issue_state_s": [
+        "Meshan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Khusro II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural elements, crescent above forehead; wing above crown cap to the left and right, above this crescent and star; double pearl diadem, diadem ribbons commencing to the left and right behind the shoulders, pointing upwards; earring consisting of three elements; neck-line of tunica edged with a row of pearls; crescent on left shoulder, both shoulders decorated with crescent and stars; double row of pearls running from the shoulders to the breast, two dots on the breast; star in upper left and right field; crescent and star at 3 h, 6 h and 9 h; double dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "2 h l.i.  hslwb, 11 h l.o. GD h| 'pzwt|  husraw xwarra h abz\u016bd|  \"K husro,  he increased t he glory\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of three elements, altar shaft, to the left and the right of the shaft ribbons pointing upwards; four altar slabs; altar flames rendered as four tiers of four, three, two and one strokes respectively; star to left of altar flames, crescent to the right; to the left and the right of the altar attendantattendants wear stylized diadem surmounted by a crescent (regnal years 11\u201339)"
+    ],
+    "issue_reverse_legend_s": [
+        "RY 26"
+    ],
+    "issue_references_s": [
+        "SN  PL Type II/3",
+        "Mochiri  1525"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "21f9fe661c12cd08"
+    ],
+    "_version_": 1667138297695043584,
+    "timestamp": "2020-05-19T16:49:36.413Z"
+}

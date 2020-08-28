@@ -1,0 +1,85 @@
+{
+    "id": "coin-362",
+    "title_display": "Coin: 362",
+    "pub_created_display": [
+        "'Abd al Aziz (1861 to 1875), quarter lira, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 362"
+    ],
+    "call_number_browse_s": [
+        "Coin 362"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 362\",\"call_number_browse\":\"Coin 362\"}}",
+    "pub_date_start_sort": 1861,
+    "pub_date_end_sort": 1861,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quarter lira"
+    ],
+    "issue_number_s": [
+        "185"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_ruler_s": [
+        "'Abd al Aziz (1861 to 1875)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Marmara, Turkey"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Marmara"
+    ],
+    "issue_region_s": [
+        "Turkey"
+    ],
+    "issue_obverse_attributes_s": [
+        "tughra"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0639\u0632 \u0646\u0635\u0631\u0647 \u0636\u0631\u0628 \u0641\u064a \u0642\u0633\u0637\u0646\u0637\u064a\u0646\u064a\u0629 1255"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, in border"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fd6328b985d30c0a"
+    ],
+    "_version_": 1667138403029745664,
+    "timestamp": "2020-05-19T16:51:16.865Z"
+}

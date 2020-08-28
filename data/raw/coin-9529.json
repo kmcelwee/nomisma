@@ -1,0 +1,89 @@
+{
+    "id": "coin-9529",
+    "title_display": "Coin: 9529",
+    "pub_created_display": [
+        "40 Shillings, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 9529"
+    ],
+    "call_number_browse_s": [
+        "Coin 9529"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "In Historical Sketches of the Paper Currency of the American Colonies by Henry Phillips, Jr. (1865). Given to Dr. Jesse C. Green in 1890. Leaf 56AP."
+    ],
+    "size_s": [
+        "75x90"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9529\",\"call_number_browse\":\"Coin 9529\"}}",
+    "donor_s": [
+        "Charles Cass"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "40 Shillings"
+    ],
+    "issue_number_s": [
+        "6090"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Pennsylvania"
+    ],
+    "issue_obverse_legend_s": [
+        "Forty SHILLINGS, According to the RESOLVES of the ASSEMBLY of PENSYLVANIA, made on the 30th Day of June, in the 15th Year of the Reign of His Majesty GEO. III. Dated at Philadelphia, the 20th Day of July, 1775. XL Shill."
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "FORTY SHILLINGS.| PRINTED BY HALL AND SELLERS. 1775."
+    ],
+    "issue_references_s": [
+        "Newman p. 347",
+        "Shafer & Cuhaj p. 1149 S2544b"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0118d6a3600e5a72"
+    ],
+    "_version_": 1667138146928689152,
+    "timestamp": "2020-05-19T16:47:12.627Z"
+}

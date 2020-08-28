@@ -1,0 +1,124 @@
+{
+    "id": "coin-7792",
+    "title_display": "Coin: 7792",
+    "pub_created_display": [
+        "Constantine II, follis, Cyzicus"
+    ],
+    "call_number_display": [
+        "Coin 7792"
+    ],
+    "call_number_browse_s": [
+        "Coin 7792"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "July 31, 1935"
+    ],
+    "find_feature_s": [
+        "Circus"
+    ],
+    "find_locus_s": [
+        "9-N"
+    ],
+    "find_number_s": [
+        "C5638"
+    ],
+    "find_description_s": [
+        " end of west cavea"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7792\",\"call_number_browse\":\"Coin 7792\"}}",
+    "pub_date_start_sort": 330,
+    "pub_date_end_sort": 334,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4855"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Cyzicus, Hellespontus, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Cyzicus"
+    ],
+    "issue_state_s": [
+        "Hellespontus"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust laureled, cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0394"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two soldiers, helmeted, standing facing one another, reversed spear in outer hands, inner hands on shields resting on ground; between them, two standards"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERC-ITVS"
+    ],
+    "issue_references_s": [
+        "RIC 7 655.80"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "198d39000dd5f851"
+    ],
+    "_version_": 1667138352080486400,
+    "timestamp": "2020-05-19T16:50:28.277Z"
+}

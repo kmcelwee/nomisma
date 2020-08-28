@@ -1,0 +1,110 @@
+{
+    "id": "coin-13730",
+    "title_display": "Coin: 13730",
+    "pub_created_display": [
+        "Demetrius I Soter (-162 to -150), half, Sidon"
+    ],
+    "call_number_display": [
+        "Coin 13730"
+    ],
+    "call_number_browse_s": [
+        "Coin 13730"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "3.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13730\",\"call_number_browse\":\"Coin 13730\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -162,
+    "pub_date_end_sort": -150,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Demetrius I Soter (-162 to -150)"
+    ],
+    "issue_place_s": [
+        "Sidon, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Sidon"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Demetrius I"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diadem ends falling straight behind, Pilei under neck"
+    ],
+    "issue_obverse_attributes_s": [
+        "\u03a3\u03a4, behind head"
+    ],
+    "issue_reverse_figure_s": [
+        "Dionysus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391 \u0394\u0399 | \u03a3\u0399"
+    ],
+    "issue_reverse_attributes_s": [
+        "cantharus, in l.hand",
+        "thyrsus, in r.hand"
+    ],
+    "issue_references_s": [
+        "H & L II,v.I,p.178 1669.2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cbd0bbd1e44c78b8"
+    ],
+    "_version_": 1673362177776418816,
+    "timestamp": "2020-07-27T09:35:30.994Z"
+}

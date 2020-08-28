@@ -1,0 +1,97 @@
+{
+    "id": "coin-11023",
+    "title_display": "Coin: 11023",
+    "pub_created_display": [
+        "Yazdgerd II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11023"
+    ],
+    "call_number_browse_s": [
+        "Coin 11023"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obv./rev. blind spot; rev. die cracks"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "3.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11023\",\"call_number_browse\":\"Coin 11023\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 438,
+    "pub_date_end_sort": 457,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7184"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Yazdgerd II"
+    ],
+    "issue_series_s": [
+        "Uncertain Mint"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Yazdgerd II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural element, crescent, above covered korymbos; two ribbons commencing to the left below crescent, pointing upwards; pearl diadem, diadem ribbons commencing below ball of hair, pointing upwards; earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running from the shoulders to the breast ornament (only upper part visible); floral elements below bust; floral elements below bust; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy kdy yzdklty| mazd\u0113sn bay kay Yazdgerd|\"The Mazda-worshiping divine king Yazdgerd\", barbarized"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; on the shaft l\u2019st (r\u0101st, \u201cjust\u201d), to the left and right of the shaft ribbons pointing downwards, three altar slabs; altar flames rendered in four tiers of four, three, two and one strokes respectively; to the left and the right of altar attendant with stylized crown of Yazdgerd II, holding a barsom with both hands, both figures facing inwards; nwky name at 3h; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "9 h l.o.yzdklty| Yazdgerd|\"Yazdgerd\""
+    ],
+    "issue_references_s": [
+        "SNS 3 Uncertain Mint Type Ib1/2b"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "aa63fe2141d603ab"
+    ],
+    "_version_": 1667138171286061056,
+    "timestamp": "2020-05-19T16:47:35.857Z"
+}

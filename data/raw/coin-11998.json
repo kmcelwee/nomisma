@@ -1,0 +1,94 @@
+{
+    "id": "coin-11998",
+    "title_display": "Coin: 11998",
+    "pub_created_display": [
+        "Hadrian (117 to 138), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 11998"
+    ],
+    "call_number_browse_s": [
+        "Coin 11998"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "8.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11998\",\"call_number_browse\":\"Coin 11998\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 134,
+    "pub_date_end_sort": 138,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "8136"
+    ],
+    "issue_ruler_s": [
+        "Hadrian (117 to 138)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "HADRIANVS AVG COS III P P"
+    ],
+    "issue_reverse_figure_s": [
+        "Salus"
+    ],
+    "issue_reverse_orientation_s": [
+        "reclining left"
+    ],
+    "issue_reverse_legend_s": [
+        "SALUS AVG|S C"
+    ],
+    "issue_references_s": [
+        "RIC 2 444 833d"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "739141251d110d3d"
+    ],
+    "_version_": 1667138299617083392,
+    "timestamp": "2020-05-19T16:49:38.244Z"
+}

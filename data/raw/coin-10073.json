@@ -1,0 +1,106 @@
+{
+    "id": "coin-10073",
+    "title_display": "Coin: 10073",
+    "pub_created_display": [
+        "Henry III Franconia (1056 to 1106), denaro, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 10073"
+    ],
+    "call_number_browse_s": [
+        "Coin 10073"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/19/1936"
+    ],
+    "find_feature_s": [
+        "surface, bank of ravine"
+    ],
+    "find_locus_s": [
+        "20-O"
+    ],
+    "find_number_s": [
+        "C6597"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10073\",\"call_number_browse\":\"Coin 10073\"}}",
+    "pub_date_start_sort": 1056,
+    "pub_date_end_sort": 1106,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Henry III Franconia (1056 to 1106)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Legend"
+    ],
+    "issue_obverse_figure_description_s": [
+        "H / RIC / N"
+    ],
+    "issue_obverse_legend_s": [
+        "+AVCV~TV~"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "PA / * / PA / I"
+    ],
+    "issue_reverse_legend_s": [
+        "+INPERATOR"
+    ],
+    "issue_references_s": [
+        "CNI IV XL20"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "09e741e7740384e3"
+    ],
+    "_version_": 1674261183185551360,
+    "timestamp": "2020-08-06T07:44:49.360Z"
+}

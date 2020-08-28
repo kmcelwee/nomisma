@@ -1,0 +1,100 @@
+{
+    "id": "coin-8620",
+    "title_display": "Coin: 8620",
+    "pub_created_display": [
+        "Galeazzo Maria Sforza (1466 to 1476), teston, Milan"
+    ],
+    "call_number_display": [
+        "Coin 8620"
+    ],
+    "call_number_browse_s": [
+        "Coin 8620"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "2.7"
+    ],
+    "weight_s": [
+        "8.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8620\",\"call_number_browse\":\"Coin 8620\"}}",
+    "pub_date_start_sort": 1466,
+    "pub_date_end_sort": 1476,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "teston"
+    ],
+    "issue_number_s": [
+        "5516"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Galeazzo Maria Sforza (1466 to 1476)"
+    ],
+    "issue_place_s": [
+        "Milan, Lombardy, Italy"
+    ],
+    "issue_city_s": [
+        "Milan"
+    ],
+    "issue_state_s": [
+        "Lombardy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Galeazzo Maria Sforza"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust facing right with globe to the left"
+    ],
+    "issue_obverse_legend_s": [
+        "GALEAZ,MSF,VICOCO,DVX,MLI,QIT`,"
+    ],
+    "issue_reverse_symbol_s": [
+        "dragon"
+    ],
+    "issue_reverse_figure_description_s": [
+        "dragon devouring figure, with crown and snake beneath it. Flanked by G3,  M"
+    ],
+    "issue_reverse_legend_s": [
+        "PP,ANGLE,Q3, ,CO,AC,IANVE,D,"
+    ],
+    "issue_references_s": [
+        "CNI V, p.170 64"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "188e13162287fac4"
+    ],
+    "_version_": 1667138183040598016,
+    "timestamp": "2020-05-19T16:47:47.067Z"
+}

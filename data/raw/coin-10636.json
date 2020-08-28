@@ -1,0 +1,97 @@
+{
+    "id": "coin-10636",
+    "title_display": "Coin: 10636",
+    "pub_created_display": [
+        "Shapur I, AE/3"
+    ],
+    "call_number_display": [
+        "Coin 10636"
+    ],
+    "call_number_browse_s": [
+        "Coin 10636"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10636\",\"call_number_browse\":\"Coin 10636\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 240,
+    "pub_date_end_sort": 272,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "AE/3"
+    ],
+    "issue_number_s": [
+        "6798"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Shapur I"
+    ],
+    "issue_series_s": [
+        "Style P"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three mural elements; covered korymbos, plain diadem, diadem ribbons commencing above ball of hair; pointing upwards; large cheek flaps; neck-line of tunica edged with double row of pearls; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "Unclear"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; four altar slabs; altar flames depicted with parallel strokes; to the left and right of the altar attendant with stylized crown of Shapur I without korymbos, facing outwards, holding lance in right hand respectively, left and right hand respectively resting on scabbard; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "No legend"
+    ],
+    "issue_references_s": [
+        "SNS 1 Style P Type IIc/1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ef34cd42c321ef8b"
+    ],
+    "_version_": 1667138283413438464,
+    "timestamp": "2020-05-19T16:49:22.790Z"
+}

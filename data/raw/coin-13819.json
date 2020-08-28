@@ -1,0 +1,94 @@
+{
+    "id": "coin-13819",
+    "title_display": "Coin: 13819",
+    "pub_created_display": [
+        "East Anglia"
+    ],
+    "call_number_display": [
+        "Coin 13819"
+    ],
+    "call_number_browse_s": [
+        "Coin 13819"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "1.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13819\",\"call_number_browse\":\"Coin 13819\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "8862"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "East Anglia, England, Great Britain"
+    ],
+    "issue_city_s": [
+        "East Anglia"
+    ],
+    "issue_state_s": [
+        "England"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_symbol_s": [
+        "two pellet-triangles"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "includes moustache and clsoed mouth; head probably derived from Roman Juno Saspita denarii of 58 BCE"
+    ],
+    "issue_reverse_figure_s": [
+        "Horse"
+    ],
+    "issue_reverse_symbol_s": [
+        "pellet-ring"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_references_s": [
+        "Nash  141",
+        "Lorber  3605",
+        "British Iron Age Coins in the British Museum  3613",
+        "British Iron Age Coins in the British Museum  3605"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b9717b8938b07b14"
+    ],
+    "_version_": 1667138518902636544,
+    "timestamp": "2020-05-19T16:53:07.369Z"
+}

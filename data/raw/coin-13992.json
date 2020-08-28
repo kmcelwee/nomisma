@@ -1,0 +1,101 @@
+{
+    "id": "coin-13992",
+    "title_display": "Coin: 13992",
+    "pub_created_display": [
+        "Ptolemy I Soter (-323 to -282), hemiobol, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 13992"
+    ],
+    "call_number_browse_s": [
+        "Coin 13992"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18.5"
+    ],
+    "weight_s": [
+        "4.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13992\",\"call_number_browse\":\"Coin 13992\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hemiobol"
+    ],
+    "issue_number_s": [
+        "9018"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy I Soter (-323 to -282)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Ptolemaic Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Ptolemaic Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of deified Alexander r. wearing mitra, with ram's horn at temple and long, wavy hair"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eagle with spread wings standing l. on thunderbolt."
+    ],
+    "issue_reverse_attributes_s": [
+        "helmet, In left field",
+        "Aphlaston, In left field above helmet"
+    ],
+    "issue_references_s": [
+        "Lorber I, v. II, 9 B23"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "262480cfb10efc99"
+    ],
+    "_version_": 1667138328721358848,
+    "timestamp": "2020-05-19T16:50:05.999Z"
+}

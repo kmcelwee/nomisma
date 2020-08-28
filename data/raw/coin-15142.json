@@ -1,0 +1,96 @@
+{
+    "id": "coin-15142",
+    "title_display": "Coin: 15142",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denaurius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15142"
+    ],
+    "call_number_browse_s": [
+        "Coin 15142"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.50"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15142\",\"call_number_browse\":\"Coin 15142\"}}",
+    "pub_date_start_sort": 145,
+    "pub_date_end_sort": 160,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaurius"
+    ],
+    "issue_number_s": [
+        "9299"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bare head of Marcus Aurelius r."
+    ],
+    "issue_obverse_legend_s": [
+        "AVRELIVS CAE-SAR AVG PII F."
+    ],
+    "issue_reverse_figure_s": [
+        "Togate figure (Honos) standing facing, head l., with branch and cornucopiae"
+    ],
+    "issue_reverse_legend_s": [
+        "COS-II"
+    ],
+    "issue_references_s": [
+        "BMC.1 85-6 594-600",
+        "RIC 80 429a",
+        "Strack 155 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4f37547ebf910434"
+    ],
+    "_version_": 1667145479824080896,
+    "timestamp": "2020-05-19T19:01:12.308Z"
+}

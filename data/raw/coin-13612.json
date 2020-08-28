@@ -1,0 +1,95 @@
+{
+    "id": "coin-13612",
+    "title_display": "Coin: 13612",
+    "pub_created_display": [
+        "Civic Coinage, chalkous, Ctesiphon"
+    ],
+    "call_number_display": [
+        "Coin 13612"
+    ],
+    "call_number_browse_s": [
+        "Coin 13612"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "12.30"
+    ],
+    "weight_s": [
+        "1.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13612\",\"call_number_browse\":\"Coin 13612\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8704"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Civic Coinage"
+    ],
+    "issue_place_s": [
+        "Ctesiphon, Seleucia on the Tigris, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Ctesiphon"
+    ],
+    "issue_state_s": [
+        "Seleucia on the Tigris"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Tyche"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_s": [
+        "Goddess"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "enthroned, holding rudder"
+    ],
+    "issue_references_s": [
+        "Sellwood  92.17",
+        "Suse sous les S\u00e9leucides et les Parthes. Les trouvailles mon\u00e9taires et l'histoire de la ville  323.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dffec0777d0ba85a"
+    ],
+    "_version_": 1667138332530835456,
+    "timestamp": "2020-05-19T16:50:09.632Z"
+}

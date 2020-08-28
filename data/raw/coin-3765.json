@@ -1,0 +1,81 @@
+{
+    "id": "coin-3765",
+    "title_display": "Coin: 3765",
+    "pub_created_display": [
+        "John II Orsini (1323 to 1335), denier tournois, Arta"
+    ],
+    "call_number_display": [
+        "Coin 3765"
+    ],
+    "call_number_browse_s": [
+        "Coin 3765"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3765\",\"call_number_browse\":\"Coin 3765\"}}",
+    "pub_date_start_sort": 1323,
+    "pub_date_end_sort": 1335,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier tournois"
+    ],
+    "issue_number_s": [
+        "2186"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "John II Orsini (1323 to 1335)"
+    ],
+    "issue_place_s": [
+        "Arta, Epirus, Crusader"
+    ],
+    "issue_city_s": [
+        "Arta"
+    ],
+    "issue_state_s": [
+        "Epirus"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+ IOhS DESPOTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_legend_s": [
+        "+ DE ARTA CASTRV"
+    ],
+    "issue_references_s": [
+        "Schl. pl XIII 16",
+        "Ox. pl 43 1134",
+        "Malloy p 395 115"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "99598e2c67fbde08"
+    ],
+    "_version_": 1667145228889358336,
+    "timestamp": "2020-05-19T18:43:42.470Z"
+}

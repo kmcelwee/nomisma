@@ -1,0 +1,112 @@
+{
+    "id": "coin-9292",
+    "title_display": "Coin: 9292",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 9292"
+    ],
+    "call_number_browse_s": [
+        "Coin 9292"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "40"
+    ],
+    "weight_s": [
+        "21.95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9292\",\"call_number_browse\":\"Coin 9292\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 541,
+    "pub_date_end_sort": 542,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5917"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Byzantium"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Wearing diadem with pendilia and holding a globis cruciger in right hand"
+    ],
+    "issue_obverse_legend_s": [
+        "DVNIVSTINI ANVSPP AVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO XIII|NIK"
+    ],
+    "issue_references_s": [
+        "MIB Justinian I 114",
+        "BL Justinian I 12",
+        "BMC Justinian I 190",
+        "DOC Justinian I 117a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "49d8ae996990a5eb"
+    ],
+    "_version_": 1667138274616934400,
+    "timestamp": "2020-05-19T16:49:14.399Z"
+}

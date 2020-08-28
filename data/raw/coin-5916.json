@@ -1,0 +1,72 @@
+{
+    "id": "coin-5916",
+    "title_display": "Coin: 5916",
+    "pub_created_display": [
+        "TaiZong of Song \u592a\u5b97\uff08\u5b8b\uff09 (976 to 997), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5916"
+    ],
+    "call_number_browse_s": [
+        "Coin 5916"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u5927\u5b57 (Character engravings are bigger than usual)"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "3.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5916\",\"call_number_browse\":\"Coin 5916\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 976,
+    "pub_date_end_sort": 997,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3419"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "TaiZong of Song \u592a\u5b97\uff08\u5b8b\uff09 (976 to 997)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u592a\u5e73\u901a\u5b9d"
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 22 81",
+        "Hartill 129 16.16",
+        "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 55 Top right"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "25a64148825d5383"
+    ],
+    "_version_": 1667138250582523904,
+    "timestamp": "2020-05-19T16:48:51.480Z"
+}

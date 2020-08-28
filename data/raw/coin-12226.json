@@ -1,0 +1,100 @@
+{
+    "id": "coin-12226",
+    "title_display": "Coin: 12226",
+    "pub_created_display": [
+        "bronze, Corinth"
+    ],
+    "call_number_display": [
+        "Coin 12226"
+    ],
+    "call_number_browse_s": [
+        "Coin 12226"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "2.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12226\",\"call_number_browse\":\"Coin 12226\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": -400,
+    "pub_date_end_sort": -300,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "8242"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_place_s": [
+        "Corinth, Corinthia, Greece"
+    ],
+    "issue_city_s": [
+        "Corinth"
+    ],
+    "issue_state_s": [
+        "Corinthia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_obverse_symbol_s": [
+        "coppa"
+    ],
+    "issue_obverse_part_s": [
+        "flying"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Trident"
+    ],
+    "issue_reverse_symbol_s": [
+        "thunderbolt"
+    ],
+    "issue_reverse_orientation_s": [
+        "upright"
+    ],
+    "issue_references_s": [
+        "BMC Corinth  438"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a29396c429250cd3"
+    ],
+    "_version_": 1667138302599233536,
+    "timestamp": "2020-05-19T16:49:41.086Z"
+}

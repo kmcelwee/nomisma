@@ -1,0 +1,108 @@
+{
+    "id": "coin-7803",
+    "title_display": "Coin: 7803",
+    "pub_created_display": [
+        "Edward III (1327 to 1377), noble, Calais"
+    ],
+    "call_number_display": [
+        "Coin 7803"
+    ],
+    "call_number_browse_s": [
+        "Coin 7803"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "6.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7803\",\"call_number_browse\":\"Coin 7803\"}}",
+    "pub_date_start_sort": 1327,
+    "pub_date_end_sort": 1377,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "noble"
+    ],
+    "issue_number_s": [
+        "4866"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Edward III (1327 to 1377)"
+    ],
+    "issue_series_s": [
+        "Treaty"
+    ],
+    "issue_place_s": [
+        "Calais, Great Britain"
+    ],
+    "issue_city_s": [
+        "Calais"
+    ],
+    "issue_region_s": [
+        "Great Britain"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with armor, sword and shield within sailing ship with flag"
+    ],
+    "issue_obverse_legend_s": [
+        "ED WARD:DEI:GRA:REX:ANG:DNS:HYB:Z:AQT"
+    ],
+    "issue_obverse_attributes_s": [
+        "stops, x",
+        "beginning of legend, saltire"
+    ],
+    "issue_reverse_symbol_s": [
+        "C"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crowned lions rampant between arms"
+    ],
+    "issue_reverse_legend_s": [
+        "+IHC:AVTEM:TRANSIENS:PER:MEDIVM:EORVM:IBAT"
+    ],
+    "issue_reverse_attributes_s": [
+        "stops, x"
+    ],
+    "issue_references_s": [
+        "North 2 1236",
+        "Seaby England  1504"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2f92cd247dde7589"
+    ],
+    "_version_": 1667138513487790080,
+    "timestamp": "2020-05-19T16:53:02.205Z"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "coin-3645",
+    "title_display": "Coin: 3645",
+    "pub_created_display": [
+        "3 Pence, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 3645"
+    ],
+    "call_number_browse_s": [
+        "Coin 3645"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Joel Evans| Thomas Mifflin| Joseph Morris.  Red and black ink."
+    ],
+    "size_s": [
+        "88x74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3645\",\"call_number_browse\":\"Coin 3645\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "3 Pence"
+    ],
+    "issue_number_s": [
+        "2147"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Pennsylvania"
+    ],
+    "issue_obverse_legend_s": [
+        "FIVE SHILLINGS.| This Indented BILL of Five Shillings, shall entitle the Bearer to receive of the Provincial Treasurer, the like Sum of Five Shillings, of equal Value with the same Sum, of the Bills of Credit now by Law current, according to the Direction"
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "FIVE SHILLINGS|To COUNTERFEIT, is DEATH.  Printed by DAVID HALL, WILLIAM SELLERS. 1771."
+    ],
+    "issue_references_s": [
+        "Newman  342-3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a456c6e738df659b"
+    ],
+    "_version_": 1667138228362149888,
+    "timestamp": "2020-05-19T16:48:30.287Z"
+}

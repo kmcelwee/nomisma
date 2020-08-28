@@ -1,0 +1,121 @@
+{
+    "id": "coin-8599",
+    "title_display": "Coin: 8599",
+    "pub_created_display": [
+        "Justin II (565 to 578), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8599"
+    ],
+    "call_number_browse_s": [
+        "Coin 8599"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Type not attested in MIB"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/7/1932"
+    ],
+    "find_locus_s": [
+        "S N-9"
+    ],
+    "find_number_s": [
+        "c1096"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "14.49"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8599\",\"call_number_browse\":\"Coin 8599\"}}",
+    "pub_date_start_sort": 570,
+    "pub_date_end_sort": 571,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "5495"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Justin II (565 to 578)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Justin II and Sophia"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "A"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO | G | CON"
+    ],
+    "issue_references_s": [
+        "MIB2 Justin II 43c",
+        " Justin II 30v",
+        "BMC.Byz. Justin II 47-54v",
+        "BL  5/Cp/AE/21v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5499bcf89dfc643b"
+    ],
+    "_version_": 1667138269555458048,
+    "timestamp": "2020-05-19T16:49:09.576Z"
+}

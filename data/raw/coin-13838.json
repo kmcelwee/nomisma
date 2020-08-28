@@ -1,0 +1,88 @@
+{
+    "id": "coin-13838",
+    "title_display": "Coin: 13838",
+    "pub_created_display": [
+        "Commander"
+    ],
+    "call_number_display": [
+        "Coin 13838"
+    ],
+    "call_number_browse_s": [
+        "Coin 13838"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "54"
+    ],
+    "weight_s": [
+        "31.49"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13838\",\"call_number_browse\":\"Coin 13838\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Commander"
+    ],
+    "issue_number_s": [
+        "8883"
+    ],
+    "issue_shape_s": [
+        "ball-tipped star surrounded by enameled wreath"
+    ],
+    "issue_color_s": [
+        "blue, white, green"
+    ],
+    "issue_place_s": [
+        "Cuba"
+    ],
+    "issue_region_s": [
+        "Cuba"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust of Heredia"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "On a gilt field"
+    ],
+    "issue_obverse_legend_s": [
+        "ORDEN DE HEREDIA"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, on a light blue band"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:207-10, 2:303-6 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "50ca65855d86a5ec"
+    ],
+    "_version_": 1667145392714678272,
+    "timestamp": "2020-05-19T18:42:22.747Z"
+}

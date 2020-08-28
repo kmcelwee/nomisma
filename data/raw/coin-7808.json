@@ -1,0 +1,108 @@
+{
+    "id": "coin-7808",
+    "title_display": "Coin: 7808",
+    "pub_created_display": [
+        "John III Ducas (1221 to 1254), hyperpyron, Magnesia"
+    ],
+    "call_number_display": [
+        "Coin 7808"
+    ],
+    "call_number_browse_s": [
+        "Coin 7808"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "4.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7808\",\"call_number_browse\":\"Coin 7808\"}}",
+    "pub_date_start_sort": 1221,
+    "pub_date_end_sort": 1254,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "hyperpyron"
+    ],
+    "issue_number_s": [
+        "4871"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "John III Ducas (1221 to 1254)"
+    ],
+    "issue_place_s": [
+        "Magnesia, Nicaea, Byzantium"
+    ],
+    "issue_city_s": [
+        "Magnesia"
+    ],
+    "issue_state_s": [
+        "Nicaea"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_symbol_s": [
+        "x"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on throne without back, holding Gospels in left hand, right hand raised in benediction"
+    ],
+    "issue_obverse_legend_s": [
+        "IC|XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and Virgin"
+    ],
+    "issue_reverse_part_s": [
+        "half-length standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Half-length figures of emperor on r and Virgin on l, holding between them the patriarchal cross on long shaft; Manus Dei in upper left field. Emperor holds anexikakia in r. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "+IW\u0394\u0404  \u039c\u03a1 \u0398V"
+    ],
+    "issue_references_s": [
+        "DOC vol. 4 pt. 2 p. 482 2a",
+        "BMC.Byz. vol. 2 p. 557 16",
+        "Sear  2072"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d458252cea6c090f"
+    ],
+    "_version_": 1667138261222424576,
+    "timestamp": "2020-05-19T16:49:01.629Z"
+}

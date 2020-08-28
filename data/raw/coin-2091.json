@@ -1,0 +1,106 @@
+{
+    "id": "coin-2091",
+    "title_display": "Coin: 2091",
+    "pub_created_display": [
+        "1/18 shilling, New Haven"
+    ],
+    "call_number_display": [
+        "Coin 2091"
+    ],
+    "call_number_browse_s": [
+        "Coin 2091"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "7.83"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2091\",\"call_number_browse\":\"Coin 2091\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/18 shilling"
+    ],
+    "issue_number_s": [
+        "1373"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_workshop_s": [
+        "Company for Coining Coppers"
+    ],
+    "issue_place_s": [
+        "New Haven, Connecticut, United States of America"
+    ],
+    "issue_city_s": [
+        "New Haven"
+    ],
+    "issue_state_s": [
+        "Connecticut"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Mailed bust"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "small face; short ribbons"
+    ],
+    "issue_obverse_legend_s": [
+        "AUCTORI : CONNEC :"
+    ],
+    "issue_reverse_figure_s": [
+        "Liberty"
+    ],
+    "issue_reverse_symbol_s": [
+        "Lady Liberty"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "3/4 left"
+    ],
+    "issue_reverse_legend_s": [
+        "INDE : ET LIR : | 1785"
+    ],
+    "issue_references_s": [
+        "Breen  736"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "422eeab167abdf7a"
+    ],
+    "_version_": 1667138418160697344,
+    "timestamp": "2020-05-19T16:51:31.297Z"
+}

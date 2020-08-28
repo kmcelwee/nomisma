@@ -1,0 +1,120 @@
+{
+    "id": "coin-13472",
+    "title_display": "Coin: 13472",
+    "pub_created_display": [
+        "Antiochus IV Epiphanes (-175 to -164), double, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 13472"
+    ],
+    "call_number_browse_s": [
+        "Coin 13472"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "8.74"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13472\",\"call_number_browse\":\"Coin 13472\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -169,
+    "pub_date_end_sort": -168,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "8689"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Seleucid Era"
+    ],
+    "issue_ruler_s": [
+        "Antiochus IV Epiphanes (-175 to -164)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Antiochus IV"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate with diadem, one diadem end flying up behind, the other falling forward over shoulder in dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_reverse_symbol_s": [
+        "omphalos"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "front"
+    ],
+    "issue_reverse_figure_description_s": [
+        "head left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d l \u03a4\u03a9\u039d \u03a0\u03a1\u039f\u03a3 \u0394\u0391\u03a6\u039d\u0397"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8325.jpg, outer left above",
+        "m8689, outer right",
+        "wreath, in r. hand"
+    ],
+    "issue_references_s": [
+        "H & L II, 69 1416.3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ed1bcdae479db53a"
+    ],
+    "_version_": 1667138514384322560,
+    "timestamp": "2020-05-19T16:53:03.061Z"
+}

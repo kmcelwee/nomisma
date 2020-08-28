@@ -1,0 +1,88 @@
+{
+    "id": "coin-1061",
+    "title_display": "Coin: 1061",
+    "pub_created_display": [
+        "Philip IV the Fair (1285 to 1314), double parisis"
+    ],
+    "call_number_display": [
+        "Coin 1061"
+    ],
+    "call_number_browse_s": [
+        "Coin 1061"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "1.01"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1061\",\"call_number_browse\":\"Coin 1061\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1295,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double parisis"
+    ],
+    "issue_number_s": [
+        "515"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Philip IV the Fair (1285 to 1314)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Fleureate cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+PHILIPPVSREX"
+    ],
+    "issue_reverse_figure_s": [
+        "Fleur-de-lis"
+    ],
+    "issue_reverse_figure_description_s": [
+        "REGA-LIS on two lines"
+    ],
+    "issue_reverse_legend_s": [
+        "+MONETADVPLEX"
+    ],
+    "issue_references_s": [
+        "P.d'A.  232"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "22162bb41b05539f"
+    ],
+    "_version_": 1667138207272140800,
+    "timestamp": "2020-05-19T16:48:10.175Z"
+}

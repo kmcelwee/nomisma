@@ -1,0 +1,100 @@
+{
+    "id": "coin-3225",
+    "title_display": "Coin: 3225",
+    "pub_created_display": [
+        "tetrobol, Chalcidice"
+    ],
+    "call_number_display": [
+        "Coin 3225"
+    ],
+    "call_number_browse_s": [
+        "Coin 3225"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "2.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3225\",\"call_number_browse\":\"Coin 3225\"}}",
+    "pub_date_start_sort": -392,
+    "pub_date_end_sort": -168,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrobol"
+    ],
+    "issue_number_s": [
+        "1967"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Chalcidice, Macedonia, Greece"
+    ],
+    "issue_city_s": [
+        "Chalcidice"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate, border of dots"
+    ],
+    "issue_obverse_attributes_s": [
+        "\u0394, under head in r. field"
+    ],
+    "issue_reverse_figure_s": [
+        "Lyre"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "the whole in linear square, enclosed in incuse square"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a7\u0391\u039b \u039a\u0399\u0394 \u0395 \u03a9\u039d"
+    ],
+    "issue_references_s": [
+        "BMC Mac. p. 68 16"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5e3ef6267bd56891"
+    ],
+    "_version_": 1667138435659333632,
+    "timestamp": "2020-05-19T16:51:47.982Z"
+}

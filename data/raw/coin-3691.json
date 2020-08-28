@@ -1,0 +1,86 @@
+{
+    "id": "coin-3691",
+    "title_display": "Coin: 3691",
+    "pub_created_display": [
+        "10 Shillings, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 3691"
+    ],
+    "call_number_browse_s": [
+        "Coin 3691"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Isaac Wharton| Richard Willing| Benjamin Marshall.  Black and red ink.  Visible flecks of mica."
+    ],
+    "size_s": [
+        "90x69"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3691\",\"call_number_browse\":\"Coin 3691\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "10 Shillings"
+    ],
+    "issue_number_s": [
+        "2175"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "Hall and Sellers"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Pennsylvania"
+    ],
+    "issue_obverse_legend_s": [
+        "TEN SHILLINGS, according to an Act of GENERAL ASSEMBLY of Pennsylvania, passed in the 13th Year of the Reign of His Majesty GEORGE the Third. Dated the First Day of October, 1773.  TEN SHILLINGS."
+    ],
+    "issue_reverse_figure_s": [
+        "Farm"
+    ],
+    "issue_reverse_legend_s": [
+        "TEN SHILLINGS. | To COUNTERFEIT is DEATH. | Printed by HALL and SELLERS."
+    ],
+    "issue_references_s": [
+        "Newman p. 345",
+        "Shafer & Cuhaj p. 1148 S2540E"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a6255fc9a3cdcb9b"
+    ],
+    "_version_": 1667138435497852928,
+    "timestamp": "2020-05-19T16:51:47.831Z"
+}

@@ -1,0 +1,92 @@
+{
+    "id": "coin-14942",
+    "title_display": "Coin: 14942",
+    "pub_created_display": [
+        "1st Grade"
+    ],
+    "call_number_display": [
+        "Coin 14942"
+    ],
+    "call_number_browse_s": [
+        "Coin 14942"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "weight_s": [
+        "33.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14942\",\"call_number_browse\":\"Coin 14942\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1979,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "1st Grade"
+    ],
+    "issue_number_s": [
+        "9157"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "10-pointed star"
+    ],
+    "issue_color_s": [
+        "red"
+    ],
+    "issue_obverse_figure_s": [
+        "Ernesto Guevara"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "ERNESTO GUEVARA | CHE"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend , on a red enameled band "
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_reverse_legend_s": [
+        "REPUBLICA DE CUBA | CONSEJO DE ESTADO"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia  3:128-31",
+        "World Orders of Knighthood and Merit  1069"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "50eb6a8c3c851763"
+    ],
+    "_version_": 1667696177689133056,
+    "timestamp": "2020-05-25T20:36:52.229Z"
+}

@@ -1,0 +1,119 @@
+{
+    "id": "coin-9917",
+    "title_display": "Coin: 9917",
+    "pub_created_display": [
+        "Bohemund III (1149 to 1163), denier, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9917"
+    ],
+    "call_number_browse_s": [
+        "Coin 9917"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Subscript 4 after locus 16-O"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/16/1938"
+    ],
+    "find_feature_s": [
+        "Under level of basalt pavement after rain"
+    ],
+    "find_locus_s": [
+        "16-O"
+    ],
+    "find_number_s": [
+        "Cb540"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "0.67"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9917\",\"call_number_browse\":\"Coin 9917\"}}",
+    "pub_date_start_sort": 1163,
+    "pub_date_end_sort": 1188,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Bohemund III (1149 to 1163)"
+    ],
+    "issue_series_s": [
+        "Helmeted"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "crescent and star"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted"
+    ],
+    "issue_obverse_legend_s": [
+        "+BOANVNDVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross pattee"
+    ],
+    "issue_reverse_symbol_s": [
+        "crescent"
+    ],
+    "issue_reverse_legend_s": [
+        "+ANTI[8o]OCHIA"
+    ],
+    "issue_references_s": [
+        "Ox.  400",
+        "Schl.  III4bv"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "05cfe5979f9c8108"
+    ],
+    "_version_": 1674258430601199616,
+    "timestamp": "2020-08-06T07:01:04.290Z"
+}

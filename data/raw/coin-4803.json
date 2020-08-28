@@ -1,0 +1,94 @@
+{
+    "id": "coin-4803",
+    "title_display": "Coin: 4803",
+    "call_number_display": [
+        "Coin 4803"
+    ],
+    "call_number_browse_s": [
+        "Coin 4803"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[Triangle] BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "68"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "130.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4803\",\"call_number_browse\":\"Coin 4803\"}}",
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2625"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_symbol_s": [
+        "tomb"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "At top, wreath with hanging cross patt\u00e9e medal at center. On bottom half, flat tomb with inscription. Flowers and foliage line the upper edges, with palms at top center."
+    ],
+    "issue_obverse_legend_s": [
+        "ICI REPOSE UN SOLDAT FRANCAIS MORT POUR LA PATRIE | 1914  1918"
+    ],
+    "issue_reverse_figure_s": [
+        "Angel"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Angel at center, holding up two branches. Four figures (one behind on the left, three in front on the right) holding up dead soldier on a board. Arc de triomphe in background."
+    ],
+    "issue_reverse_legend_s": [
+        "GLOIRE AU SOLDAT INCONNU"
+    ],
+    "issue_reverse_attributes_s": [
+        "branch"
+    ],
+    "issue_artists_s": [
+        "Raouil Ren\u00e9 Alphonse B\u00e9nard, F Bernard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c5144f55f3896262"
+    ],
+    "_version_": 1667138407117094912,
+    "timestamp": "2020-05-19T16:51:20.764Z"
+}

@@ -1,0 +1,91 @@
+{
+    "id": "coin-7370",
+    "title_display": "Coin: 7370",
+    "pub_created_display": [
+        "Vima Kadphises (105 to 127), unit"
+    ],
+    "call_number_display": [
+        "Coin 7370"
+    ],
+    "call_number_browse_s": [
+        "Coin 7370"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "15.84"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7370\",\"call_number_browse\":\"Coin 7370\"}}",
+    "pub_date_start_sort": 105,
+    "pub_date_end_sort": 130,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "4614"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Vima Kadphises (105 to 127)"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "King standing facing with altar and trident on left and club and tamgha on right"
+    ],
+    "issue_obverse_legend_s": [
+        "BACI\u039bEVC BACI\u039bEWN CWTHP ME\u0393AC OOMO KA\u0394\u03a6ICHC"
+    ],
+    "issue_reverse_figure_s": [
+        "Deity"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Siva standing in front of bull with right arm raised and bent"
+    ],
+    "issue_reverse_legend_s": [
+        "Maharajasa rajadirajasa sarvaloga isvarasa mahisvarasa"
+    ],
+    "issue_references_s": [
+        "Mitchiner pg. 406 3022"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b5e67aab60aeacf2"
+    ],
+    "_version_": 1667138197921988608,
+    "timestamp": "2020-05-19T16:48:01.261Z"
+}

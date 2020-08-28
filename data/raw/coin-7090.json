@@ -1,0 +1,83 @@
+{
+    "id": "coin-7090",
+    "title_display": "Coin: 7090",
+    "pub_created_display": [
+        "uncia"
+    ],
+    "call_number_display": [
+        "Coin 7090"
+    ],
+    "call_number_browse_s": [
+        "Coin 7090"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Schulman sale, 1927, for $2."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "25.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7090\",\"call_number_browse\":\"Coin 7090\"}}",
+    "pub_date_start_sort": -312,
+    "pub_date_end_sort": -286,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "uncia"
+    ],
+    "issue_number_s": [
+        "4431"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Campania, Italy"
+    ],
+    "issue_state_s": [
+        "Campania"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Astragalos"
+    ],
+    "issue_reverse_figure_s": [
+        "Astragalos"
+    ],
+    "issue_references_s": [
+        "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  68",
+        "Haeb. pl. 28 10-11"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "39c8a2ee257c4bb5"
+    ],
+    "_version_": 1667138358026960896,
+    "timestamp": "2020-05-19T16:50:33.946Z"
+}

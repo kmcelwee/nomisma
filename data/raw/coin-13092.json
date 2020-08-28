@@ -1,0 +1,115 @@
+{
+    "id": "coin-13092",
+    "title_display": "Coin: 13092",
+    "pub_created_display": [
+        "Aurelian (270 to 275), antoninianus, Tripolis"
+    ],
+    "call_number_display": [
+        "Coin 13092"
+    ],
+    "call_number_browse_s": [
+        "Coin 13092"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/16/1935"
+    ],
+    "find_feature_s": [
+        "dump"
+    ],
+    "find_locus_s": [
+        "27P.D.H."
+    ],
+    "find_number_s": [
+        "C5519"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13092\",\"call_number_browse\":\"Coin 13092\"}}",
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Aurelian (270 to 275)"
+    ],
+    "issue_place_s": [
+        "Tripolis, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Tripolis"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate, cuirassed"
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCAVRELIANVSAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Sol"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "captive to  l. at foot"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLI INVICTO"
+    ],
+    "issue_references_s": [
+        "RIC V, I, p.309 390"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0c5840d8b3691604"
+    ],
+    "_version_": 1673108140650921984,
+    "timestamp": "2020-07-24T14:17:42.308Z"
+}

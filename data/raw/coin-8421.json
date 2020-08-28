@@ -1,0 +1,103 @@
+{
+    "id": "coin-8421",
+    "title_display": "Coin: 8421",
+    "pub_created_display": [
+        "Drachm, Cnidus"
+    ],
+    "call_number_display": [
+        "Coin 8421"
+    ],
+    "call_number_browse_s": [
+        "Coin 8421"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Rev. inscription \u0391\u0393\u0395\u03a6\u03a9\u039d"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "5.43"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8421\",\"call_number_browse\":\"Coin 8421\"}}",
+    "donor_s": [
+        "David Magie"
+    ],
+    "pub_date_start_sort": -550,
+    "pub_date_end_sort": -500,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "5374"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Cnidus, Caria, Greece"
+    ],
+    "issue_city_s": [
+        "Cnidus"
+    ],
+    "issue_state_s": [
+        "Caria"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Lion"
+    ],
+    "issue_obverse_part_s": [
+        "forepart"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Forepart of Lion r."
+    ],
+    "issue_reverse_figure_s": [
+        "Aphrodite"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Incuse square, Aphrodite r. necklace, earring, hair in dots, diademed"
+    ],
+    "issue_references_s": [
+        "BMC Caria p. 85 11"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "01f66f878fdff390"
+    ],
+    "_version_": 1667138187685789696,
+    "timestamp": "2020-05-19T16:47:51.497Z"
+}

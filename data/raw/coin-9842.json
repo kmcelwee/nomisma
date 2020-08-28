@@ -1,0 +1,125 @@
+{
+    "id": "coin-9842",
+    "title_display": "Coin: 9842",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 9842"
+    ],
+    "call_number_browse_s": [
+        "Coin 9842"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/21/1938"
+    ],
+    "find_feature_s": [
+        "South extension (A2)"
+    ],
+    "find_locus_s": [
+        "14-R"
+    ],
+    "find_number_s": [
+        "Cb2422"
+    ],
+    "die_axis_s": [
+        "0"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9842\",\"call_number_browse\":\"Coin 9842\"}}",
+    "pub_date_start_sort": 347,
+    "pub_date_end_sort": 348,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "6226"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Woman"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "veiled woman"
+    ],
+    "issue_obverse_legend_s": [
+        "DV CONSTANTINVS PT AVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "VN | MR"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "emperor stg. R., veiled, raising r. hand"
+    ],
+    "issue_reverse_legend_s": [
+        "SMNA"
+    ],
+    "issue_references_s": [
+        "RIC.8 474 48",
+        "Waage 121 1463"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a8f2285c9513e3c1"
+    ],
+    "_version_": 1667138137363578880,
+    "timestamp": "2020-05-19T16:47:03.505Z"
+}

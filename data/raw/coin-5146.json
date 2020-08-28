@@ -1,0 +1,107 @@
+{
+    "id": "coin-5146",
+    "title_display": "Coin: 5146",
+    "pub_created_display": [
+        "triens, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5146"
+    ],
+    "call_number_browse_s": [
+        "Coin 5146"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse badly damaged. Bought for $8 in 1928."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "92.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5146\",\"call_number_browse\":\"Coin 5146\"}}",
+    "pub_date_start_sort": -225,
+    "pub_date_end_sort": -217,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "triens"
+    ],
+    "issue_number_s": [
+        "2851"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Minerva"
+    ],
+    "issue_obverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Corinthian helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_references_s": [
+        "Haeb. pl. 17 6-20",
+        "RRC 35 3a",
+        "Syd.  74",
+        "ICC  53, 53a",
+        "Sear  578"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9201ef659dd67db4"
+    ],
+    "_version_": 1667138511209234432,
+    "timestamp": "2020-05-19T16:53:00.033Z"
+}

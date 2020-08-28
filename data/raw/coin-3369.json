@@ -1,0 +1,90 @@
+{
+    "id": "coin-3369",
+    "title_display": "Coin: 3369",
+    "pub_created_display": [
+        "Prince Gui \u6842\u738b (1647 to 1661), 1 Fen, Guang Zhou Fu (Canton)"
+    ],
+    "call_number_display": [
+        "Coin 3369"
+    ],
+    "call_number_browse_s": [
+        "Coin 3369"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u9075\u7fa9\u7248"
+    ],
+    "size_s": [
+        "46"
+    ],
+    "weight_s": [
+        "20.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3369\",\"call_number_browse\":\"Coin 3369\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Fen"
+    ],
+    "issue_number_s": [
+        "2025"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Prince Gui \u6842\u738b (1647 to 1661)"
+    ],
+    "issue_series_s": [
+        "Southern Ming \u5357\u660e"
+    ],
+    "issue_place_s": [
+        "Guang Zhou Fu (Canton), Guang Dong, China"
+    ],
+    "issue_city_s": [
+        "Guang Zhou Fu (Canton)"
+    ],
+    "issue_state_s": [
+        "Guang Dong"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6c38\u6b77\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u58f9\u5206"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 271 986",
+        "Jen 130 624",
+        "Zhong Guo 311 1st row"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fbc9efe416cff466"
+    ],
+    "_version_": 1667138438385631232,
+    "timestamp": "2020-05-19T16:51:50.582Z"
+}

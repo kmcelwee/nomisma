@@ -1,0 +1,85 @@
+{
+    "id": "coin-10280",
+    "title_display": "Coin: 10280",
+    "call_number_display": [
+        "Coin 10280"
+    ],
+    "call_number_browse_s": [
+        "Coin 10280"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "36"
+    ],
+    "weight_s": [
+        "18.591"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10280\",\"call_number_browse\":\"Coin 10280\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6526"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bacio Bandinelli"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bacio Bandinelli, sculptor and rival of Cellini, based on self-portrait."
+    ],
+    "issue_obverse_legend_s": [
+        "BACIVS: BAN. .SCVLP: FLO. | LEO"
+    ],
+    "issue_reverse_figure_s": [
+        "Laurel"
+    ],
+    "issue_reverse_figure_description_s": [
+        "CHANDOR ILLESVS surrounded by laurels"
+    ],
+    "issue_reverse_legend_s": [
+        "CHANDOR ILLESVS"
+    ],
+    "issue_references_s": [
+        "Italian Medals 1 19"
+    ],
+    "issue_artists_s": [
+        "Leone Leoni"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1827b94acb0d14dc"
+    ],
+    "_version_": 1667138179637968896,
+    "timestamp": "2020-05-19T16:47:43.822Z"
+}

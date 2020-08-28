@@ -1,0 +1,98 @@
+{
+    "id": "coin-11326",
+    "title_display": "Coin: 11326",
+    "pub_created_display": [
+        "Wahram II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11326"
+    ],
+    "call_number_browse_s": [
+        "Coin 11326"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "76.7% Ag; 0.57 Au; 100 mg Ag"
+    ],
+    "notes_display": [
+        "Symbol behind the crown Probabaly was punched (?); edges chipped, Hole at 10 h; small hole on pants of right attandance ; Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "3.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11326\",\"call_number_browse\":\"Coin 11326\"}}",
+    "pub_date_start_sort": 276,
+    "pub_date_end_sort": 293,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7493"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Wahram II"
+    ],
+    "issue_series_s": [
+        "Style Abis I(1)/2(1a)"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Wahram II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown cap; terminating in an eagle's wing at the back; covered korymbos; plain diadem, diadem ribbons commencing above ball of hair pointing upwards; earing consisting of two elements; tunica, neck-line edged with double row of pearl; dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. pseudo-legend"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; four altar slabs; altar flames depicted with parallel strokes; to the left of the altar attendant with stylized crown of Wahram II, holding lance in right hand, left hand resting on scabbard, to the right of the altar attendant with stylized crown of Wahram II, holding lance in left hand, right hand resting on scabbard, both facing outwards, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "3 h l. i.  NWRA [ZY], 9 h l. o. [wrhr'n]| \u0101dur \u012b wrhr'n|\u201cthe fire of Wahram\u201d; Symbol on altar shaft (SNS 3, var.25)"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style Abis I(1)/2(1a)",
+        "SN  I/2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7ef431952f540a90"
+    ],
+    "_version_": 1667138292617838592,
+    "timestamp": "2020-05-19T16:49:31.570Z"
+}

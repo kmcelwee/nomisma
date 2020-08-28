@@ -1,0 +1,84 @@
+{
+    "id": "coin-3404",
+    "title_display": "Coin: 3404",
+    "pub_created_display": [
+        "Zheng Cheng Gong \u912d\u6210\u529f (1661 to 1683), 2 Cash"
+    ],
+    "call_number_display": [
+        "Coin 3404"
+    ],
+    "call_number_browse_s": [
+        "Coin 3404"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note\uff1a\u884c\u6977 Running Script"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "4.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3404\",\"call_number_browse\":\"Coin 3404\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1661,
+    "pub_date_end_sort": 1683,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 Cash"
+    ],
+    "issue_number_s": [
+        "2031"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Zheng Cheng Gong \u912d\u6210\u529f (1661 to 1683)"
+    ],
+    "issue_series_s": [
+        "Southern Ming \u5357\u660e"
+    ],
+    "issue_place_s": [
+        "Taiwan, China"
+    ],
+    "issue_state_s": [
+        "Taiwan"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6c38\u6b77\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 265 962",
+        "Jen 128 613",
+        "Zhong Guo 310 1st row, center"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "23ea032283b48bdf"
+    ],
+    "_version_": 1667138482375491584,
+    "timestamp": "2020-05-19T16:52:32.534Z"
+}

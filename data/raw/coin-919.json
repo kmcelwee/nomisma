@@ -1,0 +1,100 @@
+{
+    "id": "coin-919",
+    "title_display": "Coin: 919",
+    "pub_created_display": [
+        "Drachm"
+    ],
+    "call_number_display": [
+        "Coin 919"
+    ],
+    "call_number_browse_s": [
+        "Coin 919"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Celtic Imitation of a Drachm"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.79"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 919\",\"call_number_browse\":\"Coin 919\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "391"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Celts, Europe"
+    ],
+    "issue_state_s": [
+        "Celts"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Hercules"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "lion skin headdress"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on throne, legs crossed, eagle in r. hand, sceptre in l. hand"
+    ],
+    "issue_reverse_attributes_s": [
+        "m51, in l. field"
+    ],
+    "issue_references_s": [
+        "Keltische Numismatik 1  fig338"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "19412ce22c5a5aa0"
+    ],
+    "_version_": 1667138205778968576,
+    "timestamp": "2020-05-19T16:48:08.752Z"
+}

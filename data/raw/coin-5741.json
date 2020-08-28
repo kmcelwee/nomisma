@@ -1,0 +1,94 @@
+{
+    "id": "coin-5741",
+    "title_display": "Coin: 5741",
+    "pub_created_display": [
+        "1/2 mark"
+    ],
+    "call_number_display": [
+        "Coin 5741"
+    ],
+    "call_number_browse_s": [
+        "Coin 5741"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.72"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5741\",\"call_number_browse\":\"Coin 5741\"}}",
+    "donor_s": [
+        "Anonymous Class of '64"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/2 mark"
+    ],
+    "issue_number_s": [
+        "3277"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_edge_s": [
+        "milled"
+    ],
+    "issue_workshop_s": [
+        "Munich"
+    ],
+    "issue_place_s": [
+        "Germany"
+    ],
+    "issue_region_s": [
+        "Germany"
+    ],
+    "issue_obverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_obverse_legend_s": [
+        "DEUTSCHES REICH | 1/2 MARK | 1906"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_symbol_s": [
+        "D"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Crowned imperial with shield on breast surrounded by wreath"
+    ],
+    "issue_references_s": [
+        "Paproth p. 85 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f8979b69d92b25cb"
+    ],
+    "_version_": 1667145144246206464,
+    "timestamp": "2020-05-19T18:43:22.121Z"
+}

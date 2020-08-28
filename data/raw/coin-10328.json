@@ -1,0 +1,67 @@
+{
+    "id": "coin-10328",
+    "title_display": "Coin: 10328",
+    "call_number_display": [
+        "Coin 10328"
+    ],
+    "call_number_browse_s": [
+        "Coin 10328"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Looks similar to other L2-4, Tomb 5 and Tomb 1 coins"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/23/1935"
+    ],
+    "find_feature_s": [
+        "Tomb 5"
+    ],
+    "find_locus_s": [
+        "L-24"
+    ],
+    "find_number_s": [
+        "C4590"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "3.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10328\",\"call_number_browse\":\"Coin 10328\"}}",
+    "pub_date_start_sort": 1300,
+    "pub_date_end_sort": 1415,
+    "issue_number_s": [
+        "6561"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c3d96a3050a85a41"
+    ],
+    "_version_": 1667145144270323712,
+    "timestamp": "2020-05-19T18:38:25.935Z"
+}

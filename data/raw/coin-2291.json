@@ -1,0 +1,118 @@
+{
+    "id": "coin-2291",
+    "title_display": "Coin: 2291",
+    "pub_created_display": [
+        "Claudius (41 to 54), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2291"
+    ],
+    "call_number_browse_s": [
+        "Coin 2291"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Fragment; half coin (left side of obverse).  Weight as is:  3.98 g. Die axis: ~ 12. On obverse, legend should probably be [IM TI CLA CAE] on the missing right half with AV GER clearly visible on specimen. Notes: a1500-1501 out; a1502 Claudius."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/19/1937"
+    ],
+    "find_feature_s": [
+        "Trench NE of lion mosaic room N to 5.50M"
+    ],
+    "find_locus_s": [
+        "DH 28-0"
+    ],
+    "find_number_s": [
+        "Ca1502"
+    ],
+    "find_description_s": [
+        "Basket N."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2291\",\"call_number_browse\":\"Coin 2291\"}}",
+    "pub_date_start_sort": 41,
+    "pub_date_end_sort": 54,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1350"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Claudius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate; border of dots enclosing legend"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP TI CLA CAE AV GER"
+    ],
+    "issue_reverse_figure_s": [
+        "S C in wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "laurel wreath of eight leaves"
+    ],
+    "issue_reverse_legend_s": [
+        "S C"
+    ],
+    "issue_references_s": [
+        "RPC.1  4280v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "8b0f22d32a26b2e6"
+    ],
+    "_version_": 1667138217065840640,
+    "timestamp": "2020-05-19T16:48:19.517Z"
+}

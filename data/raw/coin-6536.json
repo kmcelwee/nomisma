@@ -1,0 +1,118 @@
+{
+    "id": "coin-6536",
+    "title_display": "Coin: 6536",
+    "pub_created_display": [
+        "Julian (355 to 360), Antioch"
+    ],
+    "call_number_display": [
+        "Coin 6536"
+    ],
+    "call_number_browse_s": [
+        "Coin 6536"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/17/1937"
+    ],
+    "find_feature_s": [
+        "under geometic mosaic"
+    ],
+    "find_locus_s": [
+        "DH 30-Q"
+    ],
+    "find_number_s": [
+        "Ca2713"
+    ],
+    "find_description_s": [
+        "sealed deposit Ca2704-Ca2713"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6536\",\"call_number_browse\":\"Coin 6536\"}}",
+    "pub_date_start_sort": 355,
+    "pub_date_end_sort": 361,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "4069"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Julian (355 to 360)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust r., diad., draped or draped and cuir. with border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "DCONSTAN TIVSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "emperor l. with globe, leaning on spear with border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "SPESREI PVBLICE"
+    ],
+    "issue_references_s": [
+        "RIC VII, pg. 528 193"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9182948db5cfa524"
+    ],
+    "_version_": 1667138363894792192,
+    "timestamp": "2020-05-19T16:50:39.544Z"
+}

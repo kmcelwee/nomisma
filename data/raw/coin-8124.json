@@ -1,0 +1,122 @@
+{
+    "id": "coin-8124",
+    "title_display": "Coin: 8124",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 8124"
+    ],
+    "call_number_browse_s": [
+        "Coin 8124"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "04/22/1935"
+    ],
+    "find_locus_s": [
+        "15-R"
+    ],
+    "find_number_s": [
+        "C4541"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "5.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8124\",\"call_number_browse\":\"Coin 8124\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 313,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5147"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laur."
+    ],
+    "issue_obverse_legend_s": [
+        "IMPCLICLICINNIVSPFAVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Genius"
+    ],
+    "issue_reverse_symbol_s": [
+        "[star], N, [palm] | S, [wreath]"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding head of Serapis and cornucopiae."
+    ],
+    "issue_reverse_legend_s": [
+        "GENIO AVGVSTI | ALE"
+    ],
+    "issue_references_s": [
+        "RIC 6 p. 685 162",
+        "Numismatique Constantinienne III pp. 255-256, II 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "becc48d211ca552c"
+    ],
+    "_version_": 1667138266484178944,
+    "timestamp": "2020-05-19T16:49:06.645Z"
+}

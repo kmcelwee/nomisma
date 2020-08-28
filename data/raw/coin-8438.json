@@ -1,0 +1,89 @@
+{
+    "id": "coin-8438",
+    "title_display": "Coin: 8438",
+    "pub_created_display": [
+        "tetrobol, Cnidus"
+    ],
+    "call_number_display": [
+        "Coin 8438"
+    ],
+    "call_number_browse_s": [
+        "Coin 8438"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "2.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8438\",\"call_number_browse\":\"Coin 8438\"}}",
+    "pub_date_start_sort": -300,
+    "pub_date_end_sort": -190,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrobol"
+    ],
+    "issue_number_s": [
+        "5376"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Cnidus, Caria, Greece"
+    ],
+    "issue_city_s": [
+        "Cnidus"
+    ],
+    "issue_state_s": [
+        "Caria"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Artemis"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of Artemis r. wearing stephane; quiver at shoulder"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod"
+    ],
+    "issue_references_s": [
+        "BMC Caria p. 91 48, 49",
+        "SNG. 25 275-293"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "edcb3e648509ff95"
+    ],
+    "_version_": 1667138182438715392,
+    "timestamp": "2020-05-19T16:47:46.494Z"
+}

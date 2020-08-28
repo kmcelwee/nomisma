@@ -1,0 +1,82 @@
+{
+    "id": "coin-6569",
+    "title_display": "Coin: 6569",
+    "call_number_display": [
+        "Coin 6569"
+    ],
+    "call_number_browse_s": [
+        "Coin 6569"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "50"
+    ],
+    "weight_s": [
+        "65.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6569\",\"call_number_browse\":\"Coin 6569\"}}",
+    "donor_s": [
+        "Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3983"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Mother and son"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Exchange of a sword between a mother and her son"
+    ],
+    "issue_obverse_legend_s": [
+        "VA FILS"
+    ],
+    "issue_reverse_figure_s": [
+        "Monument, flag and tree"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Flag rests upon monument"
+    ],
+    "issue_reverse_legend_s": [
+        "PATRIA"
+    ],
+    "issue_artists_s": [
+        "Louis Desvignes, L. Desvignes"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d9b5d7a2a057b09c"
+    ],
+    "_version_": 1667138368744456192,
+    "timestamp": "2020-05-19T16:50:44.168Z"
+}

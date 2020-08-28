@@ -1,0 +1,125 @@
+{
+    "id": "coin-4011",
+    "title_display": "Coin: 4011",
+    "pub_created_display": [
+        "Justin I (518 to 527), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 4011"
+    ],
+    "call_number_browse_s": [
+        "Coin 4011"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "\u0413"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/30/38"
+    ],
+    "find_feature_s": [
+        "Cut West of B14 and 14a"
+    ],
+    "find_locus_s": [
+        "DH 27_O"
+    ],
+    "find_number_s": [
+        "Cb1089"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "14.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4011\",\"call_number_browse\":\"Coin 4011\"}}",
+    "pub_date_start_sort": 518,
+    "pub_date_end_sort": 522,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "2279"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin I (518 to 527)"
+    ],
+    "issue_workshop_s": [
+        "\u0413"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with diadem, cuirass and paludamentum"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "stars"
+    ],
+    "issue_reverse_figure_description_s": [
+        "above, cross. To l. and r. stars."
+    ],
+    "issue_reverse_legend_s": [
+        "|CON"
+    ],
+    "issue_references_s": [
+        " Justin I 11 \u0413",
+        " Justin I 8",
+        "BMC.Byz. Justin I 22",
+        "BL Justin I 02",
+        "Sear Justin I 62"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0ed65f6fdd93ebe9"
+    ],
+    "_version_": 1667138230364930048,
+    "timestamp": "2020-05-19T16:48:32.201Z"
+}

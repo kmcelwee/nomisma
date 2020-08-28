@@ -1,0 +1,113 @@
+{
+    "id": "coin-13245",
+    "title_display": "Coin: 13245",
+    "pub_created_display": [
+        "Latin Imitative (1204 to 1261), billon trachy, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 13245"
+    ],
+    "call_number_browse_s": [
+        "Coin 13245"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscriptions on obverse and reverse missing. Figure on obverse obscure. Small module of Constantinopolitan type B."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "1.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13245\",\"call_number_browse\":\"Coin 13245\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8581"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Latin Imitative (1204 to 1261)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on throne with back"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC"
+    ],
+    "issue_obverse_attributes_s": [
+        "Gospel book, in l.hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u0391\u039d\u039f\u03a5\u0397\u039b \u0394\u0395C\u03a0\u039f\u03a4\u0397C"
+    ],
+    "issue_reverse_attributes_s": [
+        "sword, in r.hand",
+        "globus cruciger, in l.hand"
+    ],
+    "issue_references_s": [
+        "DOC IV,p.696 31.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "756805c0dbe08f5b"
+    ],
+    "_version_": 1667138318235598848,
+    "timestamp": "2020-05-19T16:49:55.999Z"
+}

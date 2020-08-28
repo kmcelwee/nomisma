@@ -1,0 +1,124 @@
+{
+    "id": "coin-6531",
+    "title_display": "Coin: 6531",
+    "pub_created_display": [
+        "Theodosius I the Great (378 to 395), aes IV, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 6531"
+    ],
+    "call_number_browse_s": [
+        "Coin 6531"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/17/1937"
+    ],
+    "find_feature_s": [
+        "under geometric mosaic"
+    ],
+    "find_locus_s": [
+        "DH 30-Q"
+    ],
+    "find_number_s": [
+        "Ca2708"
+    ],
+    "find_description_s": [
+        "Sealed deposit Ca2704-Ca2713"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "1.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6531\",\"call_number_browse\":\"Coin 6531\"}}",
+    "pub_date_start_sort": 383,
+    "pub_date_end_sort": 392,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aes IV"
+    ],
+    "issue_number_s": [
+        "3980"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Theodosius I the Great (378 to 395)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Pearl-diademed, draped and cuirassed, r."
+    ],
+    "issue_obverse_legend_s": [
+        "DN THEODO-SIUS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Vicory advancing l., holding trophy on shoulder with r. hand and dragging captive with l."
+    ],
+    "issue_reverse_legend_s": [
+        "SALVS REI-PUBLICAE"
+    ],
+    "issue_references_s": [
+        "RIC Vol. IX, pgs. 292-3 67(b)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3d2dbee71dfeb1b0"
+    ],
+    "_version_": 1667138366480580608,
+    "timestamp": "2020-05-19T16:50:42.008Z"
+}

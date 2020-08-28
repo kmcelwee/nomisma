@@ -1,0 +1,119 @@
+{
+    "id": "coin-8184",
+    "title_display": "Coin: 8184",
+    "pub_created_display": [
+        "Constantius II (337 to 361), Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8184"
+    ],
+    "call_number_browse_s": [
+        "Coin 8184"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Only about a quarter of the actual coin has not worn away"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/5/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca768"
+    ],
+    "find_description_s": [
+        "Dig IV room 23. to 3.5M. Level II. Basket C"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "2.0"
+    ],
+    "weight_s": [
+        "2.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8184\",\"call_number_browse\":\"Coin 8184\"}}",
+    "pub_date_start_sort": 348,
+    "pub_date_end_sort": 350,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "5197"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantius II (337 to 361)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNCONSTANTIUSPFAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "on horseback"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Soldier spearing falling horseman"
+    ],
+    "issue_reverse_legend_s": [
+        "FELTEMPREPARATIO"
+    ],
+    "issue_references_s": [
+        "Waage p.130 1651",
+        "RIC.8 p.522 122"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "954b37b9a82110b1"
+    ],
+    "_version_": 1667138188796231680,
+    "timestamp": "2020-05-19T16:47:52.555Z"
+}

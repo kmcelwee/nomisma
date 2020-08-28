@@ -1,0 +1,108 @@
+{
+    "id": "coin-13330",
+    "title_display": "Coin: 13330",
+    "pub_created_display": [
+        "tetrobol, Aradus"
+    ],
+    "call_number_display": [
+        "Coin 13330"
+    ],
+    "call_number_browse_s": [
+        "Coin 13330"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "2.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13330\",\"call_number_browse\":\"Coin 13330\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrobol"
+    ],
+    "issue_number_s": [
+        "8627"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_series_s": [
+        "2"
+    ],
+    "issue_place_s": [
+        "Aradus, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Aradus"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_symbol_s": [
+        "laurel wreath"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Galley"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "armed bow of spur of galley with eye; Athena fighter figurehead; Phoencian year below (An 147)"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u0392C, above galley",
+        "m13269, below year"
+    ],
+    "issue_references_s": [
+        "Arados Hell\u00e9nistique  1529v",
+        "BMC.Phoen  317"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2c75d7315c867872"
+    ],
+    "_version_": 1667138518789390336,
+    "timestamp": "2020-05-19T16:53:07.262Z"
+}

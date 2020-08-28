@@ -1,0 +1,124 @@
+{
+    "id": "coin-9139",
+    "title_display": "Coin: 9139",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Siscia"
+    ],
+    "call_number_display": [
+        "Coin 9139"
+    ],
+    "call_number_browse_s": [
+        "Coin 9139"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "May 18, 1938"
+    ],
+    "find_feature_s": [
+        "Trench 4"
+    ],
+    "find_locus_s": [
+        "14-R"
+    ],
+    "find_number_s": [
+        "Cb2012"
+    ],
+    "find_description_s": [
+        "North extension surface (A1)  AE.0195"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "1.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9139\",\"call_number_browse\":\"Coin 9139\"}}",
+    "pub_date_start_sort": 315,
+    "pub_date_end_sort": 316,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5814"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Siscia, Illyria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Siscia"
+    ],
+    "issue_state_s": [
+        "Illyria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurel, dr. and cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "IMP LICINIVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter standing l, chlamys across l shoulder, holding Victory on globe, r, leaning on sceptre, l; at l., eagle with wreath on ground"
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONSERVATORI"
+    ],
+    "issue_references_s": [
+        "RIC 7 423.11"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7f0e6f4ed98487d5"
+    ],
+    "_version_": 1667138345868722176,
+    "timestamp": "2020-05-19T16:50:22.350Z"
+}

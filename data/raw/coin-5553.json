@@ -1,0 +1,82 @@
+{
+    "id": "coin-5553",
+    "title_display": "Coin: 5553",
+    "pub_created_display": [
+        "Ling of Eastern Han \u6771\u6f22\u9748\u5e1d (168 to 189), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5553"
+    ],
+    "call_number_browse_s": [
+        "Coin 5553"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u80cc\u56db\u9053"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "4.44"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5553\",\"call_number_browse\":\"Coin 5553\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 168,
+    "pub_date_end_sort": 189,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3141"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Ling of Eastern Han \u6771\u6f22\u9748\u5e1d (168 to 189)"
+    ],
+    "issue_series_s": [
+        "Eastern Han Wu Zhu \u6771\u6f22\u4e94\u9296"
+    ],
+    "issue_place_s": [
+        "China"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u4e94\u9296"
+    ],
+    "issue_references_s": [
+        "Hartill 91 10.3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e8f3ab3b0b130cac"
+    ],
+    "_version_": 1667138366451220480,
+    "timestamp": "2020-05-19T16:50:41.982Z"
+}

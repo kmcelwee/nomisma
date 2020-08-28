@@ -1,0 +1,100 @@
+{
+    "id": "coin-9827",
+    "title_display": "Coin: 9827",
+    "pub_created_display": [
+        "Francesco da Sangallo (1494 to 1576)"
+    ],
+    "call_number_display": [
+        "Coin 9827"
+    ],
+    "call_number_browse_s": [
+        "Coin 9827"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "100"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9827\",\"call_number_browse\":\"Coin 9827\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6214"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Francesco da Sangallo (1494 to 1576)"
+    ],
+    "issue_master_s": [
+        "Francesco da Sangallo (1494 to 1576)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded; head wrapped in cloth turban"
+    ],
+    "issue_obverse_legend_s": [
+        "FRANCESCO DA SANGALLO SCVLTORE ARCHITETTO FIOREN"
+    ],
+    "issue_reverse_figure_s": [
+        "Bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "obverse figure's wife; hair in updo and held with decorative headband"
+    ],
+    "issue_reverse_legend_s": [
+        "HELENA MARSUPINI CONSORTE FIORENT.A.M.D.LI"
+    ],
+    "issue_references_s": [
+        "Currency of Fame  65"
+    ],
+    "issue_artists_s": [
+        "Francesco da Sangallo"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "96560495f714657e"
+    ],
+    "_version_": 1667138137468436480,
+    "timestamp": "2020-05-19T16:47:03.607Z"
+}

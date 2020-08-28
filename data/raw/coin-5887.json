@@ -1,0 +1,74 @@
+{
+    "id": "coin-5887",
+    "title_display": "Coin: 5887",
+    "pub_created_display": [
+        "TaiZu of Song \u592a\u7956\uff08\u5b8b\uff09 (960 to 976), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5887"
+    ],
+    "call_number_browse_s": [
+        "Coin 5887"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Wu Note: \u80cc\u53f3\u661f\u3002A dot on the right of the reverse side."
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5887\",\"call_number_browse\":\"Coin 5887\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 960,
+    "pub_date_end_sort": 976,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3409"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "TaiZu of Song \u592a\u7956\uff08\u5b8b\uff09 (960 to 976)"
+    ],
+    "issue_obverse_legend_s": [
+        " \u5b8b\u5143\u901a\u5b9d"
+    ],
+    "issue_reverse_figure_description_s": [
+        "\u53f3\u661f (star on the right)"
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 7 24",
+        "Hartill 128 16.1e"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "cd29be27b9d22150"
+    ],
+    "_version_": 1667138249541287936,
+    "timestamp": "2020-05-19T16:48:50.488Z"
+}

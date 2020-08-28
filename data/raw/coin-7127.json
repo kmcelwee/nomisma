@@ -1,0 +1,106 @@
+{
+    "id": "coin-7127",
+    "title_display": "Coin: 7127",
+    "pub_created_display": [
+        "Constantine II, officnae, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7127"
+    ],
+    "call_number_browse_s": [
+        "Coin 7127"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7127\",\"call_number_browse\":\"Coin 7127\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 337,
+    "pub_date_end_sort": 337,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "officnae"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_workshop_s": [
+        "Antioch"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "veiled, female"
+    ],
+    "issue_obverse_legend_s": [
+        "DV CONSTANTI-NVS PT AVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Quadriga"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Emperor, veiled, to r. in quadriga; the hand of God reaches down to him."
+    ],
+    "issue_reverse_legend_s": [
+        "(none)"
+    ],
+    "issue_references_s": [
+        "RIC 8 515.37"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "12e00cd480b1b7cc"
+    ],
+    "_version_": 1673554138753925120,
+    "timestamp": "2020-07-29T12:26:39.255Z"
+}

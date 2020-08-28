@@ -1,0 +1,117 @@
+{
+    "id": "coin-7445",
+    "title_display": "Coin: 7445",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7445"
+    ],
+    "call_number_browse_s": [
+        "Coin 7445"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.825"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7445\",\"call_number_browse\":\"Coin 7445\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4663"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Gnaius Domitius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "corn ear"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Star before. Corn ear behind."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_symbol_s": [
+        "man fighting lion"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory r., in biga; in r. hand, whip; in l. hand, reins. Below, man fighting lion. Legends above and below: ROMA above; CN.DOM below, in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA; CN.DOM"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border."
+    ],
+    "issue_references_s": [
+        "RRC  261/1",
+        "Syd.  514",
+        "Sear Volume I 137"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "96acaa2cd3cf5564"
+    ],
+    "_version_": 1667138190354415616,
+    "timestamp": "2020-05-19T16:47:54.042Z"
+}

@@ -1,0 +1,111 @@
+{
+    "id": "coin-3498",
+    "title_display": "Coin: 3498",
+    "pub_created_display": [
+        "Anonymous 1120-1140, copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3498"
+    ],
+    "call_number_browse_s": [
+        "Coin 3498"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/19/1938"
+    ],
+    "find_feature_s": [
+        "Brick piers"
+    ],
+    "find_locus_s": [
+        "18-N"
+    ],
+    "find_number_s": [
+        "cb2069"
+    ],
+    "find_description_s": [
+        "Along west side of main road"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3498\",\"call_number_browse\":\"Coin 3498\"}}",
+    "pub_date_start_sort": 1120,
+    "pub_date_end_sort": 1140,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_number_s": [
+        "2048"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Anonymous 1120-1140"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmeted head looking right with cross in helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Grid"
+    ],
+    "issue_reverse_figure_description_s": [
+        "grid consisiting of two horizontal and two vertical bars with annulets in each chamber"
+    ],
+    "issue_references_s": [
+        "Schl. Pl. III 17",
+        "Ox. Pl. 19 481v",
+        "Malloy P. 225 99"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "58edbce6b0c42069"
+    ],
+    "_version_": 1667138482302091264,
+    "timestamp": "2020-05-19T16:52:32.466Z"
+}

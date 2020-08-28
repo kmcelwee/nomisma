@@ -1,0 +1,122 @@
+{
+    "id": "coin-3011",
+    "title_display": "Coin: 3011",
+    "pub_created_display": [
+        "Nero (54 to 68), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 3011"
+    ],
+    "call_number_browse_s": [
+        "Coin 3011"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Due to scratches on obverse, legend is illegible. On reverse, coin was struck off center so that ET HP is at the very bottom edge of the coin.  Waage identifies goddess as Tyche.  On envelope, \"=108; ca. 68 A.D., era of Caesar, 49 B.C.\""
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/04/1932"
+    ],
+    "find_locus_s": [
+        "H-25-SE"
+    ],
+    "find_number_s": [
+        "1312"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "4.82"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3011\",\"call_number_browse\":\"Coin 3011\"}}",
+    "pub_date_start_sort": 59,
+    "pub_date_end_sort": 60,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "1813"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Goddess"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "veiled, turreted, draped bust of the city goddess"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
+    ],
+    "issue_reverse_figure_s": [
+        "Altar"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "alter is lighted and garlanded"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "ET .  HP is in exergue"
+    ],
+    "issue_reverse_legend_s": [
+        "ET . HP"
+    ],
+    "issue_references_s": [
+        "BMC Gal. p.161 76",
+        "RPC.1  4292v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fd6e921e3891e3dc"
+    ],
+    "_version_": 1667138478863810560,
+    "timestamp": "2020-05-19T16:52:29.185Z"
+}

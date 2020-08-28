@@ -1,0 +1,111 @@
+{
+    "id": "coin-9874",
+    "title_display": "Coin: 9874",
+    "pub_created_display": [
+        "John III Ducas (1221 to 1254), billon trachy"
+    ],
+    "call_number_display": [
+        "Coin 9874"
+    ],
+    "call_number_browse_s": [
+        "Coin 9874"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscription on obverse: \u0391 \u0393\u0395 \u0393\u0399\u039fC. Double-struck. Second half of reverse inscription damaged. Faces obscure."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "2.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9874\",\"call_number_browse\":\"Coin 9874\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1249,
+    "pub_date_end_sort": 1250,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "6249"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "John III Ducas (1221 to 1254)"
+    ],
+    "issue_place_s": [
+        "Nicaea, Byzantium"
+    ],
+    "issue_state_s": [
+        "Nicaea"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. George"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "beardless and nimbate"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0393\u0391\u0393\u0395\u03c9 \u03a1\u0393\u039f\u03a0"
+    ],
+    "issue_obverse_attributes_s": [
+        "spear, in r.hand",
+        "shield, in l.hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and St. Demetrius"
+    ],
+    "issue_reverse_part_s": [
+        "half-length"
+    ],
+    "issue_reverse_figure_description_s": [
+        "emperor on the left; St. Demetrios on the right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0399\u03c9 \u0394\u03a0\u03a4 \u0394\u039c\u03a4\u03a1"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection 4, pg. 612 11.1",
+        "Sear  2066"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "15df9b7363177ed8"
+    ],
+    "_version_": 1667138194311741440,
+    "timestamp": "2020-05-19T16:47:57.816Z"
+}

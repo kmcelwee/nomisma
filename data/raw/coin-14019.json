@@ -1,0 +1,100 @@
+{
+    "id": "coin-14019",
+    "title_display": "Coin: 14019",
+    "pub_created_display": [
+        "Tetradrachm, Athens"
+    ],
+    "call_number_display": [
+        "Coin 14019"
+    ],
+    "call_number_browse_s": [
+        "Coin 14019"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "17.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14019\",\"call_number_browse\":\"Coin 14019\"}}",
+    "donor_s": [
+        "Harcourt E. Waller"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "9043"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Fine style (eye in profile), rough execution, wearing round earring and close-fitting crested helmet with 3 upright olive leaves and floral ornament"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wings closed; behind, crescent moon and 2 olive leaves with berry"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0398\u0395"
+    ],
+    "issue_references_s": [
+        "Catalogue of the Greek Coins in the British Museum p.13 132"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d53944df99400bb9"
+    ],
+    "_version_": 1667310825815146496,
+    "timestamp": "2020-05-21T14:31:52.048Z"
+}

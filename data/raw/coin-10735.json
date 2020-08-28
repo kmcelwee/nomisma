@@ -1,0 +1,91 @@
+{
+    "id": "coin-10735",
+    "title_display": "Coin: 10735",
+    "pub_created_display": [
+        "Narseh, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 10735"
+    ],
+    "call_number_browse_s": [
+        "Coin 10735"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Slightly broken edges, plugged hole at 3 h"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "3.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10735\",\"call_number_browse\":\"Coin 10735\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 293,
+    "pub_date_end_sort": 302,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "6896"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Narseh"
+    ],
+    "issue_series_s": [
+        "Style J (Sakastan) (Phase 1)"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Narseh on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "arcaded crown surmounted by three floral elements; covered korymbos; plain diadem, diadem ribbons pointing upwards; earing consisting of two elements; neck-line of tunica edged with row of pearls; double lines running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "barbarized; lily scepter(?) in right field (SNS 2, var. 6)"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; four altar slabs; altar flames depicted with vertical lines; to the left of the altar attendant with stylized crown of Narseh, holding a barsom in his left hand, to the right of the altar attendant with stylized crown of Ahuramazda, holding a barsom with his right hand, both facing inwards; dotted border; to the left of the later flames symbol (SNS, var. 25), to the right symbol (SNS 3, var. 48)"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 2 Style J (Sakastan) (Phase 1) Type Ia/2a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ee99fb1cf9a2ff1b"
+    ],
+    "_version_": 1667138173772234752,
+    "timestamp": "2020-05-19T16:47:38.228Z"
+}

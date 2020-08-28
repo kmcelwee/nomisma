@@ -1,0 +1,106 @@
+{
+    "id": "coin-9000",
+    "title_display": "Coin: 9000",
+    "pub_created_display": [
+        "Orodes II (-57 to -38), Drachm, Nisa-Mithradatkart"
+    ],
+    "call_number_display": [
+        "Coin 9000"
+    ],
+    "call_number_browse_s": [
+        "Coin 9000"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin's patina is unusual for this hoard and appears more bronze than silver."
+    ],
+    "find_place_s": [
+        "Tabriz, Azerbaijan, Iran"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9000\",\"call_number_browse\":\"Coin 9000\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": -57,
+    "pub_date_end_sort": -38,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Orodes II (-57 to -38)"
+    ],
+    "issue_place_s": [
+        "Nisa-Mithradatkart, Parthia, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Nisa-Mithradatkart"
+    ],
+    "issue_state_s": [
+        "Parthia"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "crescent and star"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3|\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d|\u0391\u03a1\u03a3\u0391\u039a\u039f\u03c5|\u0395\u03c5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03c5|\u0394\u0399\u039a\u0391\u0399\u039f\u03c5|\u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03c5\u03a3|\u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u039d\u039f\u03a3 (final four words garbled but partially legible)"
+    ],
+    "issue_reverse_attributes_s": [
+        "m8914, below bow,Shore Monogram #30"
+    ],
+    "issue_references_s": [
+        "Sellwood  47.9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "26bbdf26c9546d6f"
+    ],
+    "_version_": 1672998004271874048,
+    "timestamp": "2020-07-23T09:07:08.071Z"
+}

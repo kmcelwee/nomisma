@@ -1,0 +1,107 @@
+{
+    "id": "coin-6374",
+    "title_display": "Coin: 6374",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6374"
+    ],
+    "call_number_browse_s": [
+        "Coin 6374"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 260, R: 532"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "20.5"
+    ],
+    "weight_s": [
+        "7.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6374\",\"call_number_browse\":\"Coin 6374\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -355,
+    "pub_date_end_sort": -340,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3806"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on standing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "K"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "horse lifts left front hoof; rider leans forward in the act of crowning the horse with a garland, left hand holds the reins; below horse K and club"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "[omega], [sigma]"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's right hand extended holds kantharos, large buckler on left arm with trident below it; omega below dolphin; at bottom waves; line border"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  508-9",
+        "F-B  685"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "35f87478d8177059"
+    ],
+    "_version_": 1667138251387830272,
+    "timestamp": "2020-05-19T16:48:52.246Z"
+}

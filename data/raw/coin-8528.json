@@ -1,0 +1,108 @@
+{
+    "id": "coin-8528",
+    "title_display": "Coin: 8528",
+    "pub_created_display": [
+        "Heraclius (610 to 641), solidus, Carthage"
+    ],
+    "call_number_display": [
+        "Coin 8528"
+    ],
+    "call_number_browse_s": [
+        "Coin 8528"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "PRISM 4/17/2012"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "4.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8528\",\"call_number_browse\":\"Coin 8528\"}}",
+    "donor_s": [
+        "Philip Ashton Rollins"
+    ],
+    "pub_date_start_sort": 621,
+    "pub_date_end_sort": 622,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "solidus"
+    ],
+    "issue_number_s": [
+        "5435"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Heraclius (610 to 641)"
+    ],
+    "issue_place_s": [
+        "Carthage, Africa, Byzantium"
+    ],
+    "issue_city_s": [
+        "Carthage"
+    ],
+    "issue_state_s": [
+        "Africa"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Two busts"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_obverse_legend_s": [
+        "DNERACLIOET ERACONSTPP"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "potent on 2 steps"
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIAAVCCI | CONOB"
+    ],
+    "issue_references_s": [
+        "MIB.3  84b8",
+        "DOC.2  226",
+        "BN  10/Ct/AV/12"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bf116943d0cdff45"
+    ],
+    "_version_": 1667138346836557824,
+    "timestamp": "2020-05-19T16:50:23.274Z"
+}

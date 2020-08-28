@@ -1,0 +1,118 @@
+{
+    "id": "coin-4215",
+    "title_display": "Coin: 4215",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4215"
+    ],
+    "call_number_browse_s": [
+        "Coin 4215"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse legend reads MN CORDI"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "18.3"
+    ],
+    "weight_s": [
+        "4.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4215\",\"call_number_browse\":\"Coin 4215\"}}",
+    "pub_date_start_sort": -46,
+    "pub_date_end_sort": -46,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2383"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Mn. Cordius Rufus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Dioscuri"
+    ],
+    "issue_obverse_symbol_s": [
+        "star"
+    ],
+    "issue_obverse_part_s": [
+        "jugate heads"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing filleted pilei, stars above; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "RVFVS IIIVIR"
+    ],
+    "issue_reverse_figure_s": [
+        "Venus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holds scales in r. hand, sceptre in l. hand; Cupid perched on shoulder; MN of legend in monogram; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "MN CORDI[VS]"
+    ],
+    "issue_reverse_attributes_s": [
+        "scales, in r. hand",
+        "sceptre, in l. hand"
+    ],
+    "issue_references_s": [
+        "RRC  463/1b",
+        "Syd.  976c",
+        "Sear  440"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "564d3b1c93de7d24"
+    ],
+    "_version_": 1667138234851786752,
+    "timestamp": "2020-05-19T16:48:36.477Z"
+}

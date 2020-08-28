@@ -1,0 +1,80 @@
+{
+    "id": "coin-5568",
+    "title_display": "Coin: 5568",
+    "pub_created_display": [
+        "Guang Zhong \u5149\u5b97 (Zhao Dun \u8d99\u60c7) (1190 to 1194), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5568"
+    ],
+    "call_number_browse_s": [
+        "Coin 5568"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse has Yuan character (\u5143) below. Obverse legend written in regular script or Kai Shu (\u6977\u66f8)."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "3.44"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5568\",\"call_number_browse\":\"Coin 5568\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1190,
+    "pub_date_end_sort": 1194,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3155"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Guang Zhong \u5149\u5b97 (Zhao Dun \u8d99\u60c7) (1190 to 1194)"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Written in regular script or Kai Shu  (\u6977\u66f8)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u7d39\u7199\u5143\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "Yuan character (\u5143) below."
+    ],
+    "issue_references_s": [
+        "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 529 2100",
+        "Hartill 178 17.315v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5e91305d2bcd2422"
+    ],
+    "_version_": 1667138248540946432,
+    "timestamp": "2020-05-19T16:48:49.531Z"
+}

@@ -1,0 +1,121 @@
+{
+    "id": "coin-2699",
+    "title_display": "Coin: 2699",
+    "pub_created_display": [
+        "John Stewart"
+    ],
+    "call_number_display": [
+        "Coin 2699"
+    ],
+    "call_number_browse_s": [
+        "Coin 2699"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Lead cast bronzed 1703- Paris Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "45"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "50.75"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2699\",\"call_number_browse\":\"Coin 2699\"}}",
+    "pub_date_start_sort": 1789,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1703"
+    ],
+    "issue_metal_s": [
+        "Lead"
+    ],
+    "issue_color_s": [
+        "bronzed"
+    ],
+    "issue_ruler_s": [
+        "John Stewart"
+    ],
+    "issue_workshop_s": [
+        "Paris Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Stewart, Indian"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Stewart, l. receiveds palm from female dressed as Indian, holding shield in her l. hand, alligator and bow at feet"
+    ],
+    "issue_obverse_legend_s": [
+        "JOANNI STEWART COHORTIS PRAEFECTO| COMITIA AMERICANA"
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 1"
+    ],
+    "issue_reverse_figure_s": [
+        "Stewart"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Stewart with raised sword leads force l. over body-strewn field, fortress in distance"
+    ],
+    "issue_reverse_legend_s": [
+        "STONEY-POINT OPPUGNATUM| XV JUL.MDCCLXXIX"
+    ],
+    "issue_reverse_attributes_s": [
+        "die, A"
+    ],
+    "issue_references_s": [
+        "Betts  567",
+        "Julian PP 112-113 ",
+        "Stahl, Comitia Americana  43",
+        "Adams pp 89-102 "
+    ],
+    "issue_artists_s": [
+        "Nicolas Gatteaux, GATTEAUX"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "db14dcf9f9933681"
+    ],
+    "_version_": 1667138447948644352,
+    "timestamp": "2020-05-19T16:51:59.703Z"
+}

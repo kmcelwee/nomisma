@@ -1,0 +1,83 @@
+{
+    "id": "coin-1681",
+    "title_display": "Coin: 1681",
+    "pub_created_display": [
+        "Philip of Taranto (1294 to 1331), denier tournois, Lepanto"
+    ],
+    "call_number_display": [
+        "Coin 1681"
+    ],
+    "call_number_browse_s": [
+        "Coin 1681"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1681\",\"call_number_browse\":\"Coin 1681\"}}",
+    "donor_s": [
+        "Brooks Levy"
+    ],
+    "pub_date_start_sort": 1306,
+    "pub_date_end_sort": 1313,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier tournois"
+    ],
+    "issue_number_s": [
+        "1072"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Philip of Taranto (1294 to 1331)"
+    ],
+    "issue_place_s": [
+        "Lepanto, Achaea, Crusader"
+    ],
+    "issue_city_s": [
+        "Lepanto"
+    ],
+    "issue_state_s": [
+        "Achaea"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+PhS.P.TAR'DESP"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_legend_s": [
+        "+NEPANTI CIVIS"
+    ],
+    "issue_references_s": [
+        "Ox.  983",
+        "Schl. Plate XII 21"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7671e01bc9f06a5a"
+    ],
+    "_version_": 1667138414014627840,
+    "timestamp": "2020-05-19T16:51:27.340Z"
+}

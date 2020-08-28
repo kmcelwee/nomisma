@@ -1,0 +1,101 @@
+{
+    "id": "coin-7018",
+    "title_display": "Coin: 7018",
+    "pub_created_display": [
+        "triens, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7018"
+    ],
+    "call_number_browse_s": [
+        "Coin 7018"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Bourgey sale, 1927, for $10"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "44"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "101.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7018\",\"call_number_browse\":\"Coin 7018\"}}",
+    "pub_date_start_sort": -275,
+    "pub_date_end_sort": -271,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "triens"
+    ],
+    "issue_number_s": [
+        "4379"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_obverse_part_s": [
+        "cantering"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Wheel"
+    ],
+    "issue_reverse_symbol_s": [
+        "4 dots"
+    ],
+    "issue_references_s": [
+        "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  88",
+        "RRC  24.5",
+        "Haeb. pl. 25 8-11",
+        "Syd.  61",
+        "Sear  541"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2af062468d3400e2"
+    ],
+    "_version_": 1667138358607872000,
+    "timestamp": "2020-05-19T16:50:34.500Z"
+}

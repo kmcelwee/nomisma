@@ -1,0 +1,115 @@
+{
+    "id": "coin-12186",
+    "title_display": "Coin: 12186",
+    "pub_created_display": [
+        "Manuel I Komnenos (1143 to 1180), tetarteron, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 12186"
+    ],
+    "call_number_browse_s": [
+        "Coin 12186"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscription on reverse not visible."
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "3.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12186\",\"call_number_browse\":\"Coin 12186\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 1152,
+    "pub_date_end_sort": 1160,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetarteron"
+    ],
+    "issue_number_s": [
+        "8223"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Manuel I Komnenos (1143 to 1180)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Thessalonica, Byzantium"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Thessalonica"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. George"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "beardless and nimbate,"
+    ],
+    "issue_obverse_legend_s": [
+        "\u039f\u0393\u0395 \u03a1\u0393\u0399\u039f\u03a3"
+    ],
+    "issue_obverse_attributes_s": [
+        "spear, in right hand",
+        "shield, in left hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bearded"
+    ],
+    "issue_reverse_legend_s": [
+        "\u039c\u0391\u039d\u039f\u03a5 \u0397\u039b \u0394\u0395\u03a3\u03a0\u039f\u03a4"
+    ],
+    "issue_reverse_attributes_s": [
+        "labarum, in right hand",
+        "globus cruciger, in left hand"
+    ],
+    "issue_references_s": [
+        "DOC p.330 18.11",
+        "Sear  1975"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fb0ca887094d0f7e"
+    ],
+    "_version_": 1667138302279417856,
+    "timestamp": "2020-05-19T16:49:40.781Z"
+}

@@ -1,0 +1,106 @@
+{
+    "id": "coin-7868",
+    "title_display": "Coin: 7868",
+    "pub_created_display": [
+        "Hisham Ibn 'Abd al-Malik (724 to 743), fals, Al-Ruha "
+    ],
+    "call_number_display": [
+        "Coin 7868"
+    ],
+    "call_number_browse_s": [
+        "Coin 7868"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Year clear. Mint not entirely certain."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-1-1937"
+    ],
+    "find_feature_s": [
+        "Basket III room 8"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca639"
+    ],
+    "find_description_s": [
+        "Basket D"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "4.66"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7868\",\"call_number_browse\":\"Coin 7868\"}}",
+    "pub_date_start_sort": 734,
+    "pub_date_end_sort": 735,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4930"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Hisham Ibn 'Abd al-Malik (724 to 743)"
+    ],
+    "issue_series_s": [
+        "Ummayad"
+    ],
+    "issue_place_s": [
+        "Al-Ruha , Jund Al-Jazira, Syria"
+    ],
+    "issue_city_s": [
+        "Al-Ruha "
+    ],
+    "issue_state_s": [
+        "Jund Al-Jazira"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0644\u0627\u0634\u0631\u064a\u0643 \u0644\u0647 /\u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 \u0627\u0631\u0633\u0644\u0647 \u0628\u0644\u0647\u062f\u0649 \u0648 \u0646\u0648\u0631 \u0627\u0644\u062d\u0642 \u0644\u064a\u0636\u0647\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u062f\u064a\u0646"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0627\u0644\u0644\u0647 \u0627\u062d\u062f \u0627\u0644\u0644\u0647 \u0627\u0644\u0635\u0645\u062f \u0644\u0645 \u064a\u0644\u062f \u0648 \u0644\u0645 \u064a\u0648\u0644\u062f /\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0636\u0631\u0628 \u0647\u0630\u0627 \u0627\u0644\u0641\u0644\u0633 \u0628\u0627\u0644\u0631\u0647\u0627 \u0633\u0646\u0629 \u0633\u062a \u0639\u0634\u0631\u0629 \u0648 \u0645\u0626\u0629"
+    ],
+    "issue_references_s": [
+        "BMC 260 P.133"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a3511421c0dd1405"
+    ],
+    "_version_": 1667138263559700480,
+    "timestamp": "2020-05-19T16:49:03.855Z"
+}

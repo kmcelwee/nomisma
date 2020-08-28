@@ -1,0 +1,113 @@
+{
+    "id": "coin-9973",
+    "title_display": "Coin: 9973",
+    "pub_created_display": [
+        "Hugh III (1267 to 1284), denier, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9973"
+    ],
+    "call_number_browse_s": [
+        "Coin 9973"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Attribution tentative.  Coin is mostly illegible"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/24/1938"
+    ],
+    "find_feature_s": [
+        "North East"
+    ],
+    "find_locus_s": [
+        "17-P"
+    ],
+    "find_number_s": [
+        "Cb2610"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "0.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9973\",\"call_number_browse\":\"Coin 9973\"}}",
+    "pub_date_start_sort": 1267,
+    "pub_date_end_sort": 1284,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "square"
+    ],
+    "issue_ruler_s": [
+        "Hugh III (1267 to 1284)"
+    ],
+    "issue_place_s": [
+        "Antioch, Jerusalem, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Jerusalem"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross pattee"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_legend_s": [
+        "+hVGVE:REI:DE:"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_part_s": [
+        "rampant"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "+IRL'MED'ChIPR"
+    ],
+    "issue_references_s": [
+        "Ox.  662",
+        "Schl.  VI23"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bfc0b58fe302b8ae"
+    ],
+    "_version_": 1674257626653786112,
+    "timestamp": "2020-08-06T06:48:17.587Z"
+}

@@ -1,0 +1,104 @@
+{
+    "id": "coin-1870",
+    "title_display": "Coin: 1870",
+    "pub_created_display": [
+        "1/15 Shilling, Rahway"
+    ],
+    "call_number_display": [
+        "Coin 1870"
+    ],
+    "call_number_browse_s": [
+        "Coin 1870"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "8.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1870\",\"call_number_browse\":\"Coin 1870\"}}",
+    "donor_s": [
+        "D.G. Douglas"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/15 Shilling"
+    ],
+    "issue_number_s": [
+        "1222"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_place_s": [
+        "Rahway, New Jersey, United States of America"
+    ],
+    "issue_city_s": [
+        "Rahway"
+    ],
+    "issue_state_s": [
+        "New Jersey"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "plough"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        " curved beamed plough"
+    ],
+    "issue_obverse_legend_s": [
+        "NOVA C\u00c6SAREA | 1786"
+    ],
+    "issue_reverse_figure_s": [
+        "Shield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large shield"
+    ],
+    "issue_reverse_legend_s": [
+        "*E*PLURIBUS*UNUM*"
+    ],
+    "issue_references_s": [
+        "Breen  893",
+        "Maris  21-N"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0fc211991d5d7c8e"
+    ],
+    "_version_": 1667138416588881920,
+    "timestamp": "2020-05-19T16:51:29.797Z"
+}

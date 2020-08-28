@@ -1,0 +1,105 @@
+{
+    "id": "coin-1833",
+    "title_display": "Coin: 1833",
+    "pub_created_display": [
+        "Claudius (41 to 54), as, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1833"
+    ],
+    "call_number_browse_s": [
+        "Coin 1833"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Edges of coin are worn.  On obverse, the upper half of the word GERMANICVS is no longer intact.  On the reverse, the upper half of the word CLAVDIVS is also not intact."
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "8.96"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1833\",\"call_number_browse\":\"Coin 1833\"}}",
+    "donor_s": [
+        "E.C. Pomeroy"
+    ],
+    "pub_date_start_sort": 42,
+    "pub_date_end_sort": 42,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "1184"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Claudius (41 to 54)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Germanicus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "GERMANICVS CAESAR TI AVG F DIVI AVG N"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "S C in large letters at center of coin"
+    ],
+    "issue_reverse_legend_s": [
+        "S C/ TI CLAVDIVS CAESAR AVG GERM P M TRP P IMP P P"
+    ],
+    "issue_references_s": [
+        "RIC.1. Claudius 84",
+        "BMC.1. Claudius 215",
+        "Sear  1905"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f92932807d01170d"
+    ],
+    "_version_": 1667138214744293376,
+    "timestamp": "2020-05-19T16:48:17.300Z"
+}

@@ -1,0 +1,128 @@
+{
+    "id": "coin-9140",
+    "title_display": "Coin: 9140",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Siscia"
+    ],
+    "call_number_display": [
+        "Coin 9140"
+    ],
+    "call_number_browse_s": [
+        "Coin 9140"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Note: pieces of both obverse and reverse legends are missing (coin shorn off); possible [IMP LIC] of obverse, possible [AVG NN] of reverse. Reference for alternative id is RIC 7.423 number4 or 11"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "April 13, 1937"
+    ],
+    "find_feature_s": [
+        "North of cement floor II"
+    ],
+    "find_locus_s": [
+        "17-N"
+    ],
+    "find_number_s": [
+        "Ca330"
+    ],
+    "find_description_s": [
+        "4 M to 5 M,  AE.02"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9140\",\"call_number_browse\":\"Coin 9140\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 315,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5819"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_place_s": [
+        "Siscia, Illyria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Siscia"
+    ],
+    "issue_state_s": [
+        "Illyria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurel, dr. and cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "IMP LIC LICINIVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter standing l, chlamys across l shoulder, holding Victory on globe, r, leaning on sceptre, l; at l., eagle with wreath on ground"
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONSERVATORI AVGG NN"
+    ],
+    "issue_references_s": [
+        "Cohen 7 201.123",
+        "RIC 7 423.4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2aa39c0a63f637ee"
+    ],
+    "_version_": 1667138273136345088,
+    "timestamp": "2020-05-19T16:49:12.987Z"
+}

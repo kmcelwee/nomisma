@@ -1,0 +1,89 @@
+{
+    "id": "coin-6993",
+    "title_display": "Coin: 6993",
+    "pub_created_display": [
+        "sextans, Iguvium"
+    ],
+    "call_number_display": [
+        "Coin 6993"
+    ],
+    "call_number_browse_s": [
+        "Coin 6993"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bought in Platt sale, 1925, for $1.80."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22x30"
+    ],
+    "technique_s": [
+        "Cast"
+    ],
+    "weight_s": [
+        "15.36"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6993\",\"call_number_browse\":\"Coin 6993\"}}",
+    "pub_date_start_sort": -273,
+    "pub_date_end_sort": -268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sextans"
+    ],
+    "issue_number_s": [
+        "3222"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Iguvium, Umbria, Italy"
+    ],
+    "issue_city_s": [
+        "Iguvium"
+    ],
+    "issue_state_s": [
+        "Umbria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Club"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_symbol_s": [
+        "2 dots"
+    ],
+    "issue_references_s": [
+        "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  243",
+        "Haeb. pl. 81 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "98c5f0a619e1abcf"
+    ],
+    "_version_": 1667138388636991488,
+    "timestamp": "2020-05-19T16:51:03.140Z"
+}

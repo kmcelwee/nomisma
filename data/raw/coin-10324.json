@@ -1,0 +1,94 @@
+{
+    "id": "coin-10324",
+    "title_display": "Coin: 10324",
+    "pub_created_display": [
+        "Faraj Al-Nasir Nasir al-Din Abu al-Sa'adat (1399 to 1412), Aleppo"
+    ],
+    "call_number_display": [
+        "Coin 10324"
+    ],
+    "call_number_browse_s": [
+        "Coin 10324"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/23//1935"
+    ],
+    "find_feature_s": [
+        "Tomb 5"
+    ],
+    "find_locus_s": [
+        "L-24"
+    ],
+    "find_number_s": [
+        "C4557"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10324\",\"call_number_browse\":\"Coin 10324\"}}",
+    "pub_date_start_sort": 1398,
+    "pub_date_end_sort": 1413,
+    "issue_number_s": [
+        "6558"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Faraj Al-Nasir Nasir al-Din Abu al-Sa'adat (1399 to 1412)"
+    ],
+    "issue_place_s": [
+        "Aleppo, Syria, Egypt"
+    ],
+    "issue_city_s": [
+        "Aleppo"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Circle"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0641\u0631\u062c"
+    ],
+    "issue_reverse_symbol_s": [
+        "lion"
+    ],
+    "issue_references_s": [
+        "Balog Mamluk  656"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4e075f34cf683743"
+    ],
+    "_version_": 1667145142434267136,
+    "timestamp": "2020-05-19T18:38:24.061Z"
+}

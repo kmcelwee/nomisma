@@ -1,0 +1,100 @@
+{
+    "id": "coin-1431",
+    "title_display": "Coin: 1431",
+    "pub_created_display": [
+        "Tetradrachm"
+    ],
+    "call_number_display": [
+        "Coin 1431"
+    ],
+    "call_number_browse_s": [
+        "Coin 1431"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Celtic Imitation of Philip II tetradrachm"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "13.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1431\",\"call_number_browse\":\"Coin 1431\"}}",
+    "donor_s": [
+        "W.S. Watson"
+    ],
+    "pub_date_start_sort": -300,
+    "pub_date_end_sort": -275,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "828"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Celts, Europe"
+    ],
+    "issue_state_s": [
+        "Celts"
+    ],
+    "issue_region_s": [
+        "Europe"
+    ],
+    "issue_obverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate, bearded"
+    ],
+    "issue_reverse_figure_s": [
+        "Rider on walking horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "branch in both hands"
+    ],
+    "issue_reverse_attributes_s": [
+        "bird, above rider"
+    ],
+    "issue_references_s": [
+        "Celts AR  vii (v)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9a723ad94928f20c"
+    ],
+    "_version_": 1667138413147455488,
+    "timestamp": "2020-05-19T16:51:26.514Z"
+}

@@ -1,0 +1,116 @@
+{
+    "id": "coin-774",
+    "title_display": "Coin: 774",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 2 1/2 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 774"
+    ],
+    "call_number_browse_s": [
+        "Coin 774"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3/30/1938"
+    ],
+    "find_locus_s": [
+        "13-R(N)"
+    ],
+    "find_number_s": [
+        "Cb152"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "10"
+    ],
+    "weight_s": [
+        "0.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 774\",\"call_number_browse\":\"Coin 774\"}}",
+    "pub_date_start_sort": 512,
+    "pub_date_end_sort": 517,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 1/2 nummi"
+    ],
+    "issue_number_s": [
+        "310"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "?"
+    ],
+    "issue_series_s": [
+        "large flan"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_reverse_figure_description_s": [
+        "monogram of A, N, T, I, and U with circle at top of A, set in wreathe"
+    ],
+    "issue_references_s": [
+        " Anastasius I 64",
+        " Anastasius I Not (Nicomedia)",
+        "BMC.Byz. Anastasius I 59",
+        "Sear  Not",
+        "BN Anastasius I Not ( Nicomedia)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0e9ef2d2df71a80a"
+    ],
+    "_version_": 1667138453887778816,
+    "timestamp": "2020-05-19T16:52:05.369Z"
+}

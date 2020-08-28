@@ -1,0 +1,91 @@
+{
+    "id": "coin-6622",
+    "title_display": "Coin: 6622",
+    "pub_created_display": [
+        "Albert I (1909 to 1934)"
+    ],
+    "call_number_display": [
+        "Coin 6622"
+    ],
+    "call_number_browse_s": [
+        "Coin 6622"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "70"
+    ],
+    "weight_s": [
+        "121.07"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6622\",\"call_number_browse\":\"Coin 6622\"}}",
+    "donor_s": [
+        "H.K. Twitchell"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "4033"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Albert I (1909 to 1934)"
+    ],
+    "issue_place_s": [
+        "Belgium"
+    ],
+    "issue_region_s": [
+        "Belgium"
+    ],
+    "issue_obverse_figure_s": [
+        "Albert I and his wife, Elisabeth"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_legend_s": [
+        ".LL.MM.ALBERT  .et.ELISABETH"
+    ],
+    "issue_reverse_figure_s": [
+        "Four figures"
+    ],
+    "issue_reverse_figure_description_s": [
+        "half-robed woman offering wheat to family. Husband is standing, wife is sitting holding child. Ship in background"
+    ],
+    "issue_reverse_legend_s": [
+        "GENEROSITE-AMERIQUE     BELGIQUE-GRATITUDE"
+    ],
+    "issue_artists_s": [
+        "Godefroid Devreese, G. DEVREESE"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "08996153a70723fb"
+    ],
+    "_version_": 1667138364008038400,
+    "timestamp": "2020-05-19T16:50:39.650Z"
+}

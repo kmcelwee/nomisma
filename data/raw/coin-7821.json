@@ -1,0 +1,122 @@
+{
+    "id": "coin-7821",
+    "title_display": "Coin: 7821",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 7821"
+    ],
+    "call_number_browse_s": [
+        "Coin 7821"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-27-1937"
+    ],
+    "find_feature_s": [
+        "North to 4M"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca578"
+    ],
+    "find_description_s": [
+        "Basket M"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7821\",\"call_number_browse\":\"Coin 7821\"}}",
+    "pub_date_start_sort": 670,
+    "pub_date_end_sort": 690,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4920"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_workshop_s": [
+        "\u0394"
+    ],
+    "issue_series_s": [
+        "Umayyad"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "standing Constans II with long cross and globus cruciger, to his right \u0628\u0633\u0645 \u0627\u0644\u0644\u0647 to his left \u039a\u0391\u039b\u039f\u039d"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0628\u0633\u0645 \u0627\u0644\u0644\u0647"
+    ],
+    "issue_reverse_figure_s": [
+        "Square M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "M, above christogram, offz. \u0394, and \u0637\u06cc\u0628 ; to right \u0395\u039c\u0397, to the left CIC"
+    ],
+    "issue_references_s": [
+        "BMC 9-10 27ff.",
+        "Ash. 1  532"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "66cce47607f75f2a"
+    ],
+    "_version_": 1667138197715419136,
+    "timestamp": "2020-05-19T16:48:01.060Z"
+}

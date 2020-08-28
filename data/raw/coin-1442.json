@@ -1,0 +1,116 @@
+{
+    "id": "coin-1442",
+    "title_display": "Coin: 1442",
+    "pub_created_display": [
+        "sextans, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1442"
+    ],
+    "call_number_browse_s": [
+        "Coin 1442"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "On obverse side, one of pellets off flan."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "5.96"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1442\",\"call_number_browse\":\"Coin 1442\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": -169,
+    "pub_date_end_sort": -158,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "sextans"
+    ],
+    "issue_number_s": [
+        "839"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_master_s": [
+        "C. Scribonius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Mercury"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head of Mercury r.; above, two pellets."
+    ],
+    "issue_obverse_attributes_s": [
+        "pellet, Two pellets above head, arranged horizontally."
+    ],
+    "issue_reverse_figure_s": [
+        "Prow"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Prow r.; above, CINA; before, |; below, ROMA."
+    ],
+    "issue_reverse_legend_s": [
+        "CINA; ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "pellet, Two pellets before prow, arranged vertically.",
+        "I, Before prow.",
+        "line, Border"
+    ],
+    "issue_references_s": [
+        "RRC  178/5",
+        "Syd.  368d",
+        "Sear  1271"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b2e60bc19b1e08db"
+    ],
+    "_version_": 1667138412993314816,
+    "timestamp": "2020-05-19T16:51:26.366Z"
+}

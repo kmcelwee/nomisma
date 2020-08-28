@@ -1,0 +1,106 @@
+{
+    "id": "coin-11394",
+    "title_display": "Coin: 11394",
+    "pub_created_display": [
+        "Constantine V (741 to 775), half follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 11394"
+    ],
+    "call_number_browse_s": [
+        "Coin 11394"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "1.76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11394\",\"call_number_browse\":\"Coin 11394\"}}",
+    "donor_s": [
+        "Peter Donald"
+    ],
+    "pub_date_start_sort": 769,
+    "pub_date_end_sort": 775,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half follis"
+    ],
+    "issue_number_s": [
+        "7559"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Constantine V (741 to 775)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constantine V, left; Leo IV, right; seated on throne; cross between heads; arms resting"
+    ],
+    "issue_obverse_legend_s": [
+        "no legend"
+    ],
+    "issue_reverse_symbol_s": [
+        "K"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large K at center; to left, X X X (vertically); to right, N N N (vertically)"
+    ],
+    "issue_reverse_legend_s": [
+        "X X X; N N N"
+    ],
+    "issue_references_s": [
+        "DOC 308 14.1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "df2c57b324bcb9d5"
+    ],
+    "_version_": 1667138162131992576,
+    "timestamp": "2020-05-19T16:47:27.127Z"
+}

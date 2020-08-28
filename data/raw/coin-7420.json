@@ -1,0 +1,128 @@
+{
+    "id": "coin-7420",
+    "title_display": "Coin: 7420",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7420"
+    ],
+    "call_number_browse_s": [
+        "Coin 7420"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-7-1937"
+    ],
+    "find_feature_s": [
+        "South-east corner of dig II 1.70-2.30"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca230"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "2.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7420\",\"call_number_browse\":\"Coin 7420\"}}",
+    "pub_date_start_sort": 654,
+    "pub_date_end_sort": 655,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4643"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_workshop_s": [
+        "A"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Constans II standing, facing; in r. hand, holds long cross; l. obscure"
+    ],
+    "issue_obverse_legend_s": [
+        "E to left of emperor"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "large M, illegible mark above"
+    ],
+    "issue_reverse_legend_s": [
+        "large M, l. [A]NA, r. [N]E[O], A beneath, in ex. XIIII"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 170c",
+        "DOC vol. 2, page 451 72",
+        "BL vol. I, page 346 23",
+        "BMC.Byz. vol. I, page 272 147",
+        "Sear page 210 1007"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "168354a0db684ef7"
+    ],
+    "_version_": 1667138257782046720,
+    "timestamp": "2020-05-19T16:48:58.345Z"
+}

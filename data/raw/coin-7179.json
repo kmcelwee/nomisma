@@ -1,0 +1,97 @@
+{
+    "id": "coin-7179",
+    "title_display": "Coin: 7179",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Syracuse"
+    ],
+    "call_number_display": [
+        "Coin 7179"
+    ],
+    "call_number_browse_s": [
+        "Coin 7179"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "5.04"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7179\",\"call_number_browse\":\"Coin 7179\"}}",
+    "pub_date_start_sort": 642,
+    "pub_date_end_sort": 643,
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4439"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Syracuse, Sicily, Byzantium"
+    ],
+    "issue_city_s": [
+        "Syracuse"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Constans II, beardless, facing; wears crown with cross and paludamentum and cuirass; in r., globus cruciger"
+    ],
+    "issue_obverse_legend_s": [
+        "[INP\u0404R] CONST"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_legend_s": [
+        "large m, large sc in ex. With small s,  [ANA] vertically on l., N\u0404O[S] vertically on r."
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 204",
+        "BMC.Byz. vol. I, page 301 343",
+        "Sear page 222 1103",
+        "DOC vol. 2, page 399 9"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3d5fd944de1929d4"
+    ],
+    "_version_": 1667138357417738240,
+    "timestamp": "2020-05-19T16:50:33.368Z"
+}

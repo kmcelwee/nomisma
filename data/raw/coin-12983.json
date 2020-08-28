@@ -1,0 +1,103 @@
+{
+    "id": "coin-12983",
+    "title_display": "Coin: 12983",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 12983"
+    ],
+    "call_number_browse_s": [
+        "Coin 12983"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19.39"
+    ],
+    "weight_s": [
+        "3.862"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12983\",\"call_number_browse\":\"Coin 12983\"}}",
+    "pub_date_start_sort": -109,
+    "pub_date_end_sort": -108,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8490"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Q. Lutatius Cerco"
+    ],
+    "issue_place_s": [
+        "Rome"
+    ],
+    "issue_region_s": [
+        "Rome"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "6-point asterisk"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "ROMA CERCO"
+    ],
+    "issue_reverse_figure_s": [
+        "Ship"
+    ],
+    "issue_reverse_symbol_s": [
+        "oak wreath"
+    ],
+    "issue_reverse_part_s": [
+        "sailing"
+    ],
+    "issue_reverse_orientation_s": [
+        "rowed right"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Q is below Q LUTATI"
+    ],
+    "issue_reverse_legend_s": [
+        "Q.LUTATI Q"
+    ],
+    "issue_references_s": [
+        "RRC  305-1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "587d2ee92a51896e"
+    ],
+    "_version_": 1667138315995840512,
+    "timestamp": "2020-05-19T16:49:53.863Z"
+}

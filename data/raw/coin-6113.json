@@ -1,0 +1,115 @@
+{
+    "id": "coin-6113",
+    "title_display": "Coin: 6113",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 5 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 6113"
+    ],
+    "call_number_browse_s": [
+        "Coin 6113"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/14/1932"
+    ],
+    "find_feature_s": [
+        "cistern"
+    ],
+    "find_number_s": [
+        "670"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "1.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6113\",\"call_number_browse\":\"Coin 6113\"}}",
+    "pub_date_start_sort": 491,
+    "pub_date_end_sort": 518,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "5 nummi"
+    ],
+    "issue_number_s": [
+        "3531"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "\u0394"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANAST SIUSPPAVC"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0404"
+    ],
+    "issue_reverse_legend_s": [
+        "A\u0394N"
+    ],
+    "issue_references_s": [
+        "BN  page 33, 05",
+        "DOC  49d",
+        "MIB  63",
+        "BMC.Byz.  72"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f2139ea5b011c13b"
+    ],
+    "_version_": 1667138376277426176,
+    "timestamp": "2020-05-19T16:50:51.352Z"
+}

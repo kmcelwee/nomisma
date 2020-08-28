@@ -1,0 +1,100 @@
+{
+    "id": "coin-13699",
+    "title_display": "Coin: 13699",
+    "pub_created_display": [
+        "Tetradrachm, Athens"
+    ],
+    "call_number_display": [
+        "Coin 13699"
+    ],
+    "call_number_browse_s": [
+        "Coin 13699"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "16.92"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13699\",\"call_number_browse\":\"Coin 13699\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "8762"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Mikion and Eurykleides"
+    ],
+    "issue_place_s": [
+        "Athens, Greece"
+    ],
+    "issue_city_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "ring of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Owl"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "owl standing on amphora, wings closed, wreath of olives, 2 standing figures field right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0398\u0395, \u039c\u0399\u039a\u0399\u039f\u039d \u0395\u03a5\u03a1\u03a5\u039a\u039b\u0395 \u0396\u03a9 \u039a\u03a1\u0391\u03a4\u0397\u03a3, \u0395 on amphora, \u039c\u0395 below"
+    ],
+    "issue_reverse_attributes_s": [
+        "Chronology, date acc to Thompson, other 3 decades later"
+    ],
+    "issue_references_s": [
+        "The New Style Coinage of Athens p.189 483ab"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "7e2f9dfdc2e1ce46"
+    ],
+    "_version_": 1667138520740790272,
+    "timestamp": "2020-05-19T16:53:09.123Z"
+}

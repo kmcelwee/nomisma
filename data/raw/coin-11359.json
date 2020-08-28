@@ -1,0 +1,98 @@
+{
+    "id": "coin-11359",
+    "title_display": "Coin: 11359",
+    "pub_created_display": [
+        "Shapur II, 1/6 \u0394"
+    ],
+    "call_number_display": [
+        "Coin 11359"
+    ],
+    "call_number_browse_s": [
+        "Coin 11359"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "81 % Ag; 0.63 Au; 100 mg Ag"
+    ],
+    "notes_display": [
+        "Edges chipped; Analysis by A.A. Gordus, University of Michigan 1974, by Neutron activation of streak"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "12"
+    ],
+    "weight_s": [
+        "1.62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11359\",\"call_number_browse\":\"Coin 11359\"}}",
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1/6 \u0394"
+    ],
+    "issue_number_s": [
+        "7526"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint IX (\"Kabul\")"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, diadem ribbons commencing above ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "no legend"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; shaft shown with three vertical lines; four altar slabs; altar flames depicted with vertical strockes, to the left and right mushroom-shaped bases supporting lion-paw structures; left and right of alter table pendent diadem ribbon; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint IX (\"Kabul\") Ib1/2a no. 105: 44?",
+        "  232"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6e711d79cceccdfc"
+    ],
+    "_version_": 1667138134389817344,
+    "timestamp": "2020-05-19T16:47:00.672Z"
+}

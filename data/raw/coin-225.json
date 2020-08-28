@@ -1,0 +1,95 @@
+{
+    "id": "coin-225",
+    "title_display": "Coin: 225",
+    "pub_created_display": [
+        "Charles the Bald (840 to 877), penny, Rennes"
+    ],
+    "call_number_display": [
+        "Coin 225"
+    ],
+    "call_number_browse_s": [
+        "Coin 225"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "1.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 225\",\"call_number_browse\":\"Coin 225\"}}",
+    "pub_date_start_sort": 864,
+    "pub_date_end_sort": 877,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "119"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Charles the Bald (840 to 877)"
+    ],
+    "issue_series_s": [
+        "Frankish"
+    ],
+    "issue_place_s": [
+        "Rennes, France, Carolingian Empire"
+    ],
+    "issue_city_s": [
+        "Rennes"
+    ],
+    "issue_state_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "Carolingian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Monogram"
+    ],
+    "issue_obverse_figure_description_s": [
+        "KRLS in monogram"
+    ],
+    "issue_obverse_legend_s": [
+        "+GRATIAD-IREX"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_legend_s": [
+        "+HR'ED\u25caNISCIVITAS"
+    ],
+    "issue_references_s": [
+        "MG  1045",
+        "MEC.1  889"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "36ba52ed542702d5"
+    ],
+    "_version_": 1667138448100687872,
+    "timestamp": "2020-05-19T16:51:59.848Z"
+}

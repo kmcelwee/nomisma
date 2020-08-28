@@ -1,0 +1,118 @@
+{
+    "id": "coin-7442",
+    "title_display": "Coin: 7442",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7442"
+    ],
+    "call_number_browse_s": [
+        "Coin 7442"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.742"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7442\",\"call_number_browse\":\"Coin 7442\"}}",
+    "donor_s": [
+        "Spink"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4661"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Sextus Iulius Caesar"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "anchor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Star before. Anchor behind."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Venus"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Venus r., in biga. In l. hand, reins. Cupid behind, crowning Venus. Legends above and below: ROMA above; SEX.IULI and CAISAR below; VL in monogram; CAISAR in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA; SEX.IVLI; CAISAR"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border.",
+        "m4661, Monogram."
+    ],
+    "issue_references_s": [
+        "RRC  258/1",
+        "Syd.  476",
+        "Sear Volume I 134"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "958ee37a19332b0d"
+    ],
+    "_version_": 1667138258243420160,
+    "timestamp": "2020-05-19T16:48:58.788Z"
+}

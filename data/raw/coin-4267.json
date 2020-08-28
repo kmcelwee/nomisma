@@ -1,0 +1,88 @@
+{
+    "id": "coin-4267",
+    "title_display": "Coin: 4267",
+    "pub_created_display": [
+        "ducat"
+    ],
+    "call_number_display": [
+        "Coin 4267"
+    ],
+    "call_number_browse_s": [
+        "Coin 4267"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Die duplicate coin ID no. 4266, specific gravity 16.3428"
+    ],
+    "die_axis_s": [
+        "9"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.532"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4267\",\"call_number_browse\":\"Coin 4267\"}}",
+    "donor_s": [
+        "Theodore Sarmas"
+    ],
+    "pub_date_start_sort": 1400,
+    "pub_date_end_sort": 1413,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "ducat"
+    ],
+    "issue_number_s": [
+        "2417"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_obverse_legend_s": [
+        "A.N(backwards N)I_ _.AE.ISTE. | .SM.VE(sideways)_E(sideways)TI | DVX"
+    ],
+    "issue_reverse_figure_s": [
+        "Christ"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_reverse_legend_s": [
+        ".SI.TTN.9C.DA(upside down)T.A(upside down). .KEC.IS.TE.C.VCA(upside down)T."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "31f97bcb5ba3605b"
+    ],
+    "_version_": 1667138235575304192,
+    "timestamp": "2020-05-19T16:48:37.169Z"
+}

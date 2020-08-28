@@ -1,0 +1,98 @@
+{
+    "id": "coin-6793",
+    "title_display": "Coin: 6793",
+    "pub_created_display": [
+        "Levon V (1374 to 1375), billon"
+    ],
+    "call_number_display": [
+        "Coin 6793"
+    ],
+    "call_number_browse_s": [
+        "Coin 6793"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "0.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6793\",\"call_number_browse\":\"Coin 6793\"}}",
+    "pub_date_start_sort": 1374,
+    "pub_date_end_sort": 1375,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon"
+    ],
+    "issue_number_s": [
+        "4202"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Levon V (1374 to 1375)"
+    ],
+    "issue_place_s": [
+        "Cilicia, Armenia"
+    ],
+    "issue_state_s": [
+        "Cilicia"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crowned"
+    ],
+    "issue_obverse_legend_s": [
+        "\u053c..."
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_legend_s": [
+        "..."
+    ],
+    "issue_references_s": [
+        "Bedoukian  2237",
+        "Nercessian  500"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a83989e31950bb4b"
+    ],
+    "_version_": 1667138365320855552,
+    "timestamp": "2020-05-19T16:50:40.902Z"
+}

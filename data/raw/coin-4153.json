@@ -1,0 +1,112 @@
+{
+    "id": "coin-4153",
+    "title_display": "Coin: 4153",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4153"
+    ],
+    "call_number_browse_s": [
+        "Coin 4153"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18.6"
+    ],
+    "weight_s": [
+        "3.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4153\",\"call_number_browse\":\"Coin 4153\"}}",
+    "pub_date_start_sort": -47,
+    "pub_date_end_sort": -47,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2365"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "A. Licinius Nerva"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Fides"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate; before, FIDES downwards; behind, NERVA downwards; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "FIDES | A LICINIVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Horseman"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "drags naked warrior with r. hand; warrior holds shield in l. hand and sword in r. hand; III on l., VIR on r., rest of legend below; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "NERVA | III VIR"
+    ],
+    "issue_reverse_attributes_s": [
+        "shield, held in l. hand of warrior",
+        "sword, held in r. hand of warrior"
+    ],
+    "issue_references_s": [
+        "RRC  454/2",
+        "Syd.  955",
+        "Sear  430"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "475e73851771e475"
+    ],
+    "_version_": 1667138490492518400,
+    "timestamp": "2020-05-19T16:52:40.277Z"
+}

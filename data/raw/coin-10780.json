@@ -1,0 +1,94 @@
+{
+    "id": "coin-10780",
+    "title_display": "Coin: 10780",
+    "pub_created_display": [
+        "Shapur II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 10780"
+    ],
+    "call_number_browse_s": [
+        "Coin 10780"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10780\",\"call_number_browse\":\"Coin 10780\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "6940"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint II (\"West\")"
+    ],
+    "issue_place_s": [
+        "Sasanian Empire"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; pearl diadem, diadem ribbons commencing above ball of hair, pointing to the left, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy \u0161hpwhly MRKAn MRKA 'yr'n MNW ctry yzd'n| mazd\u0113sn bay \u0160\u0101buhr \u0161\u0101h\u0101n \u0161\u0101h \u0112ran k\u0113 \u010dihr az yazd\u0101n| \"the Mazda-worshiping, divine Shapur, King of Kings of the Iranians, whose image| brilliance is from the gods\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; square altar shaft; to the left and right of the shaft ribbons pointing downwards, connected across the shaft; four altar plates; above altar flames depicted by vertical lines; to the left of flames symbol (SNS 3, var.25), to the right symbol (SNS 3, var. 33); to the left and the right of the altar attendant with stylized mural crown, holding a barsom in both hands, left attendant with korymbos,  right  without korymbos, both facing inwards; left with korymbos, right without; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "1 h l. i. NWRA ZY, 11 h l. o. \u0160hpwhly| \u0101dur \u012b \u0160\u0101buhr| \u201cthe fire of Shapur\u201d"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint II (\"West\") Type Ib1/2a1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "18f35756e40adde3"
+    ],
+    "_version_": 1667138178347171840,
+    "timestamp": "2020-05-19T16:47:42.590Z"
+}

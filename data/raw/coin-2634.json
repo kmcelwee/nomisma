@@ -1,0 +1,94 @@
+{
+    "id": "coin-2634",
+    "title_display": "Coin: 2634",
+    "pub_created_display": [
+        "Manfred (1258 to 1266), denaro, Messina"
+    ],
+    "call_number_display": [
+        "Coin 2634"
+    ],
+    "call_number_browse_s": [
+        "Coin 2634"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "0.3"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2634\",\"call_number_browse\":\"Coin 2634\"}}",
+    "pub_date_start_sort": 1258,
+    "pub_date_end_sort": 1266,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "1655"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "Manfred (1258 to 1266)"
+    ],
+    "issue_place_s": [
+        "Messina, Sicily, Italy"
+    ],
+    "issue_city_s": [
+        "Messina"
+    ],
+    "issue_state_s": [
+        "Sicily"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_symbol_s": [
+        "AP"
+    ],
+    "issue_obverse_figure_description_s": [
+        "AP surrounded by two pellets;"
+    ],
+    "issue_obverse_legend_s": [
+        "\u253cMAYNFRIDVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_figure_description_s": [
+        "star in each quadrant of cross"
+    ],
+    "issue_reverse_legend_s": [
+        "\u253cREX SICILIE"
+    ],
+    "issue_references_s": [
+        "MEC 14  602"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3ccbb3466f2b1344"
+    ],
+    "_version_": 1667138160005480448,
+    "timestamp": "2020-05-19T16:47:25.099Z"
+}

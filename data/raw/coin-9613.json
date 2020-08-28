@@ -1,0 +1,106 @@
+{
+    "id": "coin-9613",
+    "title_display": "Coin: 9613",
+    "pub_created_display": [
+        "John III Ducas (1221 to 1254), aspron trachy nomisma, Magnesia"
+    ],
+    "call_number_display": [
+        "Coin 9613"
+    ],
+    "call_number_browse_s": [
+        "Coin 9613"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "1.44"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9613\",\"call_number_browse\":\"Coin 9613\"}}",
+    "pub_date_start_sort": 1221,
+    "pub_date_end_sort": 1254,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "6114"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "John III Ducas (1221 to 1254)"
+    ],
+    "issue_place_s": [
+        "Magnesia, Nicaea, Byzantium"
+    ],
+    "issue_city_s": [
+        "Magnesia"
+    ],
+    "issue_state_s": [
+        "Nicaea"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Theodore"
+    ],
+    "issue_obverse_part_s": [
+        "half-length"
+    ],
+    "issue_obverse_orientation_s": [
+        "face foreward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Half-legnth figure of St. Theodore nimbate, wearing tunic and breastplate; holds r. hand swrod on shoulder and in l. shield"
+    ],
+    "issue_obverse_legend_s": [
+        "in two columnar groups \u039f \u0391\u0393\u0399\u039fC \u0398\u0395\u039f\u0394\u039f\u03a1\u039fC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Full-legnth emperor wearing stemma, divitision, jewled simplified loros and sagion; holds r. labarum-headed scepter and l. patriarchal cross on globe, holds it by shaft"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0399n two columnar groups \u0399\u03a8 \u0394\u0395C\u03a0\u039f\u03a4\u0395C \u039f \u0394\u039f\u039a\u0391C"
+    ],
+    "issue_references_s": [
+        "DOC vol 4 pt. 2 p. 506 50"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4624e9c094c41592"
+    ],
+    "_version_": 1667138143736823808,
+    "timestamp": "2020-05-19T16:47:09.585Z"
+}

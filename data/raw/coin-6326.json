@@ -1,0 +1,70 @@
+{
+    "id": "coin-6326",
+    "title_display": "Coin: 6326",
+    "pub_created_display": [
+        "20 Shillings"
+    ],
+    "call_number_display": [
+        "Coin 6326"
+    ],
+    "call_number_browse_s": [
+        "Coin 6326"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "67x95"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6326\",\"call_number_browse\":\"Coin 6326\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "20 Shillings"
+    ],
+    "issue_number_s": [
+        "3757"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_series_s": [
+        "July 17, 1775"
+    ],
+    "issue_place_s": [
+        "Virginia, United States of America"
+    ],
+    "issue_state_s": [
+        "Virginia"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Virginia coat of arms"
+    ],
+    "issue_obverse_legend_s": [
+        "TWENTY SHILLINGS Current Money of VIRGINIA PURSUANT to Ordinance of CONVENTION Passed 17 July 1775"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "51a5314596a4a5ea"
+    ],
+    "_version_": 1667138372569661440,
+    "timestamp": "2020-05-19T16:50:47.817Z"
+}

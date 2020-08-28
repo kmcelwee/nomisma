@@ -1,0 +1,114 @@
+{
+    "id": "coin-2513",
+    "title_display": "Coin: 2513",
+    "pub_created_display": [
+        "Tancred (1101 to 1112), copper, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 2513"
+    ],
+    "call_number_browse_s": [
+        "Coin 2513"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9/19/1934"
+    ],
+    "find_feature_s": [
+        "east of the street, 45 cm below the basalt pavemen"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "c3593"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "3.08"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2513\",\"call_number_browse\":\"Coin 2513\"}}",
+    "pub_date_start_sort": 1101,
+    "pub_date_end_sort": 1112,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "copper"
+    ],
+    "issue_number_s": [
+        "1607"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Tancred (1101 to 1112)"
+    ],
+    "issue_series_s": [
+        "large image"
+    ],
+    "issue_place_s": [
+        "Antioch, Antioch, Crusader"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Antioch"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "S. Peter"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "nimbate, cross in l. hand, r. hand blessing"
+    ],
+    "issue_obverse_legend_s": [
+        "\u039f\u03a0\u0395 \u03a4\u039fC"
+    ],
+    "issue_reverse_legend_s": [
+        "+ | \u039a\u039f\u0392\u039f\u0399 | \u03a6\u0397\u03a4\u039f\u0394V | \u039b\u039fC\u039fV\u03a4 | \u0391\u039d\u039a\u03a1\u0399 | +"
+    ],
+    "issue_references_s": [
+        "Schl.  pl. II 6",
+        "Malloy  p. 199 3a",
+        "Ox.  49"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b798564f3677fb8f"
+    ],
+    "_version_": 1667138475974983680,
+    "timestamp": "2020-05-19T16:52:26.432Z"
+}

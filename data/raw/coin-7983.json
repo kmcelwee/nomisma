@@ -1,0 +1,125 @@
+{
+    "id": "coin-7983",
+    "title_display": "Coin: 7983",
+    "pub_created_display": [
+        "Constans II (641 to 668), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7983"
+    ],
+    "call_number_browse_s": [
+        "Coin 7983"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9-18-1934"
+    ],
+    "find_feature_s": [
+        "MSD 3"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "C3585"
+    ],
+    "find_description_s": [
+        "adl\u2026ent to the top of the stone under column 8"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7983\",\"call_number_browse\":\"Coin 7983\"}}",
+    "pub_date_start_sort": 642,
+    "pub_date_end_sort": 648,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5016"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "irregular"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor, standing; holds long cross in r. hand, gl. cr. in l."
+    ],
+    "issue_obverse_legend_s": [
+        "[EN]TOU[ligature][TO NIKA]"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "m, small cross above"
+    ],
+    "issue_reverse_legend_s": [
+        "m, cross above, l. ANA"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 162 or 167",
+        "DOC vol. 2, page 442-449 class I or class IV",
+        "BL vol. I, page 344-345 type 1 or type 4",
+        "BMC.Byz. vol. I, page 268 101ff",
+        "Sear  1000 or 1005"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9d46b889cc1345ec"
+    ],
+    "_version_": 1667138350377598976,
+    "timestamp": "2020-05-19T16:50:26.653Z"
+}

@@ -1,0 +1,85 @@
+{
+    "id": "coin-9490",
+    "title_display": "Coin: 9490",
+    "pub_created_display": [
+        "penny, Maguelonne"
+    ],
+    "call_number_display": [
+        "Coin 9490"
+    ],
+    "call_number_browse_s": [
+        "Coin 9490"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Hoard"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "05/04/1932"
+    ],
+    "find_locus_s": [
+        "N-9-SE"
+    ],
+    "find_number_s": [
+        "C1040h"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "18.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9490\",\"call_number_browse\":\"Coin 9490\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "6078"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_place_s": [
+        "Maguelonne, France"
+    ],
+    "issue_city_s": [
+        "Maguelonne"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_s": [
+        "4 Circles"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "657ac404ba5fc076"
+    ],
+    "_version_": 1667138140042690560,
+    "timestamp": "2020-05-19T16:47:06.060Z"
+}

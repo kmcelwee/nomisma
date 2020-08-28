@@ -1,0 +1,98 @@
+{
+    "id": "coin-1434",
+    "title_display": "Coin: 1434",
+    "pub_created_display": [
+        "Augustus (-30 to 14), denarius"
+    ],
+    "call_number_display": [
+        "Coin 1434"
+    ],
+    "call_number_browse_s": [
+        "Coin 1434"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1434\",\"call_number_browse\":\"Coin 1434\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -18,
+    "pub_date_end_sort": -17,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "832"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Spain or Gaul, Roman Empire"
+    ],
+    "issue_state_s": [
+        "Spain or Gaul"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "S.P.Q.R.IMP.CAESARI.AVG.COS.XI.TR.POT.VI."
+    ],
+    "issue_reverse_figure_s": [
+        "Quadriga"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Triumphal arch with three openings; above it, quadriga facing, flanked by two standing figures holding signa militaria"
+    ],
+    "issue_reverse_legend_s": [
+        "CIVIB.ET.SIGN.MILIT.A.PART.RECV-PER."
+    ],
+    "issue_references_s": [
+        "RIC.1.  313",
+        "BMC.1.  428"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "246e398f1b87ef05"
+    ],
+    "_version_": 1667138463408848896,
+    "timestamp": "2020-05-19T16:52:14.447Z"
+}

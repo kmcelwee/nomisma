@@ -1,0 +1,97 @@
+{
+    "id": "coin-1846",
+    "title_display": "Coin: 1846",
+    "pub_created_display": [
+        "tetrobol, Olynthus"
+    ],
+    "call_number_display": [
+        "Coin 1846"
+    ],
+    "call_number_browse_s": [
+        "Coin 1846"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "2.36"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1846\",\"call_number_browse\":\"Coin 1846\"}}",
+    "pub_date_start_sort": -433,
+    "pub_date_end_sort": -348,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "tetrobol"
+    ],
+    "issue_number_s": [
+        "1202"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Olynthus, Macedonia, Greece"
+    ],
+    "issue_city_s": [
+        "Olynthus"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate, border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Lyre"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "legend around lyre, whole in incuse square"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a7\u0391\u039b\u039a\u0399\u0394\u0395\u03a9\u039d"
+    ],
+    "issue_references_s": [
+        "BMC Mac. Macedonia p.68-13"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2010faadf17fddb4"
+    ],
+    "_version_": 1667138214969737216,
+    "timestamp": "2020-05-19T16:48:17.519Z"
+}

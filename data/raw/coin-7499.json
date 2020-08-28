@@ -1,0 +1,118 @@
+{
+    "id": "coin-7499",
+    "title_display": "Coin: 7499",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7499"
+    ],
+    "call_number_browse_s": [
+        "Coin 7499"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "3.918"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7499\",\"call_number_browse\":\"Coin 7499\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4691"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Gaius Caecilius Metellus Caprarius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet, w/ star on flap. Star before. Legend behind, downwards."
+    ],
+    "issue_obverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter l. in elephant biga; in r. hand, reins;  l. hand, thunderbolt. Victory flying above, crowning Jupiter. Legend below in exergue; ME in monogram."
+    ],
+    "issue_reverse_legend_s": [
+        "C.METELLVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Dot border.",
+        "m4691, Monogram."
+    ],
+    "issue_references_s": [
+        "RRC  269/1",
+        "Syd.  485",
+        "Sear Volume I 145"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6f5a0bc91044b2dc"
+    ],
+    "_version_": 1667138194476367872,
+    "timestamp": "2020-05-19T16:47:57.973Z"
+}

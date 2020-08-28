@@ -1,0 +1,114 @@
+{
+    "id": "coin-8795",
+    "title_display": "Coin: 8795",
+    "pub_created_display": [
+        "Alexius I (1081 to 1118), nomisma histamenon, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 8795"
+    ],
+    "call_number_browse_s": [
+        "Coin 8795"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Concave; poddibly clipped"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "4.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8795\",\"call_number_browse\":\"Coin 8795\"}}",
+    "pub_date_start_sort": 1082,
+    "pub_date_end_sort": 1087,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "nomisma histamenon"
+    ],
+    "issue_number_s": [
+        "5595"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_ruler_s": [
+        "Alexius I (1081 to 1118)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Macedonia, Greece"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Greece"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust of Christ, with nimbus; holding book in left hand;double border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "+KER[O \u039b\u039b\u0395\u039e\u0399W]"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and St. Demetrius"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing away from each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Full-figure of emperor facing on right; St. Demetrios (facing right, unbearded) on left; saint handing a patriarchal cross (standing on two steps and a globule) to emperor"
+    ],
+    "issue_reverse_legend_s": [
+        ".\u0394\u0399\u039c\u03a4  \u0394\u0395C\u03a0TT"
+    ],
+    "issue_references_s": [
+        "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection Vol. 4, Part 1, Alexius I 5a.2v",
+        "BMC Alexius I no close parallels",
+        "BL Alexis I no close parallels"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5bfc13ea14e1cfbc"
+    ],
+    "_version_": 1667138185913696256,
+    "timestamp": "2020-05-19T16:47:49.808Z"
+}

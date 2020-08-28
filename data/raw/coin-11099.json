@@ -1,0 +1,100 @@
+{
+    "id": "coin-11099",
+    "title_display": "Coin: 11099",
+    "pub_created_display": [
+        "Zamasp, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 11099"
+    ],
+    "call_number_browse_s": [
+        "Coin 11099"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obv./rev. blind spot"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "4.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11099\",\"call_number_browse\":\"Coin 11099\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 496,
+    "pub_date_end_sort": 499,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7260"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Zamasp"
+    ],
+    "issue_series_s": [
+        "MY Type Ia/1a"
+    ],
+    "issue_place_s": [
+        "Meshan, Sasanian Empire"
+    ],
+    "issue_state_s": [
+        "Meshan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Zamasp on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with two mural elements; dot, crescent, dot, crescent above covered korymbos; two ribbons commencing to the left below crescent, pointing to the left; double pearl diadem, diadem ribbons commencing to the left behind the neck; pointing upwards; earing consisting of three elements; neck-line of tunica edged with row of pearls; crescent on both shoulders; double row of pearls running from the shoulders to the breast (varying decoration, see below); to the right small bust to the left; crown with two mural elements, crown cap, above dot, above korymbos; holding in left hand diadem ribbon with broad, ribbed ends, pointing downwards; rigged border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l.o. g'm| \u011eam (\u0101sp)| \"Zamasp\"; B5"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of three elements; round altar shaft; to the left and right of the shaft ribbons pointing downwards, three altar slabs; altar flames rendered as four tiers of four, three, two and one strokes respectively; star to the left of altar flames, crescent to the right; to the left and the right of altar attendant with stylized crown of Zamasp, right hand raised, both figures facing inwards; outlines of attendant\u2019s bodies adorned with three dots to the left and to the right; at 3 h mint signature, at 9 h date; ridged border"
+    ],
+    "issue_reverse_legend_s": [
+        "RY2"
+    ],
+    "issue_references_s": [
+        "SNS 3 MY Type Ia/1a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "171a0c5ef2f9cd88"
+    ],
+    "_version_": 1667138163175325696,
+    "timestamp": "2020-05-19T16:47:28.121Z"
+}

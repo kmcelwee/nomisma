@@ -1,0 +1,110 @@
+{
+    "id": "coin-9223",
+    "title_display": "Coin: 9223",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9223"
+    ],
+    "call_number_browse_s": [
+        "Coin 9223"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin very corroded; attribution taken from Waage's notes on envelope;\r\ncoin is broken; current weight is 2.40 grams;\r\nRIC is approximate; mint illegible"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-8-1932"
+    ],
+    "find_feature_s": [
+        "Wall"
+    ],
+    "find_locus_s": [
+        "M-11-NW"
+    ],
+    "find_number_s": [
+        "417"
+    ],
+    "find_description_s": [
+        "already broken, barely legible"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9223\",\"call_number_browse\":\"Coin 9223\"}}",
+    "pub_date_start_sort": 314,
+    "pub_date_end_sort": 315,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5891"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laur., draped"
+    ],
+    "issue_obverse_legend_s": [
+        "illegible"
+    ],
+    "issue_reverse_legend_s": [
+        "SOLI INVI[CTO COMITI]"
+    ],
+    "issue_references_s": [
+        "RIC.7 VII ",
+        "Cohen VII, 292 546"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5356c17fac554bd1"
+    ],
+    "_version_": 1667138147648012288,
+    "timestamp": "2020-05-19T16:47:13.315Z"
+}

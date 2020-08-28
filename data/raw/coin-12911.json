@@ -1,0 +1,82 @@
+{
+    "id": "coin-12911",
+    "title_display": "Coin: 12911",
+    "pub_created_display": [
+        "Palmyra"
+    ],
+    "call_number_display": [
+        "Coin 12911"
+    ],
+    "call_number_browse_s": [
+        "Coin 12911"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Attribution not ceratin due to the erosion of the obverse"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "12-F"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "8"
+    ],
+    "weight_s": [
+        "0.22"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12911\",\"call_number_browse\":\"Coin 12911\"}}",
+    "pub_date_start_sort": 100,
+    "pub_date_end_sort": 260,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "8458"
+    ],
+    "issue_place_s": [
+        "Palmyra, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Palmyra"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_reverse_figure_s": [
+        "Palm branch"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "347b105bad0c6bbd"
+    ],
+    "_version_": 1667138313988866048,
+    "timestamp": "2020-05-19T16:49:51.949Z"
+}

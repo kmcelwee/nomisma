@@ -1,0 +1,79 @@
+{
+    "id": "coin-9347",
+    "title_display": "Coin: 9347",
+    "pub_created_display": [
+        "dirham"
+    ],
+    "call_number_display": [
+        "Coin 9347"
+    ],
+    "call_number_browse_s": [
+        "Coin 9347"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "24"
+    ],
+    "weight_s": [
+        "3.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9347\",\"call_number_browse\":\"Coin 9347\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "token"
+    ],
+    "issue_denomination_s": [
+        "dirham"
+    ],
+    "issue_number_s": [
+        "5968"
+    ],
+    "issue_metal_s": [
+        "Glass"
+    ],
+    "issue_color_s": [
+        "green"
+    ],
+    "issue_era_s": [
+        "Hejira"
+    ],
+    "issue_place_s": [
+        "Misr , Egypt"
+    ],
+    "issue_state_s": [
+        "Misr "
+    ],
+    "issue_region_s": [
+        "Egypt"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Three lines and a decorative feature below; circular border"
+    ],
+    "issue_references_s": [
+        "The Fatimid Glass Jeton  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ac85070ce0ed9dcb"
+    ],
+    "_version_": 1667145544340865024,
+    "timestamp": "2020-05-19T19:02:25.110Z"
+}

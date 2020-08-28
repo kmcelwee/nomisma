@@ -1,0 +1,82 @@
+{
+    "id": "coin-3152",
+    "title_display": "Coin: 3152",
+    "pub_created_display": [
+        "Qian Long \u4e7e\u9686 (1736 to 1796), Bei Jing"
+    ],
+    "call_number_display": [
+        "Coin 3152"
+    ],
+    "call_number_browse_s": [
+        "Coin 3152"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3152\",\"call_number_browse\":\"Coin 3152\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1736,
+    "pub_date_end_sort": 1796,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "1930"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Qian Long \u4e7e\u9686 (1736 to 1796)"
+    ],
+    "issue_workshop_s": [
+        "Board of Public Works Official Mint \u5de5\u90e8\u5bf6\u6e90\u5c40"
+    ],
+    "issue_series_s": [
+        "Series 3 \u6587 Coins"
+    ],
+    "issue_place_s": [
+        "Bei Jing, Zhi Li (He Bei), China"
+    ],
+    "issue_city_s": [
+        "Bei Jing"
+    ],
+    "issue_state_s": [
+        "Zhi Li (He Bei)"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u4e7e\u9686\u901a\u5bf6"
+    ],
+    "issue_reverse_attributes_s": [
+        "c1, Manchurian Character- \u5bf6 (bao)",
+        "c63, Manchurian Character- \u6e90 (yuan)"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 372 1372",
+        "Coole 76 37B",
+        "Zhong Guo 332 4th row, 3rd coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ec334599ee262c07"
+    ],
+    "_version_": 1667138165042839552,
+    "timestamp": "2020-05-19T16:47:29.903Z"
+}

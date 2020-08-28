@@ -1,0 +1,118 @@
+{
+    "id": "coin-15070",
+    "title_display": "Coin: 15070",
+    "pub_created_display": [
+        "Ptolemy II Philadelphus (-282 to -246), Tetradrachm, Tyre"
+    ],
+    "call_number_display": [
+        "Coin 15070"
+    ],
+    "call_number_browse_s": [
+        "Coin 15070"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Mint mark illegible, probably Tyre. Ptolemy I or II. This coin is at the Hatay Archaeology Museum in Hatay Province, Turkey."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "1939"
+    ],
+    "find_feature_s": [
+        "South corridor"
+    ],
+    "find_locus_s": [
+        "S-19-S"
+    ],
+    "find_number_s": [
+        "Cc600"
+    ],
+    "find_description_s": [
+        "Under mosaic pavement, on bedrock along south wall."
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15070\",\"call_number_browse\":\"Coin 15070\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": -274,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "9242"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Ptolemy II Philadelphus (-282 to -246)"
+    ],
+    "issue_place_s": [
+        "Tyre, Phoenicia, Syria"
+    ],
+    "issue_city_s": [
+        "Tyre"
+    ],
+    "issue_state_s": [
+        "Phoenicia"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Ptolemy I"
+    ],
+    "issue_obverse_part_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed head, aegis tied around neck, sometimes with tiny sigla behind ear, dotted border"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with closed wings standing on thunderbolt, dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a0\u03a4\u039f\u039b\u0395\u039c\u0391\u0399\u039f\u03a5 | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_references_s": [
+        "Lorber I, v.I  552"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e68998a8664d44d6"
+    ],
+    "_version_": 1667146086694780928,
+    "timestamp": "2020-05-19T18:59:36.589Z"
+}

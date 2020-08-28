@@ -1,0 +1,71 @@
+{
+    "id": "coin-5501",
+    "title_display": "Coin: 5501",
+    "pub_created_display": [
+        "Hui Zong \u60e0\u5b97 (1333 to 1368), 1 Cash"
+    ],
+    "call_number_display": [
+        "Coin 5501"
+    ],
+    "call_number_browse_s": [
+        "Coin 5501"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "23.7"
+    ],
+    "weight_s": [
+        "3.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5501\",\"call_number_browse\":\"Coin 5501\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1333,
+    "pub_date_end_sort": 1368,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cash"
+    ],
+    "issue_number_s": [
+        "3095"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Hui Zong \u60e0\u5b97 (1333 to 1368)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u81f3\u6b63\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u5bc5"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 24 86",
+        "Hartill 231 19.93"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d3b3123c7cf3afd1"
+    ],
+    "_version_": 1667138136978751488,
+    "timestamp": "2020-05-19T16:47:03.139Z"
+}

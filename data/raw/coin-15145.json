@@ -1,0 +1,96 @@
+{
+    "id": "coin-15145",
+    "title_display": "Coin: 15145",
+    "pub_created_display": [
+        "Antoninus Pius (138 to 161), denaurius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 15145"
+    ],
+    "call_number_browse_s": [
+        "Coin 15145"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.24"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15145\",\"call_number_browse\":\"Coin 15145\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 148,
+    "pub_date_end_sort": 149,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaurius"
+    ],
+    "issue_number_s": [
+        "9302"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_era_s": [
+        "Antoninus Pius"
+    ],
+    "issue_ruler_s": [
+        "Antoninus Pius (138 to 161)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Laurel head r."
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONINVS AVG PI-VS P P TR P XII"
+    ],
+    "issue_reverse_figure_s": [
+        "Dr. female figure standing facing, head l., (Annona)"
+    ],
+    "issue_references_s": [
+        "BMC.1 95 657-60",
+        "RIC 47 175",
+        "Strack 191 "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "545d5195f932cb13"
+    ],
+    "_version_": 1667145480347320320,
+    "timestamp": "2020-05-19T18:51:23.352Z"
+}

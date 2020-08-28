@@ -1,0 +1,116 @@
+{
+    "id": "coin-6804",
+    "title_display": "Coin: 6804",
+    "pub_created_display": [
+        "Levon III (1301 to 1307), takvorin, Sis"
+    ],
+    "call_number_display": [
+        "Coin 6804"
+    ],
+    "call_number_browse_s": [
+        "Coin 6804"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "2.34"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6804\",\"call_number_browse\":\"Coin 6804\"}}",
+    "donor_s": [
+        "Joel Malter"
+    ],
+    "pub_date_start_sort": 1301,
+    "pub_date_end_sort": 1307,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "takvorin"
+    ],
+    "issue_number_s": [
+        "4213"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Levon III (1301 to 1307)"
+    ],
+    "issue_place_s": [
+        "Sis, Cilicia, Armenia"
+    ],
+    "issue_city_s": [
+        "Sis"
+    ],
+    "issue_state_s": [
+        "Cilicia"
+    ],
+    "issue_region_s": [
+        "Armenia"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_symbol_s": [
+        "cross"
+    ],
+    "issue_obverse_part_s": [
+        "on horseback"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "holding reins in his left hand and a cross that extends over his shoulder in his right"
+    ],
+    "issue_obverse_legend_s": [
+        "\u053c\u0535\u0552... \u0533\u0531\u0552\u0548\u0550 \u0540\u0531\u0545\u0548"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_part_s": [
+        "walking"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "lion has claws and behind him is a cross"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0547\u053b\u0546\u0535\u0531\u053c \u053b \u0533\u0531\u0542... \u054d\u053b\u054d"
+    ],
+    "issue_references_s": [
+        "Bedoukian  1782",
+        "Nercessian  419v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9df874665ac3b8ef"
+    ],
+    "_version_": 1667138358702243840,
+    "timestamp": "2020-05-19T16:50:34.590Z"
+}

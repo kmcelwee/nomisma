@@ -1,0 +1,122 @@
+{
+    "id": "coin-9776",
+    "title_display": "Coin: 9776",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 9776"
+    ],
+    "call_number_browse_s": [
+        "Coin 9776"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Slight artistic differences than other coins in this issue (e.g. mint mark)"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/12/1938"
+    ],
+    "find_feature_s": [
+        "Surface over Room B6"
+    ],
+    "find_locus_s": [
+        "DH 27-0"
+    ],
+    "find_number_s": [
+        "Cb434"
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9776\",\"call_number_browse\":\"Coin 9776\"}}",
+    "pub_date_start_sort": 330,
+    "pub_date_end_sort": 335,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rosette diadem"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTI NVS MAX AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two soldiers with helmets and weapons facing each other, two standards in between them."
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR IA EXERC ITVS | SMAN\u0393"
+    ],
+    "issue_references_s": [
+        "RIC.7 Vol. 7, p693 86",
+        "Waage p118 1014"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5e87b8dd6e61f9b5"
+    ],
+    "_version_": 1674172571492286464,
+    "timestamp": "2020-08-05T08:16:22.663Z"
+}

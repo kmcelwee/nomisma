@@ -1,0 +1,106 @@
+{
+    "id": "coin-1504",
+    "title_display": "Coin: 1504",
+    "pub_created_display": [
+        "Augustus (-30 to 14), as, Celsa"
+    ],
+    "call_number_display": [
+        "Coin 1504"
+    ],
+    "call_number_browse_s": [
+        "Coin 1504"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "13.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1504\",\"call_number_browse\":\"Coin 1504\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "as"
+    ],
+    "issue_number_s": [
+        "898"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Celsa, Spain, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Celsa"
+    ],
+    "issue_state_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Augustus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bare head of Augustus"
+    ],
+    "issue_obverse_legend_s": [
+        "AVGVSTVS DIVI F."
+    ],
+    "issue_reverse_figure_s": [
+        "Bull"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Bull, r."
+    ],
+    "issue_reverse_legend_s": [
+        "C.V.I.CEL; |-|.VIR;L.SVRA. L.BVCCO"
+    ],
+    "issue_references_s": [
+        "RPC.1 1 271"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4fb1d9f305a272d0"
+    ],
+    "_version_": 1667138412133482496,
+    "timestamp": "2020-05-19T16:51:25.548Z"
+}

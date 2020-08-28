@@ -1,0 +1,112 @@
+{
+    "id": "coin-12157",
+    "title_display": "Coin: 12157",
+    "pub_created_display": [
+        "Constantine I (306 to 337), bronze, Cyzicus"
+    ],
+    "call_number_display": [
+        "Coin 12157"
+    ],
+    "call_number_browse_s": [
+        "Coin 12157"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Variant because door"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/22/1939"
+    ],
+    "find_feature_s": [
+        "Trench 1."
+    ],
+    "find_locus_s": [
+        "15-M"
+    ],
+    "find_number_s": [
+        "Cc695"
+    ],
+    "find_description_s": [
+        "Surface in plundered strata"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12157\",\"call_number_browse\":\"Coin 12157\"}}",
+    "pub_date_start_sort": 324,
+    "pub_date_end_sort": 325,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "8203"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Cyzicus, Hellespontus, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Cyzicus"
+    ],
+    "issue_state_s": [
+        "Hellespontus"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTAN-TINVS AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Gate"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN-TIAE AVGG"
+    ],
+    "issue_references_s": [
+        "RIC.7 647 24"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fe9d3b1be5d84f0b"
+    ],
+    "_version_": 1667138301351428096,
+    "timestamp": "2020-05-19T16:49:39.899Z"
+}

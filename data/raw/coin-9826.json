@@ -1,0 +1,94 @@
+{
+    "id": "coin-9826",
+    "title_display": "Coin: 9826",
+    "pub_created_display": [
+        "Francesco degli Alidosi ( to 1511)"
+    ],
+    "call_number_display": [
+        "Coin 9826"
+    ],
+    "call_number_browse_s": [
+        "Coin 9826"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "57"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "64.184"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9826\",\"call_number_browse\":\"Coin 9826\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6213"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Francesco degli Alidosi ( to 1511)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing berretta and mozzetta"
+    ],
+    "issue_obverse_legend_s": [
+        "FR.ALIDOXIUS.CAR.PAPIEN. BON.ROMANDIOALE.Q.C.LEGAT."
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Nude Jupiter standing in chariot drawn by eagles; holding lightning bolt in left hand; sign of Pisces and Sagittarius along bottom"
+    ],
+    "issue_reverse_legend_s": [
+        "HISAVIBVSCVRRVQ CITODVCE RIS ADA STRA"
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  610"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "5f04f1941a90407d"
+    ],
+    "_version_": 1667138277887442944,
+    "timestamp": "2020-05-19T16:49:17.522Z"
+}

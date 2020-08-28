@@ -1,0 +1,85 @@
+{
+    "id": "coin-984",
+    "title_display": "Coin: 984",
+    "pub_created_display": [
+        "Peter I (1359 to 1369), penny"
+    ],
+    "call_number_display": [
+        "Coin 984"
+    ],
+    "call_number_browse_s": [
+        "Coin 984"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 984\",\"call_number_browse\":\"Coin 984\"}}",
+    "donor_s": [
+        "Andreas F. Pitsillides"
+    ],
+    "pub_date_start_sort": 1359,
+    "pub_date_end_sort": 1382,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "penny"
+    ],
+    "issue_number_s": [
+        "451"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Peter I (1359 to 1369)"
+    ],
+    "issue_place_s": [
+        "Cyprus, Crusader"
+    ],
+    "issue_state_s": [
+        "Cyprus"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Lion"
+    ],
+    "issue_obverse_part_s": [
+        "rampant"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "pattee, dots in quadrants"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9a84b7e0a0883e9e"
+    ],
+    "_version_": 1667138207083397120,
+    "timestamp": "2020-05-19T16:48:09.996Z"
+}

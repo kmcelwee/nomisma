@@ -1,0 +1,124 @@
+{
+    "id": "coin-8630",
+    "title_display": "Coin: 8630",
+    "pub_created_display": [
+        "Justin II (565 to 578), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8630"
+    ],
+    "call_number_browse_s": [
+        "Coin 8630"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Year is unclear"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "7/13/1936"
+    ],
+    "find_feature_s": [
+        "From the Well"
+    ],
+    "find_locus_s": [
+        "9-V/W"
+    ],
+    "find_number_s": [
+        "C6665"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "12.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8630\",\"call_number_browse\":\"Coin 8630\"}}",
+    "pub_date_start_sort": 571,
+    "pub_date_end_sort": 572,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "5524"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Regnal"
+    ],
+    "issue_ruler_s": [
+        "Justin II (565 to 578)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Justin II and Sophia"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_legend_s": [
+        "ANNO | U II | THEUP"
+    ],
+    "issue_references_s": [
+        "MIB2 Justin II 56a",
+        " Justin II 152b",
+        "BMC.Byz. Justin II c.197-199",
+        "BL  5/An/AE/02-08"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "731d1793ac610a96"
+    ],
+    "_version_": 1667138269924556800,
+    "timestamp": "2020-05-19T16:49:09.925Z"
+}

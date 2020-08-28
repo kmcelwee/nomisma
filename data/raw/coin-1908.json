@@ -1,0 +1,104 @@
+{
+    "id": "coin-1908",
+    "title_display": "Coin: 1908",
+    "pub_created_display": [
+        "Constantine VII (913 to 959), follis"
+    ],
+    "call_number_display": [
+        "Coin 1908"
+    ],
+    "call_number_browse_s": [
+        "Coin 1908"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "7.14"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1908\",\"call_number_browse\":\"Coin 1908\"}}",
+    "donor_s": [
+        "T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 945,
+    "pub_date_end_sort": 950,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "1249"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine VII (913 to 959)"
+    ],
+    "issue_place_s": [
+        "Byzantium"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constantine"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing loros and crown with cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+CONST'bA SIL'ROM'"
+    ],
+    "issue_obverse_attributes_s": [
+        "globus cruciger, in left hand",
+        "akakia, in right hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "four lines"
+    ],
+    "issue_reverse_legend_s": [
+        "+CONST'/EN\u0398EObA/SILEVSR/OMEON"
+    ],
+    "issue_references_s": [
+        "DOC 3.565 26",
+        "BMC.Byz. 463 45",
+        "BN 576 37/Cp/AE/55",
+        "Sear 339 1761"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "71c7efc0183998f8"
+    ],
+    "_version_": 1667138215736246272,
+    "timestamp": "2020-05-19T16:48:18.247Z"
+}

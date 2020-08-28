@@ -1,0 +1,110 @@
+{
+    "id": "coin-8013",
+    "title_display": "Coin: 8013",
+    "pub_created_display": [
+        "Justinian I (527 to 565), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 8013"
+    ],
+    "call_number_browse_s": [
+        "Coin 8013"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/24/1937"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca536"
+    ],
+    "find_description_s": [
+        "Dig I South to 3.50 (Basket D)"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "15.52"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8013\",\"call_number_browse\":\"Coin 8013\"}}",
+    "pub_date_start_sort": 527,
+    "pub_date_end_sort": 538,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "5047"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justinian I (527 to 565)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTINI ANVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "M"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross above, star on left, cross on right"
+    ],
+    "issue_reverse_legend_s": [
+        "CON"
+    ],
+    "issue_references_s": [
+        "DOC Volume 1 28",
+        "BMC.Byz. Volume 1 28-38"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "94fbae5163b7d0c7"
+    ],
+    "_version_": 1667138265170313216,
+    "timestamp": "2020-05-19T16:49:05.392Z"
+}

@@ -1,0 +1,96 @@
+{
+    "id": "coin-6652",
+    "title_display": "Coin: 6652",
+    "pub_created_display": [
+        "Ferdinand VII (1808 to 1833), 8 maravedis"
+    ],
+    "call_number_display": [
+        "Coin 6652"
+    ],
+    "call_number_browse_s": [
+        "Coin 6652"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "9.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6652\",\"call_number_browse\":\"Coin 6652\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "8 maravedis"
+    ],
+    "issue_number_s": [
+        "4076"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Ferdinand VII (1808 to 1833)"
+    ],
+    "issue_workshop_s": [
+        "Jubia"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_symbol_s": [
+        "J 8"
+    ],
+    "issue_obverse_figure_description_s": [
+        "right-facing bust with legend around outside"
+    ],
+    "issue_obverse_legend_s": [
+        "D\u2022G\u2022HISP\u2022REX\u20221826\u2022FERDIN\u2022VII\u2022"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross of Pelayo with the arms of Burbon, Castilla"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross of Don Pelayo with the arms of Burbon in the middle, between the arms of Castille and Leon, all encircled in a laurel wreath"
+    ],
+    "issue_references_s": [
+        "Las Monedas Espanolas p. 778 13530",
+        "Monedas Espanolas p. 454 1333",
+        "Heiss vol. I, lam. 65 var. 42"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "80065e94ce284ee0"
+    ],
+    "_version_": 1667138368507478016,
+    "timestamp": "2020-05-19T16:50:43.942Z"
+}

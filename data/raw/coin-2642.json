@@ -1,0 +1,97 @@
+{
+    "id": "coin-2642",
+    "title_display": "Coin: 2642",
+    "pub_created_display": [
+        "denaro, Genoa"
+    ],
+    "call_number_display": [
+        "Coin 2642"
+    ],
+    "call_number_browse_s": [
+        "Coin 2642"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "0.57"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2642\",\"call_number_browse\":\"Coin 2642\"}}",
+    "pub_date_start_sort": 1272,
+    "pub_date_end_sort": 1339,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denaro"
+    ],
+    "issue_number_s": [
+        "1663"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Genoa, Liguria, Italy"
+    ],
+    "issue_city_s": [
+        "Genoa"
+    ],
+    "issue_state_s": [
+        "Liguria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Castle"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "three towers with gate; dots separate letters"
+    ],
+    "issue_obverse_legend_s": [
+        "\u253c IA NV A"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross within dotted line"
+    ],
+    "issue_reverse_legend_s": [
+        "\u253c CVNRADIREX"
+    ],
+    "issue_references_s": [
+        "Liguria - Isola Di Corsica Repubblica I.21.81"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4a0bee7763c61d91"
+    ],
+    "_version_": 1667138424056840192,
+    "timestamp": "2020-05-19T16:51:36.919Z"
+}

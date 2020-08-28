@@ -1,0 +1,105 @@
+{
+    "id": "coin-2782",
+    "title_display": "Coin: 2782",
+    "pub_created_display": [
+        "Abraham Lincoln (1809 to 1865)"
+    ],
+    "call_number_display": [
+        "Coin 2782"
+    ],
+    "call_number_browse_s": [
+        "Coin 2782"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2782\",\"call_number_browse\":\"Coin 2782\"}}",
+    "donor_s": [
+        "Rodman Wanamaker"
+    ],
+    "pub_date_start_sort": 1865,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1765"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Abraham Lincoln (1809 to 1865)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "naked bust to r. with legend"
+    ],
+    "issue_obverse_legend_s": [
+        "ABRAHAM LINCOLN"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_symbol_s": [
+        "snake"
+    ],
+    "issue_reverse_figure_description_s": [
+        "ornate banded wreath of oak and laurel surrounding inscription; beneath sprays of pine and cedar encircled by  a serpent bitting its tail, the Egyptian symbol of immortality"
+    ],
+    "issue_reverse_legend_s": [
+        "INAUGURATED| PRESIDENT| OF THE| UNITED STATES| MARCH 4. 1861.| SECOND TERM| MARCH 4. 1865.| ASSASSINATED| APRIL 14.1865."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  PR-12",
+        "1845-1945  281"
+    ],
+    "issue_artists_s": [
+        "George T. Morgan"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9caf99b4094ac54d"
+    ],
+    "_version_": 1667138223719055360,
+    "timestamp": "2020-05-19T16:48:25.863Z"
+}

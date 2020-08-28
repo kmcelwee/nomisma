@@ -1,0 +1,131 @@
+{
+    "id": "coin-5993",
+    "title_display": "Coin: 5993",
+    "pub_created_display": [
+        "Nero (54 to 68), bronze, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 5993"
+    ],
+    "call_number_browse_s": [
+        "Coin 5993"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin surfaces are uneven and several losses (~1 mm) occur around perimeter. Obverse legend is obliterated. Waage describes  headress as a taenia. Reverse legend is faint but entirely legible. Notes: \"Antioch Autonomous\u2026time of Nero, B7c. Pl. XVIII.\""
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "06/30/1936"
+    ],
+    "find_feature_s": [
+        "Second dig"
+    ],
+    "find_locus_s": [
+        "16-P"
+    ],
+    "find_number_s": [
+        "C6633"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "4.91"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5993\",\"call_number_browse\":\"Coin 5993\"}}",
+    "pub_date_start_sort": 66,
+    "pub_date_end_sort": 67,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "bronze"
+    ],
+    "issue_number_s": [
+        "3401"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing taenia"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "legend runs clockwise from upper right"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
+    ],
+    "issue_reverse_figure_s": [
+        "Boule"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing chiton and peplos, dropping pebble  in voting urn with right arm"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "legend runs clockwise from upper right"
+    ],
+    "issue_reverse_legend_s": [
+        "ETO EIP"
+    ],
+    "issue_references_s": [
+        "BMC Gal. p162 87",
+        "RPC.1  4305v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "91ad42dcf1014de2"
+    ],
+    "_version_": 1667138386438127616,
+    "timestamp": "2020-05-19T16:51:01.043Z"
+}

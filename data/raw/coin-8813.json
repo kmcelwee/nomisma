@@ -1,0 +1,100 @@
+{
+    "id": "coin-8813",
+    "title_display": "Coin: 8813",
+    "pub_created_display": [
+        "Florentine Republic (1197 to 1532), florin, Florence"
+    ],
+    "call_number_display": [
+        "Coin 8813"
+    ],
+    "call_number_browse_s": [
+        "Coin 8813"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "2.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8813\",\"call_number_browse\":\"Coin 8813\"}}",
+    "pub_date_start_sort": 1427,
+    "pub_date_end_sort": 1427,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "florin"
+    ],
+    "issue_number_s": [
+        "5609"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Florentine Republic (1197 to 1532)"
+    ],
+    "issue_master_s": [
+        "Geri di Testa  Girolami"
+    ],
+    "issue_place_s": [
+        "Florence, Tuscany, Italy"
+    ],
+    "issue_city_s": [
+        "Florence"
+    ],
+    "issue_state_s": [
+        "Tuscany"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Florentine Lily"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Florentine fleur-de-lis"
+    ],
+    "issue_obverse_legend_s": [
+        "DET TIBI FLORERE.XPS FLORENTIA VERE"
+    ],
+    "issue_reverse_figure_s": [
+        "St. John"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "St. John seated w/ pearl nimbus; r.hand raised in blessing w/ cross in shield above ; l.hand holding staff with cross; Girolami Coat of Arms  to the left of figure"
+    ],
+    "issue_reverse_legend_s": [
+        "SANTVS IOIIIINES. BATISTA."
+    ],
+    "issue_references_s": [
+        "Le Monete Della Repubblica Fiorentina II, 331 2462"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9ffdf8ee7f828c9a"
+    ],
+    "_version_": 1667138156102680576,
+    "timestamp": "2020-05-19T16:47:21.378Z"
+}

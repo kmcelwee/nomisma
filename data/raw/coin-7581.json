@@ -1,0 +1,121 @@
+{
+    "id": "coin-7581",
+    "title_display": "Coin: 7581",
+    "pub_created_display": [
+        "Constantine II, follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7581"
+    ],
+    "call_number_browse_s": [
+        "Coin 7581"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "April 20, 1933"
+    ],
+    "find_feature_s": [
+        "Bath D"
+    ],
+    "find_locus_s": [
+        "n/a"
+    ],
+    "find_number_s": [
+        "2776"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7581\",\"call_number_browse\":\"Coin 7581\"}}",
+    "pub_date_start_sort": 330,
+    "pub_date_end_sort": 335,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4745"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust, facing right with diadem tied at neck"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, two standards"
+    ],
+    "issue_reverse_legend_s": [
+        "GLOR-IA EXERCITVS"
+    ],
+    "issue_references_s": [
+        "RIC, VII 693 87"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1ba7c1c1e188a1be"
+    ],
+    "_version_": 1667138260406632448,
+    "timestamp": "2020-05-19T16:49:00.850Z"
+}

@@ -1,0 +1,101 @@
+{
+    "id": "coin-12502",
+    "title_display": "Coin: 12502",
+    "pub_created_display": [
+        "Mithridates III (-57 to -54), Drachm"
+    ],
+    "call_number_display": [
+        "Coin 12502"
+    ],
+    "call_number_browse_s": [
+        "Coin 12502"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "80% Ag; 0.43 mg Au; 100 mg Ag; patina on obverse; corroded"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.5"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12502\",\"call_number_browse\":\"Coin 12502\"}}",
+    "pub_date_start_sort": -57,
+    "pub_date_end_sort": -54,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "8368"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Mithridates III (-57 to -54)"
+    ],
+    "issue_place_s": [
+        "Rhagae, Parthian Empire"
+    ],
+    "issue_state_s": [
+        "Rhagae"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "short beard, wearing double-banded diadem, segmented necklace with central medallion; behind bust, star"
+    ],
+    "issue_reverse_figure_s": [
+        "Archer"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d \u0391\u03a1\u03a3\u0391\u039a\u039f\u03a5 \u039c\u0395\u0393\u0391\u039b\u039f\u03a5 \u0394\u0399\u039a\u0391\u0399\u039f\u03a5 \u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03a5\u03a3 \u0398\u0395\u039f\u03a5 \u0395\u03a5\u03a0\u0391\u03a4\u039f\u03a1\u039f\u03a3 \u039a\u0391\u0399 \u03a6\u0399\u039b\u0395\u039b\u039b\u0397\u039d\u039f\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m12501.jpg, below bow"
+    ],
+    "issue_references_s": [
+        "Sellwood  41.12",
+        "Shore  201"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6d28416162c6ffe7"
+    ],
+    "_version_": 1667138307273785344,
+    "timestamp": "2020-05-19T16:49:45.543Z"
+}

@@ -1,0 +1,108 @@
+{
+    "id": "coin-4376",
+    "title_display": "Coin: 4376",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4376"
+    ],
+    "call_number_browse_s": [
+        "Coin 4376"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20.1"
+    ],
+    "weight_s": [
+        "3.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4376\",\"call_number_browse\":\"Coin 4376\"}}",
+    "pub_date_start_sort": -45,
+    "pub_date_end_sort": -45,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2452"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "L. Valerius Acisculus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Sol"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate; behind, legend and acisculus (pickaxe or adze)"
+    ],
+    "issue_obverse_legend_s": [
+        "ACISCVLVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Luna"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "driving biga; holds reins in l. hand, whip in r. hand; legend in exergue; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "L VALERIVS"
+    ],
+    "issue_references_s": [
+        "RRC  474/5",
+        "Syd.  1002",
+        "Sear  473"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c8264ec9cdc9fe54"
+    ],
+    "_version_": 1667138495732252672,
+    "timestamp": "2020-05-19T16:52:45.274Z"
+}

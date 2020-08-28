@@ -1,0 +1,115 @@
+{
+    "id": "coin-4251",
+    "title_display": "Coin: 4251",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4251"
+    ],
+    "call_number_browse_s": [
+        "Coin 4251"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Solid border"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "18.3"
+    ],
+    "weight_s": [
+        "3.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4251\",\"call_number_browse\":\"Coin 4251\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": -46,
+    "pub_date_end_sort": -46,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2402"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Considius Paetus"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Minerva"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmeted, wearing Aegis; border of dots"
+    ],
+    "issue_reverse_figure_s": [
+        "Quadriga"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory driving quadriga r., wreath in r. hand, palm-branch and reins in l. hand; legend in exergue; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "C CONSIDI"
+    ],
+    "issue_reverse_attributes_s": [
+        "wreath, in r. hand",
+        "palm branch, in l. hand"
+    ],
+    "issue_references_s": [
+        "RRC  465/5",
+        "Syd.  994",
+        "Sear  457"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b7b72301bf82d52e"
+    ],
+    "_version_": 1667138234940915712,
+    "timestamp": "2020-05-19T16:48:36.564Z"
+}

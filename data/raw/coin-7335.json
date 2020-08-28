@@ -1,0 +1,117 @@
+{
+    "id": "coin-7335",
+    "title_display": "Coin: 7335",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 7335"
+    ],
+    "call_number_browse_s": [
+        "Coin 7335"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.212"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7335\",\"call_number_browse\":\"Coin 7335\"}}",
+    "donor_s": [
+        "Edward Newell"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "4593"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Servilius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "wreath, star"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet, w/ pendant necklace. Legend below. Behind, star and wreath."
+    ],
+    "issue_obverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Dioscuri"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Dioscuri, separate and facing outward in opposite directions, spears inverted and pointed inwards. Legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "C.SERVEILI.M.F"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_references_s": [
+        "RRC  239/1",
+        "Syd.  525",
+        "Sear Volume I 116"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e84c006ef98b25c2"
+    ],
+    "_version_": 1667138355846971392,
+    "timestamp": "2020-05-19T16:50:31.868Z"
+}

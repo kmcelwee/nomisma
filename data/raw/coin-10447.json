@@ -1,0 +1,109 @@
+{
+    "id": "coin-10447",
+    "title_display": "Coin: 10447",
+    "pub_created_display": [
+        "Galba (68 to 69), Tetradrachm, Alexandria"
+    ],
+    "call_number_display": [
+        "Coin 10447"
+    ],
+    "call_number_browse_s": [
+        "Coin 10447"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "23"
+    ],
+    "weight_s": [
+        "12.27"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10447\",\"call_number_browse\":\"Coin 10447\"}}",
+    "pub_date_start_sort": 68,
+    "pub_date_end_sort": 69,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetradrachm"
+    ],
+    "issue_number_s": [
+        "6633"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Galba (68 to 69)"
+    ],
+    "issue_place_s": [
+        "Alexandria, Egypt, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Alexandria"
+    ],
+    "issue_state_s": [
+        "Egypt"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Galba"
+    ],
+    "issue_obverse_symbol_s": [
+        "laurel wreath"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate Galba, facing right"
+    ],
+    "issue_obverse_legend_s": [
+        "LA / \u039b\u039fV\u039a \u039b\u0399\u0392 \u03a3\u039fV\u039b\u03a0 [\u0393\u0391\u039b\u0392\u0391 \u039a\u0391\u0399\u03a3 \u03a3\u0395\u0392 \u0391V\u03a4]"
+    ],
+    "issue_reverse_figure_s": [
+        "Liberty"
+    ],
+    "issue_reverse_symbol_s": [
+        "wreath"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Female figure (Eleutheria, or liberty) standing with wreath and rod; left arm propped on column"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0395\u039b\u0395V - \u0398\u0395\u03a1\u0399\u0391"
+    ],
+    "issue_references_s": [
+        "RPC  5327"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dd2c2fad8d9c1e9e"
+    ],
+    "_version_": 1667138180930863104,
+    "timestamp": "2020-05-19T16:47:45.056Z"
+}

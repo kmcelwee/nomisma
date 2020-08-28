@@ -1,0 +1,114 @@
+{
+    "id": "coin-7401",
+    "title_display": "Coin: 7401",
+    "pub_created_display": [
+        "Constantius I Chlorus (293 to 306), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7401"
+    ],
+    "call_number_browse_s": [
+        "Coin 7401"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Holed; weight is 2.64. Purchased in 1923."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3-8-1932"
+    ],
+    "find_description_s": [
+        "\"Purchased\""
+    ],
+    "die_axis_s": [
+        "4"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7401\",\"call_number_browse\":\"Coin 7401\"}}",
+    "pub_date_start_sort": 313,
+    "pub_date_end_sort": 314,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantius I Chlorus (293 to 306)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laurelled"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP C FLVAL CONSTANTINVS PF AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "A III"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cloak over left shoulder, holding a scepter and a victory . In l. field, eagle with wreath in his beak, looking right."
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONSER VATORI AVGG"
+    ],
+    "issue_references_s": [
+        "RIC 7 676.7",
+        "Cohen 7 265.312",
+        "Numismatique Constantinienne 3 187.I.2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c6d9022135a8c32d"
+    ],
+    "_version_": 1673554454350135296,
+    "timestamp": "2020-07-29T12:31:40.235Z"
+}

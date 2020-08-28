@@ -1,0 +1,121 @@
+{
+    "id": "coin-7788",
+    "title_display": "Coin: 7788",
+    "pub_created_display": [
+        "Constantine II, follis, Nicomedia"
+    ],
+    "call_number_display": [
+        "Coin 7788"
+    ],
+    "call_number_browse_s": [
+        "Coin 7788"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "July 29, 1935"
+    ],
+    "find_feature_s": [
+        "Circus"
+    ],
+    "find_locus_s": [
+        "9-N"
+    ],
+    "find_number_s": [
+        "C5587"
+    ],
+    "find_description_s": [
+        "S.W. corner above & alone foundations"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.31"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7788\",\"call_number_browse\":\"Coin 7788\"}}",
+    "pub_date_start_sort": 324,
+    "pub_date_end_sort": 325,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4851"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine II"
+    ],
+    "issue_place_s": [
+        "Nicomedia, Bithynia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Nicomedia"
+    ],
+    "issue_state_s": [
+        "Bithynia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laur., dr., cuir."
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS IVN NOB C"
+    ],
+    "issue_reverse_figure_s": [
+        "Camp gate"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0393"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "camp gate, two turrets, no doors, star above, varying number of stone layers"
+    ],
+    "issue_reverse_legend_s": [
+        "PROVIDEN-TIAE CAESS"
+    ],
+    "issue_references_s": [
+        "RIC 7 615.93"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0b6d7e01c0c7baf5"
+    ],
+    "_version_": 1667138352155983872,
+    "timestamp": "2020-05-19T16:50:28.350Z"
+}

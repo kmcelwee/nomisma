@@ -1,0 +1,97 @@
+{
+    "id": "coin-8089",
+    "title_display": "Coin: 8089",
+    "pub_created_display": [
+        "unit, Arekorata"
+    ],
+    "call_number_display": [
+        "Coin 8089"
+    ],
+    "call_number_browse_s": [
+        "Coin 8089"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "9.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8089\",\"call_number_browse\":\"Coin 8089\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -125,
+    "pub_date_end_sort": -100,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "5120"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Arekorata, Hispania Citerior, Hispania"
+    ],
+    "issue_city_s": [
+        "Arekorata"
+    ],
+    "issue_state_s": [
+        "Hispania Citerior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Between dolphins"
+    ],
+    "issue_reverse_figure_s": [
+        "Rider on galloping horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding a spear"
+    ],
+    "issue_reverse_legend_s": [
+        "AREKORATA in iberian script, A and TA are in ligature"
+    ],
+    "issue_references_s": [
+        "CNH 274 29"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0ef83897f1a3354e"
+    ],
+    "_version_": 1667138265980862464,
+    "timestamp": "2020-05-19T16:49:06.164Z"
+}

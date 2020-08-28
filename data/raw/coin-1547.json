@@ -1,0 +1,80 @@
+{
+    "id": "coin-1547",
+    "title_display": "Coin: 1547",
+    "pub_created_display": [
+        "Tian Qi \u5929\u555f (Xu Shou Hui) (1351 to 1360), 3 Cash"
+    ],
+    "call_number_display": [
+        "Coin 1547"
+    ],
+    "call_number_browse_s": [
+        "Coin 1547"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "9.58"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1547\",\"call_number_browse\":\"Coin 1547\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 1358,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "3 Cash"
+    ],
+    "issue_number_s": [
+        "939"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Tian Qi \u5929\u555f (Xu Shou Hui) (1351 to 1360)"
+    ],
+    "issue_series_s": [
+        "Yuan rebels"
+    ],
+    "issue_place_s": [
+        "Han, China"
+    ],
+    "issue_state_s": [
+        "Han"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u5929\u555f\u901a\u5bf6"
+    ],
+    "issue_references_s": [
+        "  163v",
+        "Jen  496"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f17f64bfc097b452"
+    ],
+    "_version_": 1667138212085104640,
+    "timestamp": "2020-05-19T16:48:14.766Z"
+}

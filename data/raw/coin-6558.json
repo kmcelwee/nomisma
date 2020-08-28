@@ -1,0 +1,104 @@
+{
+    "id": "coin-6558",
+    "title_display": "Coin: 6558",
+    "pub_created_display": [
+        "John II Komnenos (Trebizond) (1280 to 1297), asper"
+    ],
+    "call_number_display": [
+        "Coin 6558"
+    ],
+    "call_number_browse_s": [
+        "Coin 6558"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obverse: OA\u2026 EV \u0393 NI   reverse:N I\u039b K M"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "2.47"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6558\",\"call_number_browse\":\"Coin 6558\"}}",
+    "pub_date_start_sort": 1280,
+    "pub_date_end_sort": 1297,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "asper"
+    ],
+    "issue_number_s": [
+        "3969"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "John II Komnenos (Trebizond) (1280 to 1297)"
+    ],
+    "issue_place_s": [
+        "Trebizond"
+    ],
+    "issue_region_s": [
+        "Trebizond"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Eugenius"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "St. Eugenius, bearded, standing holding long cross in r. hand"
+    ],
+    "issue_obverse_legend_s": [
+        "columnar OA\u0393I-EV\u0393EN"
+    ],
+    "issue_reverse_figure_s": [
+        "John II Comnenus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "John II, bearded, standing holding labarum in r. hand and akakia in l. hand, Manus Dei in upper r."
+    ],
+    "issue_reverse_legend_s": [
+        "columnar IWANICOKM"
+    ],
+    "issue_references_s": [
+        "BMC.Vand page 235 10",
+        "Sear  2608"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "08d4aa6aecfeadf5"
+    ],
+    "_version_": 1667138365887086592,
+    "timestamp": "2020-05-19T16:50:41.442Z"
+}

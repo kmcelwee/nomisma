@@ -1,0 +1,103 @@
+{
+    "id": "coin-12426",
+    "title_display": "Coin: 12426",
+    "pub_created_display": [
+        "Mithradates II (-123 to -88), Tetrachalkoi, Ray"
+    ],
+    "call_number_display": [
+        "Coin 12426"
+    ],
+    "call_number_browse_s": [
+        "Coin 12426"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "1 % Ag; heavily corroded"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "3.23"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12426\",\"call_number_browse\":\"Coin 12426\"}}",
+    "pub_date_start_sort": -123,
+    "pub_date_end_sort": -88,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetrachalkoi"
+    ],
+    "issue_number_s": [
+        "8334"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "BC"
+    ],
+    "issue_ruler_s": [
+        "Mithradates II (-123 to -88)"
+    ],
+    "issue_place_s": [
+        "Ray, Rhagae, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Ray"
+    ],
+    "issue_state_s": [
+        "Rhagae"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long bearded"
+    ],
+    "issue_reverse_figure_s": [
+        "Horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "horse walking right"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u039d \u039c\u0395\u0393\u0391\u039b\u039f\u03a5 \u0391\u03a1\u03a3\u0391\u039a\u039f\u03a5 \u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03a5\u03a3"
+    ],
+    "issue_references_s": [
+        "Sellwood  27.6"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2bd59fe074b2b0be"
+    ],
+    "_version_": 1667138305295122432,
+    "timestamp": "2020-05-19T16:49:43.657Z"
+}

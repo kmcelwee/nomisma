@@ -1,0 +1,92 @@
+{
+    "id": "coin-2820",
+    "title_display": "Coin: 2820",
+    "call_number_display": [
+        "Coin 2820"
+    ],
+    "call_number_browse_s": [
+        "Coin 2820"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "On orange and black ribbon with \"FIELD JUDGE\" pin"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2820\",\"call_number_browse\":\"Coin 2820\"}}",
+    "donor_s": [
+        "Charles S. Presbrey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1786"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Two busts"
+    ],
+    "issue_obverse_symbol_s": [
+        "caduceus"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "two naked busts of Princeton and Columbian athletes; wings, caduceus, oar surrounding figures"
+    ],
+    "issue_obverse_legend_s": [
+        "PRINCETON-COLUMBIA GAMES"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wreath tied with four ribbons"
+    ],
+    "issue_reverse_legend_s": [
+        "DIEGES & CLUST| 23| JOHN ST. N.Y."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "35abc7d025082597"
+    ],
+    "_version_": 1667138427472052224,
+    "timestamp": "2020-05-19T16:51:40.176Z"
+}

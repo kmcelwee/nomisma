@@ -1,0 +1,102 @@
+{
+    "id": "coin-6498",
+    "title_display": "Coin: 6498",
+    "pub_created_display": [
+        "denarius"
+    ],
+    "call_number_display": [
+        "Coin 6498"
+    ],
+    "call_number_browse_s": [
+        "Coin 6498"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.881"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6498\",\"call_number_browse\":\"Coin 6498\"}}",
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": -208,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "3920"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Central Italy"
+    ],
+    "issue_region_s": [
+        "Central Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Roma head r., in helmet. Behind, X."
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dot border."
+    ],
+    "issue_reverse_figure_s": [
+        "Dioscuri, Victory"
+    ],
+    "issue_reverse_part_s": [
+        "galloping"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Dioscuri r. Victory behind, with wreath. Legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line border"
+    ],
+    "issue_references_s": [
+        "RRC Vol. I: 163 61/1",
+        "Syd.  147",
+        "Sear Vol. I: 81 39"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "3fec976c42350621"
+    ],
+    "_version_": 1667138373113872384,
+    "timestamp": "2020-05-19T16:50:48.335Z"
+}

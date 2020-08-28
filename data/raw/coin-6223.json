@@ -1,0 +1,104 @@
+{
+    "id": "coin-6223",
+    "title_display": "Coin: 6223",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6223"
+    ],
+    "call_number_browse_s": [
+        "Coin 6223"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 234, R: 442"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "7.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6223\",\"call_number_browse\":\"Coin 6223\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -380,
+    "pub_date_end_sort": -355,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3669"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on standing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "[theta]"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "rider's left hand holds back the reins; his right hangs at his side; theta below horse's belly"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "right hand outstretched"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "F-B  581",
+        "Vlasto Coll.  449-52"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4a8ab5df1c108d54"
+    ],
+    "_version_": 1667138374040813568,
+    "timestamp": "2020-05-19T16:50:49.218Z"
+}

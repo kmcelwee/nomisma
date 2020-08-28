@@ -1,0 +1,118 @@
+{
+    "id": "coin-1948",
+    "title_display": "Coin: 1948",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1948"
+    ],
+    "call_number_browse_s": [
+        "Coin 1948"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1948\",\"call_number_browse\":\"Coin 1948\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "1270"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "C. Servilius Vatia"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Roma"
+    ],
+    "issue_obverse_symbol_s": [
+        "lituus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Helmeted Roma head r.; lituus behind; XVI monogram before; legend below."
+    ],
+    "issue_obverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Dots",
+        "m77, XVI monogram"
+    ],
+    "issue_reverse_figure_s": [
+        "Horsemen"
+    ],
+    "issue_reverse_part_s": [
+        "battling"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Two horsemen in battle; horseman on r. armed with sword; horseman on l. armed with spear, holding shield inscribed M; legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "C SERVEIL [VE in monogram]"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, Line"
+    ],
+    "issue_references_s": [
+        "RRC  264/1",
+        "Syd.  483a",
+        "Sear  140"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9592a4a34bd8033b"
+    ],
+    "_version_": 1667138469181259776,
+    "timestamp": "2020-05-19T16:52:19.954Z"
+}

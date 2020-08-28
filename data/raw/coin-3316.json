@@ -1,0 +1,83 @@
+{
+    "id": "coin-3316",
+    "title_display": "Coin: 3316",
+    "pub_created_display": [
+        "Prince Gui \u6842\u738b (1647 to 1661), Guang Zhou Fu (Canton)"
+    ],
+    "call_number_display": [
+        "Coin 3316"
+    ],
+    "call_number_browse_s": [
+        "Coin 3316"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "7.53"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3316\",\"call_number_browse\":\"Coin 3316\"}}",
+    "donor_s": [
+        "Aster Wu"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_number_s": [
+        "2013"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Prince Gui \u6842\u738b (1647 to 1661)"
+    ],
+    "issue_series_s": [
+        "Southern Ming \u5357\u660e"
+    ],
+    "issue_place_s": [
+        "Guang Zhou Fu (Canton), Guang Dong, China"
+    ],
+    "issue_city_s": [
+        "Guang Zhou Fu (Canton)"
+    ],
+    "issue_state_s": [
+        "Guang Dong"
+    ],
+    "issue_region_s": [
+        "China"
+    ],
+    "issue_obverse_legend_s": [
+        "\u6c38\u6b77\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u8f14"
+    ],
+    "issue_references_s": [
+        "Shang Hai YMQ 263 954",
+        "Zhong Guo 309 3rd row, 3rd coin"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e8acfc11441a6328"
+    ],
+    "_version_": 1667138438349979648,
+    "timestamp": "2020-05-19T16:51:50.548Z"
+}

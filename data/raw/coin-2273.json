@@ -1,0 +1,126 @@
+{
+    "id": "coin-2273",
+    "title_display": "Coin: 2273",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), double, Seleuceia ad Tigrim"
+    ],
+    "call_number_display": [
+        "Coin 2273"
+    ],
+    "call_number_browse_s": [
+        "Coin 2273"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Exergue off flan"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "08/10/1937"
+    ],
+    "find_locus_s": [
+        "S 17/18-J"
+    ],
+    "find_number_s": [
+        "Ca2872"
+    ],
+    "find_description_s": [
+        "Trial trench 1, surface (baskets A1 ff.)"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2273\",\"call_number_browse\":\"Coin 2273\"}}",
+    "pub_date_start_sort": -300,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "1464"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_workshop_s": [
+        "First Workshop"
+    ],
+    "issue_place_s": [
+        "Seleuceia ad Tigrim, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Seleuceia ad Tigrim"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long hair, wearing a crested Attic helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Humped bull"
+    ],
+    "issue_reverse_part_s": [
+        "charging"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Seleucid anchor above bull"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1464, in exergue"
+    ],
+    "issue_references_s": [
+        "H & L  125.2",
+        "ESM  8",
+        "Houghton  943v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "af62cfe07df4af61"
+    ],
+    "_version_": 1669832864461488128,
+    "timestamp": "2020-06-18T10:38:35.533Z"
+}

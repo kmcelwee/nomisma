@@ -1,0 +1,124 @@
+{
+    "id": "coin-2171",
+    "title_display": "Coin: 2171",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), Drachm, Seleuceia ad Tigrim"
+    ],
+    "call_number_display": [
+        "Coin 2171"
+    ],
+    "call_number_browse_s": [
+        "Coin 2171"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "15"
+    ],
+    "weight_s": [
+        "3.65"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2171\",\"call_number_browse\":\"Coin 2171\"}}",
+    "donor_s": [
+        "R. H.C."
+    ],
+    "pub_date_start_sort": -296,
+    "pub_date_end_sort": -295,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "1413"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_workshop_s": [
+        "Second workshop"
+    ],
+    "issue_place_s": [
+        "Seleuceia ad Tigrim, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Seleuceia ad Tigrim"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Zeus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
+    "issue_reverse_figure_s": [
+        "Athena"
+    ],
+    "issue_reverse_symbol_s": [
+        "anchor in upper r. field"
+    ],
+    "issue_reverse_part_s": [
+        "riding"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "in elephant quadriga"
+    ],
+    "issue_reverse_legend_s": [
+        "\u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5 | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1413, behind Athena",
+        "m122, above shield",
+        "spear and shield, in Athena's hands",
+        "\u0398, in r. field"
+    ],
+    "issue_references_s": [
+        "H & L  131.9b",
+        "ESM  94",
+        "Houghton  922v",
+        "Sear  6831v"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9d4e7dd7a20c63ac"
+    ],
+    "_version_": 1667138112185171968,
+    "timestamp": "2020-05-19T16:46:39.493Z"
+}

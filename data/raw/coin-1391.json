@@ -1,0 +1,106 @@
+{
+    "id": "coin-1391",
+    "title_display": "Coin: 1391",
+    "pub_created_display": [
+        "victoriatus"
+    ],
+    "call_number_display": [
+        "Coin 1391"
+    ],
+    "call_number_browse_s": [
+        "Coin 1391"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1391\",\"call_number_browse\":\"Coin 1391\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": -211,
+    "pub_date_end_sort": -208,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "victoriatus"
+    ],
+    "issue_number_s": [
+        "790"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate head of Jupiter r."
+    ],
+    "issue_obverse_attributes_s": [
+        "dots, Border"
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Victory r. crowning trophy; between, monogram. Legend in exergue."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "line, Border",
+        "m1391, Monogram"
+    ],
+    "issue_references_s": [
+        "RRC  95/1a",
+        "Syd.  113",
+        "Sear  51"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f8361b812e130998"
+    ],
+    "_version_": 1667138462651777024,
+    "timestamp": "2020-05-19T16:52:13.726Z"
+}

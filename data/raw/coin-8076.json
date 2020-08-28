@@ -1,0 +1,99 @@
+{
+    "id": "coin-8076",
+    "title_display": "Coin: 8076",
+    "pub_created_display": [
+        "denarius, Turiasu"
+    ],
+    "call_number_display": [
+        "Coin 8076"
+    ],
+    "call_number_browse_s": [
+        "Coin 8076"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "11"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.69"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8076\",\"call_number_browse\":\"Coin 8076\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": -125,
+    "pub_date_end_sort": -75,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "5107"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Turiasu, Hispania Citerior, Hispania"
+    ],
+    "issue_city_s": [
+        "Turiasu"
+    ],
+    "issue_state_s": [
+        "Hispania Citerior"
+    ],
+    "issue_region_s": [
+        "Hispania"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing right"
+    ],
+    "issue_obverse_attributes_s": [
+        "m8076a, syllabic sign KA in iberian script",
+        "m8076b, letter S  in iberian script",
+        "m8076c, syllabic sign TU  in iberian script"
+    ],
+    "issue_reverse_figure_s": [
+        "Rider on galloping horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding spear"
+    ],
+    "issue_reverse_legend_s": [
+        "TURIASU in iberian script"
+    ],
+    "issue_references_s": [
+        "CNH 266 33"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "373960707eb61198"
+    ],
+    "_version_": 1667138146643476480,
+    "timestamp": "2020-05-19T16:47:12.357Z"
+}

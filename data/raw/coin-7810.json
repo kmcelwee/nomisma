@@ -1,0 +1,105 @@
+{
+    "id": "coin-7810",
+    "title_display": "Coin: 7810",
+    "pub_created_display": [
+        "John II Komnenos (1118 to 1143), aspron trachy nomisma, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7810"
+    ],
+    "call_number_browse_s": [
+        "Coin 7810"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "31"
+    ],
+    "weight_s": [
+        "4.15"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7810\",\"call_number_browse\":\"Coin 7810\"}}",
+    "pub_date_start_sort": 1122,
+    "pub_date_end_sort": 1137,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aspron trachy nomisma"
+    ],
+    "issue_number_s": [
+        "4873"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "John II Komnenos (1118 to 1143)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust of Christ, facing forward, holds Gospels in l. hand.  Pellet in each arm of nimbus cross"
+    ],
+    "issue_obverse_legend_s": [
+        "IC|XC"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bust of emperor; in l. hand holds globus cruciger, in r. scepter cruciger"
+    ],
+    "issue_references_s": [
+        "DOC vol. 4 pt. 1 p. 265 10a",
+        "BMC.Byz. vol. 2 p. 563 55",
+        "Sear  1944"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2b0e0e23d1632e6e"
+    ],
+    "_version_": 1667138181277941760,
+    "timestamp": "2020-05-19T16:47:45.386Z"
+}

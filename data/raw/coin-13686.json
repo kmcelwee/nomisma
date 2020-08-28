@@ -1,0 +1,110 @@
+{
+    "id": "coin-13686",
+    "title_display": "Coin: 13686",
+    "pub_created_display": [
+        "Demetrius I Soter (-162 to -150), double, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 13686"
+    ],
+    "call_number_browse_s": [
+        "Coin 13686"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "8.56"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13686\",\"call_number_browse\":\"Coin 13686\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": -162,
+    "pub_date_end_sort": -150,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "double"
+    ],
+    "issue_number_s": [
+        "8753"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_edge_s": [
+        "serrated"
+    ],
+    "issue_ruler_s": [
+        "Demetrius I Soter (-162 to -150)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Artemis"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "wearing stephane"
+    ],
+    "issue_obverse_attributes_s": [
+        "bow and quiver, over shoulder",
+        "anchor, in rectangular punch"
+    ],
+    "issue_reverse_figure_s": [
+        "Bow and quiver"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a5"
+    ],
+    "issue_references_s": [
+        "H & L II,v.I,p.172 1645"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "94f198b08f31eb73"
+    ],
+    "_version_": 1667138517869789184,
+    "timestamp": "2020-05-19T16:53:06.384Z"
+}

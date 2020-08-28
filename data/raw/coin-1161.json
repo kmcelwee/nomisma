@@ -1,0 +1,101 @@
+{
+    "id": "coin-1161",
+    "title_display": "Coin: 1161",
+    "pub_created_display": [
+        "Francois I (1515 to 1547), teston, Lyon"
+    ],
+    "call_number_display": [
+        "Coin 1161"
+    ],
+    "call_number_browse_s": [
+        "Coin 1161"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "9.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1161\",\"call_number_browse\":\"Coin 1161\"}}",
+    "donor_s": [
+        "Bourgey"
+    ],
+    "pub_date_start_sort": 1540,
+    "pub_date_end_sort": 1547,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "teston"
+    ],
+    "issue_number_s": [
+        "608"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Francois I (1515 to 1547)"
+    ],
+    "issue_place_s": [
+        "Lyon, France"
+    ],
+    "issue_city_s": [
+        "Lyon"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded in cuirass and crown in profile"
+    ],
+    "issue_obverse_legend_s": [
+        "+FRANCISCVS:D:GRA:FRANCO:REX"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, sub x at cross"
+    ],
+    "issue_reverse_figure_s": [
+        "Shield"
+    ],
+    "issue_reverse_figure_description_s": [
+        "three fleur-de-lis , crowned in polylobe"
+    ],
+    "issue_reverse_legend_s": [
+        "+NONNOBIS:DNE:SED:NOI:TVODAGLORIA"
+    ],
+    "issue_reverse_attributes_s": [
+        "legend, sub x at cross",
+        "shield, D"
+    ],
+    "issue_references_s": [
+        "Lafaurie  767"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "debbb85cdbab411c"
+    ],
+    "_version_": 1667138458637828096,
+    "timestamp": "2020-05-19T16:52:09.896Z"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "coin-3635",
+    "title_display": "Coin: 3635",
+    "pub_created_display": [
+        "20 Shillings, Philadelphia"
+    ],
+    "call_number_display": [
+        "Coin 3635"
+    ],
+    "call_number_browse_s": [
+        "Coin 3635"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3635\",\"call_number_browse\":\"Coin 3635\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "20 Shillings"
+    ],
+    "issue_number_s": [
+        "2137"
+    ],
+    "issue_master_s": [
+        "David Hall"
+    ],
+    "issue_place_s": [
+        "Philadelphia, Pennsylvania, United States of America"
+    ],
+    "issue_city_s": [
+        "Philadelphia"
+    ],
+    "issue_state_s": [
+        "Pennsylvania"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Pennsylvania"
+    ],
+    "issue_obverse_legend_s": [
+        "No.| TWENTY SHILLINGS.|  THIS BILL shall pass current for TWENTY SHILLINGS within the Province of Pensylvania, according to an Act of General Assembly of the said Province, made in the 29th Year of the Reign of KING GEORGE II.  Dated Jan. 1, 1756.  Twenty"
+    ],
+    "issue_reverse_figure_s": [
+        "Leaf"
+    ],
+    "issue_reverse_legend_s": [
+        "TWENTY SHILL. To Counterfeit is DEATH.   Printed by B. FRANKLIN, and D. HALL."
+    ],
+    "issue_references_s": [
+        "Newman p. 333"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9f171dc106dc81bb"
+    ],
+    "_version_": 1667138431106416640,
+    "timestamp": "2020-05-19T16:51:43.642Z"
+}

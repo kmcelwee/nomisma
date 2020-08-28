@@ -1,0 +1,89 @@
+{
+    "id": "coin-1677",
+    "title_display": "Coin: 1677",
+    "pub_created_display": [
+        "William de la Roche (1280 to 1287), denier tournois, Thebes"
+    ],
+    "call_number_display": [
+        "Coin 1677"
+    ],
+    "call_number_browse_s": [
+        "Coin 1677"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "0.84"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1677\",\"call_number_browse\":\"Coin 1677\"}}",
+    "pub_date_start_sort": 1280,
+    "pub_date_end_sort": 1287,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denier tournois"
+    ],
+    "issue_number_s": [
+        "1075"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_ruler_s": [
+        "William de la Roche (1280 to 1287)"
+    ],
+    "issue_place_s": [
+        "Thebes, Athens, Crusader"
+    ],
+    "issue_city_s": [
+        "Thebes"
+    ],
+    "issue_state_s": [
+        "Athens"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "Cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+G:DVX:ATENES"
+    ],
+    "issue_reverse_figure_s": [
+        "Castle"
+    ],
+    "issue_reverse_legend_s": [
+        "+ThEBE.CIVI"
+    ],
+    "issue_references_s": [
+        "Ox.  1032",
+        "Schl. Plate XIII 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9f1c5216dbb835d2"
+    ],
+    "_version_": 1667145478740901888,
+    "timestamp": "2020-05-19T19:00:51.839Z"
+}

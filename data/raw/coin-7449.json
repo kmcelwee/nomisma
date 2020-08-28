@@ -1,0 +1,112 @@
+{
+    "id": "coin-7449",
+    "title_display": "Coin: 7449",
+    "pub_created_display": [
+        "Constantius II (337 to 361), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7449"
+    ],
+    "call_number_browse_s": [
+        "Coin 7449"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "May 5, 1932"
+    ],
+    "find_locus_s": [
+        "10-N"
+    ],
+    "find_description_s": [
+        "N-10 Room 109"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "1.7"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7449\",\"call_number_browse\":\"Coin 7449\"}}",
+    "pub_date_start_sort": 347,
+    "pub_date_end_sort": 355,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantius II (337 to 361)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DV-CONSTANTINTI-NVS PT AVGG"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "A"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Emperor, veiled, raising right hand"
+    ],
+    "issue_reverse_legend_s": [
+        "VN-MR"
+    ],
+    "issue_references_s": [
+        "RIC 8 521.112"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2237a6d383ac8485"
+    ],
+    "_version_": 1673552719063810048,
+    "timestamp": "2020-07-29T12:04:05.336Z"
+}

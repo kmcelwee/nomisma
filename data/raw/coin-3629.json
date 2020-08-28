@@ -1,0 +1,76 @@
+{
+    "id": "coin-3629",
+    "title_display": "Coin: 3629",
+    "call_number_display": [
+        "Coin 3629"
+    ],
+    "call_number_browse_s": [
+        "Coin 3629"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[Triangle] BRONZE"
+    ],
+    "size_s": [
+        "63"
+    ],
+    "technique_s": [
+        "struck"
+    ],
+    "weight_s": [
+        "56.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3629\",\"call_number_browse\":\"Coin 3629\"}}",
+    "donor_s": [
+        "Mrs. Henry L. O' Gorman"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2133"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Semi-circle"
+    ],
+    "issue_obverse_figure_s": [
+        "Lion"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing, head to right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Representation of Lion of Belfourt - a sculpture by Fr\u00e9d\u00e9ric Auguste Bartholdi."
+    ],
+    "issue_references_s": [
+        "Forrer vol. 7 "
+    ],
+    "issue_artists_s": [
+        "Fr\u00e9d\u00e9ric Auguste Bartholdi, A. BARTHOLDI"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "91dcc5a9ed779b53"
+    ],
+    "_version_": 1667138163922960384,
+    "timestamp": "2020-05-19T16:47:28.834Z"
+}

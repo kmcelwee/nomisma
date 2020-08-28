@@ -1,0 +1,97 @@
+{
+    "id": "coin-6537",
+    "title_display": "Coin: 6537",
+    "call_number_display": [
+        "Coin 6537"
+    ],
+    "call_number_browse_s": [
+        "Coin 6537"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "70"
+    ],
+    "weight_s": [
+        "140.0"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6537\",\"call_number_browse\":\"Coin 6537\"}}",
+    "donor_s": [
+        "Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3953"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Alsace, France"
+    ],
+    "issue_state_s": [
+        "Alsace"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Henri Gouraud"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bearded in uniform with flowing cloak"
+    ],
+    "issue_obverse_legend_s": [
+        "GENERAL GOVRAVD"
+    ],
+    "issue_reverse_figure_s": [
+        "Two soldiers"
+    ],
+    "issue_reverse_part_s": [
+        "on horseback"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Receiving flag from Allegorical image of Alsace, Cathedral of Strasbourg to left"
+    ],
+    "issue_reverse_legend_s": [
+        "ALSATIA GALLIS RESTITVTA | DIE XXII NOVEMBR AN. MCMXVIII"
+    ],
+    "issue_artists_s": [
+        "Marcel Paul Dammann, M. DAMMANN"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c00012111a30a73f"
+    ],
+    "_version_": 1667138253804797952,
+    "timestamp": "2020-05-19T16:48:54.554Z"
+}

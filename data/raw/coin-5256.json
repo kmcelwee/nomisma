@@ -1,0 +1,89 @@
+{
+    "id": "coin-5256",
+    "title_display": "Coin: 5256",
+    "pub_created_display": [
+        "20 dollars, Wilmington"
+    ],
+    "call_number_display": [
+        "Coin 5256"
+    ],
+    "call_number_browse_s": [
+        "Coin 5256"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Signers illegible.  Visible flecks of mica."
+    ],
+    "size_s": [
+        "88x66"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5256\",\"call_number_browse\":\"Coin 5256\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "20 dollars"
+    ],
+    "issue_number_s": [
+        "2931"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Davis"
+    ],
+    "issue_series_s": [
+        "Princeton University Medals"
+    ],
+    "issue_place_s": [
+        "Wilmington, North Carolina, United States of America"
+    ],
+    "issue_city_s": [
+        "Wilmington"
+    ],
+    "issue_state_s": [
+        "North Carolina"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_legend_s": [
+        "TWENTY DOLLARS. STATE OF NORTH CAROLINA. THIS BILL entitles the Bearer to receive TWENTY Spanish mill'd  DOLLARS, or the Value therof, in Gold or Silver, agreeable to an Act of Assembly passed at Hillsborough the 8th Day of August, 1778."
+    ],
+    "issue_reverse_legend_s": [
+        "XX DOLLARS. PRINTED BY JAMES DAVIS, 1778."
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Newman p. 319"
+    ],
+    "issue_artists_s": [
+        "F. Benard"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "85cee89b9fad80df"
+    ],
+    "_version_": 1667138415383019520,
+    "timestamp": "2020-05-19T16:51:28.644Z"
+}

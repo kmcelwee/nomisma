@@ -1,0 +1,117 @@
+{
+    "id": "coin-5156",
+    "title_display": "Coin: 5156",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5156"
+    ],
+    "call_number_browse_s": [
+        "Coin 5156"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "19.0"
+    ],
+    "weight_s": [
+        "3.88"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5156\",\"call_number_browse\":\"Coin 5156\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -56,
+    "pub_date_end_sort": -56,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2859"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "Faustus Cornelius Sulla"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Diana"
+    ],
+    "issue_obverse_symbol_s": [
+        "lituus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Bust r., draped; behind, lituus; before, legend; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "FAVSTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "Sulla"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Sulla seated l.; below: to l., kneeling Bocchus holds palm branch; to r., Jugurtha kneels with hands tied behind back; border of dots"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Jugurtha was surrendered to Sulla by Bocchus"
+    ],
+    "issue_reverse_legend_s": [
+        "FELIX"
+    ],
+    "issue_references_s": [
+        "RRC  426/1",
+        "Syd.  879",
+        "Sear  383"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2934ec6a2b0d102e"
+    ],
+    "_version_": 1667138511483961344,
+    "timestamp": "2020-05-19T16:53:00.295Z"
+}

@@ -1,0 +1,106 @@
+{
+    "id": "coin-11791",
+    "title_display": "Coin: 11791",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Thessalonica"
+    ],
+    "call_number_display": [
+        "Coin 11791"
+    ],
+    "call_number_browse_s": [
+        "Coin 11791"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "6/8/1938"
+    ],
+    "find_locus_s": [
+        "14-R"
+    ],
+    "find_number_s": [
+        "Cb3197"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "2.3"
+    ],
+    "weight_s": [
+        "3.21"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11791\",\"call_number_browse\":\"Coin 11791\"}}",
+    "pub_date_start_sort": 316,
+    "pub_date_end_sort": 317,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "7880"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_place_s": [
+        "Thessalonica, Macedonia, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Thessalonica"
+    ],
+    "issue_state_s": [
+        "Macedonia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_figure_description_s": [
+        "emperor with head laurel"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP CONSTANTINVS PF INV AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter stg. i., chlamys across l. shoulder, leaning on sceptre, Victory on globe in r. hand; eagle with wreath to l."
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONS-ERVATORI l *TS*\u0393"
+    ],
+    "issue_references_s": [
+        "RIC 7 498 4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f5c49c5e76250bf3"
+    ],
+    "_version_": 1667138298046316544,
+    "timestamp": "2020-05-19T16:49:36.746Z"
+}

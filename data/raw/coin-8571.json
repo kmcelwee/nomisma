@@ -1,0 +1,107 @@
+{
+    "id": "coin-8571",
+    "title_display": "Coin: 8571",
+    "pub_created_display": [
+        "1 Cent, Boston"
+    ],
+    "call_number_display": [
+        "Coin 8571"
+    ],
+    "call_number_browse_s": [
+        "Coin 8571"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "29"
+    ],
+    "weight_s": [
+        "9.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8571\",\"call_number_browse\":\"Coin 8571\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "1 Cent"
+    ],
+    "issue_number_s": [
+        "5469"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_master_s": [
+        "Joseph Callender (1751 to 1821)"
+    ],
+    "issue_workshop_s": [
+        "Massachusetts Mint"
+    ],
+    "issue_place_s": [
+        "Boston, Massachusetts, United States of America"
+    ],
+    "issue_city_s": [
+        "Boston"
+    ],
+    "issue_state_s": [
+        "Massachusetts"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Indian"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Indian holding bow in right hand and arrow in left."
+    ],
+    "issue_obverse_legend_s": [
+        "COMMON * WEALTH"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagle"
+    ],
+    "issue_reverse_part_s": [
+        "heraldic"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Heraldic eagle grasping olive branch in right hand and arrows in left. \"Horned eagle\" variety - die crack connecting the eagle's head to the H in MASSACHUSETTS."
+    ],
+    "issue_reverse_legend_s": [
+        "MASSACHUSETTS / CENT / 1787"
+    ],
+    "issue_references_s": [
+        "Breen P. 88 Breen 960",
+        "Whitman Colonial P. 205 W-6040"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d50a96d0f2bb3aff"
+    ],
+    "_version_": 1667138185674620928,
+    "timestamp": "2020-05-19T16:47:49.580Z"
+}

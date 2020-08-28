@@ -1,0 +1,103 @@
+{
+    "id": "coin-7887",
+    "title_display": "Coin: 7887",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 7887"
+    ],
+    "call_number_browse_s": [
+        "Coin 7887"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5-11-1937"
+    ],
+    "find_feature_s": [
+        "Dig I room 17"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca853"
+    ],
+    "find_description_s": [
+        "to 6 m. Basket D"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "20"
+    ],
+    "weight_s": [
+        "3.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7887\",\"call_number_browse\":\"Coin 7887\"}}",
+    "pub_date_start_sort": 750,
+    "pub_date_end_sort": 775,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6501"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Abbasid"
+    ],
+    "issue_place_s": [
+        "Uncertain, Syria"
+    ],
+    "issue_state_s": [
+        "Uncertain"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_description_s": [
+        "double border"
+    ],
+    "issue_obverse_legend_s": [
+        "center: \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "double border"
+    ],
+    "issue_reverse_legend_s": [
+        "center: \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647"
+    ],
+    "issue_references_s": [
+        "SNAT 3 79"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "28233715e365263d"
+    ],
+    "_version_": 1667138195026870272,
+    "timestamp": "2020-05-19T16:47:58.497Z"
+}

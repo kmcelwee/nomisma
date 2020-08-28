@@ -1,0 +1,96 @@
+{
+    "id": "coin-6459",
+    "title_display": "Coin: 6459",
+    "pub_created_display": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "call_number_display": [
+        "Coin 6459"
+    ],
+    "call_number_browse_s": [
+        "Coin 6459"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Original striking. Part of the First Uniform Series of 1702."
+    ],
+    "size_s": [
+        "41"
+    ],
+    "weight_s": [
+        "32.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6459\",\"call_number_browse\":\"Coin 6459\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "3884"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Louis XIV (1643 to 1715)"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Louis XIV."
+    ],
+    "issue_obverse_legend_s": [
+        "LUDOVICUS MAGNUS REX CHRISTIANISSIMUS ."
+    ],
+    "issue_reverse_figure_s": [
+        "Trophy"
+    ],
+    "issue_reverse_symbol_s": [
+        "vallar crown"
+    ],
+    "issue_reverse_figure_description_s": [
+        "A trophy of arms surmounted by a vallar crown and a laurel wreath. The flags of the various allied powers whose troops formed the army of King William are shown."
+    ],
+    "issue_reverse_legend_s": [
+        "CAESA HOST . XX MILL . TORMENTA BELL . CAPT . LXXVI . SIGNA RELATA XC ."
+    ],
+    "issue_references_s": [
+        "Medailles, 1702 p. 249 ",
+        "M\u00e9dailles et Jetons 3, p. 593-94 3",
+        "M\u00e9dailles et Jetons 1, p. XLVII 8"
+    ],
+    "issue_artists_s": [
+        "Jean Mauger, J.MAVGER.F"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "633ad27498cf3d50"
+    ],
+    "_version_": 1667138115542712320,
+    "timestamp": "2020-05-19T16:46:42.696Z"
+}

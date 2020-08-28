@@ -1,0 +1,106 @@
+{
+    "id": "coin-10256",
+    "title_display": "Coin: 10256",
+    "pub_created_display": [
+        "Lucius Verus, sestertius, Padua"
+    ],
+    "call_number_display": [
+        "Coin 10256"
+    ],
+    "call_number_browse_s": [
+        "Coin 10256"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "38"
+    ],
+    "weight_s": [
+        "40.282"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10256\",\"call_number_browse\":\"Coin 10256\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "imitation"
+    ],
+    "issue_denomination_s": [
+        "sestertius"
+    ],
+    "issue_number_s": [
+        "6395"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Lucius Verus"
+    ],
+    "issue_place_s": [
+        "Padua, Venice, Italy"
+    ],
+    "issue_city_s": [
+        "Padua"
+    ],
+    "issue_state_s": [
+        "Venice"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Lucius Verus"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Lucius Verus, right, laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "L.VERVS.AVG.ARM.PARTH.MAX.TR.P.VIIII."
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "Seven Hills of Rome"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter seated (right) upon 7 hills of Rome, receiving emperor holding Victory and crowned by Virtus."
+    ],
+    "issue_reverse_legend_s": [
+        "TR.P.VII.IMP.IIII.COS.III.P.P."
+    ],
+    "issue_references_s": [
+        "The Paduans p. 18 60"
+    ],
+    "issue_artists_s": [
+        "Giovanni Cavino"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d958b0d5ca97baec"
+    ],
+    "_version_": 1667138280185921536,
+    "timestamp": "2020-05-19T16:49:19.710Z"
+}

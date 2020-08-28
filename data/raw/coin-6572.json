@@ -1,0 +1,97 @@
+{
+    "id": "coin-6572",
+    "title_display": "Coin: 6572",
+    "pub_created_display": [
+        "Ferdinand V (1452 to 1516), dinero"
+    ],
+    "call_number_display": [
+        "Coin 6572"
+    ],
+    "call_number_browse_s": [
+        "Coin 6572"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Inscription is worn off of both sides"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "13"
+    ],
+    "weight_s": [
+        "0.8"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6572\",\"call_number_browse\":\"Coin 6572\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 1452,
+    "pub_date_end_sort": 1516,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "dinero"
+    ],
+    "issue_number_s": [
+        "3986"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_ruler_s": [
+        "Ferdinand V (1452 to 1516)"
+    ],
+    "issue_workshop_s": [
+        "Barcelona"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "left facing bust"
+    ],
+    "issue_obverse_legend_s": [
+        "FERDIRAD RX"
+    ],
+    "issue_reverse_figure_s": [
+        "Long cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "long cross with one circle in two of the corners and three dots in the other two"
+    ],
+    "issue_reverse_legend_s": [
+        "+BA QI NO NA"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n p. 366 2127"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "a87bed67554605c4"
+    ],
+    "_version_": 1667138371461316608,
+    "timestamp": "2020-05-19T16:50:46.759Z"
+}

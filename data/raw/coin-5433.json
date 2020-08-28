@@ -1,0 +1,104 @@
+{
+    "id": "coin-5433",
+    "title_display": "Coin: 5433",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5433"
+    ],
+    "call_number_browse_s": [
+        "Coin 5433"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 56, R: 71"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "7.7"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5433\",\"call_number_browse\":\"Coin 5433\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -510,
+    "pub_date_end_sort": -450,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3054"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_obverse_symbol_s": [
+        "scallop shell"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "arms extended, hair in bun"
+    ],
+    "issue_obverse_legend_s": [
+        "TARAS [three-bar sigma]"
+    ],
+    "issue_reverse_figure_s": [
+        "Hippocamp"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bristling mane, feathers arranged in two rows, speckled tail"
+    ],
+    "issue_references_s": [
+        "F-B  109",
+        "Vlasto Coll.  133"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f1d4d8c3ca8b9be9"
+    ],
+    "_version_": 1667138375421788160,
+    "timestamp": "2020-05-19T16:50:50.537Z"
+}

@@ -1,0 +1,122 @@
+{
+    "id": "coin-7301",
+    "title_display": "Coin: 7301",
+    "pub_created_display": [
+        "Constantine I (306 to 337), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7301"
+    ],
+    "call_number_browse_s": [
+        "Coin 7301"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "13-6-1934"
+    ],
+    "find_locus_s": [
+        "7-N"
+    ],
+    "find_description_s": [
+        "7N Circus trench 2; above found. of w cavea, n end"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "2.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7301\",\"call_number_browse\":\"Coin 7301\"}}",
+    "pub_date_start_sort": 330,
+    "pub_date_end_sort": 335,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4575"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "Antioch"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diademed, draped"
+    ],
+    "issue_obverse_legend_s": [
+        "CONSTANTINVS MAX AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldiers"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0399"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with two standards, between them a three-pointed crown, star, or flower."
+    ],
+    "issue_reverse_legend_s": [
+        "GLORIA EXERCITUS"
+    ],
+    "issue_references_s": [
+        "Cohen 7 258.256",
+        "RIC 7 693.85"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "fbdc0e7cf66fd268"
+    ],
+    "_version_": 1667138354153521152,
+    "timestamp": "2020-05-19T16:50:30.255Z"
+}

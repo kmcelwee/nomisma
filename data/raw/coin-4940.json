@@ -1,0 +1,97 @@
+{
+    "id": "coin-4940",
+    "title_display": "Coin: 4940",
+    "call_number_display": [
+        "Coin 4940"
+    ],
+    "call_number_browse_s": [
+        "Coin 4940"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[Cornucopia] BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "50"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "weight_s": [
+        "58.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4940\",\"call_number_browse\":\"Coin 4940\"}}",
+    "donor_s": [
+        "Savage"
+    ],
+    "pub_date_start_sort": 1674,
+    "pub_date_end_sort": 1916,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "2727"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "2 busts"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Two partially-overlapping busts of soldiers, facing left - the background soldier in 1964 uniform and the foreground soldier in 1916 uniform. Church with high steeple on left, wreath at bottom."
+    ],
+    "issue_obverse_legend_s": [
+        "SEMPER | 1674 | 1916"
+    ],
+    "issue_reverse_figure_s": [
+        "Henri de la Tour d'Auvergne, Vicomte de Turenne"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, turned slightly right"
+    ],
+    "issue_reverse_legend_s": [
+        "IL NE FAUT PAS QU'IL Y AIT UN HOMME D'ARMES AU REPOS, TANT QU'UN ALLEMANDE RESTERA DE COTE DU RHIN. )) | TURENNE"
+    ],
+    "issue_references_s": [
+        "Forrer vol. 7, A-L, p. 104 "
+    ],
+    "issue_artists_s": [
+        "Louis E. Paul Boulongue, LE Boulongue"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "4031b1300122193c"
+    ],
+    "_version_": 1667138242662629376,
+    "timestamp": "2020-05-19T16:48:43.928Z"
+}

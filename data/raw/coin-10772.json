@@ -1,0 +1,88 @@
+{
+    "id": "coin-10772",
+    "title_display": "Coin: 10772",
+    "pub_created_display": [
+        "Shapur II, Drachm"
+    ],
+    "call_number_display": [
+        "Coin 10772"
+    ],
+    "call_number_browse_s": [
+        "Coin 10772"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "4.1"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10772\",\"call_number_browse\":\"Coin 10772\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "6933"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint I ('Ctesiphon')"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, diadem ribbons commencing above ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "1 h l. i. mzdysn bgy \u0161hpwhly MRKAn MRKA 'yr'n MNW ctry yzd'n| mazd\u0113sn bay \u0160\u0101buhr \u0161\u0101h\u0101n \u0161\u0101h \u0112ran k\u0113 \u010dihr az yazd\u0101n| \"the Mazda-worshiping, divine Shapur, King of Kings of the Iranians, whose image| brilliance is from the gods\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft; on the shaft l'st (r\u0101st,\u201c just\u201d), to the left and right of the shaft ribbons pointing downwards, three altar plates; above bust with diadem and elaborate coiffure to the right, surrounded by flames depicted by vertical lines; to the left and right of altar attendant with stylized crown of Shapur II, holding a barson with both hands, both figures facing inwards; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "barbarized"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint I (\u201c'Ctesiphon\u201d) Type Ib1/3a"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "369892e79bc9a40d"
+    ],
+    "_version_": 1667138285430898688,
+    "timestamp": "2020-05-19T16:49:24.716Z"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "coin-10077",
+    "title_display": "Coin: 10077",
+    "pub_created_display": [
+        "fals, Hims"
+    ],
+    "call_number_display": [
+        "Coin 10077"
+    ],
+    "call_number_browse_s": [
+        "Coin 10077"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "analysis_s": [
+        "Chipped."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "3/20/1936"
+    ],
+    "find_feature_s": [
+        "Sondage on marble floor."
+    ],
+    "find_locus_s": [
+        "13-R"
+    ],
+    "find_number_s": [
+        "C5849"
+    ],
+    "die_axis_s": [
+        "2"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "1.7"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10077\",\"call_number_browse\":\"Coin 10077\"}}",
+    "pub_date_start_sort": 708,
+    "pub_date_end_sort": 735,
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "6380"
+    ],
+    "issue_metal_s": [
+        "Copper"
+    ],
+    "issue_place_s": [
+        "Hims, Jund Hims, Syria"
+    ],
+    "issue_city_s": [
+        "Hims"
+    ],
+    "issue_state_s": [
+        "Jund Hims"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Inscription in three lines. Pellet border."
+    ],
+    "issue_obverse_legend_s": [
+        "In the field: \u0644\u0627 \u0627\u0644\u0647 | \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 | \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Inscription in four lines with a star at the end of the third line. Pellet border."
+    ],
+    "issue_reverse_legend_s": [
+        "In the field: \u0645\u062d\u0645\u062f | \u0631\u0633\u0648\u0644 | \u0627\u0644\u0644\u0647* | \u0628\u062d\u0645\u0635."
+    ],
+    "issue_references_s": [
+        "Hims  7.1b-c",
+        "Bone (c.i) jund Hims 3.1b-d",
+        "Hims  "
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "73a4f039204e1187"
+    ],
+    "_version_": 1667145289400582144,
+    "timestamp": "2020-05-19T18:40:44.220Z"
+}

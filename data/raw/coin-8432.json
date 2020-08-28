@@ -1,0 +1,115 @@
+{
+    "id": "coin-8432",
+    "title_display": "Coin: 8432",
+    "pub_created_display": [
+        "fals, Uncertain"
+    ],
+    "call_number_display": [
+        "Coin 8432"
+    ],
+    "call_number_browse_s": [
+        "Coin 8432"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Identification uncertain; struck on cast blank, and then cut, possibly indicating that the cast coin (unusual, perhaps counterfeit) was not accepted"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "9-18-1934"
+    ],
+    "find_feature_s": [
+        "MSD 3 yard"
+    ],
+    "find_locus_s": [
+        "19-M"
+    ],
+    "find_number_s": [
+        "C3583"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8432\",\"call_number_browse\":\"Coin 8432\"}}",
+    "pub_date_start_sort": 690,
+    "pub_date_end_sort": 702,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "5378"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Uncertain, Uncertain, Syria"
+    ],
+    "issue_city_s": [
+        "Uncertain"
+    ],
+    "issue_state_s": [
+        "Uncertain"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_figure_s": [
+        "Caliph"
+    ],
+    "issue_obverse_part_s": [
+        "standing"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "dotted border, partial Arabic inscription, possibly standing caliph"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627\u0627[\u2026]"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross on steps"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "transformed cross on steps, star in field l."
+    ],
+    "issue_reverse_legend_s": [
+        "illegible"
+    ],
+    "issue_references_s": [
+        "Ash. 1 plate 44 689-694"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ee41627ac1d8712b"
+    ],
+    "_version_": 1667138268353789952,
+    "timestamp": "2020-05-19T16:49:08.428Z"
+}

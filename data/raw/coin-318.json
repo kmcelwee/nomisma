@@ -1,0 +1,103 @@
+{
+    "id": "coin-318",
+    "title_display": "Coin: 318",
+    "pub_created_display": [
+        "Basil I the Macedonian (867 to 886), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 318"
+    ],
+    "call_number_browse_s": [
+        "Coin 318"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "27"
+    ],
+    "weight_s": [
+        "5.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 318\",\"call_number_browse\":\"Coin 318\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 870,
+    "pub_date_end_sort": 879,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "166"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Basil I the Macedonian (867 to 886)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Leo, Basil, Constantine"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Basil's hand hidden, robe gathered right shoulder"
+    ],
+    "issue_obverse_legend_s": [
+        "+LEON bASILS CONST"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Inscription"
+    ],
+    "issue_reverse_legend_s": [
+        "+bASIL/CONSTAN/TSLEONEN/\u0398ObASILS/ROMEON"
+    ],
+    "issue_reverse_attributes_s": [
+        "legend, Five lines"
+    ],
+    "issue_references_s": [
+        "DOC 496 10",
+        "BN 545 34/CP/AE/12",
+        "BMC.Byz. 440 20",
+        "Sear 328 1713"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9e8d89c058ffa7e4"
+    ],
+    "_version_": 1667138449237344256,
+    "timestamp": "2020-05-19T16:52:00.933Z"
+}

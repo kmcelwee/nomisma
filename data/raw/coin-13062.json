@@ -1,0 +1,97 @@
+{
+    "id": "coin-13062",
+    "title_display": "Coin: 13062",
+    "pub_created_display": [
+        "Parthamaspates, chalkous, Hamadan"
+    ],
+    "call_number_display": [
+        "Coin 13062"
+    ],
+    "call_number_browse_s": [
+        "Coin 13062"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "10.86"
+    ],
+    "weight_s": [
+        "0.9"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13062\",\"call_number_browse\":\"Coin 13062\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": 116,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "chalkous"
+    ],
+    "issue_number_s": [
+        "8506"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Parthamaspates"
+    ],
+    "issue_place_s": [
+        "Hamadan, Ecbatana, Parthian Empire"
+    ],
+    "issue_city_s": [
+        "Hamadan"
+    ],
+    "issue_state_s": [
+        "Ecbatana"
+    ],
+    "issue_region_s": [
+        "Parthian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "short beard wearing tiara with star in center and ear flaps; diadem with loop at the top and two wide end,earring visible"
+    ],
+    "issue_reverse_figure_s": [
+        "Winged Nike"
+    ],
+    "issue_reverse_orientation_s": [
+        "walking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding diadem and palm branch, circular dotted border"
+    ],
+    "issue_references_s": [
+        "Sellwood  81.3"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "96fc8d17071199c4"
+    ],
+    "_version_": 1667138318070972416,
+    "timestamp": "2020-05-19T16:49:55.841Z"
+}

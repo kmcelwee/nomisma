@@ -1,0 +1,107 @@
+{
+    "id": "coin-6297",
+    "title_display": "Coin: 6297",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 6297"
+    ],
+    "call_number_browse_s": [
+        "Coin 6297"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 239, R: 466. = Vlasto 453 = Cote I 163"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "20.5"
+    ],
+    "weight_s": [
+        "7.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6297\",\"call_number_browse\":\"Coin 6297\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -380,
+    "pub_date_end_sort": -355,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3732"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Rider on standing horse"
+    ],
+    "issue_obverse_symbol_s": [
+        "[theta]"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "horse lefts left front hoof; theta below horse's belly"
+    ],
+    "issue_reverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_reverse_symbol_s": [
+        "[delta]"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "rider's right hand outstrecthed, left hand stretched back; theta by dolphin's flukes not visible"
+    ],
+    "issue_reverse_legend_s": [
+        "TARAS"
+    ],
+    "issue_references_s": [
+        "Vlasto Coll.  453",
+        "F-B  609"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b5625ce83d57fe38"
+    ],
+    "_version_": 1667138381455294464,
+    "timestamp": "2020-05-19T16:50:56.289Z"
+}

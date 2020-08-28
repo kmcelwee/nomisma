@@ -1,0 +1,103 @@
+{
+    "id": "coin-13231",
+    "title_display": "Coin: 13231",
+    "pub_created_display": [
+        "Latin Imitative (1204 to 1261), billon trachy, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 13231"
+    ],
+    "call_number_browse_s": [
+        "Coin 13231"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Coin roughly clipped. Figures obscure. Inscriptions missing"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "technique_s": [
+        "scyphate"
+    ],
+    "weight_s": [
+        "1.26"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13231\",\"call_number_browse\":\"Coin 13231\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "billon trachy"
+    ],
+    "issue_number_s": [
+        "8571"
+    ],
+    "issue_metal_s": [
+        "Billon"
+    ],
+    "issue_shape_s": [
+        "scyphate"
+    ],
+    "issue_ruler_s": [
+        "Latin Imitative (1204 to 1261)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Latin Empire, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Latin Empire"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "St. Nicholas"
+    ],
+    "issue_obverse_part_s": [
+        "orans"
+    ],
+    "issue_obverse_legend_s": [
+        "\u039f \u0391\u0393\u0399\u039fC \u039d\u0399\u039a\u039f\u039b\u0391\u039fC"
+    ],
+    "issue_reverse_figure_s": [
+        "John the Baptist"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bearded and nimbate"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u0393\u0399\u039fC \u0399\u03c9 \u039f \u03a0\u03a1\u039f\u0394\u03a1\u039f\u039c\u039fC"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c304f76f6428bc8a"
+    ],
+    "_version_": 1667138337706606592,
+    "timestamp": "2020-05-19T16:50:14.568Z"
+}

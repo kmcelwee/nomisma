@@ -1,0 +1,114 @@
+{
+    "id": "coin-8238",
+    "title_display": "Coin: 8238",
+    "pub_created_display": [
+        "Justin II (565 to 578), 20 nummi, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 8238"
+    ],
+    "call_number_browse_s": [
+        "Coin 8238"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/12/1937"
+    ],
+    "find_feature_s": [
+        "Near central pipe level -2.50"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca283"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "30.5"
+    ],
+    "weight_s": [
+        "9.86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8238\",\"call_number_browse\":\"Coin 8238\"}}",
+    "pub_date_start_sort": 566,
+    "pub_date_end_sort": 567,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "20 nummi"
+    ],
+    "issue_number_s": [
+        "5250"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Justin II (565 to 578)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Byzantium"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Justin II"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Justin II bust facing with crown, pendilia and cuirass"
+    ],
+    "issue_obverse_legend_s": [
+        "DNIVSTI NVSPPAVT"
+    ],
+    "issue_reverse_figure_s": [
+        "K"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on l. ANNO; above, cross; beneath, p"
+    ],
+    "issue_reverse_legend_s": [
+        "on r., l"
+    ],
+    "issue_references_s": [
+        " 246 161",
+        "MIB 2, Justin II 58c",
+        "BMC 94 213"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "bba239f1bddd1f0d"
+    ],
+    "_version_": 1667144891748057088,
+    "timestamp": "2020-05-19T18:34:25.045Z"
+}

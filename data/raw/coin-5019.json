@@ -1,0 +1,82 @@
+{
+    "id": "coin-5019",
+    "title_display": "Coin: 5019",
+    "pub_created_display": [
+        "20 Shillings, Hartford"
+    ],
+    "call_number_display": [
+        "Coin 5019"
+    ],
+    "call_number_browse_s": [
+        "Coin 5019"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "George Wyllys| Benjamin Payne.  Hole cancelled."
+    ],
+    "size_s": [
+        "90x70"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5019\",\"call_number_browse\":\"Coin 5019\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "paper money"
+    ],
+    "issue_denomination_s": [
+        "20 Shillings"
+    ],
+    "issue_number_s": [
+        "2778"
+    ],
+    "issue_metal_s": [
+        "Paper"
+    ],
+    "issue_master_s": [
+        "James Adams"
+    ],
+    "issue_place_s": [
+        "Hartford, Connecticut, United States of America"
+    ],
+    "issue_city_s": [
+        "Hartford"
+    ],
+    "issue_state_s": [
+        "Connecticut"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Seal of Connecticut"
+    ],
+    "issue_obverse_legend_s": [
+        "TWENTY SHILLINGS.  The possessor of this BILL shall be paid by the Treasurer of the STATE of Connecticut, TWENTY SHILLINGS, in Spanish milled Dollars, at the rate of six Shillings each, or other silver or gold Coins equivalent, with Interest at five per"
+    ],
+    "issue_reverse_legend_s": [
+        "TWENTY Shillings. ?????Lawful Money?????|!!!!! July 1, 1780 !!!!!|????????????????| New London: Printed by TIMOTHY GREEN."
+    ],
+    "issue_references_s": [
+        "Newman p. 110"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "9f97da19db5616f5"
+    ],
+    "_version_": 1667313790846238720,
+    "timestamp": "2020-05-21T15:18:59.722Z"
+}

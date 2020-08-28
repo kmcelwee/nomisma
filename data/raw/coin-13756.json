@@ -1,0 +1,120 @@
+{
+    "id": "coin-13756",
+    "title_display": "Coin: 13756",
+    "pub_created_display": [
+        "Cornelius Sulpicius C.F (-106 to ), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 13756"
+    ],
+    "call_number_browse_s": [
+        "Coin 13756"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "1"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.89"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13756\",\"call_number_browse\":\"Coin 13756\"}}",
+    "donor_s": [
+        "Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "8809"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_edge_s": [
+        "serrated"
+    ],
+    "issue_ruler_s": [
+        "Cornelius Sulpicius C.F (-106 to )"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Two busts"
+    ],
+    "issue_obverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_obverse_part_s": [
+        "jugate busts"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Jugate, laurels on heads of Dei Penates"
+    ],
+    "issue_obverse_legend_s": [
+        "D.P.P"
+    ],
+    "issue_reverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_reverse_symbol_s": [
+        "border of dots"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Male figures, each holding a spear in l.hand, and with r.hand, pointing at sow which lies between them"
+    ],
+    "issue_reverse_legend_s": [
+        "C. SUPICI.C.F. above, R"
+    ],
+    "issue_references_s": [
+        "RRC 320 312/1",
+        "PUL 13 163",
+        "Syd. 78 572"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e070dd7a6c5de1ef"
+    ],
+    "_version_": 1667138523974598656,
+    "timestamp": "2020-05-19T16:53:12.207Z"
+}

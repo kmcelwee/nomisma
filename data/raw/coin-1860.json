@@ -1,0 +1,107 @@
+{
+    "id": "coin-1860",
+    "title_display": "Coin: 1860",
+    "pub_created_display": [
+        "Romanus I Lecapenus (920 to 944), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 1860"
+    ],
+    "call_number_browse_s": [
+        "Coin 1860"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "5.39"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1860\",\"call_number_browse\":\"Coin 1860\"}}",
+    "pub_date_start_sort": 931,
+    "pub_date_end_sort": 944,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "1181"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Romanus I Lecapenus (920 to 944)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Romanus I"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bearded, wearing crown and chlamys"
+    ],
+    "issue_obverse_legend_s": [
+        "+RWMAN  BASILEVSRWM'"
+    ],
+    "issue_obverse_attributes_s": [
+        "labarum, in right hand",
+        "globus cruciger, in left hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "inscription"
+    ],
+    "issue_reverse_legend_s": [
+        "+RWMA/N'EN\u0398EWbA/SILEVSRW/MAIWN"
+    ],
+    "issue_references_s": [
+        "DOC 3.562 25",
+        "BN 575 37/Cp/AE/31",
+        "BMC.Byz. 455 14",
+        "Sear 338 1760"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2985bee9f4ba65fc"
+    ],
+    "_version_": 1667138215930232832,
+    "timestamp": "2020-05-19T16:48:18.432Z"
+}

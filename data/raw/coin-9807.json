@@ -1,0 +1,100 @@
+{
+    "id": "coin-9807",
+    "title_display": "Coin: 9807",
+    "pub_created_display": [
+        "Sarzanella de'Manfredi"
+    ],
+    "call_number_display": [
+        "Coin 9807"
+    ],
+    "call_number_browse_s": [
+        "Coin 9807"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "68"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "weight_s": [
+        "149.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9807\",\"call_number_browse\":\"Coin 9807\"}}",
+    "donor_s": [
+        "Cornelius C. Vermeule III"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 1463,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "6194"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Sarzanella de'Manfredi"
+    ],
+    "issue_master_s": [
+        "Sperandio of Mantua (1425 to 1457)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "aged man, flat-top cap, animal fur around neck"
+    ],
+    "issue_obverse_legend_s": [
+        "ANTONIVS.SARZANELLA.DE.MANFREDIS.SAPIENTIAE.PATER"
+    ],
+    "issue_reverse_figure_s": [
+        "Woman"
+    ],
+    "issue_reverse_figure_description_s": [
+        "two-faced figure (young woman as Prudence in front, bearded old man in back) seated upon two dogs; holds shield of Manfredi, a pair of compasses, and convex mirror"
+    ],
+    "issue_reverse_legend_s": [
+        "IN TE CANA FIDES:PRUDENTIA SVMMA REFVLGET | OPUS. SPERAN DEI."
+    ],
+    "issue_references_s": [
+        "Hill, Corpus  358"
+    ],
+    "issue_artists_s": [
+        "Sperandio of Mantua, OPUS SPERANDEI"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "348672237681585b"
+    ],
+    "_version_": 1667138141429956608,
+    "timestamp": "2020-05-19T16:47:07.382Z"
+}

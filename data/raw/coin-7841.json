@@ -1,0 +1,94 @@
+{
+    "id": "coin-7841",
+    "title_display": "Coin: 7841",
+    "pub_created_display": [
+        "fals"
+    ],
+    "call_number_display": [
+        "Coin 7841"
+    ],
+    "call_number_browse_s": [
+        "Coin 7841"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Reverse below shah\u0101da small star."
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4-29-1937"
+    ],
+    "find_feature_s": [
+        "Dig I South addition to 3M"
+    ],
+    "find_locus_s": [
+        "17-O"
+    ],
+    "find_number_s": [
+        "Ca618"
+    ],
+    "find_description_s": [
+        "Basket A"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "3.41"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7841\",\"call_number_browse\":\"Coin 7841\"}}",
+    "pub_date_start_sort": 696,
+    "pub_date_end_sort": 750,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "fals"
+    ],
+    "issue_number_s": [
+        "4889"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "Ummayad"
+    ],
+    "issue_place_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Syria"
+    ],
+    "issue_obverse_legend_s": [
+        "\u0644\u0627 \u0627\u0644\u0647 /\u0627\u0644\u0627 \u0627\u0644\u0644\u0647 / \u0648\u062d\u062f\u0647"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "e7c49cc37c147039"
+    ],
+    "_version_": 1667138174530355200,
+    "timestamp": "2020-05-19T16:47:38.951Z"
+}

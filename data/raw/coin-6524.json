@@ -1,0 +1,104 @@
+{
+    "id": "coin-6524",
+    "title_display": "Coin: 6524",
+    "pub_created_display": [
+        "Andronicus II (1282 to 1328), basilicon, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 6524"
+    ],
+    "call_number_browse_s": [
+        "Coin 6524"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.85"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6524\",\"call_number_browse\":\"Coin 6524\"}}",
+    "pub_date_start_sort": 1294,
+    "pub_date_end_sort": 1328,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "basilicon"
+    ],
+    "issue_number_s": [
+        "3945"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Andronicus II (1282 to 1328)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Christ seated on low throne raising r. hand in blessing"
+    ],
+    "issue_obverse_legend_s": [
+        "IC XC to either side of Christ's head, circular KUPHE BO\u0398EI around border, sigla two dots by Christ's elbows"
+    ],
+    "issue_reverse_figure_s": [
+        "Andronicus II and Michael IX"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Andronicus II bearded standing on l. and Michael IX beardless standing on r. holding between them a labarum on base w. circle beneath the plaque"
+    ],
+    "issue_reverse_legend_s": [
+        "circular \u0391VTOKPATORPEC PWMAIWN"
+    ],
+    "issue_references_s": [
+        "DOC vol. V, page 144 8c",
+        "Sear  2402"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "028c0fbb2c307250"
+    ],
+    "_version_": 1667138253557334016,
+    "timestamp": "2020-05-19T16:48:54.317Z"
+}

@@ -1,0 +1,100 @@
+{
+    "id": "coin-8491",
+    "title_display": "Coin: 8491",
+    "pub_created_display": [
+        "large, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 8491"
+    ],
+    "call_number_browse_s": [
+        "Coin 8491"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "09/28/1934"
+    ],
+    "find_locus_s": [
+        "DH 256"
+    ],
+    "find_number_s": [
+        "C3703"
+    ],
+    "find_description_s": [
+        "S. of yard"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "17"
+    ],
+    "weight_s": [
+        "8.78"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8491\",\"call_number_browse\":\"Coin 8491\"}}",
+    "pub_date_start_sort": -88,
+    "pub_date_end_sort": -73,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "large"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_era_s": [
+        "Seleucid"
+    ],
+    "issue_series_s": [
+        "municipal"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Illegible"
+    ],
+    "issue_reverse_figure_s": [
+        "Tripod-lebes"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d \u03a4\u0397\u03a3 \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u039b\u0395\u03a9\u03a3"
+    ],
+    "issue_references_s": [
+        "Waage  252-263"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "478f20600cbb4292"
+    ],
+    "_version_": 1671476228572315648,
+    "timestamp": "2020-07-06T13:59:09.676Z"
+}

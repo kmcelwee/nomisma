@@ -1,0 +1,101 @@
+{
+    "id": "coin-371",
+    "title_display": "Coin: 371",
+    "pub_created_display": [
+        "Augustus (-30 to 14), quinarius"
+    ],
+    "call_number_display": [
+        "Coin 371"
+    ],
+    "call_number_browse_s": [
+        "Coin 371"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "14"
+    ],
+    "weight_s": [
+        "1.44"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 371\",\"call_number_browse\":\"Coin 371\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": -29,
+    "pub_date_end_sort": -26,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "quinarius"
+    ],
+    "issue_number_s": [
+        "188"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Augustus (-30 to 14)"
+    ],
+    "issue_place_s": [
+        "Asia, Roman Empire"
+    ],
+    "issue_state_s": [
+        "Asia"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Caesar"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare head right"
+    ],
+    "issue_obverse_legend_s": [
+        "CAESAR.IMP.VII."
+    ],
+    "issue_reverse_figure_s": [
+        "Victory"
+    ],
+    "issue_reverse_figure_description_s": [
+        "victory on cista"
+    ],
+    "issue_reverse_legend_s": [
+        "ASIA.RECEPTA"
+    ],
+    "issue_references_s": [
+        "RIC.1. Augustus 18",
+        "BMC.1. Augustus 647"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "289ae7bc897e0946"
+    ],
+    "_version_": 1667138400597049344,
+    "timestamp": "2020-05-19T16:51:14.546Z"
+}

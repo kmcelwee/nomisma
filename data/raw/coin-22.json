@@ -1,0 +1,117 @@
+{
+    "id": "coin-22",
+    "title_display": "Coin: 22",
+    "pub_created_display": [
+        "Anastasius I (491 to 518), 40 nummi, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 22"
+    ],
+    "call_number_browse_s": [
+        "Coin 22"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "cross of 4 lozenges on reverse upper cross"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "28"
+    ],
+    "weight_s": [
+        "9.17"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 22\",\"call_number_browse\":\"Coin 22\"}}",
+    "donor_s": [
+        "Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 507,
+    "pub_date_end_sort": 512,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "40 nummi"
+    ],
+    "issue_number_s": [
+        "33"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Anastasius I (491 to 518)"
+    ],
+    "issue_workshop_s": [
+        "\u0404"
+    ],
+    "issue_series_s": [
+        "small flan"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "DNANASTA SIVSPPAVC"
+    ],
+    "issue_reverse_figure_s": [
+        "\u039c"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0404"
+    ],
+    "issue_reverse_legend_s": [
+        " | CON"
+    ],
+    "issue_reverse_attributes_s": [
+        "cross, above",
+        "star, to left",
+        "cross, to right"
+    ],
+    "issue_references_s": [
+        " Anastasius 25\u0404",
+        " Anastasius 20f",
+        "BMC.Byz. Anastasius 40v",
+        "Sear  18"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "38270fededbf8e73"
+    ],
+    "_version_": 1667138199127851008,
+    "timestamp": "2020-05-19T16:48:02.410Z"
+}

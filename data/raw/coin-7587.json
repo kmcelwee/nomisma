@@ -1,0 +1,119 @@
+{
+    "id": "coin-7587",
+    "title_display": "Coin: 7587",
+    "pub_created_display": [
+        "Licinius (308 to 324), follis, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 7587"
+    ],
+    "call_number_browse_s": [
+        "Coin 7587"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "4/5/1933"
+    ],
+    "find_feature_s": [
+        "Atrium s. w."
+    ],
+    "find_number_s": [
+        "2877"
+    ],
+    "find_description_s": [
+        "1.25 m just above street"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "2.99"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7587\",\"call_number_browse\":\"Coin 7587\"}}",
+    "pub_date_start_sort": 315,
+    "pub_date_end_sort": 316,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "4748"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Licinius (308 to 324)"
+    ],
+    "issue_workshop_s": [
+        "B"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP LIC LICINIVS P F AVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jupiter stg. l., chlamys across l. shoulder, leaning on sceptre, Victory on globe in r. hand; eagle with wreath to l. on ground"
+    ],
+    "issue_reverse_legend_s": [
+        "IOVI CONSERVATORI AVGG NN"
+    ],
+    "issue_references_s": [
+        "RIC, VII 678 17",
+        "Numismatique Constantinienne III. 186-187. I. 1"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "feafe240e303b63e"
+    ],
+    "_version_": 1667138352268181504,
+    "timestamp": "2020-05-19T16:50:28.454Z"
+}

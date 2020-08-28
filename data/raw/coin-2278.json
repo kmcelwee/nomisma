@@ -1,0 +1,123 @@
+{
+    "id": "coin-2278",
+    "title_display": "Coin: 2278",
+    "pub_created_display": [
+        "Seleucus I Nikator (-312 to -280), unit, Seleuceia ad Tigrim"
+    ],
+    "call_number_display": [
+        "Coin 2278"
+    ],
+    "call_number_browse_s": [
+        "Coin 2278"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/24/1937"
+    ],
+    "find_locus_s": [
+        "A 16-O"
+    ],
+    "find_number_s": [
+        "Ca2681"
+    ],
+    "find_description_s": [
+        "E. of room 1, sealed deposit under rubble floor (basket 2)"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "16"
+    ],
+    "weight_s": [
+        "3.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2278\",\"call_number_browse\":\"Coin 2278\"}}",
+    "pub_date_start_sort": -296,
+    "pub_date_end_sort": -295,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "unit"
+    ],
+    "issue_number_s": [
+        "1466"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Seleucus I Nikator (-312 to -280)"
+    ],
+    "issue_workshop_s": [
+        "First workshop"
+    ],
+    "issue_place_s": [
+        "Seleuceia ad Tigrim, Mesopotamia, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Seleuceia ad Tigrim"
+    ],
+    "issue_state_s": [
+        "Mesopotamia"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Athena"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long hair and crested Corinthian helmet"
+    ],
+    "issue_reverse_figure_s": [
+        "Elephant"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1463, beneath elephant",
+        "\u0392, in r. field"
+    ],
+    "issue_references_s": [
+        "H & L  129b",
+        "ESM  16"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f912457a7a0f34eb"
+    ],
+    "_version_": 1669833041515642880,
+    "timestamp": "2020-06-18T10:41:24.384Z"
+}

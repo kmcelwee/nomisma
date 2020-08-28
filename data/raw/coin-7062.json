@@ -1,0 +1,104 @@
+{
+    "id": "coin-7062",
+    "title_display": "Coin: 7062",
+    "pub_created_display": [
+        "Constans II (641 to 668), solidus, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 7062"
+    ],
+    "call_number_browse_s": [
+        "Coin 7062"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "7"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "4.35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7062\",\"call_number_browse\":\"Coin 7062\"}}",
+    "donor_s": [
+        "Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 654,
+    "pub_date_end_sort": 659,
+    "issue_denomination_s": [
+        "solidus"
+    ],
+    "issue_number_s": [
+        "4401"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Constans II (641 to 668)"
+    ],
+    "issue_workshop_s": [
+        "S"
+    ],
+    "issue_place_s": [
+        "Constantinople, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Constans II and Constantine IV"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "To l., bust of Constans II, with long beard and moustache; to r., smaller bust of Constantine IV, beardless; each facing, wearing paludamentum and cuirass and crown with globus cr.; between them, small cross"
+    ],
+    "issue_obverse_legend_s": [
+        "[DNCONSATINUSCCONSTAN]"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross potent"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Cross potent on three steps"
+    ],
+    "issue_reverse_legend_s": [
+        "VICTORIA AUGUS circular, CONOB beneath cross"
+    ],
+    "issue_references_s": [
+        "MIB vol. 3 26",
+        "BL vol. I, page 339 55",
+        "DOC vol. 2, page 427 25f",
+        "BMC.Byz. vol. I, page 259 16",
+        "Sear page 203 959"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "d291e13767e8e233"
+    ],
+    "_version_": 1667138360430297088,
+    "timestamp": "2020-05-19T16:50:36.245Z"
+}

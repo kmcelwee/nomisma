@@ -1,0 +1,98 @@
+{
+    "id": "coin-5955",
+    "title_display": "Coin: 5955",
+    "pub_created_display": [
+        "Didrachm, Tarentum"
+    ],
+    "call_number_display": [
+        "Coin 5955"
+    ],
+    "call_number_browse_s": [
+        "Coin 5955"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "F-B O: 111, R: 166"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "7.28"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5955\",\"call_number_browse\":\"Coin 5955\"}}",
+    "donor_s": [
+        "Baldwin Maull"
+    ],
+    "pub_date_start_sort": -440,
+    "pub_date_end_sort": -425,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Didrachm"
+    ],
+    "issue_number_s": [
+        "3450"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_place_s": [
+        "Tarentum, Calabria, Italy"
+    ],
+    "issue_city_s": [
+        "Tarentum"
+    ],
+    "issue_state_s": [
+        "Calabria"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Boy on a dolphin"
+    ],
+    "issue_obverse_symbol_s": [
+        "scallop shell"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "left arm outstretched, shell below"
+    ],
+    "issue_reverse_figure_s": [
+        "Rider on galloping horse"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_references_s": [
+        "F-B  227",
+        "Vlasto Coll.  274-286"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "04a0608b5bf93feb"
+    ],
+    "_version_": 1667138387572686848,
+    "timestamp": "2020-05-19T16:51:02.125Z"
+}

@@ -1,0 +1,114 @@
+{
+    "id": "coin-1049",
+    "title_display": "Coin: 1049",
+    "pub_created_display": [
+        "Nero (54 to 68), aureus, Rome"
+    ],
+    "call_number_display": [
+        "Coin 1049"
+    ],
+    "call_number_browse_s": [
+        "Coin 1049"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19.5"
+    ],
+    "weight_s": [
+        "7.42"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1049\",\"call_number_browse\":\"Coin 1049\"}}",
+    "donor_s": [
+        "unknown"
+    ],
+    "pub_date_start_sort": 64,
+    "pub_date_end_sort": 66,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "aureus"
+    ],
+    "issue_number_s": [
+        "503"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Nero (54 to 68)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Nero"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laureate"
+    ],
+    "issue_obverse_legend_s": [
+        "NERO CAESAR  AUGUSTUS"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor and empress"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_legend_s": [
+        "AUGUSTUS  AUGUSTA"
+    ],
+    "issue_reverse_attributes_s": [
+        "patera, in hand of emperor and empress",
+        "sceptre, in hand of emperor",
+        "cornucopiae, in hand of empress"
+    ],
+    "issue_references_s": [
+        "RIC.1. Nero 41",
+        "BMC.1. Nero 52",
+        "MacDowall  23",
+        "Sear  1926"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "2c891bc6e861a929"
+    ],
+    "_version_": 1667138457277825024,
+    "timestamp": "2020-05-19T16:52:08.601Z"
+}

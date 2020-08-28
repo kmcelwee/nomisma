@@ -1,0 +1,116 @@
+{
+    "id": "coin-6188",
+    "title_display": "Coin: 6188",
+    "pub_created_display": [
+        "Justinian II (685 to 711), solidus, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 6188"
+    ],
+    "call_number_browse_s": [
+        "Coin 6188"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "4.46"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6188\",\"call_number_browse\":\"Coin 6188\"}}",
+    "pub_date_start_sort": 692,
+    "pub_date_end_sort": 695,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "solidus"
+    ],
+    "issue_number_s": [
+        "3633"
+    ],
+    "issue_metal_s": [
+        "Gold"
+    ],
+    "issue_ruler_s": [
+        "Justinian II (685 to 711)"
+    ],
+    "issue_workshop_s": [
+        "\u0393"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Christ"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "long hair and beard, cross behind"
+    ],
+    "issue_obverse_legend_s": [
+        "IhS CRISTUS REX REGNANTIUM"
+    ],
+    "issue_reverse_figure_s": [
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "cross"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, facing forward"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing loros and crown w. cross; in r. hand cross potent on base and 2 steps; in l. hand akakia"
+    ],
+    "issue_reverse_legend_s": [
+        "DIUSTINI AN USSERU ChRISTI | CONOP \u0393"
+    ],
+    "issue_references_s": [
+        "MIB.3  8",
+        "DOC.2 Justinian II,1st reign 7c",
+        "BMC.Byz. Justinian II 17",
+        "BL  15",
+        "Sear  1248"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "359c0e9acb6516b9"
+    ],
+    "_version_": 1667138376170471424,
+    "timestamp": "2020-05-19T16:50:51.251Z"
+}

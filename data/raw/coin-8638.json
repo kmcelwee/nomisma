@@ -1,0 +1,97 @@
+{
+    "id": "coin-8638",
+    "title_display": "Coin: 8638",
+    "pub_created_display": [
+        "Giovanni Galeazzo Maria and Lodovico Maria Sforza (1481 to 1494), Grosso of 5 soldi"
+    ],
+    "call_number_display": [
+        "Coin 8638"
+    ],
+    "call_number_browse_s": [
+        "Coin 8638"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "23.5"
+    ],
+    "weight_s": [
+        "2.73"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8638\",\"call_number_browse\":\"Coin 8638\"}}",
+    "pub_date_start_sort": 1481,
+    "pub_date_end_sort": 1494,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Grosso of 5 soldi"
+    ],
+    "issue_number_s": [
+        "5532"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Giovanni Galeazzo Maria and Lodovico Maria Sforza (1481 to 1494)"
+    ],
+    "issue_place_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Helmet"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "helmet with a crown with dragon coming out on top"
+    ],
+    "issue_obverse_legend_s": [
+        ",IO,GZ,M,SF, VICECO,DVX,MLI,SX"
+    ],
+    "issue_reverse_figure_s": [
+        "Saint Ambrose"
+    ],
+    "issue_reverse_part_s": [
+        "bust"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bust of Saint Ambrose with nimbus and crown"
+    ],
+    "issue_reverse_legend_s": [
+        "+,LVDOVICO,PATRVO,GVBERNANTE,"
+    ],
+    "issue_references_s": [
+        "CNI V, p.191 43"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1721732e84ef7284"
+    ],
+    "_version_": 1667138269839622144,
+    "timestamp": "2020-05-19T16:49:09.843Z"
+}

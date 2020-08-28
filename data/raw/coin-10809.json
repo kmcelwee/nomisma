@@ -1,0 +1,100 @@
+{
+    "id": "coin-10809",
+    "title_display": "Coin: 10809",
+    "pub_created_display": [
+        "Shapur II, AE"
+    ],
+    "call_number_display": [
+        "Coin 10809"
+    ],
+    "call_number_browse_s": [
+        "Coin 10809"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Rev. corroded"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "1.48"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10809\",\"call_number_browse\":\"Coin 10809\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 310,
+    "pub_date_end_sort": 379,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "AE"
+    ],
+    "issue_number_s": [
+        "6970"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Shapur II"
+    ],
+    "issue_series_s": [
+        "Mint VI= Marw"
+    ],
+    "issue_place_s": [
+        "Marw, Sasanian Empire"
+    ],
+    "issue_state_s": [
+        "Marw"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right Profile of Shapur II on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three floral elements; covered korymbos; two ribbons commencing to the left below the lorymbos, pointing upwards, pearl diadem, diadem ribbons commencing above ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (the latter not visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "Barbarized legends aiming at \u0161hpwhly"
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "details unclear; above altar table, half-bust to the left, holding diadem-ribbon and lance"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 3 Mint VI= Marw Type Ib1/4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "f084eae74d74a32f"
+    ],
+    "_version_": 1667138178243362816,
+    "timestamp": "2020-05-19T16:47:42.492Z"
+}

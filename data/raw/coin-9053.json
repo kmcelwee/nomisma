@@ -1,0 +1,113 @@
+{
+    "id": "coin-9053",
+    "title_display": "Coin: 9053",
+    "pub_created_display": [
+        "Trajan (98 to 117), denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 9053"
+    ],
+    "call_number_browse_s": [
+        "Coin 9053"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "3.06"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9053\",\"call_number_browse\":\"Coin 9053\"}}",
+    "donor_s": [
+        "Edward Newell"
+    ],
+    "pub_date_start_sort": 98,
+    "pub_date_end_sort": 117,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "5747"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Trajan (98 to 117)"
+    ],
+    "issue_place_s": [
+        "Rome, Italy, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Italy"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Trajan"
+    ],
+    "issue_obverse_symbol_s": [
+        "laurel wreath"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_legend_s": [
+        "IMP.TRAIANO|AUG.GER.DAC.P.M.TR.P"
+    ],
+    "issue_reverse_figure_s": [
+        "River God"
+    ],
+    "issue_reverse_symbol_s": [
+        "reeds and prow"
+    ],
+    "issue_reverse_part_s": [
+        "reclining"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "l. arm rest on rock, r. hand on prow, in ex. DANVVIVS"
+    ],
+    "issue_reverse_legend_s": [
+        "COS.V.P.P.S.P.Q.R.OPTIMO|PRINC.||  DANVVIVS"
+    ],
+    "issue_references_s": [
+        "RIC 2, Trajan, 251 100",
+        "BMC.1 3, Trajan 395"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "38ef6e03c224c1da"
+    ],
+    "_version_": 1667138148482678784,
+    "timestamp": "2020-05-19T16:47:14.109Z"
+}

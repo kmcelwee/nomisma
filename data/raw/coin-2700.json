@@ -1,0 +1,115 @@
+{
+    "id": "coin-2700",
+    "title_display": "Coin: 2700",
+    "pub_created_display": [
+        "William Washington"
+    ],
+    "call_number_display": [
+        "Coin 2700"
+    ],
+    "call_number_browse_s": [
+        "Coin 2700"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Lead cast bronzed pre-1842 Paris Mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "46"
+    ],
+    "technique_s": [
+        "cast"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2700\",\"call_number_browse\":\"Coin 2700\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 1842,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_number_s": [
+        "1704"
+    ],
+    "issue_metal_s": [
+        "Lead"
+    ],
+    "issue_color_s": [
+        "bronzed"
+    ],
+    "issue_ruler_s": [
+        "William Washington"
+    ],
+    "issue_workshop_s": [
+        "Paris Mint"
+    ],
+    "issue_series_s": [
+        "Comitia Americana"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "William Washington"
+    ],
+    "issue_obverse_part_s": [
+        "charging"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "William Washington on horseback charging to l., Victory w. wreath and palms flying above, 2 bodies beneath, calvary to l. and r. rear"
+    ],
+    "issue_obverse_legend_s": [
+        "GULIELMO WASHINGTON LEGIONIS EQUIT.PRAEFECTO| COMITIA AMERICAN"
+    ],
+    "issue_obverse_attributes_s": [
+        "die, 1"
+    ],
+    "issue_reverse_figure_s": [
+        "Wreath"
+    ],
+    "issue_reverse_figure_description_s": [
+        "laurel wreath, ribbon ties at top and bottom"
+    ],
+    "issue_reverse_legend_s": [
+        "QUOD| PARVA MILITUM MANU| STRENUE PROSECUTUS HOSTES| VIRTUTIS INGENITAE| PRAECLARUM SPECIMEN DEDIT| IN PUGNA AD COWPENS| XVII.JAN.MDCCLXXXI"
+    ],
+    "issue_reverse_attributes_s": [
+        "die, A"
+    ],
+    "issue_references_s": [
+        "Betts  594",
+        "Julian  MI-8",
+        "Stahl, Comitia Americana  71",
+        "Adams pp 139-144 "
+    ],
+    "issue_artists_s": [
+        "Pierre Simon Benjamin Duvivier, DUV"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b8ae188f61a08f4b"
+    ],
+    "_version_": 1667138160091463680,
+    "timestamp": "2020-05-19T16:47:25.179Z"
+}

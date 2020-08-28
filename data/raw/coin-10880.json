@@ -1,0 +1,104 @@
+{
+    "id": "coin-10880",
+    "title_display": "Coin: 10880",
+    "pub_created_display": [
+        "Shapur III (309 to 379), Drachm, Ohrmazd-Ardashir"
+    ],
+    "call_number_display": [
+        "Coin 10880"
+    ],
+    "call_number_browse_s": [
+        "Coin 10880"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Obv./rev. blind spot"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "24"
+    ],
+    "weight_s": [
+        "4.12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10880\",\"call_number_browse\":\"Coin 10880\"}}",
+    "donor_s": [
+        "Robert Schaaf"
+    ],
+    "pub_date_start_sort": 383,
+    "pub_date_end_sort": 388,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Drachm"
+    ],
+    "issue_number_s": [
+        "7041"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Shapur III (309 to 379)"
+    ],
+    "issue_series_s": [
+        " Mint VI (AW) Ib2/1b"
+    ],
+    "issue_place_s": [
+        "Ohrmazd-Ardashir, Khuzistan, Sasanian Empire"
+    ],
+    "issue_city_s": [
+        "Ohrmazd-Ardashir"
+    ],
+    "issue_state_s": [
+        "Khuzistan"
+    ],
+    "issue_region_s": [
+        "Sasanian Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Right profile of Shapur III on frontal bust"
+    ],
+    "issue_obverse_figure_description_s": [
+        "crown with three arcades, the latter enclosing lily-like object; covered korymbos; two ribbons commencing to the left below the korymbos, pointing upwards, pearl diadem, one diadem ribbon commencing below ball of hair, pointing upwards, earing consisting of two elements; neck-line of tunica edged with row of pearls; double row of pearls running the shoulders to the breast ornament (only upper part visible); dotted border"
+    ],
+    "issue_obverse_legend_s": [
+        "11 h l. o. mzdysn bgy \u0161hpwhry MRKAn MRKA 'ry'n W 'nyr'n MNW ctry MN yzd'n| mazd\u0113sn bay \u0160\u0101buhr \u0161\u0101h\u0101n \u0161\u0101h \u0112r\u0101n ud An\u0113r\u0101n k\u0113 \u010dihr az yazd\u0101n|\"The Mazda-worshiping divine Shapur, King of Kings of the Iranians and non-Iranians, whose seed (image|splendour) is from the gods\""
+    ],
+    "issue_reverse_figure_s": [
+        "Fire altar"
+    ],
+    "issue_reverse_figure_description_s": [
+        "base consisting of two elements; round altar shaft l'st (r\u0101st, \"just\"); to the left and right of the shaft ribbons pointing downwards, three altar slabs; above bust with diadem and elaborate coiffure to the right, surrounded by flames, depicted by vertical lines, to the left and right of altar attendant with stylized crown of Shapur III, holding a barsom with both hands, both figures facing inwards; dotted border"
+    ],
+    "issue_reverse_legend_s": [
+        "no legend"
+    ],
+    "issue_references_s": [
+        "SNS 3  \"Western Group\" Mint VI (AW) Ib2/1b",
+        "SN  I/1 (SN)"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "90fe75aa21c5a3bc"
+    ],
+    "_version_": 1667138286865350656,
+    "timestamp": "2020-05-19T16:49:26.081Z"
+}

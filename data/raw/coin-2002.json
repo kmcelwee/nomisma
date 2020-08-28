@@ -1,0 +1,122 @@
+{
+    "id": "coin-2002",
+    "title_display": "Coin: 2002",
+    "pub_created_display": [
+        "Leo VI (886 to 912), follis, Constantinople"
+    ],
+    "call_number_display": [
+        "Coin 2002"
+    ],
+    "call_number_browse_s": [
+        "Coin 2002"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/24/1932"
+    ],
+    "find_feature_s": [
+        "Church"
+    ],
+    "find_locus_s": [
+        "Daphne"
+    ],
+    "find_number_s": [
+        "1756C13"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "26"
+    ],
+    "weight_s": [
+        "5.51"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2002\",\"call_number_browse\":\"Coin 2002\"}}",
+    "pub_date_start_sort": 886,
+    "pub_date_end_sort": 912,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "follis"
+    ],
+    "issue_number_s": [
+        "1368"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Leo VI (886 to 912)"
+    ],
+    "issue_place_s": [
+        "Constantinople, Thrace, Byzantium"
+    ],
+    "issue_city_s": [
+        "Constantinople"
+    ],
+    "issue_state_s": [
+        "Thrace"
+    ],
+    "issue_region_s": [
+        "Byzantium"
+    ],
+    "issue_obverse_figure_s": [
+        "Leo and Alexander"
+    ],
+    "issue_obverse_part_s": [
+        "seated"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on double throne, each wearing loros and crown with cross"
+    ],
+    "issue_obverse_legend_s": [
+        "+LEON SALEXANbROS"
+    ],
+    "issue_obverse_attributes_s": [
+        "labarum, held between them",
+        "akakia, in Alexander's left hand"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_figure_description_s": [
+        "4 lines"
+    ],
+    "issue_reverse_legend_s": [
+        "+LEON/SALEXAN/bROSbASIL'/ROMEON"
+    ],
+    "issue_references_s": [
+        "DOC 3.517 6",
+        "BMC.Byz. 447 11",
+        "BN 554 35/Cp/AE/04",
+        "Sear 332 1730"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "0780ccf20991182f"
+    ],
+    "_version_": 1667138444315328512,
+    "timestamp": "2020-05-19T16:51:56.239Z"
+}

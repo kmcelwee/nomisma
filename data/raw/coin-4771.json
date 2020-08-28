@@ -1,0 +1,108 @@
+{
+    "id": "coin-4771",
+    "title_display": "Coin: 4771",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 4771"
+    ],
+    "call_number_browse_s": [
+        "Coin 4771"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "3"
+    ],
+    "size_s": [
+        "18.0"
+    ],
+    "weight_s": [
+        "3.68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4771\",\"call_number_browse\":\"Coin 4771\"}}",
+    "donor_s": [
+        "W.S. Watson"
+    ],
+    "pub_date_start_sort": -32,
+    "pub_date_end_sort": -31,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2599"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Antonius (c. -83 to -30)"
+    ],
+    "issue_workshop_s": [
+        "Moving with M. Antonius"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "Galley"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with sceptre tied with fillet on prow; border of dots"
+    ],
+    "issue_obverse_legend_s": [
+        "ANT AVG | III VIR R \u0393 C"
+    ],
+    "issue_reverse_figure_s": [
+        "Aquila"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "between two standards; border of dots"
+    ],
+    "issue_reverse_legend_s": [
+        "LEG IV"
+    ],
+    "issue_references_s": [
+        "RRC  544/17",
+        "Syd.  1219",
+        "Sear  1479v."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c729f4dd5fe53af3"
+    ],
+    "_version_": 1667138239852445696,
+    "timestamp": "2020-05-19T16:48:41.249Z"
+}

@@ -1,0 +1,115 @@
+{
+    "id": "coin-13152",
+    "title_display": "Coin: 13152",
+    "pub_created_display": [
+        "Severina (270 to 275), antoninianus, Antioch"
+    ],
+    "call_number_display": [
+        "Coin 13152"
+    ],
+    "call_number_browse_s": [
+        "Coin 13152"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "5/11/1938"
+    ],
+    "find_feature_s": [
+        "At NE corner of B12"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Cb1668"
+    ],
+    "die_axis_s": [
+        "5"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "2.94"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13152\",\"call_number_browse\":\"Coin 13152\"}}",
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "antoninianus"
+    ],
+    "issue_number_s": [
+        "8527"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Severina (270 to 275)"
+    ],
+    "issue_place_s": [
+        "Antioch, Syria, Roman Empire"
+    ],
+    "issue_city_s": [
+        "Antioch"
+    ],
+    "issue_state_s": [
+        "Syria"
+    ],
+    "issue_region_s": [
+        "Roman Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "diadem, on crescent"
+    ],
+    "issue_obverse_legend_s": [
+        "SEVERI NAAVG"
+    ],
+    "issue_reverse_figure_s": [
+        "Concordia"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "holding two ensigns, in l. field P"
+    ],
+    "issue_reverse_legend_s": [
+        "CONCORDIAEMILITVM | XXI"
+    ],
+    "issue_references_s": [
+        "RIC V, I, p. 318 20"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "b845d00a25557dbe"
+    ],
+    "_version_": 1667138336183025664,
+    "timestamp": "2020-05-19T16:50:13.114Z"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "coin-6205",
+    "title_display": "Coin: 6205",
+    "pub_created_display": [
+        "Carlos II (1665 to 1700), 2 reales"
+    ],
+    "call_number_display": [
+        "Coin 6205"
+    ],
+    "call_number_browse_s": [
+        "Coin 6205"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Weight with hole is 2.04 g"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "technique_s": [
+        "roller die"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6205\",\"call_number_browse\":\"Coin 6205\"}}",
+    "donor_s": [
+        "Sir Orville Watson, Jr Mosher"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "2 reales"
+    ],
+    "issue_number_s": [
+        "3651"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Carlos II (1665 to 1700)"
+    ],
+    "issue_workshop_s": [
+        "Barcelona"
+    ],
+    "issue_place_s": [
+        "Spain"
+    ],
+    "issue_region_s": [
+        "Spain"
+    ],
+    "issue_obverse_figure_s": [
+        "Head to the left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust facing to the left in a circle"
+    ],
+    "issue_obverse_legend_s": [
+        "*CAROL*II*D*G*HISP*REX"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_symbol_s": [
+        "washers and nuts"
+    ],
+    "issue_reverse_figure_description_s": [
+        "cross with one washer at two of the corners and three nuts in the other two corners"
+    ],
+    "issue_reverse_legend_s": [
+        "CIVI 1677 BAR CINO"
+    ],
+    "issue_references_s": [
+        "Cast\u00e1n y Cay\u00f3n  6532",
+        "Las Monedas Espanolas  496",
+        "Heiss vol II, lam. 84 2"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "86de040accd60082"
+    ],
+    "_version_": 1667138374666813440,
+    "timestamp": "2020-05-19T16:50:49.815Z"
+}

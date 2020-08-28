@@ -1,0 +1,115 @@
+{
+    "id": "coin-13709",
+    "title_display": "Coin: 13709",
+    "pub_created_display": [
+        "Timarchus (-163 to -160), Tetrachalkoi, Ecbatana"
+    ],
+    "call_number_display": [
+        "Coin 13709"
+    ],
+    "call_number_browse_s": [
+        "Coin 13709"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "6"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "15.05"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13709\",\"call_number_browse\":\"Coin 13709\"}}",
+    "donor_s": [
+        "J.C. Wilson"
+    ],
+    "pub_date_start_sort": -164,
+    "pub_date_end_sort": -161,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "Tetrachalkoi"
+    ],
+    "issue_number_s": [
+        "8770"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Timarchus (-163 to -160)"
+    ],
+    "issue_place_s": [
+        "Ecbatana, Media, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Ecbatana"
+    ],
+    "issue_state_s": [
+        "Media"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Timarchus"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "one diadem end flying up behind, other forward over shoulder"
+    ],
+    "issue_obverse_attributes_s": [
+        "m13700, behind head"
+    ],
+    "issue_reverse_figure_s": [
+        "Nike"
+    ],
+    "issue_reverse_part_s": [
+        "advancing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "crowning royal name"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u039c\u0395\u0393\u0391\u039b\u039f\u03a5 | \u03a4\u0399\u039c\u0391\u03a1\u03a7\u039f\u03a5"
+    ],
+    "issue_reverse_attributes_s": [
+        "palm branch, over shoulder"
+    ],
+    "issue_references_s": [
+        "H & L II,v.I,p.148 1601"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "ff9061221d3ee4cb"
+    ],
+    "_version_": 1667138129255989248,
+    "timestamp": "2020-05-19T16:46:55.773Z"
+}

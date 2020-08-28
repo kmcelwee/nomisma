@@ -1,0 +1,96 @@
+{
+    "id": "coin-1609",
+    "title_display": "Coin: 1609",
+    "pub_created_display": [
+        "Hugh IV of Cyprus (1324 to 1359), gros"
+    ],
+    "call_number_display": [
+        "Coin 1609"
+    ],
+    "call_number_browse_s": [
+        "Coin 1609"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "10"
+    ],
+    "size_s": [
+        "25"
+    ],
+    "weight_s": [
+        "4.55"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1609\",\"call_number_browse\":\"Coin 1609\"}}",
+    "donor_s": [
+        "A.C. Johnson"
+    ],
+    "pub_date_start_sort": 1324,
+    "pub_date_end_sort": 1359,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "gros"
+    ],
+    "issue_number_s": [
+        "1000"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_ruler_s": [
+        "Hugh IV of Cyprus (1324 to 1359)"
+    ],
+    "issue_place_s": [
+        "Rhodes, Crusader"
+    ],
+    "issue_state_s": [
+        "Rhodes"
+    ],
+    "issue_region_s": [
+        "Crusader"
+    ],
+    "issue_obverse_figure_s": [
+        "King"
+    ],
+    "issue_obverse_figure_description_s": [
+        "king seated holding orb and scepter, crowned, B at left"
+    ],
+    "issue_obverse_legend_s": [
+        "+hVGVE REI DE"
+    ],
+    "issue_reverse_figure_s": [
+        "Cross"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Jerusalem Cross"
+    ],
+    "issue_reverse_legend_s": [
+        "+IERVSAL'M E D' ChIPR"
+    ],
+    "issue_references_s": [
+        "Malloy  71",
+        "Ox.  740",
+        "Schl. Plate VI 4"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "678a15a5fba0fc91"
+    ],
+    "_version_": 1667138413669646336,
+    "timestamp": "2020-05-19T16:51:27.010Z"
+}

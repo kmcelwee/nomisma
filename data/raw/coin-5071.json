@@ -1,0 +1,114 @@
+{
+    "id": "coin-5071",
+    "title_display": "Coin: 5071",
+    "pub_created_display": [
+        "denarius, Rome"
+    ],
+    "call_number_display": [
+        "Coin 5071"
+    ],
+    "call_number_browse_s": [
+        "Coin 5071"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "8"
+    ],
+    "size_s": [
+        "18.0"
+    ],
+    "weight_s": [
+        "3.93"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5071\",\"call_number_browse\":\"Coin 5071\"}}",
+    "pub_date_start_sort": -54,
+    "pub_date_end_sort": -54,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "denarius"
+    ],
+    "issue_number_s": [
+        "2803"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_master_s": [
+        "M. Iunius Brutus (c. -85 to -42)"
+    ],
+    "issue_place_s": [
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
+    ],
+    "issue_state_s": [
+        "Latium"
+    ],
+    "issue_region_s": [
+        "Italy"
+    ],
+    "issue_obverse_figure_s": [
+        "L. Iunius Brutus"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Head r.; border of dots"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "Ancestor; Consul 509"
+    ],
+    "issue_obverse_legend_s": [
+        "BRVTVS"
+    ],
+    "issue_reverse_figure_s": [
+        "C. Servilius Ahala"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Head r.; border of dots"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "Ancestor; Magister Equitum 439"
+    ],
+    "issue_reverse_legend_s": [
+        "AHALA"
+    ],
+    "issue_references_s": [
+        "RRC  433/2",
+        "Syd.  907",
+        "Sear  398"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "6b654f71993f8bf3"
+    ],
+    "_version_": 1667138510544437248,
+    "timestamp": "2020-05-19T16:52:59.398Z"
+}

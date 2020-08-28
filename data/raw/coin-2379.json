@@ -1,0 +1,119 @@
+{
+    "id": "coin-2379",
+    "title_display": "Coin: 2379",
+    "pub_created_display": [
+        "Antiochus I Soter (-280 to -261), half, Antiocheia ad Orontem"
+    ],
+    "call_number_display": [
+        "Coin 2379"
+    ],
+    "call_number_browse_s": [
+        "Coin 2379"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
+    "find_date_s": [
+        "07/16/1938"
+    ],
+    "find_locus_s": [
+        "DH 27-O"
+    ],
+    "find_number_s": [
+        "Cb3935"
+    ],
+    "find_description_s": [
+        "Sub room 5, above bedrock"
+    ],
+    "size_s": [
+        "10"
+    ],
+    "weight_s": [
+        "0.97"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2379\",\"call_number_browse\":\"Coin 2379\"}}",
+    "pub_date_start_sort": -278,
+    "pub_date_end_sort": -268,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_denomination_s": [
+        "half"
+    ],
+    "issue_number_s": [
+        "1528"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_ruler_s": [
+        "Antiochus I Soter (-280 to -261)"
+    ],
+    "issue_place_s": [
+        "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
+    ],
+    "issue_city_s": [
+        "Antiocheia ad Orontem"
+    ],
+    "issue_state_s": [
+        "Seleucis and Pieria"
+    ],
+    "issue_region_s": [
+        "Seleucid Empire"
+    ],
+    "issue_obverse_figure_s": [
+        "Macedonian shield"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Medusa's head facing on boss"
+    ],
+    "issue_reverse_figure_s": [
+        "Elephant"
+    ],
+    "issue_reverse_symbol_s": [
+        "club"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "horned"
+    ],
+    "issue_reverse_legend_s": [
+        "\u0392\u0391\u03a3\u0399 | \u0391\u039d\u03a4I"
+    ],
+    "issue_reverse_attributes_s": [
+        "m1522, in upper field"
+    ],
+    "issue_references_s": [
+        "H & L  341",
+        "WSM  947"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "02927ef1ac3469ca"
+    ],
+    "_version_": 1669836651689410560,
+    "timestamp": "2020-06-18T11:38:47.314Z"
+}
