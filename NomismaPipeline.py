@@ -84,6 +84,7 @@ class NomismaPipeline(object):
         for coin in coin_list:
             coin_list_trimmed.append({
                 'identifier': coin['id'],
+                'title': coin.get('pub_created_display', coin['id'].replace('-', ' ').capitalize()),
                 'weight': coin.get('weight_s')
             })
         df = pd.DataFrame(coin_list_trimmed)
@@ -93,8 +94,12 @@ class NomismaPipeline(object):
 
         # HACK: this needs to be done before being written to file, so this process occurs
         #   outside `validate` and `transform`
-        assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']]), list(df['weight'])
+        # `weight` and `pub_created_display` exist in arrays of length 1, take that value out of its array
+        assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']])
         df['weight'] = [None if pd.isna(x) else x[0] for x in df['weight']]
+
+        assert all([True if isinstance(a, str) else len(a) == 1 for a in df['title']])
+        df['title'] = [x if isinstance(x, str) else x[0] for x in df['title']]
 
         df.to_csv(self.trimmed, index=False)
 
@@ -123,7 +128,6 @@ class NomismaPipeline(object):
         df = pd.read_csv(self.trimmed)
 
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
-        df['title'] = df['identifier'].apply(lambda x: x.replace('-', ' ').capitalize())
         
         cols = ['identifier', 'full_link', 'title', 'weight']
         df_o = df[cols]
