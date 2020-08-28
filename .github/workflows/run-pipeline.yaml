@@ -3,7 +3,7 @@ name: Pipeline smoke test
 on: [push]
 
 jobs:
-  validate:
+  smoke_test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -19,4 +19,21 @@ jobs:
 
     - name: Collect data from figgy
       run: python NomismaPipeline.py
+
+  validate:
+    runs-on: ubuntu-latest
+      steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install rdflib
+
+      - name: Ensure that RDF is not malformed
+        run: python -m rdflib.tools.rdfpipe princeton-nomisma.rdf voID.rdf
 
