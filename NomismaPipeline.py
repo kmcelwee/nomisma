@@ -86,7 +86,8 @@ class NomismaPipeline(object):
             coin_list_trimmed.append({
                 'identifier': coin['id'],
                 'title': coin.get('pub_created_display', coin['id'].replace('-', ' ').capitalize()),
-                'weight': coin.get('weight_s')
+                'weight': coin.get('weight_s'),
+                'axis': coin.get('die_axis_s')
             })
         df = pd.DataFrame(coin_list_trimmed)
 
@@ -94,15 +95,18 @@ class NomismaPipeline(object):
         df = df.sort_values('identifier')
 
         # `weight` and `pub_created_display` exist in arrays of length 1, take that value out of its array
-        assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']])
-        df['weight'] = [None if pd.isna(x) else x[0] for x in df['weight']]
-
         assert all([True if isinstance(a, str) else len(a) == 1 for a in df['title']])
         df['title'] = [x if isinstance(x, str) else x[0] for x in df['title']]
 
+        assert all([True if pd.isna(a) else len(a) == 1 for a in df['weight']])
+        df['weight'] = [None if pd.isna(x) else x[0] for x in df['weight']]
+        
+        assert all([True if pd.isna(a) else len(a) == 1 for a in df['axis']])
+        df['axis'] = [None if pd.isna(x) else x[0] for x in df['axis']]
+
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
         
-        cols = ['identifier', 'full_link', 'title', 'weight']
+        cols = ['identifier', 'full_link', 'title', 'weight', 'axis']
         df_o = df[cols]
         df_o.to_csv(self.rdf_prep, index=False)
 
@@ -139,7 +143,10 @@ class NomismaPipeline(object):
 
         for i, r in df.iterrows():
             coin = URIRef(r['full_link'])
+            
             g.add((coin, RDF.type, NMO.NumismaticObject))
+            g.add((coin, NMO.ObjectType, Literal("coin")))
+
             g.add((coin, DCTERMS.title, Literal(r['title'])))
             g.add((coin, DCTERMS.identifier, Literal(r['identifier'])))
             g.add((coin, VOID.inDataset, URIRef("https://library.princeton.edu/special-collections/databases/princeton-numismatic-collection-database")))
@@ -147,6 +154,10 @@ class NomismaPipeline(object):
             if not pd.isna(r['weight']):
                 g.add((coin, NMO.hasWeight, 
                     Literal(r['weight'], datatype=XSD.decimal)))
+
+            if not pd.isna(r['axis']):
+                g.add((coin, NMO.hasAxis, 
+                    Literal(int(r['axis']), datatype=XSD.integer)))
 
         with open(self.rdf, 'w') as f:
             f.write(g.serialize(format='pretty-xml').decode('utf-8'))
