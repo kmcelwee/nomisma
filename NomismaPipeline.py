@@ -24,7 +24,6 @@ class NomismaPipeline(object):
         if not os.path.exists(raw_dir):
             os.mkdir(raw_dir)
 
-        self.raw_json = None
 
 
     def get_raw_json(self):
@@ -40,7 +39,6 @@ class NomismaPipeline(object):
             with open(json_path) as f:
                 raw_json.append(json.load(f))
 
-        self.raw_json = raw_json
         return raw_json
 
 
