@@ -88,7 +88,8 @@ class NomismaPipeline(object):
                 'title': coin.get('pub_created_display', coin['id'].replace('-', ' ').capitalize()),
                 'weight': coin.get('weight_s'),
                 'axis': coin.get('die_axis_s'),
-                'diameter': coin.get('size_s')
+                'diameter': coin.get('size_s'),
+                'material': coin.get('issue_metal_s')
             })
         df = pd.DataFrame(coin_list_trimmed)
 
@@ -108,9 +109,12 @@ class NomismaPipeline(object):
         assert all([True if pd.isna(a) else len(a) == 1 for a in df['diameter']])
         df['diameter'] = [None if pd.isna(x) else x[0] for x in df['diameter']]
 
+        assert all([True if pd.isna(a) else len(a) == 1 for a in df['material']])
+        df['material'] = [None if pd.isna(x) else x[0] for x in df['material']]
+
         df['full_link'] = 'https://catalog.princeton.edu/catalog/' + df['identifier']
         
-        cols = ['identifier', 'full_link', 'title', 'weight', 'axis', 'diameter']
+        cols = ['identifier', 'full_link', 'title', 'weight', 'axis', 'diameter', 'material']
         df_o = df[cols]
         df_o.to_csv(self.rdf_prep, index=False)
 
@@ -166,6 +170,9 @@ class NomismaPipeline(object):
             if not pd.isna(r['diameter']):
                 g.add((coin, NMO.hasDiameter, 
                     Literal(r['diameter'], datatype=XSD.decimal)))
+
+            if not pd.isna(r['material']):
+                g.add((coin, NMO.hasMaterial, Literal(r['material'])))
 
         with open(self.rdf, 'w') as f:
             f.write(g.serialize(format='pretty-xml').decode('utf-8'))
