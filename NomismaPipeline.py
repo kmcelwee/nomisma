@@ -134,6 +134,10 @@ class NomismaPipeline(object):
         assert no_empty_cells(df['identifier'])
         assert all([cn.startswith('coin-') for cn in df['identifier']])
 
+        # Ensure no columns are empty
+        #   (this would happen if we had used .get() on an unknown key)
+        for col in df.columns:
+            assert df[col].dropna().shape[0] != 0
 
     def generate_rdf(self):
         """Turn the CSV into the published RDF file."""
