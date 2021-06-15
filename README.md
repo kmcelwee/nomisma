@@ -1,5 +1,8 @@
 [Nomisma.org](http://nomisma.org) is a dataset of numismatic datasets. We provide them `voID.rdf`, which points to our RDF `princeton-nomisma.rdf` hosted here on GitHub.
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Pipeline smoke test](https://github.com/pulibrary/nomisma/actions/workflows/run-pipeline.yaml/badge.svg)](https://github.com/pulibrary/nomisma/actions/workflows/run-pipeline.yaml)
+
 ## NomismaPipeline.py
 
 `collect` paginates through items in the Catalog listed as "Coins" and places all raw JSON data into `data/raw`,
