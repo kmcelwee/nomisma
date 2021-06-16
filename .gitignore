@@ -1,7 +1,5 @@
 scratch/
-.ipynb_checkpoints/
 data/coin-list-raw.json
-__pycache__/
 
 .byebug_history
 coverage/

@@ -6,45 +6,12 @@
 
 ## Installation
 
-Create a Python 3.8 virtual environment:
-
-```
-# create a virtual environment
-python -m venv venv
-# activate the virtual environment
-source venv/bin/activate
-# install the requirements
-pip install -r requirements.txt
-```
+Ruby 2.6.5
 
 ## Run Script
 
-`python NomismaPipeline.py --scrape` will execute the `run_pipeline` function, which will iterate through all steps outlined below. The scraping process is time-intensive, so dropping the `--scrape` flag will run the process with the raw data found locally. This is useful for debugging. Here is the output from the `--help` flag.
-
-```
-Usage: NomismaPipeline.py [OPTIONS]
-
-  Run the pipeline to turn coin catalog data into XML for Nomisma
-
-Options:
-  -s, --scrape          Initiate scrape of the PUL catalog for new coin data.
-                        [default: False]
-
-  -c, --csv-input TEXT  CSV that maps the catalog link to the Nomisma
-                        reference link  [default: nomisma-mapper.csv]
-
-  --help                Show this message and exit.
-```
 
 ## NomismaPipeline.py outline
-
-`collect` paginates through items in the Catalog listed as "Coins" and places all raw JSON data into `data/raw`,
-
-`preprocessing` grabs only the essential information from the raw coin JSON and transforms it into the fields that will ultimatley populate the RDF. It outputs a CSV, `coin-list.csv`.
-
-`validate` runs tests on `coin-list.csv` to ensure that our assumptions about the data's schema are correct.
-
-`generate_rdf` turns `coin-list.csv` into `princeton-nomisma.rdf`: the published data link.
 
 
 ## Notes

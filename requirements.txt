@@ -1,5 +1,0 @@
-pandas
-rdflib
-requests
-dicttoxml
-typer
