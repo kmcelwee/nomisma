@@ -10,13 +10,23 @@ RSpec.describe NomismaXmlGenerator::CoinCollection do
     expect(coin_collection.json_dir).to eq(coin_json_dir)
   end
 
-  it 'to have a list of all json files' do
-    files = coin_collection.all_json_files
-    expect(files).instance_of? Array
-    expect(files).to include("#{$fixture_path}/coin-11036.json")
-    expect(files).to include("#{$fixture_path}/coin-9099.json")
+  it 'to have a list of all json paths' do
+    paths = coin_collection.all_json_paths
+    expect(paths).instance_of? Array
+    expect(paths).to include("#{$fixture_path}/coin-11036.json")
+    expect(paths).to include("#{$fixture_path}/coin-9099.json")
+  end
+
+  it 'has a size value' do
+    expect(coin_collection.size).to eq(2)
   end
 
   it 'to generate a list of coin objects' do
+    all_coins = coin_collection.all_coins
+    expect(all_coins).instance_of? Array
+    expect(all_coins.length).to eq(2)
+
+    single_coin = all_coins[0]
+    expect(single_coin).instance_of? NomismaXmlGenerator::Coin
   end
 end

@@ -15,12 +15,20 @@ module NomismaXmlGenerator
       @all_coins ||= generate_coin_list
     end
 
-    def all_json_files
+    def all_json_paths
       Dir["#{@json_dir}/*.json"]
     end
 
+    def size
+      all_json_paths.length
+    end
+
     def generate_coin_list
-      NomismaXmlGenerator::Coin()
+      coin_list = []
+      all_json_paths.each do |path|
+        coin_list.append(NomismaXmlGenerator::Coin.new(path))
+      end
+      coin_list
     end
   end
 end
