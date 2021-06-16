@@ -1,9 +1,6 @@
 {
     "id": "coin-11036",
     "title_display": "Coin: 11036",
-    "pub_created_display": [
-        "Peroz (457 to 484), Drachm, Eran-khwarrah-Shapur"
-    ],
     "call_number_display": [
         "Coin 11036"
     ],
@@ -27,12 +24,6 @@
     ],
     "find_date_s": [
         "4.16"
-    ],
-    "die_axis_s": [
-        "3"
-    ],
-    "size_s": [
-        "29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11036\",\"call_number_browse\":\"Coin 11036\"}}",
     "numismatic_collection_s": [
