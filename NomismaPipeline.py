@@ -17,16 +17,32 @@ class NomismaPipeline(object):
     and generates an RDF that follows Nomisma's guidelines.
     """
 
-    def __init__(self, data_dir="data", raw_dir="data/raw"):
+    def __init__(self, mapper_path="nomisma-mapper.csv", data_dir="data", raw_dir="data/raw"):
         self.data_dir = data_dir
         self.raw_dir = raw_dir
         self.rdf_prep = pjoin(data_dir, "coin-list.csv")
         self.rdf = "princeton-nomisma.rdf"
+        self.mapper_path = mapper_path
 
         if not os.path.exists(data_dir):
             os.mkdir(data_dir)
         if not os.path.exists(raw_dir):
             os.mkdir(raw_dir)
+
+        self.reference_mapper = self.generate_reference_mapper(mapper_path)
+
+    def generate_reference_mapper(self, mapper_path):
+        df = pd.read_csv(mapper_path)
+        reference_mapper = {}
+        for i, r in df.iterrows():
+            reference_link = r['Reference link']
+            if pd.isna(reference_link):
+                continue
+            # There are notes in the reference link column.
+            #  Until the data is cleaned, ignore them.
+            if ' ' not in reference_link and reference_link.startswith('http'):
+                reference_mapper[r['Catalog link']] = reference_link
+        return reference_mapper
 
     def get_raw_json(self):
         """Collect all the raw json files from the raw directory and combine
@@ -119,10 +135,12 @@ class NomismaPipeline(object):
         df["material"] = [None if pd.isna(x) else x[0] for x in df["material"]]
 
         df["full_link"] = "https://catalog.princeton.edu/catalog/" + df["identifier"]
+        df["reference_link"] = df["full_link"].apply(lambda x: self.reference_mapper.get(x))
 
         cols = [
             "identifier",
             "full_link",
+            "reference_link",
             "title",
             "weight",
             "axis",
@@ -153,6 +171,7 @@ class NomismaPipeline(object):
         #   (this would happen if we had used .get() on an unknown key)
         for col in df.columns:
             assert df[col].dropna().shape[0] != 0
+
 
     def generate_rdf(self):
         """Turn the CSV into the published RDF file."""
@@ -185,6 +204,9 @@ class NomismaPipeline(object):
                     ),
                 )
             )
+
+            if not pd.isna(r['reference_link']):
+                g.add((coin, NMO.hasTypeSeriesItem, URIRef(r['reference_link'])))
 
             if not pd.isna(r["weight"]):
                 g.add((coin, NMO.hasWeight, Literal(r["weight"], datatype=XSD.decimal)))
@@ -228,10 +250,16 @@ def main(
         "--scrape",
         "-s",
         help="Initiate scrape of the PUL catalog for new coin data.",
+    ),
+    csv_input: str = typer.Option(
+        "nomisma-mapper.csv",
+        "--csv-input",
+        "-c",
+        help="CSV that maps the catalog link to the Nomisma reference link",
     )
 ):
-    """Run the Nomisma Pipeline without scraping"""
-    nm = NomismaPipeline()
+    """Run the pipeline to turn coin catalog data into XML for Nomisma"""
+    nm = NomismaPipeline(mapper_path=csv_input)
     nm.run_pipeline(scrape=scrape)
 
 
