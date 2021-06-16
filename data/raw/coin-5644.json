@@ -35,8 +35,14 @@
         "7.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5644\",\"call_number_browse\":\"Coin 5644\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; 1956"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3211"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Vlasto Coll.  1005, 09, 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "6cde20c52ab3c877"
     ],
-    "_version_": 1667138389855436800,
-    "timestamp": "2020-05-19T16:51:04.301Z"
+    "_version_": 1684903564072189952,
+    "timestamp": "2020-12-01T19:00:54.688Z"
 }

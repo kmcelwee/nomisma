@@ -35,6 +35,12 @@
         "14.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1032\",\"call_number_browse\":\"Coin 1032\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "111: 1992-01-01 Behevan"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "487"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +107,12 @@
         "RPC.1  4679"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "1cfd7d9e30383f9e"
     ],
-    "_version_": 1667138408270528512,
-    "timestamp": "2020-05-19T16:51:21.862Z"
+    "_version_": 1684903181755088896,
+    "timestamp": "2020-12-01T18:54:50.076Z"
 }

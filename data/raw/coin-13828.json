@@ -35,6 +35,15 @@
         "16.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13828\",\"call_number_browse\":\"Coin 13828\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Platt; 1926; $6.00"
+    ],
     "pub_date_start_sort": -111,
     "pub_date_end_sort": -110,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8872"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +111,12 @@
         "H & L II, v.I, p.540 2381.4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-111 to -110"
+    ],
     "hashed_id_s": [
         "9259fd99018d3808"
     ],
-    "_version_": 1667138324539637760,
-    "timestamp": "2020-05-19T16:50:02.010Z"
+    "_version_": 1684903063033217024,
+    "timestamp": "2020-12-01T18:52:56.853Z"
 }

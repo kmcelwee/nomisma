@@ -32,8 +32,11 @@
         "45.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1516\",\"call_number_browse\":\"Coin 1516\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1851,
     "pub_date_end_sort": 1861,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "15 Cash"
-    ],
-    "issue_number_s": [
-        "912"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +76,12 @@
         "Shang Hai QDMGJZB 581 2020"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1851 to 1861"
+    ],
     "hashed_id_s": [
         "278a4684bd494cc2"
     ],
-    "_version_": 1667305798761447424,
-    "timestamp": "2020-05-21T13:11:57.874Z"
+    "_version_": 1684903184961634304,
+    "timestamp": "2020-12-01T18:54:53.132Z"
 }

@@ -26,22 +26,22 @@
         "num"
     ],
     "notes_display": [
-        "The coin has been cut in half, back of head preserved"
+        "The coin has been cut in half, back of head preserved."
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4-9-1936"
-    ],
-    "find_feature_s": [
-        "NE of Trench W of room 1 below 150cm"
+        "04/09/1936"
     ],
     "find_locus_s": [
-        "27P D H"
+        "DH 26-O/P"
     ],
     "find_number_s": [
         "C5971"
+    ],
+    "find_description_s": [
+        "Trench W. of room 1, below 150cm"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +53,12 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2077\",\"call_number_browse\":\"Coin 2077\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -61,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1361"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -92,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, field in front obliterated"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -101,15 +107,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
-        "RPC.1 pp.628-629, SC series (uncertain) "
+        "RPC.1  4310v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "8531c52466b40d6d"
     ],
-    "_version_": 1667138472302870528,
-    "timestamp": "2020-05-19T16:52:22.930Z"
+    "_version_": 1684903687733903360,
+    "timestamp": "2020-12-01T19:02:52.613Z"
 }

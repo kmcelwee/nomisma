@@ -50,6 +50,12 @@
         "2.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13518\",\"call_number_browse\":\"Coin 13518\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -198,
     "pub_date_end_sort": -187,
     "issue_object_type_s": [
@@ -98,9 +104,12 @@
         "H & L I, 4111 1081"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-198 to -187"
+    ],
     "hashed_id_s": [
         "f48bb3aaa906143d"
     ],
-    "_version_": 1673108648385052672,
-    "timestamp": "2020-07-24T14:25:46.526Z"
+    "_version_": 1684903670283501568,
+    "timestamp": "2020-12-01T19:02:35.970Z"
 }

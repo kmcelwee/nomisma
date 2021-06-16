@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "ROMANO worn off on reverse"
+        "Reverse legend obliterated"
     ],
     "die_axis_s": [
         "7"
@@ -38,6 +38,9 @@
         "6.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 210\",\"call_number_browse\":\"Coin 210\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -276,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "108"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,13 +74,13 @@
         "left"
     ],
     "issue_obverse_figure_description_s": [
-        "bearded, Corinthian helmet"
+        "bearded, wearing Corinthian helmet"
     ],
     "issue_reverse_figure_s": [
         "Horse"
     ],
     "issue_reverse_symbol_s": [
-        "corn ear"
+        "corn ear behind head"
     ],
     "issue_reverse_part_s": [
         "head"
@@ -91,21 +91,24 @@
     "issue_reverse_figure_description_s": [
         "on base"
     ],
-    "issue_reverse_figure_relationship_s": [
-        "corn-ear behind head"
-    ],
     "issue_reverse_legend_s": [
         "ROMANO"
     ],
     "issue_references_s": [
-        "RRC  13/1",
+        "RRC  13/1v",
         "Syd.  1",
         "Sear  22"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Mars"
+    ],
+    "issue_date_s": [
+        "-280 to -276"
+    ],
     "hashed_id_s": [
         "13d6f76eb26b344d"
     ],
-    "_version_": 1667138200717492224,
-    "timestamp": "2020-05-19T16:48:03.924Z"
+    "_version_": 1684903695971516416,
+    "timestamp": "2020-12-01T19:03:00.470Z"
 }

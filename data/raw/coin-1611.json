@@ -35,6 +35,12 @@
         "6.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1611\",\"call_number_browse\":\"Coin 1611\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "208: 2001-02-11 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": -75,
     "pub_date_end_sort": -74,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1001"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +103,12 @@
         "Sear  5925"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-75 to -74"
+    ],
     "hashed_id_s": [
         "e60892d6bbe00a91"
     ],
-    "_version_": 1667145328106668032,
-    "timestamp": "2020-05-19T18:50:51.796Z"
+    "_version_": 1684903349130887168,
+    "timestamp": "2020-12-01T18:57:29.697Z"
 }

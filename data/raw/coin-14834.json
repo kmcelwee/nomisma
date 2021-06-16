@@ -35,19 +35,25 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14834\",\"call_number_browse\":\"Coin 14834\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -76,
+    "pub_date_end_sort": -76,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9110"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Rustius  "
@@ -67,20 +73,20 @@
     "issue_obverse_figure_s": [
         "Minerva"
     ],
-    "issue_obverse_symbol_s": [
-        "six-pointed star"
-    ],
     "issue_obverse_part_s": [
-        "bust"
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "behind symbol"
+        "helmeted"
     ],
     "issue_obverse_legend_s": [
-        "S.C."
+        "S\u00b7C X (crossed)"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -89,18 +95,24 @@
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_reverse_legend_s": [
-        "L. RVSTI"
+        "L\u00b7RVSTI"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  389"
+        "RRC  389/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -76"
+    ],
     "hashed_id_s": [
         "4ad9a8527d06a4d1"
     ],
-    "_version_": 1667306403795042304,
-    "timestamp": "2020-05-21T13:21:34.892Z"
+    "_version_": 1686050834783141888,
+    "timestamp": "2020-12-14T10:56:17.291Z"
 }

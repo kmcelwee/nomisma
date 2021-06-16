@@ -38,8 +38,11 @@
         "2.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12544\",\"call_number_browse\":\"Coin 12544\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8388"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Sellwood  45.40"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "653a9e2a8f92e84a"
     ],
-    "_version_": 1667138309439094784,
-    "timestamp": "2020-05-19T16:49:47.610Z"
+    "_version_": 1684903157199536128,
+    "timestamp": "2020-12-01T18:54:26.657Z"
 }

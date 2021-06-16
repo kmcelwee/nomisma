@@ -35,16 +35,22 @@
         "4.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4116\",\"call_number_browse\":\"Coin 4116\"}}",
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1928; $2.60"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2352"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,20 +80,24 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "helmeted; border of dots"
+        "helmeted"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Carnyx"
     ],
     "issue_reverse_figure_description_s": [
-        "2 carnyces in saltire; oval shield above, round shield below; border of dots"
+        "2 carnyces in saltire; above, oval shield; below, round shield"
     ],
     "issue_reverse_legend_s": [
-        "ALBINVS | BRVTI F"
+        "ALBINVS BRVTI.F"
     ],
     "issue_reverse_attributes_s": [
         "shield, oval shield above carnyces",
-        "shield, round shield below carnyces"
+        "shield, round shield below carnyces",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  450/1a",
@@ -95,9 +105,12 @@
         "Sear  426"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "a30ed0b0cac42ab2"
     ],
-    "_version_": 1667138490175848448,
-    "timestamp": "2020-05-19T16:52:39.973Z"
+    "_version_": 1684903235348856832,
+    "timestamp": "2020-12-01T18:55:41.186Z"
 }

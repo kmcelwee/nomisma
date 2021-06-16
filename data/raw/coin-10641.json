@@ -38,8 +38,14 @@
         "2.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10641\",\"call_number_browse\":\"Coin 10641\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "N. Chalabiani; 01/17/2012"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6803"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "SNS 1 Type III/1 ?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "0ebfa23c851f2c65"
     ],
-    "_version_": 1667138179059154944,
-    "timestamp": "2020-05-19T16:47:43.269Z"
+    "_version_": 1684902956816662528,
+    "timestamp": "2020-12-01T18:51:15.556Z"
 }

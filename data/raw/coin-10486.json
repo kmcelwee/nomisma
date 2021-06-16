@@ -38,8 +38,11 @@
         "13.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10486\",\"call_number_browse\":\"Coin 10486\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Rian Thum; 04/30/2002"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE/1"
-    ],
-    "issue_number_s": [
-        "6657"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "SNS 1 Type IIc/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "aa110e7901d383eb"
     ],
-    "_version_": 1667138344976384000,
-    "timestamp": "2020-05-19T16:50:21.500Z"
+    "_version_": 1684903083833819136,
+    "timestamp": "2020-12-01T18:53:16.691Z"
 }

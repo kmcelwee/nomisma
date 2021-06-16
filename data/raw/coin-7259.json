@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "billon"
     ],
-    "issue_number_s": [
-        "4549"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -80,9 +77,12 @@
         "Mitchiner 341 2456"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1 to 30"
+    ],
     "hashed_id_s": [
         "aaf6eaa36ee9ec36"
     ],
-    "_version_": 1667138332038004736,
-    "timestamp": "2020-05-19T16:50:09.162Z"
+    "_version_": 1684903238576373760,
+    "timestamp": "2020-12-01T18:55:44.264Z"
 }

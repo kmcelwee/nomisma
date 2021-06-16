@@ -35,8 +35,8 @@
         "15.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9357\",\"call_number_browse\":\"Coin 9357\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 556,
     "pub_date_end_sort": 557,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5978"
     ],
     "issue_metal_s": [
         "Copper"
@@ -104,9 +101,12 @@
         "MIB Justinian I 150"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "556 to 557"
+    ],
     "hashed_id_s": [
         "94779c3c2799350f"
     ],
-    "_version_": 1667138146384478208,
-    "timestamp": "2020-05-19T16:47:12.108Z"
+    "_version_": 1684902917145886720,
+    "timestamp": "2020-12-01T18:50:37.723Z"
 }

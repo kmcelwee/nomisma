@@ -41,6 +41,12 @@
         "7.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11352\",\"call_number_browse\":\"Coin 11352\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-old"
-    ],
-    "issue_number_s": [
-        "7519"
     ],
     "issue_metal_s": [
         "Gold"
@@ -90,9 +93,12 @@
         "SNS Schaaf  207"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "73bab4366a24e9a8"
     ],
-    "_version_": 1667138292976451584,
-    "timestamp": "2020-05-19T16:49:31.911Z"
+    "_version_": 1684903503751806976,
+    "timestamp": "2020-12-01T18:59:57.156Z"
 }

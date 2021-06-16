@@ -35,6 +35,9 @@
         "5.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1320\",\"call_number_browse\":\"Coin 1320\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "741"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "ANS Part 8: Macedonia II 972"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "584194c993e00531"
     ],
-    "_version_": 1667138210091761664,
-    "timestamp": "2020-05-19T16:48:12.864Z"
+    "_version_": 1684902974640357376,
+    "timestamp": "2020-12-01T18:51:32.554Z"
 }

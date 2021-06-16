@@ -38,16 +38,16 @@
         "80.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4943\",\"call_number_browse\":\"Coin 4943\"}}",
-    "donor_s": [
-        "H.K. Twitchell"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "414:  H.K. Twitchell"
     ],
     "pub_date_start_sort": 1915,
     "pub_date_end_sort": 1915,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2729"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,18 @@
         "A. Bonnetain, A. BONNETAiN"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, nurse",
+        "Event, World War I    ",
+        "Category, Red Cross",
+        "Category, memorial"
+    ],
+    "issue_date_s": [
+        "1915 to 1915"
+    ],
     "hashed_id_s": [
         "7bead61af16e2106"
     ],
-    "_version_": 1667138242993979392,
-    "timestamp": "2020-05-19T16:48:44.245Z"
+    "_version_": 1684903114343186432,
+    "timestamp": "2020-12-01T18:53:45.785Z"
 }

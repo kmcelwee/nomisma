@@ -26,16 +26,23 @@
         "num"
     ],
     "notes_display": [
-        "Daphne Harbie 234"
+        "Daphne Harbie 234",
+        "Mint Mark: SMANT\u0398"
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6-23-1934"
+        "1934-06-23"
     ],
-    "find_description_s": [
-        "trial trench"
+    "find_feature_s": [
+        "Trial trench"
+    ],
+    "find_locus_s": [
+        "[None recorded]"
+    ],
+    "find_number_s": [
+        "C3233"
     ],
     "die_axis_s": [
         "5"
@@ -47,6 +54,12 @@
         "2.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7414\",\"call_number_browse\":\"Coin 7414\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 327,
     "pub_date_end_sort": 329,
     "issue_object_type_s": [
@@ -54,9 +67,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4638"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,16 +108,19 @@
         "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMANT"
     ],
     "issue_references_s": [
-        "RIC 7 691.78",
+        "RIC VII Antioch 78",
         "Cohen 7, 281 454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "fd274e250d224563"
     ],
-    "_version_": 1667138133309784064,
-    "timestamp": "2020-05-19T16:46:59.641Z"
+    "_version_": 1691155186494472192,
+    "timestamp": "2021-02-08T19:07:46.424Z"
 }

@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-3-1937"
+        "1937-05-03"
+    ],
+    "find_feature_s": [
+        "Dig III, level II, room 5, to 3.5m (basket B)"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca664"
-    ],
-    "find_description_s": [
-        "Dig III level II to 3.5 m, room 5, basket B"
+        "Ca0664"
     ],
     "die_axis_s": [
         "11"
@@ -50,6 +50,9 @@
         "2.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7994\",\"call_number_browse\":\"Coin 7994\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 401,
     "issue_object_type_s": [
@@ -107,12 +110,15 @@
         "GLORIA RO-MANORVM"
     ],
     "issue_references_s": [
-        "RIC 10.248 82"
+        "RIC X Arcadius 82"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 401"
+    ],
     "hashed_id_s": [
         "02e8b19b637b4c1a"
     ],
-    "_version_": 1673552176792731648,
-    "timestamp": "2020-07-29T11:55:28.180Z"
+    "_version_": 1684903682673475584,
+    "timestamp": "2020-12-01T19:02:47.789Z"
 }

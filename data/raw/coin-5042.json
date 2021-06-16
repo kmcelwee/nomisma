@@ -35,8 +35,11 @@
         "4.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5042\",\"call_number_browse\":\"Coin 5042\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "2792"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,6 +76,6 @@
     "hashed_id_s": [
         "78530d874ceae7fd"
     ],
-    "_version_": 1667138509653147648,
-    "timestamp": "2020-05-19T16:52:58.547Z"
+    "_version_": 1684903309063749632,
+    "timestamp": "2020-12-01T18:56:51.484Z"
 }

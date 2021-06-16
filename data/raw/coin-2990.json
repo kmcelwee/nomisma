@@ -35,6 +35,15 @@
         "2.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2990\",\"call_number_browse\":\"Coin 2990\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; Bought Rischmann, $8.00"
+    ],
     "pub_date_start_sort": -424,
     "pub_date_end_sort": -392,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "triobol"
-    ],
-    "issue_number_s": [
-        "1861"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +89,12 @@
         "BMC Mac. p. 36 38"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-424 to -392"
+    ],
     "hashed_id_s": [
         "8f9e56da22e71bce"
     ],
-    "_version_": 1667138432064815104,
-    "timestamp": "2020-05-19T16:51:44.556Z"
+    "_version_": 1684903207683227648,
+    "timestamp": "2020-12-01T18:55:14.801Z"
 }

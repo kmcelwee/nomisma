@@ -49,9 +49,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "6200"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -98,6 +95,6 @@
     "hashed_id_s": [
         "953eea146e6ff4e8"
     ],
-    "_version_": 1667138141394305024,
-    "timestamp": "2020-05-19T16:47:07.350Z"
+    "_version_": 1683105320189034496,
+    "timestamp": "2020-11-11T22:38:35.675Z"
 }

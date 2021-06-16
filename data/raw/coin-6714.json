@@ -35,6 +35,12 @@
         "3.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6714\",\"call_number_browse\":\"Coin 6714\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4128"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +105,15 @@
         "Bedoukian  879"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zabel"
+    ],
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "49f9888b73a49e84"
     ],
-    "_version_": 1667138363747991552,
-    "timestamp": "2020-05-19T16:50:39.402Z"
+    "_version_": 1684903253694742528,
+    "timestamp": "2020-12-01T18:55:58.688Z"
 }

@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/13/1938"
@@ -50,16 +50,19 @@
         "7.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2267\",\"call_number_browse\":\"Coin 2267\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -300,
-    "pub_date_end_sort": 0,
+    "pub_date_end_sort": -295,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1463"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +112,16 @@
         "Houghton  943"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, bull",
+        "Other Person, Athena"
+    ],
+    "issue_date_s": [
+        "-300 to -295"
+    ],
     "hashed_id_s": [
         "f4b6cd1b203514d7"
     ],
-    "_version_": 1669832534282731520,
-    "timestamp": "2020-06-18T10:33:20.648Z"
+    "_version_": 1684903315744227328,
+    "timestamp": "2020-12-01T18:56:57.857Z"
 }

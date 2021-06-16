@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6382"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -93,9 +90,12 @@
         "Hims  10a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 742"
+    ],
     "hashed_id_s": [
         "013afe6e90595b5a"
     ],
-    "_version_": 1667145229050839040,
-    "timestamp": "2020-05-19T18:39:46.664Z"
+    "_version_": 1684903355520909312,
+    "timestamp": "2020-12-01T18:57:35.790Z"
 }

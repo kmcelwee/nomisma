@@ -35,8 +35,8 @@
         "0.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13987\",\"call_number_browse\":\"Coin 13987\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "9016"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +92,12 @@
         "Athens Its History and Coinage p.210 \u03b3\u03b3\u03b3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "643d609a6d648d69"
     ],
-    "_version_": 1667144699776860160,
-    "timestamp": "2020-05-19T18:31:21.910Z"
+    "_version_": 1684903065934626816,
+    "timestamp": "2020-12-01T18:52:59.619Z"
 }

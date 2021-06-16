@@ -32,8 +32,11 @@
         "22.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5486\",\"call_number_browse\":\"Coin 5486\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1308,
     "pub_date_end_sort": 1311,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "3089"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -60,9 +60,12 @@
         "Hartill 228 19.46"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1308 to 1311"
+    ],
     "hashed_id_s": [
         "6a2a2eda7d8fa3aa"
     ],
-    "_version_": 1667138392626823168,
-    "timestamp": "2020-05-19T16:51:06.946Z"
+    "_version_": 1684903165497966592,
+    "timestamp": "2020-12-01T18:54:34.571Z"
 }

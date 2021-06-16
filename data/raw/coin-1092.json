@@ -35,6 +35,9 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1092\",\"call_number_browse\":\"Coin 1092\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
     "issue_object_type_s": [
@@ -95,9 +98,12 @@
         "Price  P56"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "75bdc7d3521b1d8b"
     ],
-    "_version_": 1672996662502490112,
-    "timestamp": "2020-07-23T08:45:48.464Z"
+    "_version_": 1684903665901502464,
+    "timestamp": "2020-12-01T19:02:31.793Z"
 }

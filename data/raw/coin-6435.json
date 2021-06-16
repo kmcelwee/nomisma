@@ -38,8 +38,11 @@
         "7.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6435\",\"call_number_browse\":\"Coin 6435\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; May 1961; Pounds 10,000 = $16.50; #144 March Monete e Medaglie"
     ],
     "pub_date_start_sort": -380,
     "pub_date_end_sort": -355,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3860"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  576"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-380 to -355"
+    ],
     "hashed_id_s": [
         "1708758159c4064f"
     ],
-    "_version_": 1667138377616457728,
-    "timestamp": "2020-05-19T16:50:52.629Z"
+    "_version_": 1684903554719940608,
+    "timestamp": "2020-12-01T19:00:45.761Z"
 }

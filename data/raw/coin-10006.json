@@ -99,9 +99,12 @@
         "Schl.  II8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1104 to 1112"
+    ],
     "hashed_id_s": [
         "7dd0759cbe267787"
     ],
-    "_version_": 1674169220089249792,
-    "timestamp": "2020-08-05T07:23:06.517Z"
+    "_version_": 1684903230182522880,
+    "timestamp": "2020-12-01T18:55:36.259Z"
 }

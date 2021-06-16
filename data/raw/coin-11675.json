@@ -38,8 +38,11 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11675\",\"call_number_browse\":\"Coin 11675\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7777"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "SNS 3 AY Type IIIb/1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "e11b848ac506d140"
     ],
-    "_version_": 1667138296628641792,
-    "timestamp": "2020-05-19T16:49:35.396Z"
+    "_version_": 1684903508398047232,
+    "timestamp": "2020-12-01T19:00:01.586Z"
 }

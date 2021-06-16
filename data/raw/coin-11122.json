@@ -38,8 +38,14 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11122\",\"call_number_browse\":\"Coin 11122\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "22/08/2002"
     ],
     "pub_date_start_sort": 531,
     "pub_date_end_sort": 578,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7283"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  AW Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "d8e25a727755e5aa"
     ],
-    "_version_": 1667138343700267008,
-    "timestamp": "2020-05-19T16:50:20.283Z"
+    "_version_": 1684903530612129792,
+    "timestamp": "2020-12-01T19:00:22.770Z"
 }

@@ -32,8 +32,11 @@
         "3.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5497\",\"call_number_browse\":\"Coin 5497\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1163,
     "pub_date_end_sort": 1190,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "3144"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -67,9 +67,12 @@
         "Hartill 170 17.169"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1190"
+    ],
     "hashed_id_s": [
         "923366a46aa36da4"
     ],
-    "_version_": 1667145228263358464,
-    "timestamp": "2020-05-19T18:39:45.914Z"
+    "_version_": 1684902893145030656,
+    "timestamp": "2020-12-01T18:50:14.834Z"
 }

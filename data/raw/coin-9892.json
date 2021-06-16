@@ -41,8 +41,14 @@
         "3.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9892\",\"call_number_browse\":\"Coin 9892\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
+    ],
+    "numismatic_provenance_s": [
+        "Hazen; 5-2021"
     ],
     "pub_date_start_sort": 1185,
     "pub_date_end_sort": 1195,
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6263"
     ],
     "issue_metal_s": [
         "Billon"
@@ -115,9 +118,12 @@
         "Sear  2003"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1185 to 1195"
+    ],
     "hashed_id_s": [
         "95f4dcfaaf724415"
     ],
-    "_version_": 1667138142063296512,
-    "timestamp": "2020-05-19T16:47:07.990Z"
+    "_version_": 1684903392596459520,
+    "timestamp": "2020-12-01T18:58:11.150Z"
 }

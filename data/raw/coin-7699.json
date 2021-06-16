@@ -34,6 +34,9 @@
     "find_date_s": [
         "5/9/1938"
     ],
+    "find_feature_s": [
+        "Under tree in A1a"
+    ],
     "find_locus_s": [
         "DH27-0"
     ],
@@ -50,6 +53,12 @@
         "0.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7699\",\"call_number_browse\":\"Coin 7699\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 450,
     "pub_date_end_sort": 457,
     "issue_object_type_s": [
@@ -57,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "aes IV"
-    ],
-    "issue_number_s": [
-        "4781"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,13 +107,16 @@
         "ANTA"
     ],
     "issue_references_s": [
-        "RIC X  568",
+        "RIC X Marcian 568",
         "DOC  494?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "450 to 457"
+    ],
     "hashed_id_s": [
         "9c74b3559fe53b8f"
     ],
-    "_version_": 1667138189602586624,
-    "timestamp": "2020-05-19T16:47:53.325Z"
+    "_version_": 1684903678455054336,
+    "timestamp": "2020-12-01T19:02:43.765Z"
 }

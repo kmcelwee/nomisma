@@ -35,8 +35,11 @@
         "2.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6897\",\"call_number_browse\":\"Coin 6897\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "4304"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "b412b0a683b7e49d"
     ],
-    "_version_": 1667145060115808256,
-    "timestamp": "2020-05-19T18:37:05.608Z"
+    "_version_": 1684903477641216000,
+    "timestamp": "2020-12-01T18:59:32.253Z"
 }

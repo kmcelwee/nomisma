@@ -35,6 +35,9 @@
         "13.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1613\",\"call_number_browse\":\"Coin 1613\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -33,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1004"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,9 +97,12 @@
         "Sear  5926"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-34 to -33"
+    ],
     "hashed_id_s": [
         "fb156a029d62bf11"
     ],
-    "_version_": 1667145313896366080,
-    "timestamp": "2020-05-19T18:50:51.834Z"
+    "_version_": 1684903097777782784,
+    "timestamp": "2020-12-01T18:53:29.987Z"
 }

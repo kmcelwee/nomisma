@@ -38,8 +38,8 @@
         "2.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1784\",\"call_number_browse\":\"Coin 1784\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 45,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "1166"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +93,12 @@
         "BMC.1. Claudius 173"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 45"
+    ],
     "hashed_id_s": [
         "f2303a2d5000f120"
     ],
-    "_version_": 1667138466971910144,
-    "timestamp": "2020-05-19T16:52:17.846Z"
+    "_version_": 1684903608127062016,
+    "timestamp": "2020-12-01T19:01:36.694Z"
 }

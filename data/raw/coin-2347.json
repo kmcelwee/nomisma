@@ -35,6 +35,15 @@
         "3.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2347\",\"call_number_browse\":\"Coin 2347\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; purchased $2 in 1931"
+    ],
     "pub_date_start_sort": 536,
     "pub_date_end_sort": 539,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "1508"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +93,12 @@
         "  84"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "536 to 539"
+    ],
     "hashed_id_s": [
         "98cf2036445fcd45"
     ],
-    "_version_": 1667138220099371008,
-    "timestamp": "2020-05-19T16:48:22.410Z"
+    "_version_": 1684902994486755328,
+    "timestamp": "2020-12-01T18:51:51.482Z"
 }

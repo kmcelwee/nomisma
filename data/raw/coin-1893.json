@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/6/1934"
-    ],
-    "find_feature_s": [
-        "Orchestra floor"
+        "06/06/1934"
     ],
     "find_number_s": [
         "C3129"
+    ],
+    "find_description_s": [
+        "Orchestra floor"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +47,12 @@
         "8.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1893\",\"call_number_browse\":\"Coin 1893\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -57,6 +63,9 @@
     ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -76,6 +85,9 @@
     "issue_obverse_figure_s": [
         "Nero"
     ],
+    "issue_obverse_symbol_s": [
+        "serpent"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -83,7 +95,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; in front, serpent"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -92,15 +104,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4310"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "aa7c43642c359e30"
     ],
-    "_version_": 1674173028274012160,
-    "timestamp": "2020-08-05T08:23:38.287Z"
+    "_version_": 1684903234995486720,
+    "timestamp": "2020-12-01T18:55:40.848Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-6529",
     "title_display": "Coin: 6529",
     "pub_created_display": [
-        "Constantius II (337 to 361), Antioch"
+        "Constantius II (337 to 361), AE3, Antioch"
     ],
     "call_number_display": [
         "Coin 6529"
@@ -31,9 +31,6 @@
     "find_date_s": [
         "07/17/1937"
     ],
-    "find_feature_s": [
-        "under geometric mosaic"
-    ],
     "find_locus_s": [
         "DH 30-Q"
     ],
@@ -41,7 +38,7 @@
         "Ca2706"
     ],
     "find_description_s": [
-        "sealed deposit Ca2704-Ca2713"
+        "Green mosaic dig, room 1, under Geometric mosaic, second level, sealed deposit, to 1m"
     ],
     "die_axis_s": [
         "12"
@@ -53,16 +50,25 @@
         "1.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6529\",\"call_number_browse\":\"Coin 6529\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "4024"
+    "issue_denomination_s": [
+        "AE3"
     ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Constantius II (337 to 361)"
@@ -89,7 +95,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "head r., plain diadem, border of dots"
+        "with plain diadem, border of dots"
     ],
     "issue_obverse_legend_s": [
         "CONSTAN TIUSAVG"
@@ -101,18 +107,24 @@
         "standing"
     ],
     "issue_reverse_figure_description_s": [
-        "two soldiers with one standard between them, border of dots"
+        "within border of dots"
     ],
     "issue_reverse_legend_s": [
         "GLOR IAEXERC ITUS"
     ],
+    "issue_reverse_attributes_s": [
+        "standard, between soldiers"
+    ],
     "issue_references_s": [
-        "RIC vol. VIII, pg. 515 52"
+        "RIC VIII Antioch 52"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "8a9f94de2f1894f3"
     ],
-    "_version_": 1667138365980409856,
-    "timestamp": "2020-05-19T16:50:41.533Z"
+    "_version_": 1684903083138613248,
+    "timestamp": "2020-12-01T18:53:16.027Z"
 }

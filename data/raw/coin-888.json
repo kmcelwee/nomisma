@@ -35,6 +35,15 @@
         "0.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 888\",\"call_number_browse\":\"Coin 888\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1931; $6"
+    ],
     "pub_date_start_sort": 536,
     "pub_date_end_sort": 538,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quarter siliqua"
-    ],
-    "issue_number_s": [
-        "369"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +92,15 @@
         "Mettlich  64"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Justinian I"
+    ],
+    "issue_date_s": [
+        "536 to 538"
+    ],
     "hashed_id_s": [
         "b4b83a2e84c4d548"
     ],
-    "_version_": 1667138205385752576,
-    "timestamp": "2020-05-19T16:48:08.376Z"
+    "_version_": 1684903442417451008,
+    "timestamp": "2020-12-01T18:58:58.662Z"
 }

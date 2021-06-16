@@ -35,8 +35,11 @@
         "2.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12375\",\"call_number_browse\":\"Coin 12375\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -338,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8310"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "BMC Corinth  189"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -338"
+    ],
     "hashed_id_s": [
         "2f2a5cc498c4b5bd"
     ],
-    "_version_": 1667138304025296896,
-    "timestamp": "2020-05-19T16:49:42.447Z"
+    "_version_": 1684903051614224384,
+    "timestamp": "2020-12-01T18:52:45.963Z"
 }

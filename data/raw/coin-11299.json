@@ -38,8 +38,14 @@
         "4.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11299\",\"call_number_browse\":\"Coin 11299\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Matt Kreuzer"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7463"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  SK Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "4678811eb2fb10ae"
     ],
-    "_version_": 1667138292024344576,
-    "timestamp": "2020-05-19T16:49:31.004Z"
+    "_version_": 1684903144060878848,
+    "timestamp": "2020-12-01T18:54:14.128Z"
 }

@@ -35,8 +35,14 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14974\",\"call_number_browse\":\"Coin 14974\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
+    ],
+    "numismatic_provenance_s": [
+        "Aster Wu; 2006"
     ],
     "pub_date_start_sort": 766,
     "pub_date_end_sort": 779,
@@ -46,14 +52,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "9183"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_shape_s": [
-        "circle"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Li Yu (\u674e\u8c6b)  Daizong (\u5510\u4ee3\u5b97) (727 to 779)"
@@ -77,12 +80,15 @@
         "wei jin sui tang qian bi: \u9b4f\u664b\u968b\u5510\u9322\u5e63 301 1174"
     ],
     "issue_artists_s": [
-        "Aster Wu"
+        "Aster Wu, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "766 to 779"
+    ],
     "hashed_id_s": [
         "33c0840cede11530"
     ],
-    "_version_": 1667144700219359232,
-    "timestamp": "2020-05-19T18:31:22.331Z"
+    "_version_": 1684903320181800960,
+    "timestamp": "2020-12-01T18:57:02.088Z"
 }

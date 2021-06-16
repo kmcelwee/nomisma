@@ -35,16 +35,16 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3155\",\"call_number_browse\":\"Coin 3155\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1736,
     "pub_date_end_sort": 1796,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1933"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +81,12 @@
         "Shang Hai YMQ 334 4th row, 1st coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1736 to 1796"
+    ],
     "hashed_id_s": [
         "fe592a50fc065451"
     ],
-    "_version_": 1667138226002853888,
-    "timestamp": "2020-05-19T16:48:28.040Z"
+    "_version_": 1684903105108377600,
+    "timestamp": "2020-12-01T18:53:36.980Z"
 }

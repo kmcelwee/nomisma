@@ -32,16 +32,16 @@
         "94.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6693\",\"call_number_browse\":\"Coin 6693\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "4110"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,9 +77,15 @@
         "Paul DuBois, PAUL DUBOIS"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Treaty of Versailles    June 28 1919"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "42d16410ff2c49a5"
     ],
-    "_version_": 1667145455034695681,
-    "timestamp": "2020-05-19T18:47:23.958Z"
+    "_version_": 1684903126550708224,
+    "timestamp": "2020-12-01T18:53:57.427Z"
 }

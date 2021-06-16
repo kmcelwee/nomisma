@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/7/1935"
+        "1935-05-07"
     ],
     "find_feature_s": [
-        "Surface to -5.00"
+        "Surface to 5m"
     ],
     "find_locus_s": [
-        "13-R"
+        "A 13-R"
     ],
     "find_number_s": [
         "C4780"
@@ -50,6 +50,12 @@
         "3.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8020\",\"call_number_browse\":\"Coin 8020\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5055"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,12 @@
         "Numismatique Constantinienne III p. 186-187 I 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "0f75ba38e26db4ac"
     ],
-    "_version_": 1667138330478772224,
-    "timestamp": "2020-05-19T16:50:07.675Z"
+    "_version_": 1690436662462513152,
+    "timestamp": "2021-01-31T20:47:08.501Z"
 }

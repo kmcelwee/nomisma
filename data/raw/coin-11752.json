@@ -38,8 +38,11 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11752\",\"call_number_browse\":\"Coin 11752\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 578,
     "pub_date_end_sort": 590,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7849"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Mochiri  636"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "578 to 590"
+    ],
     "hashed_id_s": [
         "fcf8879e5590c374"
     ],
-    "_version_": 1667138297573408768,
-    "timestamp": "2020-05-19T16:49:36.295Z"
+    "_version_": 1684903509430894592,
+    "timestamp": "2020-12-01T19:00:02.573Z"
 }

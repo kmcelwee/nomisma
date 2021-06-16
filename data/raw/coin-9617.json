@@ -35,8 +35,8 @@
         "0.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9617\",\"call_number_browse\":\"Coin 9617\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1143,
     "pub_date_end_sort": 1152,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "6123"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +80,12 @@
         "DOC vol. 4 pt. 1 p. 335 20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1143 to 1152"
+    ],
     "hashed_id_s": [
         "ffa9d8983ec3ca0a"
     ],
-    "_version_": 1667138138659618816,
-    "timestamp": "2020-05-19T16:47:04.742Z"
+    "_version_": 1684903387550711808,
+    "timestamp": "2020-12-01T18:58:06.336Z"
 }

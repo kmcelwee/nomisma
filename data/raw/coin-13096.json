@@ -35,8 +35,11 @@
         "1.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13096\",\"call_number_browse\":\"Coin 13096\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -350,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8517"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "Milbank Pl, IV 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-350 to -320"
+    ],
     "hashed_id_s": [
         "5e3651aa4bb140b2"
     ],
-    "_version_": 1667145482970857472,
-    "timestamp": "2020-05-19T19:01:22.064Z"
+    "_version_": 1684903356941729792,
+    "timestamp": "2020-12-01T18:57:37.145Z"
 }

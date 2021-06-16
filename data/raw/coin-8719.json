@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8719\",\"call_number_browse\":\"Coin 8719\"}}",
-    "donor_s": [
-        "Harcourt E. Waller"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "640: 1929-05-01 Harcourt E. Waller"
     ],
     "pub_date_start_sort": 1160,
     "pub_date_end_sort": 1164,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "5552"
     ],
     "issue_metal_s": [
         "Copper"
@@ -77,9 +77,12 @@
         "Breen  5394"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1160 to 1164"
+    ],
     "hashed_id_s": [
         "6eb5b3e0a3b04e05"
     ],
-    "_version_": 1667145392535371776,
-    "timestamp": "2020-05-19T18:43:25.246Z"
+    "_version_": 1684903345182998528,
+    "timestamp": "2020-12-01T18:57:25.933Z"
 }

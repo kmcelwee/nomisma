@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "unit"
     ],
-    "issue_number_s": [
-        "5979"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,9 +80,12 @@
         "Mitchiner 427 3202-3224"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "158 to 195"
+    ],
     "hashed_id_s": [
         "f9a41a0e335361ee"
     ],
-    "_version_": 1667138275080404992,
-    "timestamp": "2020-05-19T16:49:14.842Z"
+    "_version_": 1684903493246124032,
+    "timestamp": "2020-12-01T18:59:47.134Z"
 }

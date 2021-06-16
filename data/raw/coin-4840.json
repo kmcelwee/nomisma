@@ -32,6 +32,9 @@
         "104x64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4840\",\"call_number_browse\":\"Coin 4840\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "8 Shillings"
-    ],
-    "issue_number_s": [
-        "2661"
     ],
     "issue_metal_s": [
         "Paper"
@@ -81,9 +81,12 @@
         "Shafer & Cuhaj p. 1150 S2583"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "4fa944749f9ead3b"
     ],
-    "_version_": 1667138468604542976,
-    "timestamp": "2020-05-19T16:52:19.402Z"
+    "_version_": 1684903297452867584,
+    "timestamp": "2020-12-01T18:56:40.412Z"
 }

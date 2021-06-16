@@ -38,8 +38,14 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11114\",\"call_number_browse\":\"Coin 11114\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Ken Bovenkamp"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE-\"\u0394\""
-    ],
-    "issue_number_s": [
-        "7275"
     ],
     "issue_metal_s": [
         "\"bronze dachm\""
@@ -95,9 +98,12 @@
         "SNS 3 Imitation AWType Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "aa80efe82cafd511"
     ],
-    "_version_": 1667138163099828224,
-    "timestamp": "2020-05-19T16:47:28.052Z"
+    "_version_": 1684902935691001856,
+    "timestamp": "2020-12-01T18:50:55.409Z"
 }

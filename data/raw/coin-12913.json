@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/1/1938"
+        "06/01/1938"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
-        "cb3008"
+        "Cb3008"
+    ],
+    "find_description_s": [
+        "W. side of B12 & 5"
     ],
     "die_axis_s": [
         "4"
@@ -47,7 +50,13 @@
         "1.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12913\",\"call_number_browse\":\"Coin 12913\"}}",
-    "pub_date_start_sort": 271,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 267,
     "pub_date_end_sort": 272,
     "issue_object_type_s": [
         "coin"
@@ -55,14 +64,17 @@
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8459"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Vabalathus"
+    ],
+    "issue_workshop_s": [
+        "\u2208"
     ],
     "issue_place_s": [
         "Palmyra, Syria, Roman Empire"
@@ -79,11 +91,14 @@
     "issue_obverse_figure_s": [
         "Vabalathus"
     ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "radiate, with drape and cuirass"
+        "radiate, draped"
     ],
     "issue_obverse_legend_s": [
         "IM C VHABALATHVS AVG"
@@ -91,22 +106,32 @@
     "issue_reverse_figure_s": [
         "Venus"
     ],
-    "issue_reverse_orientation_s": [
-        "standing left"
+    "issue_reverse_symbol_s": [
+        "\u2208"
     ],
-    "issue_reverse_figure_description_s": [
-        "holding helmet and spear, and resting left elbow on shield with star on the left field"
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
     ],
     "issue_reverse_legend_s": [
-        "VENVS AVG l \u0404"
+        "VENVS AVG"
+    ],
+    "issue_reverse_attributes_s": [
+        "helmet and spear, in r. hand",
+        "shield, in l. hand"
     ],
     "issue_references_s": [
-        "RIC V 858 5"
+        "RIC V  Vabalathus 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "267 to 272"
+    ],
     "hashed_id_s": [
         "3f3b3d8a8ac9fbd3"
     ],
-    "_version_": 1667138312823898112,
-    "timestamp": "2020-05-19T16:49:50.837Z"
+    "_version_": 1684903672549474304,
+    "timestamp": "2020-12-01T19:02:38.134Z"
 }

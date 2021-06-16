@@ -35,8 +35,11 @@
         "18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 964\",\"call_number_browse\":\"Coin 964\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "4:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": -285,
     "pub_date_end_sort": -275,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "435"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Price  564A?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-285 to -275"
+    ],
     "hashed_id_s": [
         "e39bd2e41a5c0e84"
     ],
-    "_version_": 1667138206271799296,
-    "timestamp": "2020-05-19T16:48:09.222Z"
+    "_version_": 1684903093878128640,
+    "timestamp": "2020-12-01T18:53:26.270Z"
 }

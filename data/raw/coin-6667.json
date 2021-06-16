@@ -38,8 +38,8 @@
         "3.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6667\",\"call_number_browse\":\"Coin 6667\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_accession_s": [
+        "504: 1993-05-26 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1230,
     "pub_date_end_sort": 1237,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "4089"
     ],
     "issue_metal_s": [
         "Billon"
@@ -104,9 +101,12 @@
         "DOC vol. IV, page 572 4a.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1230 to 1237"
+    ],
     "hashed_id_s": [
         "3702bacce32c3802"
     ],
-    "_version_": 1667138367821709312,
-    "timestamp": "2020-05-19T16:50:43.291Z"
+    "_version_": 1684903255549673472,
+    "timestamp": "2020-12-01T18:56:00.452Z"
 }

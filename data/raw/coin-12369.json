@@ -26,19 +26,19 @@
         "num"
     ],
     "notes_display": [
-        "Mint unclear. SMANA"
+        "Mint mark unclear, likely SMANA"
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/7/1939"
+        "1939-06-07"
     ],
     "find_feature_s": [
-        "SEALED under pavement over room with Tryih mosaic."
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc1778"
@@ -53,6 +53,9 @@
         "2.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12369\",\"call_number_browse\":\"Coin 12369\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4569"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed (rosette d.)"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NUSMAXAUG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -113,16 +113,19 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR IAEXERC ITUS"
+        "GLOR-IA EXERC-ITVS"
     ],
     "issue_references_s": [
-        "RIC 7 693.86",
+        "RIC VII Antioch 86",
         "Numismatique Constantinienne 7 257.254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "ed839843dcbd3a99"
     ],
-    "_version_": 1667138355792445440,
-    "timestamp": "2020-05-19T16:50:31.816Z"
+    "_version_": 1691969802306846720,
+    "timestamp": "2021-02-17T18:55:44.602Z"
 }

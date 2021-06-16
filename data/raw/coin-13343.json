@@ -35,8 +35,11 @@
         "4.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13343\",\"call_number_browse\":\"Coin 13343\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8629"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,13 +101,19 @@
     "issue_reverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 l \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
+    "issue_reverse_attributes_s": [
+        "AT, in inner l. field"
+    ],
     "issue_references_s": [
-        "H & L II, 17 1317.7"
+        "H & L II, 17 1317.7b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "6ca00c8aac6e80f6"
     ],
-    "_version_": 1667138329823412224,
-    "timestamp": "2020-05-19T16:50:07.049Z"
+    "_version_": 1684903224844222464,
+    "timestamp": "2020-12-01T18:55:31.167Z"
 }

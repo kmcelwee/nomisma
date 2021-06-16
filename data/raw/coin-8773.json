@@ -38,8 +38,8 @@
         "4.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8773\",\"call_number_browse\":\"Coin 8773\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5575"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +103,12 @@
         "BL Michael VII 55/Cp/AU/06-08v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "78a52af7c9521afc"
     ],
-    "_version_": 1667138181658574848,
-    "timestamp": "2020-05-19T16:47:45.748Z"
+    "_version_": 1684903417141526528,
+    "timestamp": "2020-12-01T18:58:34.556Z"
 }

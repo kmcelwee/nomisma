@@ -2,7 +2,7 @@
     "id": "coin-13630",
     "title_display": "Coin: 13630",
     "pub_created_display": [
-        "Constantine II, officnae, Antioch"
+        "Constantine II   (337 to 340), officnae, Antioch"
     ],
     "call_number_display": [
         "Coin 13630"
@@ -50,6 +50,9 @@
         "1.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13630\",\"call_number_browse\":\"Coin 13630\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
@@ -62,7 +65,7 @@
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_workshop_s": [
         "Antioch"
@@ -110,12 +113,15 @@
         "VN MR"
     ],
     "issue_references_s": [
-        "RIC 8 521 112"
+        "RIC VIII Antioch 112"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "3aa6fcc3b40de6a7"
     ],
-    "_version_": 1673552911739650048,
-    "timestamp": "2020-07-29T12:07:09.073Z"
+    "_version_": 1684902908071510016,
+    "timestamp": "2020-12-01T18:50:29.070Z"
 }

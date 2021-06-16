@@ -35,6 +35,9 @@
         "17.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1037\",\"call_number_browse\":\"Coin 1037\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -474,
     "pub_date_end_sort": -450,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "489"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Sear  924v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-474 to -450"
+    ],
     "hashed_id_s": [
         "79d9aa08ce2fbd3c"
     ],
-    "_version_": 1667138379650695168,
-    "timestamp": "2020-05-19T16:50:54.570Z"
+    "_version_": 1684903260835545088,
+    "timestamp": "2020-12-01T18:56:05.492Z"
 }

@@ -35,8 +35,11 @@
         "4.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6514\",\"call_number_browse\":\"Coin 6514\"}}",
-    "donor_s": [
-        "Frederic Rosengarten"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "480:  Frederic Rosengarten"
     ],
     "pub_date_start_sort": 367,
     "pub_date_end_sort": 375,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "3935"
     ],
     "issue_metal_s": [
         "Gold"
@@ -98,12 +98,15 @@
         "RESTITVTOR REIPVBLICAE | ANT\u0394\u2022"
     ],
     "issue_references_s": [
-        "RIC.9 272 2d"
+        "RIC IX Alexandria 2A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "367 to 375"
+    ],
     "hashed_id_s": [
         "f508633a0b1c66ec"
     ],
-    "_version_": 1667138373148475392,
-    "timestamp": "2020-05-19T16:50:48.369Z"
+    "_version_": 1684903082973986816,
+    "timestamp": "2020-12-01T18:53:15.870Z"
 }

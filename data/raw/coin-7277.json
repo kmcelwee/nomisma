@@ -53,6 +53,12 @@
         "7.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7277\",\"call_number_browse\":\"Coin 7277\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -232,
     "pub_date_end_sort": -228,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "4525"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -126,9 +129,12 @@
         "WSM  1015"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-232 to -228"
+    ],
     "hashed_id_s": [
         "3ef30b23307a8beb"
     ],
-    "_version_": 1670002330600210432,
-    "timestamp": "2020-06-20T07:32:11.055Z"
+    "_version_": 1684903319432069120,
+    "timestamp": "2020-12-01T18:57:01.373Z"
 }

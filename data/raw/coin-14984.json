@@ -49,9 +49,6 @@
     "issue_denomination_s": [
         "Half Dollar"
     ],
-    "issue_number_s": [
-        "9192"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -104,6 +101,6 @@
     "hashed_id_s": [
         "2f6f5bcd42ad22c1"
     ],
-    "_version_": 1667144762856046592,
-    "timestamp": "2020-05-19T18:32:22.092Z"
+    "_version_": 1683105275925495808,
+    "timestamp": "2020-11-11T22:37:53.463Z"
 }

@@ -35,8 +35,14 @@
         "46.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14007\",\"call_number_browse\":\"Coin 14007\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Grade III, officers (other than senior officers)"
-    ],
-    "issue_number_s": [
-        "9031"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,6 +94,6 @@
     "hashed_id_s": [
         "b1ca57da56424807"
     ],
-    "_version_": 1667145060743905280,
-    "timestamp": "2020-05-19T18:37:06.162Z"
+    "_version_": 1684903365637570560,
+    "timestamp": "2020-12-01T18:57:45.438Z"
 }

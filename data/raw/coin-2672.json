@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2672\",\"call_number_browse\":\"Coin 2672\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1931"
+    ],
     "pub_date_start_sort": -29,
     "pub_date_end_sort": -27,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1686"
     ],
     "issue_place_s": [
         "Asia, Roman Empire"
@@ -79,9 +85,15 @@
         "RRC  540/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, temple"
+    ],
+    "issue_date_s": [
+        "-29 to -27"
+    ],
     "hashed_id_s": [
         "c51e690f256950b8"
     ],
-    "_version_": 1667138477138903040,
-    "timestamp": "2020-05-19T16:52:27.542Z"
+    "_version_": 1684903615145181184,
+    "timestamp": "2020-12-01T19:01:43.388Z"
 }

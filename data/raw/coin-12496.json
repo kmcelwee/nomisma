@@ -38,8 +38,11 @@
         "1.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12496\",\"call_number_browse\":\"Coin 12496\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -70,
     "pub_date_end_sort": -57,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8364"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "Sellwood  39.21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-70 to -57"
+    ],
     "hashed_id_s": [
         "20ac1cf612bbc15a"
     ],
-    "_version_": 1667138306798780416,
-    "timestamp": "2020-05-19T16:49:45.091Z"
+    "_version_": 1684903047128416256,
+    "timestamp": "2020-12-01T18:52:41.687Z"
 }

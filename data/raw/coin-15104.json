@@ -2,7 +2,7 @@
     "id": "coin-15104",
     "title_display": "Coin: 15104",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15104"
@@ -35,22 +35,25 @@
         "3.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15104\",\"call_number_browse\":\"Coin 15104\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "pub_date_start_sort": 140,
+    "pub_date_end_sort": 140,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9268"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
+    ],
+    "issue_era_s": [
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -68,26 +71,47 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG PI-VS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS III"
     ],
     "issue_reverse_figure_s": [
-        "Bare head of dr. bust Marcus Aurelius r."
+        "Marcus Aurelius"
+    ],
+    "issue_reverse_part_s": [
+        "head"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "bare-headed, draped"
     ],
     "issue_reverse_legend_s": [
         "AVRELIVS CAESAR AVG PII F COS"
     ],
     "issue_references_s": [
-        "BMC.1 26 163-5",
-        "Strack  110",
-        "Roman Imperial Coinage 78 417b"
+        "RIC III  Antoninus Pius 417B",
+        "BMC.4 26 163-5",
+        "Strack  110"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 140"
+    ],
     "hashed_id_s": [
         "c061f398503a2d3a"
     ],
-    "_version_": 1667145397681782784,
-    "timestamp": "2020-05-19T18:53:24.770Z"
+    "_version_": 1684903373483016192,
+    "timestamp": "2020-12-01T18:57:52.922Z"
 }

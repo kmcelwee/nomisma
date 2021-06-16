@@ -32,8 +32,11 @@
         "7.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1367\",\"call_number_browse\":\"Coin 1367\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "773"
     ],
     "issue_metal_s": [
         "Copper"
@@ -75,9 +75,12 @@
         "Coole 83 2nd Description Down"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "d176611ff5ee6c2a"
     ],
-    "_version_": 1667138210835202048,
-    "timestamp": "2020-05-19T16:48:13.575Z"
+    "_version_": 1684902975373312000,
+    "timestamp": "2020-12-01T18:51:33.253Z"
 }

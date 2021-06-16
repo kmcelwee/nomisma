@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "diobol"
     ],
-    "issue_number_s": [
-        "4759"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "348f9a39fbf6751d"
     ],
-    "_version_": 1667138260202160128,
-    "timestamp": "2020-05-19T16:49:00.653Z"
+    "_version_": 1683105063270088704,
+    "timestamp": "2020-11-11T22:34:30.657Z"
 }

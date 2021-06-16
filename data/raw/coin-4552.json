@@ -35,6 +35,15 @@
         "3.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4552\",\"call_number_browse\":\"Coin 4552\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; $2.10"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2514"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +100,12 @@
         "Sear  491"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "7a9b227f8f68229e"
     ],
-    "_version_": 1667138237537189888,
-    "timestamp": "2020-05-19T16:48:39.037Z"
+    "_version_": 1684903462427426816,
+    "timestamp": "2020-12-01T18:59:17.745Z"
 }

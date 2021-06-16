@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 648\",\"call_number_browse\":\"Coin 648\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -317,
     "pub_date_end_sort": -311,
@@ -90,9 +93,12 @@
         "Price  3708"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-317 to -311"
+    ],
     "hashed_id_s": [
         "5734977bd71ed586"
     ],
-    "_version_": 1674367459354738688,
-    "timestamp": "2020-08-07T11:54:02.213Z"
+    "_version_": 1684903331886006272,
+    "timestamp": "2020-12-01T18:57:13.250Z"
 }

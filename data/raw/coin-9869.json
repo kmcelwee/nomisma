@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "tetarteron"
     ],
-    "issue_number_s": [
-        "6246"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -74,9 +71,12 @@
         "center, facing forward"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1081 to 1118"
+    ],
     "hashed_id_s": [
         "45b0653d6a76b76f"
     ],
-    "_version_": 1667145496872878080,
-    "timestamp": "2020-05-19T18:44:02.080Z"
+    "_version_": 1684903138952216576,
+    "timestamp": "2020-12-01T18:54:09.253Z"
 }

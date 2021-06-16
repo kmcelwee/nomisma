@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/18/1937"
-    ],
-    "find_feature_s": [
-        "Dig III -5.50 Basket A."
+        "05/18/1937"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
         "Ca1380"
+    ],
+    "find_description_s": [
+        "Dig III, room A, 5.5m (basket A)"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "6.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3908\",\"call_number_browse\":\"Coin 3908\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 13,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2264"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -106,9 +115,6 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above; in field, date \u0394\u039c"
-    ],
     "issue_reverse_legend_s": [
         "\u0395\u03a0\u0399 \u03a3\u0399\u039b\u0391\u039d\u039f\u03a5 \u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
     ],
@@ -119,9 +125,12 @@
         "RPC.1  4269"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "13 to 14"
+    ],
     "hashed_id_s": [
         "f19f9af881707add"
     ],
-    "_version_": 1667138484871102464,
-    "timestamp": "2020-05-19T16:52:34.914Z"
+    "_version_": 1684903695156772864,
+    "timestamp": "2020-12-01T19:02:59.693Z"
 }

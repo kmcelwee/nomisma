@@ -35,8 +35,11 @@
         "12.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9369\",\"call_number_browse\":\"Coin 9369\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 158,
     "pub_date_end_sort": 195,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5988"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "Mitchiner  3246-3258"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "158 to 195"
+    ],
     "hashed_id_s": [
         "8ad7e16fd24611b5"
     ],
-    "_version_": 1667138149912936448,
-    "timestamp": "2020-05-19T16:47:15.474Z"
+    "_version_": 1684902917668077568,
+    "timestamp": "2020-12-01T18:50:38.222Z"
 }

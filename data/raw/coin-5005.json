@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Part of base missing. 93.91g"
+        "Coin heavily clipped"
     ],
     "die_axis_s": [
         "12"
@@ -34,9 +34,15 @@
     "size_s": [
         "36"
     ],
+    "weight_s": [
+        "93.91"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5005\",\"call_number_browse\":\"Coin 5005\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": -275,
     "pub_date_end_sort": -270,
@@ -46,11 +52,11 @@
     "issue_denomination_s": [
         "triens"
     ],
-    "issue_number_s": [
-        "2725"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -97,9 +103,12 @@
         "Sear  539"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-275 to -270"
+    ],
     "hashed_id_s": [
         "899b4dd93c2733fe"
     ],
-    "_version_": 1667138242484371456,
-    "timestamp": "2020-05-19T16:48:43.756Z"
+    "_version_": 1684903698887606272,
+    "timestamp": "2020-12-01T19:03:03.251Z"
 }

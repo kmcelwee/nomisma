@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-19-1938"
-    ],
-    "find_feature_s": [
-        "trench 7"
+        "05/19/1938"
     ],
     "find_locus_s": [
-        "13-R(N)"
+        "A 13-R (N)"
     ],
     "find_number_s": [
         "Cb2127"
     ],
     "find_description_s": [
-        "to ca.1.50 above pavement of wall"
+        "Trench 7, to 1.5m above pavement of wall"
     ],
     "die_axis_s": [
         "6"
@@ -56,8 +53,14 @@
         "6.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2079\",\"call_number_browse\":\"Coin 2079\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "278: 1931-01-01 Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; ; purchased $2.8 in 1931"
     ],
     "pub_date_start_sort": 50,
     "pub_date_end_sort": 54,
@@ -66,9 +69,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "1365"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +113,12 @@
         "RPC.1  4171"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "50 to 54"
+    ],
     "hashed_id_s": [
         "b95ac228a20e6426"
     ],
-    "_version_": 1667138471419969536,
-    "timestamp": "2020-05-19T16:52:22.085Z"
+    "_version_": 1684903688708030464,
+    "timestamp": "2020-12-01T19:02:53.546Z"
 }

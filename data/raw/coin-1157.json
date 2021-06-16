@@ -35,8 +35,11 @@
         "20"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1157\",\"call_number_browse\":\"Coin 1157\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "146:  Louis C. West"
     ],
     "pub_date_start_sort": 711,
     "pub_date_end_sort": 713,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "604"
     ],
     "issue_metal_s": [
         "Gold"
@@ -104,9 +104,12 @@
         "DOC.2 Philippicus 1e"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "711 to 713"
+    ],
     "hashed_id_s": [
         "06f9bdad1c41079c"
     ],
-    "_version_": 1667138208864927744,
-    "timestamp": "2020-05-19T16:48:11.695Z"
+    "_version_": 1684902973299228672,
+    "timestamp": "2020-12-01T18:51:31.275Z"
 }

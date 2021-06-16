@@ -26,16 +26,16 @@
         "50"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15156\",\"call_number_browse\":\"Coin 15156\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1961,
     "pub_date_end_sort": 1979,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9313"
     ],
     "issue_metal_s": [
         "Copper"
@@ -51,9 +51,12 @@
         "World Orders of Knighthood and Merit  1067"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1961 to 1979"
+    ],
     "hashed_id_s": [
         "5a9e46ba37465eb0"
     ],
-    "_version_": 1667144827624488960,
-    "timestamp": "2020-05-19T18:33:23.853Z"
+    "_version_": 1684903354326581248,
+    "timestamp": "2020-12-01T18:57:34.651Z"
 }

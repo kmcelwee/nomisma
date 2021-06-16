@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1937"
+        "1937-05-13"
+    ],
+    "find_feature_s": [
+        "Dig III, 3.5-4.5m (basket A)"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca914"
-    ],
-    "find_description_s": [
-        "Dig III 3.50M to 4.50M"
+        "Ca0914"
     ],
     "die_axis_s": [
         "6"
@@ -50,13 +50,16 @@
         "1.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8206\",\"call_number_browse\":\"Coin 8206\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5217"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -112,9 +115,12 @@
         "Cohen VII, p.378 117"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "691215c29918690b"
     ],
-    "_version_": 1667138347648155648,
-    "timestamp": "2020-05-19T16:50:24.050Z"
+    "_version_": 1694516627723255808,
+    "timestamp": "2021-03-17T21:36:26.581Z"
 }

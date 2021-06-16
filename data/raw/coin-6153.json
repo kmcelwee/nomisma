@@ -32,13 +32,13 @@
         "27.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6153\",\"call_number_browse\":\"Coin 6153\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 1758,
     "pub_date_end_sort": 1759,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3601"
     ],
     "issue_metal_s": [
         "Copper"
@@ -71,9 +71,12 @@
         "M.I. Plate CLXXXI 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1758 to 1759"
+    ],
     "hashed_id_s": [
         "d51c6415488ceb67"
     ],
-    "_version_": 1667138376433664000,
-    "timestamp": "2020-05-19T16:50:51.502Z"
+    "_version_": 1684903259796406272,
+    "timestamp": "2020-12-01T18:56:04.502Z"
 }

@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 189\",\"call_number_browse\":\"Coin 189\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 1717,
     "pub_date_end_sort": 1718,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "4 shahi"
-    ],
-    "issue_number_s": [
-        "78"
     ],
     "issue_metal_s": [
         "Silver"
@@ -75,9 +78,12 @@
         "Mitchiner  2097v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1717 to 1718"
+    ],
     "hashed_id_s": [
         "7ca9b2d6cd735f57"
     ],
-    "_version_": 1667145397058928640,
-    "timestamp": "2020-05-19T18:53:24.755Z"
+    "_version_": 1684903090899124224,
+    "timestamp": "2020-12-01T18:53:23.428Z"
 }

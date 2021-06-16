@@ -35,6 +35,9 @@
         "5.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9501\",\"call_number_browse\":\"Coin 9501\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 228,
     "pub_date_end_sort": 180,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "unknown"
-    ],
-    "issue_number_s": [
-        "6084"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "Catalogue of the Greek Coins in the British Museum Pontus to Bosporus p 209 # 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "228 to 180"
+    ],
     "hashed_id_s": [
         "bf262fa23af28405"
     ],
-    "_version_": 1667138146613067776,
-    "timestamp": "2020-05-19T16:47:12.326Z"
+    "_version_": 1684903399850508288,
+    "timestamp": "2020-12-01T18:58:18.066Z"
 }

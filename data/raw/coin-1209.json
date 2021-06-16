@@ -35,6 +35,9 @@
         "6.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1209\",\"call_number_browse\":\"Coin 1209\"}}",
+    "numismatic_accession_s": [
+        "165: 1987-01-01 PMV"
+    ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 64,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "654"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -95,9 +95,12 @@
         "Sear  1978v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 64"
+    ],
     "hashed_id_s": [
         "7a47f61abbb714f1"
     ],
-    "_version_": 1667138460102688768,
-    "timestamp": "2020-05-19T16:52:11.294Z"
+    "_version_": 1684903603321438208,
+    "timestamp": "2020-12-01T19:01:32.111Z"
 }

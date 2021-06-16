@@ -35,16 +35,16 @@
         "152.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6625\",\"call_number_browse\":\"Coin 6625\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "4044"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "Godefroid Devreese, G.DEVREESE"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "2398f9b8f5dbb712"
     ],
-    "_version_": 1667138140213608448,
-    "timestamp": "2020-05-19T16:47:06.222Z"
+    "_version_": 1684903389392011264,
+    "timestamp": "2020-12-01T18:58:08.091Z"
 }

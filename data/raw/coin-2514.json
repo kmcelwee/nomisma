@@ -53,6 +53,12 @@
         "2.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2514\",\"call_number_browse\":\"Coin 2514\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1101,
     "pub_date_end_sort": 1112,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "1587"
     ],
     "issue_metal_s": [
         "Copper"
@@ -109,9 +112,12 @@
         "Malloy p. 199 3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1101 to 1112"
+    ],
     "hashed_id_s": [
         "1cf4fc640f1b36b8"
     ],
-    "_version_": 1667138475633147904,
-    "timestamp": "2020-05-19T16:52:26.105Z"
+    "_version_": 1684903613844946944,
+    "timestamp": "2020-12-01T19:01:42.148Z"
 }

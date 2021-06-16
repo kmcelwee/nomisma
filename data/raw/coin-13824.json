@@ -35,6 +35,15 @@
         "5.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13824\",\"call_number_browse\":\"Coin 13824\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "H.A. Seaby; 1930; $1.60"
+    ],
     "pub_date_start_sort": -123,
     "pub_date_end_sort": -120,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8868"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +111,12 @@
         "H & L II,v.I,p.475 2263.2f"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-123 to -120"
+    ],
     "hashed_id_s": [
         "5b5f7f76440a996f"
     ],
-    "_version_": 1667138519651319808,
-    "timestamp": "2020-05-19T16:53:08.084Z"
+    "_version_": 1684903646318297088,
+    "timestamp": "2020-12-01T19:02:13.118Z"
 }

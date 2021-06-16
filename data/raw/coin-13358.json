@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "dirham"
     ],
-    "issue_number_s": [
-        "8640"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "4fb2b57756636534"
     ],
-    "_version_": 1667145481353953280,
-    "timestamp": "2020-05-19T18:50:06.545Z"
+    "_version_": 1684903353355599872,
+    "timestamp": "2020-12-01T18:57:33.725Z"
 }

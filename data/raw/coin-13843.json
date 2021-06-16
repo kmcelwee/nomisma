@@ -32,16 +32,16 @@
         "37.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13843\",\"call_number_browse\":\"Coin 13843\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "8889"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -73,9 +73,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  331"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "453b0a8a6b87daad"
     ],
-    "_version_": 1667138514910707712,
-    "timestamp": "2020-05-19T16:53:03.563Z"
+    "_version_": 1684903644603875328,
+    "timestamp": "2020-12-01T19:02:11.483Z"
 }

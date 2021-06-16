@@ -38,8 +38,8 @@
         "4.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8772\",\"call_number_browse\":\"Coin 8772\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5574"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +103,12 @@
         "BL Michael VII 55/Cp/AU/01-02v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "8f8dd280a767e095"
     ],
-    "_version_": 1667138181614534656,
-    "timestamp": "2020-05-19T16:47:45.706Z"
+    "_version_": 1684903417029328896,
+    "timestamp": "2020-12-01T18:58:34.451Z"
 }

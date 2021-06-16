@@ -35,8 +35,11 @@
         "3.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 928\",\"call_number_browse\":\"Coin 928\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
@@ -99,9 +102,12 @@
         "Price  1378v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "8595d4ac0b8b7847"
     ],
-    "_version_": 1672922672346955776,
-    "timestamp": "2020-07-22T13:09:45.951Z"
+    "_version_": 1684903665148624896,
+    "timestamp": "2020-12-01T19:02:31.075Z"
 }

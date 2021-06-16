@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5954"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -72,9 +69,12 @@
         "The Coinage of the Mamluk Sultans: Additions and Corrections  233A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1310 to 1312"
+    ],
     "hashed_id_s": [
         "b3b0e1330360146f"
     ],
-    "_version_": 1667144891527856128,
-    "timestamp": "2020-05-19T18:34:24.809Z"
+    "_version_": 1684903355875328000,
+    "timestamp": "2020-12-01T18:57:36.128Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-14033",
     "title_display": "Coin: 14033",
     "pub_created_display": [
-        "Diocletian   (244 to 311), 4 drachm, Alexandria"
+        "Diocletian   (284 to 305), 4 drachm, Alexandria"
     ],
     "call_number_display": [
         "Coin 14033"
@@ -35,8 +35,11 @@
         "6.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14033\",\"call_number_browse\":\"Coin 14033\"}}",
-    "donor_s": [
-        "William C. Hayes"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  William C. Hayes"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "4 drachm"
-    ],
-    "issue_number_s": [
-        "9059"
     ],
     "issue_metal_s": [
         "Billon"
@@ -59,7 +59,7 @@
         "Regnal"
     ],
     "issue_ruler_s": [
-        "Diocletian   (244 to 311)"
+        "Diocletian   (284 to 305)"
     ],
     "issue_place_s": [
         "Alexandria, Egypt, Roman Empire"
@@ -98,9 +98,12 @@
         "Milne 117 4925"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "6be3d95f2195c4b7"
     ],
-    "_version_": 1667310365081337856,
-    "timestamp": "2020-05-21T14:24:32.654Z"
+    "_version_": 1684902913756889088,
+    "timestamp": "2020-12-01T18:50:34.492Z"
 }

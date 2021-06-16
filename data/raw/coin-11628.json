@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/11/1938"
+        "1938-06-11"
+    ],
+    "find_feature_s": [
+        "Apse to N. wall trench, section 1, over pavement (A1)"
     ],
     "find_locus_s": [
-        "13-R"
+        "A 13-R"
     ],
     "find_number_s": [
         "Cb3243"
@@ -47,6 +50,12 @@
         "2.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11628\",\"call_number_browse\":\"Coin 11628\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7747"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,6 +107,6 @@
     "hashed_id_s": [
         "e7ab31995406c173"
     ],
-    "_version_": 1667138133106360320,
-    "timestamp": "2020-05-19T16:46:59.445Z"
+    "_version_": 1696227247281668096,
+    "timestamp": "2021-04-05T18:46:00.525Z"
 }

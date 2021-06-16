@@ -35,8 +35,11 @@
         "1.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13612\",\"call_number_browse\":\"Coin 13612\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8704"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,6 +90,6 @@
     "hashed_id_s": [
         "dffec0777d0ba85a"
     ],
-    "_version_": 1667138332530835456,
-    "timestamp": "2020-05-19T16:50:09.632Z"
+    "_version_": 1684903239022018560,
+    "timestamp": "2020-12-01T18:55:44.688Z"
 }

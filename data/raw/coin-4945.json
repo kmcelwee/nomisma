@@ -35,6 +35,15 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4945\",\"call_number_browse\":\"Coin 4945\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; $3"
+    ],
     "pub_date_start_sort": -54,
     "pub_date_end_sort": -54,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2730"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Pompeius Rufus"
@@ -74,13 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Q. Pompeius Rufus, Cos. 88, bare head r.; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Moneyer's paternal grandfather"
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "RVFVS COS | Q \u0393OM RVFI"
+        "RVFVS\u00b7COS Q\u00b7POM\u00b7RVFI"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Sulla"
@@ -92,23 +101,26 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Sulla, bare head r.; border of dots"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Moneyer's maternal grandfather"
+        "bare"
     ],
     "issue_reverse_legend_s": [
-        "SVLLA COS"
+        "SVLLA\u00b7COS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  434/1",
+        "RRC  434/1v",
         "Syd.  908",
         "Sear  399"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-54 to -54"
+    ],
     "hashed_id_s": [
         "c60e774e664b7072"
     ],
-    "_version_": 1667138243200548864,
-    "timestamp": "2020-05-19T16:48:44.438Z"
+    "_version_": 1684903671239802880,
+    "timestamp": "2020-12-01T19:02:36.884Z"
 }

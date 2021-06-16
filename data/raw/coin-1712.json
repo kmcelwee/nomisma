@@ -35,8 +35,11 @@
         "12.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1712\",\"call_number_browse\":\"Coin 1712\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 63,
     "pub_date_end_sort": 64,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1102"
     ],
     "issue_metal_s": [
         "Billon"
@@ -98,9 +98,12 @@
         "RPC.1  5274"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "63 to 64"
+    ],
     "hashed_id_s": [
         "cdae4291b9a08933"
     ],
-    "_version_": 1667138466033434624,
-    "timestamp": "2020-05-19T16:52:16.951Z"
+    "_version_": 1684903223145529344,
+    "timestamp": "2020-12-01T18:55:29.548Z"
 }

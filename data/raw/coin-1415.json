@@ -35,8 +35,11 @@
         "5.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1415\",\"call_number_browse\":\"Coin 1415\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 60,
     "pub_date_end_sort": 60,
@@ -105,9 +108,12 @@
         "RPC.1  2997"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "60 to 60"
+    ],
     "hashed_id_s": [
         "edf12ee9a50fca22"
     ],
-    "_version_": 1673104014976221184,
-    "timestamp": "2020-07-24T13:12:07.759Z"
+    "_version_": 1684903668330004480,
+    "timestamp": "2020-12-01T19:02:34.109Z"
 }

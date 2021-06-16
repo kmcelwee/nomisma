@@ -35,8 +35,11 @@
         "3.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1914\",\"call_number_browse\":\"Coin 1914\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "38:  J.C. Wilson"
     ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1055,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "1251"
     ],
     "issue_metal_s": [
         "Gold"
@@ -112,9 +112,12 @@
         "Sear 356 1832"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1055"
+    ],
     "hashed_id_s": [
         "4fed5a4cf07e0eae"
     ],
-    "_version_": 1667138213590859776,
-    "timestamp": "2020-05-19T16:48:16.200Z"
+    "_version_": 1684902978915401728,
+    "timestamp": "2020-12-01T18:51:36.633Z"
 }

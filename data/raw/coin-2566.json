@@ -53,6 +53,9 @@
         "3.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2566\",\"call_number_browse\":\"Coin 2566\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1101,
     "pub_date_end_sort": 1112,
     "issue_object_type_s": [
@@ -109,9 +112,12 @@
         "Malloy p. 199 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1101 to 1112"
+    ],
     "hashed_id_s": [
         "27bf44ded433e6e3"
     ],
-    "_version_": 1674169381958975488,
-    "timestamp": "2020-08-05T07:25:40.890Z"
+    "_version_": 1684903231695618048,
+    "timestamp": "2020-12-01T18:55:37.701Z"
 }

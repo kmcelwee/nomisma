@@ -47,6 +47,9 @@
         "0.996"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7482\",\"call_number_browse\":\"Coin 7482\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 338,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4682"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +110,12 @@
         "Cohen 7 313.716"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 338"
+    ],
     "hashed_id_s": [
         "3d07e29186dca675"
     ],
-    "_version_": 1667138175391236096,
-    "timestamp": "2020-05-19T16:47:39.771Z"
+    "_version_": 1684903050550968320,
+    "timestamp": "2020-12-01T18:52:44.950Z"
 }

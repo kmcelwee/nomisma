@@ -38,8 +38,11 @@
         "13.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14996\",\"call_number_browse\":\"Coin 14996\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "639: 1929-05-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dollar"
-    ],
-    "issue_number_s": [
-        "9201"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "John Reich, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "f6f1385872bf08ae"
     ],
-    "_version_": 1667144763758870529,
-    "timestamp": "2020-05-19T18:32:23.579Z"
+    "_version_": 1684903320591794176,
+    "timestamp": "2020-12-01T18:57:02.479Z"
 }

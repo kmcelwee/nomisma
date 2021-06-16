@@ -32,6 +32,9 @@
         "71x100"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9768\",\"call_number_browse\":\"Coin 9768\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "1 shilling"
-    ],
-    "issue_number_s": [
-        "3698"
     ],
     "issue_metal_s": [
         "Paper"
@@ -74,6 +74,6 @@
     "hashed_id_s": [
         "6c3d14b30254d137"
     ],
-    "_version_": 1667145144805097472,
-    "timestamp": "2020-05-19T18:38:26.321Z"
+    "_version_": 1684903418280280064,
+    "timestamp": "2020-12-01T18:58:35.642Z"
 }

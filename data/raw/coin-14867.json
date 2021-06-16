@@ -35,8 +35,14 @@
         "1.40"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14867\",\"call_number_browse\":\"Coin 14867\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
+    ],
+    "numismatic_provenance_s": [
+        "1925; purchased"
     ],
     "pub_date_start_sort": 814,
     "pub_date_end_sort": 840,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denaro"
-    ],
-    "issue_number_s": [
-        "9130"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "m9109.jpg"
     ],
     "issue_monogram_1display": "[{\"title\":\"m9109.jpg\",\"document_id\":\"cfd9c51f-f2bc-463c-9cc5-9cb98958a1b3\"}]",
+    "issue_date_s": [
+        "814 to 840"
+    ],
     "hashed_id_s": [
         "71885f2459281d56"
     ],
-    "_version_": 1667236558182285312,
-    "timestamp": "2020-05-20T18:51:25.042Z"
+    "_version_": 1684903380830388224,
+    "timestamp": "2020-12-01T18:57:59.928Z"
 }

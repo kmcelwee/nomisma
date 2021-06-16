@@ -35,6 +35,12 @@
         "0.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8616\",\"call_number_browse\":\"Coin 8616\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1329,
     "pub_date_end_sort": 1339,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denaro"
-    ],
-    "issue_number_s": [
-        "5512"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "CNI V, p.69 19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1329 to 1339"
+    ],
     "hashed_id_s": [
         "ffc2c18a1d1f8257"
     ],
-    "_version_": 1667138269636198400,
-    "timestamp": "2020-05-19T16:49:09.650Z"
+    "_version_": 1684903017394995200,
+    "timestamp": "2020-12-01T18:52:13.329Z"
 }

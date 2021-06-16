@@ -35,6 +35,12 @@
         "3.924"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11984\",\"call_number_browse\":\"Coin 11984\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -111,
     "pub_date_end_sort": -110,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8031"
     ],
     "issue_master_s": [
         "Ap. Claudius Pulcher"
@@ -81,9 +84,12 @@
         "Syd.  570-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-111 to -110"
+    ],
     "hashed_id_s": [
         "d1b5975646cf76df"
     ],
-    "_version_": 1667138126019035136,
-    "timestamp": "2020-05-19T16:46:52.686Z"
+    "_version_": 1684903655861387264,
+    "timestamp": "2020-12-01T19:02:22.217Z"
 }

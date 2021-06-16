@@ -38,8 +38,14 @@
         "4.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11255\",\"call_number_browse\":\"Coin 11255\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Busso Peus, Athens; 10/25/2000; 366 (287)"
     ],
     "pub_date_start_sort": 628,
     "pub_date_end_sort": 630,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7421"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  WYHC Type II/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "628 to 630"
+    ],
     "hashed_id_s": [
         "82eece5534eaaf09"
     ],
-    "_version_": 1667138168251482112,
-    "timestamp": "2020-05-19T16:47:32.965Z"
+    "_version_": 1684903422484021248,
+    "timestamp": "2020-12-01T18:58:39.656Z"
 }

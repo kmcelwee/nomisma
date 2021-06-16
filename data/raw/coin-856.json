@@ -35,6 +35,12 @@
         "3.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 856\",\"call_number_browse\":\"Coin 856\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "35: 1932-08-01 Mavromates"
+    ],
     "pub_date_start_sort": -25,
     "pub_date_end_sort": -15,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "347"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,15 @@
         "Sear  1633"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-25 to -15"
+    ],
     "hashed_id_s": [
         "46e9619a3737e9a3"
     ],
-    "_version_": 1667145838597505024,
-    "timestamp": "2020-05-19T19:03:45.450Z"
+    "_version_": 1684902971881553920,
+    "timestamp": "2020-12-01T18:51:29.923Z"
 }

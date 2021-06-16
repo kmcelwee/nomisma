@@ -35,8 +35,14 @@
         "10.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15183\",\"call_number_browse\":\"Coin 15183\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "148:  Howard Crosby Butler"
+    ],
+    "numismatic_provenance_s": [
+        "Howard Crosby Butler; ; "
     ],
     "pub_date_start_sort": 145,
     "pub_date_end_sort": 161,
@@ -46,17 +52,14 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "9341"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -74,26 +77,50 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG PI-VS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS IIII"
     ],
     "issue_reverse_figure_s": [
-        "Antoninus togate, seated l. on platform at right; to his right, officer; to his left, dr. female figure (Liberalitas) standing with tablet and cornucopiae; below left, citizen holding out fold of toga; in ex., S C"
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "seated"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on platform, r.,"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Liberalitas, standing l, holding account-board and cornucopiae; above citizen, standing right, holding out of fold of toga"
     ],
     "issue_reverse_legend_s": [
-        "[LIBERALITAS IIII]"
+        "LIBERALITAS AVG V S C"
     ],
     "issue_references_s": [
-        "BMC.1 283 1751",
-        "RIC 130 821",
-        "Strack 991 "
+        "RIC III  Antoninus Pius 821",
+        "Strack  991",
+        "BMC.4 283 1751"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "145 to 161"
+    ],
     "hashed_id_s": [
         "1597f242826e74d5"
     ],
-    "_version_": 1667144762347487232,
-    "timestamp": "2020-05-19T18:32:21.618Z"
+    "_version_": 1684903689084469248,
+    "timestamp": "2020-12-01T19:02:53.903Z"
 }

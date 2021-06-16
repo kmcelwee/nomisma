@@ -35,8 +35,11 @@
         "3.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 438\",\"call_number_browse\":\"Coin 438\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -2,
     "pub_date_end_sort": 4,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "196"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,18 @@
         "Sear  1597"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Caesar, Lucius",
+        "Other Person, Caesar, Gaius",
+        "Category, simpulum",
+        "Category, lituus"
+    ],
+    "issue_date_s": [
+        "-2 to 4"
+    ],
     "hashed_id_s": [
         "5f0e3b19726bf65e"
     ],
-    "_version_": 1667138403233169408,
-    "timestamp": "2020-05-19T16:51:17.060Z"
+    "_version_": 1684903177370992640,
+    "timestamp": "2020-12-01T18:54:45.894Z"
 }

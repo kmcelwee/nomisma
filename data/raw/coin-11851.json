@@ -35,8 +35,11 @@
         "2.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11851\",\"call_number_browse\":\"Coin 11851\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 118,
     "pub_date_end_sort": 118,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7939"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 249 74"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "118 to 118"
+    ],
     "hashed_id_s": [
         "e81f72e864fb121e"
     ],
-    "_version_": 1667138119331217408,
-    "timestamp": "2020-05-19T16:46:46.308Z"
+    "_version_": 1684903651959635968,
+    "timestamp": "2020-12-01T19:02:18.499Z"
 }

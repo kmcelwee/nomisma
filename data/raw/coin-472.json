@@ -53,6 +53,12 @@
         "1.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 472\",\"call_number_browse\":\"Coin 472\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 517,
     "pub_date_end_sort": 518,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "208"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +116,12 @@
         " Anastasius I 63bv"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "517 to 518"
+    ],
     "hashed_id_s": [
         "3f0a4f68be14a2d1"
     ],
-    "_version_": 1667138450581618688,
-    "timestamp": "2020-05-19T16:52:02.215Z"
+    "_version_": 1684903591568998400,
+    "timestamp": "2020-12-01T19:01:20.905Z"
 }

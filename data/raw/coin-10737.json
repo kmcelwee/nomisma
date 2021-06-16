@@ -35,8 +35,14 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10737\",\"call_number_browse\":\"Coin 10737\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 02/18/2001"
     ],
     "pub_date_start_sort": 293,
     "pub_date_end_sort": 302,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6898"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Incerta e (Phase 3) Type II/5b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 302"
+    ],
     "hashed_id_s": [
         "b575b283bbca5edb"
     ],
-    "_version_": 1667138173759651840,
-    "timestamp": "2020-05-19T16:47:38.218Z"
+    "_version_": 1684903045010292736,
+    "timestamp": "2020-12-01T18:52:39.665Z"
 }

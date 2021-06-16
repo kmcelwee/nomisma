@@ -41,8 +41,14 @@
         "1.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9865\",\"call_number_browse\":\"Coin 9865\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1993"
     ],
     "pub_date_start_sort": 1204,
     "pub_date_end_sort": 1261,
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "billon"
-    ],
-    "issue_number_s": [
-        "6245"
     ],
     "issue_metal_s": [
         "Billon"
@@ -98,9 +101,12 @@
         "DOC 689 23.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1204 to 1261"
+    ],
     "hashed_id_s": [
         "3e209c24af2ad5f0"
     ],
-    "_version_": 1667138278113935360,
-    "timestamp": "2020-05-19T16:49:17.737Z"
+    "_version_": 1684903495999684608,
+    "timestamp": "2020-12-01T18:59:49.764Z"
 }

@@ -35,8 +35,14 @@
         "35.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13899\",\"call_number_browse\":\"Coin 13899\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke; ; "
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Grade III, officers (other than senior officers)"
-    ],
-    "issue_number_s": [
-        "8934"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -78,9 +81,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World 326-27 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "8665b40f22e7fe8b"
     ],
-    "_version_": 1667138198672769024,
-    "timestamp": "2020-05-19T16:48:01.976Z"
+    "_version_": 1684903435763187712,
+    "timestamp": "2020-12-01T18:58:52.316Z"
 }

@@ -35,8 +35,11 @@
         "5.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5432\",\"call_number_browse\":\"Coin 5432\"}}",
-    "donor_s": [
-        "M. Goodridge"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "419:  M. Goodridge"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "mark"
-    ],
-    "issue_number_s": [
-        "3053"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,6 +89,6 @@
     "hashed_id_s": [
         "51de9085f2aa6073"
     ],
-    "_version_": 1667138247493419008,
-    "timestamp": "2020-05-19T16:48:48.535Z"
+    "_version_": 1684903469890142208,
+    "timestamp": "2020-12-01T18:59:24.862Z"
 }

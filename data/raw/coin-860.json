@@ -35,6 +35,12 @@
         "14.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 860\",\"call_number_browse\":\"Coin 860\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "82: 1996-01-01 "
+    ],
     "pub_date_start_sort": -31,
     "pub_date_end_sort": -30,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "349"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +106,15 @@
         "RPC.1  4632"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-31 to -30"
+    ],
     "hashed_id_s": [
         "d6227ca8bd63c234"
     ],
-    "_version_": 1667138204976807936,
-    "timestamp": "2020-05-19T16:48:07.987Z"
+    "_version_": 1684903441922523136,
+    "timestamp": "2020-12-01T18:58:58.190Z"
 }

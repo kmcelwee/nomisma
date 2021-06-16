@@ -95,9 +95,12 @@
         "P.d'A. II LVIII19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1272 to 1307"
+    ],
     "hashed_id_s": [
         "6f375a4b38a56074"
     ],
-    "_version_": 1674257589030879232,
-    "timestamp": "2020-08-06T06:47:41.707Z"
+    "_version_": 1684903139452387328,
+    "timestamp": "2020-12-01T18:54:09.731Z"
 }

@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13248\",\"call_number_browse\":\"Coin 13248\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 741,
     "pub_date_end_sort": 775,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7603"
     ],
     "issue_metal_s": [
         "Copper"
@@ -88,9 +91,12 @@
         "BN 469 01V"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "741 to 775"
+    ],
     "hashed_id_s": [
         "4fb4db15ab4e62bd"
     ],
-    "_version_": 1667144974911668224,
-    "timestamp": "2020-05-19T18:35:44.299Z"
+    "_version_": 1684903038116954112,
+    "timestamp": "2020-12-01T18:52:33.092Z"
 }

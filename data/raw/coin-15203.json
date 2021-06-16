@@ -35,7 +35,13 @@
         "6.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15203\",\"call_number_browse\":\"Coin 15203\"}}",
-    "donor_s": [
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
+    ],
+    "numismatic_provenance_s": [
         "T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "corinth"
-    ],
-    "issue_number_s": [
-        "9360"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +92,12 @@
         "Edw. 32 147"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "3c1d320f279db510"
     ],
-    "_version_": 1667144699280883712,
-    "timestamp": "2020-05-19T18:31:21.438Z"
+    "_version_": 1684903347957530624,
+    "timestamp": "2020-12-01T18:57:28.578Z"
 }

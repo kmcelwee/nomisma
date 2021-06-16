@@ -56,6 +56,9 @@
         "2.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7840\",\"call_number_browse\":\"Coin 7840\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 750,
     "pub_date_end_sort": 760,
     "issue_object_type_s": [
@@ -63,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4902"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "BMC  907"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "750 to 760"
+    ],
     "hashed_id_s": [
         "94190cff4e9681e4"
     ],
-    "_version_": 1667138263115104256,
-    "timestamp": "2020-05-19T16:49:03.431Z"
+    "_version_": 1684903484820815872,
+    "timestamp": "2020-12-01T18:59:39.100Z"
 }

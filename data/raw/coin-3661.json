@@ -35,8 +35,11 @@
         "20.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3661\",\"call_number_browse\":\"Coin 3661\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1621,
     "pub_date_end_sort": 1628,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "2159"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,9 +74,12 @@
         "Jen 122 559"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1621 to 1628"
+    ],
     "hashed_id_s": [
         "7808b2675f029d92"
     ],
-    "_version_": 1667138228333838336,
-    "timestamp": "2020-05-19T16:48:30.261Z"
+    "_version_": 1684903107554705408,
+    "timestamp": "2020-12-01T18:53:39.312Z"
 }

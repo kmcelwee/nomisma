@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "4374"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -93,9 +90,12 @@
         "Mitchiner pg. 405 3006"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "85 to 120"
+    ],
     "hashed_id_s": [
         "bcdef5d02c2c0611"
     ],
-    "_version_": 1667138135670128640,
-    "timestamp": "2020-05-19T16:47:01.893Z"
+    "_version_": 1684903383839801344,
+    "timestamp": "2020-12-01T18:58:02.798Z"
 }

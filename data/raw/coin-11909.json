@@ -35,8 +35,11 @@
         "3.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11909\",\"call_number_browse\":\"Coin 11909\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7982"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 337 777"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "d83f53eca2b47724"
     ],
-    "_version_": 1667138119761133568,
-    "timestamp": "2020-05-19T16:46:46.720Z"
+    "_version_": 1684903652299374592,
+    "timestamp": "2020-12-01T19:02:18.821Z"
 }

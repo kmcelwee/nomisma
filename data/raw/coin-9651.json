@@ -53,6 +53,12 @@
         "0.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9651\",\"call_number_browse\":\"Coin 9651\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1149,
     "pub_date_end_sort": 1163,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "6133"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,9 +102,12 @@
         "Ox. pl. 19 471"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1149 to 1163"
+    ],
     "hashed_id_s": [
         "d131f8c9d361053b"
     ],
-    "_version_": 1667138345386377216,
-    "timestamp": "2020-05-19T16:50:21.891Z"
+    "_version_": 1684903530842816512,
+    "timestamp": "2020-12-01T19:00:22.989Z"
 }

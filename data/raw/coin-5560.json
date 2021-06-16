@@ -38,8 +38,11 @@
         "8.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5560\",\"call_number_browse\":\"Coin 5560\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1163,
     "pub_date_end_sort": 1190,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "3147"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -72,9 +72,12 @@
         "Hartill 174 17.231"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1190"
+    ],
     "hashed_id_s": [
         "dc5baa6d8c8c4437"
     ],
-    "_version_": 1667138394796326912,
-    "timestamp": "2020-05-19T16:51:09.015Z"
+    "_version_": 1684903135828508672,
+    "timestamp": "2020-12-01T18:54:06.275Z"
 }

@@ -29,6 +29,9 @@
         "70x91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7196\",\"call_number_browse\":\"Coin 7196\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "60 dollars"
-    ],
-    "issue_number_s": [
-        "4507"
     ],
     "issue_metal_s": [
         "Paper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "afbad6f46aeebb4e"
     ],
-    "_version_": 1667315094689677312,
-    "timestamp": "2020-05-21T15:39:43.162Z"
+    "_version_": 1684903077740544000,
+    "timestamp": "2020-12-01T18:53:10.879Z"
 }

@@ -50,6 +50,12 @@
         "6.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8016\",\"call_number_browse\":\"Coin 8016\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -76,
     "pub_date_end_sort": -75,
     "issue_object_type_s": [
@@ -66,6 +72,9 @@
     ],
     "issue_era_s": [
         "Seleucid"
+    ],
+    "issue_series_s": [
+        "municipal"
     ],
     "issue_place_s": [
         "Antiocheia ad Orontem, Seleucis and Pieria, Seleucid Empire"
@@ -115,9 +124,12 @@
         "Waage  257"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -75"
+    ],
     "hashed_id_s": [
         "7a98ccba6f00c3f6"
     ],
-    "_version_": 1674799607033364480,
-    "timestamp": "2020-08-12T06:22:50.380Z"
+    "_version_": 1684903665629921280,
+    "timestamp": "2020-12-01T19:02:31.534Z"
 }

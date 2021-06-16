@@ -35,6 +35,9 @@
         "4.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 801\",\"call_number_browse\":\"Coin 801\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "325"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "Price  1755v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "c25e29e73e2cc947"
     ],
-    "_version_": 1667138452737490944,
-    "timestamp": "2020-05-19T16:52:04.270Z"
+    "_version_": 1684903586522202112,
+    "timestamp": "2020-12-01T19:01:16.090Z"
 }

@@ -25,11 +25,14 @@
     "advanced_location_s": [
         "num"
     ],
+    "find_place_s": [
+        "Antioch, Syria"
+    ],
     "find_date_s": [
-        "4/25/1932"
+        "04/25/1932"
     ],
     "find_locus_s": [
-        "N-9"
+        "DS 9-N"
     ],
     "find_number_s": [
         "884"
@@ -44,22 +47,31 @@
         "3.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13178\",\"call_number_browse\":\"Coin 13178\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8538"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "S"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -74,7 +86,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -83,10 +98,13 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Female figure"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -95,18 +113,27 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "presenting wreath to emperor standing l., holding scepter"
+        "presenting wreath to emperor, standing l., extending r. hand"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Aurelian"
     ],
     "issue_reverse_legend_s": [
-        "RESTITVOR BIS | S"
+        "RESTITVT ORBIS / XXI"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in Aurelian's l. hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 386"
+        "RIC V  Aurelian 386"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "57a568cea78638a6"
     ],
-    "_version_": 1667138316864061440,
-    "timestamp": "2020-05-19T16:49:54.690Z"
+    "_version_": 1684903676666183680,
+    "timestamp": "2020-12-01T19:02:42.059Z"
 }

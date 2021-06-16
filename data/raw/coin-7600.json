@@ -50,6 +50,12 @@
         "0.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7600\",\"call_number_browse\":\"Coin 7600\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 450,
     "pub_date_end_sort": 457,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "aes IV"
-    ],
-    "issue_number_s": [
-        "4782"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,13 +104,16 @@
         "[illegible]"
     ],
     "issue_references_s": [
-        "RIC X  545?",
+        "RIC X Marcian 545",
         "DOC  497?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "450 to 457"
+    ],
     "hashed_id_s": [
         "2e72b4285e397138"
     ],
-    "_version_": 1667138262167191552,
-    "timestamp": "2020-05-19T16:49:02.526Z"
+    "_version_": 1684903330055192576,
+    "timestamp": "2020-12-01T18:57:11.505Z"
 }

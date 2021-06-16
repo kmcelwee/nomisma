@@ -35,6 +35,9 @@
         "8.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1569\",\"call_number_browse\":\"Coin 1569\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -289,
     "pub_date_end_sort": -287,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "811"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +90,12 @@
         "ANS Part 5, Sicily III 764v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-289 to -287"
+    ],
     "hashed_id_s": [
         "fae77b7ad957200b"
     ],
-    "_version_": 1667138211186475008,
-    "timestamp": "2020-05-19T16:48:13.910Z"
+    "_version_": 1684902975785402368,
+    "timestamp": "2020-12-01T18:51:33.647Z"
 }

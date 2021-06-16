@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "ducat"
     ],
-    "issue_number_s": [
-        "3912"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -92,6 +89,6 @@
     "hashed_id_s": [
         "826c30973be31ac4"
     ],
-    "_version_": 1667138369686077440,
-    "timestamp": "2020-05-19T16:50:45.066Z"
+    "_version_": 1684903548587868160,
+    "timestamp": "2020-12-01T19:00:39.913Z"
 }

@@ -38,8 +38,11 @@
         "1.342"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5871\",\"call_number_browse\":\"Coin 5871\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; April 27, 1917"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "half disme"
-    ],
-    "issue_number_s": [
-        "4927"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "d2f4696d35e0ce5c"
     ],
-    "_version_": 1667138196824129536,
-    "timestamp": "2020-05-19T16:48:00.212Z"
+    "_version_": 1684903434418913280,
+    "timestamp": "2020-12-01T18:58:51.034Z"
 }

@@ -32,6 +32,9 @@
         "90x72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5021\",\"call_number_browse\":\"Coin 5021\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "10 Shillings"
-    ],
-    "issue_number_s": [
-        "2779"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "279f530bb9dc4a90"
     ],
-    "_version_": 1667314256895279104,
-    "timestamp": "2020-05-21T15:26:24.183Z"
+    "_version_": 1684903658593976320,
+    "timestamp": "2020-12-01T19:02:24.825Z"
 }

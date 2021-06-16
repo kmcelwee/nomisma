@@ -41,13 +41,16 @@
         "32.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 902\",\"call_number_browse\":\"Coin 902\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "92: 2006-04-11 Richard Margolis"
+    ],
     "pub_date_start_sort": 1534,
     "pub_date_end_sort": 1586,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "384"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +103,15 @@
         "Jacques Jonghelinck"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, de Freundsberg, Georges II"
+    ],
+    "issue_date_s": [
+        "1534 to 1586"
+    ],
     "hashed_id_s": [
         "1e887959ea0bf2f6"
     ],
-    "_version_": 1667138205095297024,
-    "timestamp": "2020-05-19T16:48:08.100Z"
+    "_version_": 1684903442121752576,
+    "timestamp": "2020-12-01T18:58:58.379Z"
 }

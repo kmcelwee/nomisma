@@ -38,8 +38,11 @@
         "1.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2538\",\"call_number_browse\":\"Coin 2538\"}}",
-    "donor_s": [
-        "Claus Pelling"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "247: 2006-05-31 Claus Pelling"
     ],
     "pub_date_start_sort": 1423,
     "pub_date_end_sort": 1457,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1598"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,9 +108,12 @@
         "CNI, 7  IV.26.36"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1423 to 1457"
+    ],
     "hashed_id_s": [
         "b1be8a39ce719e31"
     ],
-    "_version_": 1667138420836663296,
-    "timestamp": "2020-05-19T16:51:33.848Z"
+    "_version_": 1684903198645551104,
+    "timestamp": "2020-12-01T18:55:06.183Z"
 }

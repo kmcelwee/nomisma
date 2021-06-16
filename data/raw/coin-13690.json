@@ -35,8 +35,11 @@
         "16.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13690\",\"call_number_browse\":\"Coin 13690\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": -150,
     "pub_date_end_sort": -145,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8755"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,15 +100,18 @@
     "issue_reverse_attributes_s": [
         "sceptre, in r.hand",
         "Nike, in l.hand, offering wreath",
-        "m13690, in exergue"
+        "monogram, in exergue"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.249 1858.3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-150 to -145"
+    ],
     "hashed_id_s": [
         "40f241533e444116"
     ],
-    "_version_": 1667138129181540352,
-    "timestamp": "2020-05-19T16:46:55.704Z"
+    "_version_": 1684902909947412480,
+    "timestamp": "2020-12-01T18:50:30.860Z"
 }

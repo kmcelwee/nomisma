@@ -106,9 +106,12 @@
         "Malloy p. 200 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1112 to 1119"
+    ],
     "hashed_id_s": [
         "34c8b098dde85451"
     ],
-    "_version_": 1674169072558800896,
-    "timestamp": "2020-08-05T07:20:45.821Z"
+    "_version_": 1684903230959517696,
+    "timestamp": "2020-12-01T18:55:37.002Z"
 }

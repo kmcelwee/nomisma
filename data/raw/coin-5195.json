@@ -35,8 +35,11 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5195\",\"call_number_browse\":\"Coin 5195\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2882"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Cassius Longinus"
@@ -76,14 +79,15 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head r., sceptre behind; border of dots"
-    ],
     "issue_obverse_attributes_s": [
-        "sceptre, behind head"
+        "sceptre, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Eagler"
+        "Eagle"
+    ],
+    "issue_reverse_symbol_s": [
+        "lituus on l.; jug on r."
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -92,13 +96,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Eagle r. on thunderbolt; to l., lituus; to r., jug; legend below; border of dots"
+        "on thunderbolt"
     ],
     "issue_reverse_legend_s": [
-        "Q CASSIVS"
+        "Q\u00b7CASSIVS"
     ],
     "issue_reverse_attributes_s": [
-        "thunderbolt, eagle stands on thunderbolt"
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  428/3",
@@ -106,9 +110,12 @@
         "Sear  391"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "6b53179779079ef7"
     ],
-    "_version_": 1667138245894340608,
-    "timestamp": "2020-05-19T16:48:47.011Z"
+    "_version_": 1684903468410601472,
+    "timestamp": "2020-12-01T18:59:23.451Z"
 }

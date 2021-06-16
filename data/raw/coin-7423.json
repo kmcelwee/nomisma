@@ -35,8 +35,11 @@
         "7.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7423\",\"call_number_browse\":\"Coin 7423\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "580: 2000-11-17 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": -232,
     "pub_date_end_sort": -228,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "4646"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +94,12 @@
         "Hims  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-232 to -228"
+    ],
     "hashed_id_s": [
         "de3dd415bbaf332e"
     ],
-    "_version_": 1667138123361943552,
-    "timestamp": "2020-05-19T16:46:50.152Z"
+    "_version_": 1684902967833001984,
+    "timestamp": "2020-12-01T18:51:26.062Z"
 }

@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/24/1937"
@@ -50,6 +50,12 @@
         "3.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2278\",\"call_number_browse\":\"Coin 2278\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -296,
     "pub_date_end_sort": -295,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1466"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -115,9 +118,16 @@
         "ESM  16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Athena",
+        "Animal, elephant"
+    ],
+    "issue_date_s": [
+        "-296 to -295"
+    ],
     "hashed_id_s": [
         "f912457a7a0f34eb"
     ],
-    "_version_": 1669833041515642880,
-    "timestamp": "2020-06-18T10:41:24.384Z"
+    "_version_": 1684903316174143488,
+    "timestamp": "2020-12-01T18:56:58.267Z"
 }

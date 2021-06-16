@@ -35,6 +35,12 @@
         "14.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1014\",\"call_number_browse\":\"Coin 1014\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "108: 1992-01-01 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 49,
     "pub_date_end_sort": 50,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "465"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +107,15 @@
         "RPC.1  4674"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "49 to 50"
+    ],
     "hashed_id_s": [
         "27af7904a25f3dc0"
     ],
-    "_version_": 1667138455743758336,
-    "timestamp": "2020-05-19T16:52:07.138Z"
+    "_version_": 1684903291748614144,
+    "timestamp": "2020-12-01T18:56:34.973Z"
 }

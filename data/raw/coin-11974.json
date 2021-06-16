@@ -35,8 +35,11 @@
         "24.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11974\",\"call_number_browse\":\"Coin 11974\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 118,
     "pub_date_end_sort": 118,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "8027"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "RIC 2 408 547"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "118 to 118"
+    ],
     "hashed_id_s": [
         "b1faacf9db3feeba"
     ],
-    "_version_": 1667138299567800320,
-    "timestamp": "2020-05-19T16:49:38.197Z"
+    "_version_": 1684903149952827392,
+    "timestamp": "2020-12-01T18:54:19.746Z"
 }

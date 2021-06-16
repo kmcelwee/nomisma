@@ -38,8 +38,11 @@
         "7.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5471\",\"call_number_browse\":\"Coin 5471\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; 1/1964; #146 in Dec. 1963 Monete e Medaglie, lire 30,000"
     ],
     "pub_date_start_sort": -425,
     "pub_date_end_sort": -415,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3079"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Vlasto, Taras  50 a."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-425 to -415"
+    ],
     "hashed_id_s": [
         "fd3e855a4af004e1"
     ],
-    "_version_": 1667138387604144128,
-    "timestamp": "2020-05-19T16:51:02.155Z"
+    "_version_": 1684903562385031168,
+    "timestamp": "2020-12-01T19:00:53.071Z"
 }

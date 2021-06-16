@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5933"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -77,9 +74,12 @@
         "within dotted circle: \u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647. Marginal legend Qur\u02be\u0101n 9,33 var: (\u2026) d\u012bn al-\u1e25aqq (\u2026)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "815 to 915"
+    ],
     "hashed_id_s": [
         "ee1a72bbb046b5ed"
     ],
-    "_version_": 1667145297877270528,
-    "timestamp": "2020-05-19T18:40:52.303Z"
+    "_version_": 1684903361999011840,
+    "timestamp": "2020-12-01T18:57:41.969Z"
 }

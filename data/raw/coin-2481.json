@@ -38,8 +38,11 @@
         "3.379"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2481\",\"call_number_browse\":\"Coin 2481\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 1414,
     "pub_date_end_sort": 1423,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "1635"
     ],
     "issue_metal_s": [
         "Gold"
@@ -102,13 +102,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 251, 1",
-        "CNI, 7  IV.23.20",
+        "CNI, 7  121, 20",
         "MEC 12 647-648"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1414 to 1423"
+    ],
     "hashed_id_s": [
         "acaf9cc1f34ab9a7"
     ],
-    "_version_": 1667138221650214912,
-    "timestamp": "2020-05-19T16:48:23.889Z"
+    "_version_": 1684903102712381440,
+    "timestamp": "2020-12-01T18:53:34.694Z"
 }

@@ -38,8 +38,14 @@
         "4.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10646\",\"call_number_browse\":\"Coin 10646\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 05/22/2002; 60 (1046)"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6808"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,9 +77,12 @@
         "barbarized"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "101694bb0c20e0b1"
     ],
-    "_version_": 1667138178885091328,
-    "timestamp": "2020-05-19T16:47:43.104Z"
+    "_version_": 1684902956458049536,
+    "timestamp": "2020-12-01T18:51:15.215Z"
 }

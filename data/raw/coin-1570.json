@@ -35,6 +35,9 @@
         "19.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1570\",\"call_number_browse\":\"Coin 1570\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -274,
     "pub_date_end_sort": -216,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "4 litrae"
-    ],
-    "issue_number_s": [
-        "1050"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "ANS Part V, Sicily III 914v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-274 to -216"
+    ],
     "hashed_id_s": [
         "06237cd7ed8b30ab"
     ],
-    "_version_": 1667138212974297088,
-    "timestamp": "2020-05-19T16:48:15.616Z"
+    "_version_": 1684903098484523008,
+    "timestamp": "2020-12-01T18:53:30.661Z"
 }

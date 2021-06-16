@@ -35,6 +35,15 @@
         "1.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4489\",\"call_number_browse\":\"Coin 4489\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "C. Platt; 1926; 90\u00a2"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -43,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2504"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +112,12 @@
         "Sear  1519"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -43"
+    ],
     "hashed_id_s": [
         "cb67dd2b31789431"
     ],
-    "_version_": 1667138238084546560,
-    "timestamp": "2020-05-19T16:48:39.562Z"
+    "_version_": 1684903001285722112,
+    "timestamp": "2020-12-01T18:51:57.966Z"
 }

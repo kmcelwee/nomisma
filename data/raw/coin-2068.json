@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "10-20-1934"
-    ],
-    "find_feature_s": [
-        "Dump"
+        "10/20/1934"
     ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3835"
+    ],
+    "find_description_s": [
+        "Main Street Dig 3, dump"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "7.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2068\",\"call_number_browse\":\"Coin 2068\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -58,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1361"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -89,7 +95,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, field in front obliterated"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -98,15 +104,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
-        "RPC.1 pp.628-629, SC series (uncertain) "
+        "RPC.1  4310v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "a5f1b90274d853d8"
     ],
-    "_version_": 1667138217703374848,
-    "timestamp": "2020-05-19T16:48:20.124Z"
+    "_version_": 1684903686420037632,
+    "timestamp": "2020-12-01T19:02:51.362Z"
 }

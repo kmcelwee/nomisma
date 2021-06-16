@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "8647"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -62,6 +59,6 @@
     "hashed_id_s": [
         "3d5c24ecd6277347"
     ],
-    "_version_": 1667145481198764032,
-    "timestamp": "2020-05-19T18:51:23.371Z"
+    "_version_": 1684903058182504448,
+    "timestamp": "2020-12-01T18:52:52.226Z"
 }

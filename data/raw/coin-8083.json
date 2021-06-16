@@ -50,6 +50,12 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8083\",\"call_number_browse\":\"Coin 8083\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -105,9 +111,12 @@
         "NC XIX p. 87 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "12818443b95a6ea3"
     ],
-    "_version_": 1674800203526307840,
-    "timestamp": "2020-08-12T06:32:19.228Z"
+    "_version_": 1684903665685495808,
+    "timestamp": "2020-12-01T19:02:31.587Z"
 }

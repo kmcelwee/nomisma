@@ -38,6 +38,9 @@
         "4.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8725\",\"call_number_browse\":\"Coin 8725\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1055,
     "pub_date_end_sort": 1056,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5559"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BL Theodora 48/Cp/AU/01-02v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1055 to 1056"
+    ],
     "hashed_id_s": [
         "8d7fb3c1506ab482"
     ],
-    "_version_": 1667138157178519552,
-    "timestamp": "2020-05-19T16:47:22.402Z"
+    "_version_": 1684902920531738624,
+    "timestamp": "2020-12-01T18:50:40.954Z"
 }

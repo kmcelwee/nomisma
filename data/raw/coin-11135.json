@@ -35,8 +35,14 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11135\",\"call_number_browse\":\"Coin 11135\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 07/05/2012"
     ],
     "pub_date_start_sort": 531,
     "pub_date_end_sort": 578,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7296"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SN  SK Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "556e3cc03b9e3a28"
     ],
-    "_version_": 1667138170923253760,
-    "timestamp": "2020-05-19T16:47:35.511Z"
+    "_version_": 1684902947078537216,
+    "timestamp": "2020-12-01T18:51:06.294Z"
 }

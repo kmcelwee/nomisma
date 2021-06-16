@@ -29,8 +29,11 @@
         "48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15251\",\"call_number_browse\":\"Coin 15251\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1930,
     "pub_date_end_sort": 0,
@@ -61,9 +64,12 @@
         "Thankful Nation Do9 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1930 to "
+    ],
     "hashed_id_s": [
         "40aaf0a6c6aec032"
     ],
-    "_version_": 1671710768870981632,
-    "timestamp": "2020-07-09T04:07:04.731Z"
+    "_version_": 1684902915006791680,
+    "timestamp": "2020-12-01T18:50:35.685Z"
 }

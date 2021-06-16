@@ -35,8 +35,11 @@
         "2.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2497\",\"call_number_browse\":\"Coin 2497\"}}",
-    "donor_s": [
-        "S H Weber"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "296:  S H Weber"
     ],
     "pub_date_start_sort": 1630,
     "pub_date_end_sort": 1631,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1576"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Pap. Nicolo Contarini 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1630 to 1631"
+    ],
     "hashed_id_s": [
         "0bd5188ccf77f1f0"
     ],
-    "_version_": 1667138427456323584,
-    "timestamp": "2020-05-19T16:51:40.161Z"
+    "_version_": 1684903187729874944,
+    "timestamp": "2020-12-01T18:54:55.772Z"
 }

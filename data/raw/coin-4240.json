@@ -35,6 +35,15 @@
         "0.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4240\",\"call_number_browse\":\"Coin 4240\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Adolph E Cahn; Ernst Justus Haeberlin; 1933; $8.00"
+    ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "2394"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +109,12 @@
         "Sear  452"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "fd50108d1c1fce85"
     ],
-    "_version_": 1667138234355810304,
-    "timestamp": "2020-05-19T16:48:36.004Z"
+    "_version_": 1684903460238000128,
+    "timestamp": "2020-12-01T18:59:15.656Z"
 }

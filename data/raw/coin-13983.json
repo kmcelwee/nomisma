@@ -35,8 +35,8 @@
         "8.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13983\",\"call_number_browse\":\"Coin 13983\"}}",
-    "donor_s": [
-        "Rodman Wanamaker"
+    "numismatic_accession_s": [
+        "309: 1923-07-31 Rodman Wanamaker"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "9011"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "ca0a06d1df319a7f"
     ],
-    "_version_": 1667138328614404096,
-    "timestamp": "2020-05-19T16:50:05.896Z"
+    "_version_": 1684903068528803840,
+    "timestamp": "2020-12-01T18:53:02.093Z"
 }

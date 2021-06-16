@@ -98,9 +98,12 @@
         "P.d'A. II XCVIII9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1314 to 1340"
+    ],
     "hashed_id_s": [
         "745f97ea249ce62e"
     ],
-    "_version_": 1674168202242818048,
-    "timestamp": "2020-08-05T07:06:55.822Z"
+    "_version_": 1684903230096539648,
+    "timestamp": "2020-12-01T18:55:36.176Z"
 }

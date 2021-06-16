@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "8230"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,6 +101,6 @@
     "hashed_id_s": [
         "6d10cb45a0548cdc"
     ],
-    "_version_": 1667138329952387072,
-    "timestamp": "2020-05-19T16:50:07.173Z"
+    "_version_": 1683105442850406400,
+    "timestamp": "2020-11-11T22:40:32.654Z"
 }

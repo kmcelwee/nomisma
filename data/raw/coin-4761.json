@@ -38,8 +38,11 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4761\",\"call_number_browse\":\"Coin 4761\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "398: 1965-01-01 Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -37,
     "pub_date_end_sort": -37,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2591"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "RIC.1.  36"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-37 to -37"
+    ],
     "hashed_id_s": [
         "247e1dbbd58b035e"
     ],
-    "_version_": 1667138503108984832,
-    "timestamp": "2020-05-19T16:52:52.306Z"
+    "_version_": 1684903636323270656,
+    "timestamp": "2020-12-01T19:02:03.584Z"
 }

@@ -35,6 +35,9 @@
         "13.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1166\",\"call_number_browse\":\"Coin 1166\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1575,
     "pub_date_end_sort": 1586,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "franc"
-    ],
-    "issue_number_s": [
-        "615"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +91,12 @@
         "Robert  3612"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1575 to 1586"
+    ],
     "hashed_id_s": [
         "5a4a4a3713f30a02"
     ],
-    "_version_": 1667138459259633664,
-    "timestamp": "2020-05-19T16:52:10.491Z"
+    "_version_": 1684903293177823232,
+    "timestamp": "2020-12-01T18:56:36.335Z"
 }

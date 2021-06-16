@@ -35,7 +35,13 @@
         "17.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13786\",\"call_number_browse\":\"Coin 13786\"}}",
-    "donor_s": [
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
         "Robert Ross"
     ],
     "pub_date_start_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Grade IV, enlisted men"
-    ],
-    "issue_number_s": [
-        "8833"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -72,9 +75,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  328-29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "0b237ab74b073a1e"
     ],
-    "_version_": 1667145059007463424,
-    "timestamp": "2020-05-19T18:42:24.078Z"
+    "_version_": 1684903365533761536,
+    "timestamp": "2020-12-01T18:57:45.339Z"
 }

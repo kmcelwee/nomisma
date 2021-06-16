@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5952"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,9 +86,12 @@
         "SOLI INVICTO COMITI | R T"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "314 to 315"
+    ],
     "hashed_id_s": [
         "24589e753f7935ac"
     ],
-    "_version_": 1667138153978265600,
-    "timestamp": "2020-05-19T16:47:19.349Z"
+    "_version_": 1684903408995139584,
+    "timestamp": "2020-12-01T18:58:26.788Z"
 }

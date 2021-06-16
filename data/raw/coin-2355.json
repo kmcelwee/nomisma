@@ -35,8 +35,11 @@
         "2.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2355\",\"call_number_browse\":\"Coin 2355\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "51: 1930-01-01 Platt"
     ],
     "pub_date_start_sort": 1205,
     "pub_date_end_sort": 1229,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1515"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,7 +77,7 @@
         "facing"
     ],
     "issue_obverse_figure_description_s": [
-        "Saint Mark, bearded, holding gospel book, hands banner to Doge, holding cross; both richly garbed"
+        "Saint Mark hands banner to Doge"
     ],
     "issue_obverse_legend_s": [
         "P ZIANI DVX S M VENETI"
@@ -99,13 +99,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 93, 2",
-        "CNI, 7  II.1.2",
+        "CNI, 7  30, 2",
         "MEC 12 640-641"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1205 to 1229"
+    ],
     "hashed_id_s": [
         "1ec412b06d2ad50f"
     ],
-    "_version_": 1667138474673700864,
-    "timestamp": "2020-05-19T16:52:25.190Z"
+    "_version_": 1684903299666411520,
+    "timestamp": "2020-12-01T18:56:42.523Z"
 }

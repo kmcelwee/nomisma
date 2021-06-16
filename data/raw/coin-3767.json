@@ -35,22 +35,22 @@
         "3.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3767\",\"call_number_browse\":\"Coin 3767\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": -118,
     "pub_date_end_sort": -115,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "2187"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Jun Guo \u90e1\u56fd"
@@ -73,9 +73,12 @@
         "Jen 20 59"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-118 to -115"
+    ],
     "hashed_id_s": [
         "101fb8bc5fb4ad7a"
     ],
-    "_version_": 1667138483377930240,
-    "timestamp": "2020-05-19T16:52:33.490Z"
+    "_version_": 1684903227008483328,
+    "timestamp": "2020-12-01T18:55:33.232Z"
 }

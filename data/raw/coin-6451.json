@@ -35,13 +35,13 @@
         "33.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6451\",\"call_number_browse\":\"Coin 6451\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3876"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -88,9 +88,12 @@
         "Jean Mauger, I.MAVGER.F."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Revocation of the Edict of Nantes    "
+    ],
     "hashed_id_s": [
         "354ce18127a86b65"
     ],
-    "_version_": 1667138371788472320,
-    "timestamp": "2020-05-19T16:50:47.072Z"
+    "_version_": 1684903109729452032,
+    "timestamp": "2020-12-01T18:53:41.386Z"
 }

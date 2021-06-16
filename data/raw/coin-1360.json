@@ -35,6 +35,12 @@
         "3.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1360\",\"call_number_browse\":\"Coin 1360\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1365,
     "pub_date_end_sort": 1374,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "gigliato"
-    ],
-    "issue_number_s": [
-        "771"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "Ox.  1208"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1365 to 1374"
+    ],
     "hashed_id_s": [
         "fb5ebdcf1a0623d9"
     ],
-    "_version_": 1667138410356146176,
-    "timestamp": "2020-05-19T16:51:23.851Z"
+    "_version_": 1684903276822134784,
+    "timestamp": "2020-12-01T18:56:20.738Z"
 }

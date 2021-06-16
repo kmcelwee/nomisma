@@ -35,6 +35,15 @@
         "1.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1612\",\"call_number_browse\":\"Coin 1612\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "209: 2006-10-26 Leu Numismatik"
+    ],
+    "numismatic_provenance_s": [
+        "John Slocum"
+    ],
     "pub_date_start_sort": 1377,
     "pub_date_end_sort": 1396,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "third-gigliato"
-    ],
-    "issue_number_s": [
-        "1002"
     ],
     "issue_metal_s": [
         "Silver"
@@ -84,9 +90,12 @@
         "Schl.  X, 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1377 to 1396"
+    ],
     "hashed_id_s": [
         "6925ec52c37b79cd"
     ],
-    "_version_": 1667145328098279424,
-    "timestamp": "2020-05-19T18:41:21.124Z"
+    "_version_": 1684903447096197120,
+    "timestamp": "2020-12-01T18:59:03.123Z"
 }

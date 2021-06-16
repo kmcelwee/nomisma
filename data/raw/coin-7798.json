@@ -35,8 +35,11 @@
         "3.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7798\",\"call_number_browse\":\"Coin 7798\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -197,
     "pub_date_end_sort": -187,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "4861"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +107,12 @@
         "WSM  851"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-197 to -187"
+    ],
     "hashed_id_s": [
         "01bf1e24e4ed8789"
     ],
-    "_version_": 1667138123783471104,
-    "timestamp": "2020-05-19T16:46:50.555Z"
+    "_version_": 1684902969433128960,
+    "timestamp": "2020-12-01T18:51:27.589Z"
 }

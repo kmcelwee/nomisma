@@ -41,13 +41,16 @@
         "0.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12912\",\"call_number_browse\":\"Coin 12912\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 100,
     "pub_date_end_sort": 260,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "8458"
     ],
     "issue_place_s": [
         "Palmyra, Syria, Roman Empire"
@@ -71,9 +74,12 @@
         "Palm branch"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "100 to 260"
+    ],
     "hashed_id_s": [
         "63c9e91048914797"
     ],
-    "_version_": 1667138341102944256,
-    "timestamp": "2020-05-19T16:50:17.808Z"
+    "_version_": 1684903529705111552,
+    "timestamp": "2020-12-01T19:00:21.905Z"
 }

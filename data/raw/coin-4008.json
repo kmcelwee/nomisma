@@ -38,8 +38,8 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4008\",\"call_number_browse\":\"Coin 4008\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 522,
     "pub_date_end_sort": 527,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "2296"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +96,12 @@
         "Sear  70"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "522 to 527"
+    ],
     "hashed_id_s": [
         "8e6097e95ed92ab2"
     ],
-    "_version_": 1667138230719348736,
-    "timestamp": "2020-05-19T16:48:32.536Z"
+    "_version_": 1684903109066752000,
+    "timestamp": "2020-12-01T18:53:40.754Z"
 }

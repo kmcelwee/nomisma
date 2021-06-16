@@ -35,8 +35,11 @@
         "1.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13516\",\"call_number_browse\":\"Coin 13516\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -173,
     "pub_date_end_sort": -164,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "8703"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,15 +92,21 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "filleted wreath, in l. hand"
+        "filleted wreath, in l. hand",
+        "monogram, in r. field",
+        "monogram , in inner r. field",
+        "\u03a0\u0391, in exergue"
     ],
     "issue_references_s": [
         "H & L II, 121 1555"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-173 to -164"
+    ],
     "hashed_id_s": [
         "1dae20d3e5bf5a6d"
     ],
-    "_version_": 1667138514200821760,
-    "timestamp": "2020-05-19T16:53:02.886Z"
+    "_version_": 1684903324444262400,
+    "timestamp": "2020-12-01T18:57:06.154Z"
 }

@@ -38,8 +38,14 @@
         "3.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10896\",\"call_number_browse\":\"Coin 10896\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "ECIN Associates; 04/05/2006"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7057"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +92,12 @@
         "SNS 3 Contemporary forgery, cf. Mint VI (AW), hybrid: OBv. Type Ib1/Rev. type 1? Of Shapur II"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "368e72c228ed4c56"
     ],
-    "_version_": 1667138344203583488,
-    "timestamp": "2020-05-19T16:50:20.763Z"
+    "_version_": 1684903248305061888,
+    "timestamp": "2020-12-01T18:55:53.541Z"
 }

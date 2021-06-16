@@ -32,6 +32,12 @@
         "75x58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3830\",\"call_number_browse\":\"Coin 3830\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "3 Pence"
-    ],
-    "issue_number_s": [
-        "2224"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +81,12 @@
         "Shafer & Cuhaj p. 1149 S2561"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "b70bd612465cbe06"
     ],
-    "_version_": 1667138442828447744,
-    "timestamp": "2020-05-19T16:51:54.821Z"
+    "_version_": 1684903216617095168,
+    "timestamp": "2020-12-01T18:55:23.323Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-9389",
     "title_display": "Coin: 9389",
     "pub_created_display": [
-        "Tiberius, semis, Calagurris"
+        "Tiberius   (14 to 37), semis, Calagurris"
     ],
     "call_number_display": [
         "Coin 9389"
@@ -35,7 +35,10 @@
         "6.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9389\",\"call_number_browse\":\"Coin 9389\"}}",
-    "donor_s": [
+    "numismatic_accession_s": [
+        "325:  unknown"
+    ],
+    "numismatic_provenance_s": [
         "unknown"
     ],
     "pub_date_start_sort": 14,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "semis"
     ],
-    "issue_number_s": [
-        "6008"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Calagurris, Spain, Roman Empire"
@@ -102,9 +102,12 @@
         "PUL  811"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "b3f670bf4da99d66"
     ],
-    "_version_": 1667138149632966656,
-    "timestamp": "2020-05-19T16:47:15.206Z"
+    "_version_": 1684903403863408640,
+    "timestamp": "2020-12-01T18:58:21.894Z"
 }

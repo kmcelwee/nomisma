@@ -35,8 +35,14 @@
         "4.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11234\",\"call_number_browse\":\"Coin 11234\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 24/01/2000"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-new"
-    ],
-    "issue_number_s": [
-        "7400"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "SN  Uncertain Mint, Type VI/7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "b5f016852516ae4c"
     ],
-    "_version_": 1667138161515429888,
-    "timestamp": "2020-05-19T16:47:26.538Z"
+    "_version_": 1684902934187343872,
+    "timestamp": "2020-12-01T18:50:53.977Z"
 }

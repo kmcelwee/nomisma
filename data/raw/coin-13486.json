@@ -35,8 +35,11 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13486\",\"call_number_browse\":\"Coin 13486\"}}",
-    "donor_s": [
-        "B. Kazandjian"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "820: 2000-10-09 B. Kazandjian"
     ],
     "pub_date_start_sort": -169,
     "pub_date_end_sort": -168,
@@ -46,14 +49,14 @@
     "issue_denomination_s": [
         "unit"
     ],
-    "issue_number_s": [
-        "8696"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
         "Round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Antiochus IV Epiphanes (-175 to -164)"
@@ -98,17 +101,20 @@
         "head left"
     ],
     "issue_reverse_attributes_s": [
-        "m8689, outer right",
-        "m8325.jpg, outer left, above",
+        "\u0410B, on outer right",
+        "monogram, on outer left, above",
         "wreath, in l. hand"
     ],
     "issue_references_s": [
         "H & L II, 70 1417.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-169 to -168"
+    ],
     "hashed_id_s": [
         "52889c6439b3acc9"
     ],
-    "_version_": 1667138514700992512,
-    "timestamp": "2020-05-19T16:53:03.363Z"
+    "_version_": 1684903328666877952,
+    "timestamp": "2020-12-01T18:57:10.181Z"
 }

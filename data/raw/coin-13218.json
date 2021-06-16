@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "9/17/1934"
+        "09/17/1934"
     ],
-    "find_feature_s": [
-        "Over mosaic field (Hamadan Sammeq) N. W. Daphne Hotel"
+    "find_locus_s": [
+        "DH"
     ],
     "find_number_s": [
         "C3571"
+    ],
+    "find_description_s": [
+        "Hamden Damany, over mosaic field, NW. Daphne hotel"
     ],
     "die_axis_s": [
         "10"
@@ -47,22 +50,31 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13218\",\"call_number_browse\":\"Coin 13218\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8538"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "\u0394"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -77,7 +89,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -86,10 +101,13 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Female figure"
+    ],
+    "issue_reverse_symbol_s": [
+        "\u0394"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -98,18 +116,24 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "presenting wreath to emperor standing l., holding scepter"
+        "draped, presenting wreath to emperor, standing l., extending r. hand"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Aurelian"
     ],
     "issue_reverse_legend_s": [
-        "RESTITVOR BIS | S"
+        "RESTITVT ORBIS / XXI"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 386"
+        "RIC V  Aurelian 386"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "50cc61399614c549"
     ],
-    "_version_": 1667138337882767360,
-    "timestamp": "2020-05-19T16:50:14.736Z"
+    "_version_": 1684903676801449984,
+    "timestamp": "2020-12-01T19:02:42.187Z"
 }

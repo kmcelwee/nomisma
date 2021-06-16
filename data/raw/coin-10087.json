@@ -52,11 +52,11 @@
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10087\",\"call_number_browse\":\"Coin 10087\"}}",
     "pub_date_start_sort": 733,
     "pub_date_end_sort": 743,
+    "issue_object_type_s": [
+        "coin"
+    ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "6367"
     ],
     "issue_metal_s": [
         "Copper"
@@ -90,9 +90,12 @@
         "BMC  838"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "733 to 743"
+    ],
     "hashed_id_s": [
         "64d2c1f6f71c9b5b"
     ],
-    "_version_": 1667144698819510272,
-    "timestamp": "2020-05-19T18:31:20.997Z"
+    "_version_": 1684903347703775232,
+    "timestamp": "2020-12-01T18:57:28.336Z"
 }

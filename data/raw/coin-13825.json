@@ -35,6 +35,15 @@
         "16.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13825\",\"call_number_browse\":\"Coin 13825\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "118: 2000-12-14 Leu Numismatik"
+    ],
+    "numismatic_provenance_s": [
+        "Charles Wolfe; ; "
+    ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -122,
     "issue_object_type_s": [
@@ -95,15 +104,18 @@
         "star, in l.hand",
         "sceptre, in r.hand",
         "crescent, on top of figure",
-        "m13825, on outer left"
+        "wreath, on outer left"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.515 2236b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -122"
+    ],
     "hashed_id_s": [
         "09d4dce002d78051"
     ],
-    "_version_": 1673003024934502400,
-    "timestamp": "2020-07-23T10:26:56.149Z"
+    "_version_": 1684903667985022976,
+    "timestamp": "2020-12-01T19:02:33.782Z"
 }

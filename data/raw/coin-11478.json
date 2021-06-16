@@ -38,8 +38,11 @@
         "3.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11478\",\"call_number_browse\":\"Coin 11478\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -113,
     "pub_date_end_sort": -112,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7633"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "RRC  293-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-113 to -112"
+    ],
     "hashed_id_s": [
         "77d03f55141412a3"
     ],
-    "_version_": 1667138131796688896,
-    "timestamp": "2020-05-19T16:46:58.199Z"
+    "_version_": 1684903377592385536,
+    "timestamp": "2020-12-01T18:57:56.841Z"
 }

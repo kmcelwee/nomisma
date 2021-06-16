@@ -35,6 +35,16 @@
         "2.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7475\",\"call_number_browse\":\"Coin 7475\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Hirsch, Munich; Majer; April, 1914; Sale XIII 624, #269",
+        "Bourgey, Paris; 1927; $1.00"
+    ],
     "pub_date_start_sort": -480,
     "pub_date_end_sort": -350,
     "issue_object_type_s": [
@@ -42,9 +52,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "4681"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +88,12 @@
         "Sear  1349"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-480 to -350"
+    ],
     "hashed_id_s": [
         "5f2b36645de2c7dd"
     ],
-    "_version_": 1667138258855788544,
-    "timestamp": "2020-05-19T16:48:59.371Z"
+    "_version_": 1684903480515362816,
+    "timestamp": "2020-12-01T18:59:34.996Z"
 }

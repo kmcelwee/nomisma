@@ -53,6 +53,9 @@
         "6.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8171\",\"call_number_browse\":\"Coin 8171\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 613,
     "pub_date_end_sort": 615,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5183"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,9 +103,12 @@
         "BMC vol. 1, p. 202 144"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "613 to 615"
+    ],
     "hashed_id_s": [
         "2a6af81a19a1c82a"
     ],
-    "_version_": 1667138267044118528,
-    "timestamp": "2020-05-19T16:49:07.179Z"
+    "_version_": 1684903132792881152,
+    "timestamp": "2020-12-01T18:54:03.381Z"
 }

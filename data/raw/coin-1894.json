@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "1/20/1934"
-    ],
-    "find_feature_s": [
-        "145D3 19M Street Lower level"
+        "01/20/1934"
     ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3599"
+    ],
+    "find_description_s": [
+        "Main Street Dig 3, street lower level"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "6.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1894\",\"call_number_browse\":\"Coin 1894\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -60,6 +66,9 @@
     ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -79,6 +88,9 @@
     "issue_obverse_figure_s": [
         "Nero"
     ],
+    "issue_obverse_symbol_s": [
+        "serpent"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -86,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; in front, serpent"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -95,15 +107,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4310"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "e6f4dd931698aa6d"
     ],
-    "_version_": 1674173039157182464,
-    "timestamp": "2020-08-05T08:23:48.663Z"
+    "_version_": 1684903609419956224,
+    "timestamp": "2020-12-01T19:01:37.927Z"
 }

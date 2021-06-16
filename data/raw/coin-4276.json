@@ -38,8 +38,14 @@
         "3.532"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4276\",\"call_number_browse\":\"Coin 4276\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "D. Loulakakis; 1993; No. 1"
     ],
     "pub_date_start_sort": 1343,
     "pub_date_end_sort": 1400,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2425"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "Schl. PL. XII 34v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1343 to 1400"
+    ],
     "hashed_id_s": [
         "e147e3604f133f24"
     ],
-    "_version_": 1667138494493884416,
-    "timestamp": "2020-05-19T16:52:44.093Z"
+    "_version_": 1684903236864049152,
+    "timestamp": "2020-12-01T18:55:42.631Z"
 }

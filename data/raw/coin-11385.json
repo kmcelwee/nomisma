@@ -41,6 +41,12 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11385\",\"call_number_browse\":\"Coin 11385\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7551"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +93,12 @@
         "MK  1327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "3254017219b9fac1"
     ],
-    "_version_": 1667138162227412992,
-    "timestamp": "2020-05-19T16:47:27.219Z"
+    "_version_": 1684903420427763712,
+    "timestamp": "2020-12-01T18:58:37.691Z"
 }

@@ -35,13 +35,13 @@
         "34.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6217\",\"call_number_browse\":\"Coin 6217\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3663"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +87,12 @@
         "Edward Duffield"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Campaigns in Flanders    "
+    ],
     "hashed_id_s": [
         "1c33a0272bd9a75d"
     ],
-    "_version_": 1667138374341754880,
-    "timestamp": "2020-05-19T16:50:49.508Z"
+    "_version_": 1684903112682242048,
+    "timestamp": "2020-12-01T18:53:44.202Z"
 }

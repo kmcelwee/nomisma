@@ -38,8 +38,11 @@
         "13.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14862\",\"call_number_browse\":\"Coin 14862\"}}",
-    "donor_s": [
-        "Harry Gordon Pierce"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "632: 1929-05-01 Harry Gordon Pierce"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dollar"
-    ],
-    "issue_number_s": [
-        "9124"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "Robert Scot, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "1d9907142b785e87"
     ],
-    "_version_": 1667305568285491200,
-    "timestamp": "2020-05-21T13:08:18.104Z"
+    "_version_": 1684903235815473152,
+    "timestamp": "2020-12-01T18:55:41.631Z"
 }

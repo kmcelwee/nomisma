@@ -38,6 +38,12 @@
         "3.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12531\",\"call_number_browse\":\"Coin 12531\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
     "issue_object_type_s": [
@@ -98,9 +104,12 @@
         "Sellwood  47.19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "cb695712557c8c42"
     ],
-    "_version_": 1673001971311706112,
-    "timestamp": "2020-07-23T10:10:11.339Z"
+    "_version_": 1684903667911622656,
+    "timestamp": "2020-12-01T19:02:33.710Z"
 }

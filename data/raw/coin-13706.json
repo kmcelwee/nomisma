@@ -38,8 +38,11 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13706\",\"call_number_browse\":\"Coin 13706\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -151,
     "pub_date_end_sort": -146,
@@ -95,12 +98,15 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 in two rows, \u03a3\u0399\u0394\u03a9\u039d\u0399\u03a9\u039d in exergue"
     ],
     "issue_references_s": [
-        "H & L II,vol.I,p.239 1833"
+        "H & L II,vol.I,p.239 1833a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-151 to -146"
+    ],
     "hashed_id_s": [
         "48479db449b638b2"
     ],
-    "_version_": 1673362079157846016,
-    "timestamp": "2020-07-27T09:33:56.944Z"
+    "_version_": 1684902896981770240,
+    "timestamp": "2020-12-01T18:50:18.494Z"
 }

@@ -38,13 +38,13 @@
         "53.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5166\",\"call_number_browse\":\"Coin 5166\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
     "pub_date_start_sort": 1694,
     "pub_date_end_sort": 1695,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2864"
     ],
     "issue_metal_s": [
         "Copper"
@@ -97,9 +97,16 @@
         "Norbert Roettiers"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Mary II",
+        "Event, Death of Mary II    "
+    ],
+    "issue_date_s": [
+        "1694 to 1695"
+    ],
     "hashed_id_s": [
         "d3578a280ff7dba1"
     ],
-    "_version_": 1667138245396267008,
-    "timestamp": "2020-05-19T16:48:46.535Z"
+    "_version_": 1684903006986829824,
+    "timestamp": "2020-12-01T18:52:03.404Z"
 }

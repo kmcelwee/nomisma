@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "1966"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -71,6 +68,6 @@
     "hashed_id_s": [
         "833a78ebcb8baa34"
     ],
-    "_version_": 1667138437447155712,
-    "timestamp": "2020-05-19T16:51:49.687Z"
+    "_version_": 1683105220008083456,
+    "timestamp": "2020-11-11T22:37:00.134Z"
 }

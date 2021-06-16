@@ -50,6 +50,12 @@
         "4.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8492\",\"call_number_browse\":\"Coin 8492\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -23,
     "pub_date_end_sort": -22,
     "issue_object_type_s": [
@@ -93,9 +99,12 @@
         "RPC.1  4240"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-23 to -22"
+    ],
     "hashed_id_s": [
         "d4a07fc13a4be3b0"
     ],
-    "_version_": 1671476445501718528,
-    "timestamp": "2020-07-06T14:02:36.551Z"
+    "_version_": 1684902896104112128,
+    "timestamp": "2020-12-01T18:50:17.656Z"
 }

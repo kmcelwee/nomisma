@@ -35,16 +35,16 @@
         "63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3626\",\"call_number_browse\":\"Coin 3626\"}}",
-    "donor_s": [
-        "Mrs. Henry L. O' Gorman"
+    "numismatic_collection_s": [
+        "Savage"
+    ],
+    "numismatic_accession_s": [
+        "373: 1979-01-01 Mrs. Henry L. O' Gorman"
     ],
     "pub_date_start_sort": 1919,
     "pub_date_end_sort": 1919,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2130"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,16 @@
         "Chester Beach"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Peace of Versailles    "
+    ],
+    "issue_date_s": [
+        "1919 to 1919"
+    ],
     "hashed_id_s": [
         "930ffaafd65d6d2c"
     ],
-    "_version_": 1667138227993051136,
-    "timestamp": "2020-05-19T16:48:29.936Z"
+    "_version_": 1684903107404759040,
+    "timestamp": "2020-12-01T18:53:39.169Z"
 }

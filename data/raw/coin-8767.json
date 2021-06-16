@@ -38,8 +38,8 @@
         "2.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8767\",\"call_number_browse\":\"Coin 8767\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 1068,
     "pub_date_end_sort": 1071,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5569"
     ],
     "issue_metal_s": [
         "Gold"
@@ -115,9 +112,12 @@
         "BL Romanus IV 53/Cp/AU/01-03v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1068 to 1071"
+    ],
     "hashed_id_s": [
         "274fd577d96b6067"
     ],
-    "_version_": 1667138157141819392,
-    "timestamp": "2020-05-19T16:47:22.369Z"
+    "_version_": 1684902920470921216,
+    "timestamp": "2020-12-01T18:50:40.903Z"
 }

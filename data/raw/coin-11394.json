@@ -35,8 +35,8 @@
         "1.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11394\",\"call_number_browse\":\"Coin 11394\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 769,
     "pub_date_end_sort": 775,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "half follis"
-    ],
-    "issue_number_s": [
-        "7559"
     ],
     "issue_metal_s": [
         "Copper"
@@ -98,9 +95,12 @@
         "DOC 308 14.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "769 to 775"
+    ],
     "hashed_id_s": [
         "df2c57b324bcb9d5"
     ],
-    "_version_": 1667138162131992576,
-    "timestamp": "2020-05-19T16:47:27.127Z"
+    "_version_": 1684903416468340736,
+    "timestamp": "2020-12-01T18:58:33.916Z"
 }

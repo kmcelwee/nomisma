@@ -35,8 +35,11 @@
         "4.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 969\",\"call_number_browse\":\"Coin 969\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -310,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "440"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Price  413"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -310"
+    ],
     "hashed_id_s": [
         "0121dd8c7426dada"
     ],
-    "_version_": 1667138407615168512,
-    "timestamp": "2020-05-19T16:51:21.237Z"
+    "_version_": 1684903180960268288,
+    "timestamp": "2020-12-01T18:54:49.317Z"
 }

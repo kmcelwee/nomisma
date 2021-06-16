@@ -38,6 +38,9 @@
         "6.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1036\",\"call_number_browse\":\"Coin 1036\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "473"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "c1ab54b2b78592a2"
     ],
-    "_version_": 1667138457644826624,
-    "timestamp": "2020-05-19T16:52:08.951Z"
+    "_version_": 1684903292664020992,
+    "timestamp": "2020-12-01T18:56:35.848Z"
 }

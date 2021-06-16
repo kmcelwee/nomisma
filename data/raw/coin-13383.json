@@ -35,8 +35,11 @@
         "1.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13383\",\"call_number_browse\":\"Coin 13383\"}}",
-    "donor_s": [
-        "Waddell"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "808:  Waddell"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8663"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,6 +105,6 @@
     "hashed_id_s": [
         "5913ac11efa47098"
     ],
-    "_version_": 1667138519721574400,
-    "timestamp": "2020-05-19T16:53:08.150Z"
+    "_version_": 1684903335462699008,
+    "timestamp": "2020-12-01T18:57:16.662Z"
 }

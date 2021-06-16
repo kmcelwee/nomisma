@@ -35,6 +35,12 @@
         "13.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1031\",\"call_number_browse\":\"Coin 1031\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "110: 1993-01-01 Amphora Coins"
+    ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 65,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "480"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,9 +111,15 @@
         "Phoenician Letter"
     ],
     "issue_monogram_1display": "[{\"title\":\"Archaic Monogram\",\"document_id\":\"5ab854f9-6fba-417d-8058-f3e903792551\"},{\"title\":\"Phoenician Letter\",\"document_id\":\"8e2c0433-e9d0-4138-b32e-0a4ab1799905\"}]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "64 to 65"
+    ],
     "hashed_id_s": [
         "c7f713c93d824e47"
     ],
-    "_version_": 1667138456615124992,
-    "timestamp": "2020-05-19T16:52:07.967Z"
+    "_version_": 1684903292284436480,
+    "timestamp": "2020-12-01T18:56:35.484Z"
 }

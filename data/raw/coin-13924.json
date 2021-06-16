@@ -2,7 +2,7 @@
     "id": "coin-13924",
     "title_display": "Coin: 13924",
     "pub_created_display": [
-        "Diocletian, aureus, Rome"
+        "Maximianus Herculius (285 to 310), aureus, Rome"
     ],
     "call_number_display": [
         "Coin 13924"
@@ -25,9 +25,6 @@
     "advanced_location_s": [
         "num"
     ],
-    "notes_display": [
-        "Variant;"
-    ],
     "die_axis_s": [
         "6"
     ],
@@ -38,25 +35,28 @@
         "5.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13924\",\"call_number_browse\":\"Coin 13924\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 284,
+    "pub_date_end_sort": 294,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "aureus"
     ],
-    "issue_number_s": [
-        "8956"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Diocletian"
+        "Maximianus Herculius (285 to 310)"
     ],
     "issue_place_s": [
         "Rome, Italy, Roman Empire"
@@ -71,16 +71,19 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Diocletian"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "laureate, draped, cuirassed"
+    ],
     "issue_obverse_legend_s": [
-        "DIOCLETI ANVSPFAVG"
+        "IMP C C VAL DIOCLETIANVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -92,15 +95,22 @@
         "left"
     ],
     "issue_reverse_legend_s": [
-        "IOVICONSE R VATAVGG"
+        "IOVI CONSERVAT AVGG / PR"
+    ],
+    "issue_reverse_attributes_s": [
+        "thunderbolt, in r. hand",
+        "sceptre, in l. hand"
     ],
     "issue_references_s": [
-        "Probus to Amandus 233 134"
+        "RIC V  Diocletian 134"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "284 to 294"
+    ],
     "hashed_id_s": [
         "9cac53cd1e98f3f7"
     ],
-    "_version_": 1667144700435365888,
-    "timestamp": "2020-05-19T18:31:22.824Z"
+    "_version_": 1684903680404357120,
+    "timestamp": "2020-12-01T19:02:45.626Z"
 }

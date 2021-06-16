@@ -2,7 +2,7 @@
     "id": "coin-8240",
     "title_display": "Coin: 8240",
     "pub_created_display": [
-        "Tiberius II (578 to 582), 10 nummi, Antioch"
+        "Tiberius II   (574 to 582), 10 nummi, Antioch"
     ],
     "call_number_display": [
         "Coin 8240"
@@ -50,6 +50,12 @@
         "1.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8240\",\"call_number_browse\":\"Coin 8240\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 581,
     "pub_date_end_sort": 582,
     "issue_object_type_s": [
@@ -58,14 +64,11 @@
     "issue_denomination_s": [
         "10 nummi"
     ],
-    "issue_number_s": [
-        "5252"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius II (578 to 582)"
+        "Tiberius II   (574 to 582)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Byzantium"
@@ -106,9 +109,12 @@
         "BMC 121 129"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "581 to 582"
+    ],
     "hashed_id_s": [
         "edc47707bc97804c"
     ],
-    "_version_": 1667144891732328448,
-    "timestamp": "2020-05-19T18:36:33.317Z"
+    "_version_": 1684903369733308416,
+    "timestamp": "2020-12-01T18:57:49.346Z"
 }

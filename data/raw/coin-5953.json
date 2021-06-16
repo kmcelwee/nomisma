@@ -32,16 +32,16 @@
         "46.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5953\",\"call_number_browse\":\"Coin 5953\"}}",
-    "donor_s": [
-        "M. Goodridge"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "417: 2008-12-03 M. Goodridge"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3444"
     ],
     "issue_metal_s": [
         "White metal"
@@ -84,9 +84,12 @@
         "Phillip Heinrich M\u00fcller, P.H.M."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, chronogram"
+    ],
     "hashed_id_s": [
         "5a03f59eed1e6d52"
     ],
-    "_version_": 1667138387513966592,
-    "timestamp": "2020-05-19T16:51:02.069Z"
+    "_version_": 1684903264455229440,
+    "timestamp": "2020-12-01T18:56:08.944Z"
 }

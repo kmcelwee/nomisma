@@ -35,8 +35,11 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14878\",\"call_number_browse\":\"Coin 14878\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "686:  unknown"
     ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -79,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9138"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +107,12 @@
         "Syd.  624"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -79"
+    ],
     "hashed_id_s": [
         "23c00b5011dd3dff"
     ],
-    "_version_": 1667232604742483968,
-    "timestamp": "2020-05-20T17:48:34.640Z"
+    "_version_": 1684903340154028032,
+    "timestamp": "2020-12-01T18:57:21.135Z"
 }

@@ -32,16 +32,13 @@
         "2.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1125\",\"call_number_browse\":\"Coin 1125\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "572"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -79,9 +76,15 @@
         " 646 2264v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place,   Hebei  China"
+    ],
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "c8ebeaa17a9a1ed4"
     ],
-    "_version_": 1667138208257802240,
-    "timestamp": "2020-05-19T16:48:11.115Z"
+    "_version_": 1684902972865118208,
+    "timestamp": "2020-12-01T18:51:30.861Z"
 }

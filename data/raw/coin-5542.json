@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "2 and 2/3 dollars"
     ],
-    "issue_number_s": [
-        "3134"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -87,9 +84,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "751e5acaf7c04be7"
     ],
-    "_version_": 1667138248394145792,
-    "timestamp": "2020-05-19T16:48:49.393Z"
+    "_version_": 1684903470280212480,
+    "timestamp": "2020-12-01T18:59:25.232Z"
 }

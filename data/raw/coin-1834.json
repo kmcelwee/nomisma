@@ -38,8 +38,11 @@
         "8.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1834\",\"call_number_browse\":\"Coin 1834\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 42,
     "pub_date_end_sort": 42,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1184"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,9 +97,12 @@
         "Sear  1905"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "42 to 42"
+    ],
     "hashed_id_s": [
         "4296a30a3a0e3904"
     ],
-    "_version_": 1667138467795042304,
-    "timestamp": "2020-05-19T16:52:18.632Z"
+    "_version_": 1684903609123209216,
+    "timestamp": "2020-12-01T19:01:37.646Z"
 }

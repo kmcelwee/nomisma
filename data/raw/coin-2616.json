@@ -35,8 +35,11 @@
         "10.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2616\",\"call_number_browse\":\"Coin 2616\"}}",
-    "donor_s": [
-        "F.J. Mather"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "217: 1931-06-01 F.J. Mather"
     ],
     "pub_date_start_sort": 1166,
     "pub_date_end_sort": 1189,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follaro"
-    ],
-    "issue_number_s": [
-        "1639"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "MEC 14  425"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1166 to 1189"
+    ],
     "hashed_id_s": [
         "6d93ea0464c1ecbf"
     ],
-    "_version_": 1667138218431086592,
-    "timestamp": "2020-05-19T16:48:20.819Z"
+    "_version_": 1684903452103147520,
+    "timestamp": "2020-12-01T18:59:07.899Z"
 }

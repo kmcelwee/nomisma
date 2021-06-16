@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "4362"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -87,9 +84,12 @@
         "Jones pg. 424 3158"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "127 to 151"
+    ],
     "hashed_id_s": [
         "9753d60e773e5504"
     ],
-    "_version_": 1667138359067148288,
-    "timestamp": "2020-05-19T16:50:34.940Z"
+    "_version_": 1684903089344086016,
+    "timestamp": "2020-12-01T18:53:21.944Z"
 }

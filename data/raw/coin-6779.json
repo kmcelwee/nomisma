@@ -35,6 +35,12 @@
         "2.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6779\",\"call_number_browse\":\"Coin 6779\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1320,
     "pub_date_end_sort": 1342,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "takvorin"
-    ],
-    "issue_number_s": [
-        "4188"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +105,15 @@
         "Bedoukian  2027"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Mamluk, Nasir al-Din Muhammad"
+    ],
+    "issue_date_s": [
+        "1320 to 1342"
+    ],
     "hashed_id_s": [
         "924b16cea4294694"
     ],
-    "_version_": 1667138141142646784,
-    "timestamp": "2020-05-19T16:47:07.111Z"
+    "_version_": 1684903390942855168,
+    "timestamp": "2020-12-01T18:58:09.571Z"
 }

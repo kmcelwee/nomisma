@@ -38,8 +38,11 @@
         "13.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14864\",\"call_number_browse\":\"Coin 14864\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dollar"
-    ],
-    "issue_number_s": [
-        "9126"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Robert Scot, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "162c4d6daa248595"
     ],
-    "_version_": 1667305403180908544,
-    "timestamp": "2020-05-21T13:05:40.623Z"
+    "_version_": 1684903657473048576,
+    "timestamp": "2020-12-01T19:02:23.754Z"
 }

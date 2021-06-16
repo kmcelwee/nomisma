@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "piastre"
     ],
-    "issue_number_s": [
-        "5957"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,9 +92,12 @@
         "Standard Catalofue World Coins 19th Century  667.3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1859 to 1860"
+    ],
     "hashed_id_s": [
         "62345aad62e23ac6"
     ],
-    "_version_": 1667144890725695488,
-    "timestamp": "2020-05-19T18:34:24.013Z"
+    "_version_": 1684903137756839936,
+    "timestamp": "2020-12-01T18:54:08.114Z"
 }

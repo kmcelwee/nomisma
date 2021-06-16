@@ -35,8 +35,14 @@
         "4.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10650\",\"call_number_browse\":\"Coin 10650\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 02/18/2001"
     ],
     "pub_date_start_sort": 271,
     "pub_date_end_sort": 273,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6812"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style A Type Ib/2b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "271 to 273"
+    ],
     "hashed_id_s": [
         "800fc6dd297c7ac0"
     ],
-    "_version_": 1667138178979463168,
-    "timestamp": "2020-05-19T16:47:43.193Z"
+    "_version_": 1684902956670910464,
+    "timestamp": "2020-12-01T18:51:15.417Z"
 }

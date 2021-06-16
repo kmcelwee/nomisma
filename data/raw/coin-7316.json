@@ -47,6 +47,12 @@
         "1.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7316\",\"call_number_browse\":\"Coin 7316\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4582"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -115,9 +118,12 @@
         "Numismatique Constantinienne 3 212.II.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "2232640535937a3f"
     ],
-    "_version_": 1667138354027692032,
-    "timestamp": "2020-05-19T16:50:30.131Z"
+    "_version_": 1684903540099645440,
+    "timestamp": "2020-12-01T19:00:31.819Z"
 }

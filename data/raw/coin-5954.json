@@ -38,8 +38,11 @@
         "7.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5954\",\"call_number_browse\":\"Coin 5954\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Salton/Schlesinger; October 1960; $30"
     ],
     "pub_date_start_sort": -380,
     "pub_date_end_sort": -355,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3449"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Vlasto Coll.  407"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-380 to -355"
+    ],
     "hashed_id_s": [
         "dae53cfa0f92ccd6"
     ],
-    "_version_": 1667138387628261376,
-    "timestamp": "2020-05-19T16:51:02.178Z"
+    "_version_": 1684903264564281344,
+    "timestamp": "2020-12-01T18:56:09.048Z"
 }

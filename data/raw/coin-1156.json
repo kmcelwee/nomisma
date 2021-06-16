@@ -38,8 +38,11 @@
         "3.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1156\",\"call_number_browse\":\"Coin 1156\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
     ],
     "pub_date_start_sort": 1419,
     "pub_date_end_sort": 1420,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "ecu"
-    ],
-    "issue_number_s": [
-        "603"
     ],
     "issue_metal_s": [
         "Gold"
@@ -93,9 +93,12 @@
         "Duplessy  369B-C"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1419 to 1420"
+    ],
     "hashed_id_s": [
         "ac1e6fa73cc22d77"
     ],
-    "_version_": 1667138208708689920,
-    "timestamp": "2020-05-19T16:48:11.533Z"
+    "_version_": 1684903445322006528,
+    "timestamp": "2020-12-01T18:59:01.432Z"
 }

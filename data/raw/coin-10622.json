@@ -35,8 +35,14 @@
         "2.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10622\",\"call_number_browse\":\"Coin 10622\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 05/08/2005"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/2\u0394"
-    ],
-    "issue_number_s": [
-        "6784"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 1 Style A/d Type IIc/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "5d0ec3d592f462e4"
     ],
-    "_version_": 1667138283167023104,
-    "timestamp": "2020-05-19T16:49:22.555Z"
+    "_version_": 1684903500231737344,
+    "timestamp": "2020-12-01T18:59:53.799Z"
 }

@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/27/1938"
+        "1938-08-27"
+    ],
+    "find_feature_s": [
+        "Dump"
     ],
     "find_locus_s": [
         "S 19-J/K"
     ],
     "find_number_s": [
-        "cb4510"
+        "Cb4510"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +50,12 @@
         "1.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11456\",\"call_number_browse\":\"Coin 11456\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 333,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7613"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,9 +113,12 @@
         "RIC 7,581 73"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "333 to 335"
+    ],
     "hashed_id_s": [
         "46f8186dfc153331"
     ],
-    "_version_": 1667138293576237056,
-    "timestamp": "2020-05-19T16:49:32.483Z"
+    "_version_": 1696223953000857600,
+    "timestamp": "2021-04-05T17:53:38.904Z"
 }

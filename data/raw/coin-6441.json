@@ -35,13 +35,13 @@
         "34.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6441\",\"call_number_browse\":\"Coin 6441\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 1696,
     "pub_date_end_sort": 1696,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3866"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +87,15 @@
         "Thomas Bernard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Capture of Limbourg    "
+    ],
+    "issue_date_s": [
+        "1696 to 1696"
+    ],
     "hashed_id_s": [
         "f1510b134454cc32"
     ],
-    "_version_": 1667138371949953024,
-    "timestamp": "2020-05-19T16:50:47.223Z"
+    "_version_": 1684903110106939392,
+    "timestamp": "2020-12-01T18:53:41.756Z"
 }

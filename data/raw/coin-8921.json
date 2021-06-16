@@ -41,8 +41,11 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8921\",\"call_number_browse\":\"Coin 8921\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -99,9 +102,12 @@
         "Shore  239"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "be6a8e5558919af9"
     ],
-    "_version_": 1672839297829437440,
-    "timestamp": "2020-07-21T15:04:33.819Z"
+    "_version_": 1684903662947663872,
+    "timestamp": "2020-12-01T19:02:28.976Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-11804",
     "title_display": "Coin: 11804",
     "pub_created_display": [
-        "Constantine I (306 to 337), follis, Antioch"
+        "Constantine I (306 to 337), follis, Heraclea"
     ],
     "call_number_display": [
         "Coin 11804"
@@ -32,10 +32,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/3/1938"
+        "1938-06-03"
+    ],
+    "find_feature_s": [
+        "W. room 6, to 7m"
     ],
     "find_locus_s": [
-        "17-P"
+        "A 17-P"
     ],
     "find_number_s": [
         "Cb3065"
@@ -50,6 +53,9 @@
         "0.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11804\",\"call_number_browse\":\"Coin 11804\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 336,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -58,9 +64,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "7899"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -68,13 +71,13 @@
         "Constantine I (306 to 337)"
     ],
     "issue_place_s": [
-        "Antioch, Syria, Roman Empire"
+        "Heraclea, Thrace, Roman Empire"
     ],
     "issue_city_s": [
-        "Antioch"
+        "Heraclea"
     ],
     "issue_state_s": [
-        "Syria"
+        "Thrace"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -101,12 +104,15 @@
         "GLOR-IA EXERC-ITVS"
     ],
     "issue_references_s": [
-        "RIC 7 589 139"
+        "RIC VII Heraclea 139"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "336 to 337"
+    ],
     "hashed_id_s": [
         "e5de769b486f71d2"
     ],
-    "_version_": 1667138298399686656,
-    "timestamp": "2020-05-19T16:49:37.083Z"
+    "_version_": 1684902913271398400,
+    "timestamp": "2020-12-01T18:50:34.029Z"
 }

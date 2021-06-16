@@ -41,8 +41,11 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8849\",\"call_number_browse\":\"Coin 8849\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -70,
     "pub_date_end_sort": -57,
@@ -98,9 +101,12 @@
         "Beta Pi Sigma Monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"Beta Pi Sigma Monogram\",\"document_id\":\"b537f079-db86-4c28-9a9f-472c7012fd6c\"}]",
+    "issue_date_s": [
+        "-70 to -57"
+    ],
     "hashed_id_s": [
         "fe481faebf48ecd2"
     ],
-    "_version_": 1673110225354227712,
-    "timestamp": "2020-07-24T14:50:50.435Z"
+    "_version_": 1684903670843441152,
+    "timestamp": "2020-12-01T19:02:36.506Z"
 }

@@ -41,8 +41,11 @@
         "19.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9213\",\"call_number_browse\":\"Coin 9213\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 539,
     "pub_date_end_sort": 540,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5882"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +113,12 @@
         "BN Justinian I 1-43"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "539 to 540"
+    ],
     "hashed_id_s": [
         "034264c5f52cfd54"
     ],
-    "_version_": 1667138147851436032,
-    "timestamp": "2020-05-19T16:47:13.509Z"
+    "_version_": 1684903401032253440,
+    "timestamp": "2020-12-01T18:58:19.192Z"
 }

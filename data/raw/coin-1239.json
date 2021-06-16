@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "696"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -105,6 +102,6 @@
     "hashed_id_s": [
         "e0d16f0ec6616a67"
     ],
-    "_version_": 1667138390513942528,
-    "timestamp": "2020-05-19T16:51:04.930Z"
+    "_version_": 1683105199643688960,
+    "timestamp": "2020-11-11T22:36:40.714Z"
 }

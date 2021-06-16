@@ -35,6 +35,12 @@
         "2.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6833\",\"call_number_browse\":\"Coin 6833\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -92,9 +98,12 @@
         "Bed.  113"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "17fb25a5b7b237a3"
     ],
-    "_version_": 1674075534744616960,
-    "timestamp": "2020-08-04T06:34:01.214Z"
+    "_version_": 1684903090155683840,
+    "timestamp": "2020-12-01T18:53:22.720Z"
 }

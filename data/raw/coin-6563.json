@@ -35,6 +35,9 @@
         "0.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6563\",\"call_number_browse\":\"Coin 6563\"}}",
+    "numismatic_accession_s": [
+        "400: 2008-04-02 LHS Numismatik"
+    ],
     "pub_date_start_sort": 1237,
     "pub_date_end_sort": 1244,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "3976"
     ],
     "issue_metal_s": [
         "Billon"
@@ -99,9 +99,12 @@
         "Sear  2202"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1237 to 1244"
+    ],
     "hashed_id_s": [
         "e42fa6f5d72b8a1d"
     ],
-    "_version_": 1667138366322245632,
-    "timestamp": "2020-05-19T16:50:41.858Z"
+    "_version_": 1684903254767435776,
+    "timestamp": "2020-12-01T18:55:59.705Z"
 }

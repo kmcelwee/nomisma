@@ -41,8 +41,11 @@
         "1.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13360\",\"call_number_browse\":\"Coin 13360\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1080,
     "pub_date_end_sort": 1200,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6277"
     ],
     "issue_metal_s": [
         "Billon"
@@ -105,9 +105,12 @@
         "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection IV,p.697 34.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1080 to 1200"
+    ],
     "hashed_id_s": [
         "e9181c9d474ec9c4"
     ],
-    "_version_": 1667138143994773504,
-    "timestamp": "2020-05-19T16:47:09.830Z"
+    "_version_": 1684903396259135488,
+    "timestamp": "2020-12-01T18:58:14.641Z"
 }

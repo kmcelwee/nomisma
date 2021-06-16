@@ -50,6 +50,9 @@
         "14.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7964\",\"call_number_browse\":\"Coin 7964\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 218,
     "pub_date_end_sort": 222,
     "issue_object_type_s": [
@@ -107,9 +110,12 @@
         "BMC Syria 205 450"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "88f429ec72f85e0e"
     ],
-    "_version_": 1673554710082093056,
-    "timestamp": "2020-07-29T12:35:44.103Z"
+    "_version_": 1684902908661858304,
+    "timestamp": "2020-12-01T18:50:29.634Z"
 }

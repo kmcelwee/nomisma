@@ -35,6 +35,12 @@
         "3.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6812\",\"call_number_browse\":\"Coin 6812\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -88,9 +94,12 @@
         "M&D  47"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "2600e1e2cc14ded4"
     ],
-    "_version_": 1674075491347202048,
-    "timestamp": "2020-08-04T06:33:19.822Z"
+    "_version_": 1684903172338876416,
+    "timestamp": "2020-12-01T18:54:41.098Z"
 }

@@ -35,7 +35,13 @@
         "21.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14014\",\"call_number_browse\":\"Coin 14014\"}}",
-    "donor_s": [
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
         "Robert Ross"
     ],
     "pub_date_start_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Knight"
-    ],
-    "issue_number_s": [
-        "9038"
     ],
     "issue_metal_s": [
         "Brass"
@@ -98,6 +101,6 @@
     "hashed_id_s": [
         "a511173dfd7ad06d"
     ],
-    "_version_": 1667145392573120512,
-    "timestamp": "2020-05-19T18:43:25.248Z"
+    "_version_": 1684903366238404608,
+    "timestamp": "2020-12-01T18:57:46.011Z"
 }

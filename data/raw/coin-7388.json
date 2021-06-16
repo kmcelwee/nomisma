@@ -50,6 +50,12 @@
         "2.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7388\",\"call_number_browse\":\"Coin 7388\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -246,
     "pub_date_end_sort": -226,
     "issue_object_type_s": [
@@ -118,9 +124,12 @@
         "WSM  1654"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-246 to -226"
+    ],
     "hashed_id_s": [
         "6dffc2d6f4dfacc8"
     ],
-    "_version_": 1673104443213611008,
-    "timestamp": "2020-07-24T13:18:56.162Z"
+    "_version_": 1684903668487290880,
+    "timestamp": "2020-12-01T19:02:34.272Z"
 }

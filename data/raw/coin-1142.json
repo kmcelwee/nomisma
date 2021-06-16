@@ -35,8 +35,11 @@
         "26.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1142\",\"call_number_browse\":\"Coin 1142\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "581"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -104,9 +104,12 @@
         "Sear  1957v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "2c265948093b5c06"
     ],
-    "_version_": 1667138458930380800,
-    "timestamp": "2020-05-19T16:52:10.178Z"
+    "_version_": 1684903221105000448,
+    "timestamp": "2020-12-01T18:55:27.602Z"
 }

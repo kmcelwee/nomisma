@@ -50,6 +50,9 @@
         "2.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7814\",\"call_number_browse\":\"Coin 7814\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1092,
     "pub_date_end_sort": 1118,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "4877"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "Sear  1910"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1092 to 1118"
+    ],
     "hashed_id_s": [
         "5afdb8603c66a540"
     ],
-    "_version_": 1667138186315300864,
-    "timestamp": "2020-05-19T16:47:50.191Z"
+    "_version_": 1684902937366626304,
+    "timestamp": "2020-12-01T18:50:57.009Z"
 }

@@ -35,8 +35,14 @@
         "37.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14939\",\"call_number_browse\":\"Coin 14939\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1988,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2nd Grade"
-    ],
-    "issue_number_s": [
-        "9129"
     ],
     "issue_metal_s": [
         "Silvered"
@@ -80,9 +83,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia  3: 168-71"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1988 to "
+    ],
     "hashed_id_s": [
         "9d4f8a66e9f1d852"
     ],
-    "_version_": 1667145058923577344,
-    "timestamp": "2020-05-19T18:42:24.078Z"
+    "_version_": 1684903326616911872,
+    "timestamp": "2020-12-01T18:57:08.226Z"
 }

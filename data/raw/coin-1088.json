@@ -35,6 +35,12 @@
         "1.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1088\",\"call_number_browse\":\"Coin 1088\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "31: 2005-01-15 Gordon Andreas Singer"
+    ],
     "pub_date_start_sort": 700,
     "pub_date_end_sort": 720,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "539"
     ],
     "issue_metal_s": [
         "Silver"
@@ -76,9 +79,12 @@
         "MEC  560"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "700 to 720"
+    ],
     "hashed_id_s": [
         "6405d4183221a305"
     ],
-    "_version_": 1667138207952666624,
-    "timestamp": "2020-05-19T16:48:10.824Z"
+    "_version_": 1684903444776747008,
+    "timestamp": "2020-12-01T18:59:00.911Z"
 }

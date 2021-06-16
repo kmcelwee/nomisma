@@ -35,6 +35,15 @@
         "2.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12383\",\"call_number_browse\":\"Coin 12383\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Wayte Raymond, New York, NY; 1922; $5.00"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -243,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8314"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +101,12 @@
         "BMC Corinth  406v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -243"
+    ],
     "hashed_id_s": [
         "5a7b754a3ae5f44b"
     ],
-    "_version_": 1667138303861719040,
-    "timestamp": "2020-05-19T16:49:42.290Z"
+    "_version_": 1684903051190599680,
+    "timestamp": "2020-12-01T18:52:45.558Z"
 }

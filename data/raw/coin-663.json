@@ -35,6 +35,12 @@
         "14.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 663\",\"call_number_browse\":\"Coin 663\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "66: 2001-04-13 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -70,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "280"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +102,12 @@
         "Price  1193"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -70"
+    ],
     "hashed_id_s": [
         "66f95730f432b36f"
     ],
-    "_version_": 1667138405069225984,
-    "timestamp": "2020-05-19T16:51:18.811Z"
+    "_version_": 1684903179320295424,
+    "timestamp": "2020-12-01T18:54:47.753Z"
 }

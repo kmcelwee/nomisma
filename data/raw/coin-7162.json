@@ -29,8 +29,11 @@
         "74x93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7162\",\"call_number_browse\":\"Coin 7162\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "7 dollars"
-    ],
-    "issue_number_s": [
-        "4482"
     ],
     "issue_metal_s": [
         "Paper"
@@ -86,6 +86,6 @@
     "hashed_id_s": [
         "74dde0a3834da1b6"
     ],
-    "_version_": 1667138256335011840,
-    "timestamp": "2020-05-19T16:48:56.966Z"
+    "_version_": 1684903478134046720,
+    "timestamp": "2020-12-01T18:59:32.723Z"
 }

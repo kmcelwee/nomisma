@@ -35,6 +35,9 @@
         "16.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 613\",\"call_number_browse\":\"Coin 613\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -323,
     "issue_object_type_s": [
@@ -97,9 +100,12 @@
         "Price  3614"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -323"
+    ],
     "hashed_id_s": [
         "a37096b9e38bfeac"
     ],
-    "_version_": 1674367751842430976,
-    "timestamp": "2020-08-07T11:58:41.151Z"
+    "_version_": 1684903332126130176,
+    "timestamp": "2020-12-01T18:57:13.479Z"
 }

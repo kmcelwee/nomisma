@@ -50,6 +50,12 @@
         "15.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4491\",\"call_number_browse\":\"Coin 4491\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2278"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,12 @@
         "BMC.Byz. Justin I 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "7c4b6f6a781f9b39"
     ],
-    "_version_": 1667138230896558080,
-    "timestamp": "2020-05-19T16:48:32.706Z"
+    "_version_": 1684903457299890176,
+    "timestamp": "2020-12-01T18:59:12.855Z"
 }

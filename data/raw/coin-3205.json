@@ -35,16 +35,16 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3205\",\"call_number_browse\":\"Coin 3205\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1954"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -79,6 +79,6 @@
     "hashed_id_s": [
         "ae19ddb61e8a933c"
     ],
-    "_version_": 1667138429989683200,
-    "timestamp": "2020-05-19T16:51:42.576Z"
+    "_version_": 1684903204838440960,
+    "timestamp": "2020-12-01T18:55:12.090Z"
 }

@@ -35,8 +35,11 @@
         "11.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3875\",\"call_number_browse\":\"Coin 3875\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "390: 2000-05-27 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": -25,
     "pub_date_end_sort": -20,
@@ -97,9 +100,12 @@
         "Sear  1586"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-25 to -20"
+    ],
     "hashed_id_s": [
         "105eb9171468c6a0"
     ],
-    "_version_": 1674369260526239744,
-    "timestamp": "2020-08-07T12:22:39.943Z"
+    "_version_": 1684903333588893696,
+    "timestamp": "2020-12-01T18:57:14.874Z"
 }

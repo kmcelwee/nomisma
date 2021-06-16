@@ -2,7 +2,7 @@
     "id": "coin-14035",
     "title_display": "Coin: 14035",
     "pub_created_display": [
-        "Diocletian   (244 to 311), 4 drachm, Alexandria"
+        "Diocletian   (284 to 305), 4 drachm, Alexandria"
     ],
     "call_number_display": [
         "Coin 14035"
@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "4 drachm"
     ],
-    "issue_number_s": [
-        "9062"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -59,7 +56,7 @@
         "Regnal"
     ],
     "issue_ruler_s": [
-        "Diocletian   (244 to 311)"
+        "Diocletian   (284 to 305)"
     ],
     "issue_place_s": [
         "Alexandria, Egypt, Roman Empire"
@@ -101,6 +98,6 @@
     "hashed_id_s": [
         "e9315ec757ec01b0"
     ],
-    "_version_": 1667310118501351424,
-    "timestamp": "2020-05-21T14:20:37.503Z"
+    "_version_": 1683104860481781760,
+    "timestamp": "2020-11-11T22:31:17.264Z"
 }

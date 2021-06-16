@@ -35,6 +35,15 @@
         "3.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5727\",\"call_number_browse\":\"Coin 5727\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1926; $20"
+    ],
     "pub_date_start_sort": -61,
     "pub_date_end_sort": -61,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3268"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Pupius Piso M. f. Frugi"
@@ -67,23 +76,29 @@
     "issue_obverse_figure_s": [
         "Mercury"
     ],
-    "issue_obverse_part_s": [
-        "herm"
+    "issue_obverse_symbol_s": [
+        "wreath on l.; dish on r."
     ],
-    "issue_obverse_orientation_s": [
+    "issue_obverse_part_s": [
         "facing"
     ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
     "issue_obverse_figure_description_s": [
-        "Mercury as herm, facing; to l., wreath; to r., dish or two-handled cup; border of dots"
+        "Terminal statue"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Knife and patera"
     ],
-    "issue_reverse_figure_description_s": [
-        "knife and patera; legend above; all within laurel wreath"
-    ],
     "issue_reverse_legend_s": [
-        "M \u0393ISO M F / FRVGI"
+        "M\u00b7PISO\u00b7M\u00b7F / FRVGI"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, laurel-wreath"
     ],
     "issue_references_s": [
         "RRC  418/1",
@@ -91,9 +106,12 @@
         "Sear  369"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-61 to -61"
+    ],
     "hashed_id_s": [
         "b09d75c05eafff35"
     ],
-    "_version_": 1667138388226998272,
-    "timestamp": "2020-05-19T16:51:02.750Z"
+    "_version_": 1684903141943803904,
+    "timestamp": "2020-12-01T18:54:12.109Z"
 }

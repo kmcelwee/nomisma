@@ -38,8 +38,11 @@
         "1.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9206\",\"call_number_browse\":\"Coin 9206\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "290:  W.S. Watson"
     ],
     "pub_date_start_sort": 1036,
     "pub_date_end_sort": 1094,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "dirham"
-    ],
-    "issue_number_s": [
-        "5874"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +86,12 @@
         "CFC Type A4 (p. 223); ~#2266(p. 315) "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1036 to 1094"
+    ],
     "hashed_id_s": [
         "60b6dda2d47e345c"
     ],
-    "_version_": 1667138148041228288,
-    "timestamp": "2020-05-19T16:47:13.688Z"
+    "_version_": 1684903401479995392,
+    "timestamp": "2020-12-01T18:58:19.621Z"
 }

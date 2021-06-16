@@ -35,8 +35,8 @@
         "16.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3980\",\"call_number_browse\":\"Coin 3980\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2508"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +89,12 @@
         " Justin I 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "17c9d708b7fc91d6"
     ],
-    "_version_": 1667138236997173248,
-    "timestamp": "2020-05-19T16:48:38.523Z"
+    "_version_": 1684903000347246592,
+    "timestamp": "2020-12-01T18:51:57.069Z"
 }

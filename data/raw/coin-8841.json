@@ -35,6 +35,12 @@
         "1.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8841\",\"call_number_browse\":\"Coin 8841\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1824,
     "pub_date_end_sort": 1859,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "10 quattrini"
-    ],
-    "issue_number_s": [
-        "5637"
     ],
     "issue_metal_s": [
         "Mistura"
@@ -92,9 +95,12 @@
         "CNI XII, 477 119"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1824 to 1859"
+    ],
     "hashed_id_s": [
         "6a8bca86ad440924"
     ],
-    "_version_": 1667138158144258048,
-    "timestamp": "2020-05-19T16:47:23.323Z"
+    "_version_": 1684903413467316224,
+    "timestamp": "2020-12-01T18:58:31.053Z"
 }

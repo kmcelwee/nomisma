@@ -2,7 +2,7 @@
     "id": "coin-13936",
     "title_display": "Coin: 13936",
     "pub_created_display": [
-        "Diocletian, follis, Antioch"
+        "Diocletian   (284 to 305), AE1, Antioch"
     ],
     "call_number_display": [
         "Coin 13936"
@@ -35,28 +35,31 @@
         "11.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13936\",\"call_number_browse\":\"Coin 13936\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 299,
+    "pub_date_end_sort": 300,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "8973"
+        "AE1"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Diocletian"
+        "Diocletian   (284 to 305)"
     ],
     "issue_workshop_s": [
-        "Z/ ANT"
+        "Z"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -71,16 +74,19 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
     "issue_obverse_legend_s": [
-        "IMPCDIOCLETIANVSPFAUG"
+        "IMP C DIOCLETIANVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Genius"
@@ -91,16 +97,26 @@
     "issue_reverse_orientation_s": [
         "left"
     ],
+    "issue_reverse_figure_description_s": [
+        "wearing modius, nude, chlamys draped over left shoulder, pouring liquid"
+    ],
     "issue_reverse_legend_s": [
-        "GENIOPOPV LIROMANI"
+        "GENIO POPV-LI ROMANI / ANT"
+    ],
+    "issue_reverse_attributes_s": [
+        "patera, in r. hand",
+        "cornucopiae, in l. hand"
     ],
     "issue_references_s": [
-        "RIC 6 620 52a"
+        "RIC VI  Antioch 52a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "299 to 300"
+    ],
     "hashed_id_s": [
         "f6824fd49aa5c2c5"
     ],
-    "_version_": 1667144700172173312,
-    "timestamp": "2020-05-19T18:31:22.287Z"
+    "_version_": 1684903677216686080,
+    "timestamp": "2020-12-01T19:02:42.584Z"
 }

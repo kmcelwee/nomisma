@@ -35,6 +35,12 @@
         "1.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6784\",\"call_number_browse\":\"Coin 6784\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1342,
     "pub_date_end_sort": 1344,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pogh"
-    ],
-    "issue_number_s": [
-        "4193"
     ],
     "issue_metal_s": [
         "Copper"
@@ -93,9 +96,12 @@
         "Bedoukian  2040"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1342 to 1344"
+    ],
     "hashed_id_s": [
         "10d3f11bea869ebd"
     ],
-    "_version_": 1667138255118663680,
-    "timestamp": "2020-05-19T16:48:55.805Z"
+    "_version_": 1684903127081287680,
+    "timestamp": "2020-12-01T18:53:57.934Z"
 }

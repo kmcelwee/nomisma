@@ -38,8 +38,11 @@
         "7.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6019\",\"call_number_browse\":\"Coin 6019\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Gans/NFA; April 1962; $90"
     ],
     "pub_date_start_sort": -415,
     "pub_date_end_sort": -390,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3496"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Vlasto Coll.  308-11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-415 to -390"
+    ],
     "hashed_id_s": [
         "1ee625d28d22890a"
     ],
-    "_version_": 1667138382717779968,
-    "timestamp": "2020-05-19T16:50:57.495Z"
+    "_version_": 1684903557788073984,
+    "timestamp": "2020-12-01T19:00:48.687Z"
 }

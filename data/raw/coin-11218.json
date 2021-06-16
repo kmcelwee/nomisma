@@ -35,8 +35,14 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11218\",\"call_number_browse\":\"Coin 11218\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Dirk L\u00f6bbers; 01/24/2012"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7384"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SN  \u0160Y  Type II/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "8f27d53596b6f4d9"
     ],
-    "_version_": 1667138161791205376,
-    "timestamp": "2020-05-19T16:47:26.802Z"
+    "_version_": 1684902934727360512,
+    "timestamp": "2020-12-01T18:50:54.493Z"
 }

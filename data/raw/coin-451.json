@@ -35,6 +35,12 @@
         "3.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 451\",\"call_number_browse\":\"Coin 451\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "35: 1932-08-01 Mavromates"
+    ],
     "pub_date_start_sort": -31,
     "pub_date_end_sort": -27,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "205"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +94,17 @@
         "Sear  1555"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, quadriga",
+        "Category, victory",
+        "Category, prow"
+    ],
+    "issue_date_s": [
+        "-31 to -27"
+    ],
     "hashed_id_s": [
         "7fd039b237dca62c"
     ],
-    "_version_": 1667138202300841984,
-    "timestamp": "2020-05-19T16:48:05.434Z"
+    "_version_": 1684903438493679616,
+    "timestamp": "2020-12-01T18:58:54.920Z"
 }

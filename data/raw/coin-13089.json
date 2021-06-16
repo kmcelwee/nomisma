@@ -38,8 +38,11 @@
         "0.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13089\",\"call_number_browse\":\"Coin 13089\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 78,
     "pub_date_end_sort": 105,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8503"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Sellwood  77.13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "78 to 105"
+    ],
     "hashed_id_s": [
         "18c7c9c13544a427"
     ],
-    "_version_": 1667138317670416384,
-    "timestamp": "2020-05-19T16:49:55.459Z"
+    "_version_": 1684903163561246720,
+    "timestamp": "2020-12-01T18:54:32.724Z"
 }

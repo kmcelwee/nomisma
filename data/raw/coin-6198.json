@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6198\",\"call_number_browse\":\"Coin 6198\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "10 Shillings"
-    ],
-    "issue_number_s": [
-        "3644"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,6 +81,6 @@
     "hashed_id_s": [
         "ae9bca989f6c09b0"
     ],
-    "_version_": 1667138374856605696,
-    "timestamp": "2020-05-19T16:50:49.999Z"
+    "_version_": 1684903113042952192,
+    "timestamp": "2020-12-01T18:53:44.545Z"
 }

@@ -32,19 +32,22 @@
         "3.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2005\",\"call_number_browse\":\"Coin 2005\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1662,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1326"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Shun Zhi \u987a\u6cbb (1638 to 1661)"
@@ -76,9 +79,12 @@
         "Coole 69 213"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1662"
+    ],
     "hashed_id_s": [
         "d094fb9c790375bc"
     ],
-    "_version_": 1667138417792647168,
-    "timestamp": "2020-05-19T16:51:30.945Z"
+    "_version_": 1684903282602934272,
+    "timestamp": "2020-12-01T18:56:26.251Z"
 }

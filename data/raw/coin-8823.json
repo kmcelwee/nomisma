@@ -35,6 +35,12 @@
         "4.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8823\",\"call_number_browse\":\"Coin 8823\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1537,
     "pub_date_end_sort": 1574,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "lira"
-    ],
-    "issue_number_s": [
-        "5619"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "Signorie e Principati: monete italiane con ritratto, 1450-1796 II, 329 9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1537 to 1574"
+    ],
     "hashed_id_s": [
         "358781fd1aa498d1"
     ],
-    "_version_": 1667138171432861696,
-    "timestamp": "2020-05-19T16:47:35.996Z"
+    "_version_": 1684902947944660992,
+    "timestamp": "2020-12-01T18:51:07.096Z"
 }

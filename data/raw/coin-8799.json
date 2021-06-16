@@ -38,8 +38,8 @@
         "5.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8799\",\"call_number_browse\":\"Coin 8799\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1081,
     "pub_date_end_sort": 1087,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5598"
     ],
     "issue_metal_s": [
         "Copper"
@@ -97,9 +94,12 @@
         "BL Alexis I 59/Th/AE/03v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1081 to 1087"
+    ],
     "hashed_id_s": [
         "b1d4a21e5fda1a60"
     ],
-    "_version_": 1667138156470730752,
-    "timestamp": "2020-05-19T16:47:21.729Z"
+    "_version_": 1684902920219262976,
+    "timestamp": "2020-12-01T18:50:40.655Z"
 }

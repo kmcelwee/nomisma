@@ -38,6 +38,15 @@
         "1.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12272\",\"call_number_browse\":\"Coin 12272\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "786: 2001-10-02 Classical Numismatic Group"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 10/02/2001"
+    ],
     "pub_date_start_sort": 1380,
     "pub_date_end_sort": 1396,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8269"
     ],
     "issue_metal_s": [
         "Billon"
@@ -90,9 +96,12 @@
         "Mushmov p.137 179"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1380 to 1396"
+    ],
     "hashed_id_s": [
         "f88054f3c98d0805"
     ],
-    "_version_": 1667138342697828352,
-    "timestamp": "2020-05-19T16:50:19.330Z"
+    "_version_": 1684903082366861312,
+    "timestamp": "2020-12-01T18:53:15.291Z"
 }

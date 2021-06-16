@@ -35,6 +35,9 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1054\",\"call_number_browse\":\"Coin 1054\"}}",
+    "numismatic_accession_s": [
+        "35: 1932-08-01 Mavromates"
+    ],
     "pub_date_start_sort": -25,
     "pub_date_end_sort": -15,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "508"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +94,18 @@
         "Sear  1635v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, chariot",
+        "Category, temple",
+        "Category, quadriga",
+        "Animal, eagle"
+    ],
+    "issue_date_s": [
+        "-25 to -15"
+    ],
     "hashed_id_s": [
         "8fbec8dff49e263c"
     ],
-    "_version_": 1667138207378046976,
-    "timestamp": "2020-05-19T16:48:10.276Z"
+    "_version_": 1684903444474757120,
+    "timestamp": "2020-12-01T18:59:00.624Z"
 }

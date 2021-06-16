@@ -35,8 +35,11 @@
         "3.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5054\",\"call_number_browse\":\"Coin 5054\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2798"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Fonteius P.f. Capito"
@@ -77,10 +80,14 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head r., veiled and diademed; border of dots"
+        "wearing veil and diadem"
     ],
     "issue_obverse_legend_s": [
-        "\u0393 FONTEIVS \u0393 F CA\u0393ITO III VIR CONCORDIA"
+        "P\u00b7FONTEIVS\u00b7CAPITO\u00b7III\u00b7VIR\u00b7CONCORDIA"
+    ],
+    "issue_obverse_attributes_s": [
+        "inscription, around head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Villa Publica"
@@ -88,11 +95,11 @@
     "issue_reverse_orientation_s": [
         "facing"
     ],
-    "issue_reverse_figure_description_s": [
-        "border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "T DIDI IM\u0393 / VIL \u0393VB"
+        "T\u00b7DIDI IMP VIL\u00b7PVB"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  429/2a",
@@ -100,9 +107,12 @@
         "Sear  393"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "09c1165c4fd715b7"
     ],
-    "_version_": 1667138244178870272,
-    "timestamp": "2020-05-19T16:48:45.375Z"
+    "_version_": 1684903006201446400,
+    "timestamp": "2020-12-01T18:52:02.654Z"
 }

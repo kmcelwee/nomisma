@@ -35,6 +35,12 @@
         "4.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11621\",\"call_number_browse\":\"Coin 11621\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "741: 2000-02-01 Hirsch"
+    ],
     "pub_date_start_sort": 276,
     "pub_date_end_sort": 293,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7740"
     ],
     "issue_metal_s": [
         "Silver"
@@ -84,9 +87,12 @@
         "SN  VII/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "276 to 293"
+    ],
     "hashed_id_s": [
         "59f7c8cb9163a7bc"
     ],
-    "_version_": 1667138295722672128,
-    "timestamp": "2020-05-19T16:49:34.501Z"
+    "_version_": 1684903146255548416,
+    "timestamp": "2020-12-01T18:54:16.226Z"
 }

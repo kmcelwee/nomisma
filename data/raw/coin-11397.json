@@ -40,6 +40,9 @@
     "find_number_s": [
         "cb3483"
     ],
+    "find_description_s": [
+        "Trench 9, surface (B1)"
+    ],
     "die_axis_s": [
         "6"
     ],
@@ -50,6 +53,9 @@
         "1.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11397\",\"call_number_browse\":\"Coin 11397\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6227"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,7 +83,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Woman"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -89,7 +92,7 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled woman"
+        "Bust of Constantine II"
     ],
     "issue_obverse_legend_s": [
         "DV CONSTANTINVS [PT AVGG]"
@@ -114,9 +117,12 @@
         "Waage 121 1458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "b7cfb70445bd3ce7"
     ],
-    "_version_": 1667138278193627136,
-    "timestamp": "2020-05-19T16:49:17.814Z"
+    "_version_": 1684902913234698240,
+    "timestamp": "2020-12-01T18:50:33.994Z"
 }

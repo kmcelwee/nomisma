@@ -35,8 +35,14 @@
         "4.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11249\",\"call_number_browse\":\"Coin 11249\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 04/25/2003"
     ],
     "pub_date_start_sort": 628,
     "pub_date_end_sort": 630,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7415"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SN  NY Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "628 to 630"
+    ],
     "hashed_id_s": [
         "a33c37489eb97948"
     ],
-    "_version_": 1667138168225267712,
-    "timestamp": "2020-05-19T16:47:32.939Z"
+    "_version_": 1684902928815489024,
+    "timestamp": "2020-12-01T18:50:48.853Z"
 }

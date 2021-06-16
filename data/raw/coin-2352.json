@@ -35,6 +35,15 @@
         "1.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2352\",\"call_number_browse\":\"Coin 2352\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; purchased $10 in 1931"
+    ],
     "pub_date_start_sort": 549,
     "pub_date_end_sort": 552,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "half siliqua"
-    ],
-    "issue_number_s": [
-        "1513"
     ],
     "issue_metal_s": [
         "Silver"
@@ -88,9 +94,12 @@
         "  63"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "549 to 552"
+    ],
     "hashed_id_s": [
         "f0295c7dc193e963"
     ],
-    "_version_": 1667138474853007360,
-    "timestamp": "2020-05-19T16:52:25.362Z"
+    "_version_": 1684903225168232448,
+    "timestamp": "2020-12-01T18:55:31.476Z"
 }

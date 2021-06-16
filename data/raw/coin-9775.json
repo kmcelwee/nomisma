@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/5/1938"
+        "1938-05-05"
     ],
     "find_feature_s": [
-        "Under Room B3"
+        "Between W. wall and earlier walls"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb1315"
-    ],
-    "find_description_s": [
-        "between west wall and earlier walls"
     ],
     "die_axis_s": [
         "11"
@@ -53,8 +50,11 @@
         "3.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9775\",\"call_number_browse\":\"Coin 9775\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 317,
     "pub_date_end_sort": 320,
@@ -89,13 +89,10 @@
         "bust"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
-    ],
-    "issue_obverse_figure_description_s": [
-        "J1"
+        "facing left"
     ],
     "issue_obverse_legend_s": [
-        "IMP [CON]STAN TINVS [AV]G"
+        "IMP[CON]STAN-TINVS[AV]G"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -113,16 +110,19 @@
         "Jupiter standing l., chlamys across l. shoulder, leaning on sceptre, holding Victory on globe"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CON[S] ERVATORI AVGG | ANT"
+        "IOVICON[S]-ERVATORIAVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC.7  7 680 24",
+        "RIC VII Antioch 26",
         "Waage 118 1399"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "7250b6e9df4d1a42"
     ],
-    "_version_": 1672453568654737408,
-    "timestamp": "2020-07-17T08:53:33.807Z"
+    "_version_": 1684903688483635200,
+    "timestamp": "2020-12-01T19:02:53.329Z"
 }

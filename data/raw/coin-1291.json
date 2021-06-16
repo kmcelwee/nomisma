@@ -35,8 +35,11 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1291\",\"call_number_browse\":\"Coin 1291\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -310,
     "pub_date_end_sort": -305,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "720"
     ],
     "issue_metal_s": [
         "Electrum"
@@ -89,9 +89,12 @@
         "Sear  957v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -305"
+    ],
     "hashed_id_s": [
         "64b58a43ea24f6df"
     ],
-    "_version_": 1667138209904066560,
-    "timestamp": "2020-05-19T16:48:12.687Z"
+    "_version_": 1684902974360387584,
+    "timestamp": "2020-12-01T18:51:32.287Z"
 }

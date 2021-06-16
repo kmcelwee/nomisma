@@ -35,8 +35,11 @@
         "7.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13377\",\"call_number_browse\":\"Coin 13377\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8657"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,6 +106,6 @@
     "hashed_id_s": [
         "88843884de26f43a"
     ],
-    "_version_": 1667138320628449280,
-    "timestamp": "2020-05-19T16:49:58.281Z"
+    "_version_": 1684903058284216320,
+    "timestamp": "2020-12-01T18:52:52.323Z"
 }

@@ -99,9 +99,12 @@
         "Ox.  9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1004 to 1024"
+    ],
     "hashed_id_s": [
         "3b8078eb9baae126"
     ],
-    "_version_": 1674261335325540352,
-    "timestamp": "2020-08-06T07:47:14.451Z"
+    "_version_": 1684903433310568448,
+    "timestamp": "2020-12-01T18:58:49.976Z"
 }

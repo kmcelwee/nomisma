@@ -38,6 +38,9 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12451\",\"call_number_browse\":\"Coin 12451\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -77,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8344"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Shore  133"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -77"
+    ],
     "hashed_id_s": [
         "cddfaf353ff7fe0c"
     ],
-    "_version_": 1667138306286026752,
-    "timestamp": "2020-05-19T16:49:44.603Z"
+    "_version_": 1684903046387073024,
+    "timestamp": "2020-12-01T18:52:40.978Z"
 }

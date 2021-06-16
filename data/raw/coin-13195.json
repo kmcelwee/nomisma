@@ -32,8 +32,11 @@
         "1.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13195\",\"call_number_browse\":\"Coin 13195\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8544"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "bdcb51e606093bac"
     ],
-    "_version_": 1667146588691103744,
-    "timestamp": "2020-05-19T19:02:24.583Z"
+    "_version_": 1684903356759277568,
+    "timestamp": "2020-12-01T18:57:36.971Z"
 }

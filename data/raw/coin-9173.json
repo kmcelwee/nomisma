@@ -2,7 +2,7 @@
     "id": "coin-9173",
     "title_display": "Coin: 9173",
     "pub_created_display": [
-        "Tiberius, sestertius, Rome"
+        "Tiberius   (14 to 37), sestertius, Rome"
     ],
     "call_number_display": [
         "Coin 9173"
@@ -35,8 +35,8 @@
         "26.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9173\",\"call_number_browse\":\"Coin 9173\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 21,
     "pub_date_end_sort": 22,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "5848"
-    ],
     "issue_metal_s": [
         "Brass"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Rome, Italy, Roman Empire"
@@ -103,9 +100,12 @@
         "Sear  1738"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "21 to 22"
+    ],
     "hashed_id_s": [
         "e41cf155223230cd"
     ],
-    "_version_": 1667138274001420288,
-    "timestamp": "2020-05-19T16:49:13.814Z"
+    "_version_": 1684903021797965824,
+    "timestamp": "2020-12-01T18:52:17.527Z"
 }

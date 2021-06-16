@@ -35,6 +35,15 @@
         "1.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4475\",\"call_number_browse\":\"Coin 4475\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1930; $2.60"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -43,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2498"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +101,12 @@
         "Sear  1500"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -43"
+    ],
     "hashed_id_s": [
         "5bd8d42dd4c10d85"
     ],
-    "_version_": 1667138498393538560,
-    "timestamp": "2020-05-19T16:52:47.812Z"
+    "_version_": 1684903310529658880,
+    "timestamp": "2020-12-01T18:56:52.883Z"
 }

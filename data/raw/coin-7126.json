@@ -2,7 +2,7 @@
     "id": "coin-7126",
     "title_display": "Coin: 7126",
     "pub_created_display": [
-        "Constantine II, officnae, Antioch"
+        "Constantine II   (337 to 340), aes III, Antioch"
     ],
     "call_number_display": [
         "Coin 7126"
@@ -35,8 +35,11 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7126\",\"call_number_browse\":\"Coin 7126\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 337,
@@ -44,13 +47,13 @@
         "coin"
     ],
     "issue_denomination_s": [
-        "officnae"
+        "aes III"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_workshop_s": [
         "Antioch"
@@ -95,12 +98,15 @@
         "(none)"
     ],
     "issue_references_s": [
-        "RIC 8 515 37"
+        "RIC VIII Antioch 37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 337"
+    ],
     "hashed_id_s": [
         "41ce190cff9b8dfa"
     ],
-    "_version_": 1673553533240082432,
-    "timestamp": "2020-07-29T12:17:01.782Z"
+    "_version_": 1684903675688910848,
+    "timestamp": "2020-12-01T19:02:41.126Z"
 }

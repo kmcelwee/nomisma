@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/15/1937"
+        "1937-05-13"
+    ],
+    "find_feature_s": [
+        "Trench to NE. (basket Gamma)"
     ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
-        "Ca943"
+        "Ca0943"
     ],
     "die_axis_s": [
         "6"
@@ -47,6 +50,12 @@
         "2.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11689\",\"call_number_browse\":\"Coin 11689\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7789"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +107,12 @@
         "RIC 7 633 188"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "ca5e7d2d28a31741"
     ],
-    "_version_": 1667138296773345280,
-    "timestamp": "2020-05-19T16:49:35.533Z"
+    "_version_": 1696404926481039360,
+    "timestamp": "2021-04-07T17:50:08.613Z"
 }

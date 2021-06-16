@@ -61,9 +61,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "4915"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -93,9 +90,12 @@
         "Miles  31.4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "696 to 950"
+    ],
     "hashed_id_s": [
         "2e20864eeb69fa51"
     ],
-    "_version_": 1667138193607098368,
-    "timestamp": "2020-05-19T16:47:57.146Z"
+    "_version_": 1684903070357520384,
+    "timestamp": "2020-12-01T18:53:03.837Z"
 }

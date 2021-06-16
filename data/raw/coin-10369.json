@@ -38,8 +38,11 @@
         "13.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10369\",\"call_number_browse\":\"Coin 10369\"}}",
-    "donor_s": [
-        "F.J. Mather"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "217: 1931-06-01 F.J. Mather"
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -91,9 +94,12 @@
         "BMC Palestine Plate 30 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "a4c0c417f26e51c6"
     ],
-    "_version_": 1672921668358504448,
-    "timestamp": "2020-07-22T12:53:48.473Z"
+    "_version_": 1684903663374434304,
+    "timestamp": "2020-12-01T19:02:29.385Z"
 }

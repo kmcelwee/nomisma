@@ -41,6 +41,9 @@
         "5.382"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12001\",\"call_number_browse\":\"Coin 12001\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1080,
     "pub_date_end_sort": 1085,
     "issue_object_type_s": [
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "8139"
     ],
     "issue_metal_s": [
         "Copper"
@@ -107,9 +107,12 @@
         "cross, Latin Cross"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1080 to 1085"
+    ],
     "hashed_id_s": [
         "9677bd31ba0c6f19"
     ],
-    "_version_": 1667144699825094657,
-    "timestamp": "2020-05-19T18:31:21.958Z"
+    "_version_": 1684903350583164928,
+    "timestamp": "2020-12-01T18:57:31.084Z"
 }

@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "6506"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -93,12 +90,15 @@
         "CNI 1 507"
     ],
     "issue_artists_s": [
-        "Andreas Spinelli"
+        "Andreas Spinelli, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "228aef61f8f7bfb8"
     ],
-    "_version_": 1667138281615130624,
-    "timestamp": "2020-05-19T16:49:21.076Z"
+    "_version_": 1684903025246732288,
+    "timestamp": "2020-12-01T18:52:20.817Z"
 }

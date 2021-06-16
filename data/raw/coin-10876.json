@@ -38,8 +38,14 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10876\",\"call_number_browse\":\"Coin 10876\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Tom Mallon; 06/24/2006"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7037"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Mint I (\"East\") Type Ib2/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "aad66244833169a8"
     ],
-    "_version_": 1667138287103377408,
-    "timestamp": "2020-05-19T16:49:26.308Z"
+    "_version_": 1684903030536798208,
+    "timestamp": "2020-12-01T18:52:25.861Z"
 }

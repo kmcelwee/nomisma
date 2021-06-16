@@ -35,8 +35,11 @@
         "1.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13098\",\"call_number_browse\":\"Coin 13098\"}}",
-    "donor_s": [
-        "P. Capps"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "95: 1933-01-01 P. Capps"
     ],
     "pub_date_start_sort": -350,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8518"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "Milbank Pl. 4 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-350 to -320"
+    ],
     "hashed_id_s": [
         "62f67e319c5e5e13"
     ],
-    "_version_": 1667145482728636416,
-    "timestamp": "2020-05-19T18:51:23.385Z"
+    "_version_": 1684903162360627200,
+    "timestamp": "2020-12-01T18:54:31.578Z"
 }

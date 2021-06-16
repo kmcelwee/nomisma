@@ -35,8 +35,11 @@
         "1.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10512\",\"call_number_browse\":\"Coin 10512\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "AE/3"
-    ],
-    "issue_number_s": [
-        "6686"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "SNS 1 Phase 2c/ Flames 1 (?) Type IIh or IIi/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "4482a4c36f2e4ab3"
     ],
-    "_version_": 1667138180615241728,
-    "timestamp": "2020-05-19T16:47:44.754Z"
+    "_version_": 1684903425955856384,
+    "timestamp": "2020-12-01T18:58:42.963Z"
 }

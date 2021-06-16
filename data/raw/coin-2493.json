@@ -35,8 +35,11 @@
         "3.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2493\",\"call_number_browse\":\"Coin 2493\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1787,
     "pub_date_end_sort": 1797,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "zecchino"
-    ],
-    "issue_number_s": [
-        "1572"
     ],
     "issue_metal_s": [
         "Gold"
@@ -101,9 +101,12 @@
         "Pap. Lodovico Manin 7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1787 to 1797"
+    ],
     "hashed_id_s": [
         "11da48411e26b66c"
     ],
-    "_version_": 1667145315106422784,
-    "timestamp": "2020-05-19T18:42:23.268Z"
+    "_version_": 1684903370586849280,
+    "timestamp": "2020-12-01T18:57:50.159Z"
 }

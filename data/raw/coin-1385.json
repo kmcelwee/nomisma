@@ -50,6 +50,12 @@
         "5.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1385\",\"call_number_browse\":\"Coin 1385\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "785"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,6 +92,6 @@
     "hashed_id_s": [
         "1bc03f90f10452a1"
     ],
-    "_version_": 1667138210892873728,
-    "timestamp": "2020-05-19T16:48:13.630Z"
+    "_version_": 1684903446637969408,
+    "timestamp": "2020-12-01T18:59:02.686Z"
 }

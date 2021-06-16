@@ -35,8 +35,14 @@
         "0.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11096\",\"call_number_browse\":\"Coin 11096\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 03/13/2004"
     ],
     "pub_date_start_sort": 496,
     "pub_date_end_sort": 499,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7257"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 DA Type I?/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "496 to 499"
+    ],
     "hashed_id_s": [
         "613ae4fc90d2ca57"
     ],
-    "_version_": 1667138289435410432,
-    "timestamp": "2020-05-19T16:49:28.536Z"
+    "_version_": 1684903034603175936,
+    "timestamp": "2020-12-01T18:52:29.740Z"
 }

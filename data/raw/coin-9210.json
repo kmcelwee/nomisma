@@ -52,9 +52,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5878"
-    ],
     "issue_ruler_s": [
         "Harun al-Rashid"
     ],
@@ -74,9 +71,12 @@
         "Die islamischen Fundm\u00fcnzen  238"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "797 to 798"
+    ],
     "hashed_id_s": [
         "4829a235b02ca9ab"
     ],
-    "_version_": 1667145329957404672,
-    "timestamp": "2020-05-19T18:51:12.295Z"
+    "_version_": 1684903075558457344,
+    "timestamp": "2020-12-01T18:53:08.798Z"
 }

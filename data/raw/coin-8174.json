@@ -35,8 +35,11 @@
         "5.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8174\",\"call_number_browse\":\"Coin 8174\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -100,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "5186"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "CNH 336 42"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -100"
+    ],
     "hashed_id_s": [
         "8b82f4cf5d64853b"
     ],
-    "_version_": 1667138188994412544,
-    "timestamp": "2020-05-19T16:47:52.744Z"
+    "_version_": 1684903429899550720,
+    "timestamp": "2020-12-01T18:58:46.723Z"
 }

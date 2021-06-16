@@ -35,8 +35,11 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11671\",\"call_number_browse\":\"Coin 11671\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-18 sil"
-    ],
-    "issue_number_s": [
-        "7199"
     ],
     "issue_metal_s": [
         "Gold"
@@ -90,9 +90,12 @@
         "SN  III/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "cf89d9704572301a"
     ],
-    "_version_": 1667138169322078208,
-    "timestamp": "2020-05-19T16:47:33.984Z"
+    "_version_": 1684903422983143424,
+    "timestamp": "2020-12-01T18:58:40.128Z"
 }

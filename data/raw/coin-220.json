@@ -35,6 +35,9 @@
         "1.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 220\",\"call_number_browse\":\"Coin 220\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 864,
     "pub_date_end_sort": 877,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "107"
     ],
     "issue_metal_s": [
         "Silver"
@@ -88,9 +88,12 @@
         "Charles the Bald pp. 131-34 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "864 to 877"
+    ],
     "hashed_id_s": [
         "71bebe2523908217"
     ],
-    "_version_": 1667138118665371648,
-    "timestamp": "2020-05-19T16:46:45.674Z"
+    "_version_": 1684903651372433408,
+    "timestamp": "2020-12-01T19:02:17.937Z"
 }

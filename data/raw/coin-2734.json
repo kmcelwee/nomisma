@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "1732"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -94,6 +91,6 @@
     "hashed_id_s": [
         "014fb8780ae3841c"
     ],
-    "_version_": 1667138423543037952,
-    "timestamp": "2020-05-19T16:51:36.429Z"
+    "_version_": 1683105489271914496,
+    "timestamp": "2020-11-11T22:41:16.924Z"
 }

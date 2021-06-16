@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "taler"
     ],
-    "issue_number_s": [
-        "4271"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -89,9 +86,12 @@
         "Lexicon of the Maria Theresien Taler 1780  49"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1740 to 1780"
+    ],
     "hashed_id_s": [
         "168b43bd7d93db42"
     ],
-    "_version_": 1667138358333145088,
-    "timestamp": "2020-05-19T16:50:34.238Z"
+    "_version_": 1684903088912072704,
+    "timestamp": "2020-12-01T18:53:21.532Z"
 }

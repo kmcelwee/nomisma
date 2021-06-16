@@ -35,6 +35,9 @@
         "4.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1794\",\"call_number_browse\":\"Coin 1794\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 200,
     "pub_date_end_sort": 100,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1172"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "BMC.Phoen Aradus 142?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "200 to 100"
+    ],
     "hashed_id_s": [
         "574456b64f68d1f0"
     ],
-    "_version_": 1667138467158556672,
-    "timestamp": "2020-05-19T16:52:18.025Z"
+    "_version_": 1684902892370132992,
+    "timestamp": "2020-12-01T18:50:14.096Z"
 }

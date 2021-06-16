@@ -35,6 +35,12 @@
         "15.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6808\",\"call_number_browse\":\"Coin 6808\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -95,9 +101,12 @@
         "M&D  1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "16b92a947ed58d27"
     ],
-    "_version_": 1674076918481158144,
-    "timestamp": "2020-08-04T06:56:00.843Z"
+    "_version_": 1684903172691197952,
+    "timestamp": "2020-12-01T18:54:41.431Z"
 }

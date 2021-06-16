@@ -35,8 +35,11 @@
         "19.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1407\",\"call_number_browse\":\"Coin 1407\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -344,
     "pub_date_end_sort": -317,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "808"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Syra AE page 133, pl. XII 7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-344 to -317"
+    ],
     "hashed_id_s": [
         "7a200f5d71c86c34"
     ],
-    "_version_": 1667138211167600640,
-    "timestamp": "2020-05-19T16:48:13.892Z"
+    "_version_": 1684902975756042240,
+    "timestamp": "2020-12-01T18:51:33.621Z"
 }

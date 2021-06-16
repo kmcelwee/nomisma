@@ -50,6 +50,9 @@
         "1.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13667\",\"call_number_browse\":\"Coin 13667\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -58,14 +61,14 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "8743"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
         "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "SMANA"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -104,12 +107,15 @@
         "VN-MR"
     ],
     "issue_references_s": [
-        "RIC.8 521 112"
+        "RIC VIII Antioch 112"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "efc3bce05afda961"
     ],
-    "_version_": 1667138524164390912,
-    "timestamp": "2020-05-19T16:53:12.387Z"
+    "_version_": 1684902924653690880,
+    "timestamp": "2020-12-01T18:50:44.886Z"
 }

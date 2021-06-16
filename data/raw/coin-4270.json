@@ -38,8 +38,14 @@
         "3.519"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4270\",\"call_number_browse\":\"Coin 4270\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1992; No. 5"
     ],
     "pub_date_start_sort": 1414,
     "pub_date_end_sort": 1423,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2420"
     ],
     "issue_metal_s": [
         "Gold"
@@ -83,9 +86,12 @@
         "SIT.T.XRE.DAT.Q.TV REGIS.ISTE.DVCAT."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1414 to 1423"
+    ],
     "hashed_id_s": [
         "1736c2c726582bc6"
     ],
-    "_version_": 1667138235173699584,
-    "timestamp": "2020-05-19T16:48:36.786Z"
+    "_version_": 1684902989148454912,
+    "timestamp": "2020-12-01T18:51:46.389Z"
 }

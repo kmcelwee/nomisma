@@ -2,7 +2,7 @@
     "id": "coin-9426",
     "title_display": "Coin: 9426",
     "pub_created_display": [
-        "Tiberius, unknown, unknown"
+        "Tiberius   (14 to 37), unknown, unknown"
     ],
     "call_number_display": [
         "Coin 9426"
@@ -35,6 +35,9 @@
         "4.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9426\",\"call_number_browse\":\"Coin 9426\"}}",
+    "numismatic_accession_s": [
+        "273: 1992-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 37,
     "issue_object_type_s": [
@@ -43,14 +46,11 @@
     "issue_denomination_s": [
         "unknown"
     ],
-    "issue_number_s": [
-        "6042"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "unknown, Macedonia, Roman Empire"
@@ -98,9 +98,12 @@
         "RPC  1657"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "ad374b440023b06f"
     ],
-    "_version_": 1667138275559604224,
-    "timestamp": "2020-05-19T16:49:15.299Z"
+    "_version_": 1684903013273042944,
+    "timestamp": "2020-12-01T18:52:09.398Z"
 }

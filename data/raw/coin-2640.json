@@ -35,8 +35,11 @@
         "1.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2640\",\"call_number_browse\":\"Coin 2640\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1659,
     "pub_date_end_sort": 1674,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldo"
-    ],
-    "issue_number_s": [
-        "1661"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "Pap. Domenico Contarini 202"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1659 to 1674"
+    ],
     "hashed_id_s": [
         "15dbe66fa8442b32"
     ],
-    "_version_": 1667138424030625792,
-    "timestamp": "2020-05-19T16:51:36.894Z"
+    "_version_": 1684903577605111808,
+    "timestamp": "2020-12-01T19:01:07.588Z"
 }

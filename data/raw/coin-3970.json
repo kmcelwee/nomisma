@@ -35,8 +35,11 @@
         "1.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3970\",\"call_number_browse\":\"Coin 3970\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "394:  Louis C. West"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tremissis"
-    ],
-    "issue_number_s": [
-        "2275"
     ],
     "issue_metal_s": [
         "Gold"
@@ -102,9 +102,12 @@
         "Sear  58"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "beee2c317d61a564"
     ],
-    "_version_": 1667138229920333824,
-    "timestamp": "2020-05-19T16:48:31.776Z"
+    "_version_": 1684903456526041088,
+    "timestamp": "2020-12-01T18:59:12.116Z"
 }

@@ -38,6 +38,9 @@
         "6.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9502\",\"call_number_browse\":\"Coin 9502\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 149,
     "pub_date_end_sort": 120,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unknown"
-    ],
-    "issue_number_s": [
-        "6085"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "Historia Numorum: A Manual of Greek Numismatics 519 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "149 to 120"
+    ],
     "hashed_id_s": [
         "2fc94faef7f8be6d"
     ],
-    "_version_": 1667138276124786688,
-    "timestamp": "2020-05-19T16:49:15.838Z"
+    "_version_": 1684903013631655936,
+    "timestamp": "2020-12-01T18:52:09.739Z"
 }

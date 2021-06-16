@@ -35,6 +35,9 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10251\",\"call_number_browse\":\"Coin 10251\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 117,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6495"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "BMC 242 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "117 to 117"
+    ],
     "hashed_id_s": [
         "45cb3b35d1998c94"
     ],
-    "_version_": 1667138136294031360,
-    "timestamp": "2020-05-19T16:47:02.487Z"
+    "_version_": 1684902915452436480,
+    "timestamp": "2020-12-01T18:50:36.110Z"
 }

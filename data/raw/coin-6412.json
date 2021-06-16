@@ -32,8 +32,11 @@
         "Counter stamp erased original date and workshop. Weight with edges worn off: 7.79 g. Size with edges worn off: 21 mm."
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6412\",\"call_number_browse\":\"Coin 6412\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1621,
     "pub_date_end_sort": 1665,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "8 maravedis"
-    ],
-    "issue_number_s": [
-        "3840"
     ],
     "issue_metal_s": [
         "Copper"
@@ -85,9 +85,12 @@
         "Las Monedas Espanolas  var. 915"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1621 to 1665"
+    ],
     "hashed_id_s": [
         "9aae5062884dc7e1"
     ],
-    "_version_": 1667138371737092096,
-    "timestamp": "2020-05-19T16:50:47.024Z"
+    "_version_": 1684903109404393472,
+    "timestamp": "2020-12-01T18:53:41.076Z"
 }

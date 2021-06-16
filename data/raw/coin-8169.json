@@ -2,7 +2,7 @@
     "id": "coin-8169",
     "title_display": "Coin: 8169",
     "pub_created_display": [
-        "Phocas (809 to 831), follis, Constantinople"
+        "Phocas   (602 to 610), follis, Constantinople"
     ],
     "call_number_display": [
         "Coin 8169"
@@ -50,6 +50,9 @@
         "10.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8169\",\"call_number_browse\":\"Coin 8169\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 603,
     "pub_date_end_sort": 604,
     "issue_object_type_s": [
@@ -58,14 +61,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5181"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Phocas (809 to 831)"
+        "Phocas   (602 to 610)"
     ],
     "issue_place_s": [
         "Constantinople, Byzantium"
@@ -100,9 +100,12 @@
         "MIB vol. 2 61"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "603 to 604"
+    ],
     "hashed_id_s": [
         "e1a5f6139b761635"
     ],
-    "_version_": 1667138267105984512,
-    "timestamp": "2020-05-19T16:49:07.239Z"
+    "_version_": 1684903015568375808,
+    "timestamp": "2020-12-01T18:52:11.586Z"
 }

@@ -41,6 +41,12 @@
         "31.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5217\",\"call_number_browse\":\"Coin 5217\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "2903"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +97,12 @@
         "RRC 36 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "91c30aa476979bf1"
     ],
-    "_version_": 1667138396162621440,
-    "timestamp": "2020-05-19T16:51:10.315Z"
+    "_version_": 1684903569303535616,
+    "timestamp": "2020-12-01T19:00:59.669Z"
 }

@@ -35,8 +35,11 @@
         "23.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11928\",\"call_number_browse\":\"Coin 11928\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": 132,
     "pub_date_end_sort": 134,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "7998"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 454 1412"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "132 to 134"
+    ],
     "hashed_id_s": [
         "1e9eb5c11df84267"
     ],
-    "_version_": 1667138299321384960,
-    "timestamp": "2020-05-19T16:49:37.962Z"
+    "_version_": 1684903040511901696,
+    "timestamp": "2020-12-01T18:52:35.376Z"
 }

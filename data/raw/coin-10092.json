@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "4929"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -97,9 +94,12 @@
         "Ash.2  1128-1130"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 750"
+    ],
     "hashed_id_s": [
         "2845f49094949082"
     ],
-    "_version_": 1667145060953620480,
-    "timestamp": "2020-05-19T18:37:06.365Z"
+    "_version_": 1684903369088434176,
+    "timestamp": "2020-12-01T18:57:48.731Z"
 }

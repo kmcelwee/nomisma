@@ -26,25 +26,25 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7641\",\"call_number_browse\":\"Coin 7641\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": -226,
+    "pub_date_end_sort": -223,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "unit"
     ],
-    "issue_number_s": [
-        "8927"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
         "Seleucus III (-226 to -223)"
@@ -89,17 +89,20 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "arrow, in r.hand",
-        "bow, in l.hand",
+        "arrow, in r. hand",
+        "bow, in l. hand",
         "m10378, on outer left"
     ],
     "issue_references_s": [
-        "H & L I,v.I,p.335 924"
+        "H & L I, v.I, p.335 924"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "165ba5efea4aa63f"
     ],
-    "_version_": 1667138123030593536,
-    "timestamp": "2020-05-19T16:46:49.838Z"
+    "_version_": 1684902967759601664,
+    "timestamp": "2020-12-01T18:51:25.992Z"
 }

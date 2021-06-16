@@ -32,6 +32,9 @@
         "94x74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5018\",\"call_number_browse\":\"Coin 5018\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "20 Shillings"
-    ],
-    "issue_number_s": [
-        "2777"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "10b776e18a395933"
     ],
-    "_version_": 1667313752858427392,
-    "timestamp": "2020-05-21T15:18:23.491Z"
+    "_version_": 1684903271188135936,
+    "timestamp": "2020-12-01T18:56:15.366Z"
 }

@@ -35,6 +35,9 @@
         "2.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6639\",\"call_number_browse\":\"Coin 6639\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1261,
     "pub_date_end_sort": 1282,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "4062"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +90,12 @@
         "Sear  2309"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1261 to 1282"
+    ],
     "hashed_id_s": [
         "d35afc44d5202f52"
     ],
-    "_version_": 1667138363811954688,
-    "timestamp": "2020-05-19T16:50:39.465Z"
+    "_version_": 1684903253749268480,
+    "timestamp": "2020-12-01T18:55:58.734Z"
 }

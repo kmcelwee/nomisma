@@ -35,8 +35,11 @@
         "7.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11967\",\"call_number_browse\":\"Coin 11967\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 117,
     "pub_date_end_sort": 117,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "8020"
     ],
     "issue_metal_s": [
         "Gold"
@@ -93,9 +93,12 @@
         "BMC 241 34"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "117 to 117"
+    ],
     "hashed_id_s": [
         "dbe59d48d4403029"
     ],
-    "_version_": 1667138299396882432,
-    "timestamp": "2020-05-19T16:49:38.034Z"
+    "_version_": 1684903149879427072,
+    "timestamp": "2020-12-01T18:54:19.678Z"
 }

@@ -49,9 +49,6 @@
     "issue_denomination_s": [
         "chalkous"
     ],
-    "issue_number_s": [
-        "8506"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "7cd865c85eb76cb6"
     ],
-    "_version_": 1667138313681633280,
-    "timestamp": "2020-05-19T16:49:51.656Z"
+    "_version_": 1683105436524347392,
+    "timestamp": "2020-11-11T22:40:26.621Z"
 }

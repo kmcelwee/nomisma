@@ -35,6 +35,9 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6511\",\"call_number_browse\":\"Coin 6511\"}}",
+    "numismatic_accession_s": [
+        "353: 2008-01-15 Candiotti, Keith"
+    ],
     "pub_date_start_sort": 1325,
     "pub_date_end_sort": 1328,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3932"
     ],
     "issue_metal_s": [
         "Gold"
@@ -99,9 +99,12 @@
         "Sear  2461"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1325 to 1328"
+    ],
     "hashed_id_s": [
         "f7e98b114ce47be7"
     ],
-    "_version_": 1667138253517488128,
-    "timestamp": "2020-05-19T16:48:54.279Z"
+    "_version_": 1684903011392946176,
+    "timestamp": "2020-12-01T18:52:07.605Z"
 }

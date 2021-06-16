@@ -53,6 +53,9 @@
         "4.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8754\",\"call_number_browse\":\"Coin 8754\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1382,
     "pub_date_end_sort": 1399,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5560"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "Balog Mamluk  597"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1382 to 1399"
+    ],
     "hashed_id_s": [
         "d1774f55200420e6"
     ],
-    "_version_": 1667138181243338752,
-    "timestamp": "2020-05-19T16:47:45.354Z"
+    "_version_": 1684903426194931712,
+    "timestamp": "2020-12-01T18:58:43.189Z"
 }

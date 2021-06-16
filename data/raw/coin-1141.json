@@ -32,16 +32,13 @@
         "4.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1141\",\"call_number_browse\":\"Coin 1141\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "580"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -70,9 +67,15 @@
         "KM 416 23-13v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place,   Shan (3) Xi (1)  China"
+    ],
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "8ee9f0768e364f8e"
     ],
-    "_version_": 1667138459234467840,
-    "timestamp": "2020-05-19T16:52:10.465Z"
+    "_version_": 1684903293127491584,
+    "timestamp": "2020-12-01T18:56:36.288Z"
 }

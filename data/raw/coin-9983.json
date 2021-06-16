@@ -35,13 +35,13 @@
         "27.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9983\",\"call_number_browse\":\"Coin 9983\"}}",
+    "numismatic_accession_s": [
+        "706: 2015-10-31 Allen G. Berman"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "6322"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,6 +94,6 @@
     "hashed_id_s": [
         "e77994d195fe4b21"
     ],
-    "_version_": 1667138139123089408,
-    "timestamp": "2020-05-19T16:47:05.185Z"
+    "_version_": 1684902916455923712,
+    "timestamp": "2020-12-01T18:50:37.065Z"
 }

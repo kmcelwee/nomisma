@@ -38,8 +38,8 @@
         "5.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8802\",\"call_number_browse\":\"Coin 8802\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1085,
     "pub_date_end_sort": 1092,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5601"
     ],
     "issue_metal_s": [
         "Copper"
@@ -97,9 +94,12 @@
         "BL AE Anon. du Xie Siecle, Classe K 41/Cp/Ae/192v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1085 to 1092"
+    ],
     "hashed_id_s": [
         "c995b0ce912b2c87"
     ],
-    "_version_": 1667138156258918400,
-    "timestamp": "2020-05-19T16:47:21.528Z"
+    "_version_": 1684903411576733696,
+    "timestamp": "2020-12-01T18:58:29.250Z"
 }

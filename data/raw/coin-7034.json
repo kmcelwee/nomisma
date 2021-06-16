@@ -2,7 +2,7 @@
     "id": "coin-7034",
     "title_display": "Coin: 7034",
     "pub_created_display": [
-        "semi-uncia"
+        "semi-uncia, Rome"
     ],
     "call_number_display": [
         "Coin 7034"
@@ -38,25 +38,34 @@
         "17.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7034\",\"call_number_browse\":\"Coin 7034\"}}",
-    "pub_date_start_sort": -306,
-    "pub_date_end_sort": -281,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -280,
+    "pub_date_end_sort": -276,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "semi-uncia"
     ],
-    "issue_number_s": [
-        "4388"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_place_s": [
-        "Campania, Italy"
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
     ],
     "issue_state_s": [
-        "Campania"
+        "Latium"
     ],
     "issue_region_s": [
         "Italy"
@@ -65,16 +74,20 @@
         "Acorn"
     ],
     "issue_reverse_figure_s": [
-        "Sigma"
+        "\u03a3"
     ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  42",
-        "Haeb. pl. 40 23-27"
+        "Haeb. pl. 40 23-27",
+        "RRC  14/7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-280 to -276"
+    ],
     "hashed_id_s": [
         "c9ff6fe75caedadd"
     ],
-    "_version_": 1667138132808564736,
-    "timestamp": "2020-05-19T16:46:59.163Z"
+    "_version_": 1684903703768727552,
+    "timestamp": "2020-12-01T19:03:07.906Z"
 }

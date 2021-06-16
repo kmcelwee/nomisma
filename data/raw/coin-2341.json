@@ -35,6 +35,15 @@
         "1.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2341\",\"call_number_browse\":\"Coin 2341\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; purchased $2 in 1931"
+    ],
     "pub_date_start_sort": 527,
     "pub_date_end_sort": 534,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2 1/2 nummi"
-    ],
-    "issue_number_s": [
-        "1502"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -91,9 +97,12 @@
         " Ostrogothic 80"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "527 to 534"
+    ],
     "hashed_id_s": [
         "2dc7865ff8c877d5"
     ],
-    "_version_": 1667138425714638848,
-    "timestamp": "2020-05-19T16:51:38.500Z"
+    "_version_": 1684903203606364160,
+    "timestamp": "2020-12-01T18:55:10.913Z"
 }

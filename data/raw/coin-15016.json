@@ -35,8 +35,11 @@
         "2.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15016\",\"call_number_browse\":\"Coin 15016\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
     ],
     "pub_date_start_sort": 1289,
     "pub_date_end_sort": 1311,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "9214"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "Pap. 1 144, 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1289 to 1311"
+    ],
     "hashed_id_s": [
         "51571bf94e48ac70"
     ],
-    "_version_": 1667144825791578113,
-    "timestamp": "2020-05-19T18:33:22.087Z"
+    "_version_": 1684902911506644992,
+    "timestamp": "2020-12-01T18:50:32.346Z"
 }

@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12509\",\"call_number_browse\":\"Coin 12509\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8371"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "Sellwood  45.13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "88810d1a0d27f121"
     ],
-    "_version_": 1667145496296161280,
-    "timestamp": "2020-05-19T18:44:01.530Z"
+    "_version_": 1684903156031422464,
+    "timestamp": "2020-12-01T18:54:25.542Z"
 }

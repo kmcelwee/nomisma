@@ -35,8 +35,11 @@
         "2.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6799\",\"call_number_browse\":\"Coin 6799\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1236,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4208"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,15 @@
         "Bedoukian  776"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Seljuk, Kaiqobad"
+    ],
+    "issue_date_s": [
+        "1226 to 1236"
+    ],
     "hashed_id_s": [
         "4152dd3db9f3d0dc"
     ],
-    "_version_": 1667138361910886400,
-    "timestamp": "2020-05-19T16:50:37.649Z"
+    "_version_": 1684903094645686272,
+    "timestamp": "2020-12-01T18:53:27.003Z"
 }

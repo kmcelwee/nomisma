@@ -32,16 +32,16 @@
         "50.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6567\",\"call_number_browse\":\"Coin 6567\"}}",
-    "donor_s": [
-        "H.K. Twitchell"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "338:  H.K. Twitchell"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3982"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +68,12 @@
         "Jean  Bernard Descomps"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "7fdb783db03e22d2"
     ],
-    "_version_": 1667138371553591296,
-    "timestamp": "2020-05-19T16:50:46.847Z"
+    "_version_": 1684903549516906496,
+    "timestamp": "2020-12-01T19:00:40.800Z"
 }

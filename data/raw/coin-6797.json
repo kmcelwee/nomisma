@@ -35,8 +35,11 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6797\",\"call_number_browse\":\"Coin 6797\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4206"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +105,15 @@
         "Bedoukian  1157"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zabel"
+    ],
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "2e56776e35a1f012"
     ],
-    "_version_": 1667138361976946688,
-    "timestamp": "2020-05-19T16:50:37.715Z"
+    "_version_": 1684903094804021248,
+    "timestamp": "2020-12-01T18:53:27.153Z"
 }

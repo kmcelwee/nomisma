@@ -35,8 +35,11 @@
         "2.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7472\",\"call_number_browse\":\"Coin 7472\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -480,
     "pub_date_end_sort": -350,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "4678"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "Sear  1349"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-480 to -350"
+    ],
     "hashed_id_s": [
         "ef5007b1be082798"
     ],
-    "_version_": 1667138258746736640,
-    "timestamp": "2020-05-19T16:48:59.267Z"
+    "_version_": 1684903129901957120,
+    "timestamp": "2020-12-01T18:54:00.623Z"
 }

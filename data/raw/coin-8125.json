@@ -29,16 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/19/39"
+        "1939-04-19"
     ],
     "find_feature_s": [
-        "Room 6, directly on top of mosaics (with B baskets)"
+        "[None Recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "Cc430"
+        "Cc0430"
+    ],
+    "find_description_s": [
+        "Room 6, directly on top of mosaics (with B baskets)?"
     ],
     "die_axis_s": [
         "6"
@@ -50,6 +53,12 @@
         "3.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8125\",\"call_number_browse\":\"Coin 8125\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 316,
     "pub_date_end_sort": 317,
     "issue_object_type_s": [
@@ -57,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5148"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +123,12 @@
         "Numismatique Constantinienne III, p. 259, II 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "316 to 317"
+    ],
     "hashed_id_s": [
         "c41c021259ad7a06"
     ],
-    "_version_": 1667138266669776896,
-    "timestamp": "2020-05-19T16:49:06.824Z"
+    "_version_": 1694238852754964480,
+    "timestamp": "2021-03-14T20:01:19.729Z"
 }

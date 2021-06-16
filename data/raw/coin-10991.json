@@ -35,8 +35,14 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10991\",\"call_number_browse\":\"Coin 10991\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Persic Gallery; 05/04/2012"
     ],
     "pub_date_start_sort": 420,
     "pub_date_end_sort": 438,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7152"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 \u0160Y Type Ib1/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "420 to 438"
+    ],
     "hashed_id_s": [
         "56fce3b387d89024"
     ],
-    "_version_": 1667138177623654400,
-    "timestamp": "2020-05-19T16:47:41.901Z"
+    "_version_": 1684902954209902592,
+    "timestamp": "2020-12-01T18:51:13.070Z"
 }

@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/7/1934"
+        "1934-05-07"
     ],
     "find_feature_s": [
-        "Trial Trench 14"
+        "Trial trench 14, level of the lime strosis"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
     "find_number_s": [
         "C2850"
-    ],
-    "find_description_s": [
-        "Level of the lime shores"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +50,12 @@
         "2.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7566\",\"call_number_browse\":\"Coin 7566\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 323,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4731"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,16 +104,19 @@
         "left"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONS-ERVATORI"
+        "IOVI CONS-ERVATORI | SMANT"
     ],
     "issue_references_s": [
-        "RIC, VII 682 36",
+        "RIC VII Antioch 36",
         "Numismatique Constantinienne III. 195 I. 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 323"
+    ],
     "hashed_id_s": [
         "c21717a728e5721a"
     ],
-    "_version_": 1667138260224180224,
-    "timestamp": "2020-05-19T16:49:00.676Z"
+    "_version_": 1690830638179942400,
+    "timestamp": "2021-02-05T05:09:13.019Z"
 }

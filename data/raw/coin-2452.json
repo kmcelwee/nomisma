@@ -50,6 +50,12 @@
         "5.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2452\",\"call_number_browse\":\"Coin 2452\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -268,
     "pub_date_end_sort": -261,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1538"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -121,9 +124,15 @@
         "Houghton  29v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-268 to -261"
+    ],
     "hashed_id_s": [
         "6deb781293d55137"
     ],
-    "_version_": 1669919144711028736,
-    "timestamp": "2020-06-19T09:29:58.791Z"
+    "_version_": 1684902962684493824,
+    "timestamp": "2020-12-01T18:51:21.152Z"
 }

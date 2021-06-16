@@ -35,8 +35,11 @@
         "1.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12993\",\"call_number_browse\":\"Coin 12993\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 51,
     "pub_date_end_sort": 51,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8496"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Sellwood  67.4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "51 to 51"
+    ],
     "hashed_id_s": [
         "02361f85f9cddd46"
     ],
-    "_version_": 1667138340799905792,
-    "timestamp": "2020-05-19T16:50:17.517Z"
+    "_version_": 1684903246312767488,
+    "timestamp": "2020-12-01T18:55:51.641Z"
 }

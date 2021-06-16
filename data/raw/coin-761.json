@@ -35,6 +35,9 @@
         "16.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 761\",\"call_number_browse\":\"Coin 761\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -319,
     "pub_date_end_sort": -318,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "316"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Price  P175"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-319 to -318"
+    ],
     "hashed_id_s": [
         "d8790482a679d1f8"
     ],
-    "_version_": 1667138405723537408,
-    "timestamp": "2020-05-19T16:51:19.436Z"
+    "_version_": 1684903273981542400,
+    "timestamp": "2020-12-01T18:56:18.029Z"
 }

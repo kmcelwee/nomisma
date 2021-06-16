@@ -35,6 +35,12 @@
         "4.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7807\",\"call_number_browse\":\"Coin 7807\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1137,
     "pub_date_end_sort": 1143,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "4870"
     ],
     "issue_metal_s": [
         "Gold"
@@ -97,9 +100,12 @@
         "Sear  1949"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1137 to 1143"
+    ],
     "hashed_id_s": [
         "186475a42a4adb18"
     ],
-    "_version_": 1667138181306253312,
-    "timestamp": "2020-05-19T16:47:45.412Z"
+    "_version_": 1684903416239751168,
+    "timestamp": "2020-12-01T18:58:33.696Z"
 }

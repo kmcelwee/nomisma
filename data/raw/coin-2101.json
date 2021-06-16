@@ -35,8 +35,11 @@
         "7.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2101\",\"call_number_browse\":\"Coin 2101\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 1030,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1382"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "BMC.Byz. 477 (Class I) 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "dfa9fbdf4fb0222c"
     ],
-    "_version_": 1667138418297012224,
-    "timestamp": "2020-05-19T16:51:31.425Z"
+    "_version_": 1684903194039156736,
+    "timestamp": "2020-12-01T18:55:01.789Z"
 }

@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "hexa-chalkon"
     ],
-    "issue_number_s": [
-        "4547"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -80,9 +77,12 @@
         "Mitchiner 334 2380"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-20 to -1"
+    ],
     "hashed_id_s": [
         "342a4028c4df3bfc"
     ],
-    "_version_": 1667138331301904384,
-    "timestamp": "2020-05-19T16:50:08.460Z"
+    "_version_": 1684903238211469312,
+    "timestamp": "2020-12-01T18:55:43.915Z"
 }

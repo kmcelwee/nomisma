@@ -35,8 +35,11 @@
         "14.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1168\",\"call_number_browse\":\"Coin 1168\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -74,
     "pub_date_end_sort": -73,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "617"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,9 +108,15 @@
         "Phoenician Letter"
     ],
     "issue_monogram_1display": "[{\"title\":\"Phoenician Letter\",\"document_id\":\"ad9ef084-b9a0-433d-8f81-89c3aa44f183\"}]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-74 to -73"
+    ],
     "hashed_id_s": [
         "ee5be6b33c807bde"
     ],
-    "_version_": 1667138390862069760,
-    "timestamp": "2020-05-19T16:51:05.260Z"
+    "_version_": 1684903266133999616,
+    "timestamp": "2020-12-01T18:56:10.546Z"
 }

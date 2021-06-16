@@ -35,8 +35,11 @@
         "3.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 445\",\"call_number_browse\":\"Coin 445\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -2,
     "pub_date_end_sort": 4,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "196"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,18 @@
         "Sear  1597"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Caesar, Lucius",
+        "Other Person, Caesar, Gaius",
+        "Category, simpulum",
+        "Category, lituus"
+    ],
+    "issue_date_s": [
+        "-2 to 4"
+    ],
     "hashed_id_s": [
         "0392015d9c14dcbc"
     ],
-    "_version_": 1667138404155916288,
-    "timestamp": "2020-05-19T16:51:17.940Z"
+    "_version_": 1684903574540124160,
+    "timestamp": "2020-12-01T19:01:04.665Z"
 }

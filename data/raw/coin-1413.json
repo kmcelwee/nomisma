@@ -32,8 +32,8 @@
         "4.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1413\",\"call_number_browse\":\"Coin 1413\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1934,
     "pub_date_end_sort": 1939,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "1 Fen"
-    ],
-    "issue_number_s": [
-        "813"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -72,9 +69,12 @@
         "KM 2005 423 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1934 to 1939"
+    ],
     "hashed_id_s": [
         "64340521900e934f"
     ],
-    "_version_": 1667138411245338624,
-    "timestamp": "2020-05-19T16:51:24.702Z"
+    "_version_": 1684903184001138688,
+    "timestamp": "2020-12-01T18:54:52.217Z"
 }

@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6288"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -91,9 +88,12 @@
         "Die M\u00fcnzst\u00e4tte Damaskus von den Umayyaden bis zu den Mongolen ca. 660-1260 AD  119-39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "699 to 709"
+    ],
     "hashed_id_s": [
         "8b900bd468e24dbc"
     ],
-    "_version_": 1667138136078024704,
-    "timestamp": "2020-05-19T16:47:02.279Z"
+    "_version_": 1684903384293834752,
+    "timestamp": "2020-12-01T18:58:03.231Z"
 }

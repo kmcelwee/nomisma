@@ -35,19 +35,25 @@
         "3.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14808\",\"call_number_browse\":\"Coin 14808\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -75,
+    "pub_date_end_sort": -75,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9089"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_edge_s": [
         "serrated"
@@ -74,19 +80,20 @@
         "VIII"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
         "draped and wearing diadem"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "Cupid perched on shoulder"
-    ],
     "issue_obverse_legend_s": [
-        "MAXSUMUS"
+        "MAXSVMVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "Cupid, perched on shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Libertas"
@@ -95,24 +102,28 @@
         "In biga"
     ],
     "issue_reverse_orientation_s": [
-        "Walking left"
+        "left"
     ],
     "issue_reverse_figure_description_s": [
-        "crowned by flying victory"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "in front of pileus"
+        "in biga, crowned by flying Victory"
     ],
     "issue_reverse_legend_s": [
-        "C.EGNATIUS.CN.F. CN.N"
+        "C\u00b7EGNATIVS\u00b7CN\u00b7F / CN\u00b7N"
+    ],
+    "issue_reverse_attributes_s": [
+        "pileus, behind",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  391-1b"
+        "RRC  391/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-75 to -75"
+    ],
     "hashed_id_s": [
         "9bb7e0af656f0df6"
     ],
-    "_version_": 1667308142398013440,
-    "timestamp": "2020-05-21T13:49:12.943Z"
+    "_version_": 1686050526701027328,
+    "timestamp": "2020-12-14T10:51:23.481Z"
 }

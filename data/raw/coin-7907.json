@@ -53,6 +53,9 @@
         "2.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7907\",\"call_number_browse\":\"Coin 7907\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 700,
     "pub_date_end_sort": 750,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "6508"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +87,12 @@
         "Ash.2 plate 54 1133"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "700 to 750"
+    ],
     "hashed_id_s": [
         "d9f921ce62e18081"
     ],
-    "_version_": 1667138194955567104,
-    "timestamp": "2020-05-19T16:47:58.430Z"
+    "_version_": 1684903434376970240,
+    "timestamp": "2020-12-01T18:58:50.994Z"
 }

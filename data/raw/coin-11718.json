@@ -38,6 +38,9 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11718\",\"call_number_browse\":\"Coin 11718\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7818"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "SN  LYW Type Ic/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "b93064f777c8cd47"
     ],
-    "_version_": 1667138135882989568,
-    "timestamp": "2020-05-19T16:47:02.096Z"
+    "_version_": 1684903384119771136,
+    "timestamp": "2020-12-01T18:58:03.065Z"
 }

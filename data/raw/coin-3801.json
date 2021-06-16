@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "50 Shillings"
     ],
-    "issue_number_s": [
-        "2205"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -81,9 +78,12 @@
         "Shafer & Cuhaj p. 1148 S2540R"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "02b76f95c7d46c09"
     ],
-    "_version_": 1667138168308105216,
-    "timestamp": "2020-05-19T16:47:33.019Z"
+    "_version_": 1684903422576295936,
+    "timestamp": "2020-12-01T18:58:39.739Z"
 }

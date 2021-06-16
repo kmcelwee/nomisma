@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "RPC states that the obverse is a head, but since the neck and a suggestion of a shoulder are portrayed, Waage's description is adhered to here.  On reverse, inscription reads [ANTIOX\u0395\u03a9N] ET [\u0394\u0399P].  Note that last three characters could be EIP acc.to Waage"
+        "RPC states that the obverse is a head, but since the neck and a suggestion of a shoulder are portrayed, Waage's description is adhered to here. On reverse, inscription reads [ANTIOX\u0395\u03a9N] ET [\u0394\u0399P].  Note that last three characters could be EIP acc.to Waage"
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "04/29/1938"
     ],
-    "find_feature_s": [
-        "Trench 5."
-    ],
     "find_locus_s": [
-        "13-R(N)"
+        "A 13-R (N)"
     ],
     "find_number_s": [
         "Cb1032"
     ],
     "find_description_s": [
-        "Surface debris to -5M. (A1-2)"
+        "Trench 5, surface debris to 5m (A1-2)"
     ],
     "die_axis_s": [
         "12"
@@ -56,6 +53,12 @@
         "3.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3054\",\"call_number_browse\":\"Coin 3054\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 66,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1878"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -113,9 +119,12 @@
         "RPC.1  4301"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 66"
+    ],
     "hashed_id_s": [
         "14fec0c0a2e9c9b2"
     ],
-    "_version_": 1667138432471662592,
-    "timestamp": "2020-05-19T16:51:44.942Z"
+    "_version_": 1684903694333640704,
+    "timestamp": "2020-12-01T19:02:58.908Z"
 }

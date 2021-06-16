@@ -35,8 +35,11 @@
         "6.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13912\",\"call_number_browse\":\"Coin 13912\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "8945"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,6 +105,6 @@
     "hashed_id_s": [
         "e445675e83a684c1"
     ],
-    "_version_": 1667138329799294976,
-    "timestamp": "2020-05-19T16:50:07.027Z"
+    "_version_": 1684903066831159296,
+    "timestamp": "2020-12-01T18:53:00.474Z"
 }

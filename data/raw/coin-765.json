@@ -35,8 +35,11 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 765\",\"call_number_browse\":\"Coin 765\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -310,
     "pub_date_end_sort": -297,
@@ -99,9 +102,12 @@
         "Price  1577?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -297"
+    ],
     "hashed_id_s": [
         "e7d9aa93828d508a"
     ],
-    "_version_": 1674078776046125056,
-    "timestamp": "2020-08-04T07:25:32.360Z"
+    "_version_": 1684903173576196096,
+    "timestamp": "2020-12-01T18:54:42.274Z"
 }

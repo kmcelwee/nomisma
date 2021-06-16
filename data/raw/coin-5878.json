@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Blue-green patin on both sides.  Reverse inscription reads [\u0391\u039d\u03a4\u0399\u039f\u03a7]\u0395\u03a9\u039d.\u0394\u03a1.  Notes: Antioch Autonomous 55-56 A.D.; BMC p. 160, nos. 71-73."
+        "Blue-green patin on both sides. Reverse inscription reads [\u0391\u039d\u03a4\u0399\u039f\u03a7]\u0395\u03a9\u039d.\u0394\u03a1. Notes: Antioch Autonomous 55-56 A.D.; BMC p. 160, nos. 71-73."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "05/15/1937"
     ],
-    "find_feature_s": [
-        "North face of trench"
-    ],
     "find_locus_s": [
-        "16-P"
+        "A 16-P"
     ],
     "find_number_s": [
-        "Ca360"
+        "Ca0360"
     ],
     "find_description_s": [
-        "under Roman pipes"
+        "Trench, N. face, under Roman pipes"
     ],
     "die_axis_s": [
         "2"
@@ -56,6 +53,12 @@
         "3.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5878\",\"call_number_browse\":\"Coin 5878\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1814"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -113,9 +119,12 @@
         "RPC.1  4289"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "59555f5fb28bb519"
     ],
-    "_version_": 1667138479915532288,
-    "timestamp": "2020-05-19T16:52:30.187Z"
+    "_version_": 1684903616569147392,
+    "timestamp": "2020-12-01T19:01:44.746Z"
 }

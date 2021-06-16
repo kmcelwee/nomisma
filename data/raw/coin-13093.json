@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1938"
-    ],
-    "find_feature_s": [
-        "room A1 & a. Morning."
+        "05/13/1938"
     ],
     "find_locus_s": [
         "DH 27-O"
     ],
     "find_number_s": [
         "Cb1793"
+    ],
+    "find_description_s": [
+        "Room A1 & a, morning"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "2.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13093\",\"call_number_browse\":\"Coin 13093\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 270,
     "pub_date_end_sort": 275,
     "issue_object_type_s": [
@@ -58,14 +64,17 @@
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8514"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "E"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,7 +89,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -89,30 +101,40 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Sol"
     ],
+    "issue_reverse_symbol_s": [
+        "XXI"
+    ],
     "issue_reverse_part_s": [
-        "standing"
+        "walking"
     ],
     "issue_reverse_orientation_s": [
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "kicking captive seated to l. at foot"
+        "treading on seated captive"
     ],
     "issue_reverse_legend_s": [
-        "CONSERVATAVG | XXI"
+        "CONSERVAT AVG"
+    ],
+    "issue_reverse_attributes_s": [
+        "r. hand, raised",
+        "globe, in l. hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 384"
+        "RIC V  Aurelian 384v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "0dc8e6650ed70e15"
     ],
-    "_version_": 1667138336768131072,
-    "timestamp": "2020-05-19T16:50:13.673Z"
+    "_version_": 1684903675595587584,
+    "timestamp": "2020-12-01T19:02:41.037Z"
 }

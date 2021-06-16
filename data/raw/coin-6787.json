@@ -35,6 +35,12 @@
         "1.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6787\",\"call_number_browse\":\"Coin 6787\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1344,
     "pub_date_end_sort": 1363,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "takvorin"
-    ],
-    "issue_number_s": [
-        "4196"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,12 @@
         "Bedoukian  2057v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1344 to 1363"
+    ],
     "hashed_id_s": [
         "3edd8498ca8b9951"
     ],
-    "_version_": 1667138364986359808,
-    "timestamp": "2020-05-19T16:50:40.583Z"
+    "_version_": 1684903545637175296,
+    "timestamp": "2020-12-01T19:00:37.101Z"
 }

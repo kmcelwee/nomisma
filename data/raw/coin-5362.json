@@ -38,8 +38,14 @@
         "7.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5362\",\"call_number_browse\":\"Coin 5362\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; 3/1960; Monete e Medaglie #150, lire 15,000"
     ],
     "pub_date_start_sort": -450,
     "pub_date_end_sort": -440,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3004"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +106,12 @@
         "Vlasto Coll.  185"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-450 to -440"
+    ],
     "hashed_id_s": [
         "f68ccf8078e4f56a"
     ],
-    "_version_": 1667138247034142720,
-    "timestamp": "2020-05-19T16:48:48.097Z"
+    "_version_": 1684903469619609600,
+    "timestamp": "2020-12-01T18:59:24.606Z"
 }

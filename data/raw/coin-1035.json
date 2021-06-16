@@ -35,6 +35,12 @@
         "13.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1035\",\"call_number_browse\":\"Coin 1035\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "116: 1991-01-01 Spink"
+    ],
     "pub_date_start_sort": 1,
     "pub_date_end_sort": 2,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "485"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +106,15 @@
         "RPC.1 Supplement 4650A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "1 to 2"
+    ],
     "hashed_id_s": [
         "e061cd55c27ff058"
     ],
-    "_version_": 1667138206485708800,
-    "timestamp": "2020-05-19T16:48:09.426Z"
+    "_version_": 1684902972645965824,
+    "timestamp": "2020-12-01T18:51:30.652Z"
 }

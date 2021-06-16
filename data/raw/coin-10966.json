@@ -35,8 +35,14 @@
         "3.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10966\",\"call_number_browse\":\"Coin 10966\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 11/10/2009"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7127"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 3 Moden Forgery Type Ia2/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "6182e12ad5d8d540"
     ],
-    "_version_": 1667138172966928384,
-    "timestamp": "2020-05-19T16:47:37.459Z"
+    "_version_": 1684903042224226304,
+    "timestamp": "2020-12-01T18:52:37.007Z"
 }

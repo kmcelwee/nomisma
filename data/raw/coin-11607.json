@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/16/1937"
+        "1937-04-16"
+    ],
+    "find_feature_s": [
+        "Trench A, S. of room, Lion mosaic"
     ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
-        "Ca568"
+        "Ca0568"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +50,12 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11607\",\"call_number_browse\":\"Coin 11607\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 333,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7727"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +110,12 @@
         "RIC 7 579 59"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 333"
+    ],
     "hashed_id_s": [
         "8f7b9e2eb2ad2c42"
     ],
-    "_version_": 1667138129479335936,
-    "timestamp": "2020-05-19T16:46:55.988Z"
+    "_version_": 1696225268872511488,
+    "timestamp": "2021-04-05T18:14:33.772Z"
 }

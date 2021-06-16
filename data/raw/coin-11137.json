@@ -38,8 +38,14 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11137\",\"call_number_browse\":\"Coin 11137\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 0/16/2014; 18 (41)"
     ],
     "pub_date_start_sort": 531,
     "pub_date_end_sort": 578,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7298"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  WH Type II/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "062c69d7d4b1cd11"
     ],
-    "_version_": 1667138162557714432,
-    "timestamp": "2020-05-19T16:47:27.535Z"
+    "_version_": 1684903420690956288,
+    "timestamp": "2020-12-01T18:58:37.942Z"
 }

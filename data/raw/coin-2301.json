@@ -38,8 +38,8 @@
         "4.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2301\",\"call_number_browse\":\"Coin 2301\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_accession_s": [
+        "274:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shilling"
-    ],
-    "issue_number_s": [
-        "1478"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +90,12 @@
         "Noe  30"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place, London  England  Great Britain"
+    ],
     "hashed_id_s": [
         "26c04f00d1c1b4a8"
     ],
-    "_version_": 1667138422051962880,
-    "timestamp": "2020-05-19T16:51:35.008Z"
+    "_version_": 1684903200436518912,
+    "timestamp": "2020-12-01T18:55:07.892Z"
 }

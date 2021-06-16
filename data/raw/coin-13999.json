@@ -2,7 +2,7 @@
     "id": "coin-13999",
     "title_display": "Coin: 13999",
     "pub_created_display": [
-        "Diocletian, antoninianus, Antioch"
+        "Diocletian   (284 to 305), antoninianus, Antioch"
     ],
     "call_number_display": [
         "Coin 13999"
@@ -35,28 +35,31 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13999\",\"call_number_browse\":\"Coin 13999\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "325:  unknown"
+    ],
+    "pub_date_start_sort": 285,
+    "pub_date_end_sort": 285,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "9024"
-    ],
     "issue_metal_s": [
-        "Silvered bronze"
+        "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
-        "Diocletian"
+        "Diocletian   (284 to 305)"
+    ],
+    "issue_workshop_s": [
+        "\u03c2"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -71,40 +74,54 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
-        "radiate"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "radiate, draped, cuirassed"
+    ],
     "issue_obverse_legend_s": [
-        "IMPCCVALDIOCLETIANVSPFAVG"
+        "IMP C C VAL DIOCLETIANVS P F AVG"
     ],
     "issue_reverse_figure_s": [
-        "Hercules and Jupiter"
+        "Jupiter"
+    ],
+    "issue_reverse_symbol_s": [
+        "crescent on \u03c2"
     ],
     "issue_reverse_part_s": [
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "facing each other"
+        "right"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Hercules, standing left"
     ],
     "issue_reverse_legend_s": [
-        "IOVETHERCUCONSERAVGG | XXI"
+        "IOV ET HERCV CONSER AVGG / XXI"
     ],
     "issue_reverse_attributes_s": [
-        "crescent, Horizontal",
-        "S"
+        "globe, in r. hand",
+        "sceptre, in l. hand",
+        "Victory, in Hercules's r. hand",
+        "club and lion's skin, in Hercules's l. hand"
     ],
     "issue_references_s": [
-        "Probus to Amandus 256 323"
+        "RIC V  Diocletian 323"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "285 to 285"
+    ],
     "hashed_id_s": [
         "114d84edd645bdba"
     ],
-    "_version_": 1667146086907641856,
-    "timestamp": "2020-05-19T18:53:24.781Z"
+    "_version_": 1684903373834289152,
+    "timestamp": "2020-12-01T18:57:53.257Z"
 }

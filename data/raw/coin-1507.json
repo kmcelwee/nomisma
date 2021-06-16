@@ -35,8 +35,11 @@
         "9.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1507\",\"call_number_browse\":\"Coin 1507\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -5,
     "pub_date_end_sort": -3,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "902"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,16 @@
         "RPC.1 1 278"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Domitus, C.",
+        "Other Person, Pompeius, Cn."
+    ],
+    "issue_date_s": [
+        "-5 to -3"
+    ],
     "hashed_id_s": [
         "6aa592368e5b7184"
     ],
-    "_version_": 1667138127948414976,
-    "timestamp": "2020-05-19T16:46:54.528Z"
+    "_version_": 1684903657482485760,
+    "timestamp": "2020-12-01T19:02:23.762Z"
 }

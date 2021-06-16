@@ -38,6 +38,12 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12803\",\"call_number_browse\":\"Coin 12803\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -2,
     "issue_object_type_s": [
@@ -93,9 +99,12 @@
         "Shore  283"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -2"
+    ],
     "hashed_id_s": [
         "516c694d746fef1a"
     ],
-    "_version_": 1673001896511537152,
-    "timestamp": "2020-07-23T10:09:00.001Z"
+    "_version_": 1684903667835076608,
+    "timestamp": "2020-12-01T19:02:33.638Z"
 }

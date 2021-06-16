@@ -50,6 +50,12 @@
         "0.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8259\",\"call_number_browse\":\"Coin 8259\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "1/4 denier"
-    ],
-    "issue_number_s": [
-        "5268"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,6 +105,6 @@
     "hashed_id_s": [
         "e2e74770b7b93879"
     ],
-    "_version_": 1667144976130113536,
-    "timestamp": "2020-05-19T18:35:45.476Z"
+    "_version_": 1684903367231406080,
+    "timestamp": "2020-12-01T18:57:46.958Z"
 }

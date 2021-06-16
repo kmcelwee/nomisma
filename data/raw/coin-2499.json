@@ -35,8 +35,11 @@
         "0.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2499\",\"call_number_browse\":\"Coin 2499\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1205,
     "pub_date_end_sort": 1229,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "mezzo denaro"
-    ],
-    "issue_number_s": [
-        "1578"
     ],
     "issue_metal_s": [
         "Mixed"
@@ -90,13 +90,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 93, 4",
-        "CNI, 7  II.2.7",
+        "CNI, 7  31, 7",
         "MEC 12 640"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1205 to 1229"
+    ],
     "hashed_id_s": [
         "0a611ffd3c53237d"
     ],
-    "_version_": 1667138220935086080,
-    "timestamp": "2020-05-19T16:48:23.205Z"
+    "_version_": 1684903102497423360,
+    "timestamp": "2020-12-01T18:53:34.490Z"
 }

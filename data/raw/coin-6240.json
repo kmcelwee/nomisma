@@ -29,6 +29,12 @@
         "70x91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6240\",\"call_number_browse\":\"Coin 6240\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "5 dollars"
-    ],
-    "issue_number_s": [
-        "3685"
     ],
     "issue_metal_s": [
         "Paper"
@@ -71,6 +74,6 @@
     "hashed_id_s": [
         "89a39240b580cdc5"
     ],
-    "_version_": 1667138378635673600,
-    "timestamp": "2020-05-19T16:50:53.602Z"
+    "_version_": 1684903118849966080,
+    "timestamp": "2020-12-01T18:53:50.083Z"
 }

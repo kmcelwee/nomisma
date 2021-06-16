@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/04/1937"
@@ -50,6 +50,12 @@
         "0.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2387\",\"call_number_browse\":\"Coin 2387\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "1531"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +112,16 @@
         "Houghton  24"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zeus",
+        "Category, thunderbolt"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "eaeb6b4dca1a5553"
     ],
-    "_version_": 1669841507318759424,
-    "timestamp": "2020-06-18T12:55:58.003Z"
+    "_version_": 1684903317260468224,
+    "timestamp": "2020-12-01T18:56:59.303Z"
 }

@@ -38,8 +38,11 @@
         "3.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5572\",\"call_number_browse\":\"Coin 5572\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1190,
     "pub_date_end_sort": 1194,
@@ -49,14 +52,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "3159"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Guang Zhong \u5149\u5b97 (Zhao Dun \u8d99\u60c7) (1190 to 1194)"
@@ -75,9 +75,12 @@
         "Hartill 178 17.319"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1190 to 1194"
+    ],
     "hashed_id_s": [
         "f55cd9217fc3ae91"
     ],
-    "_version_": 1667138248418263040,
-    "timestamp": "2020-05-19T16:48:49.416Z"
+    "_version_": 1684903119429828608,
+    "timestamp": "2020-12-01T18:53:50.638Z"
 }

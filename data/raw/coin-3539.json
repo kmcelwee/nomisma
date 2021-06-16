@@ -35,8 +35,11 @@
         "7.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3539\",\"call_number_browse\":\"Coin 3539\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "376: 1986-01-01 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1,
     "pub_date_end_sort": 5,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2074"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC.1.  27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1 to 5"
+    ],
     "hashed_id_s": [
         "1634d1afa8f04525"
     ],
-    "_version_": 1667138434965176320,
-    "timestamp": "2020-05-19T16:51:47.319Z"
+    "_version_": 1684903283822428160,
+    "timestamp": "2020-12-01T18:56:27.413Z"
 }

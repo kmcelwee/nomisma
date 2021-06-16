@@ -38,8 +38,11 @@
         "1.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12191\",\"call_number_browse\":\"Coin 12191\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 1160,
     "pub_date_end_sort": 1167,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "half-tetarteron"
-    ],
-    "issue_number_s": [
-        "8226"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +100,12 @@
         "Sear  1981"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1160 to 1167"
+    ],
     "hashed_id_s": [
         "620c2a7bd8dab3bd"
     ],
-    "_version_": 1667138302037196800,
-    "timestamp": "2020-05-19T16:49:40.551Z"
+    "_version_": 1684903513618907136,
+    "timestamp": "2020-12-01T19:00:06.566Z"
 }

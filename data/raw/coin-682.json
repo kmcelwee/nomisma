@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 682\",\"call_number_browse\":\"Coin 682\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -27,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "287"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +94,17 @@
         "Sear  1552"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, victory",
+        "Category, palm",
+        "Category, wreath"
+    ],
+    "issue_date_s": [
+        "-34 to -27"
+    ],
     "hashed_id_s": [
         "255c9582186cf59a"
     ],
-    "_version_": 1667145311519244288,
-    "timestamp": "2020-05-19T18:42:23.907Z"
+    "_version_": 1684903414886039552,
+    "timestamp": "2020-12-01T18:58:32.405Z"
 }

@@ -53,6 +53,9 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7864\",\"call_number_browse\":\"Coin 7864\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 737,
     "pub_date_end_sort": 757,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4925"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "BMC  817"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 757"
+    ],
     "hashed_id_s": [
         "132f88663458c262"
     ],
-    "_version_": 1667138263548166144,
-    "timestamp": "2020-05-19T16:49:03.845Z"
+    "_version_": 1684902997692252160,
+    "timestamp": "2020-12-01T18:51:54.538Z"
 }

@@ -35,6 +35,9 @@
         "1.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6525\",\"call_number_browse\":\"Coin 6525\"}}",
+    "numismatic_accession_s": [
+        "353: 2008-01-15 Candiotti, Keith"
+    ],
     "pub_date_start_sort": 1294,
     "pub_date_end_sort": 1328,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "basilicon"
-    ],
-    "issue_number_s": [
-        "3946"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Sear  2402"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1294 to 1328"
+    ],
     "hashed_id_s": [
         "3a1a6c08ac38b14c"
     ],
-    "_version_": 1667138367188369408,
-    "timestamp": "2020-05-19T16:50:42.684Z"
+    "_version_": 1684903255190011904,
+    "timestamp": "2020-12-01T18:56:00.109Z"
 }

@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "dupondius"
     ],
-    "issue_number_s": [
-        "1740"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -97,6 +94,6 @@
     "hashed_id_s": [
         "fb22c279861e536b"
     ],
-    "_version_": 1667138426858635264,
-    "timestamp": "2020-05-19T16:51:39.592Z"
+    "_version_": 1683105491224363008,
+    "timestamp": "2020-11-11T22:41:18.787Z"
 }

@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "2/3 dollar"
     ],
-    "issue_number_s": [
-        "3512"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -74,6 +71,6 @@
     "hashed_id_s": [
         "c770d847cfcef09b"
     ],
-    "_version_": 1667138385784864768,
-    "timestamp": "2020-05-19T16:51:00.420Z"
+    "_version_": 1684903560829992960,
+    "timestamp": "2020-12-01T19:00:51.589Z"
 }

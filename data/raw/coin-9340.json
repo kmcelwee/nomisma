@@ -35,8 +35,8 @@
         "19.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9340\",\"call_number_browse\":\"Coin 9340\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 539,
     "pub_date_end_sort": 540,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5958"
     ],
     "issue_metal_s": [
         "Copper"
@@ -101,9 +98,12 @@
         "BMC Justinian I 47"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "539 to 540"
+    ],
     "hashed_id_s": [
         "8775976d98797f65"
     ],
-    "_version_": 1667138145938833408,
-    "timestamp": "2020-05-19T16:47:11.684Z"
+    "_version_": 1684903398857506816,
+    "timestamp": "2020-12-01T18:58:17.121Z"
 }

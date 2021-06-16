@@ -47,6 +47,12 @@
         "1.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 119\",\"call_number_browse\":\"Coin 119\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 517,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "65"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,9 +110,12 @@
         "Sear  29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 517"
+    ],
     "hashed_id_s": [
         "e7c60d54d7befa7d"
     ],
-    "_version_": 1667138447272312832,
-    "timestamp": "2020-05-19T16:51:59.059Z"
+    "_version_": 1684903586274738176,
+    "timestamp": "2020-12-01T19:01:15.856Z"
 }

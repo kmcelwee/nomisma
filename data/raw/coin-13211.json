@@ -35,8 +35,11 @@
         "2.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13211\",\"call_number_browse\":\"Coin 13211\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -204,
     "pub_date_end_sort": -197,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8560"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,12 +92,15 @@
         "m8560, outer left"
     ],
     "issue_references_s": [
-        "H & L I, 445 1188"
+        "H & L I, 445 1188a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-204 to -197"
+    ],
     "hashed_id_s": [
         "7aaa9823413cbd6f"
     ],
-    "_version_": 1667138159626944512,
-    "timestamp": "2020-05-19T16:47:24.738Z"
+    "_version_": 1684902921829875712,
+    "timestamp": "2020-12-01T18:50:42.190Z"
 }

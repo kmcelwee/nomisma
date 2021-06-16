@@ -2,7 +2,7 @@
     "id": "coin-6536",
     "title_display": "Coin: 6536",
     "pub_created_display": [
-        "Julian (355 to 360), Antioch"
+        "Constantius II (337 to 361), AE3, Antioch"
     ],
     "call_number_display": [
         "Coin 6536"
@@ -31,9 +31,6 @@
     "find_date_s": [
         "07/17/1937"
     ],
-    "find_feature_s": [
-        "under geometic mosaic"
-    ],
     "find_locus_s": [
         "DH 30-Q"
     ],
@@ -41,7 +38,7 @@
         "Ca2713"
     ],
     "find_description_s": [
-        "sealed deposit Ca2704-Ca2713"
+        "Green mosaic dig, room 1, under Geometric mosaic, second level, sealed deposit, to 1m"
     ],
     "die_axis_s": [
         "12"
@@ -53,19 +50,25 @@
         "1.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6536\",\"call_number_browse\":\"Coin 6536\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 355,
     "pub_date_end_sort": 361,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "4069"
+    "issue_denomination_s": [
+        "AE3"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Julian (355 to 360)"
+        "Constantius II (337 to 361)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -89,7 +92,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bust r., diad., draped or draped and cuir. with border of dots"
+        "diademed, draped or draped and cuirassed, with border of dots"
     ],
     "issue_obverse_legend_s": [
         "DCONSTAN TIVSPFAVG"
@@ -97,22 +100,31 @@
     "issue_reverse_figure_s": [
         "Emperor"
     ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
     "issue_reverse_orientation_s": [
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "emperor l. with globe, leaning on spear with border of dots"
+        "leaning on spear within border of dots"
     ],
     "issue_reverse_legend_s": [
         "SPESREI PVBLICE"
     ],
+    "issue_reverse_attributes_s": [
+        "globe, in r. hand"
+    ],
     "issue_references_s": [
-        "RIC VII, pg. 528 193"
+        "RIC VIII Antioch 193"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "355 to 361"
+    ],
     "hashed_id_s": [
         "9182948db5cfa524"
     ],
-    "_version_": 1667138363894792192,
-    "timestamp": "2020-05-19T16:50:39.544Z"
+    "_version_": 1684902922179051520,
+    "timestamp": "2020-12-01T18:50:42.523Z"
 }

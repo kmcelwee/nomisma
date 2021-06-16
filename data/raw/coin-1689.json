@@ -35,8 +35,11 @@
         "17.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1689\",\"call_number_browse\":\"Coin 1689\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "105: 1923-01-01 Anonymous Class of '64"
     ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1080"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "RIC.1. 1 p. 43"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "c438323f44e18468"
     ],
-    "_version_": 1667138466293481472,
-    "timestamp": "2020-05-19T16:52:17.198Z"
+    "_version_": 1684903296121176064,
+    "timestamp": "2020-12-01T18:56:39.143Z"
 }

@@ -111,9 +111,12 @@
         "Schl.  III16b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1270"
+    ],
     "hashed_id_s": [
         "b74cf891142e9ee2"
     ],
-    "_version_": 1674260551404879872,
-    "timestamp": "2020-08-06T07:34:46.851Z"
+    "_version_": 1684903323922071552,
+    "timestamp": "2020-12-01T18:57:05.656Z"
 }

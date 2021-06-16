@@ -35,8 +35,11 @@
         "2.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14955\",\"call_number_browse\":\"Coin 14955\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
     ],
     "pub_date_start_sort": 1229,
     "pub_date_end_sort": 1249,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "9169"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Pap. 1 98, 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1229 to 1249"
+    ],
     "hashed_id_s": [
         "4c8496ccc5034510"
     ],
-    "_version_": 1667223560935964672,
-    "timestamp": "2020-05-20T15:24:49.784Z"
+    "_version_": 1684903338032758784,
+    "timestamp": "2020-12-01T18:57:19.114Z"
 }

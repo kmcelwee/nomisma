@@ -25,20 +25,23 @@
     "advanced_location_s": [
         "num"
     ],
+    "notes_display": [
+        "Mint Mark not visible"
+    ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/26/1934"
+        "1934-05-26"
     ],
     "find_feature_s": [
-        "Hippodrome"
+        "Above spina, N. end"
+    ],
+    "find_locus_s": [
+        "[None recorded]"
     ],
     "find_number_s": [
         "C2983"
-    ],
-    "find_description_s": [
-        "above Spina Nend"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +53,9 @@
         "2.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7558\",\"call_number_browse\":\"Coin 7558\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 314,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4723"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,16 +107,19 @@
         "Jupiter stg. L., chlamys across l. shoulder, leaning on scepter, Victory on globe in r. hand; eagle with wreath to l. on ground."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONVER-VATORI AUGG"
+        "IOVI CONVER-VATORI AUGG | ANT"
     ],
     "issue_references_s": [
-        "RIC, VII 677 12",
+        "RIC VII Antioch 12",
         "Numismatique Constantinienne III. 182, 183. I. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "314 to 315"
+    ],
     "hashed_id_s": [
         "2241672ebce03426"
     ],
-    "_version_": 1667138351404154880,
-    "timestamp": "2020-05-19T16:50:27.629Z"
+    "_version_": 1690831036739485696,
+    "timestamp": "2021-02-05T05:15:33.119Z"
 }

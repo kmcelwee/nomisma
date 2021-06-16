@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "penta-chalkon"
     ],
-    "issue_number_s": [
-        "4576"
-    ],
     "issue_shape_s": [
         "rectangle"
     ],
@@ -95,9 +92,12 @@
         "Mitchiner vol. 6 pg. 503 763"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to -20"
+    ],
     "hashed_id_s": [
         "b6e285a0dd57f131"
     ],
-    "_version_": 1667138354176589824,
-    "timestamp": "2020-05-19T16:50:30.274Z"
+    "_version_": 1684903250524897280,
+    "timestamp": "2020-12-01T18:55:55.662Z"
 }

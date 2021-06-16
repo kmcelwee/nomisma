@@ -35,8 +35,12 @@
         "6.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6594\",\"call_number_browse\":\"Coin 6594\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Gans/NFA; April 19th, 1960; $25",
+        "Naville, Lucerne; 1923; Naville 5, 278"
     ],
     "pub_date_start_sort": -340,
     "pub_date_end_sort": -325,
@@ -45,9 +49,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "4010"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +97,12 @@
         "F-B  751"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-340 to -325"
+    ],
     "hashed_id_s": [
         "0c99c23c1e3c5779"
     ],
-    "_version_": 1667138368276791296,
-    "timestamp": "2020-05-19T16:50:43.721Z"
+    "_version_": 1684903547854913536,
+    "timestamp": "2020-12-01T19:00:39.215Z"
 }

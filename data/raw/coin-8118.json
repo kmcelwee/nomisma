@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "03/30/1938"
+        "1938-03-30"
     ],
     "find_feature_s": [
-        "Trench 2, Surface"
+        "Trench 2, surface"
     ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
-        "Cb118"
+        "Cb0118"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "2.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8118\",\"call_number_browse\":\"Coin 8118\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 317,
     "pub_date_end_sort": 320,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5142"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "Numismatique Constantinienne III p. 34, V 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "afbde7c4090f87ca"
     ],
-    "_version_": 1667138266561773568,
-    "timestamp": "2020-05-19T16:49:06.717Z"
+    "_version_": 1694236229528190976,
+    "timestamp": "2021-03-14T19:19:38.034Z"
 }

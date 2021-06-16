@@ -35,8 +35,11 @@
         "3.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1241\",\"call_number_browse\":\"Coin 1241\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -399,
     "pub_date_end_sort": -300,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "697"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,15 @@
         "Sear  2287"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, pegasus"
+    ],
+    "issue_date_s": [
+        "-399 to -300"
+    ],
     "hashed_id_s": [
         "be8157e949ee1b8a"
     ],
-    "_version_": 1667138409573908480,
-    "timestamp": "2020-05-19T16:51:23.107Z"
+    "_version_": 1684903183045885952,
+    "timestamp": "2020-12-01T18:54:51.304Z"
 }

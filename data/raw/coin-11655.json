@@ -38,6 +38,9 @@
         "3.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11655\",\"call_number_browse\":\"Coin 11655\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7761"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Paruck  312"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "e87aa97493ec4ded"
     ],
-    "_version_": 1667138296526929920,
-    "timestamp": "2020-05-19T16:49:35.298Z"
+    "_version_": 1684903043526557696,
+    "timestamp": "2020-12-01T18:52:38.251Z"
 }

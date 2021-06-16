@@ -2,7 +2,7 @@
     "id": "coin-8238",
     "title_display": "Coin: 8238",
     "pub_created_display": [
-        "Justin II (565 to 578), 20 nummi, Antioch"
+        "Justin II   (565 to 574), 20 nummi, Antioch"
     ],
     "call_number_display": [
         "Coin 8238"
@@ -50,6 +50,12 @@
         "9.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8238\",\"call_number_browse\":\"Coin 8238\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 566,
     "pub_date_end_sort": 567,
     "issue_object_type_s": [
@@ -58,14 +64,11 @@
     "issue_denomination_s": [
         "20 nummi"
     ],
-    "issue_number_s": [
-        "5250"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Justin II (565 to 578)"
+        "Justin II   (565 to 574)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Byzantium"
@@ -106,9 +109,12 @@
         "BMC 94 213"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "566 to 567"
+    ],
     "hashed_id_s": [
         "bba239f1bddd1f0d"
     ],
-    "_version_": 1667144891748057088,
-    "timestamp": "2020-05-19T18:34:25.045Z"
+    "_version_": 1684903016068546560,
+    "timestamp": "2020-12-01T18:52:12.064Z"
 }

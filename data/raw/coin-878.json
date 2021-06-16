@@ -35,6 +35,9 @@
         "0.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 878\",\"call_number_browse\":\"Coin 878\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1189,
     "pub_date_end_sort": 1199,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "360"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "P.d'A.  2536"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1189 to 1199"
+    ],
     "hashed_id_s": [
         "fea7ac39b1746a38"
     ],
-    "_version_": 1667138452974469120,
-    "timestamp": "2020-05-19T16:52:04.496Z"
+    "_version_": 1684903291036631040,
+    "timestamp": "2020-12-01T18:56:34.294Z"
 }

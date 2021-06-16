@@ -38,8 +38,11 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12337\",\"call_number_browse\":\"Coin 12337\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -138,
     "pub_date_end_sort": -127,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8287"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Shore  50"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-138 to -127"
+    ],
     "hashed_id_s": [
         "90b4592e68472980"
     ],
-    "_version_": 1667138280670363648,
-    "timestamp": "2020-05-19T16:49:20.175Z"
+    "_version_": 1684903023904555008,
+    "timestamp": "2020-12-01T18:52:19.538Z"
 }

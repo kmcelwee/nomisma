@@ -41,6 +41,12 @@
         "124.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7019\",\"call_number_browse\":\"Coin 7019\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -230,
     "pub_date_end_sort": -226,
     "issue_object_type_s": [
@@ -49,11 +55,11 @@
     "issue_denomination_s": [
         "semis"
     ],
-    "issue_number_s": [
-        "2853"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -70,26 +76,34 @@
     "issue_obverse_figure_s": [
         "Minerva"
     ],
-    "issue_obverse_symbol_s": [
-        "S and club"
-    ],
     "issue_obverse_part_s": [
         "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "wearing Corinthian helmet"
+    ],
+    "issue_obverse_attributes_s": [
+        "club, below head",
+        "S, below head"
+    ],
     "issue_reverse_figure_s": [
         "Minerva"
-    ],
-    "issue_reverse_symbol_s": [
-        "S and club"
     ],
     "issue_reverse_part_s": [
         "head"
     ],
     "issue_reverse_orientation_s": [
         "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "wearing Corinthian helmet"
+    ],
+    "issue_reverse_attributes_s": [
+        "club, below head",
+        "S, below head"
     ],
     "issue_references_s": [
         "Haeb. pl. 29 1-4",
@@ -99,9 +113,12 @@
         "Sear  537"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-230 to -226"
+    ],
     "hashed_id_s": [
         "80a5b97391860c5f"
     ],
-    "_version_": 1667138473422749696,
-    "timestamp": "2020-05-19T16:52:23.998Z"
+    "_version_": 1684903699267190784,
+    "timestamp": "2020-12-01T19:03:03.613Z"
 }

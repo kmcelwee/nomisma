@@ -35,8 +35,14 @@
         "3.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10752\",\"call_number_browse\":\"Coin 10752\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Tom Mallon; 10/21/2002"
     ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6913"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style D/2 Type Ia/4b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "ba5d78c7ae87b1c2"
     ],
-    "_version_": 1667138173438787584,
-    "timestamp": "2020-05-19T16:47:37.911Z"
+    "_version_": 1684902950376308736,
+    "timestamp": "2020-12-01T18:51:09.417Z"
 }

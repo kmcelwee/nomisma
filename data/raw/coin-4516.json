@@ -35,6 +35,15 @@
         "12.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4516\",\"call_number_browse\":\"Coin 4516\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1930; $1.80"
+    ],
     "pub_date_start_sort": 56,
     "pub_date_end_sort": 57,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1096"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +98,12 @@
         "RPC.1  5210"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "56 to 57"
+    ],
     "hashed_id_s": [
         "256169f68ae72757"
     ],
-    "_version_": 1667138213768069120,
-    "timestamp": "2020-05-19T16:48:16.372Z"
+    "_version_": 1684902979253043200,
+    "timestamp": "2020-12-01T18:51:36.953Z"
 }

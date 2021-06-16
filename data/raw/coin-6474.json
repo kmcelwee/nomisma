@@ -35,8 +35,14 @@
         "4.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6474\",\"call_number_browse\":\"Coin 6474\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
+    ],
+    "numismatic_provenance_s": [
+        "Moses Taylor Pyne; ; "
     ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 355,
@@ -46,11 +52,11 @@
     "issue_denomination_s": [
         "solidus"
     ],
-    "issue_number_s": [
-        "3898"
-    ],
     "issue_metal_s": [
         "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Constantius II (337 to 361)"
@@ -91,20 +97,22 @@
     "issue_reverse_orientation_s": [
         "facing each other"
     ],
-    "issue_reverse_figure_description_s": [
-        "holding shield inscribed VOT | XX | MVLT | XXX"
-    ],
     "issue_reverse_legend_s": [
         "GLORIA REI PUBLICAE | SMANS"
     ],
+    "issue_reverse_attributes_s": [
+        "shield, held in between, inscribed VOT | XX | MVLT | XXX"
+    ],
     "issue_references_s": [
-        "RIC.8 p.518 81v",
-        "Hims  "
+        "RIC VIII Antioch 81v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 355"
+    ],
     "hashed_id_s": [
         "a0d1a99b36dabd7b"
     ],
-    "_version_": 1667138369908375552,
-    "timestamp": "2020-05-19T16:50:45.279Z"
+    "_version_": 1684903690774773760,
+    "timestamp": "2020-12-01T19:02:55.514Z"
 }

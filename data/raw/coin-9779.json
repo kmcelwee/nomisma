@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/09/1938"
+        "1938-04-09"
     ],
     "find_feature_s": [
-        "Trench 4"
+        "Surface, 3-3.5m (A1)"
     ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
-        "Cb350"
-    ],
-    "find_description_s": [
-        "\"Surface soil from -3 to -3.50 (A1)\""
+        "Cb0350"
     ],
     "die_axis_s": [
         "4"
@@ -53,6 +50,9 @@
         "1.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9779\",\"call_number_browse\":\"Coin 9779\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -110,13 +110,16 @@
         "GLOR[IA EXER]C ITVS | SMANA"
     ],
     "issue_references_s": [
-        "RIC.7 Vol.7, p697 108",
+        "RIC VII Antioch 108",
         "Waage p118 1405"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "ee1d49ae3e2c0466"
     ],
-    "_version_": 1674171455865094144,
-    "timestamp": "2020-08-05T07:58:38.718Z"
+    "_version_": 1684903688197373952,
+    "timestamp": "2020-12-01T19:02:53.056Z"
 }

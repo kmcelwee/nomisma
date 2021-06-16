@@ -38,6 +38,9 @@
         "1.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8775\",\"call_number_browse\":\"Coin 8775\"}}",
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "miliaresion"
-    ],
-    "issue_number_s": [
-        "5577"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,12 @@
         "BL Michael VII 55/Cp/AR/01v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "04d3c47dab321645"
     ],
-    "_version_": 1667138181570494464,
-    "timestamp": "2020-05-19T16:47:45.664Z"
+    "_version_": 1684903416375017472,
+    "timestamp": "2020-12-01T18:58:33.826Z"
 }

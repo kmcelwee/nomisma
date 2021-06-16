@@ -2,7 +2,7 @@
     "id": "coin-8273",
     "title_display": "Coin: 8273",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 8273"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/10/1939"
+        "1939-05-10"
     ],
     "find_feature_s": [
-        "stratum of breown earth above mosaic level"
+        "(B baskets)"
     ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc1199"
-    ],
-    "find_description_s": [
-        "with B baskets"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "2.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8273\",\"call_number_browse\":\"Coin 8273\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -61,14 +64,14 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5275"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
+    ],
+    "issue_workshop_s": [
+        "SMAN"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -113,12 +116,15 @@
         "PROVIDEN-TIAE CAESS"
     ],
     "issue_references_s": [
-        "RIC 7 688.65"
+        "RIC VII Antioch 65"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "057a21807ef8a728"
     ],
-    "_version_": 1667138347599921152,
-    "timestamp": "2020-05-19T16:50:24.005Z"
+    "_version_": 1690436227608608768,
+    "timestamp": "2021-01-31T20:40:13.796Z"
 }

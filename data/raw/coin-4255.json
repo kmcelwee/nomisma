@@ -35,6 +35,15 @@
         "2.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4255\",\"call_number_browse\":\"Coin 4255\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Adolph E Cahn; Ernst Justus Haeberlin; 1933; #2794, $7.50"
+    ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2404"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +109,12 @@
         "Sear  458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "9ace2e02c36d1b62"
     ],
-    "_version_": 1667138492753248256,
-    "timestamp": "2020-05-19T16:52:42.434Z"
+    "_version_": 1684903628370870272,
+    "timestamp": "2020-12-01T19:01:56.006Z"
 }

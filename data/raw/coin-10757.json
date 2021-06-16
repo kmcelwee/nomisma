@@ -38,8 +38,14 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10757\",\"call_number_browse\":\"Coin 10757\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 04/22/2005"
     ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6918"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 2 Incerta e Type Ia/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "229cc0bd1c8ba4a6"
     ],
-    "_version_": 1667138173371678720,
-    "timestamp": "2020-05-19T16:47:37.848Z"
+    "_version_": 1684902950285082624,
+    "timestamp": "2020-12-01T18:51:09.330Z"
 }

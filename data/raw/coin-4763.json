@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4763\",\"call_number_browse\":\"Coin 4763\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1926; $6.70"
+    ],
     "pub_date_start_sort": -37,
     "pub_date_end_sort": -37,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2591"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +104,12 @@
         "RIC.1.  36"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-37 to -37"
+    ],
     "hashed_id_s": [
         "955f978b0bd70fcd"
     ],
-    "_version_": 1667138240403996672,
-    "timestamp": "2020-05-19T16:48:41.774Z"
+    "_version_": 1684903003835858944,
+    "timestamp": "2020-12-01T18:52:00.397Z"
 }

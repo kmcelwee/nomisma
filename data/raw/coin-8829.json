@@ -35,6 +35,12 @@
         "1.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8829\",\"call_number_browse\":\"Coin 8829\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1574,
     "pub_date_end_sort": 1587,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half-julio"
-    ],
-    "issue_number_s": [
-        "5625"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "CNI XII, 300 128"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1574 to 1587"
+    ],
     "hashed_id_s": [
         "94205c961f6f4521"
     ],
-    "_version_": 1667138153347022848,
-    "timestamp": "2020-05-19T16:47:18.748Z"
+    "_version_": 1684903408166764544,
+    "timestamp": "2020-12-01T18:58:26Z"
 }

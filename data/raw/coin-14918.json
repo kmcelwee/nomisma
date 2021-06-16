@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/02/1934"
@@ -47,6 +47,9 @@
         "1.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14918\",\"call_number_browse\":\"Coin 14918\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": -223,
     "pub_date_end_sort": -211,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "9139"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,16 +99,20 @@
     ],
     "issue_reverse_attributes_s": [
         "arrow, in r. hand",
-        "on grounded bow, l. hand"
+        "on grounded bow, l. hand",
+        "\u0398, in inner l. field"
     ],
     "issue_references_s": [
-        "H & L I, v.I 1059.1",
+        "H & L I, v.I 1059.1b",
         "Waage  91"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-223 to -211"
+    ],
     "hashed_id_s": [
         "bba726f7005a9452"
     ],
-    "_version_": 1670296771944775680,
-    "timestamp": "2020-06-23T13:32:12.194Z"
+    "_version_": 1684903339406393344,
+    "timestamp": "2020-12-01T18:57:20.424Z"
 }

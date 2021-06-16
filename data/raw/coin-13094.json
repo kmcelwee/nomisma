@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/11/1936"
-    ],
-    "find_feature_s": [
-        "In black earth stratum N. of room l."
+        "04/11/1936"
     ],
     "find_locus_s": [
-        "26-O&P"
+        "DH 26-O/P"
     ],
     "find_number_s": [
         "C6036"
+    ],
+    "find_description_s": [
+        "N. of room 1, in black earth stratum"
     ],
     "die_axis_s": [
         "6"
@@ -50,6 +50,12 @@
         "2.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13094\",\"call_number_browse\":\"Coin 13094\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 270,
     "pub_date_end_sort": 275,
     "issue_object_type_s": [
@@ -58,29 +64,35 @@
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8515"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
     ],
+    "issue_workshop_s": [
+        "C*"
+    ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -89,30 +101,39 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPAVRELIANVSAVG"
+        "IMP AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
-        "Emperor and Jupiter"
+        "Emperor"
+    ],
+    "issue_reverse_symbol_s": [
+        "C*"
     ],
     "issue_reverse_part_s": [
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "facing each other"
+        "right"
     ],
     "issue_reverse_figure_description_s": [
-        "emperor standing r. receiving globe from Jupiter, standing l., holding scepter"
+        "received globe from Jupiter, holding sceptre"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "facing each other"
     ],
     "issue_reverse_legend_s": [
-        "FIDESMILITVM | C and star"
+        "FIDES MILITVM"
     ],
     "issue_references_s": [
-        "RIC V, I, p.303 344"
+        "RIC V  Aurelian 344"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "61248d5093ae9b39"
     ],
-    "_version_": 1667138336356040704,
-    "timestamp": "2020-05-19T16:50:13.279Z"
+    "_version_": 1684903528530706432,
+    "timestamp": "2020-12-01T19:00:20.787Z"
 }

@@ -29,7 +29,7 @@
         "Central hole on each side"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "5/7/1937"
@@ -53,6 +53,12 @@
         "4.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7980\",\"call_number_browse\":\"Coin 7980\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -150,
     "pub_date_end_sort": -145,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "5015"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -88,9 +91,6 @@
     "issue_obverse_figure_s": [
         "Alexander I"
     ],
-    "issue_obverse_symbol_s": [
-        "lion's skin"
-    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -104,7 +104,7 @@
         "Apollo"
     ],
     "issue_reverse_symbol_s": [
-        "cornucopia"
+        "cornucopiae"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -118,12 +118,19 @@
     "issue_reverse_attributes_s": [
         "bow, in l. hand",
         "arrow, in extended r. hand",
-        "cornucopia, in outer l. field"
+        "cornucopiae, in outer l. field",
+        "monogram, in exergue"
+    ],
+    "issue_references_s": [
+        "H & L  1795.1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-150 to -145"
+    ],
     "hashed_id_s": [
         "849d3227a1fbc388"
     ],
-    "_version_": 1670005588146257920,
-    "timestamp": "2020-06-20T08:23:57.718Z"
+    "_version_": 1684902892531613696,
+    "timestamp": "2020-12-01T18:50:14.249Z"
 }

@@ -35,8 +35,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8225\",\"call_number_browse\":\"Coin 8225\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -200,
     "pub_date_end_sort": -175,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "5236"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "CNH 87 40/41"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-200 to -175"
+    ],
     "hashed_id_s": [
         "cea87d7fdbf6471c"
     ],
-    "_version_": 1667138113141473280,
-    "timestamp": "2020-05-19T16:46:40.407Z"
+    "_version_": 1684902931596312576,
+    "timestamp": "2020-12-01T18:50:51.504Z"
 }

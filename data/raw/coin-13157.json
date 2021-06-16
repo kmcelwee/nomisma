@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/23/1938"
-    ],
-    "find_feature_s": [
-        "Over doorway between rooms B7 and 16"
+        "04/23/1938"
     ],
     "find_locus_s": [
         "DH 27-O"
     ],
     "find_number_s": [
-        "Cb750"
+        "Cb0750"
+    ],
+    "find_description_s": [
+        "Over doorway between rooms B7 & 16"
     ],
     "die_axis_s": [
         "6"
@@ -50,22 +50,31 @@
         "3.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13157\",\"call_number_browse\":\"Coin 13157\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8532"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "H"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,7 +89,13 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "H"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -89,7 +104,7 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Vabalathus"
@@ -101,18 +116,21 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "laureate, draped"
+        "laureate, draped, cuirassed"
     ],
     "issue_reverse_legend_s": [
-        "VABALATHVSVCRIMDR"
+        "VABALATHVS VCRIMDR"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 381"
+        "RIC V  Aurelian 381"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "2a576cb74cdfc994"
     ],
-    "_version_": 1667138336159956992,
-    "timestamp": "2020-05-19T16:50:13.092Z"
+    "_version_": 1684903676462759936,
+    "timestamp": "2020-12-01T19:02:41.864Z"
 }

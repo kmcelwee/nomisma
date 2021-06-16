@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/12/1938"
+        "1938-04-12"
     ],
     "find_feature_s": [
-        "Room B6"
+        "Over room B6, surface"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
-        "Cb439"
-    ],
-    "find_description_s": [
-        "Surface over Room B6"
+        "Cb0439"
     ],
     "die_axis_s": [
         "5"
@@ -53,6 +50,9 @@
         "2.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9774\",\"call_number_browse\":\"Coin 9774\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -110,13 +110,16 @@
         "GLOR IAEXERC ITVS | SMANB"
     ],
     "issue_references_s": [
-        "RIC.7 p693 86",
+        "RIC VII Antioch 86",
         "Waage p112 1404"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "697bf527a01eba36"
     ],
-    "_version_": 1674172035694067712,
-    "timestamp": "2020-08-05T08:07:51.687Z"
+    "_version_": 1684903234793111552,
+    "timestamp": "2020-12-01T18:55:40.654Z"
 }

@@ -35,8 +35,11 @@
         "11.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1700\",\"call_number_browse\":\"Coin 1700\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "12:  W.S. Watson"
     ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 66,
@@ -95,9 +98,12 @@
         "RPC.1  4803"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 66"
+    ],
     "hashed_id_s": [
         "804a8578a24051c4"
     ],
-    "_version_": 1672751061203419136,
-    "timestamp": "2020-07-20T15:42:04.809Z"
+    "_version_": 1684903658899111936,
+    "timestamp": "2020-12-01T19:02:25.115Z"
 }

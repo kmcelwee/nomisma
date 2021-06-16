@@ -49,9 +49,6 @@
     "issue_object_type_s": [
         "badge"
     ],
-    "issue_number_s": [
-        "4433"
-    ],
     "issue_metal_s": [
         "Gilt silver"
     ],
@@ -84,6 +81,6 @@
     "hashed_id_s": [
         "1b119d8aa24f259b"
     ],
-    "_version_": 1667138357262548992,
-    "timestamp": "2020-05-19T16:50:33.217Z"
+    "_version_": 1683105022639865856,
+    "timestamp": "2020-11-11T22:33:51.910Z"
 }

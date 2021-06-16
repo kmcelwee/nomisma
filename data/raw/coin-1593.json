@@ -35,8 +35,11 @@
         "4.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1593\",\"call_number_browse\":\"Coin 1593\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "981"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "\u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "3f3b36818d5b2e58"
     ],
-    "_version_": 1667138465221836800,
-    "timestamp": "2020-05-19T16:52:16.177Z"
+    "_version_": 1684903221955395584,
+    "timestamp": "2020-12-01T18:55:28.412Z"
 }

@@ -35,8 +35,11 @@
         "6.934"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5584\",\"call_number_browse\":\"Coin 5584\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -214,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "3167"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Italy"
@@ -62,38 +65,49 @@
         "Dioscuri"
     ],
     "issue_obverse_part_s": [
-        "head"
+        "heads"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate, Janiform head of Dioscuri."
+        "laureate, Janiform"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
     ],
     "issue_reverse_orientation_s": [
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter r., in quadriga, driven by Victory; Jupiter holds scepter in l. hand and hurls thunderbolt with r. hand. Legend incuse on tablet."
+        "in quadriga, driven by Victory"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border."
+        "sceptre, in l. hand",
+        "thunderbolt, in r. hand"
     ],
     "issue_references_s": [
-        "RRC Vol. I: 146 30/1",
+        "RRC  30/1",
         "Syd.  64b",
-        "Sear Vol. 1: 79 32"
+        "Sear  31v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Janus",
+        "Other Person, Jupiter"
+    ],
+    "issue_date_s": [
+        "-225 to -214"
+    ],
     "hashed_id_s": [
         "a748fc0f7510fc68"
     ],
-    "_version_": 1667138394270990336,
-    "timestamp": "2020-05-19T16:51:08.511Z"
+    "_version_": 1684903700209860608,
+    "timestamp": "2020-12-01T19:03:04.511Z"
 }

@@ -35,6 +35,15 @@
         "1.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3021\",\"call_number_browse\":\"Coin 3021\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Dan Fellows Platt"
+    ],
     "pub_date_start_sort": -36,
     "pub_date_end_sort": -35,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "1873"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +105,12 @@
         "Syd.  1339"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-36 to -35"
+    ],
     "hashed_id_s": [
         "bb014bcb86947ce3"
     ],
-    "_version_": 1667138431957860352,
-    "timestamp": "2020-05-19T16:51:44.454Z"
+    "_version_": 1684903207501824000,
+    "timestamp": "2020-12-01T18:55:14.630Z"
 }

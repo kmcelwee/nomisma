@@ -35,22 +35,25 @@
         "17.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1231\",\"call_number_browse\":\"Coin 1231\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -211,
-    "pub_date_end_sort": 0,
+    "pub_date_end_sort": -211,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "semis"
     ],
-    "issue_number_s": [
-        "674"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,20 +77,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate head of Saturn r."
+        "Laureate"
     ],
     "issue_obverse_attributes_s": [
-        "S, behind head of Saturn",
-        "S, above prow"
+        "S, behind head"
     ],
     "issue_reverse_figure_s": [
         "Prow"
     ],
     "issue_reverse_orientation_s": [
         "right"
-    ],
-    "issue_reverse_figure_description_s": [
-        "Prow r.; legend below"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
@@ -98,9 +97,12 @@
         "Sear  766"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -211"
+    ],
     "hashed_id_s": [
         "6eefe32b7ee5c1cf"
     ],
-    "_version_": 1667138461051650048,
-    "timestamp": "2020-05-19T16:52:12.201Z"
+    "_version_": 1684903697068326912,
+    "timestamp": "2020-12-01T19:03:01.515Z"
 }

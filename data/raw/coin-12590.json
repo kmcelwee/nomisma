@@ -35,8 +35,11 @@
         "2.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12590\",\"call_number_browse\":\"Coin 12590\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8388"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Sellwood  45.40"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "93b6c60c7c796768"
     ],
-    "_version_": 1667138314174464000,
-    "timestamp": "2020-05-19T16:49:52.124Z"
+    "_version_": 1684903160839143424,
+    "timestamp": "2020-12-01T18:54:30.130Z"
 }

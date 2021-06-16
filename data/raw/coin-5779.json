@@ -35,6 +35,12 @@
         "1.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5779\",\"call_number_browse\":\"Coin 5779\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "3311"
     ],
     "issue_metal_s": [
         "Copper"
@@ -80,6 +83,6 @@
     "hashed_id_s": [
         "b56e85bac6f7760d"
     ],
-    "_version_": 1667145458206638080,
-    "timestamp": "2020-05-19T18:50:00.867Z"
+    "_version_": 1684903121178853376,
+    "timestamp": "2020-12-01T18:53:52.305Z"
 }

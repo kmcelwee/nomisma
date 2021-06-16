@@ -35,6 +35,12 @@
         "3.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10227\",\"call_number_browse\":\"Coin 10227\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6473"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 320 627-32"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "195eb3de7b2c4380"
     ],
-    "_version_": 1667138280924119040,
-    "timestamp": "2020-05-19T16:49:20.414Z"
+    "_version_": 1684903024317693952,
+    "timestamp": "2020-12-01T18:52:19.931Z"
 }

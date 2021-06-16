@@ -38,8 +38,11 @@
         "0.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1152\",\"call_number_browse\":\"Coin 1152\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "145:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 1400,
     "pub_date_end_sort": 1414,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "tornesello"
-    ],
-    "issue_number_s": [
-        "599"
     ],
     "issue_metal_s": [
         "Billon"
@@ -93,15 +93,18 @@
     ],
     "issue_references_s": [
         "Pap. 1 240, 7",
-        "CNI, 7 P. 117 38",
+        "CNI, 7  117, 38",
         "Paolucci p. 48 5",
         "Tornesello p. 75 18",
         "MEC 12 647-648"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1400 to 1414"
+    ],
     "hashed_id_s": [
         "4ce63b610afd8a5d"
     ],
-    "_version_": 1667138409262481408,
-    "timestamp": "2020-05-19T16:51:22.810Z"
+    "_version_": 1684903182805762048,
+    "timestamp": "2020-12-01T18:54:51.077Z"
 }

@@ -29,6 +29,9 @@
         "57x92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6093\",\"call_number_browse\":\"Coin 6093\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "2 Shillings"
-    ],
-    "issue_number_s": [
-        "3547"
     ],
     "issue_metal_s": [
         "Paper"
@@ -74,6 +74,6 @@
     "hashed_id_s": [
         "aed6fa7c6b53b284"
     ],
-    "_version_": 1667315884379602944,
-    "timestamp": "2020-05-21T15:52:16.269Z"
+    "_version_": 1684903658653745152,
+    "timestamp": "2020-12-01T19:02:24.881Z"
 }

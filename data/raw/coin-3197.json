@@ -35,8 +35,11 @@
         "15.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3197\",\"call_number_browse\":\"Coin 3197\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 64,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "1949"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -108,9 +108,12 @@
         "Sear  1969v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 64"
+    ],
     "hashed_id_s": [
         "7fab09d0d5cc1857"
     ],
-    "_version_": 1667138225975590912,
-    "timestamp": "2020-05-19T16:48:28.014Z"
+    "_version_": 1684903105052803072,
+    "timestamp": "2020-12-01T18:53:36.926Z"
 }

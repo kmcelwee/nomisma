@@ -26,6 +26,9 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12005\",\"call_number_browse\":\"Coin 12005\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1085,
     "pub_date_end_sort": 1092,
     "issue_object_type_s": [
@@ -101,9 +104,12 @@
         "BL 3.2 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1085 to 1092"
+    ],
     "hashed_id_s": [
         "0d9719c2ec47c362"
     ],
-    "_version_": 1673453273462341632,
-    "timestamp": "2020-07-28T09:43:26.609Z"
+    "_version_": 1684903149774569472,
+    "timestamp": "2020-12-01T18:54:19.577Z"
 }

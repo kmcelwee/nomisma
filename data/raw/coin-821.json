@@ -47,6 +47,12 @@
         "0.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 821\",\"call_number_browse\":\"Coin 821\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 517,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "2 1/2 nummi"
-    ],
-    "issue_number_s": [
-        "310"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +111,12 @@
         "BN Anastasius I Not ( Nicomedia)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 517"
+    ],
     "hashed_id_s": [
         "e28da06d0b641530"
     ],
-    "_version_": 1667138210554183680,
-    "timestamp": "2020-05-19T16:48:13.305Z"
+    "_version_": 1684903446050766848,
+    "timestamp": "2020-12-01T18:59:02.128Z"
 }

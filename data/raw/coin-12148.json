@@ -44,8 +44,11 @@
         "4.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12148\",\"call_number_browse\":\"Coin 12148\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 1143,
     "pub_date_end_sort": 1152,
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8194"
     ],
     "issue_metal_s": [
         "Billon"
@@ -109,9 +109,12 @@
         "Sear  NOT"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1143 to 1152"
+    ],
     "hashed_id_s": [
         "341b05eef2d0ddc6"
     ],
-    "_version_": 1667138300933046272,
-    "timestamp": "2020-05-19T16:49:39.496Z"
+    "_version_": 1684903512012488704,
+    "timestamp": "2020-12-01T19:00:05.032Z"
 }

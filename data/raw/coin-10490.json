@@ -38,8 +38,11 @@
         "7.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10490\",\"call_number_browse\":\"Coin 10490\"}}",
-    "donor_s": [
-        "T. Leslie Shear"
+    "numismatic_accession_s": [
+        "730: 1976-01-01 T. Leslie Shear"
+    ],
+    "numismatic_provenance_s": [
+        "T. Leslie Shear; 1976"
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "6666"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "RPC Vol. I 1211"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "e80bc4a9e081bdd1"
     ],
-    "_version_": 1667138180728487936,
-    "timestamp": "2020-05-19T16:47:44.861Z"
+    "_version_": 1684902958604484608,
+    "timestamp": "2020-12-01T18:51:17.260Z"
 }

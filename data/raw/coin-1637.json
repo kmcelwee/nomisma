@@ -35,8 +35,11 @@
         "7.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1637\",\"call_number_browse\":\"Coin 1637\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 60,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "1027"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "RPC.1  3633"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 60"
+    ],
     "hashed_id_s": [
         "a81ff70b0eb9ae13"
     ],
-    "_version_": 1667138212805476352,
-    "timestamp": "2020-05-19T16:48:15.454Z"
+    "_version_": 1684902978357559296,
+    "timestamp": "2020-12-01T18:51:36.099Z"
 }

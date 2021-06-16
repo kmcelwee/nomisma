@@ -32,8 +32,15 @@
         "0.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 981\",\"call_number_browse\":\"Coin 981\"}}",
-    "donor_s": [
-        "Andreas F. Pitsillides"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "99: 2006-09-13 Andreas F. Pitsillides"
+    ],
+    "numismatic_provenance_s": [
+        "John Slocum",
+        "J. R. Stewart"
     ],
     "pub_date_start_sort": 1359,
     "pub_date_end_sort": 1382,
@@ -42,9 +49,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "450"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +90,12 @@
         "Corpus 1 plate 32 13-16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1359 to 1382"
+    ],
     "hashed_id_s": [
         "3159b432f2e31130"
     ],
-    "_version_": 1667138206589517824,
-    "timestamp": "2020-05-19T16:48:09.524Z"
+    "_version_": 1684903094159147008,
+    "timestamp": "2020-12-01T18:53:26.537Z"
 }

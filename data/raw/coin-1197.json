@@ -32,16 +32,13 @@
         "2.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1197\",\"call_number_browse\":\"Coin 1197\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "643"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -73,9 +70,12 @@
         "KM 351 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "0e1e6f6dc0b36350"
     ],
-    "_version_": 1667138409298132992,
-    "timestamp": "2020-05-19T16:51:22.844Z"
+    "_version_": 1684903275875270656,
+    "timestamp": "2020-12-01T18:56:19.834Z"
 }

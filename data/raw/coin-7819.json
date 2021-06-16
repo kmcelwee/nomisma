@@ -38,6 +38,12 @@
         "4.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7819\",\"call_number_browse\":\"Coin 7819\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1197,
     "pub_date_end_sort": 1203,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "4882"
     ],
     "issue_metal_s": [
         "Gold"
@@ -100,9 +103,12 @@
         "Sear  2008"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1197 to 1203"
+    ],
     "hashed_id_s": [
         "a41501ac852a0698"
     ],
-    "_version_": 1667138262926360576,
-    "timestamp": "2020-05-19T16:49:03.250Z"
+    "_version_": 1684903131624767488,
+    "timestamp": "2020-12-01T18:54:02.267Z"
 }

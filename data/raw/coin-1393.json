@@ -35,8 +35,8 @@
         "7.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1393\",\"call_number_browse\":\"Coin 1393\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1903,
     "pub_date_end_sort": 1905,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "792"
     ],
     "issue_metal_s": [
         "Copper"
@@ -77,9 +74,12 @@
         "Qing Dai 337 1138"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1903 to 1905"
+    ],
     "hashed_id_s": [
         "dd779992fe0362e8"
     ],
-    "_version_": 1667138211028140032,
-    "timestamp": "2020-05-19T16:48:13.760Z"
+    "_version_": 1684902975713050624,
+    "timestamp": "2020-12-01T18:51:33.579Z"
 }

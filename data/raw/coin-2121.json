@@ -35,8 +35,11 @@
         "8.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2121\",\"call_number_browse\":\"Coin 2121\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "284:  W.S. Watson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "1395"
     ],
     "issue_metal_s": [
         "Copper"
@@ -104,6 +104,6 @@
     "hashed_id_s": [
         "179e23c629b89f60"
     ],
-    "_version_": 1667138218068279296,
-    "timestamp": "2020-05-19T16:48:20.473Z"
+    "_version_": 1684903451291549696,
+    "timestamp": "2020-12-01T18:59:07.126Z"
 }

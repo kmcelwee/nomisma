@@ -32,8 +32,11 @@
         "3.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1553\",\"call_number_browse\":\"Coin 1553\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1361,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "944"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Da Zhong \u5927\u4e2d (Zhu Yuan Zhang) (1361 to 1398)"
@@ -69,9 +72,12 @@
         "Jen  505"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1361 to "
+    ],
     "hashed_id_s": [
         "abbed77f757c3ea1"
     ],
-    "_version_": 1667138131366772736,
-    "timestamp": "2020-05-19T16:46:57.786Z"
+    "_version_": 1684903377095360512,
+    "timestamp": "2020-12-01T18:57:56.365Z"
 }

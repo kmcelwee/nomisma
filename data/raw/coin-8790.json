@@ -38,6 +38,9 @@
         "4.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8790\",\"call_number_browse\":\"Coin 8790\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1092,
     "pub_date_end_sort": 1118,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "5590"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BL Alexis I 59/Cp/AU/01v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1092 to 1118"
+    ],
     "hashed_id_s": [
         "7412ce6da29226d5"
     ],
-    "_version_": 1667138185965076480,
-    "timestamp": "2020-05-19T16:47:49.854Z"
+    "_version_": 1684902936701829120,
+    "timestamp": "2020-12-01T18:50:56.375Z"
 }

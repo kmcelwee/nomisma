@@ -2,7 +2,7 @@
     "id": "coin-9194",
     "title_display": "Coin: 9194",
     "pub_created_display": [
-        "Tiberius, dupondius, Rome"
+        "Tiberius   (14 to 37), dupondius, Rome"
     ],
     "call_number_display": [
         "Coin 9194"
@@ -35,8 +35,8 @@
         "14.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9194\",\"call_number_browse\":\"Coin 9194\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 22,
     "pub_date_end_sort": 26,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "dupondius"
     ],
-    "issue_number_s": [
-        "5861"
-    ],
     "issue_metal_s": [
         "Brass"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Rome, Italy, Roman Empire"
@@ -103,9 +100,12 @@
         "Sear  1787"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "22 to 26"
+    ],
     "hashed_id_s": [
         "fbab67f5af92faaa"
     ],
-    "_version_": 1667138148178591744,
-    "timestamp": "2020-05-19T16:47:13.820Z"
+    "_version_": 1684903401638330368,
+    "timestamp": "2020-12-01T18:58:19.771Z"
 }

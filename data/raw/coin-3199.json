@@ -35,16 +35,16 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3199\",\"call_number_browse\":\"Coin 3199\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1645,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1952"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +76,12 @@
         "Zhong Guo 306 3rd row, 3rd coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1645"
+    ],
     "hashed_id_s": [
         "3e98883dbbefadbf"
     ],
-    "_version_": 1667138435158114304,
-    "timestamp": "2020-05-19T16:51:47.506Z"
+    "_version_": 1684903214610120704,
+    "timestamp": "2020-12-01T18:55:21.407Z"
 }

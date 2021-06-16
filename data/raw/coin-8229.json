@@ -35,16 +35,16 @@
         "7.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8229\",\"call_number_browse\":\"Coin 8229\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -100,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5240"
     ],
     "issue_place_s": [
         "Carteia, Hispania Ulterior, Hispania"
@@ -86,9 +86,12 @@
         "CNH 420 71"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-100 to 0"
+    ],
     "hashed_id_s": [
         "c9ac0549fcf3a706"
     ],
-    "_version_": 1667138267011612672,
-    "timestamp": "2020-05-19T16:49:07.147Z"
+    "_version_": 1684903489752268800,
+    "timestamp": "2020-12-01T18:59:43.802Z"
 }

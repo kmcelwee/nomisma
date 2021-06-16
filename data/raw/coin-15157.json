@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "decoration"
     ],
-    "issue_number_s": [
-        "9314"
-    ],
     "issue_metal_s": [
         "Silvered"
     ],
@@ -72,6 +69,6 @@
     "hashed_id_s": [
         "b331606eaa5ba6c2"
     ],
-    "_version_": 1667145036556402688,
-    "timestamp": "2020-05-19T18:42:22.788Z"
+    "_version_": 1683105249820147712,
+    "timestamp": "2020-11-11T22:37:28.564Z"
 }

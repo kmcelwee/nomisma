@@ -35,6 +35,9 @@
         "10.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1514\",\"call_number_browse\":\"Coin 1514\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -5,
     "pub_date_end_sort": -3,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "910"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,16 @@
         "RPC.1 1 278"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Domitus, C.",
+        "Other Person, Pompeius, Cn."
+    ],
+    "issue_date_s": [
+        "-5 to -3"
+    ],
     "hashed_id_s": [
         "ab72d37a56c2da60"
     ],
-    "_version_": 1667307461482119168,
-    "timestamp": "2020-05-21T13:38:23.568Z"
+    "_version_": 1684903185257332736,
+    "timestamp": "2020-12-01T18:54:53.414Z"
 }

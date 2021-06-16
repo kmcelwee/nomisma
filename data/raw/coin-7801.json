@@ -39,15 +39,12 @@
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7801\",\"call_number_browse\":\"Coin 7801\"}}",
     "pub_date_start_sort": -223,
-    "pub_date_end_sort": -210,
+    "pub_date_end_sort": -211,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "4864"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,9 +105,12 @@
         "BMC Seleucid  p26 no. 25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-223 to -211"
+    ],
     "hashed_id_s": [
         "14296454497fc8e2"
     ],
-    "_version_": 1667138123889377280,
-    "timestamp": "2020-05-19T16:46:50.658Z"
+    "_version_": 1684903653634211840,
+    "timestamp": "2020-12-01T19:02:20.094Z"
 }

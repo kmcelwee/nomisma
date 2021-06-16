@@ -2,7 +2,7 @@
     "id": "coin-8025",
     "title_display": "Coin: 8025",
     "pub_created_display": [
-        "Licinius (308 to 324), Antioch"
+        "Licinius (308 to 324), aes, Antioch"
     ],
     "call_number_display": [
         "Coin 8025"
@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/13/1937"
+        "1937-04-13"
+    ],
+    "find_feature_s": [
+        "Dig I S., under brick floor, to 3m"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca334"
-    ],
-    "find_description_s": [
-        "Under brick floor South of Dig I to 3M"
+        "Ca0334"
     ],
     "die_axis_s": [
         "5"
@@ -50,13 +50,19 @@
         "2.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8025\",\"call_number_browse\":\"Coin 8025\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "5059"
+    "issue_denomination_s": [
+        "aes"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,18 +113,21 @@
         "Jupiter standing holding Victory and scepter, crouching captive to his right"
     ],
     "issue_reverse_legend_s": [
-        "IOVICONSERVATORICAESS|ANT"
+        "IOVICONSERVATORICAESS| [SM]ANT"
     ],
     "issue_references_s": [
         "Waage p.117 1387",
-        "RIC, VII p.680 29",
+        "RIC VII Antioch 29",
         "Numismatique Constantinienne III,p.195 3",
         "Cohen VII,p.216 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "86c57e25fa2522bf"
     ],
-    "_version_": 1667144975814492160,
-    "timestamp": "2020-05-19T18:35:45.172Z"
+    "_version_": 1690434043893514240,
+    "timestamp": "2021-01-31T20:05:31.250Z"
 }

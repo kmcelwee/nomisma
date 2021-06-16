@@ -35,8 +35,11 @@
         "7.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6706\",\"call_number_browse\":\"Coin 6706\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Aug. 1959; Lire 7,500 = $12.15"
     ],
     "pub_date_start_sort": -302,
     "pub_date_end_sort": -231,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "4120"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "Vlasto Coll.  685-6?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-302 to -231"
+    ],
     "hashed_id_s": [
         "230db5ec51401197"
     ],
-    "_version_": 1667138254729641984,
-    "timestamp": "2020-05-19T16:48:55.436Z"
+    "_version_": 1684903012623974400,
+    "timestamp": "2020-12-01T18:52:08.778Z"
 }

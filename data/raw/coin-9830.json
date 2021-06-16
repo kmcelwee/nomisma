@@ -61,9 +61,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6217"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -111,9 +108,12 @@
         "Waage 120 1433"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "318 to 320"
+    ],
     "hashed_id_s": [
         "ba12efbfb863fb50"
     ],
-    "_version_": 1667138144599801856,
-    "timestamp": "2020-05-19T16:47:10.408Z"
+    "_version_": 1684903396881989632,
+    "timestamp": "2020-12-01T18:58:15.236Z"
 }

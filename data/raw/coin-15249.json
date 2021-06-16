@@ -35,8 +35,11 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15249\",\"call_number_browse\":\"Coin 15249\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 69,
     "pub_date_end_sort": 69,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9396"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
         "Vitellius   (69 to 69)"
@@ -102,9 +102,12 @@
         "RIC 225 18"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "69 to 69"
+    ],
     "hashed_id_s": [
         "07a3f5f89804f2d7"
     ],
-    "_version_": 1667145374171660288,
-    "timestamp": "2020-05-19T18:43:23.666Z"
+    "_version_": 1684903375158640640,
+    "timestamp": "2020-12-01T18:57:54.518Z"
 }

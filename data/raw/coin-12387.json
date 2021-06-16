@@ -38,8 +38,14 @@
         "3.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12387\",\"call_number_browse\":\"Coin 12387\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall"
     ],
     "pub_date_start_sort": 1195,
     "pub_date_end_sort": 1200,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8316"
     ],
     "issue_metal_s": [
         "Billon"
@@ -97,9 +100,12 @@
         "Iurukova p.192 A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1195 to 1200"
+    ],
     "hashed_id_s": [
         "bc7b207aef7fb7cd"
     ],
-    "_version_": 1667138305654784000,
-    "timestamp": "2020-05-19T16:49:44Z"
+    "_version_": 1684903516122906624,
+    "timestamp": "2020-12-01T19:00:08.954Z"
 }

@@ -35,8 +35,11 @@
         "0.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 725\",\"call_number_browse\":\"Coin 725\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 952,
     "pub_date_end_sort": 1000,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "296"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "P.d'A.  4826"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "952 to 1000"
+    ],
     "hashed_id_s": [
         "05ab9634a826534b"
     ],
-    "_version_": 1667138204180938752,
-    "timestamp": "2020-05-19T16:48:07.228Z"
+    "_version_": 1684903415133503488,
+    "timestamp": "2020-12-01T18:58:32.641Z"
 }

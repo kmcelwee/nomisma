@@ -41,6 +41,12 @@
         "251.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6978\",\"call_number_browse\":\"Coin 6978\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -269,
     "pub_date_end_sort": -266,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2822"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +109,12 @@
         "Sear  527"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-269 to -266"
+    ],
     "hashed_id_s": [
         "8b59fa2122f923da"
     ],
-    "_version_": 1667138399001116672,
-    "timestamp": "2020-05-19T16:51:13.024Z"
+    "_version_": 1684903571645005824,
+    "timestamp": "2020-12-01T19:01:01.903Z"
 }

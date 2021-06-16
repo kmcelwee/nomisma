@@ -47,6 +47,12 @@
         "10"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 102\",\"call_number_browse\":\"Coin 102\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 517,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "62"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,9 +110,12 @@
         "Sear  29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 517"
+    ],
     "hashed_id_s": [
         "2fa06c86c67ce0d3"
     ],
-    "_version_": 1667138200263458816,
-    "timestamp": "2020-05-19T16:48:03.491Z"
+    "_version_": 1684903436820152320,
+    "timestamp": "2020-12-01T18:58:53.324Z"
 }

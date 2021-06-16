@@ -29,7 +29,7 @@
         "Jawbone effaced"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/14/1937"
@@ -50,6 +50,12 @@
         "1.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2380\",\"call_number_browse\":\"Coin 2380\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "1528"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,16 @@
         "WSM  947"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield",
+        "Animal, elephant"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "b13a8e22a05f148b"
     ],
-    "_version_": 1669836695740088320,
-    "timestamp": "2020-06-18T11:39:29.325Z"
+    "_version_": 1684903651045277696,
+    "timestamp": "2020-12-01T19:02:17.624Z"
 }

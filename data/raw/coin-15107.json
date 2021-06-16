@@ -2,7 +2,7 @@
     "id": "coin-15107",
     "title_display": "Coin: 15107",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15107"
@@ -35,22 +35,25 @@
         "3.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15107\",\"call_number_browse\":\"Coin 15107\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_provenance_s": [
+        ""
+    ],
+    "pub_date_start_sort": 140,
+    "pub_date_end_sort": 143,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9269"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -68,26 +71,41 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG PI-VS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS III"
     ],
     "issue_reverse_figure_s": [
-        "Modius with poppy-head and four wheat-ears"
+        "Modius"
+    ],
+    "issue_reverse_figure_description_s": [
+        "with corn-ears and poppy"
     ],
     "issue_reverse_legend_s": [
-        "ANNO-NA AVG"
+        "ANNONA AVG"
     ],
     "issue_references_s": [
-        "BMC.1 29 181",
-        "Strack  83",
-        "Roman Imperial Coinage 33 62"
+        "RIC III  Antoninus Pius 62A",
+        "BMC.4 29 181",
+        "Strack  83"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 143"
+    ],
     "hashed_id_s": [
         "4ad2b2ca525a0da6"
     ],
-    "_version_": 1667145397749940224,
-    "timestamp": "2020-05-19T18:45:43.053Z"
+    "_version_": 1684903373553270784,
+    "timestamp": "2020-12-01T18:57:52.988Z"
 }

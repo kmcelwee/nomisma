@@ -35,8 +35,11 @@
         "6.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7469\",\"call_number_browse\":\"Coin 7469\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -244,
     "pub_date_end_sort": -226,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "4558"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +108,12 @@
         "WSM  1169"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-244 to -226"
+    ],
     "hashed_id_s": [
         "b4c429b2fc616172"
     ],
-    "_version_": 1667138122544054272,
-    "timestamp": "2020-05-19T16:46:49.371Z"
+    "_version_": 1684902967354851328,
+    "timestamp": "2020-12-01T18:51:25.606Z"
 }

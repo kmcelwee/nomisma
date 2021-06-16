@@ -35,8 +35,11 @@
         "0.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14952\",\"call_number_browse\":\"Coin 14952\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -46,9 +49,6 @@
     "issue_denomination_s": [
         "piccolo"
     ],
-    "issue_number_s": [
-        "9132"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -56,6 +56,6 @@
     "hashed_id_s": [
         "431eea31f590946e"
     ],
-    "_version_": 1667233215043076096,
-    "timestamp": "2020-05-20T17:58:17.033Z"
+    "_version_": 1684902914538078208,
+    "timestamp": "2020-12-01T18:50:35.237Z"
 }

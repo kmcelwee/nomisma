@@ -32,16 +32,16 @@
         "3.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3157\",\"call_number_browse\":\"Coin 3157\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1736,
     "pub_date_end_sort": 1796,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1935"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +81,12 @@
         "Jen 144 714"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1736 to 1796"
+    ],
     "hashed_id_s": [
         "79067c6262c4e0ac"
     ],
-    "_version_": 1667138480805773312,
-    "timestamp": "2020-05-19T16:52:31.040Z"
+    "_version_": 1684903303202209792,
+    "timestamp": "2020-12-01T18:56:45.896Z"
 }

@@ -35,8 +35,11 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1422\",\"call_number_browse\":\"Coin 1422\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 62,
     "pub_date_end_sort": 62,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "821"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "RPC.1  3174"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "62 to 62"
+    ],
     "hashed_id_s": [
         "3100dd2829210875"
     ],
-    "_version_": 1667138131291275264,
-    "timestamp": "2020-05-19T16:46:57.716Z"
+    "_version_": 1684903376905568256,
+    "timestamp": "2020-12-01T18:57:56.186Z"
 }

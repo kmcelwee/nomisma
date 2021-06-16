@@ -2,7 +2,7 @@
     "id": "coin-1879",
     "title_display": "Coin: 1879",
     "pub_created_display": [
-        "Nero (54 to 68), aes, Antioch"
+        "Nero (54 to 68), bronze, Antioch"
     ],
     "call_number_display": [
         "Coin 1879"
@@ -50,13 +50,19 @@
         "4.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1879\",\"call_number_browse\":\"Coin 1879\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "aes"
+        "bronze"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -111,9 +117,12 @@
         "BMC Gal. 173 186"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "bc582fd67a2f57f4"
     ],
-    "_version_": 1675625917093773312,
-    "timestamp": "2020-08-21T09:16:41.050Z"
+    "_version_": 1684903235220930560,
+    "timestamp": "2020-12-01T18:55:41.064Z"
 }

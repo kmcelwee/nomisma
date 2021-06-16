@@ -50,6 +50,9 @@
         "4.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8205\",\"call_number_browse\":\"Coin 8205\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 670,
     "pub_date_end_sort": 690,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5216"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +117,12 @@
         "m8205"
     ],
     "issue_monogram_1display": "[{\"title\":\"m8205\",\"document_id\":\"25a753f0-f046-4518-8d9a-7ee41fc78914\"}]",
+    "issue_date_s": [
+        "670 to 690"
+    ],
     "hashed_id_s": [
         "27cbad4ebd8c69f4"
     ],
-    "_version_": 1667138347693244416,
-    "timestamp": "2020-05-19T16:50:24.090Z"
+    "_version_": 1684903084832063488,
+    "timestamp": "2020-12-01T18:53:17.641Z"
 }

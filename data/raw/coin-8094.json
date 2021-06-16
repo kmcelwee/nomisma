@@ -35,8 +35,11 @@
         "11.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8094\",\"call_number_browse\":\"Coin 8094\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -133,
     "pub_date_end_sort": -100,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5125"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "CNH 223 11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-133 to -100"
+    ],
     "hashed_id_s": [
         "f06a418242041f7f"
     ],
-    "_version_": 1667138266157023232,
-    "timestamp": "2020-05-19T16:49:06.333Z"
+    "_version_": 1684903488604078080,
+    "timestamp": "2020-12-01T18:59:42.708Z"
 }

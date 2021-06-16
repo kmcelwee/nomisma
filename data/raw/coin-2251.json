@@ -29,7 +29,7 @@
         "Monogram indistinguishable"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/26/1937"
@@ -53,6 +53,12 @@
         "1.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2251\",\"call_number_browse\":\"Coin 2251\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -290,
     "pub_date_end_sort": -285,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1456"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,16 +77,16 @@
         "Seleucus I Nikator (-312 to -280)"
     ],
     "issue_place_s": [
-        "Seleuceia Pieria, Seleucus and Pieria, Syria"
+        "Seleuceia Pieria, Seleucis and Pieria, Seleucid Empire"
     ],
     "issue_city_s": [
         "Seleuceia Pieria"
     ],
     "issue_state_s": [
-        "Seleucus and Pieria"
+        "Seleucis and Pieria"
     ],
     "issue_region_s": [
-        "Syria"
+        "Seleucid Empire"
     ],
     "issue_obverse_figure_s": [
         "Zeus"
@@ -111,9 +114,16 @@
         "WSM  903v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zeus",
+        "Category, thunderbolt"
+    ],
+    "issue_date_s": [
+        "-290 to -285"
+    ],
     "hashed_id_s": [
         "3e663aea00b71234"
     ],
-    "_version_": 1669832055985274880,
-    "timestamp": "2020-06-18T10:25:44.514Z"
+    "_version_": 1684903298970157056,
+    "timestamp": "2020-12-01T18:56:41.860Z"
 }

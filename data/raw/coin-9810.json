@@ -38,16 +38,13 @@
         "154.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9810\",\"call_number_browse\":\"Coin 9810\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": 1485,
     "pub_date_end_sort": 1500,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "6197"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +92,12 @@
         "Niccolo Fiorentino"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1485 to 1500"
+    ],
     "hashed_id_s": [
         "0b4ea5c26f6209d2"
     ],
-    "_version_": 1667138137649840128,
-    "timestamp": "2020-05-19T16:47:03.781Z"
+    "_version_": 1684903386222166016,
+    "timestamp": "2020-12-01T18:58:05.071Z"
 }

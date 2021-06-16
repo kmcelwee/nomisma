@@ -38,8 +38,8 @@
         "4.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8528\",\"call_number_browse\":\"Coin 8528\"}}",
-    "donor_s": [
-        "Philip Ashton Rollins"
+    "numismatic_accession_s": [
+        "628:  Philip Ashton Rollins"
     ],
     "pub_date_start_sort": 621,
     "pub_date_end_sort": 622,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "5435"
     ],
     "issue_metal_s": [
         "Gold"
@@ -100,9 +97,12 @@
         "BN  10/Ct/AV/12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "621 to 622"
+    ],
     "hashed_id_s": [
         "bf116943d0cdff45"
     ],
-    "_version_": 1667138346836557824,
-    "timestamp": "2020-05-19T16:50:23.274Z"
+    "_version_": 1684903248906944512,
+    "timestamp": "2020-12-01T18:55:54.115Z"
 }

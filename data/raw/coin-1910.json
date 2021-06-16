@@ -38,8 +38,11 @@
         "8.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1910\",\"call_number_browse\":\"Coin 1910\"}}",
-    "donor_s": [
-        "Eleanor (Mrs. Douglas) Delanoy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "272:  Eleanor (Mrs. Douglas) Delanoy"
     ],
     "pub_date_start_sort": 945,
     "pub_date_end_sort": 950,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1249"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Sear 339 1761"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "945 to 950"
+    ],
     "hashed_id_s": [
         "4c7278a0356192ad"
     ],
-    "_version_": 1667138417666818048,
-    "timestamp": "2020-05-19T16:51:30.823Z"
+    "_version_": 1684903193007357952,
+    "timestamp": "2020-12-01T18:55:00.807Z"
 }

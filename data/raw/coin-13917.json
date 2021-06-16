@@ -35,8 +35,11 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13917\",\"call_number_browse\":\"Coin 13917\"}}",
-    "donor_s": [
-        "H.A. Seaby"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "855: 1929-01-01 H.A. Seaby"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8951"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,6 +105,6 @@
     "hashed_id_s": [
         "c08e5f2f0d825dfc"
     ],
-    "_version_": 1667138331466530816,
-    "timestamp": "2020-05-19T16:50:08.616Z"
+    "_version_": 1684903527059554304,
+    "timestamp": "2020-12-01T19:00:19.383Z"
 }

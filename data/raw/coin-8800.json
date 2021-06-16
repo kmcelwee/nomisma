@@ -38,8 +38,8 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8800\",\"call_number_browse\":\"Coin 8800\"}}",
-    "donor_s": [
-        "Stanley E. Harris"
+    "numismatic_accession_s": [
+        "242:  Stanley E. Harris"
     ],
     "pub_date_start_sort": 1081,
     "pub_date_end_sort": 1118,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5599"
     ],
     "issue_metal_s": [
         "Copper"
@@ -101,9 +98,12 @@
         "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection Vol. 4, Part 1, Alexius I 26??"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1081 to 1118"
+    ],
     "hashed_id_s": [
         "edb0a82a65c9be9e"
     ],
-    "_version_": 1667138156398379008,
-    "timestamp": "2020-05-19T16:47:21.658Z"
+    "_version_": 1684903411846217728,
+    "timestamp": "2020-12-01T18:58:29.506Z"
 }

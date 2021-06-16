@@ -35,6 +35,15 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4757\",\"call_number_browse\":\"Coin 4757\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Rodolfo Ratto; Schulman; 1930; #1574, $3"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -38,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2588"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +103,12 @@
         "Sear  1543"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -38"
+    ],
     "hashed_id_s": [
         "ed9883de548e4ec7"
     ],
-    "_version_": 1667138240021266432,
-    "timestamp": "2020-05-19T16:48:41.409Z"
+    "_version_": 1684903464511995904,
+    "timestamp": "2020-12-01T18:59:19.733Z"
 }

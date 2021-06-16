@@ -35,8 +35,11 @@
         "3.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4993\",\"call_number_browse\":\"Coin 4993\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "2636"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Chong Zhen \u5d07\u796f (Zhu You Jian \u6731\u7531\u6aa2) (1627 to 1644)"
@@ -65,7 +68,7 @@
         "\u5d07\u798e\u901a\u5bf6"
     ],
     "issue_reverse_legend_s": [
-        " \u661f"
+        "\u661f"
     ],
     "issue_references_s": [
         "Hartill 257 20.249",
@@ -75,9 +78,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 298 1st row 2nd Coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "c018d15bbbeda72e"
     ],
-    "_version_": 1667138505290022912,
-    "timestamp": "2020-05-19T16:52:54.388Z"
+    "_version_": 1684903307501371392,
+    "timestamp": "2020-12-01T18:56:49.997Z"
 }

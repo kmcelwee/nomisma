@@ -35,16 +35,16 @@
         "5.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3057\",\"call_number_browse\":\"Coin 3057\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1662,
     "pub_date_end_sort": 1723,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1880"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -78,9 +78,12 @@
         "c41, Manchurian Character- \u540c  (tong)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1662 to 1723"
+    ],
     "hashed_id_s": [
         "83e3ad3f36245853"
     ],
-    "_version_": 1667138432536674304,
-    "timestamp": "2020-05-19T16:51:45.004Z"
+    "_version_": 1684903283440746496,
+    "timestamp": "2020-12-01T18:56:27.049Z"
 }

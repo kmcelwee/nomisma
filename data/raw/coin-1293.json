@@ -35,8 +35,11 @@
         "2.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1293\",\"call_number_browse\":\"Coin 1293\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -317,
     "pub_date_end_sort": -310,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "722"
     ],
     "issue_metal_s": [
         "Gold"
@@ -89,9 +89,12 @@
         "Dewing  936v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-317 to -310"
+    ],
     "hashed_id_s": [
         "c60283fd89cec46c"
     ],
-    "_version_": 1667138209871560704,
-    "timestamp": "2020-05-19T16:48:12.655Z"
+    "_version_": 1684902974223024128,
+    "timestamp": "2020-12-01T18:51:32.156Z"
 }

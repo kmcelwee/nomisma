@@ -35,8 +35,11 @@
         "16.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 651\",\"call_number_browse\":\"Coin 651\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -311,
     "pub_date_end_sort": -305,
@@ -100,9 +103,12 @@
         "Price  3759"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-311 to -305"
+    ],
     "hashed_id_s": [
         "bc8fd10cd4f45a41"
     ],
-    "_version_": 1674367143368458240,
-    "timestamp": "2020-08-07T11:49:00.870Z"
+    "_version_": 1684903332410294272,
+    "timestamp": "2020-12-01T18:57:13.749Z"
 }

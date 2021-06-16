@@ -35,6 +35,9 @@
         "2.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1173\",\"call_number_browse\":\"Coin 1173\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1614,
     "pub_date_end_sort": 1643,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "liard"
-    ],
-    "issue_number_s": [
-        "621"
     ],
     "issue_metal_s": [
         "Copper"
@@ -77,9 +77,12 @@
         "KM 17th edition 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1614 to 1643"
+    ],
     "hashed_id_s": [
         "9a195698bdf6330e"
     ],
-    "_version_": 1667138459319402496,
-    "timestamp": "2020-05-19T16:52:10.548Z"
+    "_version_": 1684903293216620544,
+    "timestamp": "2020-12-01T18:56:36.371Z"
 }

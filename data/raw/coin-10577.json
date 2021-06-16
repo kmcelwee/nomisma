@@ -38,8 +38,14 @@
         "1.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10577\",\"call_number_browse\":\"Coin 10577\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Alex G. Malloy; 09/26/2006"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE/3"
-    ],
-    "issue_number_s": [
-        "6743"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "SNS 1 Type IIIb/3? Var. head to the left"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "e29d170c74a3fb78"
     ],
-    "_version_": 1667138332568584192,
-    "timestamp": "2020-05-19T16:50:09.668Z"
+    "_version_": 1684903239071301632,
+    "timestamp": "2020-12-01T18:55:44.735Z"
 }

@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4691\",\"call_number_browse\":\"Coin 4691\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1936; $27"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2551"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +106,12 @@
         "Sear  1449"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -42"
+    ],
     "hashed_id_s": [
         "b54abcea93cade6b"
     ],
-    "_version_": 1667138501450137600,
-    "timestamp": "2020-05-19T16:52:50.727Z"
+    "_version_": 1684903634618286080,
+    "timestamp": "2020-12-01T19:02:01.959Z"
 }

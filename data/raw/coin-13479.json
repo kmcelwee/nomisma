@@ -35,6 +35,12 @@
         "6.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13479\",\"call_number_browse\":\"Coin 13479\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "121: 1990-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -164,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8693"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,7 +83,7 @@
         "radiate, with diadem, one diadem end up flying up behind, the other falling forward over shoulder in dotted border"
     ],
     "issue_obverse_attributes_s": [
-        "m8693.1, behind head"
+        "CI, behind head"
     ],
     "issue_reverse_figure_s": [
         "Ba'al"
@@ -95,8 +98,8 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m8693.2, left",
-        "m8693.3, right",
+        "\u039b\u0391, in inner l. field",
+        "monogram, in r. field",
         "phiale, in r. hand",
         "trident, in l. hand"
     ],
@@ -104,9 +107,12 @@
         "H & L II 81 1449.4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -164"
+    ],
     "hashed_id_s": [
         "fdb4652f05cfe226"
     ],
-    "_version_": 1667138514000543744,
-    "timestamp": "2020-05-19T16:53:02.736Z"
+    "_version_": 1684903326569725952,
+    "timestamp": "2020-12-01T18:57:08.181Z"
 }

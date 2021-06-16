@@ -38,8 +38,11 @@
         "7.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6562\",\"call_number_browse\":\"Coin 6562\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Jan. 1961; Lire 3500 = $5.78; #5130 in Dec. 1960 issue of Monete e Medaglie"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3977"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  1111"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "2102f8d7c6da4ec2"
     ],
-    "_version_": 1667138366433394688,
-    "timestamp": "2020-05-19T16:50:41.963Z"
+    "_version_": 1684903546440384512,
+    "timestamp": "2020-12-01T19:00:37.866Z"
 }

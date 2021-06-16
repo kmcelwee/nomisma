@@ -38,8 +38,11 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1734\",\"call_number_browse\":\"Coin 1734\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "4:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": 130,
     "pub_date_end_sort": 131,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1123"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +105,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "130 to 131"
+    ],
     "hashed_id_s": [
         "0815b2c9d2a2baac"
     ],
-    "_version_": 1667138213797429248,
-    "timestamp": "2020-05-19T16:48:16.401Z"
+    "_version_": 1684902979292889088,
+    "timestamp": "2020-12-01T18:51:36.991Z"
 }

@@ -29,13 +29,10 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "08/03/1939"
-    ],
-    "find_feature_s": [
-        "Trench 4."
+        "1939-08-03"
     ],
     "find_locus_s": [
-        "15-M"
+        "A 15-M"
     ],
     "find_number_s": [
         "Cc2742"
@@ -50,6 +47,12 @@
         "2.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8157\",\"call_number_browse\":\"Coin 8157\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5173"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +114,12 @@
         "Numismatique Constantinienne II p. 324, I 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 315"
+    ],
     "hashed_id_s": [
         "72852d2ad1845df4"
     ],
-    "_version_": 1667138147022012416,
-    "timestamp": "2020-05-19T16:47:12.718Z"
+    "_version_": 1694426360151277568,
+    "timestamp": "2021-03-16T21:41:40.710Z"
 }

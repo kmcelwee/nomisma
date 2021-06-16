@@ -50,6 +50,9 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8007\",\"call_number_browse\":\"Coin 8007\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 615,
     "pub_date_end_sort": 617,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5043"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "BMC.Byz. Volume 1 244-246"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "615 to 617"
+    ],
     "hashed_id_s": [
         "b825508b1f8e9c4b"
     ],
-    "_version_": 1667138191290793984,
-    "timestamp": "2020-05-19T16:47:54.935Z"
+    "_version_": 1684903431619215360,
+    "timestamp": "2020-12-01T18:58:48.365Z"
 }

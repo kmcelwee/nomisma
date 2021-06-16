@@ -38,8 +38,14 @@
         "3.403"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4277\",\"call_number_browse\":\"Coin 4277\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1992; Ducat No. 1"
     ],
     "pub_date_start_sort": 1343,
     "pub_date_end_sort": 1400,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2426"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "NNM PL. XII 34v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1343 to 1400"
+    ],
     "hashed_id_s": [
         "d692c868505d1e3d"
     ],
-    "_version_": 1667138235393900544,
-    "timestamp": "2020-05-19T16:48:36.995Z"
+    "_version_": 1684903111163904000,
+    "timestamp": "2020-12-01T18:53:42.754Z"
 }

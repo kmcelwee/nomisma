@@ -38,8 +38,8 @@
         "26.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8766\",\"call_number_browse\":\"Coin 8766\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_accession_s": [
+        "650:  Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Dollar"
-    ],
-    "issue_number_s": [
-        "5568"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,6 +98,6 @@
     "hashed_id_s": [
         "e96b7f7028c2a0a6"
     ],
-    "_version_": 1667145035613732864,
-    "timestamp": "2020-05-19T18:42:22.745Z"
+    "_version_": 1684903492344348672,
+    "timestamp": "2020-12-01T18:59:46.276Z"
 }

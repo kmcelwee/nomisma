@@ -35,19 +35,19 @@
         "3.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4092\",\"call_number_browse\":\"Coin 4092\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2349"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,11 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bearded, draped; Gallic shield behind; border of dots"
+        "bearded, draped; behind, Gallic shield"
     ],
     "issue_obverse_attributes_s": [
-        "shield, Gallic shield behind male bust"
+        "shield, Gallic shield behind male bust",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Biga"
@@ -89,14 +90,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "driven by charioteer with whip in l. hand, reins in r. hand; behind, warrior backwards holding shield in l. hand and spear in r. hand; border of dots"
+        "driven by charioteer with whip in l. hand and reins in r. hand; behind, on biga, warrior facing backwards holding shield in l. hand and hurling spear in r. hand"
     ],
     "issue_reverse_legend_s": [
-        "L HOSTILIVS | SASERN"
+        "L.HOSTILIVS SASERN"
     ],
     "issue_reverse_attributes_s": [
         "shield, warrior in biga holds shield in l. hand",
-        "spear, warrior in biga throws spear with r. hand"
+        "spear, warrior in biga throws spear with r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  448/2a",
@@ -104,9 +106,12 @@
         "Sear  418"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "5864166910188a53"
     ],
-    "_version_": 1667138232432721920,
-    "timestamp": "2020-05-19T16:48:34.173Z"
+    "_version_": 1684902987034525696,
+    "timestamp": "2020-12-01T18:51:44.376Z"
 }

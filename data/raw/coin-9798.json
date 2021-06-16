@@ -53,6 +53,9 @@
         "2.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9798\",\"call_number_browse\":\"Coin 9798\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6183"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "Waage p120 1450"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 337"
+    ],
     "hashed_id_s": [
         "7bada95a90055038"
     ],
-    "_version_": 1667138138053541888,
-    "timestamp": "2020-05-19T16:47:04.166Z"
+    "_version_": 1684903386854457344,
+    "timestamp": "2020-12-01T18:58:05.673Z"
 }

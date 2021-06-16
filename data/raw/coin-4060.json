@@ -35,6 +35,15 @@
         "1.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4060\",\"call_number_browse\":\"Coin 4060\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1929; $1.75"
+    ],
     "pub_date_start_sort": -454,
     "pub_date_end_sort": -413,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "2333"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +93,12 @@
         "BMC Mac. p.159 6ff."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-454 to -413"
+    ],
     "hashed_id_s": [
         "4cb2d8c06cbe4cd8"
     ],
-    "_version_": 1667138404027990016,
-    "timestamp": "2020-05-19T16:51:17.816Z"
+    "_version_": 1684903273391194112,
+    "timestamp": "2020-12-01T18:56:17.464Z"
 }

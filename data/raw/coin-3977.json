@@ -35,8 +35,8 @@
         "15.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3977\",\"call_number_browse\":\"Coin 3977\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2280"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +99,12 @@
         "Sear Justin I 62"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "6614c9d979c8471b"
     ],
-    "_version_": 1667138402049327104,
-    "timestamp": "2020-05-19T16:51:15.931Z"
+    "_version_": 1684903272252440576,
+    "timestamp": "2020-12-01T18:56:16.380Z"
 }

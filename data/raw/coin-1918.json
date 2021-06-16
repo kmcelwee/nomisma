@@ -38,8 +38,11 @@
         "7.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1918\",\"call_number_browse\":\"Coin 1918\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 1059,
     "pub_date_end_sort": 1067,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1252"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -115,9 +115,12 @@
         "Sear 363 1853"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1059 to 1067"
+    ],
     "hashed_id_s": [
         "045874d5d998729f"
     ],
-    "_version_": 1667138469141413888,
-    "timestamp": "2020-05-19T16:52:19.916Z"
+    "_version_": 1684903610380451840,
+    "timestamp": "2020-12-01T19:01:38.845Z"
 }

@@ -35,8 +35,14 @@
         "17.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10568\",\"call_number_browse\":\"Coin 10568\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 02/09/2001"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE/1"
-    ],
-    "issue_number_s": [
-        "6734"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "SNS 1 Type IIIb/3a, no. A38"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "c3df35c3fcdf24e5"
     ],
-    "_version_": 1667138259647463424,
-    "timestamp": "2020-05-19T16:49:00.126Z"
+    "_version_": 1684903130379059200,
+    "timestamp": "2020-12-01T18:54:01.078Z"
 }

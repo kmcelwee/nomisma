@@ -50,6 +50,9 @@
         "10.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8077\",\"call_number_browse\":\"Coin 8077\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 538,
     "pub_date_end_sort": 540,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "20 nummi"
-    ],
-    "issue_number_s": [
-        "5106"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "ANNO"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "538 to 540"
+    ],
     "hashed_id_s": [
         "4f343e31674bbee0"
     ],
-    "_version_": 1667138192147480576,
-    "timestamp": "2020-05-19T16:47:55.752Z"
+    "_version_": 1684902939647279104,
+    "timestamp": "2020-12-01T18:50:59.182Z"
 }

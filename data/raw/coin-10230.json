@@ -35,6 +35,12 @@
         "2.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10230\",\"call_number_browse\":\"Coin 10230\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 132,
     "pub_date_end_sort": 134,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6476"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 310 547"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "132 to 134"
+    ],
     "hashed_id_s": [
         "75621c9e9731b09b"
     ],
-    "_version_": 1667138136808882176,
-    "timestamp": "2020-05-19T16:47:02.981Z"
+    "_version_": 1684903385307807744,
+    "timestamp": "2020-12-01T18:58:04.198Z"
 }

@@ -41,8 +41,11 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8895\",\"call_number_browse\":\"Coin 8895\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "5656"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Sellwood  46.13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "3c8f9e0e6805bc72"
     ],
-    "_version_": 1667138160541302784,
-    "timestamp": "2020-05-19T16:47:25.609Z"
+    "_version_": 1684902931291176960,
+    "timestamp": "2020-12-01T18:50:51.214Z"
 }

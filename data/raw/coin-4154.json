@@ -35,16 +35,22 @@
         "1.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4154\",\"call_number_browse\":\"Coin 4154\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1931; $20.50"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2366"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "with Corinthian helmet; legend downwards behind; border of dots"
+        "wearing Corinthian helmet; behind, legend downwards"
     ],
     "issue_obverse_legend_s": [
         "NERVA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -89,14 +98,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "holds wreath in r. hand and palm branch in l. hand; legend downwards before; border of dots"
+        "holding wreath in r. hand and palm branch in l. hand; before, legend downwards"
     ],
     "issue_reverse_legend_s": [
-        "A LICINIV"
+        "A.LICINIV"
     ],
     "issue_reverse_attributes_s": [
         "wreath, held in r. hand",
-        "palm branch, held in l. hand"
+        "palm branch, held in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  454/3",
@@ -104,9 +114,12 @@
         "Sear  431"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "b7a62a87ddb89bad"
     ],
-    "_version_": 1667138490662387712,
-    "timestamp": "2020-05-19T16:52:40.437Z"
+    "_version_": 1684903626202415104,
+    "timestamp": "2020-12-01T19:01:53.931Z"
 }

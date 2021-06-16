@@ -38,8 +38,11 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 893\",\"call_number_browse\":\"Coin 893\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "79:  J.C. Wilson"
     ],
     "pub_date_start_sort": -319,
     "pub_date_end_sort": -315,
@@ -102,9 +105,12 @@
         "Price  2684"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-319 to -315"
+    ],
     "hashed_id_s": [
         "9b7732ce3df758df"
     ],
-    "_version_": 1673105025798242304,
-    "timestamp": "2020-07-24T13:28:11.758Z"
+    "_version_": 1684903669349220352,
+    "timestamp": "2020-12-01T19:02:35.082Z"
 }

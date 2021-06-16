@@ -35,6 +35,12 @@
         "3.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9361\",\"call_number_browse\":\"Coin 9361\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1436,
     "pub_date_end_sort": 1449,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "florin"
-    ],
-    "issue_number_s": [
-        "5983"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "Paolucci II 49.556"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1436 to 1449"
+    ],
     "hashed_id_s": [
         "0173c2a673fb87fe"
     ],
-    "_version_": 1667145542244761600,
-    "timestamp": "2020-05-19T18:52:24.396Z"
+    "_version_": 1684903359506546688,
+    "timestamp": "2020-12-01T18:57:39.593Z"
 }

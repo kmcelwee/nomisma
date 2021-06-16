@@ -38,8 +38,11 @@
         "16.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 762\",\"call_number_browse\":\"Coin 762\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
@@ -102,9 +105,12 @@
         "Price  P181"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "80044856603cbe5e"
     ],
-    "_version_": 1674367569608310784,
-    "timestamp": "2020-08-07T11:55:47.358Z"
+    "_version_": 1684903332088381440,
+    "timestamp": "2020-12-01T18:57:13.443Z"
 }

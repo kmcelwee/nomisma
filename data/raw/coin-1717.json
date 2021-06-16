@@ -35,8 +35,11 @@
         "3.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1717\",\"call_number_browse\":\"Coin 1717\"}}",
-    "donor_s": [
-        "P. Capps"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "95: 1933-01-01 P. Capps"
     ],
     "pub_date_start_sort": -365,
     "pub_date_end_sort": -359,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1104"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "BMC Mac. Macedonia p.175-2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-365 to -359"
+    ],
     "hashed_id_s": [
         "733111d2007142fa"
     ],
-    "_version_": 1667138213492293632,
-    "timestamp": "2020-05-19T16:48:16.107Z"
+    "_version_": 1684902978821029888,
+    "timestamp": "2020-12-01T18:51:36.542Z"
 }

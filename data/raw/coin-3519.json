@@ -32,8 +32,11 @@
         "14.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3519\",\"call_number_browse\":\"Coin 3519\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1674,
     "pub_date_end_sort": 1678,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Fen"
-    ],
-    "issue_number_s": [
-        "2062"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +76,12 @@
         "Jen 133 638"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1674 to 1678"
+    ],
     "hashed_id_s": [
         "c19aba1d6235884c"
     ],
-    "_version_": 1667138435033333760,
-    "timestamp": "2020-05-19T16:51:47.385Z"
+    "_version_": 1684903283876954112,
+    "timestamp": "2020-12-01T18:56:27.465Z"
 }

@@ -35,8 +35,11 @@
         "7.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1049\",\"call_number_browse\":\"Coin 1049\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 66,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "503"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "Sear  1926"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 66"
+    ],
     "hashed_id_s": [
         "2c891bc6e861a929"
     ],
-    "_version_": 1667138457277825024,
-    "timestamp": "2020-05-19T16:52:08.601Z"
+    "_version_": 1684903600100212736,
+    "timestamp": "2020-12-01T19:01:29.039Z"
 }

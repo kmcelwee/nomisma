@@ -38,8 +38,8 @@
         "8.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5470\",\"call_number_browse\":\"Coin 5470\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
     ],
     "pub_date_start_sort": -425,
     "pub_date_end_sort": -415,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3078"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +94,12 @@
         "Vlasto, Taras  53D."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-425 to -415"
+    ],
     "hashed_id_s": [
         "727c0a9c74464ea6"
     ],
-    "_version_": 1667138397434544128,
-    "timestamp": "2020-05-19T16:51:11.503Z"
+    "_version_": 1684903270210863104,
+    "timestamp": "2020-12-01T18:56:14.432Z"
 }

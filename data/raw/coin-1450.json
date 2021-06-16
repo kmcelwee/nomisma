@@ -35,8 +35,11 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1450\",\"call_number_browse\":\"Coin 1450\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -8,
     "pub_date_end_sort": -1,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "849"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Sear  1596"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-8 to -1"
+    ],
     "hashed_id_s": [
         "e74bf804a7996ca5"
     ],
-    "_version_": 1667138411418353664,
-    "timestamp": "2020-05-19T16:51:24.863Z"
+    "_version_": 1684903184288448512,
+    "timestamp": "2020-12-01T18:54:52.491Z"
 }

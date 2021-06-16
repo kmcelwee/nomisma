@@ -35,8 +35,11 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2912\",\"call_number_browse\":\"Coin 2912\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1823"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head r., helmeted; XVI monogram behind."
+        "helmeted; behind, XVI monogram (X, crossed)."
+    ],
+    "issue_obverse_legend_s": [
+        "X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "m77, XVI monogram."
     ],
     "issue_reverse_figure_s": [
@@ -96,13 +99,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Goddess in biga r., crowned with wreath by Victory flying above; in r. hand, reins; in l. hand, whip. Star on flank of nearest horse."
+        "crowned with wreath by flying Victory, in biga, whip in l. hand and reins in r. hand; star on flank of nearside horse; below, P.CALP; ROMA in exergue."
     ],
     "issue_reverse_legend_s": [
-        "P.CALP; ROMA [in exergue]"
+        "P.CALP ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border."
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  247/1",
@@ -110,9 +113,12 @@
         "Sear  124"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "50b7f358137c783d"
     ],
-    "_version_": 1667138479181529088,
-    "timestamp": "2020-05-19T16:52:29.488Z"
+    "_version_": 1684903616162299904,
+    "timestamp": "2020-12-01T19:01:44.358Z"
 }

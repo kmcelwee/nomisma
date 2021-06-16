@@ -29,6 +29,12 @@
         "65x91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6360\",\"call_number_browse\":\"Coin 6360\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "15 dollars"
-    ],
-    "issue_number_s": [
-        "3792"
     ],
     "issue_metal_s": [
         "Paper"
@@ -65,6 +68,6 @@
     "hashed_id_s": [
         "861aebabc539f96e"
     ],
-    "_version_": 1667138252824379392,
-    "timestamp": "2020-05-19T16:48:53.618Z"
+    "_version_": 1684903011220979712,
+    "timestamp": "2020-12-01T18:52:07.442Z"
 }

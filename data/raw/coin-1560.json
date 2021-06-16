@@ -40,11 +40,11 @@
     "issue_denomination_s": [
         "10 Cash"
     ],
-    "issue_number_s": [
-        "950"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Hong Wu \u6d2a\u6b66 (Zhu Yuan Zhang \u6731\u5143\u748b) (1368 to 1398)"
@@ -69,9 +69,12 @@
         "Jen  545"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1368 to "
+    ],
     "hashed_id_s": [
         "5a4fc203aad4499d"
     ],
-    "_version_": 1667138464969129984,
-    "timestamp": "2020-05-19T16:52:15.937Z"
+    "_version_": 1684903295516147712,
+    "timestamp": "2020-12-01T18:56:38.566Z"
 }

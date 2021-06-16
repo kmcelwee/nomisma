@@ -2,7 +2,7 @@
     "id": "coin-7584",
     "title_display": "Coin: 7584",
     "pub_created_display": [
-        "Licinius (308 to 324), follis, Antioch"
+        "Maximinus Daia  (305 to 313), AE2, Antioch"
     ],
     "call_number_display": [
         "Coin 7584"
@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/4/1934"
-    ],
-    "find_feature_s": [
-        "Trial Trench 10"
+        "05/04/1934"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
     "find_number_s": [
         "C2769"
+    ],
+    "find_description_s": [
+        "Trial trench 10"
     ],
     "die_axis_s": [
         "11"
@@ -50,22 +50,28 @@
         "4.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7584\",\"call_number_browse\":\"Coin 7584\"}}",
-    "pub_date_start_sort": 311,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 312,
     "pub_date_end_sort": 312,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "4747"
+        "AE2"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Licinius (308 to 324)"
+        "Maximinus Daia  (305 to 313)"
     ],
     "issue_workshop_s": [
         "B"
@@ -88,8 +94,11 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "of Licinius, laureate"
+    ],
     "issue_obverse_legend_s": [
-        "IMP LIC LICINIVS P F AVG"
+        "IMP C LIC LICINNIVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Genius"
@@ -101,18 +110,26 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Genius stg. l., holding a horn of plenty."
+        "wearing modius, nude, chlamys draped over left shoulder"
     ],
     "issue_reverse_legend_s": [
-        "GENIO AVGVSTI"
+        "GENIO AV-GVSTI"
+    ],
+    "issue_reverse_attributes_s": [
+        "head of Sol/Serapis, in r. hand",
+        "cornucopiae, in l. hand"
     ],
     "issue_references_s": [
-        "Numismatique Constantinienne III. 174. V. 2."
+        "RIC VI  Antioch 164a",
+        "Numismatique Constantinienne III p. 173, n. V.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "312 to 312"
+    ],
     "hashed_id_s": [
         "5dda1a5738ccae26"
     ],
-    "_version_": 1667138260316454912,
-    "timestamp": "2020-05-19T16:49:00.765Z"
+    "_version_": 1684903224918671360,
+    "timestamp": "2020-12-01T18:55:31.238Z"
 }

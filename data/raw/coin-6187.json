@@ -37,9 +37,6 @@
     "find_date_s": [
         "06/21/1937"
     ],
-    "find_feature_s": [
-        "Southwest cut north"
-    ],
     "find_locus_s": [
         "DH 27-N"
     ],
@@ -47,7 +44,7 @@
         "Ca2211"
     ],
     "find_description_s": [
-        "extension to ca. 0.70 below level of mosaic"
+        "SW. cut, north extension, to 0.7m below level of mosaic"
     ],
     "die_axis_s": [
         "2"
@@ -59,6 +56,12 @@
         "5.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6187\",\"call_number_browse\":\"Coin 6187\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 59,
     "pub_date_end_sort": 60,
     "issue_object_type_s": [
@@ -67,11 +70,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1809"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -98,7 +104,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of city godess"
+        "veiled, turreted, draped"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -110,7 +116,7 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "lighted altar"
+        "lighted"
     ],
     "issue_reverse_figure_relationship_s": [
         "legend in exergue"
@@ -122,9 +128,12 @@
         "RPC.1  4292"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "59 to 60"
+    ],
     "hashed_id_s": [
         "7d18643ae0a07a01"
     ],
-    "_version_": 1667138478938259456,
-    "timestamp": "2020-05-19T16:52:29.259Z"
+    "_version_": 1684903692656967680,
+    "timestamp": "2020-12-01T19:02:57.310Z"
 }

@@ -32,16 +32,13 @@
         "7/16/1938"
     ],
     "find_feature_s": [
-        "Sub room C3"
+        "Above bedrock (B1 baskets)"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb3928"
-    ],
-    "find_description_s": [
-        "Above bedrock with basket Bl."
     ],
     "die_axis_s": [
         "7"
@@ -53,6 +50,12 @@
         "27.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8323\",\"call_number_browse\":\"Coin 8323\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 103,
     "pub_date_end_sort": 111,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "5315"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -110,9 +110,12 @@
         "RIC 2 277 459"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "103 to 111"
+    ],
     "hashed_id_s": [
         "6839ef7ac4a742c0"
     ],
-    "_version_": 1667138186988486656,
-    "timestamp": "2020-05-19T16:47:50.833Z"
+    "_version_": 1689428852911112192,
+    "timestamp": "2021-01-20T17:48:26.415Z"
 }

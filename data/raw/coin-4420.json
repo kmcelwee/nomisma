@@ -38,8 +38,11 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4420\",\"call_number_browse\":\"Coin 4420\"}}",
-    "donor_s": [
-        "Anonymous"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "200:  Anonymous"
     ],
     "pub_date_start_sort": -44,
     "pub_date_end_sort": -44,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2479"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Sear  1409"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-44 to -44"
+    ],
     "hashed_id_s": [
         "46d80add2d63b023"
     ],
-    "_version_": 1667138405238046720,
-    "timestamp": "2020-05-19T16:51:18.972Z"
+    "_version_": 1684903179538399232,
+    "timestamp": "2020-12-01T18:54:47.960Z"
 }

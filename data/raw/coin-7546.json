@@ -35,8 +35,11 @@
         "5.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7546\",\"call_number_browse\":\"Coin 7546\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -251,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "4710"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Catalogue of Greek Coins - Peloponnesus 50 172"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -251"
+    ],
     "hashed_id_s": [
         "f6f42ffc503787a7"
     ],
-    "_version_": 1667138175329370112,
-    "timestamp": "2020-05-19T16:47:39.713Z"
+    "_version_": 1684902951593705472,
+    "timestamp": "2020-12-01T18:51:10.575Z"
 }

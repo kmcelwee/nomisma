@@ -35,8 +35,11 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1826\",\"call_number_browse\":\"Coin 1826\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 372,
     "pub_date_end_sort": 361,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1190"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +100,12 @@
         "Phoen Sidon 32"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "372 to 361"
+    ],
     "hashed_id_s": [
         "0ca16a7dce26fcde"
     ],
-    "_version_": 1667138415808741376,
-    "timestamp": "2020-05-19T16:51:29.052Z"
+    "_version_": 1684903190473998336,
+    "timestamp": "2020-12-01T18:54:58.390Z"
 }

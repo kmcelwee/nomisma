@@ -35,8 +35,11 @@
         "1.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 542\",\"call_number_browse\":\"Coin 542\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 1266,
     "pub_date_end_sort": 1270,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "242"
     ],
     "issue_metal_s": [
         "Silver"
@@ -78,9 +78,12 @@
         "Robert  4857"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1266 to 1270"
+    ],
     "hashed_id_s": [
         "f57ba3875473109a"
     ],
-    "_version_": 1667138203331592192,
-    "timestamp": "2020-05-19T16:48:06.418Z"
+    "_version_": 1684903439701639168,
+    "timestamp": "2020-12-01T18:58:56.071Z"
 }

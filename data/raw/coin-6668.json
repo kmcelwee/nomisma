@@ -38,8 +38,11 @@
         "7.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6668\",\"call_number_browse\":\"Coin 6668\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Gans/NFA; Jan. 1959; $50"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "4090"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  970a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "73f4a8a0162c6d7b"
     ],
-    "_version_": 1667138368579829760,
-    "timestamp": "2020-05-19T16:50:44.010Z"
+    "_version_": 1684903104809533440,
+    "timestamp": "2020-12-01T18:53:36.697Z"
 }

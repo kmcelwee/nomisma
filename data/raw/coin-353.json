@@ -35,6 +35,9 @@
         "10.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 353\",\"call_number_browse\":\"Coin 353\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 1664,
     "pub_date_end_sort": 1665,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "rupee"
-    ],
-    "issue_number_s": [
-        "179"
     ],
     "issue_metal_s": [
         "Gold"
@@ -74,9 +74,12 @@
         "vegetal pattern, in inscription"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1664 to 1665"
+    ],
     "hashed_id_s": [
         "d7e3a245e8cc6412"
     ],
-    "_version_": 1667138403271966720,
-    "timestamp": "2020-05-19T16:51:17.095Z"
+    "_version_": 1684903272983298048,
+    "timestamp": "2020-12-01T18:56:17.076Z"
 }

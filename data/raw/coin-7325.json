@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "10-4-1934"
+        "1934-10-04"
+    ],
+    "find_feature_s": [
+        "Final trench 10, S. end, surface"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
-    "find_description_s": [
-        "7O, Final Trench 10, South end, surface"
+    "find_number_s": [
+        "C2896"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +50,12 @@
         "1.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7325\",\"call_number_browse\":\"Coin 7325\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4581"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,17 +113,20 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 697.108",
+        "RIC VII Antioch 108",
         "Cohen 7 257.244",
         "Numismatique Constantinienne 3 212.II.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "555562649d01d3e7"
     ],
-    "_version_": 1667138356338753536,
-    "timestamp": "2020-05-19T16:50:32.337Z"
+    "_version_": 1691339091018252288,
+    "timestamp": "2021-02-10T19:50:51.444Z"
 }

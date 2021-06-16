@@ -50,6 +50,12 @@
         "4.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2560\",\"call_number_browse\":\"Coin 2560\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1101,
     "pub_date_end_sort": 1112,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "1607"
     ],
     "issue_metal_s": [
         "Copper"
@@ -106,9 +109,12 @@
         "Ox.  49"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1101 to 1112"
+    ],
     "hashed_id_s": [
         "522f48a504ce6960"
     ],
-    "_version_": 1667138476233981952,
-    "timestamp": "2020-05-19T16:52:26.678Z"
+    "_version_": 1684903614452072448,
+    "timestamp": "2020-12-01T19:01:42.727Z"
 }

@@ -29,7 +29,7 @@
         "Coin heavily clipped"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/09/1937"
@@ -53,6 +53,12 @@
         "0.90"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14896\",\"call_number_browse\":\"Coin 14896\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -210,
     "pub_date_end_sort": -197,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "9010"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,13 +121,16 @@
         "\u0398, on inner left"
     ],
     "issue_references_s": [
-        "H & L I, vol.I, p.402 1058",
+        "H & L I, vol.I, p.402 1058b",
         "Waage  89"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-210 to -197"
+    ],
     "hashed_id_s": [
         "d49f10ecde16f2c4"
     ],
-    "_version_": 1670294190801551360,
-    "timestamp": "2020-06-23T12:51:10.614Z"
+    "_version_": 1684902922736893952,
+    "timestamp": "2020-12-01T18:50:43.055Z"
 }

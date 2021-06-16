@@ -32,8 +32,11 @@
         "9.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1547\",\"call_number_browse\":\"Coin 1547\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1358,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "3 Cash"
     ],
-    "issue_number_s": [
-        "939"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Tian Qi \u5929\u555f (Xu Shou Hui) (1351 to 1360)"
@@ -72,9 +75,12 @@
         "Jen  496"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1358 to "
+    ],
     "hashed_id_s": [
         "f17f64bfc097b452"
     ],
-    "_version_": 1667138212085104640,
-    "timestamp": "2020-05-19T16:48:14.766Z"
+    "_version_": 1684903446983999488,
+    "timestamp": "2020-12-01T18:59:03.016Z"
 }

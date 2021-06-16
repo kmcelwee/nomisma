@@ -38,6 +38,12 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13020\",\"call_number_browse\":\"Coin 13020\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -108,
     "pub_date_end_sort": -107,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8497"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "RRC  308-1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-108 to -107"
+    ],
     "hashed_id_s": [
         "543d4c6454b6e291"
     ],
-    "_version_": 1667138336964214784,
-    "timestamp": "2020-05-19T16:50:13.860Z"
+    "_version_": 1684903242934255616,
+    "timestamp": "2020-12-01T18:55:48.419Z"
 }

@@ -35,6 +35,15 @@
         "3.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2703\",\"call_number_browse\":\"Coin 2703\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Julia Seaby; 1928"
+    ],
     "pub_date_start_sort": -19,
     "pub_date_end_sort": -16,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1707"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +93,15 @@
         "BMC.1. Augustus 367"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, temple"
+    ],
+    "issue_date_s": [
+        "-19 to -16"
+    ],
     "hashed_id_s": [
         "95a2ea84215719e4"
     ],
-    "_version_": 1667138477410484224,
-    "timestamp": "2020-05-19T16:52:27.801Z"
+    "_version_": 1684903615353847808,
+    "timestamp": "2020-12-01T19:01:43.590Z"
 }

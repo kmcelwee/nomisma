@@ -38,6 +38,12 @@
         "16.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13692\",\"call_number_browse\":\"Coin 13692\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "297: 2001-02-02 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": -146,
     "pub_date_end_sort": -145,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8757"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,15 +105,19 @@
     ],
     "issue_reverse_attributes_s": [
         "Nike, in his right hand, facing right, offering wreat",
-        "AI, in exergue, on right"
+        "AI, in exergue, on right",
+        "monogram, between figure and legend"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.221 1784.8h"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-146 to -145"
+    ],
     "hashed_id_s": [
         "fb63314d5022e41a"
     ],
-    "_version_": 1667138323490013184,
-    "timestamp": "2020-05-19T16:50:01.010Z"
+    "_version_": 1684903167865651200,
+    "timestamp": "2020-12-01T18:54:36.829Z"
 }

@@ -35,8 +35,11 @@
         "5.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1399\",\"call_number_browse\":\"Coin 1399\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -317,
     "pub_date_end_sort": -310,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "798"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,12 @@
         "Agoth AE Pl. 7 4v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-317 to -310"
+    ],
     "hashed_id_s": [
         "2272aab782a70961"
     ],
-    "_version_": 1667138462745100288,
-    "timestamp": "2020-05-19T16:52:13.815Z"
+    "_version_": 1684903294481203200,
+    "timestamp": "2020-12-01T18:56:37.580Z"
 }

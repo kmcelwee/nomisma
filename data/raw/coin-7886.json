@@ -53,6 +53,9 @@
         "2.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7886\",\"call_number_browse\":\"Coin 7886\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 734,
     "pub_date_end_sort": 736,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5889"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Die M\u00fcnzst\u00e4tte Damaskus von den Umayyaden bis zu den Mongolen ca. 660-1260 AD pp. 24-25 200-201"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "734 to 736"
+    ],
     "hashed_id_s": [
         "d27c340ec1cf9bea"
     ],
-    "_version_": 1667138147504357376,
-    "timestamp": "2020-05-19T16:47:13.179Z"
+    "_version_": 1684903400753332224,
+    "timestamp": "2020-12-01T18:58:18.927Z"
 }

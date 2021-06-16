@@ -35,8 +35,11 @@
         "11.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1146\",\"call_number_browse\":\"Coin 1146\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 65,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "585"
     ],
     "issue_metal_s": [
         "Copper"
@@ -108,9 +108,12 @@
         "Sear  1976v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 65"
+    ],
     "hashed_id_s": [
         "b4d6687a859b7324"
     ],
-    "_version_": 1667138208415088640,
-    "timestamp": "2020-05-19T16:48:11.267Z"
+    "_version_": 1684902973113630720,
+    "timestamp": "2020-12-01T18:51:31.100Z"
 }

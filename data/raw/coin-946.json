@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Drachm"
     ],
-    "issue_number_s": [
-        "418"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -99,9 +96,12 @@
         "Price  1398"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -301"
+    ],
     "hashed_id_s": [
         "a5ffc0b561abaf66"
     ],
-    "_version_": 1667138407541768192,
-    "timestamp": "2020-05-19T16:51:21.167Z"
+    "_version_": 1684903274694574080,
+    "timestamp": "2020-12-01T18:56:18.708Z"
 }

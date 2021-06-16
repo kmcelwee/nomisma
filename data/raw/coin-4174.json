@@ -38,6 +38,15 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4174\",\"call_number_browse\":\"Coin 4174\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1928; $2.80"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2379"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,10 +86,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "draped, hair tied with band (Roma?); ROMA behind, MA in monogram, legend before upwards; border of dots"
+        "(possibly Roma) draped, hair tied with band; ROMA behind, MA in monogram; before, M.CATO.PRO.PR upwards"
     ],
     "issue_obverse_legend_s": [
-        "ROMA | M CATO \u0393RO \u0393R"
+        "ROMA M.CATO.PRO.PR"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -95,14 +104,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "holds wreath in r. hand, palm branch in l. hand; legend in exergue, TR in monogram; border of dots"
+        "holding wreath in r. hand and palm branch in l. hand; legend in exergue, TR in monogram"
     ],
     "issue_reverse_legend_s": [
         "VICTRIX"
     ],
     "issue_reverse_attributes_s": [
         "wreath, in right hand",
-        "palm branch, in left hand"
+        "palm branch, in left hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  462/1b",
@@ -110,9 +120,12 @@
         "Sear  1382"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "c294bff32e3d70b6"
     ],
-    "_version_": 1667138233608175616,
-    "timestamp": "2020-05-19T16:48:35.291Z"
+    "_version_": 1684903458898968576,
+    "timestamp": "2020-12-01T18:59:14.493Z"
 }

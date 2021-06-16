@@ -35,8 +35,11 @@
         "3.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12981\",\"call_number_browse\":\"Coin 12981\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -54,
@@ -87,9 +90,12 @@
         "Sellwood  40.2 (variant without T)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -54"
+    ],
     "hashed_id_s": [
         "1b0969fb41ae4bfb"
     ],
-    "_version_": 1672838550680240128,
-    "timestamp": "2020-07-21T14:52:41.278Z"
+    "_version_": 1684902919502036992,
+    "timestamp": "2020-12-01T18:50:39.970Z"
 }

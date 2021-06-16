@@ -38,16 +38,16 @@
         "42.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3627\",\"call_number_browse\":\"Coin 3627\"}}",
-    "donor_s": [
-        "Mrs. Henry L. O' Gorman"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "373: 1979-01-01 Mrs. Henry L. O' Gorman"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2132"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,16 @@
         "P Ansart, P A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Battle of the Somme    Jul  1 1916 12:00AM"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "119ce624d49a1702"
     ],
-    "_version_": 1667138227300990976,
-    "timestamp": "2020-05-19T16:48:29.278Z"
+    "_version_": 1684902984081735680,
+    "timestamp": "2020-12-01T18:51:41.560Z"
 }

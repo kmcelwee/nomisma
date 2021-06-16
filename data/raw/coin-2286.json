@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin in bad condition with surface pitted on both sides. On obverse, legend is partially illegible: IM TI CLA [CAE AV GER].  For reverse, upper part of wreath is not visible. Tentative attribution. This coin weighs considerably less than RPC #4279."
+        "Coin in bad condition with surface pitted on both sides. On obverse, legend is partially illegible: IM TI CLA [CAE AV GER]. For reverse, upper part of wreath is not visible. Tentative attribution. This coin weighs considerably less than RPC #4279."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,14 @@
     "find_date_s": [
         "06/23/1937"
     ],
-    "find_feature_s": [
-        "North pit to level of walls"
-    ],
     "find_locus_s": [
         "DH 27-O"
     ],
     "find_number_s": [
         "Ca2261"
+    ],
+    "find_description_s": [
+        "N. pit, to level of walls"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +53,12 @@
         "9.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2286\",\"call_number_browse\":\"Coin 2286\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 47,
     "pub_date_end_sort": 48,
     "issue_object_type_s": [
@@ -61,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1455"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -92,27 +101,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Claudius"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM TI CLA CAE AV GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC enclosed by laurel wreath of eight leaves; dotted border around the wreath"
-    ],
-    "issue_reverse_legend_s": [
-        "SC"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4279"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "47 to 48"
+    ],
     "hashed_id_s": [
         "535da41ce3490220"
     ],
-    "_version_": 1667138221322010624,
-    "timestamp": "2020-05-19T16:48:23.576Z"
+    "_version_": 1684902995695763456,
+    "timestamp": "2020-12-01T18:51:52.635Z"
 }

@@ -50,6 +50,12 @@
         "0.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 770\",\"call_number_browse\":\"Coin 770\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 517,
     "pub_date_end_sort": 518,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "135"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +116,12 @@
         "Sear  53"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "517 to 518"
+    ],
     "hashed_id_s": [
         "6a164ba7301e27e2"
     ],
-    "_version_": 1667138472230518784,
-    "timestamp": "2020-05-19T16:52:22.860Z"
+    "_version_": 1684903612681027584,
+    "timestamp": "2020-12-01T19:01:41.038Z"
 }

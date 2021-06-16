@@ -32,6 +32,12 @@
         "2.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12043\",\"call_number_browse\":\"Coin 12043\"}}",
+    "numismatic_collection_s": [
+        "Bell"
+    ],
+    "numismatic_accession_s": [
+        "740: 2017-11-14 The Estate of Benjamin R. Bell"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -40,9 +46,6 @@
     "issue_denomination_s": [
         "ducat"
     ],
-    "issue_number_s": [
-        "7921"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -50,6 +53,6 @@
     "hashed_id_s": [
         "c79333eeeabc40a1"
     ],
-    "_version_": 1667144701197680640,
-    "timestamp": "2020-05-19T18:31:23.357Z"
+    "_version_": 1684903356167880704,
+    "timestamp": "2020-12-01T18:57:36.408Z"
 }

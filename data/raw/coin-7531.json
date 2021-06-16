@@ -35,8 +35,11 @@
         "2.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7531\",\"call_number_browse\":\"Coin 7531\"}}",
-    "donor_s": [
-        "A.C. Johnson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "204:  A.C. Johnson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -251,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "4698"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Catalogue of Greek Coins - Peloponnesus 47 138"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -251"
+    ],
     "hashed_id_s": [
         "37b328c32ee53f9b"
     ],
-    "_version_": 1667138260099399680,
-    "timestamp": "2020-05-19T16:49:00.556Z"
+    "_version_": 1684903130500694016,
+    "timestamp": "2020-12-01T18:54:01.200Z"
 }

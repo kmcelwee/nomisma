@@ -35,8 +35,14 @@
         "0.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11068\",\"call_number_browse\":\"Coin 11068\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Bill Spengler; 05/02/2004"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7229"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +86,12 @@
         "SNS 3 Uncertain Mint Type I?/1?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "9de736f6580cea22"
     ],
-    "_version_": 1667138169106071552,
-    "timestamp": "2020-05-19T16:47:33.778Z"
+    "_version_": 1684902929369137152,
+    "timestamp": "2020-12-01T18:50:49.380Z"
 }

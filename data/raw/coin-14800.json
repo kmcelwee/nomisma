@@ -2,7 +2,7 @@
     "id": "coin-14800",
     "title_display": "Coin: 14800",
     "pub_created_display": [
-        "Diocletian   (244 to 311), antoninianus, Antioch"
+        "Diocletian   (284 to 305), antoninianus, Antioch"
     ],
     "call_number_display": [
         "Coin 14800"
@@ -35,28 +35,31 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14800\",\"call_number_browse\":\"Coin 14800\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
+    ],
+    "pub_date_start_sort": 284,
+    "pub_date_end_sort": 294,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "9082"
-    ],
     "issue_metal_s": [
-        "Billon"
+        "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
-        "Diocletian   (244 to 311)"
+        "Diocletian   (284 to 305)"
+    ],
+    "issue_workshop_s": [
+        "A"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -71,36 +74,54 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_symbol_s": [
+        "dot under bust"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "radiate"
+        "radiate, draped"
     ],
     "issue_obverse_legend_s": [
-        "IMPCCVALDIOCLETIANVSAVG"
+        "IMP C C VAL DIOCLETIANVS AVG"
     ],
     "issue_reverse_figure_s": [
-        "Emperor and Jupiter"
+        "Emperor"
     ],
     "issue_reverse_symbol_s": [
-        "A / XXI."
+        "A"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
     ],
     "issue_reverse_orientation_s": [
-        "Standing facing sceptre"
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped, cuirassed, receiving Victory from Jupiter"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Jupiter, standing l."
     ],
     "issue_reverse_legend_s": [
-        "CONCORDIAMI LITVM"
+        "CONCORDIA MILITVM / XXI."
     ],
     "issue_references_s": [
-        "Probus to Amandus Diocletian 306"
+        "RIC V  Diocletian 306"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "284 to 294"
+    ],
     "hashed_id_s": [
         "dd0a2e2a58d2312d"
     ],
-    "_version_": 1667145394114527232,
-    "timestamp": "2020-05-19T18:52:43.133Z"
+    "_version_": 1684903069779755008,
+    "timestamp": "2020-12-01T18:53:03.287Z"
 }

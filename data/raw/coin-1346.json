@@ -35,8 +35,11 @@
         "12.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1346\",\"call_number_browse\":\"Coin 1346\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 66,
@@ -92,9 +95,12 @@
         "RPC.1  2626"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 66"
+    ],
     "hashed_id_s": [
         "23260af8a17ef122"
     ],
-    "_version_": 1674369025179648000,
-    "timestamp": "2020-08-07T12:18:55.499Z"
+    "_version_": 1684903333378129920,
+    "timestamp": "2020-12-01T18:57:14.673Z"
 }

@@ -38,8 +38,11 @@
         "2.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9881\",\"call_number_browse\":\"Coin 9881\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1248,
     "pub_date_end_sort": 1248,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "6261"
     ],
     "issue_metal_s": [
         "Copper"
@@ -103,9 +103,12 @@
         "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection 4, pg 630 1.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1248 to 1248"
+    ],
     "hashed_id_s": [
         "a50ddd79e17cb2c0"
     ],
-    "_version_": 1667138142339072000,
-    "timestamp": "2020-05-19T16:47:08.250Z"
+    "_version_": 1684903393025327104,
+    "timestamp": "2020-12-01T18:58:11.558Z"
 }

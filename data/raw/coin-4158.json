@@ -35,16 +35,22 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4158\",\"call_number_browse\":\"Coin 4158\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; 75\u00a2"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2369"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "legend around; border of dots"
+        "legend around"
     ],
     "issue_obverse_legend_s": [
-        "DEI PENATES"
+        "DEI.PENATES"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Hercules"
@@ -89,15 +98,16 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "cloak/lionskin over l. arm, holding trophy in l. hand, club in r. hand; legend r. downwards; border of dots"
+        "with cloak over l. arm, holding trophy in l. hand and club in r. hand; legend r. downwards"
     ],
     "issue_reverse_legend_s": [
-        "C ANTIVS C F"
+        "C.ANTIVS.C.F"
     ],
     "issue_reverse_attributes_s": [
         "lionskin, over l. arm",
         "trophy, in l. hand",
-        "club, in r. hand"
+        "club, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  455/2a",
@@ -105,9 +115,12 @@
         "Sear  435"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "fd858aea3a5fa2e8"
     ],
-    "_version_": 1667138490867908608,
-    "timestamp": "2020-05-19T16:52:40.636Z"
+    "_version_": 1684903626526425088,
+    "timestamp": "2020-12-01T19:01:54.242Z"
 }

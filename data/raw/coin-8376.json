@@ -50,6 +50,12 @@
         "7.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8376\",\"call_number_browse\":\"Coin 8376\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -92,
     "pub_date_end_sort": -91,
     "issue_object_type_s": [
@@ -108,9 +114,12 @@
         "Waage  250"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-92 to -91"
+    ],
     "hashed_id_s": [
         "cbc09ba467afc624"
     ],
-    "_version_": 1671120043104010240,
-    "timestamp": "2020-07-02T15:37:44.739Z"
+    "_version_": 1684903674091929600,
+    "timestamp": "2020-12-01T19:02:39.602Z"
 }

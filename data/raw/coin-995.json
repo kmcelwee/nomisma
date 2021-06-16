@@ -35,8 +35,11 @@
         "2.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 995\",\"call_number_browse\":\"Coin 995\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "15: 2002-12-18 Anonymous Class of '64"
     ],
     "pub_date_start_sort": -250,
     "pub_date_end_sort": -146,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hemidrachm"
-    ],
-    "issue_number_s": [
-        "454"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"monogram\",\"document_id\":\"16a2af26-452e-4c30-9d03-388fcdefd693\"}]",
+    "issue_date_s": [
+        "-250 to -146"
+    ],
     "hashed_id_s": [
         "72da271d662cf03a"
     ],
-    "_version_": 1667138206544429056,
-    "timestamp": "2020-05-19T16:48:09.480Z"
+    "_version_": 1684903094119301120,
+    "timestamp": "2020-12-01T18:53:26.499Z"
 }

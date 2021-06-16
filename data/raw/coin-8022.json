@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/23/1938"
+        "1938-08-23"
     ],
     "find_feature_s": [
         "Dump"
     ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
         "Cb4469"
@@ -50,6 +50,12 @@
         "4.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8022\",\"call_number_browse\":\"Coin 8022\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 314,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5057"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,13 +107,16 @@
         "IOVICONSER-VATORIAVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC, VII 676 8",
+        "RIC VII Antioch 8",
         "Numismatique Constantinienne III p. 187 II 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 314"
+    ],
     "hashed_id_s": [
         "b7cec3a35c3481a5"
     ],
-    "_version_": 1667138348627525632,
-    "timestamp": "2020-05-19T16:50:24.982Z"
+    "_version_": 1690435785952591872,
+    "timestamp": "2021-01-31T20:33:12.599Z"
 }

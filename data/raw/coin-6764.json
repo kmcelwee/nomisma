@@ -35,6 +35,12 @@
         "0.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6764\",\"call_number_browse\":\"Coin 6764\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1289,
     "pub_date_end_sort": 1305,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "billon"
-    ],
-    "issue_number_s": [
-        "4174"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +96,12 @@
         "Nercessian  395"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1289 to 1305"
+    ],
     "hashed_id_s": [
         "5fa86ab7cf55e316"
     ],
-    "_version_": 1667138362155204608,
-    "timestamp": "2020-05-19T16:50:37.884Z"
+    "_version_": 1684903544432361472,
+    "timestamp": "2020-12-01T19:00:35.951Z"
 }

@@ -34,9 +34,6 @@
     "find_date_s": [
         "07/17/1937"
     ],
-    "find_feature_s": [
-        "under geometric mosaic"
-    ],
     "find_locus_s": [
         "DH 30-Q"
     ],
@@ -44,7 +41,7 @@
         "Ca2711"
     ],
     "find_description_s": [
-        "sealed deposit Ca2704-Ca2713"
+        "Green mosaic dig, room 1, under Geometric mosaic, second level, sealed deposit, to 1m"
     ],
     "die_axis_s": [
         "12"
@@ -56,6 +53,12 @@
         "1.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6534\",\"call_number_browse\":\"Coin 6534\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 364,
     "pub_date_end_sort": 367,
     "issue_object_type_s": [
@@ -64,11 +67,11 @@
     "issue_denomination_s": [
         "aes III"
     ],
-    "issue_number_s": [
-        "4027"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Valentinian I (364 to 375)"
@@ -95,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bust r. diad., draped and cuir."
+        "diademed, draped and cuirassed"
     ],
     "issue_obverse_legend_s": [
         "DVALENTINI ANVSPFAVG"
@@ -110,18 +113,21 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "victory l., with wreath and palm"
+        "with wreath and palm"
     ],
     "issue_reverse_legend_s": [
         "SECVRITAS REIPVBLICAE"
     ],
     "issue_references_s": [
-        "RIC Vol. IX, pg. 275 12(a)"
+        "RIC IX Antioch 12A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "364 to 367"
+    ],
     "hashed_id_s": [
         "1387d717d1b7586c"
     ],
-    "_version_": 1667138365772791808,
-    "timestamp": "2020-05-19T16:50:41.334Z"
+    "_version_": 1684903083188944896,
+    "timestamp": "2020-12-01T18:53:16.075Z"
 }

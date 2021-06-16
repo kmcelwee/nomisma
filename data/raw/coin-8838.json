@@ -35,6 +35,12 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8838\",\"call_number_browse\":\"Coin 8838\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1803,
     "pub_date_end_sort": 1807,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "lira"
-    ],
-    "issue_number_s": [
-        "5634"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "CNI XII, 456 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1803 to 1807"
+    ],
     "hashed_id_s": [
         "82486653c8df7228"
     ],
-    "_version_": 1667138153214902272,
-    "timestamp": "2020-05-19T16:47:18.622Z"
+    "_version_": 1684903408072392704,
+    "timestamp": "2020-12-01T18:58:25.908Z"
 }

@@ -35,13 +35,13 @@
         "15.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6106\",\"call_number_browse\":\"Coin 6106\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3559"
     ],
     "issue_metal_s": [
         "Copper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "d20f4fba0dadd9d1"
     ],
-    "_version_": 1667138251086888960,
-    "timestamp": "2020-05-19T16:48:51.963Z"
+    "_version_": 1684903123325288448,
+    "timestamp": "2020-12-01T18:53:54.351Z"
 }

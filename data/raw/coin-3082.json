@@ -32,16 +32,16 @@
         "28.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3082\",\"call_number_browse\":\"Coin 3082\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1723,
     "pub_date_end_sort": 1736,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1904"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -78,9 +78,12 @@
         "Zhong Guo 331 1st row, center"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1723 to 1736"
+    ],
     "hashed_id_s": [
         "256fe8fbeb81dc63"
     ],
-    "_version_": 1667138224083959808,
-    "timestamp": "2020-05-19T16:48:26.208Z"
+    "_version_": 1684902981530550272,
+    "timestamp": "2020-12-01T18:51:39.125Z"
 }

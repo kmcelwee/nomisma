@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin very badly pitted.  Attribution is tentative and based on excavation notes.  Only the SC of the reverse legend is distinct.  Axis is indeterminate.  Note that weight may be unreliable due to damage.  Also Cf. RPC I. 4279."
+        "Coin very badly pitted. Attribution is tentative and based on excavation notes. Only the SC of the reverse legend is distinct. Note that weight may be unreliable due to damage. Also Cf. RPC I. 4279."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,17 @@
     "find_date_s": [
         "05/03/1938"
     ],
-    "find_feature_s": [
-        "Under Byzantine pipes I."
-    ],
     "find_locus_s": [
-        "16-O3"
+        "A 16-O3"
     ],
     "find_number_s": [
         "Cb1358"
+    ],
+    "find_description_s": [
+        "Under Byzantine pipes I"
+    ],
+    "die_axis_s": [
+        "12"
     ],
     "size_s": [
         "20"
@@ -50,6 +53,12 @@
         "7.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2274\",\"call_number_browse\":\"Coin 2274\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -58,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1462"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -86,24 +95,24 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head right, of a generic Julio Claudian type; also occ. resembles head of Otho"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
+        "generic Julio-Claudian type; possibly resembles hood of head of Otho"
     ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC within a plain circle, dot or dots in field usu. absent or illegible.  Whole within laurel wreath"
+        "within a plain circle, dot or dots in field usually absent or illegible, whole within wreath"
     ],
-    "issue_reverse_legend_s": [
-        "SC"
+    "issue_references_s": [
+        "Waage  869"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "a982c47dfbb5a5b0"
     ],
-    "_version_": 1667138473569550336,
-    "timestamp": "2020-05-19T16:52:24.137Z"
+    "_version_": 1684903690407772160,
+    "timestamp": "2020-12-01T19:02:55.165Z"
 }

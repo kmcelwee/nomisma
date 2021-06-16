@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6661"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -102,9 +99,12 @@
         "ornament, Mule: DO var. 41  obverse; DO var. 48 or49 reverse"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "7c44a61cf836e33a"
     ],
-    "_version_": 1667144828171845632,
-    "timestamp": "2020-05-19T18:33:24.441Z"
+    "_version_": 1684903025664065536,
+    "timestamp": "2020-12-01T18:52:21.215Z"
 }

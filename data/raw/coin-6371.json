@@ -38,8 +38,11 @@
         "7.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6371\",\"call_number_browse\":\"Coin 6371\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Gans/NFA; April 1962; $50"
     ],
     "pub_date_start_sort": -380,
     "pub_date_end_sort": -355,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3803"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  489"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-380 to -355"
+    ],
     "hashed_id_s": [
         "f8ba34528ec75085"
     ],
-    "_version_": 1667138375835975680,
-    "timestamp": "2020-05-19T16:50:50.930Z"
+    "_version_": 1684903114737451008,
+    "timestamp": "2020-12-01T18:53:46.160Z"
 }

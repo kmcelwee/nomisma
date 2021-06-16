@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5940"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,9 +80,12 @@
         "Katalog der orientalischen M\u00fcnzen  2151-2154"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "782 to 783"
+    ],
     "hashed_id_s": [
         "bb9b63226af91f36"
     ],
-    "_version_": 1667145027728441344,
-    "timestamp": "2020-05-19T18:42:22.739Z"
+    "_version_": 1684903075805921280,
+    "timestamp": "2020-12-01T18:53:09.032Z"
 }

@@ -38,8 +38,11 @@
         "1.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 250\",\"call_number_browse\":\"Coin 250\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 950,
     "pub_date_end_sort": 1000,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "153"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "Robert  3861"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "950 to 1000"
+    ],
     "hashed_id_s": [
         "71815d9cbdb3285d"
     ],
-    "_version_": 1667138448675307520,
-    "timestamp": "2020-05-19T16:52:00.395Z"
+    "_version_": 1684903290080329728,
+    "timestamp": "2020-12-01T18:56:33.382Z"
 }

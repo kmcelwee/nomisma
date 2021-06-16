@@ -38,8 +38,14 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10745\",\"call_number_browse\":\"Coin 10745\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 07/29/2005"
     ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6906"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 2 Style A/3 Type Ia/3b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "c9aa511b7d24f5d9"
     ],
-    "_version_": 1667138173634871296,
-    "timestamp": "2020-05-19T16:47:38.096Z"
+    "_version_": 1684903044866637824,
+    "timestamp": "2020-12-01T18:52:39.530Z"
 }

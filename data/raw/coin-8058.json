@@ -56,6 +56,9 @@
         "1.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8058\",\"call_number_browse\":\"Coin 8058\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 423,
     "issue_object_type_s": [
@@ -116,9 +119,12 @@
         "LRC 213 621"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 423"
+    ],
     "hashed_id_s": [
         "8c2005dd2cb7d3bf"
     ],
-    "_version_": 1673552095905579008,
-    "timestamp": "2020-07-29T11:54:11.034Z"
+    "_version_": 1684903534545338368,
+    "timestamp": "2020-12-01T19:00:26.522Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-15109",
     "title_display": "Coin: 15109",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15109"
@@ -35,25 +35,31 @@
         "2.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15109\",\"call_number_browse\":\"Coin 15109\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "126:  Frederick W. Brown"
+    ],
+    "numismatic_provenance_s": [
+        "Frederick W. Brown; ; "
+    ],
+    "pub_date_start_sort": 140,
+    "pub_date_end_sort": 143,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9271"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
+    ],
+    "issue_era_s": [
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +77,48 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG-PIVS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS III"
     ],
     "issue_reverse_figure_s": [
-        "Figure in military attire stnading facing, head l., with spear and parazonium"
+        "Virtus"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing front, head left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "helmeted, in military dress"
     ],
     "issue_reverse_legend_s": [
-        "VIRTVS-AVG"
+        "VIRTVS AVG"
+    ],
+    "issue_reverse_attributes_s": [
+        "vertical spear, reversed in r. hand",
+        "parazonium, upright at shoulder, in l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 39 255-8",
-        "Strack  156",
-        "Roman Imperial Coinage 38 102a"
+        "RIC III  Antoninus Pius 102A",
+        "BMC.4 39 255-8",
+        "Strack  156"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 143"
+    ],
     "hashed_id_s": [
         "b3ad25b03121c5fb"
     ],
-    "_version_": 1667146228748517376,
-    "timestamp": "2020-05-19T19:02:21.097Z"
+    "_version_": 1684903683994681344,
+    "timestamp": "2020-12-01T19:02:49.048Z"
 }

@@ -35,8 +35,8 @@
         "8.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1897\",\"call_number_browse\":\"Coin 1897\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -510,
     "pub_date_end_sort": -472,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "1240"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +94,12 @@
         "SNG Cop. Sicily Part I 40v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-510 to -472"
+    ],
     "hashed_id_s": [
         "2e6136053757d59f"
     ],
-    "_version_": 1667138215300038656,
-    "timestamp": "2020-05-19T16:48:17.831Z"
+    "_version_": 1684903449437667328,
+    "timestamp": "2020-12-01T18:59:05.356Z"
 }

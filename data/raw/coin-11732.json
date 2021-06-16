@@ -35,8 +35,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11732\",\"call_number_browse\":\"Coin 11732\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -111,
     "pub_date_end_sort": -112,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius serratus"
-    ],
-    "issue_number_s": [
-        "7829"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "RRC  296-1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-111 to -112"
+    ],
     "hashed_id_s": [
         "060002334d693cb3"
     ],
-    "_version_": 1667138297436045312,
-    "timestamp": "2020-05-19T16:49:36.162Z"
+    "_version_": 1684903043868393472,
+    "timestamp": "2020-12-01T18:52:38.575Z"
 }

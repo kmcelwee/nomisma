@@ -53,6 +53,12 @@
         "14.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4020\",\"call_number_browse\":\"Coin 4020\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2288"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -120,6 +123,6 @@
     "hashed_id_s": [
         "b6c2c0c37f2f179f"
     ],
-    "_version_": 1667138486425092096,
-    "timestamp": "2020-05-19T16:52:36.396Z"
+    "_version_": 1684903621234262016,
+    "timestamp": "2020-12-01T19:01:49.196Z"
 }

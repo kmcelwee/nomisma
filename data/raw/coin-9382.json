@@ -38,8 +38,11 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9382\",\"call_number_browse\":\"Coin 9382\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1078,
     "pub_date_end_sort": 1081,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "histamenon"
-    ],
-    "issue_number_s": [
-        "6002"
     ],
     "issue_metal_s": [
         "Electrum"
@@ -103,9 +103,12 @@
         "BL Vol. 2; Nicephore III 56/Cp/AU/01-07"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1078 to 1081"
+    ],
     "hashed_id_s": [
         "8fefa45051dcda8b"
     ],
-    "_version_": 1667138275121299456,
-    "timestamp": "2020-05-19T16:49:14.883Z"
+    "_version_": 1684903493381390336,
+    "timestamp": "2020-12-01T18:59:47.264Z"
 }

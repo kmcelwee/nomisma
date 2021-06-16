@@ -31,14 +31,17 @@
     "find_date_s": [
         "5/13/1938"
     ],
+    "find_feature_s": [
+        "Dig III, 3.5-4.5m (basket A)"
+    ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca915"
+        "Ca0915"
     ],
     "find_description_s": [
-        "Dig III 3.50 to 4.50M. Basket A."
+        "."
     ],
     "die_axis_s": [
         "6"
@@ -50,13 +53,16 @@
         "1.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8310\",\"call_number_browse\":\"Coin 8310\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 364,
     "pub_date_end_sort": 367,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5302"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,12 +111,15 @@
     ],
     "issue_references_s": [
         "Waage p.133 1726",
-        "RIC.9 p.120 17A"
+        "RIC IX Rome 17A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "364 to 367"
+    ],
     "hashed_id_s": [
         "00ce0b5e96aa5e41"
     ],
-    "_version_": 1667138347154276352,
-    "timestamp": "2020-05-19T16:50:23.576Z"
+    "_version_": 1684903679325372416,
+    "timestamp": "2020-12-01T19:02:44.595Z"
 }

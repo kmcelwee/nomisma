@@ -35,8 +35,8 @@
         "9.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8798\",\"call_number_browse\":\"Coin 8798\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1535,
     "pub_date_end_sort": 1556,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "8 soldi and 3 denari"
-    ],
-    "issue_number_s": [
-        "5597"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +86,12 @@
         "CNI V, 236 56"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1535 to 1556"
+    ],
     "hashed_id_s": [
         "01c156f75c1abe10"
     ],
-    "_version_": 1667138185880141824,
-    "timestamp": "2020-05-19T16:47:49.774Z"
+    "_version_": 1684902936541396992,
+    "timestamp": "2020-12-01T18:50:56.221Z"
 }

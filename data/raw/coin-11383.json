@@ -35,8 +35,11 @@
         "4.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11383\",\"call_number_browse\":\"Coin 11383\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 751,
     "pub_date_end_sort": 757,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "7543"
     ],
     "issue_metal_s": [
         "Gold"
@@ -100,9 +100,12 @@
         "BN 469 10V"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "751 to 757"
+    ],
     "hashed_id_s": [
         "940c3de049066231"
     ],
-    "_version_": 1667138293203992576,
-    "timestamp": "2020-05-19T16:49:32.125Z"
+    "_version_": 1684903144702607360,
+    "timestamp": "2020-12-01T18:54:14.739Z"
 }

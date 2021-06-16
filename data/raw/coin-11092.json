@@ -38,8 +38,14 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11092\",\"call_number_browse\":\"Coin 11092\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 11/27/1999"
     ],
     "pub_date_start_sort": 488,
     "pub_date_end_sort": 496,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7253"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 LD Type Ia1/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "488 to 496"
+    ],
     "hashed_id_s": [
         "0e3622045529a5a4"
     ],
-    "_version_": 1667138289691262976,
-    "timestamp": "2020-05-19T16:49:28.776Z"
+    "_version_": 1684903035184087040,
+    "timestamp": "2020-12-01T18:52:30.293Z"
 }

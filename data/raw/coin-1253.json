@@ -35,8 +35,11 @@
         "21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1253\",\"call_number_browse\":\"Coin 1253\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -229,
     "pub_date_end_sort": -168,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "704"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "Sear  2313v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-229 to -168"
+    ],
     "hashed_id_s": [
         "7246c84bf2664190"
     ],
-    "_version_": 1667138409812983808,
-    "timestamp": "2020-05-19T16:51:23.335Z"
+    "_version_": 1684903183181152256,
+    "timestamp": "2020-12-01T18:54:51.434Z"
 }

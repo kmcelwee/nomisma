@@ -35,6 +35,12 @@
         "69.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1064\",\"call_number_browse\":\"Coin 1064\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "118: 2000-12-14 Leu Numismatik"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 6,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half-shekel"
-    ],
-    "issue_number_s": [
-        "519"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +109,12 @@
         "Archaic Monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"Archaic Monogram\",\"document_id\":\"f87b4561-8056-4784-8192-f872136cd4eb\"}]",
+    "issue_date_s": [
+        "5 to 6"
+    ],
     "hashed_id_s": [
         "b3ffa72992299c0b"
     ],
-    "_version_": 1667138408801107968,
-    "timestamp": "2020-05-19T16:51:22.368Z"
+    "_version_": 1684903275554406400,
+    "timestamp": "2020-12-01T18:56:19.529Z"
 }

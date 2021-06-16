@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1937"
+        "1937-05-13"
+    ],
+    "find_feature_s": [
+        "Trench to NE. (basket Gamma)"
     ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
-        "Ca957"
+        "Ca0957"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +50,12 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11636\",\"call_number_browse\":\"Coin 11636\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 326,
     "pub_date_end_sort": 327,
     "issue_object_type_s": [
@@ -55,9 +64,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "7749"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -65,13 +71,13 @@
         "Constantine I (306 to 337)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -98,9 +104,12 @@
         "RIC 7 650 44"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "326 to 327"
+    ],
     "hashed_id_s": [
         "df2b64f5a6f0dab1"
     ],
-    "_version_": 1667138132877770752,
-    "timestamp": "2020-05-19T16:46:59.229Z"
+    "_version_": 1696238127986769920,
+    "timestamp": "2021-04-05T21:38:57.170Z"
 }

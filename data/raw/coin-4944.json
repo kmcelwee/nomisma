@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Holed in two places."
+        "Two holes"
     ],
     "die_axis_s": [
         "6"
@@ -38,8 +38,11 @@
         "3.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4944\",\"call_number_browse\":\"Coin 4944\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -54,
     "pub_date_end_sort": -54,
@@ -49,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2730"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Pompeius Rufus"
@@ -80,13 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Q. Pompeius Rufus, Cos. 88, bare head r.; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Moneyer's paternal grandfather"
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "RVFVS COS | Q \u0393OM RVFI"
+        "RVFVS\u00b7COS Q\u00b7POM\u00b7RVFI"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Sulla"
@@ -98,23 +101,26 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Sulla, bare head r.; border of dots"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Moneyer's maternal grandfather"
+        "bare"
     ],
     "issue_reverse_legend_s": [
-        "SVLLA COS"
+        "SVLLA\u00b7COS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  434/1",
+        "RRC  434/1v",
         "Syd.  908",
         "Sear  399"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-54 to -54"
+    ],
     "hashed_id_s": [
         "677f9db63808fec6"
     ],
-    "_version_": 1667138242771681280,
-    "timestamp": "2020-05-19T16:48:44.033Z"
+    "_version_": 1684903671183179776,
+    "timestamp": "2020-12-01T19:02:36.830Z"
 }

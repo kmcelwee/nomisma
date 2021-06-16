@@ -29,6 +29,9 @@
         "72x95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7077\",\"call_number_browse\":\"Coin 7077\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "7 dollars"
-    ],
-    "issue_number_s": [
-        "4421"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "9cdef3d92c21bbb7"
     ],
-    "_version_": 1667314658517712896,
-    "timestamp": "2020-05-21T15:32:47.196Z"
+    "_version_": 1684903077463719936,
+    "timestamp": "2020-12-01T18:53:10.615Z"
 }

@@ -35,6 +35,12 @@
         "8.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1030\",\"call_number_browse\":\"Coin 1030\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "109: 1993-06-12 Fourec \"Time Machine\""
+    ],
     "pub_date_start_sort": 51,
     "pub_date_end_sort": 52,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "514"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +110,12 @@
         "Archaic Monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"Archaic Monogram\",\"document_id\":\"9133c2a2-10a9-4c65-bc36-23368ca49e51\"}]",
+    "issue_date_s": [
+        "51 to 52"
+    ],
     "hashed_id_s": [
         "cd7f27d69c27940b"
     ],
-    "_version_": 1667138408640675840,
-    "timestamp": "2020-05-19T16:51:22.217Z"
+    "_version_": 1684903182344388608,
+    "timestamp": "2020-12-01T18:54:50.636Z"
 }

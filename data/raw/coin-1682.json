@@ -35,8 +35,11 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1682\",\"call_number_browse\":\"Coin 1682\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 42,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1076"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Sear  1842"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 42"
+    ],
     "hashed_id_s": [
         "8fb635d1100cb950"
     ],
-    "_version_": 1667138213469224960,
-    "timestamp": "2020-05-19T16:48:16.085Z"
+    "_version_": 1684902978785378304,
+    "timestamp": "2020-12-01T18:51:36.509Z"
 }

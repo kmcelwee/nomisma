@@ -35,8 +35,11 @@
         "3.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13592\",\"call_number_browse\":\"Coin 13592\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -77,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8345"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "Sellwood  30.?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -77"
+    ],
     "hashed_id_s": [
         "5afe3c6603c246b0"
     ],
-    "_version_": 1667138306401370112,
-    "timestamp": "2020-05-19T16:49:44.712Z"
+    "_version_": 1684903155555368960,
+    "timestamp": "2020-12-01T18:54:25.090Z"
 }

@@ -35,8 +35,11 @@
         "9.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6652\",\"call_number_browse\":\"Coin 6652\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "8 maravedis"
-    ],
-    "issue_number_s": [
-        "4076"
     ],
     "issue_metal_s": [
         "Copper"
@@ -91,6 +91,6 @@
     "hashed_id_s": [
         "80065e94ce284ee0"
     ],
-    "_version_": 1667138368507478016,
-    "timestamp": "2020-05-19T16:50:43.942Z"
+    "_version_": 1684903548116008960,
+    "timestamp": "2020-12-01T19:00:39.464Z"
 }

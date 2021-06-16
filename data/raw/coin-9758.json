@@ -32,8 +32,11 @@
         "98x55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9758\",\"call_number_browse\":\"Coin 9758\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "15 shillings"
-    ],
-    "issue_number_s": [
-        "2038"
     ],
     "issue_metal_s": [
         "Paper"
@@ -87,9 +87,13 @@
         "Shafer & Cuhaj p. 1131 S1823"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "73d639adbae74c8e"
     ],
-    "_version_": 1667145289006317568,
-    "timestamp": "2020-05-19T18:46:05.865Z"
+    "_version_": 1684903348768079872,
+    "timestamp": "2020-12-01T18:57:29.351Z"
 }

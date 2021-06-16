@@ -41,8 +41,11 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8846\",\"call_number_browse\":\"Coin 8846\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -80,
     "pub_date_end_sort": -70,
@@ -93,9 +96,12 @@
         "Shore  131 (Orodes I)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-80 to -70"
+    ],
     "hashed_id_s": [
         "74515ec0ca40118e"
     ],
-    "_version_": 1672839401846079488,
-    "timestamp": "2020-07-21T15:06:13.011Z"
+    "_version_": 1684903407887843328,
+    "timestamp": "2020-12-01T18:58:25.732Z"
 }

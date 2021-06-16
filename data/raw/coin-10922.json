@@ -35,8 +35,14 @@
         "31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10922\",\"call_number_browse\":\"Coin 10922\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 04/27/2000"
     ],
     "pub_date_start_sort": 388,
     "pub_date_end_sort": 389,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7082"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 Marw Type Ic/2c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "388 to 389"
+    ],
     "hashed_id_s": [
         "23a137c99eef9910"
     ],
-    "_version_": 1667138287858352128,
-    "timestamp": "2020-05-19T16:49:27.028Z"
+    "_version_": 1684903031867441152,
+    "timestamp": "2020-12-01T18:52:27.131Z"
 }

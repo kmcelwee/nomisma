@@ -38,8 +38,11 @@
         "7.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6641\",\"call_number_browse\":\"Coin 6641\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Gans/NFA; April 1962; $30"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "4064"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  828"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "8f94b3f733260d2c"
     ],
-    "_version_": 1667138364041592832,
-    "timestamp": "2020-05-19T16:50:39.682Z"
+    "_version_": 1684903254070132736,
+    "timestamp": "2020-12-01T18:55:59.039Z"
 }

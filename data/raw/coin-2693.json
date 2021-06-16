@@ -43,9 +43,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "1699"
-    ],
     "issue_metal_s": [
         "Lead"
     ],
@@ -107,6 +104,6 @@
     "hashed_id_s": [
         "b113ce03df45ff39"
     ],
-    "_version_": 1667138222979809280,
-    "timestamp": "2020-05-19T16:48:25.158Z"
+    "_version_": 1683105378562211840,
+    "timestamp": "2020-11-11T22:39:31.344Z"
 }

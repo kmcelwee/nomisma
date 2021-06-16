@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/3/1938"
+        "1938-05-03"
     ],
     "find_feature_s": [
-        "Cleaning mosaic in rooms B17-22"
+        "Rooms B17-22, cleaning mosaic"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb1246"
@@ -50,6 +50,9 @@
         "1.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9816\",\"call_number_browse\":\"Coin 9816\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6203"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,16 +107,19 @@
         "each holding spear, and resting on shield, one standard between them"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITVS | SMANA"
+        "GLOR-IA EXERC-ITVS | SMANA"
     ],
     "issue_references_s": [
         "RIC.7 Vol. VII, p693 85",
         "Waage 118 1405"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "06111d88cf68caf2"
     ],
-    "_version_": 1667138141464559616,
-    "timestamp": "2020-05-19T16:47:07.416Z"
+    "_version_": 1684903391605555200,
+    "timestamp": "2020-12-01T18:58:10.204Z"
 }

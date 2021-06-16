@@ -32,8 +32,11 @@
         "2.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3255\",\"call_number_browse\":\"Coin 3255\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1403,
     "pub_date_end_sort": 1425,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "1961"
     ],
     "issue_metal_s": [
         "Iron"
@@ -68,9 +68,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 283 3rd Coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1403 to 1425"
+    ],
     "hashed_id_s": [
         "02c2acc4e7996340"
     ],
-    "_version_": 1667138165519941632,
-    "timestamp": "2020-05-19T16:47:30.358Z"
+    "_version_": 1684902940629794816,
+    "timestamp": "2020-12-01T18:51:00.119Z"
 }

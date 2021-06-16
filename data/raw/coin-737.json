@@ -35,8 +35,11 @@
         "16.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 737\",\"call_number_browse\":\"Coin 737\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -175,
     "pub_date_end_sort": -125,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "308"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Price  1082"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-175 to -125"
+    ],
     "hashed_id_s": [
         "7d6d5402e2626fd1"
     ],
-    "_version_": 1667138204265873408,
-    "timestamp": "2020-05-19T16:48:07.308Z"
+    "_version_": 1684903440727146496,
+    "timestamp": "2020-12-01T18:58:57.049Z"
 }

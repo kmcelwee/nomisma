@@ -35,6 +35,12 @@
         "8.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2173\",\"call_number_browse\":\"Coin 2173\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "285: 2000-10-09 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -97,9 +103,17 @@
         "Houghton  415"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, elephant",
+        "Animal, horse",
+        "Category, anchor"
+    ],
+    "issue_date_s": [
+        "-300 to -281"
+    ],
     "hashed_id_s": [
         "0624db6479e313e2"
     ],
-    "_version_": 1674261914124812288,
-    "timestamp": "2020-08-06T07:56:26.437Z"
+    "_version_": 1684903649116946432,
+    "timestamp": "2020-12-01T19:02:15.787Z"
 }

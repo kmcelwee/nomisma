@@ -32,8 +32,8 @@
         "15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7771\",\"call_number_browse\":\"Coin 7771\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "4831"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +77,12 @@
         "Catalogue of Greek Coins - Peloponnesus 47 145"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "7121b4528b1b32b3"
     ],
-    "_version_": 1667145394206801920,
-    "timestamp": "2020-05-19T18:42:24.169Z"
+    "_version_": 1684903132330459136,
+    "timestamp": "2020-12-01T18:54:02.941Z"
 }

@@ -35,22 +35,25 @@
         "4.342"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6496\",\"call_number_browse\":\"Coin 6496\"}}",
-    "donor_s": [
-        "Ernst Justus Haeberlin"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -211,
-    "pub_date_end_sort": 0,
+    "pub_date_end_sort": -211,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3172"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Italy"
@@ -68,10 +71,11 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head r., in helmet. Behind, X."
+        "helmeted"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted",
+        "X, behind head"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -82,23 +86,20 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Dioscuri r. Legend in exergue."
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
-    ],
-    "issue_reverse_attributes_s": [
-        "border, Line border."
     ],
     "issue_references_s": [
         "RRC Vol. I: 158 53/2",
         "Syd.  229"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -211"
+    ],
     "hashed_id_s": [
         "822ef186e80aa152"
     ],
-    "_version_": 1667138390154280960,
-    "timestamp": "2020-05-19T16:51:04.586Z"
+    "_version_": 1684903700394409984,
+    "timestamp": "2020-12-01T19:03:04.691Z"
 }

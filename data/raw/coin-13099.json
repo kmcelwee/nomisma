@@ -38,6 +38,12 @@
         "2.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13099\",\"call_number_browse\":\"Coin 13099\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -70,
     "pub_date_end_sort": -57,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8519"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "Sellwood  38.22"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-70 to -57"
+    ],
     "hashed_id_s": [
         "d0e3bd4a2ffcae19"
     ],
-    "_version_": 1667138316229672960,
-    "timestamp": "2020-05-19T16:49:54.086Z"
+    "_version_": 1684903055794896896,
+    "timestamp": "2020-12-01T18:52:49.951Z"
 }

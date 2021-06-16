@@ -35,8 +35,11 @@
         "4.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12309\",\"call_number_browse\":\"Coin 12309\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -171,
     "pub_date_end_sort": -138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8015"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Shore  24"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-171 to -138"
+    ],
     "hashed_id_s": [
         "ec015936b4871852"
     ],
-    "_version_": 1667138336394838016,
-    "timestamp": "2020-05-19T16:50:13.317Z"
+    "_version_": 1684903242547331072,
+    "timestamp": "2020-12-01T18:55:48.050Z"
 }

@@ -35,6 +35,12 @@
         "6.509"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5583\",\"call_number_browse\":\"Coin 5583\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "427:  "
+    ],
     "pub_date_start_sort": -265,
     "pub_date_end_sort": -242,
     "issue_object_type_s": [
@@ -43,11 +49,11 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "3166"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,10 +80,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head r., in Phrygian helmet. Behind, control-symbol."
+        "in Phrygian helmet"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -92,13 +98,10 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r., standing, attaching wreath to palm-branch. Legend behind, vertically. Before, control-letters."
+        "attaching wreath to palm-branch"
     ],
     "issue_reverse_legend_s": [
         "ROMANO"
-    ],
-    "issue_reverse_attributes_s": [
-        "border, Line border."
     ],
     "issue_references_s": [
         "RRC Vol. I: 138 22/1",
@@ -106,9 +109,12 @@
         "Syd.  21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-265 to -242"
+    ],
     "hashed_id_s": [
         "88a89c6b29ceb694"
     ],
-    "_version_": 1667138375754186752,
-    "timestamp": "2020-05-19T16:50:50.852Z"
+    "_version_": 1684903700273823744,
+    "timestamp": "2020-12-01T19:03:04.573Z"
 }

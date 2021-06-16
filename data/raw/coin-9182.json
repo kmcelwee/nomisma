@@ -53,6 +53,9 @@
         "1.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9182\",\"call_number_browse\":\"Coin 9182\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 777,
     "pub_date_end_sort": 807,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5855"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "BMC  770"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "777 to 807"
+    ],
     "hashed_id_s": [
         "23bb2c7d3d0abae4"
     ],
-    "_version_": 1667144977027694592,
-    "timestamp": "2020-05-19T18:35:46.324Z"
+    "_version_": 1684903075470376960,
+    "timestamp": "2020-12-01T18:53:08.713Z"
 }

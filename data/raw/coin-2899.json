@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin damaged by corrosion so that surface is pitted.  On the obverse,legend is illegible and  the face of the goddess' bust is badly damaged.  On the reverse, the legend is as follows [\u0395\u03a0\u0399 ]\u039a\u039f\u03a5\u0391[\u0394P\u0391\u03a4\u039f\u03a5] and the star is hard to make out."
+        "Coin damaged by corrosion so that surface is pitted. On the obverse, legend is illegible and the face of the goddess' bust is badly damaged. On the reverse, the legend is as follows [\u0395\u03a0\u0399 ]\u039a\u039f\u03a5\u0391[\u0394P\u0391\u03a4\u039f\u03a5] and the star is hard to make out."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "04/30/1935"
     ],
-    "find_feature_s": [
-        "well 3"
-    ],
     "find_locus_s": [
-        "23,24N-D-H"
+        "DH 23/24-N"
     ],
     "find_number_s": [
         "C4697"
     ],
     "find_description_s": [
-        "surface over well 3 area"
+        "Well 3 area, surface over"
     ],
     "die_axis_s": [
         "1"
@@ -56,6 +53,12 @@
         "4.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2899\",\"call_number_browse\":\"Coin 2899\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1811"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -95,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of the city goddess, Tyche"
+        "veiled, turreted, draped bust"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -110,10 +116,7 @@
         "facing, head to left"
     ],
     "issue_reverse_figure_description_s": [
-        "crescent enclosing a star above center"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "crecent and star located above ram"
+        "crescent enclosing a star above ram"
     ],
     "issue_reverse_legend_s": [
         "\u0395\u03a0\u0399 \u039a\u039f\u03a5\u0391\u0394P\u0391\u03a4\u039f\u03a5"
@@ -122,9 +125,12 @@
         "RPC.1  4287"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "a2ded1dbdcfb93b0"
     ],
-    "_version_": 1667138479112323072,
-    "timestamp": "2020-05-19T16:52:29.424Z"
+    "_version_": 1684903692747145216,
+    "timestamp": "2020-12-01T19:02:57.396Z"
 }

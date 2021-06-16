@@ -35,8 +35,11 @@
         "25.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3198\",\"call_number_browse\":\"Coin 3198\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 68,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "1950"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -98,9 +98,12 @@
         "Sear  1962"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 68"
+    ],
     "hashed_id_s": [
         "b598a24036b579df"
     ],
-    "_version_": 1667138435315400704,
-    "timestamp": "2020-05-19T16:51:47.657Z"
+    "_version_": 1684903214797815808,
+    "timestamp": "2020-12-01T18:55:21.587Z"
 }

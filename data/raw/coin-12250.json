@@ -38,8 +38,11 @@
         "2.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12250\",\"call_number_browse\":\"Coin 12250\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "306:  Robert Ross"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8258"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "BMC Corinth  434v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "54442a3e781002ab"
     ],
-    "_version_": 1667138342747111424,
-    "timestamp": "2020-05-19T16:50:19.376Z"
+    "_version_": 1684903247697936384,
+    "timestamp": "2020-12-01T18:55:52.963Z"
 }

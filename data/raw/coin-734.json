@@ -35,6 +35,12 @@
         "16.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 734\",\"call_number_browse\":\"Coin 734\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "78: 1996-05-30 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -175,
     "pub_date_end_sort": -125,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "306"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +103,12 @@
         "Price  1080"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-175 to -125"
+    ],
     "hashed_id_s": [
         "287396f496589980"
     ],
-    "_version_": 1667138452459618304,
-    "timestamp": "2020-05-19T16:52:04.006Z"
+    "_version_": 1684903290689552384,
+    "timestamp": "2020-12-01T18:56:33.963Z"
 }

@@ -32,16 +32,16 @@
         "5.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12866\",\"call_number_browse\":\"Coin 12866\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -60,
     "pub_date_end_sort": -44,
     "issue_object_type_s": [
         "token"
-    ],
-    "issue_number_s": [
-        "8438"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "Coins pg.9 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-60 to -44"
+    ],
     "hashed_id_s": [
         "60a8315cdeefa18e"
     ],
-    "_version_": 1667138337101578240,
-    "timestamp": "2020-05-19T16:50:13.991Z"
+    "_version_": 1684903243127193600,
+    "timestamp": "2020-12-01T18:55:48.603Z"
 }

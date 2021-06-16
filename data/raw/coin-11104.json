@@ -38,8 +38,14 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11104\",\"call_number_browse\":\"Coin 11104\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pegasi Numismatics, Ann Arbor, MI"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7265"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 DYWAN Type Ic/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "4854e6265fd580c0"
     ],
-    "_version_": 1667138163200491520,
-    "timestamp": "2020-05-19T16:47:28.149Z"
+    "_version_": 1684902931986382848,
+    "timestamp": "2020-12-01T18:50:51.878Z"
 }

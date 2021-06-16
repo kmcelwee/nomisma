@@ -35,6 +35,12 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6820\",\"call_number_browse\":\"Coin 6820\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -91,9 +97,12 @@
         "M&D  20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "c14bf3e138efcad8"
     ],
-    "_version_": 1674076853728444416,
-    "timestamp": "2020-08-04T06:54:59.091Z"
+    "_version_": 1684903093938946048,
+    "timestamp": "2020-12-01T18:53:26.327Z"
 }

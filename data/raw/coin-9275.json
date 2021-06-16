@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "4926"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -80,9 +77,12 @@
         " \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \\ \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \\ \u0644\u0627\u0634\u0631\u06cc\u0643 \u0644\u0647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "790 to 910"
+    ],
     "hashed_id_s": [
         "694aefc00c46dede"
     ],
-    "_version_": 1667144975915155456,
-    "timestamp": "2020-05-19T18:35:45.256Z"
+    "_version_": 1684902917023203328,
+    "timestamp": "2020-12-01T18:50:37.606Z"
 }

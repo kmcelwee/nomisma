@@ -35,8 +35,11 @@
         "3.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12173\",\"call_number_browse\":\"Coin 12173\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 1152,
     "pub_date_end_sort": 1160,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "8220"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,9 +97,12 @@
         "Sear  1968"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1152 to 1160"
+    ],
     "hashed_id_s": [
         "5ce46be0a6ba20e7"
     ],
-    "_version_": 1667138301317873664,
-    "timestamp": "2020-05-19T16:49:39.866Z"
+    "_version_": 1684903512507416576,
+    "timestamp": "2020-12-01T19:00:05.504Z"
 }

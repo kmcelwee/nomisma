@@ -35,6 +35,9 @@
         "1.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7109\",\"call_number_browse\":\"Coin 7109\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 355,
     "pub_date_end_sort": 361,
     "issue_object_type_s": [
@@ -98,12 +101,15 @@
         "FEL TEMP-REPARATIO"
     ],
     "issue_references_s": [
-        "RIC 8 528 190"
+        "RIC VIII Antioch 190"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "355 to 361"
+    ],
     "hashed_id_s": [
         "8c4301fce8f1c32f"
     ],
-    "_version_": 1673556114883477504,
-    "timestamp": "2020-07-29T12:58:03.827Z"
+    "_version_": 1684903695705178112,
+    "timestamp": "2020-12-01T19:03:00.216Z"
 }

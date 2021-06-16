@@ -35,8 +35,11 @@
         "3.944"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7391\",\"call_number_browse\":\"Coin 7391\"}}",
-    "donor_s": [
-        "Ernst Justus Haeberlin"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "568:  Ernst Justus Haeberlin"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4626"
     ],
     "issue_metal_s": [
         "Silver"
@@ -111,6 +111,6 @@
     "hashed_id_s": [
         "30aae247cea4edfe"
     ],
-    "_version_": 1667138331205435392,
-    "timestamp": "2020-05-19T16:50:08.367Z"
+    "_version_": 1684903072280608768,
+    "timestamp": "2020-12-01T18:53:05.672Z"
 }

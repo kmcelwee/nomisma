@@ -44,8 +44,11 @@
         "9.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1667\",\"call_number_browse\":\"Coin 1667\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -287,
     "pub_date_end_sort": -278,
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1061"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +113,12 @@
         "ANS Part 5, Sicily III 810v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-287 to -278"
+    ],
     "hashed_id_s": [
         "ed56bd29fd94ddcd"
     ],
-    "_version_": 1667138213182963712,
-    "timestamp": "2020-05-19T16:48:15.812Z"
+    "_version_": 1684903447624679424,
+    "timestamp": "2020-12-01T18:59:03.627Z"
 }

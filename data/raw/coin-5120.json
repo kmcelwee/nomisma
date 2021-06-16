@@ -41,6 +41,12 @@
         "83.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5120\",\"call_number_browse\":\"Coin 5120\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -230,
     "pub_date_end_sort": -226,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "triens"
-    ],
-    "issue_number_s": [
-        "2832"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +96,12 @@
         "Sear  543"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-230 to -226"
+    ],
     "hashed_id_s": [
         "133df249b8423b90"
     ],
-    "_version_": 1667138398790352896,
-    "timestamp": "2020-05-19T16:51:12.820Z"
+    "_version_": 1684903571330433024,
+    "timestamp": "2020-12-01T19:01:01.604Z"
 }

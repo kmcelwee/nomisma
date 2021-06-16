@@ -38,8 +38,11 @@
         "4.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4869\",\"call_number_browse\":\"Coin 4869\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -31,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2676"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "Amandry  VIb"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-34 to -31"
+    ],
     "hashed_id_s": [
         "951e2efa7f84a90f"
     ],
-    "_version_": 1667138505757687808,
-    "timestamp": "2020-05-19T16:52:54.833Z"
+    "_version_": 1684903313349279744,
+    "timestamp": "2020-12-01T18:56:55.574Z"
 }

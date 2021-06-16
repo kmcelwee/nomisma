@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 18, 1938"
+        "1938-05-18"
     ],
     "find_feature_s": [
-        "Trench 4"
+        "N. extension, surface (A1)"
     ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
         "Cb2012"
-    ],
-    "find_description_s": [
-        "North extension surface (A1)  AE.0195"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "1.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9139\",\"call_number_browse\":\"Coin 9139\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5814"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,9 +116,12 @@
         "RIC 7 423.11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "7f0e6f4ed98487d5"
     ],
-    "_version_": 1667138345868722176,
-    "timestamp": "2020-05-19T16:50:22.350Z"
+    "_version_": 1695852630962601984,
+    "timestamp": "2021-04-01T15:31:38.561Z"
 }

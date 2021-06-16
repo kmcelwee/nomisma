@@ -35,8 +35,14 @@
         "0.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10661\",\"call_number_browse\":\"Coin 10661\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Gorney and Mosch, Munich; 10/18/2001"
     ],
     "pub_date_start_sort": 273,
     "pub_date_end_sort": 276,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6822"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style A/a (?) Type I/1aa"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "273 to 276"
+    ],
     "hashed_id_s": [
         "e4ec2c70dc2e75a8"
     ],
-    "_version_": 1667138192535453696,
-    "timestamp": "2020-05-19T16:47:56.120Z"
+    "_version_": 1684903432872263680,
+    "timestamp": "2020-12-01T18:58:49.559Z"
 }

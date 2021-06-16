@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6366"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -92,9 +89,12 @@
         "Bone Qinnasrin (d) (vi), p. 395-396 3.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "699 to 708"
+    ],
     "hashed_id_s": [
         "98c292af7712c2e0"
     ],
-    "_version_": 1667144700445851648,
-    "timestamp": "2020-05-19T18:31:23.267Z"
+    "_version_": 1684903352983355392,
+    "timestamp": "2020-12-01T18:57:33.371Z"
 }

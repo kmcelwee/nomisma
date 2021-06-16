@@ -35,6 +35,15 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11977\",\"call_number_browse\":\"Coin 11977\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Dan Fellows Platt"
+    ],
     "pub_date_start_sort": -112,
     "pub_date_end_sort": -111,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8029"
     ],
     "issue_master_s": [
         "L. Caesius"
@@ -95,9 +101,12 @@
         "RRC Volume 1, Page 312 298"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-112 to -111"
+    ],
     "hashed_id_s": [
         "7b8efb6ca41b21e7"
     ],
-    "_version_": 1667138126001209344,
-    "timestamp": "2020-05-19T16:46:52.671Z"
+    "_version_": 1684903655819444224,
+    "timestamp": "2020-12-01T19:02:22.177Z"
 }

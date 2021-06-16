@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/09/1937"
@@ -50,6 +50,12 @@
         "0.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2400\",\"call_number_browse\":\"Coin 2400\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "1535"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,9 +106,16 @@
         "Houghton  27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, arrow-point"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "76271b0b265addcb"
     ],
-    "_version_": 1669918214672351232,
-    "timestamp": "2020-06-19T09:15:11.836Z"
+    "_version_": 1684903318141272064,
+    "timestamp": "2020-12-01T18:57:00.143Z"
 }

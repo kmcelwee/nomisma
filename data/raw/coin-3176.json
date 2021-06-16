@@ -35,8 +35,11 @@
         "4.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3176\",\"call_number_browse\":\"Coin 3176\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "8 Cash"
     ],
-    "issue_number_s": [
-        "1941"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Li Zi Cheng \u674e\u81ea\u6210 (1644 to 1645)"
@@ -81,9 +84,12 @@
         "Jen 132 625"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "835b7c995eec7560"
     ],
-    "_version_": 1667138435882680320,
-    "timestamp": "2020-05-19T16:51:48.197Z"
+    "_version_": 1684903215436398592,
+    "timestamp": "2020-12-01T18:55:22.196Z"
 }

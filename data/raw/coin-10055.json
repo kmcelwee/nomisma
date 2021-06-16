@@ -96,9 +96,12 @@
         "Schl.  III28"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1192 to 1197"
+    ],
     "hashed_id_s": [
         "17f357af4bbda4ce"
     ],
-    "_version_": 1674257973214445568,
-    "timestamp": "2020-08-06T06:53:48.092Z"
+    "_version_": 1684903321347817472,
+    "timestamp": "2020-12-01T18:57:03.200Z"
 }

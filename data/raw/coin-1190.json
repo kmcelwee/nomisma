@@ -35,6 +35,12 @@
         "10.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1190\",\"call_number_browse\":\"Coin 1190\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "159: 2001-04-17 Shore"
+    ],
     "pub_date_start_sort": -214,
     "pub_date_end_sort": -212,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "639"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +104,12 @@
         "Sear  997v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-214 to -212"
+    ],
     "hashed_id_s": [
         "d5ba8651621ef1ed"
     ],
-    "_version_": 1667138389948760064,
-    "timestamp": "2020-05-19T16:51:04.390Z"
+    "_version_": 1684903564203261952,
+    "timestamp": "2020-12-01T19:00:54.806Z"
 }

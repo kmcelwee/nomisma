@@ -41,6 +41,16 @@
         "3.528"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4265\",\"call_number_browse\":\"Coin 4265\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "400: 2008-04-02 LHS Numismatik"
+    ],
+    "numismatic_provenance_s": [
+        "K\u00fcnker, Osnabr\u00fcck; G.W. de Wit; 3/11/2008; Lot 3985",
+        "WAG, Dortmund; 1997; Auction 9, no. 2"
+    ],
     "pub_date_start_sort": 1382,
     "pub_date_end_sort": 1400,
     "issue_object_type_s": [
@@ -83,9 +93,12 @@
         "Schl. Pl. XIV 11v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1382 to 1400"
+    ],
     "hashed_id_s": [
         "f22bf59cc8331ea0"
     ],
-    "_version_": 1675566060375375872,
-    "timestamp": "2020-08-20T17:25:17.227Z"
+    "_version_": 1684903676911550464,
+    "timestamp": "2020-12-01T19:02:42.292Z"
 }

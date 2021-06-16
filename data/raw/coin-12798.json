@@ -38,6 +38,12 @@
         "3.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12798\",\"call_number_browse\":\"Coin 12798\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -2,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8413"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Sellwood  52.?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -2"
+    ],
     "hashed_id_s": [
         "1551dc301a8c33a8"
     ],
-    "_version_": 1667138338637742080,
-    "timestamp": "2020-05-19T16:50:15.457Z"
+    "_version_": 1684903074060042240,
+    "timestamp": "2020-12-01T18:53:07.369Z"
 }

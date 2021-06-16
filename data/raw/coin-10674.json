@@ -35,8 +35,14 @@
         "4.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10674\",\"call_number_browse\":\"Coin 10674\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Rian  Thum; 11/21/2011"
     ],
     "pub_date_start_sort": 273,
     "pub_date_end_sort": 276,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6834"
     ],
     "issue_metal_s": [
         "Copper"
@@ -89,9 +92,12 @@
         "SNS 2 Style I (\"Balkh\") Type I/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "273 to 276"
+    ],
     "hashed_id_s": [
         "3e202c1b3b5c2227"
     ],
-    "_version_": 1667138284239716352,
-    "timestamp": "2020-05-19T16:49:23.580Z"
+    "_version_": 1684903027420430336,
+    "timestamp": "2020-12-01T18:52:22.896Z"
 }

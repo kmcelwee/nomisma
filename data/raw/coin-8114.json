@@ -50,6 +50,12 @@
         "7.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8114\",\"call_number_browse\":\"Coin 8114\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1068,
     "pub_date_end_sort": 1071,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5138"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +112,12 @@
         "Sear  1866"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1068 to 1071"
+    ],
     "hashed_id_s": [
         "a7091185390792bf"
     ],
-    "_version_": 1667138266025951232,
-    "timestamp": "2020-05-19T16:49:06.208Z"
+    "_version_": 1684903488351371264,
+    "timestamp": "2020-12-01T18:59:42.468Z"
 }

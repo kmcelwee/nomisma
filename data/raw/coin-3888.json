@@ -31,14 +31,14 @@
     "find_date_s": [
         "5/8/1935"
     ],
-    "find_feature_s": [
-        "North end, stereo"
-    ],
     "find_locus_s": [
-        "23, 24N-D-H"
+        "DH 23/24-N"
     ],
     "find_number_s": [
         "C4834"
+    ],
+    "find_description_s": [
+        "N. end, stereo"
     ],
     "die_axis_s": [
         "1"
@@ -50,6 +50,12 @@
         "19.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3888\",\"call_number_browse\":\"Coin 3888\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -5,
     "pub_date_end_sort": -4,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2257"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IMP AVGVST TR POT"
@@ -101,21 +110,21 @@
         "Legend"
     ],
     "issue_reverse_figure_description_s": [
-        "legend in solid border, surrounded by wreath of eight laurel leaves in solid border"
+        "in a laurel wreath of eight leaves within solid border"
     ],
     "issue_reverse_legend_s": [
         "SC"
-    ],
-    "issue_reverse_attributes_s": [
-        "wreath, laurel wreath of eight leaves around SC"
     ],
     "issue_references_s": [
         "RPC.1  4247"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-5 to -4"
+    ],
     "hashed_id_s": [
         "af38a4ba23bc8efa"
     ],
-    "_version_": 1667138484771487744,
-    "timestamp": "2020-05-19T16:52:34.819Z"
+    "_version_": 1684903695006826496,
+    "timestamp": "2020-12-01T19:02:59.550Z"
 }

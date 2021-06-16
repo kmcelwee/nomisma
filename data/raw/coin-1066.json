@@ -35,8 +35,11 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1066\",\"call_number_browse\":\"Coin 1066\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
@@ -99,9 +102,12 @@
         "Price  P110"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "eeed790ad9f66bfa"
     ],
-    "_version_": 1673105088379355136,
-    "timestamp": "2020-07-24T13:29:11.440Z"
+    "_version_": 1684903182230093824,
+    "timestamp": "2020-12-01T18:54:50.527Z"
 }

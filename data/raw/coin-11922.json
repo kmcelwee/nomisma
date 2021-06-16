@@ -35,8 +35,11 @@
         "11.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11922\",\"call_number_browse\":\"Coin 11922\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 125,
     "pub_date_end_sort": 128,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "7992"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 435 1322-4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "125 to 128"
+    ],
     "hashed_id_s": [
         "b7dc4612bd398ce5"
     ],
-    "_version_": 1667138299148369920,
-    "timestamp": "2020-05-19T16:49:37.795Z"
+    "_version_": 1684903040348323840,
+    "timestamp": "2020-12-01T18:52:35.218Z"
 }

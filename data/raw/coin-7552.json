@@ -35,8 +35,11 @@
         "3.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7552\",\"call_number_browse\":\"Coin 7552\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "triobol"
-    ],
-    "issue_number_s": [
-        "4718"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "Catalogue of Greek Coins - Peloponnesus 47 145"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "3c24b1809d775a87"
     ],
-    "_version_": 1667138175277989888,
-    "timestamp": "2020-05-19T16:47:39.663Z"
+    "_version_": 1684902951520305152,
+    "timestamp": "2020-12-01T18:51:10.505Z"
 }

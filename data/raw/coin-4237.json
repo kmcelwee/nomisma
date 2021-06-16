@@ -38,8 +38,11 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4237\",\"call_number_browse\":\"Coin 4237\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2392"
     ],
     "issue_metal_s": [
         "Silver"
@@ -109,9 +109,12 @@
         "Sear  450"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "6ebf3cb04c4620d4"
     ],
-    "_version_": 1667138234220544000,
-    "timestamp": "2020-05-19T16:48:35.875Z"
+    "_version_": 1684903460011507712,
+    "timestamp": "2020-12-01T18:59:15.441Z"
 }

@@ -35,6 +35,9 @@
         "23.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15179\",\"call_number_browse\":\"Coin 15179\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 145,
     "pub_date_end_sort": 161,
     "issue_object_type_s": [
@@ -43,17 +46,14 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "9338"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +71,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG PI-VS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS IIII"
     ],
     "issue_reverse_figure_s": [
-        "Dr. female figure standing facing, head l., with capricorn and long winged caduceus; to l.-r., S-C"
+        "Felicitas"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped"
     ],
     "issue_reverse_legend_s": [
-        "FELI-CITAS AVG"
+        "FELICITAS AVG S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "capricorn, in extended r. hand",
+        "long caduceus, nearly vertical, in l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 271 1677-80",
-        "RIC 124 770",
-        "Strack 989 "
+        "RIC III  Antoninus Pius 770",
+        "Strack  989",
+        "BMC.4 271 1677-80"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "145 to 161"
+    ],
     "hashed_id_s": [
         "4b36d766682baa82"
     ],
-    "_version_": 1667144762923155456,
-    "timestamp": "2020-05-19T18:32:22.131Z"
+    "_version_": 1684903689479782400,
+    "timestamp": "2020-12-01T19:02:54.279Z"
 }

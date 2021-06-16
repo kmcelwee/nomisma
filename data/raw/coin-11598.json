@@ -41,6 +41,9 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11598\",\"call_number_browse\":\"Coin 11598\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
     "issue_object_type_s": [
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7723"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "SN  AYL? Type II/3 (SN)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "c0d9b12343b40e18"
     ],
-    "_version_": 1667138129713168384,
-    "timestamp": "2020-05-19T16:46:56.212Z"
+    "_version_": 1684903342634958848,
+    "timestamp": "2020-12-01T18:57:23.504Z"
 }

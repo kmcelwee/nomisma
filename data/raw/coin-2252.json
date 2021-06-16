@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Attribution tentative based on excavation notes.  Coin is badly pitted so that only the SC on reverse is clearly distinguishable."
+        "Attribution tentative based on excavation notes. Coin is badly pitted so that only the SC on reverse is clearly distinguishable."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,14 @@
     "find_date_s": [
         "08/28/1938"
     ],
-    "find_feature_s": [
-        "Dump"
-    ],
     "find_locus_s": [
-        "19-J/K"
+        "A 19-J/K"
     ],
     "find_number_s": [
         "Cb4495-96"
+    ],
+    "find_description_s": [
+        "Dump"
     ],
     "size_s": [
         "23"
@@ -50,6 +50,12 @@
         "10.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2252\",\"call_number_browse\":\"Coin 2252\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 47,
     "pub_date_end_sort": 54,
     "issue_object_type_s": [
@@ -58,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1457"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -89,27 +95,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Claudius"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IMP TI CLAVD CAE AVG GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC enclosed by laurel wreath of eight leaves"
-    ],
-    "issue_reverse_legend_s": [
-        "SC"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4282"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "47 to 54"
+    ],
     "hashed_id_s": [
         "1b967164491c8b69"
     ],
-    "_version_": 1667145373200678912,
-    "timestamp": "2020-05-19T18:42:04.137Z"
+    "_version_": 1684903690189668352,
+    "timestamp": "2020-12-01T19:02:54.957Z"
 }

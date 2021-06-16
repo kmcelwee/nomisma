@@ -50,6 +50,9 @@
         "1.137"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9384\",\"call_number_browse\":\"Coin 9384\"}}",
+    "numismatic_accession_s": [
+        "141:  "
+    ],
     "pub_date_start_sort": 369,
     "pub_date_end_sort": 336,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "unknown"
-    ],
-    "issue_number_s": [
-        "6004"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +114,12 @@
         "Waage IV Part II 75.796"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "369 to 336"
+    ],
     "hashed_id_s": [
         "0b2bf033f63f49af"
     ],
-    "_version_": 1667138149679104000,
-    "timestamp": "2020-05-19T16:47:15.249Z"
+    "_version_": 1684903403960926208,
+    "timestamp": "2020-12-01T18:58:21.988Z"
 }

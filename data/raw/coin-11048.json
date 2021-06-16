@@ -35,8 +35,14 @@
         "4.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11048\",\"call_number_browse\":\"Coin 11048\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Moneta Numismatic Services; 12/01/2010"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7209"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 KL Type IIIb/1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "7421a2ec6fa4d2d2"
     ],
-    "_version_": 1667138289146003456,
-    "timestamp": "2020-05-19T16:49:28.259Z"
+    "_version_": 1684903034029604864,
+    "timestamp": "2020-12-01T18:52:29.195Z"
 }

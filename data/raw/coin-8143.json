@@ -35,8 +35,11 @@
         "7.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8143\",\"call_number_browse\":\"Coin 8143\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -75,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "5161"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "CNH 239 13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -75"
+    ],
     "hashed_id_s": [
         "5dd9751441cc7417"
     ],
-    "_version_": 1667138191935668224,
-    "timestamp": "2020-05-19T16:47:55.550Z"
+    "_version_": 1684902939628404736,
+    "timestamp": "2020-12-01T18:50:59.165Z"
 }

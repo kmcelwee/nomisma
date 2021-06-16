@@ -47,6 +47,9 @@
         "10.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11459\",\"call_number_browse\":\"Coin 11459\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -122,9 +125,12 @@
         "DOC 3.2 C.10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "28a3addd250bf8e8"
     ],
-    "_version_": 1673457532452995072,
-    "timestamp": "2020-07-28T10:51:08.297Z"
+    "_version_": 1684902900124352512,
+    "timestamp": "2020-12-01T18:50:21.492Z"
 }

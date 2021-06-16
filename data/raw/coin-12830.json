@@ -38,6 +38,9 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12830\",\"call_number_browse\":\"Coin 12830\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 8,
     "pub_date_end_sort": 12,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8422"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Shore  329"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "8 to 12"
+    ],
     "hashed_id_s": [
         "710b5a075abf9c92"
     ],
-    "_version_": 1667138338895691776,
-    "timestamp": "2020-05-19T16:50:15.704Z"
+    "_version_": 1684903074219425792,
+    "timestamp": "2020-12-01T18:53:07.522Z"
 }

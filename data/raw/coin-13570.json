@@ -35,8 +35,11 @@
         "1.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13570\",\"call_number_browse\":\"Coin 13570\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8715"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,6 +89,6 @@
     "hashed_id_s": [
         "f8ce66daeab6d883"
     ],
-    "_version_": 1667138335465799680,
-    "timestamp": "2020-05-19T16:50:12.431Z"
+    "_version_": 1684903526944210944,
+    "timestamp": "2020-12-01T19:00:19.273Z"
 }

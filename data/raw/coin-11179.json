@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "AV. D-new"
     ],
-    "issue_number_s": [
-        "7344"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -89,6 +86,6 @@
     "hashed_id_s": [
         "9b0502f4f4cd533e"
     ],
-    "_version_": 1667138170201833472,
-    "timestamp": "2020-05-19T16:47:34.821Z"
+    "_version_": 1683104892255731712,
+    "timestamp": "2020-11-11T22:31:47.566Z"
 }

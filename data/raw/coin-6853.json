@@ -35,6 +35,9 @@
         "6.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6853\",\"call_number_browse\":\"Coin 6853\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1740,
     "pub_date_end_sort": 1780,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "20 kreuzer"
-    ],
-    "issue_number_s": [
-        "4261"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "Herinek 1740-1969, Maria Theresia 848"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1740 to 1780"
+    ],
     "hashed_id_s": [
         "7d6c7432b08995e8"
     ],
-    "_version_": 1667138255432187904,
-    "timestamp": "2020-05-19T16:48:56.104Z"
+    "_version_": 1684903012796989440,
+    "timestamp": "2020-12-01T18:52:08.943Z"
 }

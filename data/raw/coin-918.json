@@ -35,8 +35,11 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 918\",\"call_number_browse\":\"Coin 918\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
@@ -100,9 +103,12 @@
         "Price  1940v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "6a293e3d1842b947"
     ],
-    "_version_": 1672996731281735680,
-    "timestamp": "2020-07-23T08:46:54.060Z"
+    "_version_": 1684903180525109248,
+    "timestamp": "2020-12-01T18:54:48.901Z"
 }

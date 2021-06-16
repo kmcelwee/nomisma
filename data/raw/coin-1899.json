@@ -35,6 +35,12 @@
         "5.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1899\",\"call_number_browse\":\"Coin 1899\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -31,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1242"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +92,12 @@
         "BMC Mac. 110 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -31"
+    ],
     "hashed_id_s": [
         "94900dfd9bc05945"
     ],
-    "_version_": 1667138416140091392,
-    "timestamp": "2020-05-19T16:51:29.367Z"
+    "_version_": 1684903191112581120,
+    "timestamp": "2020-12-01T18:54:58.998Z"
 }

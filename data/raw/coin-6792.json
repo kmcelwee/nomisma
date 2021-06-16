@@ -35,6 +35,12 @@
         "0.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6792\",\"call_number_browse\":\"Coin 6792\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1374,
     "pub_date_end_sort": 1375,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "billon"
-    ],
-    "issue_number_s": [
-        "4201"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +93,12 @@
         "Nercessian  500"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1374 to 1375"
+    ],
     "hashed_id_s": [
         "3a89239ad91b1f6b"
     ],
-    "_version_": 1667138365132111872,
-    "timestamp": "2020-05-19T16:50:40.722Z"
+    "_version_": 1684903097063702528,
+    "timestamp": "2020-12-01T18:53:29.306Z"
 }

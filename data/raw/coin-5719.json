@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "3.8 g.; coin appears cast with signs of chasing"
+        "Coin appears cast with signs of chasing"
     ],
     "die_axis_s": [
         "5"
@@ -34,7 +34,16 @@
     "size_s": [
         "19.7"
     ],
+    "weight_s": [
+        "3.80"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5719\",\"call_number_browse\":\"Coin 5719\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -62,
     "pub_date_end_sort": -62,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3265"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Aemilius Lepidus Paullus"
@@ -74,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Concordia r., veiled and diademed; border of dots"
+        "wearing veil and diadem"
     ],
     "issue_obverse_legend_s": [
-        "to l., \u0393AVLLVS LE\u0393IDVS; to r., CONCORDIA"
+        "PAVLLVS\u00b7LEPIDVS CONCORDIA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Trophy"
@@ -86,10 +98,16 @@
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "trophy; TER above; to r., togate figure; to l., three captives; legend in exergue; border of dots"
+        "with togate figure of L. Aemilius Paullus and three captives (King Perseus of Macedon and his sons)"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "L. Aemilius Paulus on r.; three captives on l."
     ],
     "issue_reverse_legend_s": [
-        "\u0393AVLLVS"
+        "TER PAVLLVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  415/1",
@@ -97,9 +115,12 @@
         "Sear  366"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-62 to -62"
+    ],
     "hashed_id_s": [
         "54a1ca8d3f17e6dd"
     ],
-    "_version_": 1667138249421750272,
-    "timestamp": "2020-05-19T16:48:50.372Z"
+    "_version_": 1684903677756702720,
+    "timestamp": "2020-12-01T19:02:43.099Z"
 }

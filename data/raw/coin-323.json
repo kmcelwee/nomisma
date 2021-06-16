@@ -35,8 +35,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 323\",\"call_number_browse\":\"Coin 323\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 1290,
     "pub_date_end_sort": 1314,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "gros tournois"
-    ],
-    "issue_number_s": [
-        "171"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "Robert  2464"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1290 to 1314"
+    ],
     "hashed_id_s": [
         "91587b3032814862"
     ],
-    "_version_": 1667138128290250752,
-    "timestamp": "2020-05-19T16:46:54.852Z"
+    "_version_": 1684903340906905600,
+    "timestamp": "2020-12-01T18:57:21.854Z"
 }

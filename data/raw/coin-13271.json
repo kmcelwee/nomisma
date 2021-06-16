@@ -35,8 +35,11 @@
         "9.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13271\",\"call_number_browse\":\"Coin 13271\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "8602"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,6 +108,6 @@
     "hashed_id_s": [
         "3daa77e271c4eb69"
     ],
-    "_version_": 1667138516644003840,
-    "timestamp": "2020-05-19T16:53:05.217Z"
+    "_version_": 1684903327195725824,
+    "timestamp": "2020-12-01T18:57:08.778Z"
 }

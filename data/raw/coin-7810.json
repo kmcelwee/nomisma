@@ -35,6 +35,12 @@
         "4.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7810\",\"call_number_browse\":\"Coin 7810\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "353: 2008-01-15 Candiotti, Keith"
+    ],
     "pub_date_start_sort": 1122,
     "pub_date_end_sort": 1137,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "4873"
     ],
     "issue_metal_s": [
         "Billon"
@@ -97,9 +100,12 @@
         "Sear  1944"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1122 to 1137"
+    ],
     "hashed_id_s": [
         "2b0e0e23d1632e6e"
     ],
-    "_version_": 1667138181277941760,
-    "timestamp": "2020-05-19T16:47:45.386Z"
+    "_version_": 1684903426267283456,
+    "timestamp": "2020-12-01T18:58:43.259Z"
 }

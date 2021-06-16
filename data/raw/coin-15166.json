@@ -2,7 +2,7 @@
     "id": "coin-15166",
     "title_display": "Coin: 15166",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), silver denarius (Marcus), Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15166"
@@ -35,8 +35,14 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15166\",\"call_number_browse\":\"Coin 15166\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "126:  Frederick W. Brown"
+    ],
+    "numismatic_provenance_s": [
+        "Frederick W. Brown; ; "
     ],
     "pub_date_start_sort": 154,
     "pub_date_end_sort": 155,
@@ -44,19 +50,16 @@
         "coin"
     ],
     "issue_denomination_s": [
-        "silver denarius (Marcus)"
-    ],
-    "issue_number_s": [
-        "9323"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -74,26 +77,52 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bare head of Marcus Aurelius r."
+        "Marcus Aurelius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare-headed"
     ],
     "issue_obverse_legend_s": [
         "AVRELIVS CAESAR AVG PII FIL"
     ],
     "issue_reverse_figure_s": [
-        "Minerva standing facing, head l., with owl and spear; behind at right hand, shield"
+        "Minerva"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "helmeted, draped"
     ],
     "issue_reverse_legend_s": [
         "TR POT VIIII-COS II"
     ],
+    "issue_reverse_attributes_s": [
+        "owl, on extended r. hand",
+        "round shield set on ground, in l. hand",
+        "vertical spear, resting against l. arm"
+    ],
     "issue_references_s": [
-        "BMC.1 122 837",
-        "RIC 86 463",
-        "Strack 284 "
+        "RIC III  Antoninus Pius 463B",
+        "Strack  284",
+        "BMC.4 122 837"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "154 to 155"
+    ],
     "hashed_id_s": [
         "2071fdc7025a86c9"
     ],
-    "_version_": 1667145481276358656,
-    "timestamp": "2020-05-19T19:01:12.687Z"
+    "_version_": 1684903687695106048,
+    "timestamp": "2020-12-01T19:02:52.577Z"
 }

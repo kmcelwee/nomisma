@@ -50,6 +50,9 @@
         "3.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9220\",\"call_number_browse\":\"Coin 9220\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 759,
     "pub_date_end_sort": 772,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4955"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "Catalogue des Monnaies Musulmanes De La Bibliotheque Nationale  1568"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "759 to 772"
+    ],
     "hashed_id_s": [
         "191a0c2d2bbacf30"
     ],
-    "_version_": 1667145394237210624,
-    "timestamp": "2020-05-19T18:52:44.580Z"
+    "_version_": 1684903368608186368,
+    "timestamp": "2020-12-01T18:57:48.272Z"
 }

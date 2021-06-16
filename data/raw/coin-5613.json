@@ -41,6 +41,12 @@
         "42.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5613\",\"call_number_browse\":\"Coin 5613\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -211,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "triens"
-    ],
-    "issue_number_s": [
-        "3186"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +86,12 @@
         "Aes Grave  1674"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -211"
+    ],
     "hashed_id_s": [
         "59cc3f8ff3a52ecd"
     ],
-    "_version_": 1667138248848179200,
-    "timestamp": "2020-05-19T16:48:49.825Z"
+    "_version_": 1684903470775140352,
+    "timestamp": "2020-12-01T18:59:25.705Z"
 }

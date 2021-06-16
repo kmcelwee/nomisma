@@ -105,9 +105,12 @@
         "Schl.  II12C"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1112 to 1119"
+    ],
     "hashed_id_s": [
         "6802769c61447e5c"
     ],
-    "_version_": 1674259955091243008,
-    "timestamp": "2020-08-06T07:25:18.157Z"
+    "_version_": 1684903323538292736,
+    "timestamp": "2020-12-01T18:57:05.290Z"
 }

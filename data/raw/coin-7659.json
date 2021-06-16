@@ -49,9 +49,6 @@
     "issue_denomination_s": [
         "tetrobol"
     ],
-    "issue_number_s": [
-        "4785"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -98,6 +95,6 @@
     "hashed_id_s": [
         "cca6d4eebcc37e6c"
     ],
-    "_version_": 1667138175085051904,
-    "timestamp": "2020-05-19T16:47:39.479Z"
+    "_version_": 1683104897131610112,
+    "timestamp": "2020-11-11T22:31:52.216Z"
 }

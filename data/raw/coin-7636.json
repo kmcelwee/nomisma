@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/16/1932"
+        "1932-05-16"
     ],
     "find_feature_s": [
-        "House A surface"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "N-10"
+        "DS 10-N"
     ],
     "find_number_s": [
         "1557"
@@ -50,6 +50,12 @@
         "2.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7636\",\"call_number_browse\":\"Coin 7636\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 324,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4776"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +104,19 @@
         "Jupiter stg. l., chlamys across l. shoulder, leaning on sceptre with eagle, Victory on globe in r. hand; eagle holding wreath to l.; to r., captive on ground."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONS-ERVATORI"
+        "IOVI CONS-ERVATORI | (X on II\u0393)/ SMNA"
     ],
     "issue_references_s": [
-        "RIC, VII 607. 44",
+        "RIC VII Nicomedia 44",
         "Numismatique Constantinienne III. 44. I. 1."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 324"
+    ],
     "hashed_id_s": [
         "6249f437ef02afb2"
     ],
-    "_version_": 1667138260920434688,
-    "timestamp": "2020-05-19T16:49:01.341Z"
+    "_version_": 1693061355208179712,
+    "timestamp": "2021-03-01T20:05:30.567Z"
 }

@@ -38,6 +38,12 @@
         "14.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5285\",\"call_number_browse\":\"Coin 5285\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 54,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "2952"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +107,12 @@
         "RPC.1  4546"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 54"
+    ],
     "hashed_id_s": [
         "d1c2f3af4e4a83e4"
     ],
-    "_version_": 1667138401807106048,
-    "timestamp": "2020-05-19T16:51:15.700Z"
+    "_version_": 1684903176798470144,
+    "timestamp": "2020-12-01T18:54:45.349Z"
 }

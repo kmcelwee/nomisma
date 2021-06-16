@@ -35,6 +35,15 @@
         "3.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5061\",\"call_number_browse\":\"Coin 5061\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; $1.80"
+    ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2800"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "A. Plautius"
@@ -74,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Turreted head r.; border of dots"
+        "turreted"
     ],
     "issue_obverse_legend_s": [
-        "A \u0393LAVTIVS AED CVR S C"
+        "A\u00b7PLAVTIVS AED\u00b7CVR\u00b7S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Camel"
@@ -89,10 +101,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "before camel, figure, kneeling, holds reins in l. hand, olive branch in r. hand; border of dots"
+        "before camel, kneeling figure holds reins in l. hand and olive branch in r. hand"
     ],
     "issue_reverse_legend_s": [
-        "IVDAEVS | BACCHIVS"
+        "BACCHIVS IVDAEVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  431/1",
@@ -100,9 +115,12 @@
         "Sear  395"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "ddcdafe7e9d114a3"
     ],
-    "_version_": 1667138510580088832,
-    "timestamp": "2020-05-19T16:52:59.433Z"
+    "_version_": 1684903642206830592,
+    "timestamp": "2020-12-01T19:02:09.195Z"
 }

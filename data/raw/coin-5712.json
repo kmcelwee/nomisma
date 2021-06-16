@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "2 Shillings and Sixpence"
     ],
-    "issue_number_s": [
-        "3261"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -87,9 +84,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "73f1b22395333535"
     ],
-    "_version_": 1667138391157768192,
-    "timestamp": "2020-05-19T16:51:05.542Z"
+    "_version_": 1684903565625131008,
+    "timestamp": "2020-12-01T19:00:56.162Z"
 }

@@ -29,6 +29,12 @@
         "99x158"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6182\",\"call_number_browse\":\"Coin 6182\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "30 dollars"
-    ],
-    "issue_number_s": [
-        "3629"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +80,6 @@
     "hashed_id_s": [
         "82c664864e17c0a6"
     ],
-    "_version_": 1667138376211365888,
-    "timestamp": "2020-05-19T16:50:51.288Z"
+    "_version_": 1684903115244961792,
+    "timestamp": "2020-12-01T18:53:46.646Z"
 }

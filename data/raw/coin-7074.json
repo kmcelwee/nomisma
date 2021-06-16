@@ -29,6 +29,9 @@
         "79x62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7074\",\"call_number_browse\":\"Coin 7074\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "1/2 dollar"
-    ],
-    "issue_number_s": [
-        "4418"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "9ee45b74afd3188d"
     ],
-    "_version_": 1667315025093591040,
-    "timestamp": "2020-05-21T15:38:36.791Z"
+    "_version_": 1684903658628579328,
+    "timestamp": "2020-12-01T19:02:24.857Z"
 }

@@ -35,6 +35,9 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11638\",\"call_number_browse\":\"Coin 11638\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7750"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "MK  MK 1313"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "a78d79b6d9a489b5"
     ],
-    "_version_": 1667138296041439232,
-    "timestamp": "2020-05-19T16:49:34.835Z"
+    "_version_": 1684903507799310336,
+    "timestamp": "2020-12-01T19:00:01.014Z"
 }

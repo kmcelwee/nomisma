@@ -35,8 +35,8 @@
         "17.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9353\",\"call_number_browse\":\"Coin 9353\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 527,
     "pub_date_end_sort": 532,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5974"
     ],
     "issue_metal_s": [
         "Copper"
@@ -103,9 +100,12 @@
         "DOC Justinian I 309b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "527 to 532"
+    ],
     "hashed_id_s": [
         "621ce070f920cc46"
     ],
-    "_version_": 1667138146211463168,
-    "timestamp": "2020-05-19T16:47:11.946Z"
+    "_version_": 1684902916949803008,
+    "timestamp": "2020-12-01T18:50:37.535Z"
 }

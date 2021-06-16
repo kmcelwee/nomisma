@@ -35,6 +35,12 @@
         "11.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2647\",\"call_number_browse\":\"Coin 2647\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1285,
     "pub_date_end_sort": 1350,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "cinquina"
-    ],
-    "issue_number_s": [
-        "1668"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +96,12 @@
         "Roma, parte I  IX.7.299"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1285 to 1350"
+    ],
     "hashed_id_s": [
         "d66f59131a7f7fec"
     ],
-    "_version_": 1667138422862512128,
-    "timestamp": "2020-05-19T16:51:35.780Z"
+    "_version_": 1684903201571078144,
+    "timestamp": "2020-12-01T18:55:08.971Z"
 }

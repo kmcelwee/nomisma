@@ -35,8 +35,11 @@
         "3.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5056\",\"call_number_browse\":\"Coin 5056\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2799"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Licinius M.f. Crassus"
@@ -77,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust r., draped, laureate and diademed; border of dots"
+        "draped, laureate, and wearing diadem"
     ],
     "issue_obverse_legend_s": [
-        "S C"
+        "S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Female figure"
@@ -92,10 +98,16 @@
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "Female figure (Amazon) leading horse l. with r. hand, holding spear in l. hand; below horse, cuirass and shield; border of dots"
+        "leading horse l. with r. hand"
     ],
     "issue_reverse_legend_s": [
-        "\u0393 CRASSVS M F"
+        "P\u00b7CRASSVS\u00b7M\u00b7F"
+    ],
+    "issue_reverse_attributes_s": [
+        "spear, in l. hand",
+        "cuirass and shield, at feet",
+        "inscription, around figure",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  430/1",
@@ -103,9 +115,12 @@
         "Sear  394"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "edae0adf63bff3a4"
     ],
-    "_version_": 1667138509706625024,
-    "timestamp": "2020-05-19T16:52:58.599Z"
+    "_version_": 1684903641315540992,
+    "timestamp": "2020-12-01T19:02:08.347Z"
 }

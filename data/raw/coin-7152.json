@@ -29,6 +29,9 @@
         "73x94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7152\",\"call_number_browse\":\"Coin 7152\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "6 dollars"
-    ],
-    "issue_number_s": [
-        "4474"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "9e5f072d572e6289"
     ],
-    "_version_": 1667314468191731712,
-    "timestamp": "2020-05-21T15:29:45.687Z"
+    "_version_": 1684903658470244352,
+    "timestamp": "2020-12-01T19:02:24.705Z"
 }

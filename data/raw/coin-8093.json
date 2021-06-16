@@ -29,16 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/25/1939"
+        "1939-04-25"
     ],
     "find_feature_s": [
-        "Between plundered wall above bedrock at S. end of villa With A baskets"
+        "[None recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc827"
+    ],
+    "find_description_s": [
+        "Between plundered wall above bedrock at S. end of villa With A baskets?"
     ],
     "die_axis_s": [
         "1"
@@ -50,6 +53,12 @@
         "3.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8093\",\"call_number_browse\":\"Coin 8093\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -57,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5123"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +123,12 @@
         "Numismatique Constantinienne II p. 324 I 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "a5f8b8ce14ad0e40"
     ],
-    "_version_": 1667138266054262784,
-    "timestamp": "2020-05-19T16:49:06.236Z"
+    "_version_": 1694231905682063360,
+    "timestamp": "2021-03-14T18:10:54.596Z"
 }

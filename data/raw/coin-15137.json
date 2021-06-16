@@ -2,7 +2,7 @@
     "id": "coin-15137",
     "title_display": "Coin: 15137",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15137"
@@ -35,22 +35,25 @@
         "3.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15137\",\"call_number_browse\":\"Coin 15137\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 145,
     "pub_date_end_sort": 161,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9296"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
+    ],
+    "issue_era_s": [
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -68,26 +71,50 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare-headed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS-AVG PIVS P P."
+        "ANTONINVS AVG PIVS P P"
     ],
     "issue_reverse_figure_s": [
-        "Antoninus, togate and veiled, standing facing, head l., sacrificing over tripod-altar at l.; legend below"
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "veiled, togate, sacrificing over tripod-altar left, l. hand at side"
     ],
     "issue_reverse_legend_s": [
-        "COS IIII; VOTA SVSCE-PTA DEC III"
+        "VOTA SVSCEPTA DEC III COS IIII"
+    ],
+    "issue_reverse_attributes_s": [
+        "patera, in r. hand"
     ],
     "issue_references_s": [
-        "BMC.1 83-4 585-6",
-        "RIC 45 156Ab",
-        "Strack 350 "
+        "RIC III  Antoninus Pius 156Ab",
+        "Strack  350",
+        "BMC.4 83-4 585-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "145 to 161"
+    ],
     "hashed_id_s": [
         "0e87b5475e1469c6"
     ],
-    "_version_": 1667145479657357312,
-    "timestamp": "2020-05-19T18:50:06.535Z"
+    "_version_": 1684903225001508864,
+    "timestamp": "2020-12-01T18:55:31.317Z"
 }

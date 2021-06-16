@@ -32,8 +32,11 @@
         "62 \u00d7 51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15152\",\"call_number_browse\":\"Coin 15152\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1926,
     "pub_date_end_sort": 1979,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Grand Cross"
-    ],
-    "issue_number_s": [
-        "9309"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  330-31"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1926 to 1979"
+    ],
     "hashed_id_s": [
         "af2afa7f6da7befc"
     ],
-    "_version_": 1667145035702861824,
-    "timestamp": "2020-05-19T18:42:22.746Z"
+    "_version_": 1684903368912273408,
+    "timestamp": "2020-12-01T18:57:48.562Z"
 }

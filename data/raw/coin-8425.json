@@ -53,6 +53,12 @@
         "7.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8425\",\"call_number_browse\":\"Coin 8425\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -63,
     "pub_date_end_sort": -62,
     "issue_object_type_s": [
@@ -109,12 +115,15 @@
     ],
     "issue_references_s": [
         "Waage  268",
-        "From Vespasian to Domitian (AD 69\u201396)  4204"
+        "RPC.1  4204"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-63 to -62"
+    ],
     "hashed_id_s": [
         "0184a06b24eca9dc"
     ],
-    "_version_": 1671470453153071104,
-    "timestamp": "2020-07-06T12:27:21.803Z"
+    "_version_": 1684902894739914752,
+    "timestamp": "2020-12-01T18:50:16.355Z"
 }

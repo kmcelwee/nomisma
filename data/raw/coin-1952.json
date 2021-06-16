@@ -35,8 +35,8 @@
         "8.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1952\",\"call_number_browse\":\"Coin 1952\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_accession_s": [
+        "274:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1/15 Shilling"
-    ],
-    "issue_number_s": [
-        "1280"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,6 +96,6 @@
     "hashed_id_s": [
         "42e5c9a5cbff0fee"
     ],
-    "_version_": 1667138215621951488,
-    "timestamp": "2020-05-19T16:48:18.140Z"
+    "_version_": 1684903449569787904,
+    "timestamp": "2020-12-01T18:59:05.483Z"
 }

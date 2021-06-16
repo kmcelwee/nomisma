@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4-2-1933"
+        "1933-04-02"
     ],
-    "find_description_s": [
-        "8034 High Ta Temple"
+    "find_feature_s": [
+        "Hippodrome to temple"
+    ],
+    "find_locus_s": [
+        "DS 8-O 34 (HPO)"
     ],
     "die_axis_s": [
         "5"
@@ -44,6 +47,9 @@
         "3.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7405\",\"call_number_browse\":\"Coin 7405\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4633"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +104,19 @@
         "two turrets, no doors, star above; varying number of stone layers; in left field, A."
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN-TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMANT"
     ],
     "issue_references_s": [
-        "RIC 7 688.63",
+        "RIC VII Antioch 63",
         "Cohen 7 281.454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "50d3982674aa3a8b"
     ],
-    "_version_": 1667138174163353600,
-    "timestamp": "2020-05-19T16:47:38.600Z"
+    "_version_": 1691156168464924672,
+    "timestamp": "2021-02-08T19:23:22.901Z"
 }

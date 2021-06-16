@@ -38,8 +38,11 @@
         "3.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4784\",\"call_number_browse\":\"Coin 4784\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "8:  Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": -32,
     "pub_date_end_sort": -31,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2610"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Sear  1479v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-32 to -31"
+    ],
     "hashed_id_s": [
         "5fe87567dc91caff"
     ],
-    "_version_": 1667138504566505472,
-    "timestamp": "2020-05-19T16:52:53.698Z"
+    "_version_": 1684903637326757888,
+    "timestamp": "2020-12-01T19:02:04.543Z"
 }

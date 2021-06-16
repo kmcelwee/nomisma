@@ -29,13 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "05/09/1933"
+        "1933-05-09"
     ],
     "find_feature_s": [
-        "Bath D. along wall E at 1.00 m."
+        "[None recorded]"
+    ],
+    "find_locus_s": [
+        "[None recorded]"
     ],
     "find_number_s": [
         "2962"
+    ],
+    "find_description_s": [
+        "Bath D. along wall E at 1.00 m.?"
     ],
     "die_axis_s": [
         "6"
@@ -47,6 +53,12 @@
         "3.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8088\",\"call_number_browse\":\"Coin 8088\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -54,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5118"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,13 +119,16 @@
         "GENIO POPROM | PTR"
     ],
     "issue_references_s": [
-        "RIC.7 p. 168 56",
+        "RIC VII Trier 56",
         "Numismatique Constantinienne I pp. 406-7 III 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 315"
+    ],
     "hashed_id_s": [
         "e8ba959356a91ca0"
     ],
-    "_version_": 1667138192067788800,
-    "timestamp": "2020-05-19T16:47:55.676Z"
+    "_version_": 1694230843393835008,
+    "timestamp": "2021-03-14T17:54:01.443Z"
 }

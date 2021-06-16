@@ -38,8 +38,14 @@
         "7.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10796\",\"call_number_browse\":\"Coin 10796\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Terry Baranski; 09/23/2012"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6955"
     ],
     "issue_metal_s": [
         "Copper"
@@ -92,9 +95,12 @@
         "SNS 3 Mint V= Sakastan Type III/1b1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "e1e51f0e96928a6d"
     ],
-    "_version_": 1667138171935129600,
-    "timestamp": "2020-05-19T16:47:36.475Z"
+    "_version_": 1684903035729346560,
+    "timestamp": "2020-12-01T18:52:30.813Z"
 }

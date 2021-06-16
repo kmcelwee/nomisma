@@ -50,6 +50,12 @@
         "16.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 87\",\"call_number_browse\":\"Coin 87\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 517,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "40"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "Sear  19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 517"
+    ],
     "hashed_id_s": [
         "682cb4637be07bf3"
     ],
-    "_version_": 1667138199773773824,
-    "timestamp": "2020-05-19T16:48:03.026Z"
+    "_version_": 1684903436294815744,
+    "timestamp": "2020-12-01T18:58:52.823Z"
 }

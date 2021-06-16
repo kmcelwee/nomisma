@@ -35,8 +35,11 @@
         "4.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6794\",\"call_number_browse\":\"Coin 6794\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1198,
     "pub_date_end_sort": 1219,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tank"
-    ],
-    "issue_number_s": [
-        "4203"
     ],
     "issue_metal_s": [
         "Copper"
@@ -102,9 +102,12 @@
         "Nercessian  301v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1198 to 1219"
+    ],
     "hashed_id_s": [
         "ae261562913afc35"
     ],
-    "_version_": 1667138361949683712,
-    "timestamp": "2020-05-19T16:50:37.688Z"
+    "_version_": 1684903094751592448,
+    "timestamp": "2020-12-01T18:53:27.103Z"
 }

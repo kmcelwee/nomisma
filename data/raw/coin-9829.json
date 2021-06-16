@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/25/1938"
+        "1938-05-25"
+    ],
+    "find_feature_s": [
+        "Removing party wall of A1a and b"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb2663"
-    ],
-    "find_description_s": [
-        "Removing party wall of A1a and b."
     ],
     "die_axis_s": [
         "11"
@@ -57,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6216"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +89,7 @@
         "plain diadem"
     ],
     "issue_obverse_legend_s": [
-        "CONSTAN TINVSAVG"
+        "CONSTAN-TINVSAVG"
     ],
     "issue_reverse_figure_s": [
         "Camp gate"
@@ -101,16 +98,19 @@
         "camp gate with two turrets, star above, and several stone layers."
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAEAVGG | SMANT[A or \u0393]"
+        "PROVIDEN-TIAEAVGG | SMANT[A or \u0393]"
     ],
     "issue_references_s": [
-        "RIC.7 691 79",
+        "RIC VII Antioch 79",
         "Waage 118 1402"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "367a97e45a29c175"
     ],
-    "_version_": 1667138277794119680,
-    "timestamp": "2020-05-19T16:49:17.429Z"
+    "_version_": 1684903687927889920,
+    "timestamp": "2020-12-01T19:02:52.799Z"
 }

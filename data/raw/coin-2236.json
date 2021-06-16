@@ -29,7 +29,7 @@
         "Exergue off flan, illegible traces of magistrate's mark above legend"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "0814/1938"
@@ -53,6 +53,12 @@
         "6.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2236\",\"call_number_browse\":\"Coin 2236\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -286,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1446"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,7 +113,7 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m1430, in the exergue",
+        "\u039e, in the exergue",
         "m1446, above bull"
     ],
     "issue_references_s": [
@@ -120,9 +123,16 @@
         "Sear  6849"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Medusa",
+        "Animal, bull"
+    ],
+    "issue_date_s": [
+        "-286 to -281"
+    ],
     "hashed_id_s": [
         "0477978872c9f7ae"
     ],
-    "_version_": 1669751298921070592,
-    "timestamp": "2020-06-17T13:02:08.583Z"
+    "_version_": 1684903649965244416,
+    "timestamp": "2020-12-01T19:02:16.594Z"
 }

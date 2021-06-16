@@ -32,6 +32,9 @@
         "89x67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3689\",\"call_number_browse\":\"Coin 3689\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "10 Shillings"
-    ],
-    "issue_number_s": [
-        "2175"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +78,12 @@
         "Shafer & Cuhaj p. 1148 S2540E"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "1504e30a6831d935"
     ],
-    "_version_": 1667138227222347776,
-    "timestamp": "2020-05-19T16:48:29.203Z"
+    "_version_": 1684903107275784192,
+    "timestamp": "2020-12-01T18:53:39.045Z"
 }

@@ -35,6 +35,12 @@
         "16.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 664\",\"call_number_browse\":\"Coin 664\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "67: 2001-04-09 Allan Davisson"
+    ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -70,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "280"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +102,12 @@
         "Price  1193"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -70"
+    ],
     "hashed_id_s": [
         "30ee47312951c9d9"
     ],
-    "_version_": 1667138203863220224,
-    "timestamp": "2020-05-19T16:48:06.924Z"
+    "_version_": 1684903440417816576,
+    "timestamp": "2020-12-01T18:58:56.754Z"
 }

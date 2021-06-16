@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6398"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -84,9 +81,12 @@
         "Bone p. 395-396 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "696 to 750"
+    ],
     "hashed_id_s": [
         "8bd9bbf52e3ef5fe"
     ],
-    "_version_": 1667145476317642752,
-    "timestamp": "2020-05-19T18:59:22.399Z"
+    "_version_": 1684903023490367488,
+    "timestamp": "2020-12-01T18:52:19.140Z"
 }

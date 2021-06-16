@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/5/1939"
+        "1939-08-05"
+    ],
+    "find_feature_s": [
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "15-M"
+        "A 15-M"
     ],
     "find_number_s": [
         "Cc2776"
@@ -47,6 +50,12 @@
         "1.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12140\",\"call_number_browse\":\"Coin 12140\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4569"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed (rosette d.)"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NUSMAXAUG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,16 +113,19 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR IAEXERC ITUS"
+        "GLOR-IA EXERC-ITVS"
     ],
     "issue_references_s": [
-        "RIC 7 693.86",
+        "RIC VII Antioch 86",
         "Numismatique Constantinienne 7 257.254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "d8fc71f647e2a0d9"
     ],
-    "_version_": 1667138128536666112,
-    "timestamp": "2020-05-19T16:46:55.089Z"
+    "_version_": 1691969113682870272,
+    "timestamp": "2021-02-17T18:44:47.875Z"
 }

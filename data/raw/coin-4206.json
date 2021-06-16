@@ -50,6 +50,12 @@
         "1.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4206\",\"call_number_browse\":\"Coin 4206\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 522,
     "pub_date_end_sort": 527,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "2304"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Sear  111"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "522 to 527"
+    ],
     "hashed_id_s": [
         "ad4bed694f1f3a92"
     ],
-    "_version_": 1667138499974791168,
-    "timestamp": "2020-05-19T16:52:49.321Z"
+    "_version_": 1684903633607458816,
+    "timestamp": "2020-12-01T19:02:00.995Z"
 }

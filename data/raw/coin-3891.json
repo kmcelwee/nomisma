@@ -50,6 +50,12 @@
         "11.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3891\",\"call_number_browse\":\"Coin 3891\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -29,
     "pub_date_end_sort": -18,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2258"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +113,12 @@
         "RPC.1  2231"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-29 to -18"
+    ],
     "hashed_id_s": [
         "f1cf1fa390a9dd77"
     ],
-    "_version_": 1667138229702230016,
-    "timestamp": "2020-05-19T16:48:31.568Z"
+    "_version_": 1684903456255508480,
+    "timestamp": "2020-12-01T18:59:11.858Z"
 }

@@ -32,8 +32,11 @@
         "2.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1600\",\"call_number_browse\":\"Coin 1600\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "1 Jiao"
     ],
-    "issue_number_s": [
-        "990"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "China"
@@ -62,16 +65,19 @@
         "\u4e2d\u83ef\u6c11\u570b \u4e09\u5e74"
     ],
     "issue_reverse_legend_s": [
-        " \u58f9\u89d2 | \u6bcf\u5341\u679a\u7576\u4e00\u5713"
+        "\u58f9\u89d2 | \u6bcf\u5341\u679a\u7576\u4e00\u5713"
     ],
     "issue_references_s": [
         "Qing Dai 225 744",
         "KM 2005 414 326"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "acaa8d261274eb7e"
     ],
-    "_version_": 1667138212855808000,
-    "timestamp": "2020-05-19T16:48:15.500Z"
+    "_version_": 1684902978405793792,
+    "timestamp": "2020-12-01T18:51:36.145Z"
 }

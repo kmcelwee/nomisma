@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "/1/1938"
+        "1938-06-01"
+    ],
+    "find_feature_s": [
+        "W. side of B12 & 5"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb3009"
@@ -47,6 +50,12 @@
         "3.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11630\",\"call_number_browse\":\"Coin 11630\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7747"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -79,28 +85,40 @@
     "issue_obverse_figure_s": [
         "Emperor"
     ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
     "issue_obverse_figure_description_s": [
-        "bust laur., dr., cuir"
+        "laureate, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMP CONSTANTINVS PF AVG"
+        "IMPCONSTANTINVSPFAVG"
     ],
     "issue_reverse_figure_s": [
-        "Sun-god"
+        "Sol"
+    ],
+    "issue_reverse_symbol_s": [
+        "R, F"
     ],
     "issue_reverse_figure_description_s": [
-        "Sol rad. Stg. L., raising r.hand, globe in l., chlamys across l. shoulder"
+        "Sol radiate, standing left, raising right hand, globe in left, chlamys across left shoulder"
     ],
     "issue_reverse_legend_s": [
-        "SOLI INV-I-CTO COMITI l R*T"
+        "SOLIINV-I-CTOCOMITI l R*T"
     ],
     "issue_references_s": [
-        "RIC 7 298 22"
+        "RIC VII Rome 19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "17fe8a0f41efd664"
     ],
-    "_version_": 1667138296295194624,
-    "timestamp": "2020-05-19T16:49:35.073Z"
+    "_version_": 1696236938108862464,
+    "timestamp": "2021-04-05T21:20:02.438Z"
 }

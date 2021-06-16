@@ -35,6 +35,15 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4732\",\"call_number_browse\":\"Coin 4732\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1929; $30"
+    ],
     "pub_date_start_sort": -40,
     "pub_date_end_sort": -40,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2574"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +97,12 @@
         "Sear  1470"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-40 to -40"
+    ],
     "hashed_id_s": [
         "723f05df116f7a83"
     ],
-    "_version_": 1667138502554288128,
-    "timestamp": "2020-05-19T16:52:51.778Z"
+    "_version_": 1684903312447504384,
+    "timestamp": "2020-12-01T18:56:54.713Z"
 }

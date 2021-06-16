@@ -35,8 +35,11 @@
         "12.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1587\",\"call_number_browse\":\"Coin 1587\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "975"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "RPC.1 1 129"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "2ec1179c6890a883"
     ],
-    "_version_": 1667138413465174016,
-    "timestamp": "2020-05-19T16:51:26.815Z"
+    "_version_": 1684903279414214656,
+    "timestamp": "2020-12-01T18:56:23.211Z"
 }

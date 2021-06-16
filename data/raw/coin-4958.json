@@ -35,8 +35,11 @@
         "3.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4958\",\"call_number_browse\":\"Coin 4958\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -51,
     "pub_date_end_sort": -51,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2738"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "C. Coelius Caldus"
@@ -77,22 +80,32 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "C. Coelius Caldus, Cos. 94, bare head r.; below, COS; behind, vexillum inscribed HIS or HS; before, boar standard; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Moneyer's grandfather?"
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "C COEL CALDVS"
+        "C\u00b7COEL\u00b7CALDVS COS HIS"
+    ],
+    "issue_obverse_attributes_s": [
+        "standard in the form of a boar and inscription, before head",
+        "standard inscribed HIS , behind head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Lectisternium"
+        "Table"
     ],
     "issue_reverse_figure_description_s": [
-        "table with figure, facing l., preparing epulum; table inscribed L CALDVS / VIIVIR E\u0393VL, VIR and VL in monogram; to l., trophy with Macedonian (round) shield; to r., trophy with carnyx and oval shield; border of dots"
+        "with figure (of L. Coelius Caldus) behind, preparing epulum"
     ],
     "issue_reverse_legend_s": [
-        "l.: C CALDVS (downward); r.: I / M\u0393 / A(V) / X; below: CALDVS IIIVIR (ALD in monogram)"
+        "L\u00b7CALDVS / VIIVIR\u00b7EPVL CCALDVS IMP\u00b7A\u00b7X CALDVS\u00b7IIIVIR"
+    ],
+    "issue_reverse_attributes_s": [
+        "inscription, on table",
+        "trophy with Macedonian shield, on l. ",
+        "trophy with carnyx and oval shield with thunderbolt, on r. ",
+        "inscription, on far l. ",
+        "inscription, on far r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  437/2a",
@@ -100,9 +113,12 @@
         "Sear  404"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-51 to -51"
+    ],
     "hashed_id_s": [
         "97fa1b055992af4a"
     ],
-    "_version_": 1667138242849275904,
-    "timestamp": "2020-05-19T16:48:44.109Z"
+    "_version_": 1684903466555670528,
+    "timestamp": "2020-12-01T18:59:21.683Z"
 }

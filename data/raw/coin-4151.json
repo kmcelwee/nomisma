@@ -35,16 +35,22 @@
         "3.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4151\",\"call_number_browse\":\"Coin 4151\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; $1.70"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2364"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; before, FIDES downwards; behind, NERVA downwards; border of dots"
+        "laureate; before, FIDES downwards; behind, NERVA downwards"
     ],
     "issue_obverse_legend_s": [
-        "FIDES | NERVA"
+        "FIDES NERVA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Horseman"
@@ -89,14 +98,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "drags naked warrior with r. hand; warrior holds shield in l. hand and sword in r. hand; III on l., VIR on r., rest of legend below; border of dots"
+        "dragging naked warrior with r. hand; warrior holds shield in l. hand and sword in r. hand; below, A.LICINIVS; on l., III; on r., VIR"
     ],
     "issue_reverse_legend_s": [
-        "A LICINIVS | III VIR"
+        "A.LICINIVS III VIR"
     ],
     "issue_reverse_attributes_s": [
         "shield, held in l. hand of warrior",
-        "sword, held in r. hand of warrior"
+        "sword, held in r. hand of warrior",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  454/1",
@@ -104,9 +114,12 @@
         "Sear  430"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "903b348e59255ea4"
     ],
-    "_version_": 1667138490969620480,
-    "timestamp": "2020-05-19T16:52:40.732Z"
+    "_version_": 1684903228941008896,
+    "timestamp": "2020-12-01T18:55:35.074Z"
 }

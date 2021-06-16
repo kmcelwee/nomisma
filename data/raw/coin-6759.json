@@ -35,6 +35,12 @@
         "2.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6759\",\"call_number_browse\":\"Coin 6759\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1270,
     "pub_date_end_sort": 1289,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4169"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,12 @@
         "Bedoukian  1452v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1270 to 1289"
+    ],
     "hashed_id_s": [
         "adaba52c9910556c"
     ],
-    "_version_": 1667138255107129344,
-    "timestamp": "2020-05-19T16:48:55.794Z"
+    "_version_": 1684903126768812032,
+    "timestamp": "2020-12-01T18:53:57.636Z"
 }

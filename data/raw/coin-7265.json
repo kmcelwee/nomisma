@@ -26,6 +26,9 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7265\",\"call_number_browse\":\"Coin 7265\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -33,9 +36,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4555"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,6 +100,6 @@
     "hashed_id_s": [
         "acc091f696b79eeb"
     ],
-    "_version_": 1667138331279884288,
-    "timestamp": "2020-05-19T16:50:08.439Z"
+    "_version_": 1684903072423215104,
+    "timestamp": "2020-12-01T18:53:05.809Z"
 }

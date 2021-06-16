@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "solidus"
     ],
-    "issue_number_s": [
-        "4437"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -95,9 +92,12 @@
         "Sear page 214 1035"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "650 to 651"
+    ],
     "hashed_id_s": [
         "ea80d76191ccc4b2"
     ],
-    "_version_": 1667138332020178944,
-    "timestamp": "2020-05-19T16:50:09.145Z"
+    "_version_": 1684903238542819328,
+    "timestamp": "2020-12-01T18:55:44.232Z"
 }

@@ -35,6 +35,15 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11481\",\"call_number_browse\":\"Coin 11481\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1921; $3.10"
+    ],
     "pub_date_start_sort": -113,
     "pub_date_end_sort": -112,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7634"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +95,12 @@
         "RRC  294-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-113 to -112"
+    ],
     "hashed_id_s": [
         "47bc71058cbd1106"
     ],
-    "_version_": 1667138131852263424,
-    "timestamp": "2020-05-19T16:46:58.251Z"
+    "_version_": 1684903377698291712,
+    "timestamp": "2020-12-01T18:57:56.942Z"
 }

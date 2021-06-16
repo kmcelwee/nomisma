@@ -35,6 +35,12 @@
         "12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1722\",\"call_number_browse\":\"Coin 1722\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "65: 1992-04-13 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -498,
     "pub_date_end_sort": -454,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "1108"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "BMC Mac. Macedonia p.157-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-498 to -454"
+    ],
     "hashed_id_s": [
         "19a542d2a8d0ef62"
     ],
-    "_version_": 1667138415134507008,
-    "timestamp": "2020-05-19T16:51:28.410Z"
+    "_version_": 1684903280997564416,
+    "timestamp": "2020-12-01T18:56:24.719Z"
 }

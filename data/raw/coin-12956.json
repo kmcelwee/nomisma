@@ -38,6 +38,12 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12956\",\"call_number_browse\":\"Coin 12956\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -77,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8476"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +96,12 @@
         "Shore  127"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -77"
+    ],
     "hashed_id_s": [
         "6b476adc04de6e6b"
     ],
-    "_version_": 1667138313562095616,
-    "timestamp": "2020-05-19T16:49:51.545Z"
+    "_version_": 1684903160234115072,
+    "timestamp": "2020-12-01T18:54:29.551Z"
 }

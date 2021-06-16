@@ -50,6 +50,9 @@
         "1.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7528\",\"call_number_browse\":\"Coin 7528\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 651,
     "pub_date_end_sort": 666,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4703"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "MIB vol. 3 170-176"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "651 to 666"
+    ],
     "hashed_id_s": [
         "66a7e438b62415d7"
     ],
-    "_version_": 1667138190104854528,
-    "timestamp": "2020-05-19T16:47:53.804Z"
+    "_version_": 1684903430622019584,
+    "timestamp": "2020-12-01T18:58:47.412Z"
 }

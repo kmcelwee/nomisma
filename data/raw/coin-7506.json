@@ -2,7 +2,7 @@
     "id": "coin-7506",
     "title_display": "Coin: 7506",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7506"
@@ -47,6 +47,9 @@
         "1.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7506\",\"call_number_browse\":\"Coin 7506\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -56,7 +59,7 @@
         "follis"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -96,12 +99,15 @@
     ],
     "issue_references_s": [
         "Cohen 7 318.460",
-        "RIC 8 514.37"
+        "RIC VIII Antioch 37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "96a549c2a4fb7672"
     ],
-    "_version_": 1673553257800138752,
-    "timestamp": "2020-07-29T12:12:39.105Z"
+    "_version_": 1684903085838696448,
+    "timestamp": "2020-12-01T18:53:18.601Z"
 }

@@ -35,8 +35,14 @@
         "1.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11284\",\"call_number_browse\":\"Coin 11284\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "N. Chalabiani; 05/05/2003"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7448"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "SN  AW Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "dd64439a777bd79a"
     ],
-    "_version_": 1667138291688800256,
-    "timestamp": "2020-05-19T16:49:30.684Z"
+    "_version_": 1684903037567500288,
+    "timestamp": "2020-12-01T18:52:32.566Z"
 }

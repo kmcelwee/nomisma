@@ -35,8 +35,11 @@
         "4.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1911\",\"call_number_browse\":\"Coin 1911\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 945,
     "pub_date_end_sort": 950,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1249"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,12 @@
         "Sear 339 1761"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "945 to 950"
+    ],
     "hashed_id_s": [
         "6aa0ab62b20337e5"
     ],
-    "_version_": 1667138417435082752,
-    "timestamp": "2020-05-19T16:51:30.604Z"
+    "_version_": 1684903192542838784,
+    "timestamp": "2020-12-01T18:55:00.362Z"
 }

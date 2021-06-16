@@ -108,9 +108,12 @@
         "Schl.  IV3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1137 to 1152"
+    ],
     "hashed_id_s": [
         "248c6808f3860459"
     ],
-    "_version_": 1674259597867614208,
-    "timestamp": "2020-08-06T07:19:37.485Z"
+    "_version_": 1684903323158708224,
+    "timestamp": "2020-12-01T18:57:04.928Z"
 }

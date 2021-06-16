@@ -35,6 +35,15 @@
         "2.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4046\",\"call_number_browse\":\"Coin 4046\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; 1928; $2.90"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -315,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/5 tetradrachm"
-    ],
-    "issue_number_s": [
-        "2321"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +102,12 @@
         "SNG-Alpha Bank  307"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -315"
+    ],
     "hashed_id_s": [
         "4ce36492c6b92595"
     ],
-    "_version_": 1667138487789289472,
-    "timestamp": "2020-05-19T16:52:37.699Z"
+    "_version_": 1684903622809223168,
+    "timestamp": "2020-12-01T19:01:50.697Z"
 }

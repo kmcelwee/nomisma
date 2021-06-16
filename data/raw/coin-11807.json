@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/19/1939"
+        "1939-04-19"
+    ],
+    "find_feature_s": [
+        "[None recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "Cc455"
+        "Cc0455"
     ],
     "die_axis_s": [
         "6"
@@ -47,6 +50,12 @@
         "1.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11807\",\"call_number_browse\":\"Coin 11807\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 336,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7902"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +107,12 @@
         "RIC 7 589 137"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "336 to 337"
+    ],
     "hashed_id_s": [
         "7837c3790647b7f4"
     ],
-    "_version_": 1667138126909276160,
-    "timestamp": "2020-05-19T16:46:53.538Z"
+    "_version_": 1696407570223202304,
+    "timestamp": "2021-04-07T18:32:09.883Z"
 }

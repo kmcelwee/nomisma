@@ -50,13 +50,13 @@
         "2.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10039\",\"call_number_browse\":\"Coin 10039\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 696,
     "pub_date_end_sort": 750,
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "6291"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,9 +83,12 @@
         "Ash.2  1289v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "696 to 750"
+    ],
     "hashed_id_s": [
         "82a5e2bbb402f75c"
     ],
-    "_version_": 1667144826614710272,
-    "timestamp": "2020-05-19T18:33:22.888Z"
+    "_version_": 1684903361755742208,
+    "timestamp": "2020-12-01T18:57:41.737Z"
 }

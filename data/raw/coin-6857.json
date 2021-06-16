@@ -35,6 +35,9 @@
         "1.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6857\",\"call_number_browse\":\"Coin 6857\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1658,
     "pub_date_end_sort": 1705,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "groschen"
-    ],
-    "issue_number_s": [
-        "4265"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +86,12 @@
         "Herinek 1657-1740, Leopold I 1368"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1658 to 1705"
+    ],
     "hashed_id_s": [
         "341676085c9bf8a1"
     ],
-    "_version_": 1667138363192246272,
-    "timestamp": "2020-05-19T16:50:38.873Z"
+    "_version_": 1684903095763468288,
+    "timestamp": "2020-12-01T18:53:28.065Z"
 }

@@ -35,8 +35,8 @@
         "4.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1607\",\"call_number_browse\":\"Coin 1607\"}}",
-    "donor_s": [
-        "A.C. Johnson"
+    "numismatic_accession_s": [
+        "204:  A.C. Johnson"
     ],
     "pub_date_start_sort": 1310,
     "pub_date_end_sort": 1324,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "gros"
-    ],
-    "issue_number_s": [
-        "996"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +88,12 @@
         "Schl. Plate VII  21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1310 to 1324"
+    ],
     "hashed_id_s": [
         "ed6133df7413ebc8"
     ],
-    "_version_": 1667138413589954560,
-    "timestamp": "2020-05-19T16:51:26.935Z"
+    "_version_": 1684903186650890240,
+    "timestamp": "2020-12-01T18:54:54.742Z"
 }

@@ -41,6 +41,9 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11597\",\"call_number_browse\":\"Coin 11597\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
     "issue_object_type_s": [
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7722"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "SN  NAL/WAL Type II/3 (SN)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "462f635f8f3f1022"
     ],
-    "_version_": 1667138295398662144,
-    "timestamp": "2020-05-19T16:49:34.222Z"
+    "_version_": 1684903507211059200,
+    "timestamp": "2020-12-01T19:00:00.455Z"
 }

@@ -35,6 +35,15 @@
         "4.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4557\",\"call_number_browse\":\"Coin 4557\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $3"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2515"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +103,12 @@
         "Sear  492"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "4ea67d06dcf47718"
     ],
-    "_version_": 1667138500690968576,
-    "timestamp": "2020-05-19T16:52:50.003Z"
+    "_version_": 1684903634361384960,
+    "timestamp": "2020-12-01T19:02:01.713Z"
 }

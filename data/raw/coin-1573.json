@@ -32,8 +32,11 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1573\",\"call_number_browse\":\"Coin 1573\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "2 Cash"
     ],
-    "issue_number_s": [
-        "961"
-    ],
     "issue_metal_s": [
         "Brass"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_place_s": [
         "Fu Jian, China"
@@ -68,9 +71,12 @@
         "KM 2005 362 375"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "e4f529131da346b9"
     ],
-    "_version_": 1667138464947109888,
-    "timestamp": "2020-05-19T16:52:15.915Z"
+    "_version_": 1684903295481544704,
+    "timestamp": "2020-12-01T18:56:38.535Z"
 }

@@ -38,8 +38,11 @@
         "7.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6564\",\"call_number_browse\":\"Coin 6564\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "American Numismatic Society, New York; Feb. 1958; $15"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3978"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  1113"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "b20137115c5cd124"
     ],
-    "_version_": 1667138366321197056,
-    "timestamp": "2020-05-19T16:50:41.856Z"
+    "_version_": 1684903102591795200,
+    "timestamp": "2020-12-01T18:53:34.579Z"
 }

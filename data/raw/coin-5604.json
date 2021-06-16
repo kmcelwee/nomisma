@@ -35,8 +35,11 @@
         "3.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5604\",\"call_number_browse\":\"Coin 5604\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": -73,
     "pub_date_end_sort": -49,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "3178"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Emperor Xuan \u5ba3\u5e1d (-73 to -49)"
@@ -78,9 +78,12 @@
         "Zhong Guo 35 top center"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-73 to -49"
+    ],
     "hashed_id_s": [
         "22938aacd6ff232b"
     ],
-    "_version_": 1667138391463952384,
-    "timestamp": "2020-05-19T16:51:05.833Z"
+    "_version_": 1684903162210680832,
+    "timestamp": "2020-12-01T18:54:31.434Z"
 }

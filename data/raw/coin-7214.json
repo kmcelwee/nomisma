@@ -29,8 +29,11 @@
         "70x95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7214\",\"call_number_browse\":\"Coin 7214\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "70 dollars"
-    ],
-    "issue_number_s": [
-        "4520"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "146b69c115490be6"
     ],
-    "_version_": 1667138355281788928,
-    "timestamp": "2020-05-19T16:50:31.330Z"
+    "_version_": 1684903524149755904,
+    "timestamp": "2020-12-01T19:00:16.609Z"
 }

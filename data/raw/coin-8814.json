@@ -35,6 +35,12 @@
         "2.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8814\",\"call_number_browse\":\"Coin 8814\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1429,
     "pub_date_end_sort": 1429,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "florin"
-    ],
-    "issue_number_s": [
-        "5610"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "Le Monete Della Repubblica Fiorentina II, 335 2496"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1429 to 1429"
+    ],
     "hashed_id_s": [
         "c94ae2d243cf3418"
     ],
-    "_version_": 1667138270458281984,
-    "timestamp": "2020-05-19T16:49:10.436Z"
+    "_version_": 1684903492532043776,
+    "timestamp": "2020-12-01T18:59:46.454Z"
 }

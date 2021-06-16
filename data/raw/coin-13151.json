@@ -31,14 +31,11 @@
     "find_date_s": [
         "11/29/1932"
     ],
-    "find_feature_s": [
-        "Hipp A"
-    ],
     "find_locus_s": [
-        "7-N"
+        "DS 7-N (HPOA)"
     ],
     "find_description_s": [
-        "4 below surface"
+        "Hippodrome A, 4 below surface"
     ],
     "die_axis_s": [
         "6"
@@ -50,22 +47,31 @@
         "3.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13151\",\"call_number_browse\":\"Coin 13151\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8526"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Severina (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "V"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,36 +86,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Empress"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diadem, on crescent"
+        "draped, on crescent"
     ],
     "issue_obverse_legend_s": [
-        "SEVERINAAVG"
+        "SEVERINA AVG"
     ],
     "issue_reverse_figure_s": [
         "Concordia"
     ],
+    "issue_reverse_symbol_s": [
+        "V"
+    ],
     "issue_reverse_part_s": [
         "standing"
     ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
     "issue_reverse_figure_description_s": [
-        "holding two ensigns, in l. field V"
+        "draped"
     ],
     "issue_reverse_legend_s": [
-        "CONCORDIAEMILITVM | XXI"
+        "CONCORDIAE MILITVM / XXI"
+    ],
+    "issue_reverse_attributes_s": [
+        "ensign, in each hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p.318 20"
+        "RIC V  Severina 20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "cf94b39df6f7fd5c"
     ],
-    "_version_": 1667138336210288640,
-    "timestamp": "2020-05-19T16:50:13.140Z"
+    "_version_": 1684903676420816896,
+    "timestamp": "2020-12-01T19:02:41.824Z"
 }

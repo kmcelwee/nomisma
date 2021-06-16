@@ -32,8 +32,11 @@
         "94x73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9763\",\"call_number_browse\":\"Coin 9763\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Dollar"
-    ],
-    "issue_number_s": [
-        "3681"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "e5aa1c6fc89d369e"
     ],
-    "_version_": 1667145459106316288,
-    "timestamp": "2020-05-19T18:58:52.378Z"
+    "_version_": 1684903475116244992,
+    "timestamp": "2020-12-01T18:59:29.846Z"
 }

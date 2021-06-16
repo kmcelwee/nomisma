@@ -35,6 +35,12 @@
         "16.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13678\",\"call_number_browse\":\"Coin 13678\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "825: 2002-05-17 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8747"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +93,12 @@
         "The New Style Coinage of Athens p.92 256b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "5c987f3ac7b9fe9e"
     ],
-    "_version_": 1667138524938240000,
-    "timestamp": "2020-05-19T16:53:13.126Z"
+    "_version_": 1684903648742604800,
+    "timestamp": "2020-12-01T19:02:15.429Z"
 }

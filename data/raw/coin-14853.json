@@ -35,19 +35,25 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14853\",\"call_number_browse\":\"Coin 14853\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -78,
+    "pub_date_end_sort": -78,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9119"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Cassius Longinus  "
@@ -68,39 +74,46 @@
         "Liber"
     ],
     "issue_obverse_part_s": [
-        "bust"
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "thyrsus over shoulder"
-    ],
-    "issue_obverse_figure_relationship_s": [
         "wearing ivy-wreath"
+    ],
+    "issue_obverse_attributes_s": [
+        "thyrsus, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Libera"
     ],
     "issue_reverse_part_s": [
-        "bust"
+        "head"
     ],
     "issue_reverse_orientation_s": [
-        "facing left"
+        "left"
     ],
-    "issue_reverse_figure_relationship_s": [
+    "issue_reverse_figure_description_s": [
         "wearing vine-wreath"
     ],
     "issue_reverse_legend_s": [
-        "L.CASSI.Q.F"
+        "L\u00b7CASSI\u00b7Q\u00b7F"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  386"
+        "RRC  386/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-78 to -78"
+    ],
     "hashed_id_s": [
         "826cb6d811ad9981"
     ],
-    "_version_": 1667305895189544960,
-    "timestamp": "2020-05-21T13:13:29.836Z"
+    "_version_": 1686050244501962752,
+    "timestamp": "2020-12-14T10:46:54.357Z"
 }

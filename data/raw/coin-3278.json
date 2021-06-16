@@ -32,8 +32,14 @@
         "95x50"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3278\",\"call_number_browse\":\"Coin 3278\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "368: 1958-07-01 Anonymous Class of '64"
+    ],
+    "numismatic_provenance_s": [
+        "P. Capps"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "30 shillings"
-    ],
-    "issue_number_s": [
-        "1986"
     ],
     "issue_metal_s": [
         "Paper"
@@ -90,9 +93,13 @@
         "Shafer & Cuhaj p. 1130 S1763"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "5f0f338f7ce33f64"
     ],
-    "_version_": 1667138226463178752,
-    "timestamp": "2020-05-19T16:48:28.479Z"
+    "_version_": 1684903455145066496,
+    "timestamp": "2020-12-01T18:59:10.800Z"
 }

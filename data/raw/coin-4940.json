@@ -38,16 +38,16 @@
         "58.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4940\",\"call_number_browse\":\"Coin 4940\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1674,
     "pub_date_end_sort": 1916,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2727"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Louis E. Paul Boulongue, LE Boulongue"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1674 to 1916"
+    ],
     "hashed_id_s": [
         "4031b1300122193c"
     ],
-    "_version_": 1667138242662629376,
-    "timestamp": "2020-05-19T16:48:43.928Z"
+    "_version_": 1684903114284466176,
+    "timestamp": "2020-12-01T18:53:45.730Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-7614",
     "title_display": "Coin: 7614",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7614"
@@ -32,13 +32,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 3, 1932"
+        "1932-05-03"
     ],
     "find_feature_s": [
-        "n/a"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "N-9"
+        "DS 9-N"
     ],
     "find_number_s": [
         "1251(10)"
@@ -53,6 +53,12 @@
         "1.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7614\",\"call_number_browse\":\"Coin 7614\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -61,14 +67,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4763"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -110,15 +113,18 @@
         "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, one standard"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITVS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC, VII 7 697.109"
+        "RIC VII Antioch 109"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 337"
+    ],
     "hashed_id_s": [
         "e1c9ed0f4c1231b0"
     ],
-    "_version_": 1667138260658290688,
-    "timestamp": "2020-05-19T16:49:01.092Z"
+    "_version_": 1690521887854034944,
+    "timestamp": "2021-02-01T19:21:45.795Z"
 }

@@ -26,10 +26,10 @@
         "num"
     ],
     "counter_stamp_s": [
-        "Athena, shield in l., spear in r.; obverse"
+        "Athena, shield in l. hand, spear in r. hand"
     ],
     "notes_display": [
-        "Relief has been worn smooth so that none of obverse legend is legible. On reverse, only SC of legend is distinguishable.  C.J. Howgego suggests that the incuse countermark of Athena on the obverse is an imperial countermark applied at Antioch c. 83-c. 96."
+        "Relief has been worn smooth, so that none of obverse legend is legible. On reverse, only SC of legend is distinguishable. C.J. Howgego suggests that the incuse countermark of Athena on the obverse is an imperial countermark, applied at Antioch c. 83-c. 96."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -37,14 +37,14 @@
     "find_date_s": [
         "07/03/1935"
     ],
-    "find_feature_s": [
-        "Theatre Dump"
-    ],
     "find_locus_s": [
-        "20N.D.H."
+        "DH 20-N (THR)"
     ],
     "find_number_s": [
         "C5491"
+    ],
+    "find_description_s": [
+        "Theater dump"
     ],
     "die_axis_s": [
         "12"
@@ -56,6 +56,12 @@
         "14.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2272\",\"call_number_browse\":\"Coin 2272\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 47,
     "pub_date_end_sort": 48,
     "issue_object_type_s": [
@@ -64,11 +70,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1455"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -95,27 +104,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Claudius"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM TI CLA CAE AV GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC enclosed by laurel wreath of eight leaves; dotted border around the wreath"
-    ],
-    "issue_reverse_legend_s": [
-        "SC"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4279"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "47 to 48"
+    ],
     "hashed_id_s": [
         "d3676768628001f3"
     ],
-    "_version_": 1667145926532136962,
-    "timestamp": "2020-05-19T18:50:51.835Z"
+    "_version_": 1684903689867755520,
+    "timestamp": "2020-12-01T19:02:54.650Z"
 }

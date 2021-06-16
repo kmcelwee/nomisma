@@ -35,8 +35,11 @@
         "2.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1694\",\"call_number_browse\":\"Coin 1694\"}}",
-    "donor_s": [
-        "Katharine S. Pearce"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "59:  Katharine S. Pearce"
     ],
     "pub_date_start_sort": 59,
     "pub_date_end_sort": 59,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1085"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,9 +77,12 @@
         "RPC.1  4972"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "59 to 59"
+    ],
     "hashed_id_s": [
         "eaa73ae2d6375d02"
     ],
-    "_version_": 1667138331646885888,
-    "timestamp": "2020-05-19T16:50:08.788Z"
+    "_version_": 1684903071656706048,
+    "timestamp": "2020-12-01T18:53:05.077Z"
 }

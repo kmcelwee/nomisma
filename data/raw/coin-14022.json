@@ -35,8 +35,11 @@
         "1.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14022\",\"call_number_browse\":\"Coin 14022\"}}",
-    "donor_s": [
-        "Maurice Lee, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "868: 1998-05-20 Maurice Lee, Jr."
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "triobol"
-    ],
-    "issue_number_s": [
-        "9045"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "9fa01590f2310f4c"
     ],
-    "_version_": 1667310716288237568,
-    "timestamp": "2020-05-21T14:30:07.599Z"
+    "_version_": 1684903657909256192,
+    "timestamp": "2020-12-01T19:02:24.170Z"
 }

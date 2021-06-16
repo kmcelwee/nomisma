@@ -35,8 +35,14 @@
         "0.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11106\",\"call_number_browse\":\"Coin 11106\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 11/06/1999"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7267"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "SNS 3 LYW Type Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "3aa300599de59c10"
     ],
-    "_version_": 1667138289774100480,
-    "timestamp": "2020-05-19T16:49:28.855Z"
+    "_version_": 1684903035393802240,
+    "timestamp": "2020-12-01T18:52:30.493Z"
 }

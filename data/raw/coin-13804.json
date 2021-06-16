@@ -38,8 +38,11 @@
         "3.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13804\",\"call_number_browse\":\"Coin 13804\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -49,11 +52,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "8848"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Gao Zu \u5510\u9ad8\u7956 (Li Yuan \u674e\u6df5) (618 to 626)"
@@ -74,9 +77,12 @@
         "wei jin sui tang qian bi: \u9b4f\u664b\u968b\u5510\u9322\u5e63 219 862"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "e6b157866a2f824f"
     ],
-    "_version_": 1667138325712994304,
-    "timestamp": "2020-05-19T16:50:03.129Z"
+    "_version_": 1684903064515903488,
+    "timestamp": "2020-12-01T18:52:58.267Z"
 }

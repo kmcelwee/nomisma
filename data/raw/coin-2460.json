@@ -38,8 +38,11 @@
         "3.517"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2460\",\"call_number_browse\":\"Coin 2460\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1289,
     "pub_date_end_sort": 1311,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "1549"
     ],
     "issue_metal_s": [
         "Gold"
@@ -102,13 +102,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 144, 1",
-        "CNI, 7  II.25.1",
+        "CNI, 7  52, 1",
         "MEC 12 642-643"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1289 to 1311"
+    ],
     "hashed_id_s": [
         "aecade094b2b453b"
     ],
-    "_version_": 1667138220437012480,
-    "timestamp": "2020-05-19T16:48:22.732Z"
+    "_version_": 1684902994624118784,
+    "timestamp": "2020-12-01T18:51:51.613Z"
 }

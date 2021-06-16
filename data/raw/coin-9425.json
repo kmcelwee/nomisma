@@ -2,7 +2,7 @@
     "id": "coin-9425",
     "title_display": "Coin: 9425",
     "pub_created_display": [
-        "Tiberius, unknown, Amphipolis"
+        "Tiberius   (14 to 37), unknown, Amphipolis"
     ],
     "call_number_display": [
         "Coin 9425"
@@ -35,8 +35,8 @@
         "6.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9425\",\"call_number_browse\":\"Coin 9425\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "228: 1993-01-01 unknown/Colosseum Coin Exchange"
     ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 37,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "unknown"
     ],
-    "issue_number_s": [
-        "6041"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Amphipolis, Macedonia, Roman Empire"
@@ -98,9 +95,12 @@
         "RPC  1631"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "3c1d1529b18bc0f1"
     ],
-    "_version_": 1667138144986726400,
-    "timestamp": "2020-05-19T16:47:10.774Z"
+    "_version_": 1684903397314002944,
+    "timestamp": "2020-12-01T18:58:15.648Z"
 }

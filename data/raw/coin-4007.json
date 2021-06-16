@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "solidus"
     ],
-    "issue_number_s": [
-        "2309"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -101,9 +98,12 @@
         "Mettlich  32"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "493 to 518"
+    ],
     "hashed_id_s": [
         "2096304a4d3f8cb4"
     ],
-    "_version_": 1667138444030115840,
-    "timestamp": "2020-05-19T16:51:55.967Z"
+    "_version_": 1684903217949835264,
+    "timestamp": "2020-12-01T18:55:24.594Z"
 }

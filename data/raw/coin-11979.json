@@ -35,7 +35,13 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11979\",\"call_number_browse\":\"Coin 11979\"}}",
-    "donor_s": [
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
+    ],
+    "numismatic_provenance_s": [
         "Frederick W. Brown"
     ],
     "pub_date_start_sort": -111,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8030"
     ],
     "issue_master_s": [
         "Ap. Claudius Pulcher"
@@ -84,9 +87,12 @@
         "Syd.  570"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-111 to -110"
+    ],
     "hashed_id_s": [
         "5417701be5b12819"
     ],
-    "_version_": 1667138343541932032,
-    "timestamp": "2020-05-19T16:50:20.133Z"
+    "_version_": 1684903086383955968,
+    "timestamp": "2020-12-01T18:53:19.122Z"
 }

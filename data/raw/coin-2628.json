@@ -35,6 +35,12 @@
         "1.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2628\",\"call_number_browse\":\"Coin 2628\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1105,
     "pub_date_end_sort": 1154,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follaro"
-    ],
-    "issue_number_s": [
-        "1649"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +89,12 @@
         "MEC 14  221"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1105 to 1154"
+    ],
     "hashed_id_s": [
         "9cb599fa1f070d5b"
     ],
-    "_version_": 1667138222191280128,
-    "timestamp": "2020-05-19T16:48:24.403Z"
+    "_version_": 1684902980826955776,
+    "timestamp": "2020-12-01T18:51:38.454Z"
 }

@@ -38,8 +38,14 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11077\",\"call_number_browse\":\"Coin 11077\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 09/19/2013; 17 (28)"
     ],
     "pub_date_start_sort": 484,
     "pub_date_end_sort": 488,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7238"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 GD Type Ib/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "484 to 488"
+    ],
     "hashed_id_s": [
         "c33a90c2ebd9b650"
     ],
-    "_version_": 1667138168967659520,
-    "timestamp": "2020-05-19T16:47:33.648Z"
+    "_version_": 1684902943638159360,
+    "timestamp": "2020-12-01T18:51:02.989Z"
 }

@@ -35,8 +35,11 @@
         "12.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3870\",\"call_number_browse\":\"Coin 3870\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -31,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "2242"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Grierson studies pp.30-31 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -31"
+    ],
     "hashed_id_s": [
         "2e6a52a080a728d1"
     ],
-    "_version_": 1667138484385611776,
-    "timestamp": "2020-05-19T16:52:34.451Z"
+    "_version_": 1684903619132915712,
+    "timestamp": "2020-12-01T19:01:47.190Z"
 }

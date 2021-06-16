@@ -32,8 +32,11 @@
         "3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6215\",\"call_number_browse\":\"Coin 6215\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1556,
     "pub_date_end_sort": 1598,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 maravedi"
-    ],
-    "issue_number_s": [
-        "3661"
     ],
     "issue_metal_s": [
         "Copper"
@@ -90,9 +90,12 @@
         "Cast\u00e1n y Cay\u00f3n  3201"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1556 to 1598"
+    ],
     "hashed_id_s": [
         "d4fa2895ef41ba60"
     ],
-    "_version_": 1667138115036250112,
-    "timestamp": "2020-05-19T16:46:42.214Z"
+    "_version_": 1684902962281840640,
+    "timestamp": "2020-12-01T18:51:20.768Z"
 }

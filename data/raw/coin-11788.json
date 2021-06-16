@@ -38,8 +38,11 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11788\",\"call_number_browse\":\"Coin 11788\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 628,
     "pub_date_end_sort": 630,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7879"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "De Morgan  1359"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "628 to 630"
+    ],
     "hashed_id_s": [
         "9dafe03d984c6ec5"
     ],
-    "_version_": 1667138125894254592,
-    "timestamp": "2020-05-19T16:46:52.567Z"
+    "_version_": 1684903655461879808,
+    "timestamp": "2020-12-01T19:02:21.836Z"
 }

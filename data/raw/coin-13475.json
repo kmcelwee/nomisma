@@ -35,6 +35,12 @@
         "16.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13475\",\"call_number_browse\":\"Coin 13475\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "826: 1997-12-06 Pegasi Numismatics"
+    ],
     "pub_date_start_sort": -164,
     "pub_date_end_sort": -162,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8692"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,7 +98,7 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5 \u0395\u03a5\u03a0\u0391\u03a4\u039f\u03a1\u039f\u03a3"
     ],
     "issue_reverse_attributes_s": [
-        "m8692, outer left",
+        "monogram, on outer left",
         "sceptre, in r. hand",
         "Nike, in l. hand, crowning royal name"
     ],
@@ -103,9 +106,12 @@
         "H & L II, 134 1575.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-164 to -162"
+    ],
     "hashed_id_s": [
         "e493d98d37232f4a"
     ],
-    "_version_": 1667138514330845184,
-    "timestamp": "2020-05-19T16:53:03.012Z"
+    "_version_": 1684903324661317632,
+    "timestamp": "2020-12-01T18:57:06.362Z"
 }

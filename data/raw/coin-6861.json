@@ -35,6 +35,9 @@
         "28.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6861\",\"call_number_browse\":\"Coin 6861\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1558,
     "pub_date_end_sort": 1564,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "taler"
-    ],
-    "issue_number_s": [
-        "4269"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "European Crowns, 1484-1500  8095"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1558 to 1564"
+    ],
     "hashed_id_s": [
         "2db2ec319b896291"
     ],
-    "_version_": 1667138255504539648,
-    "timestamp": "2020-05-19T16:48:56.175Z"
+    "_version_": 1684903127262691328,
+    "timestamp": "2020-12-01T18:53:58.107Z"
 }

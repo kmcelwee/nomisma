@@ -35,6 +35,12 @@
         "2.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1765\",\"call_number_browse\":\"Coin 1765\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "235: 1999-06-20 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -11,
     "pub_date_end_sort": 12,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1147"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +89,15 @@
         "RPC.1 1 1718"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Rhoemetalces I"
+    ],
+    "issue_date_s": [
+        "-11 to 12"
+    ],
     "hashed_id_s": [
         "13fc9d8780fc909a"
     ],
-    "_version_": 1667138212538089472,
-    "timestamp": "2020-05-19T16:48:15.197Z"
+    "_version_": 1684903097836503040,
+    "timestamp": "2020-12-01T18:53:30.043Z"
 }

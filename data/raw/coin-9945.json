@@ -105,9 +105,12 @@
         "Schl.  III25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1192 to 1194"
+    ],
     "hashed_id_s": [
         "89f6949a413f8acb"
     ],
-    "_version_": 1674258056537440256,
-    "timestamp": "2020-08-06T06:55:07.556Z"
+    "_version_": 1684903321454772224,
+    "timestamp": "2020-12-01T18:57:03.302Z"
 }

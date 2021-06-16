@@ -101,9 +101,12 @@
         "Ox. 140-142 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1300"
+    ],
     "hashed_id_s": [
         "3ffb642b62a8db66"
     ],
-    "_version_": 1674260930970517504,
-    "timestamp": "2020-08-06T07:40:48.828Z"
+    "_version_": 1684903497651191808,
+    "timestamp": "2020-12-01T18:59:51.337Z"
 }

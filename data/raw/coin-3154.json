@@ -32,16 +32,16 @@
         "5.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3154\",\"call_number_browse\":\"Coin 3154\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1736,
     "pub_date_end_sort": 1796,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1932"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "Zhong Guo 333 3rd row, center"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1736 to 1796"
+    ],
     "hashed_id_s": [
         "e83ffc2d2b48c287"
     ],
-    "_version_": 1667138434140995584,
-    "timestamp": "2020-05-19T16:51:46.537Z"
+    "_version_": 1684903212331565056,
+    "timestamp": "2020-12-01T18:55:19.237Z"
 }

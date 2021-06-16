@@ -35,8 +35,11 @@
         "7.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1685\",\"call_number_browse\":\"Coin 1685\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 49,
     "pub_date_end_sort": 50,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "1138"
     ],
     "issue_metal_s": [
         "Gold"
@@ -96,9 +96,12 @@
         "Sear  1833v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "49 to 50"
+    ],
     "hashed_id_s": [
         "a0bf958184cbf74f"
     ],
-    "_version_": 1667138466609102848,
-    "timestamp": "2020-05-19T16:52:17.499Z"
+    "_version_": 1684903223308058624,
+    "timestamp": "2020-12-01T18:55:29.702Z"
 }

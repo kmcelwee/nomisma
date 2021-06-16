@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "3500"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -92,6 +89,6 @@
     "hashed_id_s": [
         "a0525c4ac9f99b4f"
     ],
-    "_version_": 1667138250551066624,
-    "timestamp": "2020-05-19T16:48:51.451Z"
+    "_version_": 1684903473028530176,
+    "timestamp": "2020-12-01T18:59:27.855Z"
 }

@@ -35,6 +35,9 @@
         "4.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6546\",\"call_number_browse\":\"Coin 6546\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1261,
     "pub_date_end_sort": 1282,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3950"
     ],
     "issue_metal_s": [
         "Gold"
@@ -101,9 +101,12 @@
         "A Private Collection of Palaeologan Coins page 24 57"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1261 to 1282"
+    ],
     "hashed_id_s": [
         "ee37fcfda78ef587"
     ],
-    "_version_": 1667138367285886976,
-    "timestamp": "2020-05-19T16:50:42.777Z"
+    "_version_": 1684903255283335168,
+    "timestamp": "2020-12-01T18:56:00.198Z"
 }

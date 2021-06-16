@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/14/1939"
-    ],
-    "find_feature_s": [
-        "Over bird mosaic North of red mosaic room. (A1)"
+        "06/14/1939"
     ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc1937"
+    ],
+    "find_description_s": [
+        "N. of red mosaic room, over bird mosaic (A1)"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "7.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3964\",\"call_number_browse\":\"Coin 3964\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 12,
     "pub_date_end_sort": 13,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2272"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -106,9 +115,6 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above; in field, date \u0393\u039c"
-    ],
     "issue_reverse_legend_s": [
         "\u0395\u03a0\u0399 \u03a3\u0399\u039b\u0391\u039d\u039f\u03a5 \u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
     ],
@@ -119,9 +125,12 @@
         "RPC.1  4268"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "12 to 13"
+    ],
     "hashed_id_s": [
         "7cdcec368ad61b8d"
     ],
-    "_version_": 1667138485843132416,
-    "timestamp": "2020-05-19T16:52:35.842Z"
+    "_version_": 1684903620407984128,
+    "timestamp": "2020-12-01T19:01:48.407Z"
 }

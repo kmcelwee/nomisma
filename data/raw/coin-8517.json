@@ -32,13 +32,13 @@
         "50"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8517\",\"call_number_browse\":\"Coin 8517\"}}",
+    "numismatic_accession_s": [
+        "621: 2011-12-01 Petros Vergos"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "5424"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,6 +74,6 @@
     "hashed_id_s": [
         "82d9cc7a70455e53"
     ],
-    "_version_": 1667145028196106240,
-    "timestamp": "2020-05-19T18:36:35.115Z"
+    "_version_": 1684903490940305408,
+    "timestamp": "2020-12-01T18:59:44.937Z"
 }

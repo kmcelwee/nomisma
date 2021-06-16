@@ -35,6 +35,12 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5440\",\"call_number_browse\":\"Coin 5440\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -57,
     "issue_object_type_s": [
@@ -43,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3038"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "C. Servilius C. f."
@@ -67,17 +73,20 @@
     "issue_obverse_figure_s": [
         "Flora"
     ],
+    "issue_obverse_symbol_s": [
+        "lituus behind head"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head of Flora r., laureate; lituus behind; legends downwards before; border of dots"
-    ],
     "issue_obverse_legend_s": [
-        "FLORAL (AL in monogram) \u0393RIMVS"
+        "FLORAL\u00b7PRIMVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -89,10 +98,13 @@
         "facing each other"
     ],
     "issue_reverse_figure_description_s": [
-        "Two soldiers standing, facing each other, presenting swords, holding shields; border of dots"
+        "presenting swords"
     ],
     "issue_reverse_legend_s": [
-        "In exergue, C.SERVEIL; to r., C.F"
+        "C\u00b7SERVEIL C\u00b7F"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  423/1",
@@ -100,9 +112,12 @@
         "Sear  380"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -57"
+    ],
     "hashed_id_s": [
         "8b976317fb398a46"
     ],
-    "_version_": 1667138394078052352,
-    "timestamp": "2020-05-19T16:51:08.326Z"
+    "_version_": 1684903268395778048,
+    "timestamp": "2020-12-01T18:56:12.702Z"
 }

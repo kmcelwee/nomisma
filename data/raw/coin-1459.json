@@ -32,8 +32,11 @@
         "19.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1459\",\"call_number_browse\":\"Coin 1459\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1821,
     "pub_date_end_sort": 1850,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "Amulet"
     ],
-    "issue_number_s": [
-        "859"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Dao Guang \u9053\u5149 (1821 to 1851)"
@@ -68,9 +71,12 @@
         "KM 352 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1821 to 1850"
+    ],
     "hashed_id_s": [
         "524253dbdaaf16a4"
     ],
-    "_version_": 1667138463290359808,
-    "timestamp": "2020-05-19T16:52:14.335Z"
+    "_version_": 1684903294755930112,
+    "timestamp": "2020-12-01T18:56:37.841Z"
 }

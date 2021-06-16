@@ -35,8 +35,11 @@
         "4.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1609\",\"call_number_browse\":\"Coin 1609\"}}",
-    "donor_s": [
-        "A.C. Johnson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "204:  A.C. Johnson"
     ],
     "pub_date_start_sort": 1324,
     "pub_date_end_sort": 1359,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "gros"
-    ],
-    "issue_number_s": [
-        "1000"
     ],
     "issue_metal_s": [
         "Silver"
@@ -88,9 +88,12 @@
         "Schl. Plate VI 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1324 to 1359"
+    ],
     "hashed_id_s": [
         "678a15a5fba0fc91"
     ],
-    "_version_": 1667138413669646336,
-    "timestamp": "2020-05-19T16:51:27.010Z"
+    "_version_": 1684903279562063872,
+    "timestamp": "2020-12-01T18:56:23.351Z"
 }

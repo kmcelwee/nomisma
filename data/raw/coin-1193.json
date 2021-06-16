@@ -32,16 +32,16 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1193\",\"call_number_browse\":\"Coin 1193\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "640"
     ],
     "issue_metal_s": [
         "Copper"
@@ -75,9 +75,15 @@
         " 650 2282"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, A Ke Su \u963f\u514b\u8607"
+    ],
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "b64d54a95521c665"
     ],
-    "_version_": 1667138459722055680,
-    "timestamp": "2020-05-19T16:52:10.932Z"
+    "_version_": 1684903293442064384,
+    "timestamp": "2020-12-01T18:56:36.587Z"
 }

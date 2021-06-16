@@ -47,13 +47,13 @@
         "0.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12882\",\"call_number_browse\":\"Coin 12882\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 100,
     "pub_date_end_sort": 260,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "8443"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "between two crossed cornucopia"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "100 to 260"
+    ],
     "hashed_id_s": [
         "69d7ca41ada9f3bb"
     ],
-    "_version_": 1667138311434534912,
-    "timestamp": "2020-05-19T16:49:49.513Z"
+    "_version_": 1684903517989371904,
+    "timestamp": "2020-12-01T19:00:10.732Z"
 }

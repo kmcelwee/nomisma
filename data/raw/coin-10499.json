@@ -38,8 +38,11 @@
         "7.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10499\",\"call_number_browse\":\"Coin 10499\"}}",
-    "donor_s": [
-        "T. Leslie Shear"
+    "numismatic_accession_s": [
+        "730: 1976-01-01 T. Leslie Shear"
+    ],
+    "numismatic_provenance_s": [
+        "T. Leslie Shear; 1976; Accession 76-292"
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "6671"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +110,12 @@
         "RPC  1215"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "008b218cc4d34f9a"
     ],
-    "_version_": 1667138332877914112,
-    "timestamp": "2020-05-19T16:50:09.963Z"
+    "_version_": 1684903239214956544,
+    "timestamp": "2020-12-01T18:55:44.878Z"
 }

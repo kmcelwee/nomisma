@@ -38,8 +38,11 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12868\",\"call_number_browse\":\"Coin 12868\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 50,
     "pub_date_end_sort": 100,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8440"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "BMC Corinth  678v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "50 to 100"
+    ],
     "hashed_id_s": [
         "721fb204167b1726"
     ],
-    "_version_": 1667138339150495744,
-    "timestamp": "2020-05-19T16:50:15.944Z"
+    "_version_": 1684903074973351936,
+    "timestamp": "2020-12-01T18:53:08.239Z"
 }

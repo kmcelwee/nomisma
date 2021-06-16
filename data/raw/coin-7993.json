@@ -50,6 +50,12 @@
         "22.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7993\",\"call_number_browse\":\"Coin 7993\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1085,
     "pub_date_end_sort": 1092,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5026"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -115,9 +118,12 @@
         "Sear  1901"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1085 to 1092"
+    ],
     "hashed_id_s": [
         "6c600d7c8d5b7616"
     ],
-    "_version_": 1667138265102155776,
-    "timestamp": "2020-05-19T16:49:05.326Z"
+    "_version_": 1684903015037796352,
+    "timestamp": "2020-12-01T18:52:11.080Z"
 }

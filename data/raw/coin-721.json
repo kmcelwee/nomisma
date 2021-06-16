@@ -35,8 +35,11 @@
         "0.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 721\",\"call_number_browse\":\"Coin 721\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 1275,
     "pub_date_end_sort": 1468,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "295"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "P.d'A.  4686"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1275 to 1468"
+    ],
     "hashed_id_s": [
         "0a5bfc427dfa3e0d"
     ],
-    "_version_": 1667138452059062272,
-    "timestamp": "2020-05-19T16:52:03.624Z"
+    "_version_": 1684903593560244224,
+    "timestamp": "2020-12-01T19:01:22.803Z"
 }

@@ -35,8 +35,11 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5344\",\"call_number_browse\":\"Coin 5344\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "2987"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "4cb9e60435db9cfd"
     ],
-    "_version_": 1667138393541181440,
-    "timestamp": "2020-05-19T16:51:07.815Z"
+    "_version_": 1684903566832041984,
+    "timestamp": "2020-12-01T19:00:57.312Z"
 }

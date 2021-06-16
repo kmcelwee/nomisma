@@ -38,8 +38,8 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8822\",\"call_number_browse\":\"Coin 8822\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1081,
     "pub_date_end_sort": 1118,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5618"
     ],
     "issue_metal_s": [
         "Copper"
@@ -106,9 +103,12 @@
         "BL Alexis I, Tetarteron type 3 59/Th/AE/14-22"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1081 to 1118"
+    ],
     "hashed_id_s": [
         "70b8cf5e0a81b42e"
     ],
-    "_version_": 1667138153616506880,
-    "timestamp": "2020-05-19T16:47:19.004Z"
+    "_version_": 1684903408541106176,
+    "timestamp": "2020-12-01T18:58:26.355Z"
 }

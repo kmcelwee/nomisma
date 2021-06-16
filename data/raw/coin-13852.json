@@ -2,7 +2,7 @@
     "id": "coin-13852",
     "title_display": "Coin: 13852",
     "pub_created_display": [
-        "Diocletian, aureus, Trier"
+        "Maximianus Herculius (285 to 310), aureus, Trier"
     ],
     "call_number_display": [
         "Coin 13852"
@@ -35,28 +35,28 @@
         "5.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13852\",\"call_number_browse\":\"Coin 13852\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "325:  unknown"
+    ],
+    "pub_date_start_sort": 293,
+    "pub_date_end_sort": 294,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "aureus"
     ],
-    "issue_number_s": [
-        "8899"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
-    "issue_ruler_s": [
-        "Diocletian"
+    "issue_shape_s": [
+        "round"
     ],
-    "issue_workshop_s": [
-        "PT"
+    "issue_ruler_s": [
+        "Maximianus Herculius (285 to 310)"
     ],
     "issue_place_s": [
         "Trier, Gaul, Roman Empire"
@@ -71,16 +71,19 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Diocletian"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
     "issue_obverse_legend_s": [
-        "DIOCLETI ANVSPFAVG"
+        "DIOCLETIANVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -91,16 +94,27 @@
     "issue_reverse_orientation_s": [
         "facing"
     ],
+    "issue_reverse_figure_description_s": [
+        "nude to waist"
+    ],
     "issue_reverse_legend_s": [
-        "IOVICONS ERVAT"
+        "IOVI CONS-ERVAT / PT"
+    ],
+    "issue_reverse_attributes_s": [
+        "thunderbolt, in r. hand",
+        "sceptre, in l. hand",
+        "eagle, at feet to l."
     ],
     "issue_references_s": [
-        "RIC 6 165 16"
+        "RIC VI  Treveri 16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 294"
+    ],
     "hashed_id_s": [
         "135ada25669871d6"
     ],
-    "_version_": 1667144763809202176,
-    "timestamp": "2020-05-19T18:32:22.976Z"
+    "_version_": 1684903680284819456,
+    "timestamp": "2020-12-01T19:02:45.510Z"
 }

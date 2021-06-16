@@ -35,8 +35,11 @@
         "16.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13695\",\"call_number_browse\":\"Coin 13695\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "306:  Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8758"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "The New Style Coinage of Athens p.63 118c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "7b74cbf2b8852f07"
     ],
-    "_version_": 1667138516064141312,
-    "timestamp": "2020-05-19T16:53:04.661Z"
+    "_version_": 1684903645510893568,
+    "timestamp": "2020-12-01T19:02:12.347Z"
 }

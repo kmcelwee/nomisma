@@ -38,8 +38,11 @@
         "3.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9001\",\"call_number_browse\":\"Coin 9001\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -92,9 +95,12 @@
         "Sellwood  45.15"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "35fa1de5eef223a0"
     ],
-    "_version_": 1672998641708564480,
-    "timestamp": "2020-07-23T09:17:15.982Z"
+    "_version_": 1684903666829492224,
+    "timestamp": "2020-12-01T19:02:32.677Z"
 }

@@ -35,6 +35,12 @@
         "3.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12503\",\"call_number_browse\":\"Coin 12503\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -54,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8369"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +89,12 @@
         "Sellwood  41.20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -54"
+    ],
     "hashed_id_s": [
         "eca9c89db0c5fa10"
     ],
-    "_version_": 1667138339507011584,
-    "timestamp": "2020-05-19T16:50:16.286Z"
+    "_version_": 1684903075243884544,
+    "timestamp": "2020-12-01T18:53:08.497Z"
 }

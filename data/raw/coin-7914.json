@@ -53,6 +53,9 @@
         "4.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7914\",\"call_number_browse\":\"Coin 7914\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 730,
     "pub_date_end_sort": 740,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4970"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "SNAT plate 11 339-345"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "730 to 740"
+    ],
     "hashed_id_s": [
         "818ec8e9583249a8"
     ],
-    "_version_": 1667138191835004928,
-    "timestamp": "2020-05-19T16:47:55.453Z"
+    "_version_": 1684903432360558592,
+    "timestamp": "2020-12-01T18:58:49.070Z"
 }

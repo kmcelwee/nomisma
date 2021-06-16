@@ -2,7 +2,7 @@
     "id": "coin-8631",
     "title_display": "Coin: 8631",
     "pub_created_display": [
-        "Justin II (565 to 578), 40 nummi, Constantinople"
+        "Justin II   (565 to 574), 40 nummi, Constantinople"
     ],
     "call_number_display": [
         "Coin 8631"
@@ -53,6 +53,12 @@
         "15.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8631\",\"call_number_browse\":\"Coin 8631\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 572,
     "pub_date_end_sort": 573,
     "issue_object_type_s": [
@@ -61,9 +67,6 @@
     "issue_denomination_s": [
         "40 nummi"
     ],
-    "issue_number_s": [
-        "5525"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -71,7 +74,7 @@
         "Regnal"
     ],
     "issue_ruler_s": [
-        "Justin II (565 to 578)"
+        "Justin II   (565 to 574)"
     ],
     "issue_workshop_s": [
         "\u0393"
@@ -116,9 +119,12 @@
         "BL  5/An/AE/09-14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "572 to 573"
+    ],
     "hashed_id_s": [
         "3fe2c1ba5c1b1932"
     ],
-    "_version_": 1667138345965191168,
-    "timestamp": "2020-05-19T16:50:22.445Z"
+    "_version_": 1684903531334598656,
+    "timestamp": "2020-12-01T19:00:23.459Z"
 }

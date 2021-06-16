@@ -35,6 +35,15 @@
         "16.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1194\",\"call_number_browse\":\"Coin 1194\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "160: 1931-01-01 Lincoln"
+    ],
+    "numismatic_provenance_s": [
+        "Rodman Wanamaker"
+    ],
     "pub_date_start_sort": -305,
     "pub_date_end_sort": -295,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "644"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +101,12 @@
         "Sear  973v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-305 to -295"
+    ],
     "hashed_id_s": [
         "d2e9ccfaf0a8ae4d"
     ],
-    "_version_": 1667138453848981504,
-    "timestamp": "2020-05-19T16:52:05.331Z"
+    "_version_": 1684903220515700736,
+    "timestamp": "2020-12-01T18:55:27.041Z"
 }

@@ -38,8 +38,11 @@
         "16.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3972\",\"call_number_browse\":\"Coin 3972\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2278"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +105,12 @@
         "BMC.Byz. Justin I 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "ee5b6c70a9c80c45"
     ],
-    "_version_": 1667138485727789056,
-    "timestamp": "2020-05-19T16:52:35.732Z"
+    "_version_": 1684903620470898688,
+    "timestamp": "2020-12-01T19:01:48.467Z"
 }

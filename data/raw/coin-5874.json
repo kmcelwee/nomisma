@@ -37,14 +37,14 @@
     "find_date_s": [
         "05/29/1934"
     ],
-    "find_feature_s": [
-        "Southeast quarter; floor level."
-    ],
     "find_locus_s": [
-        "Daphne Harbie 161"
+        "DH 161"
     ],
     "find_number_s": [
         "C3008"
+    ],
+    "find_description_s": [
+        "SE. quarter, floor level"
     ],
     "die_axis_s": [
         "2"
@@ -56,6 +56,12 @@
         "7.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5874\",\"call_number_browse\":\"Coin 5874\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -64,11 +70,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1359"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -95,7 +104,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; field in front plain"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -110,9 +119,12 @@
         "RPC.1  4297"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "6f00634ac1051e38"
     ],
-    "_version_": 1667138419837370368,
-    "timestamp": "2020-05-19T16:51:32.893Z"
+    "_version_": 1684903685245632512,
+    "timestamp": "2020-12-01T19:02:50.240Z"
 }

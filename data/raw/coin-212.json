@@ -25,6 +25,9 @@
     "advanced_location_s": [
         "num"
     ],
+    "notes_display": [
+        "The quantity of silver in the coin is extremely low. "
+    ],
     "die_axis_s": [
         "5"
     ],
@@ -35,8 +38,11 @@
         "3.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 212\",\"call_number_browse\":\"Coin 212\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "12:  W.S. Watson"
     ],
     "pub_date_start_sort": -234,
     "pub_date_end_sort": -231,
@@ -46,11 +52,11 @@
     "issue_denomination_s": [
         "litra"
     ],
-    "issue_number_s": [
-        "110"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -64,6 +70,9 @@
     "issue_region_s": [
         "Italy"
     ],
+    "issue_obverse_figure_s": [
+        "Apollo"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -74,19 +83,19 @@
         "laureate"
     ],
     "issue_obverse_attributes_s": [
-        "dots, border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Horse"
     ],
     "issue_reverse_part_s": [
-        "standing"
+        "galloping"
     ],
     "issue_reverse_orientation_s": [
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "bridled and galloping"
+        "bridled"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
@@ -97,9 +106,15 @@
         "Sear  595"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-234 to -231"
+    ],
     "hashed_id_s": [
         "cf9012ea320959a3"
     ],
-    "_version_": 1667138402375434240,
-    "timestamp": "2020-05-19T16:51:16.243Z"
+    "_version_": 1684903696106782720,
+    "timestamp": "2020-12-01T19:03:00.599Z"
 }

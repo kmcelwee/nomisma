@@ -80,9 +80,12 @@
         "Crusader"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1300"
+    ],
     "hashed_id_s": [
         "c4b2d74e0a82b574"
     ],
-    "_version_": 1674260982591913984,
-    "timestamp": "2020-08-06T07:41:38.059Z"
+    "_version_": 1684903324129689600,
+    "timestamp": "2020-12-01T18:57:05.901Z"
 }

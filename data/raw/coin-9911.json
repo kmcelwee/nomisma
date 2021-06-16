@@ -50,6 +50,12 @@
         "0.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9911\",\"call_number_browse\":\"Coin 9911\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1163,
     "pub_date_end_sort": 1188,
     "issue_object_type_s": [
@@ -108,9 +114,12 @@
         "Schl.  III4bv"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1188"
+    ],
     "hashed_id_s": [
         "a9a1a9724d0aaf0d"
     ],
-    "_version_": 1674258362677592064,
-    "timestamp": "2020-08-06T06:59:59.514Z"
+    "_version_": 1684903321665536000,
+    "timestamp": "2020-12-01T18:57:03.504Z"
 }

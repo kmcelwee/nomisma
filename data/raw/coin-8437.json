@@ -53,6 +53,12 @@
         "4.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8437\",\"call_number_browse\":\"Coin 8437\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -48,
     "pub_date_end_sort": -47,
     "issue_object_type_s": [
@@ -115,9 +121,12 @@
         "RPC.1  4217"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-48 to -47"
+    ],
     "hashed_id_s": [
         "3f466c10b4c9204b"
     ],
-    "_version_": 1671920591159951360,
-    "timestamp": "2020-07-11T11:42:06.866Z"
+    "_version_": 1684902962450661376,
+    "timestamp": "2020-12-01T18:51:20.929Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-7322",
     "title_display": "Coin: 7322",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7322"
@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "30-4-1932"
+        "1932-04-30"
+    ],
+    "find_feature_s": [
+        "Hippodrome A, surface"
     ],
     "find_locus_s": [
-        "7-N"
-    ],
-    "find_description_s": [
-        "Hill A, 7N48 surface"
+        "DS 7-N 48 (HPOA)"
     ],
     "die_axis_s": [
         "12"
@@ -47,6 +47,12 @@
         "1.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7322\",\"call_number_browse\":\"Coin 7322\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -55,14 +61,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4587"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_workshop_s": [
         "Antioch"
@@ -89,7 +92,7 @@
         "laurelled, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS MAX AVG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,12 +110,18 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
+    ],
+    "issue_references_s": [
+        "RIC VII Antioch 108"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "6c754702727f1a3a"
     ],
-    "_version_": 1667138256848814080,
-    "timestamp": "2020-05-19T16:48:57.456Z"
+    "_version_": 1691337086777425920,
+    "timestamp": "2021-02-10T19:19:00.045Z"
 }

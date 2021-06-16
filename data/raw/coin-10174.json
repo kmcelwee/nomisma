@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6424"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -90,9 +87,12 @@
         "Bone (e), (vi), p. 401-406 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "716 to 720"
+    ],
     "hashed_id_s": [
         "68aa2a1800143fa0"
     ],
-    "_version_": 1667145455217147904,
-    "timestamp": "2020-05-19T18:47:24.284Z"
+    "_version_": 1684903423294570496,
+    "timestamp": "2020-12-01T18:58:40.425Z"
 }

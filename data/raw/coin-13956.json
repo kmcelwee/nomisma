@@ -29,7 +29,7 @@
         "Coin outside of standard."
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "04/21/1937"
@@ -53,6 +53,12 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13956\",\"call_number_browse\":\"Coin 13956\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8989"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,7 +104,7 @@
         "with veil and diadem in dotted border"
     ],
     "issue_obverse_attributes_s": [
-        "\u039c\u0395, behind head"
+        "monogram, behind head"
     ],
     "issue_reverse_figure_s": [
         "Elephant"
@@ -116,15 +119,18 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 l \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "\u0391\u0399, on lower r."
+        "monogram, on lower r."
     ],
     "issue_references_s": [
         "H & L II,v.I,p.17 1318.1d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "9e9a17bd443520b9"
     ],
-    "_version_": 1670292926055317504,
-    "timestamp": "2020-06-23T12:31:04.461Z"
+    "_version_": 1684903413726314496,
+    "timestamp": "2020-12-01T18:58:31.300Z"
 }

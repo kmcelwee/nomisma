@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "2922"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -110,9 +107,12 @@
         "Hims  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1794 to 1795"
+    ],
     "hashed_id_s": [
         "26c578c228f7ee09"
     ],
-    "_version_": 1667138493166387200,
-    "timestamp": "2020-05-19T16:52:42.827Z"
+    "_version_": 1684903307027415040,
+    "timestamp": "2020-12-01T18:56:49.545Z"
 }

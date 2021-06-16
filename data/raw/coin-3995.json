@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "20 nummi"
     ],
-    "issue_number_s": [
-        "2295"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -84,9 +81,12 @@
         "Sear Justin I 69"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "522 to 527"
+    ],
     "hashed_id_s": [
         "b33ef676b68111c8"
     ],
-    "_version_": 1667138200873730048,
-    "timestamp": "2020-05-19T16:48:04.073Z"
+    "_version_": 1684903091227328512,
+    "timestamp": "2020-12-01T18:53:23.739Z"
 }

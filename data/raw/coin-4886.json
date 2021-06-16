@@ -35,8 +35,11 @@
         "4.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4886\",\"call_number_browse\":\"Coin 4886\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2688"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,6 +76,6 @@
     "hashed_id_s": [
         "5c159cf6e1cd8b54"
     ],
-    "_version_": 1667138241872003072,
-    "timestamp": "2020-05-19T16:48:43.172Z"
+    "_version_": 1684903463986659328,
+    "timestamp": "2020-12-01T18:59:19.231Z"
 }

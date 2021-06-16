@@ -35,6 +35,9 @@
         "26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 756\",\"call_number_browse\":\"Coin 756\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -315,
     "pub_date_end_sort": -294,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "311"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "Price  443"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-315 to -294"
+    ],
     "hashed_id_s": [
         "a41e751cf5871015"
     ],
-    "_version_": 1667138204542697472,
-    "timestamp": "2020-05-19T16:48:07.573Z"
+    "_version_": 1684902972250652672,
+    "timestamp": "2020-12-01T18:51:30.275Z"
 }

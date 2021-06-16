@@ -31,9 +31,6 @@
     "issue_object_type_s": [
         "die"
     ],
-    "issue_number_s": [
-        "1784"
-    ],
     "issue_metal_s": [
         "Steel"
     ],
@@ -75,6 +72,6 @@
     "hashed_id_s": [
         "a349ad7cd5571f2e"
     ],
-    "_version_": 1667145313024999424,
-    "timestamp": "2020-05-19T18:50:51.801Z"
+    "_version_": 1683105340145532928,
+    "timestamp": "2020-11-11T22:38:54.706Z"
 }

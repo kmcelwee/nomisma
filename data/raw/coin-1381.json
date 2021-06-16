@@ -35,6 +35,9 @@
         "0.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1381\",\"call_number_browse\":\"Coin 1381\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1229,
     "pub_date_end_sort": 1278,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "781"
     ],
     "issue_metal_s": [
         "Copper"
@@ -85,9 +85,12 @@
         "Malloy page 256, 1 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1229 to 1278"
+    ],
     "hashed_id_s": [
         "a7af2922b20bcfe9"
     ],
-    "_version_": 1667138410428497920,
-    "timestamp": "2020-05-19T16:51:23.922Z"
+    "_version_": 1684903183730606080,
+    "timestamp": "2020-12-01T18:54:51.963Z"
 }

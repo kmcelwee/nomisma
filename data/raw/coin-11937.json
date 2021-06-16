@@ -35,8 +35,11 @@
         "23.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11937\",\"call_number_browse\":\"Coin 11937\"}}",
-    "donor_s": [
-        "Anonymous"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "167: 1996-12-20 Anonymous"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "8007"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 489 1637"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "e831c4521bf58283"
     ],
-    "_version_": 1667138299060289536,
-    "timestamp": "2020-05-19T16:49:37.711Z"
+    "_version_": 1684903149651886080,
+    "timestamp": "2020-12-01T18:54:19.459Z"
 }

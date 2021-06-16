@@ -35,8 +35,14 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11115\",\"call_number_browse\":\"Coin 11115\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 01/16/2014; 18 (39)"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7276"
     ],
     "issue_metal_s": [
         "Silver"
@@ -59,13 +62,13 @@
         "HL Type Ib/1a"
     ],
     "issue_place_s": [
-        "Herat, Khorasan, Sasanian Empire"
+        "Herat, Herat, Sasanian Empire"
     ],
     "issue_city_s": [
         "Herat"
     ],
     "issue_state_s": [
-        "Khorasan"
+        "Herat"
     ],
     "issue_region_s": [
         "Sasanian Empire"
@@ -92,9 +95,12 @@
         "SNS 3 HL Type Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "84b91c7cffe9ea7c"
     ],
-    "_version_": 1667138289729011712,
-    "timestamp": "2020-05-19T16:49:28.812Z"
+    "_version_": 1684903035296284672,
+    "timestamp": "2020-12-01T18:52:30.400Z"
 }

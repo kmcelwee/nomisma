@@ -35,8 +35,11 @@
         "5.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1805\",\"call_number_browse\":\"Coin 1805\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "38:  J.C. Wilson"
     ],
     "pub_date_start_sort": 931,
     "pub_date_end_sort": 944,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1181"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear 338 1760"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "931 to 944"
+    ],
     "hashed_id_s": [
         "76eaa3277a467537"
     ],
-    "_version_": 1667138465193525248,
-    "timestamp": "2020-05-19T16:52:16.148Z"
+    "_version_": 1684903295702794240,
+    "timestamp": "2020-12-01T18:56:38.743Z"
 }

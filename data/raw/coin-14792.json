@@ -2,7 +2,7 @@
     "id": "coin-14792",
     "title_display": "Coin: 14792",
     "pub_created_display": [
-        "denarius, Rome"
+        "denarius"
     ],
     "call_number_display": [
         "Coin 14792"
@@ -35,6 +35,12 @@
         "3.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14792\",\"call_number_browse\":\"Coin 14792\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -76,
     "pub_date_end_sort": -75,
     "issue_object_type_s": [
@@ -43,70 +49,68 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9075"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_color_s": [
         "blue"
     ],
     "issue_master_s": [
-        "Cn. Lentulus  "
+        "Cn. Cornelius Lentulus Marcellinus  (90 to 48)"
     ],
     "issue_place_s": [
-        "Rome, Latium, Italy"
-    ],
-    "issue_city_s": [
-        "Rome"
-    ],
-    "issue_state_s": [
-        "Latium"
+        "Hispania"
     ],
     "issue_region_s": [
-        "Italy"
+        "Hispania"
     ],
     "issue_obverse_figure_s": [
         "Genius Populi Romani"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing Right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Draped, hair tied with band"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "scepter over shoulder"
+        "draped and hair tied with band"
     ],
     "issue_obverse_legend_s": [
-        "G.P.R."
+        "G\u00b7P\u00b7R"
+    ],
+    "issue_obverse_attributes_s": [
+        "sceptre, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Wreathed scepter, globe, rudder"
-    ],
-    "issue_reverse_symbol_s": [
-        "EX S.C"
+        "Sceptre"
     ],
     "issue_reverse_orientation_s": [
         "centered"
     ],
     "issue_reverse_figure_description_s": [
-        "between symbols"
+        "with wreath, globe and rudder"
     ],
     "issue_reverse_legend_s": [
-        "LENT.CVR.*.FL"
+        "EX S\u00b7C LENT\u00b7CVR\u00b7*\u00b7FL"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  393-1b"
+        "RRC  393/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -75"
+    ],
     "hashed_id_s": [
         "f1e1565cefaeed64"
     ],
-    "_version_": 1667309470671175680,
-    "timestamp": "2020-05-21T14:10:19.680Z"
+    "_version_": 1686050444891127808,
+    "timestamp": "2020-12-14T10:50:05.461Z"
 }

@@ -35,8 +35,11 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1287\",\"call_number_browse\":\"Coin 1287\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -315,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/5 tetradrachm"
-    ],
-    "issue_number_s": [
-        "716"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Le Rider  pl. 44,28"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -315"
+    ],
     "hashed_id_s": [
         "347c6de027dea188"
     ],
-    "_version_": 1667138460956229632,
-    "timestamp": "2020-05-19T16:52:12.108Z"
+    "_version_": 1684903293895049216,
+    "timestamp": "2020-12-01T18:56:37.020Z"
 }

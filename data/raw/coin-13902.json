@@ -35,6 +35,12 @@
         "6.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13902\",\"call_number_browse\":\"Coin 13902\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "8936"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,6 +105,6 @@
     "hashed_id_s": [
         "02bdb6d6c219a313"
     ],
-    "_version_": 1667138332106162176,
-    "timestamp": "2020-05-19T16:50:09.226Z"
+    "_version_": 1684903238624608256,
+    "timestamp": "2020-12-01T18:55:44.311Z"
 }

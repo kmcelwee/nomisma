@@ -2,7 +2,7 @@
     "id": "coin-6146",
     "title_display": "Coin: 6146",
     "pub_created_display": [
-        "Nero (54 to 68), aes, Antioch"
+        "Nero (54 to 68), bronze, Antioch"
     ],
     "call_number_display": [
         "Coin 6146"
@@ -53,13 +53,19 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6146\",\"call_number_browse\":\"Coin 6146\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 66,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "aes"
+        "bronze"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +110,12 @@
         "RPC.1  4300"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 66"
+    ],
     "hashed_id_s": [
         "40a4ad1df259cfe2"
     ],
-    "_version_": 1675624943778267136,
-    "timestamp": "2020-08-21T09:01:12.829Z"
+    "_version_": 1684903677389701120,
+    "timestamp": "2020-12-01T19:02:42.749Z"
 }

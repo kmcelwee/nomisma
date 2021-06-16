@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Heavily worn on both sides; inscription illegible on reverse"
+        "Coin heavily worn on both sides; reverse inscription illegible"
     ],
     "die_axis_s": [
         "12"
@@ -38,8 +38,11 @@
         "5.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1219\",\"call_number_browse\":\"Coin 1219\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "170:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": -217,
     "pub_date_end_sort": -215,
@@ -49,11 +52,11 @@
     "issue_denomination_s": [
         "semuncia"
     ],
-    "issue_number_s": [
-        "664"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -77,10 +80,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bust of Mercury w/ winged petasus and chlamys"
+        "wearing winged petasos and chlamys"
     ],
     "issue_obverse_attributes_s": [
-        "dots, border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -88,14 +91,8 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "prow w/ ROMA above"
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
-    ],
-    "issue_reverse_attributes_s": [
-        "line, border"
     ],
     "issue_references_s": [
         "RRC  38/7",
@@ -103,9 +100,12 @@
         "Sear  620"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-217 to -215"
+    ],
     "hashed_id_s": [
         "b7b139d3f363a103"
     ],
-    "_version_": 1667138209567473664,
-    "timestamp": "2020-05-19T16:48:12.364Z"
+    "_version_": 1684903696687693824,
+    "timestamp": "2020-12-01T19:03:01.152Z"
 }

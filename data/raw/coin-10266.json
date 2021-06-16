@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "small"
     ],
-    "issue_number_s": [
-        "6512"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -107,9 +104,12 @@
         "BMC Syria  432v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "80f0c82cda6d56b2"
     ],
-    "_version_": 1667138281582624768,
-    "timestamp": "2020-05-19T16:49:21.070Z"
+    "_version_": 1684903498439720960,
+    "timestamp": "2020-12-01T18:59:52.088Z"
 }

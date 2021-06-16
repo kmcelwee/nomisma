@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6640"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -100,9 +97,12 @@
         "+IhSYS/XRISTYS/BASILEY'/BASILE'"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "d82423808b179b3e"
     ],
-    "_version_": 1667144827705229312,
-    "timestamp": "2020-05-19T18:33:23.970Z"
+    "_version_": 1684903140548149248,
+    "timestamp": "2020-12-01T18:54:10.777Z"
 }

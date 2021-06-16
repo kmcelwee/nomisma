@@ -35,8 +35,11 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10738\",\"call_number_browse\":\"Coin 10738\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 01/10/2008"
     ],
     "pub_date_start_sort": 293,
     "pub_date_end_sort": 302,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6899"
     ],
     "issue_metal_s": [
         "Copper"
@@ -74,9 +74,12 @@
         "SNS 2 Incerta AE (Phase 3) Type unclear"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 302"
+    ],
     "hashed_id_s": [
         "a81a7e66f368fbf9"
     ],
-    "_version_": 1667138343980236800,
-    "timestamp": "2020-05-19T16:50:20.551Z"
+    "_version_": 1684903248208592896,
+    "timestamp": "2020-12-01T18:55:53.450Z"
 }

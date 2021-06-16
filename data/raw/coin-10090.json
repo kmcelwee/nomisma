@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6385"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -89,9 +86,12 @@
         "SNAT  64-78"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 747"
+    ],
     "hashed_id_s": [
         "c761357530ceb25b"
     ],
-    "_version_": 1667145578313678848,
-    "timestamp": "2020-05-19T19:02:44.576Z"
+    "_version_": 1684903023176843264,
+    "timestamp": "2020-12-01T18:52:18.843Z"
 }

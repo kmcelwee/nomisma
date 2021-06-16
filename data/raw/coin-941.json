@@ -35,8 +35,11 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 941\",\"call_number_browse\":\"Coin 941\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -334,
     "pub_date_end_sort": -323,
@@ -99,9 +102,12 @@
         "Price  2576"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-334 to -323"
+    ],
     "hashed_id_s": [
         "a3a0cf8d1f457887"
     ],
-    "_version_": 1673105536905641984,
-    "timestamp": "2020-07-24T13:36:19.184Z"
+    "_version_": 1684903669753970688,
+    "timestamp": "2020-12-01T19:02:35.467Z"
 }

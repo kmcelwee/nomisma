@@ -35,6 +35,15 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4603\",\"call_number_browse\":\"Coin 4603\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1928; $5.50"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2536"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +108,12 @@
         "Syd.  1170"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "ac262bc27ccdeff8"
     ],
-    "_version_": 1667138238404362240,
-    "timestamp": "2020-05-19T16:48:39.864Z"
+    "_version_": 1684903001959956480,
+    "timestamp": "2020-12-01T18:51:58.608Z"
 }

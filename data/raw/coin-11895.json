@@ -35,8 +35,11 @@
         "3.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11895\",\"call_number_browse\":\"Coin 11895\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 125,
     "pub_date_end_sort": 128,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7977"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 296 456"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "125 to 128"
+    ],
     "hashed_id_s": [
         "5166196afa29bf62"
     ],
-    "_version_": 1667138119798882304,
-    "timestamp": "2020-05-19T16:46:46.756Z"
+    "_version_": 1684902964935786496,
+    "timestamp": "2020-12-01T18:51:23.298Z"
 }

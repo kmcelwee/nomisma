@@ -41,8 +41,11 @@
         "5.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12164\",\"call_number_browse\":\"Coin 12164\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 1167,
     "pub_date_end_sort": 1183,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8211"
     ],
     "issue_metal_s": [
         "Billon"
@@ -103,9 +103,12 @@
         "Sear  1963"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1167 to 1183"
+    ],
     "hashed_id_s": [
         "c752d10235ec748e"
     ],
-    "_version_": 1667138330233405440,
-    "timestamp": "2020-05-19T16:50:07.441Z"
+    "_version_": 1684903526252150784,
+    "timestamp": "2020-12-01T19:00:18.614Z"
 }

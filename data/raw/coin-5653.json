@@ -41,6 +41,12 @@
         "56.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5653\",\"call_number_browse\":\"Coin 5653\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -211,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "biunx"
-    ],
-    "issue_number_s": [
-        "3218"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +93,12 @@
         "Syd.  189"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -211"
+    ],
     "hashed_id_s": [
         "16aff412bbc0c2d0"
     ],
-    "_version_": 1667138389719121920,
-    "timestamp": "2020-05-19T16:51:04.171Z"
+    "_version_": 1684903265547845632,
+    "timestamp": "2020-12-01T18:56:09.985Z"
 }

@@ -35,6 +35,12 @@
         "2.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1877\",\"call_number_browse\":\"Coin 1877\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "264: 2002-01-20 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -498,
     "pub_date_end_sort": -413,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "1227"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "BMC Mac. Macedonia p. 161-27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-498 to -413"
+    ],
     "hashed_id_s": [
         "21d98673d57aa8c7"
     ],
-    "_version_": 1667138416617193472,
-    "timestamp": "2020-05-19T16:51:29.822Z"
+    "_version_": 1684903191754309632,
+    "timestamp": "2020-12-01T18:54:59.611Z"
 }

@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "1/16 dollar"
     ],
-    "issue_number_s": [
-        "3076"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -82,9 +79,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "68a13c2dbc57fbbf"
     ],
-    "_version_": 1667138247818477568,
-    "timestamp": "2020-05-19T16:48:48.844Z"
+    "_version_": 1684903470085177344,
+    "timestamp": "2020-12-01T18:59:25.048Z"
 }

@@ -35,6 +35,9 @@
         "10.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6686\",\"call_number_browse\":\"Coin 6686\"}}",
+    "numismatic_provenance_s": [
+        "Rodgers; Index card says \"gift Rodgers\""
+    ],
     "pub_date_start_sort": 127,
     "pub_date_end_sort": 151,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "4104"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +71,12 @@
         "System und Chronologie der Munzpragung des Kusanreiches 4 766"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "127 to 151"
+    ],
     "hashed_id_s": [
         "e3f779e5a3fea03e"
     ],
-    "_version_": 1667138368089096192,
-    "timestamp": "2020-05-19T16:50:43.544Z"
+    "_version_": 1684903547737473024,
+    "timestamp": "2020-12-01T19:00:39.102Z"
 }

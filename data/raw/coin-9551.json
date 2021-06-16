@@ -38,6 +38,9 @@
         "67.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9551\",\"call_number_browse\":\"Coin 9551\"}}",
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1087,
     "pub_date_end_sort": 1092,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "6100"
     ],
     "issue_metal_s": [
         "Electrum"
@@ -110,9 +110,12 @@
         "DOC vol 4 pt. 1 p203-4 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1087 to 1092"
+    ],
     "hashed_id_s": [
         "298be0f7805fa52c"
     ],
-    "_version_": 1667138146077245440,
-    "timestamp": "2020-05-19T16:47:11.815Z"
+    "_version_": 1684903399244431360,
+    "timestamp": "2020-12-01T18:58:17.488Z"
 }

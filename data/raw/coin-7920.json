@@ -2,7 +2,7 @@
     "id": "coin-7920",
     "title_display": "Coin: 7920",
     "pub_created_display": [
-        "Constantine II, follis, Cyzicus"
+        "Constantine II   (337 to 340), follis, Cyzicus"
     ],
     "call_number_display": [
         "Coin 7920"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 9, 1933"
+        "1933-05-09"
     ],
     "find_feature_s": [
-        "Fifth A"
+        "Surface over [?] wall"
     ],
     "find_locus_s": [
-        "7- O-42"
+        "DS 7-O 42"
     ],
     "find_number_s": [
         "2966"
-    ],
-    "find_description_s": [
-        "Surface over____wall"
     ],
     "die_axis_s": [
         "6"
@@ -53,7 +50,13 @@
         "2.414"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7920\",\"call_number_browse\":\"Coin 7920\"}}",
-    "pub_date_start_sort": 330,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 331,
     "pub_date_end_sort": 334,
     "issue_object_type_s": [
         "coin"
@@ -61,23 +64,20 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4855"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -89,16 +89,13 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "bust laureled, cuir."
+        "laureate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS IVN NOB C"
+        "CONSTANTINVSIVNNOBC"
     ],
     "issue_reverse_figure_s": [
         "Two soldiers"
-    ],
-    "issue_reverse_symbol_s": [
-        "\u0394"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -110,15 +107,18 @@
         "two soldiers, helmeted, standing facing one another, reversed spear in outer hands, inner hands on shields resting on ground; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITVS"
+        "GLOR-IAEXERC-ITVS | SMK\u0394"
     ],
     "issue_references_s": [
-        "RIC 7 655.80"
+        "RIC VII Cyzicus 80"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "331 to 334"
+    ],
     "hashed_id_s": [
         "cd017689223604f6"
     ],
-    "_version_": 1667138351618064384,
-    "timestamp": "2020-05-19T16:50:27.834Z"
+    "_version_": 1695437729403240448,
+    "timestamp": "2021-03-28T01:36:57.604Z"
 }

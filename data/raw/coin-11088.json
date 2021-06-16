@@ -38,8 +38,14 @@
         "0.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11088\",\"call_number_browse\":\"Coin 11088\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 09/09/2000"
     ],
     "pub_date_start_sort": 488,
     "pub_date_end_sort": 496,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7249"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 BY\u0160 Type Ia1/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "488 to 496"
+    ],
     "hashed_id_s": [
         "3f2c4953c7e757bb"
     ],
-    "_version_": 1667138289514053632,
-    "timestamp": "2020-05-19T16:49:28.608Z"
+    "_version_": 1684903034782482432,
+    "timestamp": "2020-12-01T18:52:29.911Z"
 }

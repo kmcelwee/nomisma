@@ -29,6 +29,9 @@
         "73x93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7159\",\"call_number_browse\":\"Coin 7159\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "3 dollars"
-    ],
-    "issue_number_s": [
-        "4479"
     ],
     "issue_metal_s": [
         "Paper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "0c52b8cfe6256c9e"
     ],
-    "_version_": 1667315337824043008,
-    "timestamp": "2020-05-21T15:43:35.045Z"
+    "_version_": 1684903128658345984,
+    "timestamp": "2020-12-01T18:53:59.438Z"
 }

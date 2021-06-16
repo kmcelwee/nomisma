@@ -2,7 +2,7 @@
     "id": "coin-7776",
     "title_display": "Coin: 7776",
     "pub_created_display": [
-        "Constantine II, follis, Constantinople"
+        "Constantine II   (337 to 340), follis, Constantinople"
     ],
     "call_number_display": [
         "Coin 7776"
@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 3, 1932"
+        "1932-05-03"
     ],
     "find_feature_s": [
-        "n/a"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "N-9"
+        "DS 9-N"
     ],
     "find_number_s": [
         "1257"
@@ -50,6 +50,12 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7776\",\"call_number_browse\":\"Coin 7776\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 333,
     "issue_object_type_s": [
@@ -58,14 +64,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4841"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Constantinople, Thrace, Roman Empire"
@@ -113,9 +116,12 @@
         "RIC 7 579.60"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 333"
+    ],
     "hashed_id_s": [
         "49ac59fac980602e"
     ],
-    "_version_": 1667138352184295424,
-    "timestamp": "2020-05-19T16:50:28.374Z"
+    "_version_": 1694979038915854336,
+    "timestamp": "2021-03-23T00:06:16.260Z"
 }

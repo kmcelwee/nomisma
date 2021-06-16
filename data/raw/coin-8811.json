@@ -35,6 +35,12 @@
         "2.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8811\",\"call_number_browse\":\"Coin 8811\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1375,
     "pub_date_end_sort": 1375,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso guelfo"
-    ],
-    "issue_number_s": [
-        "5607"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "Le Monete Della Repubblica Fiorentina II, 238 1878"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1375 to 1375"
+    ],
     "hashed_id_s": [
         "b6f110f278809ddf"
     ],
-    "_version_": 1667138156161400832,
-    "timestamp": "2020-05-19T16:47:21.433Z"
+    "_version_": 1684903411454050304,
+    "timestamp": "2020-12-01T18:58:29.132Z"
 }

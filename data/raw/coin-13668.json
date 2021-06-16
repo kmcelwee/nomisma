@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "8738"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -86,20 +83,23 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0394\u0399\u039c\u0399\u03a4\u03a1\u0399\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m13660, outer left",
+        "monogram, outer left",
         "sceptre, in l.hand",
         "cornucopia, in r.hand"
     ],
     "issue_references_s": [
-        "H & L II, v.I,p.168 1635b"
+        "H & L II, v.I,p.169 1638.1f"
     ],
     "issue_monogram_title_s": [
         "m13660"
     ],
     "issue_monogram_1display": "[{\"title\":\"m13660\",\"document_id\":\"8ae3850b-a08c-4130-b9ba-1a575d3edcbf\"}]",
+    "issue_date_s": [
+        "-162 to -154"
+    ],
     "hashed_id_s": [
         "d03867768e477022"
     ],
-    "_version_": 1667138514857230336,
-    "timestamp": "2020-05-19T16:53:03.530Z"
+    "_version_": 1684903328804241408,
+    "timestamp": "2020-12-01T18:57:10.313Z"
 }

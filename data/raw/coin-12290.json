@@ -35,8 +35,11 @@
         "1.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12290\",\"call_number_browse\":\"Coin 12290\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8283"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "BMC Corinth  458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "10e292db41e7cbaf"
     ],
-    "_version_": 1667138342234357760,
-    "timestamp": "2020-05-19T16:50:18.887Z"
+    "_version_": 1684903247262777344,
+    "timestamp": "2020-12-01T18:55:52.547Z"
 }

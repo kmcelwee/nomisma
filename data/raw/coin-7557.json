@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/4/1934"
+        "1934-06-04"
     ],
     "find_feature_s": [
-        "Along foundation wall of north pasodos - E side"
+        "N. parados, E. side, along foundation wall"
+    ],
+    "find_locus_s": [
+        "DH 161"
     ],
     "find_number_s": [
         "C3081"
@@ -47,6 +50,12 @@
         "2.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7557\",\"call_number_browse\":\"Coin 7557\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4722"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +107,19 @@
         "Jupiter stg. L., chlamys across l. shoulder, leaning on scepter, Victory on globe in r. hand; eagle with wreath to l. on ground."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSER-VATORI AUGG"
+        "IOVI CONSER-VATORI AUGG NN"
     ],
     "issue_references_s": [
-        "RIC, VII 678 17",
+        "RIC VII Antioch 17",
         "Numismatique Constantinienne III. 186, 187. I. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "ca33bfeb4696a39b"
     ],
-    "_version_": 1667138259924287488,
-    "timestamp": "2020-05-19T16:49:00.389Z"
+    "_version_": 1691153269135507456,
+    "timestamp": "2021-02-08T18:37:17.886Z"
 }

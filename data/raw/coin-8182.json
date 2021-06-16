@@ -50,13 +50,16 @@
         "1.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8182\",\"call_number_browse\":\"Coin 8182\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 348,
     "pub_date_end_sort": 350,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5195"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,12 +108,15 @@
     ],
     "issue_references_s": [
         "Waage p.128 1596",
-        "RIC.8 p.522 122"
+        "RIC VIII Antioch 122"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "348 to 350"
+    ],
     "hashed_id_s": [
         "a5dd714f0a595471"
     ],
-    "_version_": 1667138348025643008,
-    "timestamp": "2020-05-19T16:50:24.408Z"
+    "_version_": 1684903682135556096,
+    "timestamp": "2020-12-01T19:02:47.275Z"
 }

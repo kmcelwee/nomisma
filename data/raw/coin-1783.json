@@ -38,8 +38,8 @@
         "3.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1783\",\"call_number_browse\":\"Coin 1783\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 41,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "1165"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +97,12 @@
         "Sear  1864"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 41"
+    ],
     "hashed_id_s": [
         "756537b62a61c13c"
     ],
-    "_version_": 1667138467044261888,
-    "timestamp": "2020-05-19T16:52:17.915Z"
+    "_version_": 1684903608230871040,
+    "timestamp": "2020-12-01T19:01:36.794Z"
 }

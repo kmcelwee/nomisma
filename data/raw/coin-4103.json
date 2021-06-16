@@ -35,16 +35,19 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4103\",\"call_number_browse\":\"Coin 4103\"}}",
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2350"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wreathed in ivy; border of dots"
+        "wreathed in ivy"
     ],
     "issue_obverse_legend_s": [
-        "\u0393ANSA"
+        "PANSA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Ceres"
@@ -89,13 +95,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "torch in each hand; plough before; border of dots"
+        "torch in each hand; before plough"
     ],
     "issue_reverse_legend_s": [
-        "C VIBIVS C F C N"
+        "C.VIBIVS.C.F.C.N"
     ],
     "issue_reverse_attributes_s": [
-        "torch, held in each hand"
+        "torch, held in each hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  449/2",
@@ -103,9 +110,12 @@
         "Sear  421"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "4d7d49e3f7d700b9"
     ],
-    "_version_": 1667138489851838464,
-    "timestamp": "2020-05-19T16:52:39.663Z"
+    "_version_": 1684903306763173888,
+    "timestamp": "2020-12-01T18:56:49.292Z"
 }

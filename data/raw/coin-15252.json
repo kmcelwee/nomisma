@@ -32,8 +32,11 @@
         "61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15252\",\"call_number_browse\":\"Coin 15252\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -79,9 +82,12 @@
         "Thankful Nation Do10 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "682c930541ffe1f0"
     ],
-    "_version_": 1671711559661912064,
-    "timestamp": "2020-07-09T04:19:38.887Z"
+    "_version_": 1684902912210239488,
+    "timestamp": "2020-12-01T18:50:33.017Z"
 }

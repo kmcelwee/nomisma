@@ -35,6 +35,15 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5159\",\"call_number_browse\":\"Coin 5159\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1927; $17.25"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2861"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -74,13 +83,19 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust r., draped with lion skin; hair tied with fillet; border of dots"
+        "wearing diadem and lion-skin"
     ],
     "issue_obverse_legend_s": [
         "FEELIX"
     ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
+    ],
     "issue_reverse_figure_s": [
-        "Luna"
+        "Diana"
+    ],
+    "issue_reverse_symbol_s": [
+        "crescent above; stars above and below horses"
     ],
     "issue_reverse_part_s": [
         "riding"
@@ -89,10 +104,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Luna riding in biga r., holding reins in l. hand, lituus in r.; above, two stars; below, one star; legend below; border of dots"
+        "in biga"
     ],
     "issue_reverse_legend_s": [
         "FAVSTVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "lituus, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  426/2",
@@ -100,9 +120,12 @@
         "Sear  384"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "82eca7ad6b5a4266"
     ],
-    "_version_": 1667138511512272896,
-    "timestamp": "2020-05-19T16:53:00.321Z"
+    "_version_": 1684903314651611136,
+    "timestamp": "2020-12-01T18:56:56.816Z"
 }

@@ -38,8 +38,11 @@
         "7.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6434\",\"call_number_browse\":\"Coin 6434\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; July 1963; Pounds 8.10.0 = $15"
     ],
     "pub_date_start_sort": -340,
     "pub_date_end_sort": -325,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3859"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  764"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-340 to -325"
+    ],
     "hashed_id_s": [
         "18cabfc1236dbfda"
     ],
-    "_version_": 1667138377717121024,
-    "timestamp": "2020-05-19T16:50:52.723Z"
+    "_version_": 1684903116844040192,
+    "timestamp": "2020-12-01T18:53:48.174Z"
 }

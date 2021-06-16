@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5198\",\"call_number_browse\":\"Coin 5198\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1100,
     "pub_date_end_sort": 1125,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2805"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -65,9 +65,12 @@
         "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1125"
+    ],
     "hashed_id_s": [
         "c1e6b36dd2348214"
     ],
-    "_version_": 1667145312942161920,
-    "timestamp": "2020-05-19T18:42:23.233Z"
+    "_version_": 1684903115833212928,
+    "timestamp": "2020-12-01T18:53:47.216Z"
 }

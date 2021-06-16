@@ -35,16 +35,22 @@
         "3.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4211\",\"call_number_browse\":\"Coin 4211\"}}",
-    "pub_date_start_sort": -46,
-    "pub_date_end_sort": -46,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1929; 80\u00a2"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2382"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing laureate pilei, stars above; border of dots"
+        "wearing laureate pilei, stars above; around, legend"
     ],
     "issue_obverse_legend_s": [
-        "RVFVS IIIVIR"
+        "RVFVS.IIIVIR"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Venus"
@@ -92,14 +101,15 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "holds scales in r. hand, sceptre in l. hand; Cupid perched on shoulder; MN of legend in monogram; border of dots"
+        "holding scales in r. hand and sceptre in l. hand, with Cupid perched on shoulder; behind, legend downwards, MN of legend in monogram"
     ],
     "issue_reverse_legend_s": [
-        "MN CORDIVS"
+        "MN.CORDIVS"
     ],
     "issue_reverse_attributes_s": [
         "scales, in r. hand",
-        "sceptre, in l. hand"
+        "sceptre, in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  463/1a",
@@ -107,9 +117,12 @@
         "Sear  440"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "a2e1ea121abd01a6"
     ],
-    "_version_": 1667138492300263424,
-    "timestamp": "2020-05-19T16:52:42.003Z"
+    "_version_": 1684903627702927360,
+    "timestamp": "2020-12-01T19:01:55.366Z"
 }

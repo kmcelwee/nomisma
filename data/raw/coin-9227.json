@@ -41,6 +41,12 @@
         "2.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9227\",\"call_number_browse\":\"Coin 9227\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 313,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5893"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "SOLI INVICTO COMITI | \u0404 P"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 313"
+    ],
     "hashed_id_s": [
         "cfba3a085f28b7a0"
     ],
-    "_version_": 1667138147672129536,
-    "timestamp": "2020-05-19T16:47:13.335Z"
+    "_version_": 1684903400853995520,
+    "timestamp": "2020-12-01T18:58:19.023Z"
 }

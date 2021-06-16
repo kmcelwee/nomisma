@@ -95,9 +95,12 @@
         "+EGOLISSIME"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1200 to 1300"
+    ],
     "hashed_id_s": [
         "3a2019685cc7a0d6"
     ],
-    "_version_": 1674257846993158144,
-    "timestamp": "2020-08-06T06:51:47.721Z"
+    "_version_": 1684903321282805760,
+    "timestamp": "2020-12-01T18:57:03.141Z"
 }

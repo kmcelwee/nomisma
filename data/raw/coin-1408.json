@@ -32,8 +32,8 @@
         "1.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1408\",\"call_number_browse\":\"Coin 1408\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1903,
     "pub_date_end_sort": 1908,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "5 Fen"
-    ],
-    "issue_number_s": [
-        "806"
     ],
     "issue_metal_s": [
         "Silver"
@@ -72,9 +69,12 @@
         "Qing Dai 29 94"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1903 to 1908"
+    ],
     "hashed_id_s": [
         "b5200a76a69c633d"
     ],
-    "_version_": 1667138211250438144,
-    "timestamp": "2020-05-19T16:48:13.969Z"
+    "_version_": 1684902975958417408,
+    "timestamp": "2020-12-01T18:51:33.811Z"
 }

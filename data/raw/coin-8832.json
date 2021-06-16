@@ -35,6 +35,12 @@
         "0.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8832\",\"call_number_browse\":\"Coin 8832\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1587,
     "pub_date_end_sort": 1608,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quattrino"
-    ],
-    "issue_number_s": [
-        "5628"
     ],
     "issue_metal_s": [
         "Mistura"
@@ -80,9 +83,12 @@
         "CNI XII, 339 313"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1587 to 1608"
+    ],
     "hashed_id_s": [
         "7fc609073cdd1b54"
     ],
-    "_version_": 1667138153298788352,
-    "timestamp": "2020-05-19T16:47:18.704Z"
+    "_version_": 1684903408119578624,
+    "timestamp": "2020-12-01T18:58:25.953Z"
 }

@@ -41,8 +41,11 @@
         "1.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9870\",\"call_number_browse\":\"Coin 9870\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1160,
     "pub_date_end_sort": 1164,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6272"
     ],
     "issue_metal_s": [
         "Billon"
@@ -105,9 +105,12 @@
         "DOC IV,p.673 1.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1160 to 1164"
+    ],
     "hashed_id_s": [
         "e992c320514fac7e"
     ],
-    "_version_": 1667138142147182592,
-    "timestamp": "2020-05-19T16:47:08.070Z"
+    "_version_": 1684903392743260160,
+    "timestamp": "2020-12-01T18:58:11.289Z"
 }

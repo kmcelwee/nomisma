@@ -35,8 +35,11 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4076\",\"call_number_browse\":\"Coin 4076\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
@@ -46,17 +49,14 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2341"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_master_s": [
         "Q. Sicinius"
-    ],
-    "issue_workshop_s": [
-        "Moving with Pompey in the East"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,7 +74,7 @@
         "Apollo"
     ],
     "issue_obverse_symbol_s": [
-        "star"
+        "star, below"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -83,13 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "hair tied; star below; border of dots"
+        "hair tied with band"
     ],
     "issue_obverse_legend_s": [
-        "Q SICINIVS | IIIVIR"
+        "Q\u00b7SICINIVS III\u00b7VIR"
     ],
     "issue_obverse_attributes_s": [
-        "star, below portrait"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Club"
@@ -98,15 +98,15 @@
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "lionskin hangs from club; to l., arrow; to r., bow; border of dots"
+        "on which hangs lion's skin with head in profile"
     ],
     "issue_reverse_legend_s": [
-        "C CO\u0393ONIVS | \u0393R S C"
+        "PR\u00b7S\u00b7C C\u00b7COPONIVS"
     ],
     "issue_reverse_attributes_s": [
-        "arrow, to left of club",
-        "lionskin, hangs on club",
-        "bow, to right of club"
+        "arrow and inscription, on l. ",
+        "bow and inscription, on r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  444/1a",
@@ -114,9 +114,12 @@
         "Sear  413"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "0e1204e80c51f2bd"
     ],
-    "_version_": 1667138404074127360,
-    "timestamp": "2020-05-19T16:51:17.862Z"
+    "_version_": 1684903574460432384,
+    "timestamp": "2020-12-01T19:01:04.588Z"
 }

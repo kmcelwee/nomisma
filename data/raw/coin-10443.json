@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6625"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,9 +92,12 @@
         "Roman Imperial Coinage  79"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "e98ab611ad4a0ddf"
     ],
-    "_version_": 1667138183133921280,
-    "timestamp": "2020-05-19T16:47:47.155Z"
+    "_version_": 1684902960374480896,
+    "timestamp": "2020-12-01T18:51:18.949Z"
 }

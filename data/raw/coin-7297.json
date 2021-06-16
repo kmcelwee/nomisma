@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-4-34"
+        "1934-05-04"
+    ],
+    "find_feature_s": [
+        "Debris from room 11, vol. 75"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
-    "find_description_s": [
-        "7-0 Debris from Rm. 11, vol. 75"
+    "find_number_s": [
+        "C2390"
     ],
     "die_axis_s": [
         "5"
@@ -47,6 +50,12 @@
         "2.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7297\",\"call_number_browse\":\"Coin 7297\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4566"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed (d. rosettes)"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINIVS MAX AVG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,17 +113,20 @@
         "two standards between them"
     ],
     "issue_reverse_legend_s": [
-        "GLOR [IA] EX ERC ITUS"
+        "GLOR-[IA] EXERC-ITVS"
     ],
     "issue_references_s": [
-        "RIC 7 693.86",
+        "RIC VII Antioch 86",
         "Cohen 7 258.254",
         "Numismatique Constantinienne 3 210.I.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "aa45862b896cfccd"
     ],
-    "_version_": 1667138256667410432,
-    "timestamp": "2020-05-19T16:48:57.284Z"
+    "_version_": 1691970989687046144,
+    "timestamp": "2021-02-17T19:14:36.968Z"
 }

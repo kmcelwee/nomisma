@@ -2,7 +2,7 @@
     "id": "coin-13720",
     "title_display": "Coin: 13720",
     "pub_created_display": [
-        "Lucius Thorius Balbus (-105 to ), denarius, Rome"
+        "denarius, Rome"
     ],
     "call_number_display": [
         "Coin 13720"
@@ -38,43 +38,43 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13720\",\"call_number_browse\":\"Coin 13720\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
+    ],
+    "pub_date_start_sort": -105,
+    "pub_date_end_sort": -105,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "8781"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
-    "issue_ruler_s": [
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_master_s": [
         "Lucius Thorius Balbus (-105 to )"
     ],
     "issue_place_s": [
-        "Rome, Italy, Roman Empire"
+        "Rome, Latium, Italy"
     ],
     "issue_city_s": [
         "Rome"
     ],
     "issue_state_s": [
-        "Italy"
+        "Latium"
     ],
     "issue_region_s": [
-        "Roman Empire"
+        "Italy"
     ],
     "issue_obverse_figure_s": [
         "Juno Sospita"
-    ],
-    "issue_obverse_symbol_s": [
-        "goat head"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -83,16 +83,19 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Border of dots"
+        "wearing goat-skin"
     ],
     "issue_obverse_legend_s": [
-        "ISMR"
+        "I\u00b7S\u00b7M\u00b7R"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Bull"
     ],
     "issue_reverse_symbol_s": [
-        "open circle"
+        "control-mark (O) above"
     ],
     "issue_reverse_part_s": [
         "charging"
@@ -100,20 +103,23 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "L. Thorius Balbus"
+        "L\u00b7THORIVS / BALBVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC 323 ",
+        "RRC  316/1",
         "Syd. 598 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-105 to -105"
+    ],
     "hashed_id_s": [
         "ac8b889e8d741957"
     ],
-    "_version_": 1667138323938803712,
-    "timestamp": "2020-05-19T16:50:01.438Z"
+    "_version_": 1684903684385800192,
+    "timestamp": "2020-12-01T19:02:49.422Z"
 }

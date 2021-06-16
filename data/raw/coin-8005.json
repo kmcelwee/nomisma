@@ -35,8 +35,11 @@
         "16.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8005\",\"call_number_browse\":\"Coin 8005\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -72,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5044"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "CNH 194 14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -72"
+    ],
     "hashed_id_s": [
         "bdc7262a5f90bbd8"
     ],
-    "_version_": 1667138348812075008,
-    "timestamp": "2020-05-19T16:50:25.159Z"
+    "_version_": 1684903248954130432,
+    "timestamp": "2020-12-01T18:55:54.160Z"
 }

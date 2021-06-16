@@ -38,6 +38,12 @@
         "1.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13381\",\"call_number_browse\":\"Coin 13381\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "748: 2018-05-15 Allen G. Berman"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "grosh"
-    ],
-    "issue_number_s": [
-        "8659"
     ],
     "issue_metal_s": [
         "Silver"
@@ -110,6 +113,6 @@
     "hashed_id_s": [
         "59fa5cb18abc7e8e"
     ],
-    "_version_": 1667138320268787712,
-    "timestamp": "2020-05-19T16:49:57.937Z"
+    "_version_": 1684903057948672000,
+    "timestamp": "2020-12-01T18:52:52.006Z"
 }

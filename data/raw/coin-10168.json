@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6350"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -91,9 +88,12 @@
         "Ash.2  1242-44"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "708 to 750"
+    ],
     "hashed_id_s": [
         "45f22b759411f03f"
     ],
-    "_version_": 1667145476146724864,
-    "timestamp": "2020-05-19T18:59:22.393Z"
+    "_version_": 1684903362424733696,
+    "timestamp": "2020-12-01T18:57:42.375Z"
 }

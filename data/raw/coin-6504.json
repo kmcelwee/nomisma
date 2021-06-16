@@ -38,8 +38,11 @@
         "7.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6504\",\"call_number_browse\":\"Coin 6504\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Dec. 1960; Lire 40,000 = $66l #172 in Dec. 1959 issue of Monete e Medaglie"
     ],
     "pub_date_start_sort": -355,
     "pub_date_end_sort": -340,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3925"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  693"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-355 to -340"
+    ],
     "hashed_id_s": [
         "727b78f82483268e"
     ],
-    "_version_": 1667138369406107648,
-    "timestamp": "2020-05-19T16:50:44.800Z"
+    "_version_": 1684903256421040128,
+    "timestamp": "2020-12-01T18:56:01.283Z"
 }

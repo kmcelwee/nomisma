@@ -68,9 +68,12 @@
         "Shield"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1300"
+    ],
     "hashed_id_s": [
         "61790489b7fd47ff"
     ],
-    "_version_": 1674261038185316352,
-    "timestamp": "2020-08-06T07:42:31.076Z"
+    "_version_": 1684903070199185408,
+    "timestamp": "2020-12-01T18:53:03.686Z"
 }

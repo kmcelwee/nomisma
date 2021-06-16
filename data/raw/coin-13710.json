@@ -35,8 +35,11 @@
         "15.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13710\",\"call_number_browse\":\"Coin 13710\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8769"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "The New Style Coinage of Athens p.324 909c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "babdcf522919011b"
     ],
-    "_version_": 1667138523932655616,
-    "timestamp": "2020-05-19T16:53:12.167Z"
+    "_version_": 1684903647956172800,
+    "timestamp": "2020-12-01T19:02:14.679Z"
 }

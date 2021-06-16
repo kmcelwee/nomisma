@@ -38,8 +38,11 @@
         "3.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7524\",\"call_number_browse\":\"Coin 7524\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "4701"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "Catalogue of Greek Coins - Peloponnesus 48 155"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "29fe12b1b7124589"
     ],
-    "_version_": 1667138189981122560,
-    "timestamp": "2020-05-19T16:47:53.685Z"
+    "_version_": 1684903430579027968,
+    "timestamp": "2020-12-01T18:58:47.372Z"
 }

@@ -56,6 +56,12 @@
         "1.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9283\",\"call_number_browse\":\"Coin 9283\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 790,
     "pub_date_end_sort": 910,
     "issue_object_type_s": [
@@ -63,9 +69,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4926"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +83,12 @@
         " \u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u0627 \\ \u0627\u0644\u0644\u0647 \u0648\u062d\u062f\u0647 \\ \u0644\u0627\u0634\u0631\u06cc\u0643 \u0644\u0647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "790 to 910"
+    ],
     "hashed_id_s": [
         "c8b26e0f594e79e3"
     ],
-    "_version_": 1667145249868218369,
-    "timestamp": "2020-05-19T18:44:22.388Z"
+    "_version_": 1684903366042320896,
+    "timestamp": "2020-12-01T18:57:45.824Z"
 }

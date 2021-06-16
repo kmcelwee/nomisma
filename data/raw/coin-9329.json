@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5947"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,6 +80,6 @@
     "hashed_id_s": [
         "d853d5af766e206d"
     ],
-    "_version_": 1667146652991881216,
-    "timestamp": "2020-05-19T19:12:25.164Z"
+    "_version_": 1684903137877426176,
+    "timestamp": "2020-12-01T18:54:08.229Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-8234",
     "title_display": "Coin: 8234",
     "pub_created_display": [
-        "Justin II (565 to 578), 40 nummi, Nicomedia"
+        "Justin II   (565 to 574), 40 nummi, Nicomedia"
     ],
     "call_number_display": [
         "Coin 8234"
@@ -50,6 +50,12 @@
         "12.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8234\",\"call_number_browse\":\"Coin 8234\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 571,
     "pub_date_end_sort": 572,
     "issue_object_type_s": [
@@ -58,14 +64,11 @@
     "issue_denomination_s": [
         "40 nummi"
     ],
-    "issue_number_s": [
-        "5245"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Justin II (565 to 578)"
+        "Justin II   (565 to 574)"
     ],
     "issue_place_s": [
         "Nicomedia, Bithynia, Byzantium"
@@ -106,9 +109,12 @@
         "BMC 87 138"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "571 to 572"
+    ],
     "hashed_id_s": [
         "c3628de41b41ea63"
     ],
-    "_version_": 1667145049398312960,
-    "timestamp": "2020-05-19T18:36:55.337Z"
+    "_version_": 1684903371612356608,
+    "timestamp": "2020-12-01T18:57:51.138Z"
 }

@@ -32,8 +32,11 @@
         "21.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1534\",\"call_number_browse\":\"Coin 1534\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1851,
     "pub_date_end_sort": 1861,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "10 Cash"
     ],
-    "issue_number_s": [
-        "927"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Xian Feng \u54b8\u8c50 (1851 to 1862)"
@@ -78,9 +81,12 @@
         " 569 1982"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1851 to 1861"
+    ],
     "hashed_id_s": [
         "51d11d5070beaae1"
     ],
-    "_version_": 1667138127891791872,
-    "timestamp": "2020-05-19T16:46:54.472Z"
+    "_version_": 1684902904367939584,
+    "timestamp": "2020-12-01T18:50:25.537Z"
 }

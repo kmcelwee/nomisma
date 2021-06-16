@@ -35,8 +35,11 @@
         "1.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13490\",\"call_number_browse\":\"Coin 13490\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8691"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,6 +86,6 @@
     "hashed_id_s": [
         "4fd44d4ed458fa53"
     ],
-    "_version_": 1667138323309658112,
-    "timestamp": "2020-05-19T16:50:00.836Z"
+    "_version_": 1684903167720947712,
+    "timestamp": "2020-12-01T18:54:36.692Z"
 }

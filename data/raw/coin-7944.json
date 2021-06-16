@@ -50,6 +50,9 @@
         "4.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7944\",\"call_number_browse\":\"Coin 7944\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 217,
     "pub_date_end_sort": 218,
     "issue_object_type_s": [
@@ -107,9 +110,12 @@
         "BMC Syria 201 408"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "217 to 218"
+    ],
     "hashed_id_s": [
         "705e1671e592efed"
     ],
-    "_version_": 1673554773579661312,
-    "timestamp": "2020-07-29T12:36:44.665Z"
+    "_version_": 1684902908714287104,
+    "timestamp": "2020-12-01T18:50:29.682Z"
 }

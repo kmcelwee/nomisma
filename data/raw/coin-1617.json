@@ -35,6 +35,12 @@
         "10.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1617\",\"call_number_browse\":\"Coin 1617\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "210: 2002-01-20 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 77,
     "pub_date_end_sort": 78,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "1073"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,9 +102,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "77 to 78"
+    ],
     "hashed_id_s": [
         "07bdbc5d47621dc9"
     ],
-    "_version_": 1667145479242121216,
-    "timestamp": "2020-05-19T19:00:52.516Z"
+    "_version_": 1684903372942999552,
+    "timestamp": "2020-12-01T18:57:52.406Z"
 }

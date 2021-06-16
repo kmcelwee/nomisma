@@ -38,8 +38,14 @@
         "0.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10787\",\"call_number_browse\":\"Coin 10787\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 03/03/2001"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6948"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Mint II (\"West\") Type Ib1/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "c4f0e14ba872a449"
     ],
-    "_version_": 1667138178551644160,
-    "timestamp": "2020-05-19T16:47:42.786Z"
+    "_version_": 1684902955770183680,
+    "timestamp": "2020-12-01T18:51:14.560Z"
 }

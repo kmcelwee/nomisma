@@ -35,8 +35,14 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10660\",\"call_number_browse\":\"Coin 10660\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 09/15/1999; 51 (665)"
     ],
     "pub_date_start_sort": 273,
     "pub_date_end_sort": 276,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6821"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style A/a Type I/1ab"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "273 to 276"
+    ],
     "hashed_id_s": [
         "776b0f33a71dd987"
     ],
-    "_version_": 1667138180425449472,
-    "timestamp": "2020-05-19T16:47:44.572Z"
+    "_version_": 1684903425734606848,
+    "timestamp": "2020-12-01T18:58:42.753Z"
 }

@@ -35,8 +35,11 @@
         "2.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6680\",\"call_number_browse\":\"Coin 6680\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -208,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "victoriatus"
     ],
-    "issue_number_s": [
-        "4100"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Italy"
@@ -68,10 +71,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate Jupiter head r."
+        "laureate"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -83,14 +86,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r., crowning trophy. Monogram between Victory and trophy. Legend in exergue."
+        "crowning trophy"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
         "border, Line border.",
-        "m4100, Monogram."
+        "VB, monogram between figures"
     ],
     "issue_references_s": [
         "RRC  95/1b",
@@ -98,9 +101,12 @@
         "Sear Volume I 51"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -208"
+    ],
     "hashed_id_s": [
         "388bc6a27aabc019"
     ],
-    "_version_": 1667138254421360640,
-    "timestamp": "2020-05-19T16:48:55.140Z"
+    "_version_": 1684903702346858496,
+    "timestamp": "2020-12-01T19:03:06.550Z"
 }

@@ -56,6 +56,9 @@
         "2.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7851\",\"call_number_browse\":\"Coin 7851\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 742,
     "pub_date_end_sort": 745,
     "issue_object_type_s": [
@@ -63,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4912"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Katalog der orientalischen M\u00fcnzen  2046"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "742 to 745"
+    ],
     "hashed_id_s": [
         "4defbf9db4fc2d77"
     ],
-    "_version_": 1667138193643798528,
-    "timestamp": "2020-05-19T16:47:57.180Z"
+    "_version_": 1684903433419620352,
+    "timestamp": "2020-12-01T18:58:50.080Z"
 }

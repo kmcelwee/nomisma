@@ -38,8 +38,11 @@
         "2.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12248\",\"call_number_browse\":\"Coin 12248\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8256"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "BMC Corinth  453"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "5078f0a86feb8a33"
     ],
-    "_version_": 1667138302792171520,
-    "timestamp": "2020-05-19T16:49:41.271Z"
+    "_version_": 1684903152897228800,
+    "timestamp": "2020-12-01T18:54:22.553Z"
 }

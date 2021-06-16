@@ -38,8 +38,12 @@
         "7.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6373\",\"call_number_browse\":\"Coin 6373\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "T. Virzi; 1958; $20 (New York), Virzi purchased  ex Hirsch",
+        "J. Hirsch"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -380,
@@ -48,9 +52,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3805"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +100,12 @@
         "F-B  457"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -380"
+    ],
     "hashed_id_s": [
         "c9cee200d5a0b1e1"
     ],
-    "_version_": 1667138375723778048,
-    "timestamp": "2020-05-19T16:50:50.826Z"
+    "_version_": 1684903553237254144,
+    "timestamp": "2020-12-01T19:00:44.346Z"
 }

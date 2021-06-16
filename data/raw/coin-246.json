@@ -35,8 +35,11 @@
         "2.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 246\",\"call_number_browse\":\"Coin 246\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 868,
     "pub_date_end_sort": 879,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "miliaresion"
-    ],
-    "issue_number_s": [
-        "128"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,15 @@
         "BN  34/Cp/AR/01"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Son of Basil 1, Constantine"
+    ],
+    "issue_date_s": [
+        "868 to 879"
+    ],
     "hashed_id_s": [
         "06ca136772c3f1c1"
     ],
-    "_version_": 1667138447635120128,
-    "timestamp": "2020-05-19T16:51:59.405Z"
+    "_version_": 1684903586714091520,
+    "timestamp": "2020-12-01T19:01:16.273Z"
 }

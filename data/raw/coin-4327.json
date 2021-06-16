@@ -35,6 +35,15 @@
         "4.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4327\",\"call_number_browse\":\"Coin 4327\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "A. H. Baldwin & Sons, Ltd., London; 1927; $2.45"
+    ],
     "pub_date_start_sort": -45,
     "pub_date_end_sort": -45,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2439"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +100,12 @@
         "Sear  461"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-45 to -45"
+    ],
     "hashed_id_s": [
         "26a893068e0771b6"
     ],
-    "_version_": 1667138495521488896,
-    "timestamp": "2020-05-19T16:52:45.073Z"
+    "_version_": 1684903630724923392,
+    "timestamp": "2020-12-01T19:01:58.245Z"
 }

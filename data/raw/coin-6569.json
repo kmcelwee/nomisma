@@ -32,16 +32,16 @@
         "65.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6569\",\"call_number_browse\":\"Coin 6569\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3983"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,9 +74,12 @@
         "Louis Desvignes, L. Desvignes"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "d9b5d7a2a057b09c"
     ],
-    "_version_": 1667138368744456192,
-    "timestamp": "2020-05-19T16:50:44.168Z"
+    "_version_": 1684903255963860992,
+    "timestamp": "2020-12-01T18:56:00.846Z"
 }

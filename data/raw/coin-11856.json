@@ -35,8 +35,11 @@
         "3.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11856\",\"call_number_browse\":\"Coin 11856\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 119,
     "pub_date_end_sort": 122,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7944"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 260 157"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "119 to 122"
+    ],
     "hashed_id_s": [
         "6ef26711ea9663fa"
     ],
-    "_version_": 1667138298753056768,
-    "timestamp": "2020-05-19T16:49:37.418Z"
+    "_version_": 1684903510792994816,
+    "timestamp": "2020-12-01T19:00:03.876Z"
 }

@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6638"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -53,13 +50,13 @@
         "Galba (68 to 69)"
     ],
     "issue_place_s": [
-        "Parium, Asia Minor, Roman Empire"
+        "Parium, Asia, Roman Empire"
     ],
     "issue_city_s": [
         "Parium"
     ],
     "issue_state_s": [
-        "Asia Minor"
+        "Asia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -101,9 +98,12 @@
         "RPC  2267"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "0ef20f3be1b7dfb6"
     ],
-    "_version_": 1667138180907794432,
-    "timestamp": "2020-05-19T16:47:45.032Z"
+    "_version_": 1684902958808956928,
+    "timestamp": "2020-12-01T18:51:17.456Z"
 }

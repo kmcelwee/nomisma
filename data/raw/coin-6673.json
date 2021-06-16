@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "stater"
     ],
-    "issue_number_s": [
-        "4093"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -83,9 +80,12 @@
         "Vlasto Coll.  673-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-302 to -231"
+    ],
     "hashed_id_s": [
         "a20af21273f193eb"
     ],
-    "_version_": 1667145141969747968,
-    "timestamp": "2020-05-19T18:43:21.722Z"
+    "_version_": 1684903368084946944,
+    "timestamp": "2020-12-01T18:57:47.773Z"
 }

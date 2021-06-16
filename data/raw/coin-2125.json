@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "1165"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -85,9 +82,12 @@
         "Sear  1864"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 41"
+    ],
     "hashed_id_s": [
         "ac016af11ba10e7c"
     ],
-    "_version_": 1667145456607559680,
-    "timestamp": "2020-05-19T18:43:23.680Z"
+    "_version_": 1684903376520740864,
+    "timestamp": "2020-12-01T18:57:55.816Z"
 }

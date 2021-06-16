@@ -32,6 +32,9 @@
         "84x68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3820\",\"call_number_browse\":\"Coin 3820\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "15 shillings"
-    ],
-    "issue_number_s": [
-        "2218"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +78,12 @@
         "Shafer & Cuhaj p. 1149 S2555"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "b0ed34bfa5c32fae"
     ],
-    "_version_": 1667138442060890112,
-    "timestamp": "2020-05-19T16:51:54.090Z"
+    "_version_": 1684903287831134208,
+    "timestamp": "2020-12-01T18:56:31.238Z"
 }

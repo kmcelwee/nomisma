@@ -35,8 +35,11 @@
         "12.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1207\",\"call_number_browse\":\"Coin 1207\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "148:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 66,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "652"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -105,9 +105,12 @@
         "Sear  1970"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 66"
+    ],
     "hashed_id_s": [
         "08e940c7e1b4ee58"
     ],
-    "_version_": 1667138460371124224,
-    "timestamp": "2020-05-19T16:52:11.550Z"
+    "_version_": 1684903221217198080,
+    "timestamp": "2020-12-01T18:55:27.709Z"
 }

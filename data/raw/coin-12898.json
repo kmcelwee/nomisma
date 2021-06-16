@@ -38,6 +38,12 @@
         "3.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12898\",\"call_number_browse\":\"Coin 12898\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 78,
     "pub_date_end_sort": 105,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8452"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +99,12 @@
         "Shore  77.8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "78 to 105"
+    ],
     "hashed_id_s": [
         "6b8cc18fe3e8d0f0"
     ],
-    "_version_": 1667138313441509376,
-    "timestamp": "2020-05-19T16:49:51.425Z"
+    "_version_": 1684903518634246144,
+    "timestamp": "2020-12-01T19:00:11.348Z"
 }

@@ -35,16 +35,13 @@
         "79.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7174\",\"call_number_browse\":\"Coin 7174\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_accession_s": [
+        "530: 2009-10-01 Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "star"
-    ],
-    "issue_number_s": [
-        "4492"
     ],
     "issue_metal_s": [
         "Gilt silver"
@@ -89,6 +86,6 @@
     "hashed_id_s": [
         "cc104086e9cad4c9"
     ],
-    "_version_": 1667138127962046464,
-    "timestamp": "2020-05-19T16:46:54.541Z"
+    "_version_": 1684903340284051456,
+    "timestamp": "2020-12-01T18:57:21.260Z"
 }

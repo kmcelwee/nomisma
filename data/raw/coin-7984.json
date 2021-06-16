@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "6/16/1937"
@@ -50,6 +50,12 @@
         "2.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7984\",\"call_number_browse\":\"Coin 7984\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -139,
     "pub_date_end_sort": -129,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5020"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,10 +103,16 @@
     "issue_reverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0395\u03a5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03a5 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
     ],
+    "issue_references_s": [
+        "H & L  2068"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-139 to -129"
+    ],
     "hashed_id_s": [
         "b90cca1e604f33db"
     ],
-    "_version_": 1670005667329474560,
-    "timestamp": "2020-06-20T08:25:13.190Z"
+    "_version_": 1684902892757057536,
+    "timestamp": "2020-12-01T18:50:14.466Z"
 }

@@ -32,8 +32,11 @@
         "5.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5502\",\"call_number_browse\":\"Coin 5502\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1333,
     "pub_date_end_sort": 1368,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3100"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -63,9 +63,12 @@
         "Hartill 231 19.99"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1333 to 1368"
+    ],
     "hashed_id_s": [
         "ce67bddd706473ad"
     ],
-    "_version_": 1667138248225325056,
-    "timestamp": "2020-05-19T16:48:49.230Z"
+    "_version_": 1684903009353465856,
+    "timestamp": "2020-12-01T18:52:05.660Z"
 }

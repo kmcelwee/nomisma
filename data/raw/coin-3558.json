@@ -35,6 +35,12 @@
         "3.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3558\",\"call_number_browse\":\"Coin 3558\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "382: 1985-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "2079"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -91,9 +94,12 @@
         "Augustus  1186"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "637756b4f7c2782d"
     ],
-    "_version_": 1667138482418483200,
-    "timestamp": "2020-05-19T16:52:32.577Z"
+    "_version_": 1684903304605204480,
+    "timestamp": "2020-12-01T18:56:47.234Z"
 }

@@ -35,6 +35,15 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4952\",\"call_number_browse\":\"Coin 4952\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1929; $14"
+    ],
     "pub_date_start_sort": -52,
     "pub_date_end_sort": -52,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2734"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Vinicius"
@@ -74,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; border of dots"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "CONCORDIAE"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -88,11 +100,12 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Victory walking or flying r.; carries palm branch with four wreaths; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "L VINICI"
+        "L\u00b7VINCI"
+    ],
+    "issue_reverse_attributes_s": [
+        "palm-branch decorated with four wreaths, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  436/1",
@@ -100,9 +113,12 @@
         "Sear  402"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-52 to -52"
+    ],
     "hashed_id_s": [
         "bd16b94a75d6174d"
     ],
-    "_version_": 1667138243288629248,
-    "timestamp": "2020-05-19T16:48:44.525Z"
+    "_version_": 1684903671374020608,
+    "timestamp": "2020-12-01T19:02:37.012Z"
 }

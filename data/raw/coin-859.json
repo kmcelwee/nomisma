@@ -35,8 +35,11 @@
         "3.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 859\",\"call_number_browse\":\"Coin 859\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -25,
     "pub_date_end_sort": -16,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "351"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "RIC Augustus 84/257"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-25 to -16"
+    ],
     "hashed_id_s": [
         "1cf18719287ebdbc"
     ],
-    "_version_": 1667145481608757248,
-    "timestamp": "2020-05-19T18:51:23.380Z"
+    "_version_": 1684903354077020160,
+    "timestamp": "2020-12-01T18:57:34.414Z"
 }

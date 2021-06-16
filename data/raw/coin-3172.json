@@ -35,8 +35,11 @@
         "10.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3172\",\"call_number_browse\":\"Coin 3172\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 1030,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1440"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "BMC.Byz. 477 (Class I) 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "c3239e5b8a144246"
     ],
-    "_version_": 1667138219719786496,
-    "timestamp": "2020-05-19T16:48:22.046Z"
+    "_version_": 1684902994156453888,
+    "timestamp": "2020-12-01T18:51:51.166Z"
 }

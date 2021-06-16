@@ -38,6 +38,9 @@
         "2.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6558\",\"call_number_browse\":\"Coin 6558\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1280,
     "pub_date_end_sort": 1297,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "asper"
-    ],
-    "issue_number_s": [
-        "3969"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Sear  2608"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1280 to 1297"
+    ],
     "hashed_id_s": [
         "08d4aa6aecfeadf5"
     ],
-    "_version_": 1667138365887086592,
-    "timestamp": "2020-05-19T16:50:41.442Z"
+    "_version_": 1696054378627072000,
+    "timestamp": "2021-04-03T20:58:20.145Z"
 }

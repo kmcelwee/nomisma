@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment; half coin.  Size: 21 mm.  Weight: 1.93. Die axis indeterminate. The obverse and reverse are completely obliterated so that neither side can be identified. Fragment varies in thickness from 4 mm to just under 2 mm."
+        "Fragment; half coin. The obverse and reverse are completely obliterated, so that neither side can be identified. Fragment varies in thickness from 4 mm to just under 2 mm."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,29 @@
     "find_date_s": [
         "05/23/1936"
     ],
-    "find_feature_s": [
-        "Dig IV, West 2"
-    ],
     "find_locus_s": [
-        "16-P"
+        "A 16-P"
     ],
     "find_description_s": [
-        "-6.50"
+        "Dig IV, West 2, to 6.5m"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "1.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5412\",\"call_number_browse\":\"Coin 5412\"}}",
-    "pub_date_start_sort": 27,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
         "coin"
@@ -52,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3039"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -77,15 +89,21 @@
         "Head"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head, of a generic Julio Claudian type"
+        "of a generic Julio Claudian type"
     ],
     "issue_reverse_figure_description_s": [
         "none (see notes)"
     ],
+    "issue_references_s": [
+        "Waage  869v"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "00fd1fc4da07a988"
     ],
-    "_version_": 1667138247617150976,
-    "timestamp": "2020-05-19T16:48:48.654Z"
+    "_version_": 1684902889730867200,
+    "timestamp": "2020-12-01T18:50:11.578Z"
 }

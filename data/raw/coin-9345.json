@@ -35,8 +35,8 @@
         "18.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9345\",\"call_number_browse\":\"Coin 9345\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 562,
     "pub_date_end_sort": 563,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5965"
     ],
     "issue_metal_s": [
         "Copper"
@@ -101,9 +98,12 @@
         "MIB Justinian I 150"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "562 to 563"
+    ],
     "hashed_id_s": [
         "a8f796499c0d905f"
     ],
-    "_version_": 1667138145961902080,
-    "timestamp": "2020-05-19T16:47:11.707Z"
+    "_version_": 1684903398903644160,
+    "timestamp": "2020-12-01T18:58:17.164Z"
 }

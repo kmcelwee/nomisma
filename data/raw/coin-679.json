@@ -35,8 +35,11 @@
         "3.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 679\",\"call_number_browse\":\"Coin 679\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -27,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "286"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,18 @@
         "RIC.1. Augustus 26"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Venus",
+        "Category, helmet",
+        "Category, sceptre",
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-34 to -27"
+    ],
     "hashed_id_s": [
         "17c55ce1700708b4"
     ],
-    "_version_": 1667138405704663040,
-    "timestamp": "2020-05-19T16:51:19.417Z"
+    "_version_": 1684903179809980416,
+    "timestamp": "2020-12-01T18:54:48.219Z"
 }

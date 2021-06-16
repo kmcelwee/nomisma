@@ -35,6 +35,12 @@
         "13.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1176\",\"call_number_browse\":\"Coin 1176\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "152: 1991-01-01 Spink"
+    ],
     "pub_date_start_sort": -18,
     "pub_date_end_sort": -17,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "624"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +107,12 @@
         "Archaic Monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"Archaic Monogram\",\"document_id\":\"d37ce553-a6ae-48ad-8ded-00cc8de9f9ed\"}]",
+    "issue_date_s": [
+        "-18 to -17"
+    ],
     "hashed_id_s": [
         "5540ef02af838af5"
     ],
-    "_version_": 1667138208555597824,
-    "timestamp": "2020-05-19T16:48:11.401Z"
+    "_version_": 1684903435139284992,
+    "timestamp": "2020-12-01T18:58:51.720Z"
 }

@@ -35,8 +35,11 @@
         "5.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13697\",\"call_number_browse\":\"Coin 13697\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -149,
     "pub_date_end_sort": -147,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8760"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,12 +101,15 @@
         "grain ear, on outer left"
     ],
     "issue_references_s": [
-        "H & L II,v.I,p.225 1790.2"
+        "H & L II,v.I,p.225 1790.4a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-149 to -147"
+    ],
     "hashed_id_s": [
         "35ad60d816a15f7b"
     ],
-    "_version_": 1667138520881299456,
-    "timestamp": "2020-05-19T16:53:09.257Z"
+    "_version_": 1684903335842283520,
+    "timestamp": "2020-12-01T18:57:17.027Z"
 }

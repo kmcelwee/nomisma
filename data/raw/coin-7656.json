@@ -35,8 +35,11 @@
         "2.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7656\",\"call_number_browse\":\"Coin 7656\"}}",
-    "donor_s": [
-        "Edward Newell"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "612:  Edward Newell"
     ],
     "pub_date_start_sort": -192,
     "pub_date_end_sort": -146,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "4784"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "Catalogue of Greek Coins - Peloponnesus 8 85"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-192 to -146"
+    ],
     "hashed_id_s": [
         "039e297966b4cf51"
     ],
-    "_version_": 1667138350841069568,
-    "timestamp": "2020-05-19T16:50:27.095Z"
+    "_version_": 1684903249076813824,
+    "timestamp": "2020-12-01T18:55:54.277Z"
 }

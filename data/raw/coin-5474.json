@@ -38,8 +38,11 @@
         "8.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5474\",\"call_number_browse\":\"Coin 5474\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; 2/1959; Lire 18,000"
     ],
     "pub_date_start_sort": -440,
     "pub_date_end_sort": -425,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3082"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Vlasto, Taras  43A."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-440 to -425"
+    ],
     "hashed_id_s": [
         "c7f7d5fc003785c3"
     ],
-    "_version_": 1667138397061251072,
-    "timestamp": "2020-05-19T16:51:11.175Z"
+    "_version_": 1684903569921146880,
+    "timestamp": "2020-12-01T19:01:00.259Z"
 }

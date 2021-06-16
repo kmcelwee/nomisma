@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/19/1939"
+        "1939-04-19"
     ],
     "find_feature_s": [
-        "From stratum of sherds & tile over room 4."
+        "[None recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "Cc616"
+        "Cc0616"
     ],
     "die_axis_s": [
         "11"
@@ -50,6 +50,12 @@
         "1.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12134\",\"call_number_browse\":\"Coin 12134\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4581"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,17 +113,20 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 697.108",
+        "RIC VII Antioch 108",
         "Cohen 7 257.244",
         "Numismatique Constantinienne 3 212.II.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "e6d5d8d31fed258b"
     ],
-    "_version_": 1667138257296556032,
-    "timestamp": "2020-05-19T16:48:57.885Z"
+    "_version_": 1691339412333395968,
+    "timestamp": "2021-02-10T19:55:57.869Z"
 }

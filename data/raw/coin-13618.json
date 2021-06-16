@@ -35,13 +35,13 @@
         "2.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13618\",\"call_number_browse\":\"Coin 13618\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8720"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "f7e4230cb347949b"
     ],
-    "_version_": 1667138322575654912,
-    "timestamp": "2020-05-19T16:50:00.138Z"
+    "_version_": 1684903061562064896,
+    "timestamp": "2020-12-01T18:52:55.448Z"
 }

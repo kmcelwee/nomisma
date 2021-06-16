@@ -38,6 +38,12 @@
         "1.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8888\",\"call_number_browse\":\"Coin 8888\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1332,
     "pub_date_end_sort": 1335,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quattrino da denari 4"
-    ],
-    "issue_number_s": [
-        "5654"
     ],
     "issue_metal_s": [
         "Mistura"
@@ -92,9 +95,12 @@
         "Le Monete Della Repubblica Fiorentina II, 61 630"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1332 to 1335"
+    ],
     "hashed_id_s": [
         "2ac7bb95a25a215d"
     ],
-    "_version_": 1667138151346339840,
-    "timestamp": "2020-05-19T16:47:16.842Z"
+    "_version_": 1684903405921763328,
+    "timestamp": "2020-12-01T18:58:23.857Z"
 }

@@ -64,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5955"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +83,12 @@
         "within circle blundered central legend in three lines; marginal legend"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "912 to 1203"
+    ],
     "hashed_id_s": [
         "39993e1c2ad18733"
     ],
-    "_version_": 1667144985542131712,
-    "timestamp": "2020-05-19T18:35:54.437Z"
+    "_version_": 1684903022592786432,
+    "timestamp": "2020-12-01T18:52:18.284Z"
 }

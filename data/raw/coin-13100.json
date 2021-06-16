@@ -38,6 +38,12 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13100\",\"call_number_browse\":\"Coin 13100\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -54,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8520"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "Sellwood  40.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -54"
+    ],
     "hashed_id_s": [
         "64d2740446e76c2a"
     ],
-    "_version_": 1667138316694192128,
-    "timestamp": "2020-05-19T16:49:54.529Z"
+    "_version_": 1684903520182992896,
+    "timestamp": "2020-12-01T19:00:12.824Z"
 }

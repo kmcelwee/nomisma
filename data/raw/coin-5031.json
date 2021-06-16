@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "6 Pence"
     ],
-    "issue_number_s": [
-        "2786"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,6 +75,6 @@
     "hashed_id_s": [
         "56cfdc293c6da06c"
     ],
-    "_version_": 1667138243794042880,
-    "timestamp": "2020-05-19T16:48:45.005Z"
+    "_version_": 1684903416977948672,
+    "timestamp": "2020-12-01T18:58:34.401Z"
 }

@@ -35,8 +35,14 @@
         "4.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11055\",\"call_number_browse\":\"Coin 11055\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Indus Numismatic Gallery; 12/02/2010"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7216"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 3 MY Type IIa/1e"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "bf5a5a763f5d4258"
     ],
-    "_version_": 1667138167970463744,
-    "timestamp": "2020-05-19T16:47:32.694Z"
+    "_version_": 1684902928631988224,
+    "timestamp": "2020-12-01T18:50:48.677Z"
 }

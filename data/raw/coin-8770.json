@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "nomisma histamenon"
     ],
-    "issue_number_s": [
-        "5572"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -103,9 +100,12 @@
         "BL Michael VII 55/Cp/AU/11-13v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "12bfbaaf48404c4e"
     ],
-    "_version_": 1667138181723586560,
-    "timestamp": "2020-05-19T16:47:45.811Z"
+    "_version_": 1684903417373261824,
+    "timestamp": "2020-12-01T18:58:34.779Z"
 }

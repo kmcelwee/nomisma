@@ -35,16 +35,22 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4106\",\"call_number_browse\":\"Coin 4106\"}}",
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "A. H. Baldwin & Sons, Ltd., London; 1927; $1.20"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2357"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wreathed in ivy; border of dots"
+        "wearing ivy-wreath"
     ],
     "issue_obverse_legend_s": [
-        "\u0393ANSA"
+        "PANSA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Ceres"
@@ -89,13 +98,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "in biga drawn by snakes; holds torch in l. hand and reins in r. hand; legend upwards"
+        "in biga drawn by snakes; holding torch in l. hand and reins in r. hand; legend upwards"
     ],
     "issue_reverse_legend_s": [
-        "C VIBIVS C F C N"
+        "C.VIBIVS.C.F.C.N"
     ],
     "issue_reverse_attributes_s": [
-        "torch, held in l. hand"
+        "torch, held in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  449/3a",
@@ -103,9 +113,12 @@
         "Sear  422"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "e1be2db33a568677"
     ],
-    "_version_": 1667138490283851776,
-    "timestamp": "2020-05-19T16:52:40.078Z"
+    "_version_": 1684903235280699392,
+    "timestamp": "2020-12-01T18:55:41.120Z"
 }

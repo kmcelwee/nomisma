@@ -35,6 +35,9 @@
         "2.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5130\",\"call_number_browse\":\"Coin 5130\"}}",
+    "numismatic_collection_s": [
+        "Holzer"
+    ],
     "pub_date_start_sort": 1726,
     "pub_date_end_sort": 1726,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 real"
-    ],
-    "issue_number_s": [
-        "2841"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Cast\u00e1n y Cay\u00f3n  7609"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1726 to 1726"
+    ],
     "hashed_id_s": [
         "c880d2965bb2f5f4"
     ],
-    "_version_": 1667138245203329024,
-    "timestamp": "2020-05-19T16:48:46.349Z"
+    "_version_": 1684903468028919808,
+    "timestamp": "2020-12-01T18:59:23.087Z"
 }

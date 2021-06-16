@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10261\",\"call_number_browse\":\"Coin 10261\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 734,
     "pub_date_end_sort": 800,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4972"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -65,9 +65,12 @@
         "\u0627\u0644\u0644\u0647 \u0627\u062d\u062f/ *** \u0627\u0644\u0644\u0647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "734 to 800"
+    ],
     "hashed_id_s": [
         "218ddcf36176efd5"
     ],
-    "_version_": 1667145060466032640,
-    "timestamp": "2020-05-19T18:37:05.891Z"
+    "_version_": 1684903131329069056,
+    "timestamp": "2020-12-01T18:54:01.985Z"
 }

@@ -35,13 +35,13 @@
         "29.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6226\",\"call_number_browse\":\"Coin 6226\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3673"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Joseph Roettiers, R"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Capture of Dunkirk    "
+    ],
     "hashed_id_s": [
         "b26e2d4fd085e867"
     ],
-    "_version_": 1667138373718900736,
-    "timestamp": "2020-05-19T16:50:48.913Z"
+    "_version_": 1684903551563726848,
+    "timestamp": "2020-12-01T19:00:42.751Z"
 }

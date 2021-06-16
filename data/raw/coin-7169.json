@@ -46,9 +46,6 @@
     "issue_object_type_s": [
         "star"
     ],
-    "issue_number_s": [
-        "4489"
-    ],
     "issue_metal_s": [
         "Gilt silver"
     ],
@@ -86,6 +83,6 @@
     "hashed_id_s": [
         "2bb066657039c410"
     ],
-    "_version_": 1667138515723354112,
-    "timestamp": "2020-05-19T16:53:04.338Z"
+    "_version_": 1683105262005649408,
+    "timestamp": "2020-11-11T22:37:40.185Z"
 }

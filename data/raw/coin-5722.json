@@ -35,6 +35,15 @@
         "3.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5722\",\"call_number_browse\":\"Coin 5722\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; Henry C. Miller; 1920; 90\u00a2"
+    ],
     "pub_date_start_sort": -62,
     "pub_date_end_sort": -62,
     "issue_object_type_s": [
@@ -43,14 +52,14 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3266"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_master_s": [
-        "L.? Scribonius Libo"
+        "L. Scribonius Libo "
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -73,23 +82,29 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head of Bonus Eventus r.; border of dots"
-    ],
     "issue_obverse_legend_s": [
-        "behind, LIBO; before, BON EVENT"
+        "LIBO BON\u00b7EVENT"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Puteal Scribonianum"
+    ],
+    "issue_reverse_symbol_s": [
+        "hammer at base"
     ],
     "issue_reverse_orientation_s": [
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "Puteal Scribonianum, with garland and two lyres; hammer at base; border of dots"
+        "decorated with garland and two lyres"
     ],
     "issue_reverse_legend_s": [
-        "above, \u0393VTEAL; below, SCRIBON"
+        "PVTEAL SCRIBON"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  416/1a",
@@ -97,9 +112,12 @@
         "Sear  367"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-62 to -62"
+    ],
     "hashed_id_s": [
         "73394086e35a8a9d"
     ],
-    "_version_": 1667138386684542976,
-    "timestamp": "2020-05-19T16:51:01.278Z"
+    "_version_": 1684903561532538880,
+    "timestamp": "2020-12-01T19:00:52.260Z"
 }

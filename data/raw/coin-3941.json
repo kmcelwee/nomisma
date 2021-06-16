@@ -31,17 +31,14 @@
     "find_date_s": [
         "5/18/1939"
     ],
-    "find_feature_s": [
-        "Trench 13: West Extension. Below mosaic level"
-    ],
     "find_locus_s": [
-        "13-R (NORTH)"
+        "A 13-R (N.)"
     ],
     "find_number_s": [
         "Cc1413"
     ],
     "find_description_s": [
-        "Feature (con't): in plundered strata (A1)"
+        "Trench 13, W. extension, below mosaic level in plundered strata (A1)"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "6.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3941\",\"call_number_browse\":\"Coin 3941\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -61,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2265"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -95,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -109,16 +112,16 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above"
-    ],
     "issue_references_s": [
         "RPC.1  4266, 4268-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "5 to 14"
+    ],
     "hashed_id_s": [
         "c013a4f091d87627"
     ],
-    "_version_": 1667138486578184192,
-    "timestamp": "2020-05-19T16:52:36.543Z"
+    "_version_": 1684903621288787968,
+    "timestamp": "2020-12-01T19:01:49.247Z"
 }

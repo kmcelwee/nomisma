@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2036\",\"call_number_browse\":\"Coin 2036\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 492,
     "pub_date_end_sort": 507,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "tremissis"
-    ],
-    "issue_number_s": [
-        "842"
     ],
     "issue_metal_s": [
         "Gold"
@@ -98,9 +98,12 @@
         "BL Anastasius 22v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "492 to 507"
+    ],
     "hashed_id_s": [
         "89a7991258d6bdf0"
     ],
-    "_version_": 1667146147499606016,
-    "timestamp": "2020-05-19T19:10:01.865Z"
+    "_version_": 1684903351261593600,
+    "timestamp": "2020-12-01T18:57:31.731Z"
 }

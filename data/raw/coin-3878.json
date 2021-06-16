@@ -35,6 +35,15 @@
         "11.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3878\",\"call_number_browse\":\"Coin 3878\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Rodolfo Ratto; Schulman; 1930; $8.25"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -31,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "2242"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +102,12 @@
         "Grierson studies pp.30-31 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -31"
+    ],
     "hashed_id_s": [
         "019c75dca1d9685a"
     ],
-    "_version_": 1667138443912675328,
-    "timestamp": "2020-05-19T16:51:55.856Z"
+    "_version_": 1684903288819941376,
+    "timestamp": "2020-12-01T18:56:32.181Z"
 }

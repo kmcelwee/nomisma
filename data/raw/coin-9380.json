@@ -38,8 +38,11 @@
         "4.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9380\",\"call_number_browse\":\"Coin 9380\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1185,
     "pub_date_end_sort": 1195,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "6000"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BL Vol. 2; Issac II Ange 64/Cp/AU/01-03"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1185 to 1195"
+    ],
     "hashed_id_s": [
         "22d10144e6d65bae"
     ],
-    "_version_": 1667138275153805312,
-    "timestamp": "2020-05-19T16:49:14.912Z"
+    "_version_": 1684903493455839232,
+    "timestamp": "2020-12-01T18:59:47.335Z"
 }

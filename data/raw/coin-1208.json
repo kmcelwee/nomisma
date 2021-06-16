@@ -35,8 +35,11 @@
         "9.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1208\",\"call_number_browse\":\"Coin 1208\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": 65,
     "pub_date_end_sort": 65,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "653"
     ],
     "issue_metal_s": [
         "Copper"
@@ -104,9 +104,12 @@
         "Sear  1976v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "65 to 65"
+    ],
     "hashed_id_s": [
         "e88687bda8f89c0d"
     ],
-    "_version_": 1667138209325252608,
-    "timestamp": "2020-05-19T16:48:12.134Z"
+    "_version_": 1684902973480632320,
+    "timestamp": "2020-12-01T18:51:31.448Z"
 }

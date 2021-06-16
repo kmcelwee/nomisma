@@ -35,6 +35,9 @@
         "4.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 882\",\"call_number_browse\":\"Coin 882\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -319,
     "pub_date_end_sort": -305,
     "issue_object_type_s": [
@@ -96,9 +99,12 @@
         "Price  1970"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-319 to -305"
+    ],
     "hashed_id_s": [
         "7b061baf8ec88ad6"
     ],
-    "_version_": 1672996139334369280,
-    "timestamp": "2020-07-23T08:37:29.548Z"
+    "_version_": 1684903092957478912,
+    "timestamp": "2020-12-01T18:53:25.390Z"
 }

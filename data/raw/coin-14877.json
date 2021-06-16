@@ -35,8 +35,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14877\",\"call_number_browse\":\"Coin 14877\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "686:  unknown"
     ],
     "pub_date_start_sort": -90,
     "pub_date_end_sort": -79,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9137"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "Syd.  621"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-90 to -79"
+    ],
     "hashed_id_s": [
         "778c82284fc1d8dd"
     ],
-    "_version_": 1667232669400825856,
-    "timestamp": "2020-05-20T17:49:36.283Z"
+    "_version_": 1684903339855183872,
+    "timestamp": "2020-12-01T18:57:20.850Z"
 }

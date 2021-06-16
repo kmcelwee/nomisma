@@ -35,8 +35,11 @@
         "14.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13352\",\"call_number_browse\":\"Coin 13352\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadruple"
-    ],
-    "issue_number_s": [
-        "8615"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,7 +86,7 @@
         "with laurel in archaizing severe style, hair rolled behind, long locks falling down neck in dotted border"
     ],
     "issue_obverse_attributes_s": [
-        ""
+        "monogram, behind head"
     ],
     "issue_reverse_figure_s": [
         "Apollo"
@@ -102,19 +102,23 @@
     ],
     "issue_reverse_attributes_s": [
         "arrow, in r. hand",
-        "elbow, resting on tall tripod"
+        "elbow, resting on tall tripod",
+        "\u0394, in inner l. field"
     ],
     "issue_references_s": [
-        "H & L II, 15 1315.6"
+        "H & L II, 15 1315.6h"
     ],
     "issue_monogram_title_s": [
         "Control mark",
         "^B"
     ],
     "issue_monogram_1display": "[{\"title\":\"Control mark\",\"document_id\":\"007577aa-f3be-4433-bb06-538270b23ba0\"},{\"title\":\"^B\",\"document_id\":\"ab05201f-f971-4b74-9920-98fbb9309e99\"}]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "6583b3c720fe7d90"
     ],
-    "_version_": 1667138517428338688,
-    "timestamp": "2020-05-19T16:53:05.963Z"
+    "_version_": 1684903645871603712,
+    "timestamp": "2020-12-01T19:02:12.696Z"
 }

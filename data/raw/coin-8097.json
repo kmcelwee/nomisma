@@ -35,8 +35,11 @@
         "6.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8097\",\"call_number_browse\":\"Coin 8097\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -100,
     "pub_date_end_sort": 50,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "5128"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "CNH 410 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-100 to 50"
+    ],
     "hashed_id_s": [
         "411371c04f835465"
     ],
-    "_version_": 1667138194608488448,
-    "timestamp": "2020-05-19T16:47:58.098Z"
+    "_version_": 1684903071014977536,
+    "timestamp": "2020-12-01T18:53:04.465Z"
 }

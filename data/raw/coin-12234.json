@@ -38,8 +38,11 @@
         "2.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12234\",\"call_number_browse\":\"Coin 12234\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8246"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "BMC Corinth  448"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "29b8970701f36ef8"
     ],
-    "_version_": 1667138302484938752,
-    "timestamp": "2020-05-19T16:49:40.977Z"
+    "_version_": 1684903152500867072,
+    "timestamp": "2020-12-01T18:54:22.176Z"
 }

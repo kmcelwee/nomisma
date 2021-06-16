@@ -35,6 +35,15 @@
         "3.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5735\",\"call_number_browse\":\"Coin 5735\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1928; $12"
+    ],
     "pub_date_start_sort": -61,
     "pub_date_end_sort": -61,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3273"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Aemilius Lepidus ( to -13)"
@@ -65,7 +74,7 @@
         "Italy"
     ],
     "issue_obverse_figure_s": [
-        "Female figure"
+        "Alexandria"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -74,13 +83,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Female head r., with turreted diadem; border of dots"
+        "wearing turreted diadem"
     ],
     "issue_obverse_legend_s": [
         "ALEXANDREA"
     ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
+    ],
     "issue_reverse_figure_s": [
-        "Male figure"
+        "Togate figure"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -89,10 +101,13 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "togate figure standing l., crowning figure wearing chiton and holding staff; border of dots"
+        "on right, crowning figure on left, who wears chiton and holds staff"
     ],
     "issue_reverse_legend_s": [
-        "to r., PONTIF MAX (NTIF in monogram); to l., TVTOR REG; above, SC | M LEPIDVS"
+        "PONF\u00b7MAX TVTOR\u00b7REG S\u00b7C M\u00b7LEPIDVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  419/2",
@@ -100,9 +115,12 @@
         "Sear  373"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-61 to -61"
+    ],
     "hashed_id_s": [
         "3841d13c0ccb34cd"
     ],
-    "_version_": 1667138387864190976,
-    "timestamp": "2020-05-19T16:51:02.403Z"
+    "_version_": 1684903140371988480,
+    "timestamp": "2020-12-01T18:54:10.608Z"
 }

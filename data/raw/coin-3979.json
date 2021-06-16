@@ -35,8 +35,8 @@
         "17.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3979\",\"call_number_browse\":\"Coin 3979\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2284"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +96,12 @@
         " Justin I 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "4923484f72fd1a36"
     ],
-    "_version_": 1667138230181429248,
-    "timestamp": "2020-05-19T16:48:32.024Z"
+    "_version_": 1684903456755679232,
+    "timestamp": "2020-12-01T18:59:12.337Z"
 }

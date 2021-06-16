@@ -35,16 +35,13 @@
         "2.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7095\",\"call_number_browse\":\"Coin 7095\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_accession_s": [
+        "531:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 641,
     "pub_date_end_sort": 668,
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "4406"
     ],
     "issue_metal_s": [
         "Gold"
@@ -93,9 +90,12 @@
         "Sear page 206 983"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "641 to 668"
+    ],
     "hashed_id_s": [
         "24edfa962a86a8f5"
     ],
-    "_version_": 1667138360483774464,
-    "timestamp": "2020-05-19T16:50:36.291Z"
+    "_version_": 1684903521340620800,
+    "timestamp": "2020-12-01T19:00:13.929Z"
 }

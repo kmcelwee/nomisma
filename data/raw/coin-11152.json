@@ -38,8 +38,14 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11152\",\"call_number_browse\":\"Coin 11152\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Bassem Daou; 07/18/2001"
     ],
     "pub_date_start_sort": 578,
     "pub_date_end_sort": 590,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7313"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SN  NAL/WAL Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "578 to 590"
+    ],
     "hashed_id_s": [
         "493048260f50329d"
     ],
-    "_version_": 1667138170797424640,
-    "timestamp": "2020-05-19T16:47:35.391Z"
+    "_version_": 1684902929904959488,
+    "timestamp": "2020-12-01T18:50:49.892Z"
 }

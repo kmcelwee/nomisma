@@ -35,6 +35,9 @@
         "3.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6943\",\"call_number_browse\":\"Coin 6943\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 pfennig"
-    ],
-    "issue_number_s": [
-        "3336"
     ],
     "issue_metal_s": [
         "Copper"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "dd69382590a96345"
     ],
-    "_version_": 1667145228889358337,
-    "timestamp": "2020-05-19T18:40:00.898Z"
+    "_version_": 1684903121537466368,
+    "timestamp": "2020-12-01T18:53:52.647Z"
 }

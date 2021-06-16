@@ -35,8 +35,11 @@
         "0.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2325\",\"call_number_browse\":\"Coin 2325\"}}",
-    "donor_s": [
-        "Katharine S. Pearce"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "59:  Katharine S. Pearce"
     ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -261,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "1495"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,9 +97,16 @@
         "ESM  525"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, lyre"
+    ],
+    "issue_date_s": [
+        "-278 to -261"
+    ],
     "hashed_id_s": [
         "52c65a4ba3a574ab"
     ],
-    "_version_": 1667138116134109184,
-    "timestamp": "2020-05-19T16:46:43.259Z"
+    "_version_": 1684902961764892672,
+    "timestamp": "2020-12-01T18:51:20.275Z"
 }

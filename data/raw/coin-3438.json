@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "1 shilling"
     ],
-    "issue_number_s": [
-        "2033"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -84,9 +81,13 @@
         "Shafer & Cuhaj p. 1131 S1818"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "93192deabaf5b1a3"
     ],
-    "_version_": 1667138164788035584,
-    "timestamp": "2020-05-19T16:47:29.660Z"
+    "_version_": 1684903421632577536,
+    "timestamp": "2020-12-01T18:58:38.841Z"
 }

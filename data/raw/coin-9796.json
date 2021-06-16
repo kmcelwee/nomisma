@@ -53,6 +53,9 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9796\",\"call_number_browse\":\"Coin 9796\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -61,9 +64,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6182"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -71,13 +71,13 @@
         "Constantine I (306 to 337)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -120,9 +120,12 @@
         "Waage p120 1442"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 315"
+    ],
     "hashed_id_s": [
         "1b2a11f0ce0a4f16"
     ],
-    "_version_": 1667138137886818304,
-    "timestamp": "2020-05-19T16:47:04.007Z"
+    "_version_": 1684903386688782336,
+    "timestamp": "2020-12-01T18:58:05.516Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-9477",
     "title_display": "Coin: 9477",
     "pub_created_display": [
-        "Tiberius, as, Corinth"
+        "Tiberius   (14 to 37), as, Corinth"
     ],
     "call_number_display": [
         "Coin 9477"
@@ -35,8 +35,8 @@
         "7.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9477\",\"call_number_browse\":\"Coin 9477\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 32,
     "pub_date_end_sort": 34,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6072"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Corinth, Achaea, Roman Empire"
@@ -99,9 +96,12 @@
         "PUL  834"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "32 to 34"
+    ],
     "hashed_id_s": [
         "9fc2a4a852552a76"
     ],
-    "_version_": 1667138140065759232,
-    "timestamp": "2020-05-19T16:47:06.083Z"
+    "_version_": 1684902916656201728,
+    "timestamp": "2020-12-01T18:50:37.256Z"
 }

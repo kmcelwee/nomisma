@@ -35,13 +35,13 @@
         "28.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6458\",\"call_number_browse\":\"Coin 6458\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3883"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -85,9 +85,12 @@
         "Jean Dollin, DOLLIN.F."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Battle of the Marsaille    "
+    ],
     "hashed_id_s": [
         "e5d218f3c2266c05"
     ],
-    "_version_": 1667138253257441280,
-    "timestamp": "2020-05-19T16:48:54.032Z"
+    "_version_": 1684903125513666560,
+    "timestamp": "2020-12-01T18:53:56.438Z"
 }

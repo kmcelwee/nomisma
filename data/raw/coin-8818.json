@@ -35,6 +35,12 @@
         "9.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8818\",\"call_number_browse\":\"Coin 8818\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1532,
     "pub_date_end_sort": 1537,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "teston"
-    ],
-    "issue_number_s": [
-        "5614"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +99,12 @@
         "Signorie e Principati: monete italiane con ritratto, 1450-1796  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1532 to 1537"
+    ],
     "hashed_id_s": [
         "06128c68f8e9058d"
     ],
-    "_version_": 1667138153789521920,
-    "timestamp": "2020-05-19T16:47:19.172Z"
+    "_version_": 1684903408696295424,
+    "timestamp": "2020-12-01T18:58:26.502Z"
 }

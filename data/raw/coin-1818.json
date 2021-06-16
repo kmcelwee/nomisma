@@ -38,8 +38,11 @@
         "10.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1818\",\"call_number_browse\":\"Coin 1818\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 42,
     "pub_date_end_sort": 42,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1183"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "Sear  1862"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "42 to 42"
+    ],
     "hashed_id_s": [
         "8fc44a8c987232ff"
     ],
-    "_version_": 1667138214806159360,
-    "timestamp": "2020-05-19T16:48:17.362Z"
+    "_version_": 1684903448508628992,
+    "timestamp": "2020-12-01T18:59:04.472Z"
 }

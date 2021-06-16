@@ -35,6 +35,15 @@
         "3.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2669\",\"call_number_browse\":\"Coin 2669\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Julia Seaby; 1929"
+    ],
     "pub_date_start_sort": -31,
     "pub_date_end_sort": -29,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1684"
     ],
     "issue_metal_s": [
         "Silver"
@@ -79,9 +85,16 @@
         "Sear Augustus 1548"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, weapons",
+        "Ruler, Augustus"
+    ],
+    "issue_date_s": [
+        "-31 to -29"
+    ],
     "hashed_id_s": [
         "55b17935f2460ef6"
     ],
-    "_version_": 1667138424394481664,
-    "timestamp": "2020-05-19T16:51:37.238Z"
+    "_version_": 1684903577920733184,
+    "timestamp": "2020-12-01T19:01:07.889Z"
 }

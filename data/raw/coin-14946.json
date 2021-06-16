@@ -29,16 +29,19 @@
         "8.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14946\",\"call_number_browse\":\"Coin 14946\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1979,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9161"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -53,9 +56,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia  3:183-85"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1979 to "
+    ],
     "hashed_id_s": [
         "4f6d10b56a04f3e0"
     ],
-    "_version_": 1667144826315866113,
-    "timestamp": "2020-05-19T18:33:22.673Z"
+    "_version_": 1684903350374498304,
+    "timestamp": "2020-12-01T18:57:30.881Z"
 }

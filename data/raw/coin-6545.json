@@ -38,8 +38,11 @@
         "7.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6545\",\"call_number_browse\":\"Coin 6545\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; Oct. 31 1957; $15.25"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3961"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  1036"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "1c88f8f713b4eaa4"
     ],
-    "_version_": 1667138253833109504,
-    "timestamp": "2020-05-19T16:48:54.579Z"
+    "_version_": 1684903011928768512,
+    "timestamp": "2020-12-01T18:52:08.115Z"
 }

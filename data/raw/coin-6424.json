@@ -29,8 +29,11 @@
         "72x92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6424\",\"call_number_browse\":\"Coin 6424\"}}",
-    "donor_s": [
-        "Andre de Coppet"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "463:  Andre de Coppet"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "2000 dollars"
-    ],
-    "issue_number_s": [
-        "3849"
     ],
     "issue_metal_s": [
         "Paper"
@@ -68,6 +68,6 @@
     "hashed_id_s": [
         "923f3330496c81a4"
     ],
-    "_version_": 1667138253121126400,
-    "timestamp": "2020-05-19T16:48:53.900Z"
+    "_version_": 1684903125259911168,
+    "timestamp": "2020-12-01T18:53:56.196Z"
 }

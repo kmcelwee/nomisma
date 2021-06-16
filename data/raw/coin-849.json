@@ -35,8 +35,11 @@
         "3.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 849\",\"call_number_browse\":\"Coin 849\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -12,
     "pub_date_end_sort": -12,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "342"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,17 @@
         "Sear  1592"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, capricorn",
+        "Category, cornucopiae",
+        "Category, globe"
+    ],
+    "issue_date_s": [
+        "-12 to -12"
+    ],
     "hashed_id_s": [
         "00047de86b695338"
     ],
-    "_version_": 1667145311174262784,
-    "timestamp": "2020-05-19T18:41:04.984Z"
+    "_version_": 1684902971643527168,
+    "timestamp": "2020-12-01T18:51:29.696Z"
 }

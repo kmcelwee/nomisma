@@ -29,16 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "06/20/1939"
+        "1939-06-20"
     ],
     "find_feature_s": [
-        "Trench West of service court from West wall of villa (with D baskets)"
+        "[None recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc2083"
+    ],
+    "find_description_s": [
+        "Trench West of service court from West wall of villa (with D baskets)?"
     ],
     "die_axis_s": [
         "6"
@@ -50,6 +53,12 @@
         "3.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8120\",\"call_number_browse\":\"Coin 8120\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 324,
     "issue_object_type_s": [
@@ -57,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5144"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +123,12 @@
         "Numismatique Constantinienne III p. 44, I 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 324"
+    ],
     "hashed_id_s": [
         "eb8b4027d0b74656"
     ],
-    "_version_": 1667138349901545472,
-    "timestamp": "2020-05-19T16:50:26.197Z"
+    "_version_": 1694236772741939200,
+    "timestamp": "2021-03-14T19:28:16.071Z"
 }

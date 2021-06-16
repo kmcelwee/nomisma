@@ -35,6 +35,12 @@
         "2.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6677\",\"call_number_browse\":\"Coin 6677\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -210,
     "issue_object_type_s": [
@@ -43,11 +49,11 @@
     "issue_denomination_s": [
         "victoriatus"
     ],
-    "issue_number_s": [
-        "4096"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Luceria, Italy"
@@ -68,11 +74,11 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate Jupiter head r. Letter below."
+        "laureate"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
-        "m4096, Letter."
+        "border, dotted",
+        "L, below head"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -84,14 +90,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r., crowning trophy. Letter between Victory and trophy. Legend in exergue."
+        "crowning trophy"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border.",
-        "T, Letter."
+        "T, between figures"
     ],
     "issue_references_s": [
         "RRC  98A/1a",
@@ -99,9 +104,12 @@
         "Sear Volume I 53"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -210"
+    ],
     "hashed_id_s": [
         "aa96ead9c6a127f3"
     ],
-    "_version_": 1667138368124747776,
-    "timestamp": "2020-05-19T16:50:43.577Z"
+    "_version_": 1684903701729247232,
+    "timestamp": "2020-12-01T19:03:05.962Z"
 }

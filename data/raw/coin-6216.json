@@ -35,8 +35,11 @@
         "1.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6216\",\"call_number_browse\":\"Coin 6216\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1368,
     "pub_date_end_sort": 1379,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "noven"
-    ],
-    "issue_number_s": [
-        "3662"
     ],
     "issue_metal_s": [
         "Billon"
@@ -93,9 +93,12 @@
         "Heiss vol I, lam, 8 var. 13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1368 to 1379"
+    ],
     "hashed_id_s": [
         "d16551d279939e71"
     ],
-    "_version_": 1667138374126796800,
-    "timestamp": "2020-05-19T16:50:49.302Z"
+    "_version_": 1684903551755616256,
+    "timestamp": "2020-12-01T19:00:42.934Z"
 }

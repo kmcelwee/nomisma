@@ -35,8 +35,11 @@
         "3.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6630\",\"call_number_browse\":\"Coin 6630\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 real"
-    ],
-    "issue_number_s": [
-        "4051"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,6 +91,6 @@
     "hashed_id_s": [
         "5d2f7a2815443344"
     ],
-    "_version_": 1667138364197830656,
-    "timestamp": "2020-05-19T16:50:39.831Z"
+    "_version_": 1684903545213550592,
+    "timestamp": "2020-12-01T19:00:36.695Z"
 }

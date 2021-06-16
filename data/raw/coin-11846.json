@@ -35,8 +35,11 @@
         "2.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11846\",\"call_number_browse\":\"Coin 11846\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 117,
     "pub_date_end_sort": 117,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7937"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "BMC 237 8/9-10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "117 to 117"
+    ],
     "hashed_id_s": [
         "141bac5cf3f8c739"
     ],
-    "_version_": 1667138126796029952,
-    "timestamp": "2020-05-19T16:46:53.429Z"
+    "_version_": 1684903656645722112,
+    "timestamp": "2020-12-01T19:02:22.965Z"
 }

@@ -35,8 +35,11 @@
         "3.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1396\",\"call_number_browse\":\"Coin 1396\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -179,
     "pub_date_end_sort": -170,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "794"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +74,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; behind, X."
+        "helmeted; behind, legend."
+    ],
+    "issue_obverse_legend_s": [
+        "X"
     ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -89,22 +92,25 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Dioscuri r.  Legend in exergue."
+        "legend in exergue."
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border"
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  167/1",
         "Syd.  311"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-179 to -170"
+    ],
     "hashed_id_s": [
         "b99b4f0d892f71ff"
     ],
-    "_version_": 1667138210713567232,
-    "timestamp": "2020-05-19T16:48:13.456Z"
+    "_version_": 1684902975209734144,
+    "timestamp": "2020-12-01T18:51:33.099Z"
 }

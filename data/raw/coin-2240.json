@@ -38,8 +38,8 @@
         "8.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2240\",\"call_number_browse\":\"Coin 2240\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 54,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1449"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +95,12 @@
         "RPC.1  1031"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 54"
+    ],
     "hashed_id_s": [
         "2500c8a55b5010f9"
     ],
-    "_version_": 1667138219006754816,
-    "timestamp": "2020-05-19T16:48:21.368Z"
+    "_version_": 1684903452331737088,
+    "timestamp": "2020-12-01T18:59:08.117Z"
 }

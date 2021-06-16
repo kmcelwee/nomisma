@@ -35,6 +35,12 @@
         "8.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1715\",\"call_number_browse\":\"Coin 1715\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "229: 2001-10-02 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -215,
     "pub_date_end_sort": -214,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "24 litrae"
-    ],
-    "issue_number_s": [
-        "1103"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,9 +100,12 @@
         "Hieron.  Portrait B"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-215 to -214"
+    ],
     "hashed_id_s": [
         "8682437565035289"
     ],
-    "_version_": 1667138213558353920,
-    "timestamp": "2020-05-19T16:48:16.170Z"
+    "_version_": 1684903098746667008,
+    "timestamp": "2020-12-01T18:53:30.912Z"
 }

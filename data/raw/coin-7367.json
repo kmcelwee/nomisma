@@ -35,6 +35,9 @@
         "6.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7367\",\"call_number_browse\":\"Coin 7367\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 158,
     "pub_date_end_sort": 195,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4610"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "Mitchiner pg. 430 3255"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "158 to 195"
+    ],
     "hashed_id_s": [
         "f23110fde40280c0"
     ],
-    "_version_": 1667138192729440256,
-    "timestamp": "2020-05-19T16:47:56.307Z"
+    "_version_": 1684903070095376384,
+    "timestamp": "2020-12-01T18:53:03.587Z"
 }

@@ -35,8 +35,11 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5156\",\"call_number_browse\":\"Coin 5156\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2859"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -70,9 +73,6 @@
     "issue_obverse_figure_s": [
         "Diana"
     ],
-    "issue_obverse_symbol_s": [
-        "lituus"
-    ],
     "issue_obverse_part_s": [
         "bust"
     ],
@@ -80,10 +80,15 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust r., draped; behind, lituus; before, legend; border of dots"
+        "draped and wearing diadem"
     ],
     "issue_obverse_legend_s": [
         "FAVSTVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "crescent, above head",
+        "lituus, behind head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Sulla"
@@ -95,10 +100,10 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Sulla seated l.; below: to l., kneeling Bocchus holds palm branch; to r., Jugurtha kneels with hands tied behind back; border of dots"
+        "Bochus kneeling and holding olive-branch in r. hand; Jugurtha kneeling with hands tied behind back"
     ],
     "issue_reverse_figure_relationship_s": [
-        "Jugurtha was surrendered to Sulla by Bocchus"
+        "Bocchus on l.; Jugurtha on r."
     ],
     "issue_reverse_legend_s": [
         "FELIX"
@@ -109,9 +114,12 @@
         "Sear  383"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "2934ec6a2b0d102e"
     ],
-    "_version_": 1667138511483961344,
-    "timestamp": "2020-05-19T16:53:00.295Z"
+    "_version_": 1684903642693369856,
+    "timestamp": "2020-12-01T19:02:09.660Z"
 }

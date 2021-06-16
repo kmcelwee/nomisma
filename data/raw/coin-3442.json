@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "15 shillings"
     ],
-    "issue_number_s": [
-        "2038"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -84,9 +81,13 @@
         "Shafer & Cuhaj p. 1131 S1823"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "375564e192a3147b"
     ],
-    "_version_": 1667138166917693440,
-    "timestamp": "2020-05-19T16:47:31.689Z"
+    "_version_": 1684902927852896256,
+    "timestamp": "2020-12-01T18:50:47.934Z"
 }

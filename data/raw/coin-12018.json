@@ -23,18 +23,21 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12018\",\"call_number_browse\":\"Coin 12018\"}}",
+    "numismatic_collection_s": [
+        "Ross Deposit 1"
+    ],
+    "numismatic_accession_s": [
+        "762: 2018-09-26 "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "8151"
-    ],
     "issue_monogram_1display": "[]",
     "hashed_id_s": [
         "68dfb1fe55f8c1c6"
     ],
-    "_version_": 1667960963612016640,
-    "timestamp": "2020-05-28T18:45:31.775Z"
+    "_version_": 1684903331239034880,
+    "timestamp": "2020-12-01T18:57:12.633Z"
 }

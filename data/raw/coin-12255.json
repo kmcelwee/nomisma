@@ -29,7 +29,7 @@
         "Very worn out"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "06/10/1935"
@@ -50,6 +50,12 @@
         "1.687"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12255\",\"call_number_browse\":\"Coin 12255\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 220,
     "pub_date_end_sort": 187,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8260"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +113,12 @@
         "H & L I, 460 1254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "220 to 187"
+    ],
     "hashed_id_s": [
         "534a9c05e265d07a"
     ],
-    "_version_": 1670006323573424128,
-    "timestamp": "2020-06-20T08:35:39.031Z"
+    "_version_": 1684902892958384128,
+    "timestamp": "2020-12-01T18:50:14.656Z"
 }

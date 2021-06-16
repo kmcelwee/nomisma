@@ -38,6 +38,15 @@
         "16.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13691\",\"call_number_browse\":\"Coin 13691\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "829: 1997-07-14 Harlan J. Berk"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 7.14.1997; Auction number 181"
+    ],
     "pub_date_start_sort": -173,
     "pub_date_end_sort": -168,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8756"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,15 +106,18 @@
     "issue_reverse_attributes_s": [
         "sceptre, in r.hand",
         "Nike, in l.hand, offering wreath",
-        "m13691, in exergue"
+        "monogram, in exergue"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.63 1396"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-173 to -168"
+    ],
     "hashed_id_s": [
         "2156d7cb230d50f7"
     ],
-    "_version_": 1667138518684532736,
-    "timestamp": "2020-05-19T16:53:07.162Z"
+    "_version_": 1684903334954139648,
+    "timestamp": "2020-12-01T18:57:16.177Z"
 }

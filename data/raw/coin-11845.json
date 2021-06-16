@@ -35,8 +35,8 @@
         "3.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11845\",\"call_number_browse\":\"Coin 11845\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7936"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +86,12 @@
         "RIC 7, 239 57"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "dfd291fc9ae70ab5"
     ],
-    "_version_": 1667138298439532544,
-    "timestamp": "2020-05-19T16:49:37.121Z"
+    "_version_": 1684903510207889408,
+    "timestamp": "2020-12-01T19:00:03.313Z"
 }

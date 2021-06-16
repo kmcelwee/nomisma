@@ -35,8 +35,8 @@
         "4.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11375\",\"call_number_browse\":\"Coin 11375\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 751,
     "pub_date_end_sort": 757,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "7542"
     ],
     "issue_metal_s": [
         "Gold"
@@ -97,9 +94,12 @@
         "BMC.Byz. 379 7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "751 to 757"
+    ],
     "hashed_id_s": [
         "7e320195eb6ac795"
     ],
-    "_version_": 1667144764998287360,
-    "timestamp": "2020-05-19T18:32:24.139Z"
+    "_version_": 1684903144580972544,
+    "timestamp": "2020-12-01T18:54:14.623Z"
 }

@@ -38,8 +38,11 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9133\",\"call_number_browse\":\"Coin 9133\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "5811"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "RIC 2, Trajan, 298/9 730 (rev.) 743 (obv.)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "f03657d789e14f9c"
     ],
-    "_version_": 1667138152952758272,
-    "timestamp": "2020-05-19T16:47:18.373Z"
+    "_version_": 1684903407636185088,
+    "timestamp": "2020-12-01T18:58:25.492Z"
 }

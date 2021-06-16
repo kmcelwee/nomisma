@@ -53,6 +53,12 @@
         "1.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9852\",\"call_number_browse\":\"Coin 9852\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 650,
     "pub_date_end_sort": 670,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "6231"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +107,12 @@
         "Ash. 1 plate 39 508-25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "650 to 670"
+    ],
     "hashed_id_s": [
         "30d83c2206414d2c"
     ],
-    "_version_": 1667138136237408256,
-    "timestamp": "2020-05-19T16:47:02.433Z"
+    "_version_": 1684903384555978752,
+    "timestamp": "2020-12-01T18:58:03.482Z"
 }

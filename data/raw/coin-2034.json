@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2034\",\"call_number_browse\":\"Coin 2034\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1349"
     ],
     "issue_metal_s": [
         "Silver"
@@ -68,13 +68,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; EX.S.C upwards before. ROMA downwards behind. XVI monogram behind."
+        "helmeted; before, EX.S.C upwards; behind, ROMA downwards and XVI monogram (X, crossed)."
     ],
     "issue_obverse_legend_s": [
-        "EX.S.C; ROMA"
+        "EX.S.C ROMA X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots",
+        "border, dotted",
         "m77, XVI monogram"
     ],
     "issue_reverse_figure_s": [
@@ -87,13 +87,13 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Horseman l; in l. hand, sword and severed head. Q before; M.SERGI below; SILVS in exergue."
+        "holding sword and severed head in l. hand; before, Q; below, M.SERGI; SILVS in exergue."
     ],
     "issue_reverse_legend_s": [
-        "Q; M.SERGI; SILVS"
+        "Q M.SERGI SILVS"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dots"
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  286/1",
@@ -101,9 +101,12 @@
         "Sear  163"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "0b9868e0a52680e2"
     ],
-    "_version_": 1667146086698975232,
-    "timestamp": "2020-05-19T19:08:20.045Z"
+    "_version_": 1684903100165390336,
+    "timestamp": "2020-12-01T18:53:32.265Z"
 }

@@ -53,6 +53,12 @@
         "11.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8329\",\"call_number_browse\":\"Coin 8329\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -92,
     "pub_date_end_sort": -50,
     "issue_object_type_s": [
@@ -111,9 +117,12 @@
         "Waage  269"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-92 to -50"
+    ],
     "hashed_id_s": [
         "8a3bb0ba5fa1a94a"
     ],
-    "_version_": 1671468957552345088,
-    "timestamp": "2020-07-06T12:03:35.497Z"
+    "_version_": 1684902894362427392,
+    "timestamp": "2020-12-01T18:50:15.996Z"
 }

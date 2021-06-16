@@ -35,8 +35,8 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6505\",\"call_number_browse\":\"Coin 6505\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_accession_s": [
+        "478:  Louis C. West"
     ],
     "pub_date_start_sort": 1294,
     "pub_date_end_sort": 1303,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3927"
     ],
     "issue_metal_s": [
         "Gold"
@@ -102,9 +99,12 @@
         "Sear  2396"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1294 to 1303"
+    ],
     "hashed_id_s": [
         "455bcad85cdac6b2"
     ],
-    "_version_": 1667138369494188032,
-    "timestamp": "2020-05-19T16:50:44.885Z"
+    "_version_": 1684903107892346880,
+    "timestamp": "2020-12-01T18:53:39.632Z"
 }

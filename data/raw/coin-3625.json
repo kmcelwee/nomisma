@@ -35,8 +35,8 @@
         "27.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3625\",\"call_number_browse\":\"Coin 3625\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1621,
     "pub_date_end_sort": 1628,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "3017"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +68,12 @@
         "Shang Hai YMQ 186 648"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1621 to 1628"
+    ],
     "hashed_id_s": [
         "c0b37c80b2e181a8"
     ],
-    "_version_": 1667138513310580736,
-    "timestamp": "2020-05-19T16:53:02.036Z"
+    "_version_": 1684903315001835520,
+    "timestamp": "2020-12-01T18:56:57.149Z"
 }

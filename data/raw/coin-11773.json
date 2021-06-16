@@ -38,6 +38,9 @@
         "3.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11773\",\"call_number_browse\":\"Coin 11773\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7869"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Mochiri  274"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "ce345920ce960b4e"
     ],
-    "_version_": 1667138297498959872,
-    "timestamp": "2020-05-19T16:49:36.225Z"
+    "_version_": 1684903043921870848,
+    "timestamp": "2020-12-01T18:52:38.627Z"
 }

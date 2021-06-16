@@ -35,8 +35,11 @@
         "4.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7675\",\"call_number_browse\":\"Coin 7675\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "39: 1965-01-01 Louis C. West"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 313,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "solidus"
     ],
-    "issue_number_s": [
-        "4797"
-    ],
     "issue_metal_s": [
         "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Constantine I (306 to 337)"
@@ -74,10 +77,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "CONSTAN TINVSPFAVC"
+        "CONSTANTINVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Constantine"
@@ -89,20 +92,26 @@
         "facing, head to right"
     ],
     "issue_reverse_figure_description_s": [
-        "in military dress, holding transverse spear in r. and globe in l., seated captive to either side"
+        "draped, cuirassed, seated captive to either side"
     ],
     "issue_reverse_legend_s": [
-        "VBIQVE VICTOR"
+        "VBIQVE VICTOR/ PTR"
+    ],
+    "issue_reverse_attributes_s": [
+        "transverse spear, in r. hand",
+        "globe, in l. hand"
     ],
     "issue_references_s": [
-        "RIC 6 p. 222 816",
-        "Depeyrot Trier 15, 8",
-        "Hims  "
+        "RIC VI  Treveri 816",
+        "Depeyrot Trier p. 15, n. 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 313"
+    ],
     "hashed_id_s": [
         "a3f92d9385dd8af0"
     ],
-    "_version_": 1667138261143781376,
-    "timestamp": "2020-05-19T16:49:01.553Z"
+    "_version_": 1684903315055312896,
+    "timestamp": "2020-12-01T18:56:57.199Z"
 }

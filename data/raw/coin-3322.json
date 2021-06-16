@@ -29,8 +29,11 @@
         "On the back of the coin, the Chinese character \"zhe\" is written on the lower side of the square in the center.\"Zhe\" is the first character of the Zhejiang province in China.  Wu note: \u80cc\u6d59\u3002"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3322\",\"call_number_browse\":\"Coin 3322\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1368,
     "pub_date_end_sort": 1398,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2107"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +68,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 268 Lower Right"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1368 to 1398"
+    ],
     "hashed_id_s": [
         "ff9e94a959a846db"
     ],
-    "_version_": 1667138430193106944,
-    "timestamp": "2020-05-19T16:51:42.771Z"
+    "_version_": 1684903205223268352,
+    "timestamp": "2020-12-01T18:55:12.456Z"
 }

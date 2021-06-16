@@ -38,8 +38,14 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11146\",\"call_number_browse\":\"Coin 11146\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Copper Penny Galleries; 08/19/2011"
     ],
     "pub_date_start_sort": 578,
     "pub_date_end_sort": 590,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7307"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  GD Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "578 to 590"
+    ],
     "hashed_id_s": [
         "36446e86f8ce797d"
     ],
-    "_version_": 1667138170818396160,
-    "timestamp": "2020-05-19T16:47:35.411Z"
+    "_version_": 1684902929943756800,
+    "timestamp": "2020-12-01T18:50:49.929Z"
 }

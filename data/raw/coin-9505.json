@@ -35,8 +35,8 @@
         "5.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9505\",\"call_number_browse\":\"Coin 9505\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_accession_s": [
+        "306:  Robert Ross"
     ],
     "pub_date_start_sort": 4,
     "pub_date_end_sort": 29,
@@ -99,9 +99,12 @@
         "PUL  837"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "4 to 29"
+    ],
     "hashed_id_s": [
         "e042fffdbbafe2bc"
     ],
-    "_version_": 1674370812981805056,
-    "timestamp": "2020-08-07T12:47:20.480Z"
+    "_version_": 1684903334153027584,
+    "timestamp": "2020-12-01T18:57:15.412Z"
 }

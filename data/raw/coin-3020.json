@@ -35,6 +35,15 @@
         "2.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3020\",\"call_number_browse\":\"Coin 3020\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "A. Riechmann & Co., Germany; 1925; $6.00"
+    ],
     "pub_date_start_sort": -158,
     "pub_date_end_sort": -146,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1872"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +95,12 @@
         "BMC Mac. p. 9 11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-158 to -146"
+    ],
     "hashed_id_s": [
         "65f4a79d05efcb00"
     ],
-    "_version_": 1667138479975301120,
-    "timestamp": "2020-05-19T16:52:30.247Z"
+    "_version_": 1684903616355237888,
+    "timestamp": "2020-12-01T19:01:44.542Z"
 }

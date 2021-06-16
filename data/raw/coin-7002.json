@@ -41,28 +41,31 @@
         "39.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7002\",\"call_number_browse\":\"Coin 7002\"}}",
-    "pub_date_start_sort": -275,
-    "pub_date_end_sort": -271,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -265,
+    "pub_date_end_sort": -242,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sextans"
     ],
-    "issue_number_s": [
-        "4371"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
-    "issue_place_s": [
-        "Campania, Italy"
+    "issue_shape_s": [
+        "round"
     ],
-    "issue_state_s": [
-        "Campania"
+    "issue_place_s": [
+        "Rome"
     ],
     "issue_region_s": [
-        "Italy"
+        "Rome"
     ],
     "issue_obverse_figure_s": [
         "Tortoise"
@@ -70,14 +73,24 @@
     "issue_reverse_figure_s": [
         "Wheel"
     ],
+    "issue_reverse_figure_description_s": [
+        "composed of six spokes"
+    ],
+    "issue_reverse_attributes_s": [
+        "denominational mark, between spokes"
+    ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  91",
-        "Haeb. pl. 26 15-18"
+        "Haeb. pl. 26 15-18",
+        "RRC  24/7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-265 to -242"
+    ],
     "hashed_id_s": [
         "0706cfd4f3e8a8f8"
     ],
-    "_version_": 1667138358757818368,
-    "timestamp": "2020-05-19T16:50:34.645Z"
+    "_version_": 1684903702574399488,
+    "timestamp": "2020-12-01T19:03:06.767Z"
 }

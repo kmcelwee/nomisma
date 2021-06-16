@@ -35,6 +35,12 @@
         "13.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1139\",\"call_number_browse\":\"Coin 1139\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "155: 2000-06-16 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -274,
     "pub_date_end_sort": -216,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "628"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +104,12 @@
         "Sear  938v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-274 to -216"
+    ],
     "hashed_id_s": [
         "c966b96a8e278906"
     ],
-    "_version_": 1667138459752464384,
-    "timestamp": "2020-05-19T16:52:10.959Z"
+    "_version_": 1684903599868477440,
+    "timestamp": "2020-12-01T19:01:28.819Z"
 }

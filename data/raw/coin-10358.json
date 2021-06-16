@@ -35,8 +35,11 @@
         "2.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10358\",\"call_number_browse\":\"Coin 10358\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "672: 1931-01-01 Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": 67,
     "pub_date_end_sort": 67,
@@ -88,9 +91,12 @@
         "SNG ANS  435"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "67 to 67"
+    ],
     "hashed_id_s": [
         "1fdaf236e670025c"
     ],
-    "_version_": 1672921742364901376,
-    "timestamp": "2020-07-22T12:54:59.056Z"
+    "_version_": 1684903663153184768,
+    "timestamp": "2020-12-01T19:02:29.172Z"
 }

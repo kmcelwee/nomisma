@@ -50,6 +50,9 @@
         "4.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10265\",\"call_number_browse\":\"Coin 10265\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 218,
     "pub_date_end_sort": 222,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "small"
-    ],
-    "issue_number_s": [
-        "6511"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "BMC Syria  426"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "8d378cbb4488ce61"
     ],
-    "_version_": 1667138281577381888,
-    "timestamp": "2020-05-19T16:49:21.040Z"
+    "_version_": 1684903498641047552,
+    "timestamp": "2020-12-01T18:59:52.282Z"
 }

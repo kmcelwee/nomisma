@@ -35,8 +35,11 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6900\",\"call_number_browse\":\"Coin 6900\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "4307"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "f3ef84f4c72d4d33"
     ],
-    "_version_": 1667145060121051136,
-    "timestamp": "2020-05-19T18:37:05.571Z"
+    "_version_": 1684903477492318208,
+    "timestamp": "2020-12-01T18:59:32.112Z"
 }

@@ -35,6 +35,9 @@
         "16.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 653\",\"call_number_browse\":\"Coin 653\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -173,
     "pub_date_end_sort": -167,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "270"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Price  2464"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-173 to -167"
+    ],
     "hashed_id_s": [
         "c0724b31546ed77f"
     ],
-    "_version_": 1667138203252948992,
-    "timestamp": "2020-05-19T16:48:06.343Z"
+    "_version_": 1684903414822076416,
+    "timestamp": "2020-12-01T18:58:32.344Z"
 }

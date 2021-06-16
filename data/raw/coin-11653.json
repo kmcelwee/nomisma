@@ -38,8 +38,11 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11653\",\"call_number_browse\":\"Coin 11653\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 388,
     "pub_date_end_sort": 389,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7759"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "SNS 3 Uncertain Type Mint Ia1/2b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "388 to 389"
+    ],
     "hashed_id_s": [
         "eb94e77411939c6e"
     ],
-    "_version_": 1667138296230182912,
-    "timestamp": "2020-05-19T16:49:35.014Z"
+    "_version_": 1684903508100251648,
+    "timestamp": "2020-12-01T19:00:01.301Z"
 }

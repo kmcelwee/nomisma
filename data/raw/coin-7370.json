@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "unit"
     ],
-    "issue_number_s": [
-        "4614"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -83,9 +80,12 @@
         "Mitchiner pg. 406 3022"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "105 to 130"
+    ],
     "hashed_id_s": [
         "b5e67aab60aeacf2"
     ],
-    "_version_": 1667138197921988608,
-    "timestamp": "2020-05-19T16:48:01.261Z"
+    "_version_": 1684903414366994432,
+    "timestamp": "2020-12-01T18:58:31.912Z"
 }

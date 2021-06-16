@@ -31,9 +31,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "5430"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,9 +80,12 @@
         "R. Dutton, RD"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Lord Byron, George Gordon"
+    ],
     "hashed_id_s": [
         "c14d7c608bb49e37"
     ],
-    "_version_": 1667144890654392320,
-    "timestamp": "2020-05-19T18:35:39.757Z"
+    "_version_": 1684903134557634560,
+    "timestamp": "2020-12-01T18:54:05.065Z"
 }

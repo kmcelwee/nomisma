@@ -29,16 +29,19 @@
         "35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14034\",\"call_number_browse\":\"Coin 14034\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Robert Ross; ; "
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9058"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -62,9 +65,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia 1:276-77 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "bdc37760f3685534"
     ],
-    "_version_": 1667138171341635584,
-    "timestamp": "2020-05-19T16:47:35.909Z"
+    "_version_": 1684902947546202112,
+    "timestamp": "2020-12-01T18:51:06.716Z"
 }

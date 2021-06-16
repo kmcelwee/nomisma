@@ -38,8 +38,11 @@
         "5.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13711\",\"call_number_browse\":\"Coin 13711\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -129,
     "pub_date_end_sort": -128,
@@ -49,14 +52,14 @@
     "issue_denomination_s": [
         "double"
     ],
-    "issue_number_s": [
-        "8771"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
         "Round"
+    ],
+    "issue_era_s": [
+        "Seleucid"
     ],
     "issue_ruler_s": [
         "Demetrius II Nicator (-145 to -126)"
@@ -106,9 +109,12 @@
         "H & L II,v.I,p.425 2183.3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-129 to -128"
+    ],
     "hashed_id_s": [
         "2334361ec1361170"
     ],
-    "_version_": 1667138323627376640,
-    "timestamp": "2020-05-19T16:50:01.141Z"
+    "_version_": 1684903168040763392,
+    "timestamp": "2020-12-01T18:54:36.996Z"
 }

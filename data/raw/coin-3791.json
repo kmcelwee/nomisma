@@ -32,13 +32,16 @@
         "Struck"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3791\",\"call_number_browse\":\"Coin 3791\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1920,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2198"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +71,16 @@
         "Raouil Ren\u00e9 Alphonse B\u00e9nard, R. BENARD"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Category, memorial"
+    ],
+    "issue_date_s": [
+        "1914 to 1920"
+    ],
     "hashed_id_s": [
         "3d76490dece881f4"
     ],
-    "_version_": 1667138438739001344,
-    "timestamp": "2020-05-19T16:51:50.921Z"
+    "_version_": 1684903219149406208,
+    "timestamp": "2020-12-01T18:55:25.736Z"
 }

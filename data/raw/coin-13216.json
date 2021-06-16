@@ -26,16 +26,13 @@
         "num"
     ],
     "notes_display": [
-        "Clipped in two places, weight: 2.35 grams"
+        "Coin heavily clipped"
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/2/1938"
-    ],
-    "find_feature_s": [
-        "At N-S street SE part, below level of walls"
+        "05/02/1938"
     ],
     "find_locus_s": [
         "DH 27-O"
@@ -43,29 +40,44 @@
     "find_number_s": [
         "Cb1173"
     ],
+    "find_description_s": [
+        "N.-S. street, SE. part, below level of walls"
+    ],
     "die_axis_s": [
         "11"
     ],
     "size_s": [
         "21"
     ],
+    "weight_s": [
+        "2.35"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13216\",\"call_number_browse\":\"Coin 13216\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8538"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "S"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,7 +92,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -89,10 +104,13 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Female figure"
+    ],
+    "issue_reverse_symbol_s": [
+        "S"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -101,18 +119,27 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "presenting wreath to emperor standing l., holding scepter"
+        "draped, presenting wreath to emperor, standing l., extending r. hand"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Aurelian"
     ],
     "issue_reverse_legend_s": [
-        "RESTITVOR BIS | S"
+        "RESTITVT ORBIS"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in Aurelian's l. hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 386"
+        "RIC V  Aurelian 386v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "388d1f59d2676c54"
     ],
-    "_version_": 1667138337950924800,
-    "timestamp": "2020-05-19T16:50:14.801Z"
+    "_version_": 1684903528876736512,
+    "timestamp": "2020-12-01T19:00:21.117Z"
 }

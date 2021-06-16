@@ -55,9 +55,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6423"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -91,9 +88,12 @@
         "BMC  795"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "740 to 745"
+    ],
     "hashed_id_s": [
         "10aa88aaea09b132"
     ],
-    "_version_": 1667145144447533057,
-    "timestamp": "2020-05-19T18:43:22.180Z"
+    "_version_": 1684903016858124288,
+    "timestamp": "2020-12-01T18:52:12.817Z"
 }

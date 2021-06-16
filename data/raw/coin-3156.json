@@ -32,16 +32,16 @@
         "4.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3156\",\"call_number_browse\":\"Coin 3156\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1736,
     "pub_date_end_sort": 1796,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1934"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,9 +75,12 @@
         "c64, Manchurian Character- \u4f0a (yi)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1736 to 1796"
+    ],
     "hashed_id_s": [
         "884de04003a0146e"
     ],
-    "_version_": 1667138434209153024,
-    "timestamp": "2020-05-19T16:51:46.601Z"
+    "_version_": 1684903212597903360,
+    "timestamp": "2020-12-01T18:55:19.488Z"
 }

@@ -38,8 +38,14 @@
         "3.408"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4272\",\"call_number_browse\":\"Coin 4272\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "D. Loulakakis; 1991; \u00a390 Ducat No. 4"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2422"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,6 +89,6 @@
     "hashed_id_s": [
         "39aecff4ea9f550b"
     ],
-    "_version_": 1667138493271244800,
-    "timestamp": "2020-05-19T16:52:42.926Z"
+    "_version_": 1684903628773523456,
+    "timestamp": "2020-12-01T19:01:56.384Z"
 }

@@ -35,8 +35,11 @@
         "3.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4780\",\"call_number_browse\":\"Coin 4780\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "12:  W.S. Watson"
     ],
     "pub_date_start_sort": -32,
     "pub_date_end_sort": -31,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2606"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Sear  1479v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-32 to -31"
+    ],
     "hashed_id_s": [
         "3a5a45dc9b557dbc"
     ],
-    "_version_": 1667138240206864384,
-    "timestamp": "2020-05-19T16:48:41.586Z"
+    "_version_": 1684903464755265536,
+    "timestamp": "2020-12-01T18:59:19.966Z"
 }

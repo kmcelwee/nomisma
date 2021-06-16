@@ -35,8 +35,11 @@
         "17.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14019\",\"call_number_browse\":\"Coin 14019\"}}",
-    "donor_s": [
-        "Harcourt E. Waller"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "52:  Harcourt E. Waller"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "9043"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "d53944df99400bb9"
     ],
-    "_version_": 1667310825815146496,
-    "timestamp": "2020-05-21T14:31:52.048Z"
+    "_version_": 1684903077138661376,
+    "timestamp": "2020-12-01T18:53:10.304Z"
 }

@@ -35,6 +35,12 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2724\",\"call_number_browse\":\"Coin 2724\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Adolph E Cahn; 1930"
+    ],
     "pub_date_start_sort": -19,
     "pub_date_end_sort": -15,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1724"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,9 +80,15 @@
         "RIC.1. Augustus 57"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, wreath"
+    ],
+    "issue_date_s": [
+        "-19 to -15"
+    ],
     "hashed_id_s": [
         "7b903a181912afa8"
     ],
-    "_version_": 1667138427558035456,
-    "timestamp": "2020-05-19T16:51:40.255Z"
+    "_version_": 1684903189185298432,
+    "timestamp": "2020-12-01T18:54:57.161Z"
 }

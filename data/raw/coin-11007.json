@@ -38,8 +38,14 @@
         "4.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11007\",\"call_number_browse\":\"Coin 11007\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 03/12/2005"
     ],
     "pub_date_start_sort": 438,
     "pub_date_end_sort": 457,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7168"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 MY Type Ib1/2a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "438 to 457"
+    ],
     "hashed_id_s": [
         "6da81e3b5b75d3cf"
     ],
-    "_version_": 1667138177278672896,
-    "timestamp": "2020-05-19T16:47:41.571Z"
+    "_version_": 1684902953652060160,
+    "timestamp": "2020-12-01T18:51:12.540Z"
 }

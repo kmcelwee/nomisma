@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "5 shillings and 4 pence"
     ],
-    "issue_number_s": [
-        "3113"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -87,9 +84,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "67471c2cc2430731"
     ],
-    "_version_": 1667138391665278976,
-    "timestamp": "2020-05-19T16:51:06.029Z"
+    "_version_": 1684903162636402688,
+    "timestamp": "2020-12-01T18:54:31.842Z"
 }

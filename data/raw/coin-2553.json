@@ -35,8 +35,11 @@
         "1.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2553\",\"call_number_browse\":\"Coin 2553\"}}",
-    "donor_s": [
-        "Claus Pelling"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "247: 2006-05-31 Claus Pelling"
     ],
     "pub_date_start_sort": 1423,
     "pub_date_end_sort": 1457,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1596"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,12 @@
         "MEC 12 649"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1423 to 1457"
+    ],
     "hashed_id_s": [
         "80a1917ec2991c41"
     ],
-    "_version_": 1667138221520191488,
-    "timestamp": "2020-05-19T16:48:23.763Z"
+    "_version_": 1684903453037428736,
+    "timestamp": "2020-12-01T18:59:08.790Z"
 }

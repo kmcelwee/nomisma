@@ -35,8 +35,14 @@
         "6.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11069\",\"call_number_browse\":\"Coin 11069\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Triton; 01/07/2008; XI (408)"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-old"
-    ],
-    "issue_number_s": [
-        "7230"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "SNS  I?/1?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "ac772dbf905bb870"
     ],
-    "_version_": 1667138171703394304,
-    "timestamp": "2020-05-19T16:47:36.255Z"
+    "_version_": 1684903033440305152,
+    "timestamp": "2020-12-01T18:52:28.630Z"
 }

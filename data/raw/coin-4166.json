@@ -35,6 +35,15 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4166\",\"call_number_browse\":\"Coin 4166\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1926; $22"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2374"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,14 +86,15 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "hair tied with band; eagle's head and sceptre beneath; border of dots"
+        "hair tied with band; below, eagle's head and sceptre"
     ],
     "issue_obverse_legend_s": [
-        "METEL \u0393IVS | SCI\u0393 IM\u0393"
+        "METEL.PIVS SCIP.IMP"
     ],
     "issue_obverse_attributes_s": [
         "eagle, eagle's head below Jupiter",
-        "sceptre, sceptre l. below eagle's head"
+        "sceptre, sceptre l. below eagle's head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Curule chair"
@@ -96,14 +103,15 @@
         "cornucopiae"
     ],
     "issue_reverse_figure_description_s": [
-        "scales balanced on cornucopiae above; to l., ear of corn; to r., dragon's head; border of dots"
+        "above, scales balanced on cornucopiae; on l., ear of corn and LEG.PRO.PR downwards; on r., dragon's head and CRASS.IVN downwards"
     ],
     "issue_reverse_legend_s": [
-        "CRASS IVN | LEG \u0393RO \u0393R"
+        "CRASS.IVN LEG.PRO.PR"
     ],
     "issue_reverse_attributes_s": [
         "cornucopiae, above curule chair",
-        "scales, balanced on cornucopiae"
+        "scales, balanced on cornucopiae",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  460/2",
@@ -111,10 +119,16 @@
         "Sear  1376",
         "MEC 12 642-643"
     ],
-    "issue_monogram_1display": "[]",
+    "issue_monogram_title_s": [
+        "dummy123"
+    ],
+    "issue_monogram_1display": "[{\"title\":\"dummy123\",\"document_id\":\"179260e9-ea9f-448d-93d4-202c555e9745\"}]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "6d594adc14da3481"
     ],
-    "_version_": 1667138491205550080,
-    "timestamp": "2020-05-19T16:52:40.958Z"
+    "_version_": 1684903229620486144,
+    "timestamp": "2020-12-01T18:55:35.723Z"
 }

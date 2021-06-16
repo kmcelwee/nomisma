@@ -35,8 +35,11 @@
         "2.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2478\",\"call_number_browse\":\"Coin 2478\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 1268,
     "pub_date_end_sort": 1275,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1561"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,13 +99,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 112, 1",
-        "CNI, 7  II.12.16",
+        "CNI, 7  41, 16",
         "MEC 12 641-642"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1268 to 1275"
+    ],
     "hashed_id_s": [
         "47eddf41665a3b2e"
     ],
-    "_version_": 1667138427356708864,
-    "timestamp": "2020-05-19T16:51:40.064Z"
+    "_version_": 1684903187599851520,
+    "timestamp": "2020-12-01T18:54:55.648Z"
 }

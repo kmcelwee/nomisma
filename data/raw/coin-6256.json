@@ -38,6 +38,9 @@
         "54.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6256\",\"call_number_browse\":\"Coin 6256\"}}",
+    "numismatic_accession_s": [
+        "101: 2005-01-14 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1224,
     "pub_date_end_sort": 1230,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "3679"
     ],
     "issue_metal_s": [
         "Billon"
@@ -106,9 +106,12 @@
         "BMC.Vand page 194 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1224 to 1230"
+    ],
     "hashed_id_s": [
         "fa12f88621fd6b71"
     ],
-    "_version_": 1667138373665423360,
-    "timestamp": "2020-05-19T16:50:48.860Z"
+    "_version_": 1684903551469355008,
+    "timestamp": "2020-12-01T19:00:42.663Z"
 }

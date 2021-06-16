@@ -2,7 +2,7 @@
     "id": "coin-13814",
     "title_display": "Coin: 13814",
     "pub_created_display": [
-        "Lucius Thorius Balbus (-105 to ), denarius, Rome"
+        "denarius, Rome"
     ],
     "call_number_display": [
         "Coin 13814"
@@ -35,40 +35,43 @@
         "3.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13814\",\"call_number_browse\":\"Coin 13814\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -105,
+    "pub_date_end_sort": -105,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "8858"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
-    "issue_ruler_s": [
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_master_s": [
         "Lucius Thorius Balbus (-105 to )"
     ],
     "issue_place_s": [
-        "Rome, Italy, Roman Empire"
+        "Rome, Latium, Italy"
     ],
     "issue_city_s": [
         "Rome"
     ],
     "issue_state_s": [
-        "Italy"
+        "Latium"
     ],
     "issue_region_s": [
-        "Roman Empire"
+        "Italy"
     ],
     "issue_obverse_figure_s": [
         "Juno Sospita"
-    ],
-    "issue_obverse_symbol_s": [
-        "border of dots"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -80,13 +83,16 @@
         "wearing goat-skin"
     ],
     "issue_obverse_legend_s": [
-        "ISMR, downwards"
+        "I\u00b7S\u00b7M\u00b7R"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Bull"
     ],
     "issue_reverse_symbol_s": [
-        "border of dots"
+        "control-mark (R) above"
     ],
     "issue_reverse_part_s": [
         "charging"
@@ -95,17 +101,20 @@
         "right"
     ],
     "issue_reverse_legend_s": [
-        "below, L. THORIUS; in exergue, BALBUS"
+        "L\u00b7THORIVS / BALBVS"
     ],
     "issue_references_s": [
-        "RRC 323 316",
+        "RRC  316/1",
         "PUL 14 169",
         "Syd. 84 598"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-105 to -105"
+    ],
     "hashed_id_s": [
         "e63c7264292186d5"
     ],
-    "_version_": 1667138325803171840,
-    "timestamp": "2020-05-19T16:50:03.216Z"
+    "_version_": 1684903684776919040,
+    "timestamp": "2020-12-01T19:02:49.794Z"
 }

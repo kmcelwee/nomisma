@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/1/1937"
+        "1937-05-01"
+    ],
+    "find_feature_s": [
+        "Dig I, level III, room 1, to 5m (basket A)"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca655"
-    ],
-    "find_description_s": [
-        "Dig I & II, Room 11; level III to 5M"
+        "Ca0655"
     ],
     "die_axis_s": [
         "6"
@@ -50,6 +50,12 @@
         "1.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8201\",\"call_number_browse\":\"Coin 8201\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 324,
     "pub_date_end_sort": 325,
     "issue_object_type_s": [
@@ -108,9 +114,12 @@
         "RIC.7 p.685 51"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "324 to 325"
+    ],
     "hashed_id_s": [
         "866f203321bd41dd"
     ],
-    "_version_": 1673556425569206272,
-    "timestamp": "2020-07-29T13:03:00.121Z"
+    "_version_": 1694515670479273984,
+    "timestamp": "2021-03-17T21:21:13.689Z"
 }

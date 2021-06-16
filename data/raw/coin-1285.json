@@ -35,8 +35,11 @@
         "6.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1285\",\"call_number_browse\":\"Coin 1285\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "180:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "714"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +94,12 @@
         "ANS  850-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "2f3576c9e6bb2842"
     ],
-    "_version_": 1667138209971175424,
-    "timestamp": "2020-05-19T16:48:12.752Z"
+    "_version_": 1684902974484119552,
+    "timestamp": "2020-12-01T18:51:32.405Z"
 }

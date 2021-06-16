@@ -35,8 +35,11 @@
         "16.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8231\",\"call_number_browse\":\"Coin 8231\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -100,
     "pub_date_end_sort": -75,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5242"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "CNH 385 24"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-100 to -75"
+    ],
     "hashed_id_s": [
         "251b4b586c994e72"
     ],
-    "_version_": 1667138190731902976,
-    "timestamp": "2020-05-19T16:47:54.403Z"
+    "_version_": 1684903418171228160,
+    "timestamp": "2020-12-01T18:58:35.539Z"
 }

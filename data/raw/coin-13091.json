@@ -2,7 +2,7 @@
     "id": "coin-13091",
     "title_display": "Coin: 13091",
     "pub_created_display": [
-        "Aurelian (270 to 275), antoninianus, Tripolis"
+        "Aurelian (270 to 275), antoninianus"
     ],
     "call_number_display": [
         "Coin 13091"
@@ -29,7 +29,7 @@
         "Antioch, Syria"
     ],
     "find_number_s": [
-        "PCb14"
+        "PCb0014"
     ],
     "die_axis_s": [
         "6"
@@ -41,6 +41,12 @@
         "3.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13091\",\"call_number_browse\":\"Coin 13091\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 270,
     "pub_date_end_sort": 275,
     "issue_object_type_s": [
@@ -50,25 +56,28 @@
         "antoninianus"
     ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
     ],
     "issue_place_s": [
-        "Tripolis, Phoenicia, Syria"
-    ],
-    "issue_city_s": [
-        "Tripolis"
+        "Phoenicia, Roman Empire"
     ],
     "issue_state_s": [
         "Phoenicia"
     ],
     "issue_region_s": [
-        "Syria"
+        "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "left"
@@ -77,7 +86,7 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELI-ANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Sol"
@@ -91,19 +100,26 @@
     "issue_reverse_orientation_s": [
         "left"
     ],
-    "issue_reverse_figure_description_s": [
-        "captive to l. at foot"
+    "issue_reverse_figure_relationship_s": [
+        "captive at his feet, to l."
     ],
     "issue_reverse_legend_s": [
-        "SOL IINVICTO | KA"
+        "SOL-IINVICTO / KA"
+    ],
+    "issue_reverse_attributes_s": [
+        "r. hand, raised",
+        "globe, in l. hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p. 309 390"
+        "RIC V  Aurelian 390v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "edb79aecaa03eebf"
     ],
-    "_version_": 1673108104578859008,
-    "timestamp": "2020-07-24T14:17:07.907Z"
+    "_version_": 1684903675495972864,
+    "timestamp": "2020-12-01T19:02:40.944Z"
 }

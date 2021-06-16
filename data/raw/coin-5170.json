@@ -38,6 +38,15 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5170\",\"call_number_browse\":\"Coin 5170\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Philip Lederer; 1927; $6"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -46,11 +55,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2866"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -77,19 +86,25 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Wearing lionskin; border of dots"
+        "wearing lion-skin"
     ],
     "issue_obverse_legend_s": [
-        "S C"
+        "S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Wreath"
+        "Globe"
     ],
     "issue_reverse_symbol_s": [
-        "aplustre and ear of corn"
+        "aplustre below on l.; corn-ear below on r."
     ],
     "issue_reverse_figure_description_s": [
-        "4 wreaths around globe, the topmost one larger; to l. of bottommost wreath, aplustre; to r. of bottommost wreath, ear of corn; border of dots"
+        "surrounded by three small wreaths and one large wreath"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  426/4b",
@@ -97,9 +112,12 @@
         "Sear  385"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "c234263f6ac95bfa"
     ],
-    "_version_": 1667138398200004608,
-    "timestamp": "2020-05-19T16:51:12.261Z"
+    "_version_": 1684903173824708608,
+    "timestamp": "2020-12-01T18:54:42.511Z"
 }

@@ -38,6 +38,9 @@
         "16.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6683\",\"call_number_browse\":\"Coin 6683\"}}",
+    "numismatic_provenance_s": [
+        "Rodgers; index card says \"gift Rodgers\""
+    ],
     "pub_date_start_sort": 127,
     "pub_date_end_sort": 151,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "4102"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Jones pg. 416 3074"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "127 to 151"
+    ],
     "hashed_id_s": [
         "6f3809e986fd7a60"
     ],
-    "_version_": 1667138254600667136,
-    "timestamp": "2020-05-19T16:48:55.311Z"
+    "_version_": 1684903012532748288,
+    "timestamp": "2020-12-01T18:52:08.691Z"
 }

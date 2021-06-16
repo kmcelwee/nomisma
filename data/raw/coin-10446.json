@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6632"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -98,9 +95,12 @@
         "Roman Imperial Coinage  461"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "05be7d3b9ee45fdb"
     ],
-    "_version_": 1667138345109553152,
-    "timestamp": "2020-05-19T16:50:21.628Z"
+    "_version_": 1684903083921899520,
+    "timestamp": "2020-12-01T18:53:16.773Z"
 }

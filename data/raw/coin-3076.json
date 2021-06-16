@@ -35,8 +35,11 @@
         "10.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3076\",\"call_number_browse\":\"Coin 3076\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -41,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1899"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,9 +103,12 @@
         "RPC.1  1428"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -41"
+    ],
     "hashed_id_s": [
         "b4e550b87cf0113e"
     ],
-    "_version_": 1667138478291288064,
-    "timestamp": "2020-05-19T16:52:28.639Z"
+    "_version_": 1684903301955452928,
+    "timestamp": "2020-12-01T18:56:44.709Z"
 }

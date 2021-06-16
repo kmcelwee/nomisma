@@ -38,8 +38,11 @@
         "1.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12722\",\"call_number_browse\":\"Coin 12722\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 51,
     "pub_date_end_sort": 78,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8406"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "Sellwood  70.16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "51 to 78"
+    ],
     "hashed_id_s": [
         "4c0c97b1cf2db65d"
     ],
-    "_version_": 1667138321492475904,
-    "timestamp": "2020-05-19T16:49:59.105Z"
+    "_version_": 1684903166303272960,
+    "timestamp": "2020-12-01T18:54:35.338Z"
 }

@@ -56,6 +56,12 @@
         "1.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8570\",\"call_number_browse\":\"Coin 8570\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 800,
     "pub_date_end_sort": 850,
     "issue_object_type_s": [
@@ -63,9 +69,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5934"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,9 +80,12 @@
         "in dotted circle: \u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "800 to 850"
+    ],
     "hashed_id_s": [
         "f8a903fc14330fbe"
     ],
-    "_version_": 1667138154176446464,
-    "timestamp": "2020-05-19T16:47:19.541Z"
+    "_version_": 1684903409300275200,
+    "timestamp": "2020-12-01T18:58:27.079Z"
 }

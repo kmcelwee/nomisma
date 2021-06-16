@@ -35,8 +35,11 @@
         "3.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11212\",\"call_number_browse\":\"Coin 11212\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7378"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "SN  PL Type II/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "7e286a7b8c39aebc"
     ],
-    "_version_": 1667138290897125376,
-    "timestamp": "2020-05-19T16:49:29.925Z"
+    "_version_": 1684903036960374784,
+    "timestamp": "2020-12-01T18:52:31.989Z"
 }

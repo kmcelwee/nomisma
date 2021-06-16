@@ -35,6 +35,15 @@
         "3.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4708\",\"call_number_browse\":\"Coin 4708\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $1"
+    ],
     "pub_date_start_sort": -41,
     "pub_date_end_sort": -41,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2560"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +106,12 @@
         "Sear  499"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-41 to -41"
+    ],
     "hashed_id_s": [
         "ab2dfec69d0889d4"
     ],
-    "_version_": 1667138501865373696,
-    "timestamp": "2020-05-19T16:52:51.125Z"
+    "_version_": 1684903635156205568,
+    "timestamp": "2020-12-01T19:02:02.473Z"
 }

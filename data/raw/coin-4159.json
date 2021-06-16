@@ -35,16 +35,22 @@
         "0.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4159\",\"call_number_browse\":\"Coin 4159\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Edmund Nordheim; 1931; #17.55"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "2370"
     ],
     "issue_metal_s": [
         "Silver"
@@ -71,19 +77,25 @@
         "facing"
     ],
     "issue_obverse_figure_description_s": [
-        "horns garlanded; legend below; border of dots"
+        "with horns garlanded; legend below"
     ],
     "issue_obverse_legend_s": [
-        "C ANTIVS"
+        "C.ANTIVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Altar"
     ],
     "issue_reverse_figure_description_s": [
-        "lit altar, garlanded; legend split on either side"
+        "lighted altar, garlanded; legend split on either side"
     ],
     "issue_reverse_legend_s": [
-        "RES TIO"
+        "RESTIO"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  455/4",
@@ -91,9 +103,12 @@
         "Sear  437"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "c51394fb280fd509"
     ],
-    "_version_": 1667138233580912640,
-    "timestamp": "2020-05-19T16:48:35.267Z"
+    "_version_": 1684902988278136832,
+    "timestamp": "2020-12-01T18:51:45.560Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-7969",
     "title_display": "Coin: 7969",
     "pub_created_display": [
-        "Julia Mamea (222 to 235), follis, Rome"
+        "Severus Alexander (222 to 235), as, Rome"
     ],
     "call_number_display": [
         "Coin 7969"
@@ -25,23 +25,20 @@
     "advanced_location_s": [
         "num"
     ],
-    "notes_display": [
-        "Not in Waage, BMC"
-    ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6-4-1937"
+        "06/04/1937"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
         "Ca1858"
     ],
     "find_description_s": [
-        "Dig IV room 3 to 6.5 m"
+        "Dig IV, room 3, to 6.5m (basket 3)"
     ],
     "die_axis_s": [
         "12"
@@ -53,34 +50,40 @@
         "11.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7969\",\"call_number_browse\":\"Coin 7969\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 222,
     "pub_date_end_sort": 235,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "5011"
+        "as"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Julia Mamea (222 to 235)"
+        "Severus Alexander (222 to 235)"
     ],
     "issue_place_s": [
-        "Rome, Latium, Italy"
+        "Rome, Italy, Roman Empire"
     ],
     "issue_city_s": [
         "Rome"
     ],
     "issue_state_s": [
-        "Latium"
+        "Italy"
     ],
     "issue_region_s": [
-        "Italy"
+        "Roman Empire"
     ],
     "issue_obverse_figure_s": [
         "Bust"
@@ -92,30 +95,39 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "of Julia Mamea, five ridges in hair"
+        "Julia Mamea, diademed, five ridges in hair"
     ],
     "issue_obverse_legend_s": [
-        "illegible"
+        "IVLIA MAMAEA AVGVSTA"
     ],
     "issue_reverse_figure_s": [
-        "Female figure"
+        "Felicitas"
+    ],
+    "issue_reverse_part_s": [
+        "In biga"
     ],
     "issue_reverse_orientation_s": [
-        "facing, head to left"
+        "standing front, head left"
     ],
     "issue_reverse_figure_description_s": [
-        "draped, legs crossed, holding caduceus transverse to l. in r. hand and resting l. arm on low column; fold of drapery over l. arm"
+        "draped, legs crossed, leaning on low column"
     ],
     "issue_reverse_legend_s": [
-        "illegible, save for S C, l. and r. in field."
+        "FELICITAS PVBLICA S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "caduceus transverse, in her r. hand"
     ],
     "issue_references_s": [
-        "RIC VI.161 491"
+        "RIC IV  Severus Alexander 677"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "222 to 235"
+    ],
     "hashed_id_s": [
         "9489457cbc82bde1"
     ],
-    "_version_": 1667138265041338368,
-    "timestamp": "2020-05-19T16:49:05.270Z"
+    "_version_": 1684903132251815936,
+    "timestamp": "2020-12-01T18:54:02.866Z"
 }

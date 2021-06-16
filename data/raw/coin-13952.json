@@ -35,6 +35,9 @@
         "23.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13952\",\"call_number_browse\":\"Coin 13952\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "8877"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "c0df610b3bf214b9"
     ],
-    "_version_": 1667138525139566592,
-    "timestamp": "2020-05-19T16:53:13.318Z"
+    "_version_": 1684903648931348480,
+    "timestamp": "2020-12-01T19:02:15.609Z"
 }

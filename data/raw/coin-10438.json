@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "dupondius"
     ],
-    "issue_number_s": [
-        "6622"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -101,9 +98,12 @@
         "Roman Imperial Coinage  280"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "2c857bfba148e50a"
     ],
-    "_version_": 1667138282297753600,
-    "timestamp": "2020-05-19T16:49:21.725Z"
+    "_version_": 1684903140407640064,
+    "timestamp": "2020-12-01T18:54:10.643Z"
 }

@@ -35,8 +35,11 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2926\",\"call_number_browse\":\"Coin 2926\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1831"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; apex behind; XVI monogram before."
+        "helmeted; behind, apex; before, XVI monogram (X, crossed)."
+    ],
+    "issue_obverse_legend_s": [
+        "X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "m77, XVI monogram."
     ],
     "issue_reverse_figure_s": [
@@ -96,13 +99,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Mars r. in quadriga; in r. hand, trophy; in l. hand, spear, shield, reins; legends below."
+        "in quadriga; holding spear, shield, and reins in l. hand and trophy in r. hand; below, L. POST. ALB; ROMA in exergue."
     ],
     "issue_reverse_legend_s": [
-        "L. POST. ALB; ROMA [in exergue]"
+        "L. POST. ALB ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "m86, AL in monogram."
     ],
     "issue_references_s": [
@@ -111,9 +114,12 @@
         "Sear  128"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "aea2316fc4f4c360"
     ],
-    "_version_": 1667138479720497152,
-    "timestamp": "2020-05-19T16:52:30.004Z"
+    "_version_": 1684903226289160192,
+    "timestamp": "2020-12-01T18:55:32.546Z"
 }

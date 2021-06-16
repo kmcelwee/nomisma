@@ -29,7 +29,7 @@
         "On obverse half of Antiochus I's head chipped away,on reverse \u0392\u0391\u03a3\u0399 and monogram in right field chipped away"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/14/1937"
@@ -50,6 +50,12 @@
         "9.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2435\",\"call_number_browse\":\"Coin 2435\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -268,
     "pub_date_end_sort": -261,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "1540"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -111,7 +114,6 @@
     ],
     "issue_reverse_attributes_s": [
         "P, in outer l. field",
-        "m1516, in outer r. field",
         "bow, in l. hand",
         "arrow, in extended r. hand"
     ],
@@ -121,9 +123,15 @@
         "Houghton  31"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-268 to -261"
+    ],
     "hashed_id_s": [
         "c1d4835917b76966"
     ],
-    "_version_": 1669921396644380672,
-    "timestamp": "2020-06-19T10:05:46.402Z"
+    "_version_": 1684902965696004096,
+    "timestamp": "2020-12-01T18:51:24.026Z"
 }

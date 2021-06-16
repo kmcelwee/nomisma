@@ -38,7 +38,7 @@
         "13-R"
     ],
     "find_number_s": [
-        "Cc25"
+        "Cc0025"
     ],
     "die_axis_s": [
         "1"
@@ -50,6 +50,12 @@
         "1.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7704\",\"call_number_browse\":\"Coin 7704\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 450,
     "pub_date_end_sort": 457,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "aes IV"
-    ],
-    "issue_number_s": [
-        "4781"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,13 +104,16 @@
         "ANTA"
     ],
     "issue_references_s": [
-        "RIC X  568",
+        "RIC X Marcian 568",
         "DOC  494?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "450 to 457"
+    ],
     "hashed_id_s": [
         "9359d9868f620a2d"
     ],
-    "_version_": 1667138351705096192,
-    "timestamp": "2020-05-19T16:50:27.919Z"
+    "_version_": 1684903678111121408,
+    "timestamp": "2020-12-01T19:02:43.437Z"
 }

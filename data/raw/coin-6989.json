@@ -41,6 +41,12 @@
         "19.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6989\",\"call_number_browse\":\"Coin 6989\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -275,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "4366"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +90,12 @@
         "Haeb. pl. 80 18"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-275 to -268"
+    ],
     "hashed_id_s": [
         "c0dcb01092769063"
     ],
-    "_version_": 1667138358829121536,
-    "timestamp": "2020-05-19T16:50:34.713Z"
+    "_version_": 1684903089066213376,
+    "timestamp": "2020-12-01T18:53:21.683Z"
 }

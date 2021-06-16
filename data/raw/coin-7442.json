@@ -35,8 +35,11 @@
         "3.742"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7442\",\"call_number_browse\":\"Coin 7442\"}}",
-    "donor_s": [
-        "Spink"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "583:  Spink"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4661"
     ],
     "issue_metal_s": [
         "Silver"
@@ -113,6 +113,6 @@
     "hashed_id_s": [
         "958ee37a19332b0d"
     ],
-    "_version_": 1667138258243420160,
-    "timestamp": "2020-05-19T16:48:58.788Z"
+    "_version_": 1684903480122146816,
+    "timestamp": "2020-12-01T18:59:34.621Z"
 }

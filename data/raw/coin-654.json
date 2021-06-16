@@ -38,8 +38,11 @@
         "13.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 654\",\"call_number_browse\":\"Coin 654\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "55:  W.S. Watson"
     ],
     "pub_date_start_sort": -188,
     "pub_date_end_sort": -187,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "271"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,12 @@
         "Price  2904"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-188 to -187"
+    ],
     "hashed_id_s": [
         "3b5dfe5208eea94c"
     ],
-    "_version_": 1667138449850761216,
-    "timestamp": "2020-05-19T16:52:01.515Z"
+    "_version_": 1684903590538248192,
+    "timestamp": "2020-12-01T19:01:19.920Z"
 }

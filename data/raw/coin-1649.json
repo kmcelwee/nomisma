@@ -35,6 +35,12 @@
         "12.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1649\",\"call_number_browse\":\"Coin 1649\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "215: 1984-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 63,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -104,9 +110,12 @@
         "RPC.1  4123"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "63 to 68"
+    ],
     "hashed_id_s": [
         "5e797670690dd9af"
     ],
-    "_version_": 1675623213286031360,
-    "timestamp": "2020-08-21T08:33:42.489Z"
+    "_version_": 1684903679579127808,
+    "timestamp": "2020-12-01T19:02:44.837Z"
 }

@@ -38,8 +38,11 @@
         "1.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13653\",\"call_number_browse\":\"Coin 13653\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "drachma"
-    ],
-    "issue_number_s": [
-        "8737"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademedm older features, diadem waving in parallel behind"
+        "with youthful features"
     ],
     "issue_reverse_figure_s": [
         "Apollo"
+    ],
+    "issue_reverse_symbol_s": [
+        "horse head"
     ],
     "issue_reverse_part_s": [
         "seated"
@@ -102,15 +105,19 @@
     ],
     "issue_reverse_attributes_s": [
         "arrow, in l. hand",
-        "bow, in r. hand"
+        "bow, in r. hand",
+        "\u0394\u039a, in exergue"
     ],
     "issue_references_s": [
         "H & L II, v.1, p.119 1548"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "4885bc8f0b14b0e4"
     ],
-    "_version_": 1667138514225987584,
-    "timestamp": "2020-05-19T16:53:02.910Z"
+    "_version_": 1684903324504031232,
+    "timestamp": "2020-12-01T18:57:06.211Z"
 }

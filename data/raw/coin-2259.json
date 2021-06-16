@@ -53,16 +53,19 @@
         "1.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2259\",\"call_number_browse\":\"Coin 2259\"}}",
-    "pub_date_start_sort": -285,
-    "pub_date_end_sort": -280,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -290,
+    "pub_date_end_sort": -285,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1460"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,16 +77,16 @@
         "Seleucus I Nikator (-312 to -280)"
     ],
     "issue_place_s": [
-        "Seleuceia Pieria, Seleucus and Pieria, Syria"
+        "Seleuceia Pieria, Seleucis and Pieria, Seleucid Empire"
     ],
     "issue_city_s": [
         "Seleuceia Pieria"
     ],
     "issue_state_s": [
-        "Seleucus and Pieria"
+        "Seleucis and Pieria"
     ],
     "issue_region_s": [
-        "Syria"
+        "Seleucid Empire"
     ],
     "issue_obverse_figure_s": [
         "Zeus"
@@ -101,18 +104,26 @@
         "flying"
     ],
     "issue_reverse_legend_s": [
-        "\u03a3\u0395\u039b\u0395\u03a5\u039a\u0395\u03a9\u039d"
+        "\u03a3\u0395\u039b\u0395\u03a5 | \u039a\u0395\u03a9\u039d"
     ],
     "issue_reverse_attributes_s": [
-        "m1460, beneath thunderbolt"
+        "m1456, beneath thunderbolt"
     ],
     "issue_references_s": [
-        "WSM  902"
+        "H & L  33",
+        "WSM  903v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zeus",
+        "Category, thunderbolt"
+    ],
+    "issue_date_s": [
+        "-290 to -285"
+    ],
     "hashed_id_s": [
         "819fe5cf155574b4"
     ],
-    "_version_": 1669832372579729408,
-    "timestamp": "2020-06-18T10:30:46.453Z"
+    "_version_": 1684903315249299456,
+    "timestamp": "2020-12-01T18:56:57.384Z"
 }

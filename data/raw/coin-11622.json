@@ -38,6 +38,9 @@
         "0.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11622\",\"call_number_browse\":\"Coin 11622\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 276,
     "pub_date_end_sort": 293,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7741"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "SN  VII/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "276 to 293"
+    ],
     "hashed_id_s": [
         "90bfc7732b6bde81"
     ],
-    "_version_": 1667138295571677184,
-    "timestamp": "2020-05-19T16:49:34.384Z"
+    "_version_": 1684903146192633856,
+    "timestamp": "2020-12-01T18:54:16.161Z"
 }

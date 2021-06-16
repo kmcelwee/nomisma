@@ -35,8 +35,11 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1761\",\"call_number_browse\":\"Coin 1761\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1143"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; X behind."
+        "helmeted; behind, legend."
+    ],
+    "issue_obverse_legend_s": [
+        "X"
     ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -92,13 +95,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r. in biga, w/ whip in r. hand and reins in l. hand; legends below, ROMA in exergue."
+        "in biga, holding whip in r. hand and reins in l. hand; below, C.MAIANI; legend in exergue."
     ],
     "issue_reverse_legend_s": [
-        "C.MAIANI; ROMA"
+        "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border",
+        "border, line",
         "m90, Monogram",
         "m89, Monogram"
     ],
@@ -108,9 +111,12 @@
         "Sear  82"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "8b5dd42c5be29e7f"
     ],
-    "_version_": 1667138415656697856,
-    "timestamp": "2020-05-19T16:51:28.908Z"
+    "_version_": 1684903189147549696,
+    "timestamp": "2020-12-01T18:54:57.125Z"
 }

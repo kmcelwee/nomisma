@@ -38,8 +38,14 @@
         "4.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11020\",\"call_number_browse\":\"Coin 11020\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Fran\u00e7ois Gurnet; 06/07/2002"
     ],
     "pub_date_start_sort": 438,
     "pub_date_end_sort": 457,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7180"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Uncertain Mint Type Ib1/2b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "438 to 457"
+    ],
     "hashed_id_s": [
         "3b685918706b8e2e"
     ],
-    "_version_": 1667138288947822592,
-    "timestamp": "2020-05-19T16:49:28.067Z"
+    "_version_": 1684903143072071680,
+    "timestamp": "2020-12-01T18:54:13.185Z"
 }

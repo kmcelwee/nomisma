@@ -38,8 +38,14 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10850\",\"call_number_browse\":\"Coin 10850\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 12/01/2001"
     ],
     "pub_date_start_sort": 379,
     "pub_date_end_sort": 383,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7010"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3  Mint I (\"Kabul\") Type Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "379 to 383"
+    ],
     "hashed_id_s": [
         "f1c80128a80aa95e"
     ],
-    "_version_": 1667138286786707456,
-    "timestamp": "2020-05-19T16:49:26.006Z"
+    "_version_": 1684903142076973056,
+    "timestamp": "2020-12-01T18:54:12.234Z"
 }

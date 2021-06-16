@@ -53,6 +53,12 @@
         "1.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5989\",\"call_number_browse\":\"Coin 5989\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 491,
     "pub_date_end_sort": 518,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "3466"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -112,9 +115,12 @@
         "DOC  49b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "491 to 518"
+    ],
     "hashed_id_s": [
         "7ff52c1c29ecfeaf"
     ],
-    "_version_": 1667138382923300864,
-    "timestamp": "2020-05-19T16:50:57.692Z"
+    "_version_": 1684903558016663552,
+    "timestamp": "2020-12-01T19:00:48.906Z"
 }

@@ -44,6 +44,12 @@
         "0.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1936\",\"call_number_browse\":\"Coin 1936\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -150,
     "pub_date_end_sort": -100,
     "issue_object_type_s": [
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1262"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-150 to -100"
+    ],
     "hashed_id_s": [
         "86c8ba9bfda4f918"
     ],
-    "_version_": 1667138468999856128,
-    "timestamp": "2020-05-19T16:52:19.780Z"
+    "_version_": 1684903610189611008,
+    "timestamp": "2020-12-01T19:01:38.662Z"
 }

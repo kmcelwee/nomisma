@@ -38,16 +38,16 @@
         "5.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6406\",\"call_number_browse\":\"Coin 6406\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "token"
-    ],
-    "issue_number_s": [
-        "3834"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "269d03b15dd01601"
     ],
-    "_version_": 1667138375085195264,
-    "timestamp": "2020-05-19T16:50:50.214Z"
+    "_version_": 1684903259173552128,
+    "timestamp": "2020-12-01T18:56:03.907Z"
 }

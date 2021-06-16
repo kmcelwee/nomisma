@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "Drachm"
     ],
-    "issue_number_s": [
-        "7811"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -87,9 +84,12 @@
         "Paruck  424"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "3c5951a6a7ae6ba8"
     ],
-    "_version_": 1667138296179851264,
-    "timestamp": "2020-05-19T16:49:34.966Z"
+    "_version_": 1684903146484137984,
+    "timestamp": "2020-12-01T18:54:16.439Z"
 }

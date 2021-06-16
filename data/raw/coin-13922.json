@@ -41,6 +41,12 @@
         "2.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13922\",\"call_number_browse\":\"Coin 13922\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "866: 1990-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8954"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,6 +109,6 @@
     "hashed_id_s": [
         "5dcefedf41f73a58"
     ],
-    "_version_": 1667138329891569664,
-    "timestamp": "2020-05-19T16:50:07.114Z"
+    "_version_": 1684903229881581568,
+    "timestamp": "2020-12-01T18:55:35.972Z"
 }

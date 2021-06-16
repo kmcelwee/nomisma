@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "stater"
     ],
-    "issue_number_s": [
-        "387"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -92,9 +89,12 @@
         "ANS Part 3, Bruttium 279-81"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-480 to -420"
+    ],
     "hashed_id_s": [
         "706ae57165485cc9"
     ],
-    "_version_": 1667138205755899904,
-    "timestamp": "2020-05-19T16:48:08.729Z"
+    "_version_": 1684903441958174720,
+    "timestamp": "2020-12-01T18:58:58.224Z"
 }

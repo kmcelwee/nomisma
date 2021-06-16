@@ -38,6 +38,12 @@
         "9.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2650\",\"call_number_browse\":\"Coin 2650\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "49: 2006-01-17 Pegasi Numismatics"
+    ],
     "pub_date_start_sort": 1575,
     "pub_date_end_sort": 1575,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "teston"
-    ],
-    "issue_number_s": [
-        "1671"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +101,12 @@
         "Le monete dei papi e degli stati pontifici Gregory XIII 28v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1575 to 1575"
+    ],
     "hashed_id_s": [
         "96988bbf3e0ff058"
     ],
-    "_version_": 1667138424324227072,
-    "timestamp": "2020-05-19T16:51:37.174Z"
+    "_version_": 1684903577757155328,
+    "timestamp": "2020-12-01T19:01:07.733Z"
 }

@@ -35,8 +35,11 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1093\",\"call_number_browse\":\"Coin 1093\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
@@ -99,9 +102,12 @@
         "Price  P101"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "9df5739d39c345cf"
     ],
-    "_version_": 1673105299605553152,
-    "timestamp": "2020-07-24T13:32:32.877Z"
+    "_version_": 1684903669446737920,
+    "timestamp": "2020-12-01T19:02:35.175Z"
 }

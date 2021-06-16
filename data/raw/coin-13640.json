@@ -38,8 +38,11 @@
         "15.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13640\",\"call_number_browse\":\"Coin 13640\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8722"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,15 +100,18 @@
     "issue_reverse_attributes_s": [
         "arrow, in r. hand",
         "grounded bow, in l. hand",
-        "monogram, \u03c6\u0399 in exergue"
+        "\u03a6\u0399, in exergue"
     ],
     "issue_references_s": [
-        "H & L II, vol. I, p.14 1313.6"
+        "H & L II, vol. I, p.14 1313.6f"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "b39f948c781de839"
     ],
-    "_version_": 1667138514803752960,
-    "timestamp": "2020-05-19T16:53:03.460Z"
+    "_version_": 1684903328746569728,
+    "timestamp": "2020-12-01T18:57:10.258Z"
 }

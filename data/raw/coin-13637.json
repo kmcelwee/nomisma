@@ -47,6 +47,9 @@
         "0.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13637\",\"call_number_browse\":\"Coin 13637\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6229"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,12 +101,15 @@
         "SMAN\u0393"
     ],
     "issue_references_s": [
-        "RIC.8 515 39"
+        "RIC VIII Antioch 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "944b0ce8f32828ab"
     ],
-    "_version_": 1667138521694994432,
-    "timestamp": "2020-05-19T16:53:10.033Z"
+    "_version_": 1684903687348027392,
+    "timestamp": "2020-12-01T19:02:52.245Z"
 }

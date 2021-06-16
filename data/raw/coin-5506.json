@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "5 Pounds"
     ],
-    "issue_number_s": [
-        "3104"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,9 +75,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "c7c669b2bc175163"
     ],
-    "_version_": 1667138112242843648,
-    "timestamp": "2020-05-19T16:46:39.548Z"
+    "_version_": 1684903649448296448,
+    "timestamp": "2020-12-01T19:02:16.102Z"
 }

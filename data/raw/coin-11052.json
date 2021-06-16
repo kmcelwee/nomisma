@@ -38,8 +38,14 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11052\",\"call_number_browse\":\"Coin 11052\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Jean Elsen et Fils, Brussels; 05/15/2002; 70 (355)"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7213"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 LYW Type IIa/1d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "c2c75c26a5bdd588"
     ],
-    "_version_": 1667138169348292608,
-    "timestamp": "2020-05-19T16:47:34.009Z"
+    "_version_": 1684902943773425664,
+    "timestamp": "2020-12-01T18:51:03.117Z"
 }

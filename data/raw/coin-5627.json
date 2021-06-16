@@ -35,8 +35,14 @@
         "7.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5627\",\"call_number_browse\":\"Coin 5627\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "M\u00fcnzen und Medaillen, Basel; 11/1964; #7 of Teil 248, Oct. 1964 issue; $49.40"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3198"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Vlasto Coll.  1020-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "b50ca36b983b3b62"
     ],
-    "_version_": 1667138390298984448,
-    "timestamp": "2020-05-19T16:51:04.723Z"
+    "_version_": 1684903564581797888,
+    "timestamp": "2020-12-01T19:00:55.167Z"
 }

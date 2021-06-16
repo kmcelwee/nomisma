@@ -38,8 +38,14 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11155\",\"call_number_browse\":\"Coin 11155\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 01/31/2000"
     ],
     "pub_date_start_sort": 578,
     "pub_date_end_sort": 590,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7319"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  ST Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "578 to 590"
+    ],
     "hashed_id_s": [
         "c6c51374caa25ea2"
     ],
-    "_version_": 1667138171164426240,
-    "timestamp": "2020-05-19T16:47:35.742Z"
+    "_version_": 1684902947354312704,
+    "timestamp": "2020-12-01T18:51:06.535Z"
 }

@@ -38,8 +38,11 @@
         "13.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2143\",\"call_number_browse\":\"Coin 2143\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -296,
     "pub_date_end_sort": -295,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1424"
     ],
     "issue_metal_s": [
         "Silver"
@@ -116,9 +116,18 @@
         "Sear  6831v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, anchor",
+        "Other Person, Athena",
+        "Animal, elephant",
+        "Other Person, Zeus"
+    ],
+    "issue_date_s": [
+        "-296 to -295"
+    ],
     "hashed_id_s": [
         "17987ad159c6030a"
     ],
-    "_version_": 1667138112335118336,
-    "timestamp": "2020-05-19T16:46:39.638Z"
+    "_version_": 1684902934035300352,
+    "timestamp": "2020-12-01T18:50:53.832Z"
 }

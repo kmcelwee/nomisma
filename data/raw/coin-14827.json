@@ -38,8 +38,11 @@
         "4.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14827\",\"call_number_browse\":\"Coin 14827\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 756,
     "pub_date_end_sort": 762,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "9105"
     ],
     "issue_metal_s": [
         "Copper"
@@ -74,9 +74,12 @@
         "wei jin sui tang qian bi: \u9b4f\u664b\u968b\u5510\u9322\u5e63 283 1116"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "756 to 762"
+    ],
     "hashed_id_s": [
         "b6d418bcf0426ffe"
     ],
-    "_version_": 1667307158722576384,
-    "timestamp": "2020-05-21T13:33:34.833Z"
+    "_version_": 1684903657596780544,
+    "timestamp": "2020-12-01T19:02:23.873Z"
 }

@@ -32,8 +32,11 @@
         "21.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3515\",\"call_number_browse\":\"Coin 3515\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1674,
     "pub_date_end_sort": 1678,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Fen"
-    ],
-    "issue_number_s": [
-        "2059"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,9 +75,12 @@
         "Zhong Guo 316 2nd row"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1674 to 1678"
+    ],
     "hashed_id_s": [
         "4b9c9bc7baeead4c"
     ],
-    "_version_": 1667138165128822784,
-    "timestamp": "2020-05-19T16:47:29.985Z"
+    "_version_": 1684902934420127744,
+    "timestamp": "2020-12-01T18:50:54.198Z"
 }

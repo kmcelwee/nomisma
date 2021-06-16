@@ -2,7 +2,7 @@
     "id": "coin-7513",
     "title_display": "Coin: 7513",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7513"
@@ -47,6 +47,9 @@
         "1.388"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7513\",\"call_number_browse\":\"Coin 7513\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -59,7 +62,7 @@
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -102,9 +105,12 @@
         "Cohen 7 318.760"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "d1278872af8f9f4f"
     ],
-    "_version_": 1673553592851628032,
-    "timestamp": "2020-07-29T12:17:58.632Z"
+    "_version_": 1684903681403650048,
+    "timestamp": "2020-12-01T19:02:46.577Z"
 }

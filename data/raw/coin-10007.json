@@ -102,9 +102,12 @@
         "Schl.  V1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1104 to 1112"
+    ],
     "hashed_id_s": [
         "5a52f1175ec77284"
     ],
-    "_version_": 1674169152588218368,
-    "timestamp": "2020-08-05T07:22:02.145Z"
+    "_version_": 1684903490165407744,
+    "timestamp": "2020-12-01T18:59:44.197Z"
 }

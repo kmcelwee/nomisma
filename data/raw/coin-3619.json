@@ -35,8 +35,11 @@
         "4.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3619\",\"call_number_browse\":\"Coin 3619\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1620,
     "pub_date_end_sort": 1621,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3066"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +71,12 @@
         "Shang Hai YMQ 149 509"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1620 to 1621"
+    ],
     "hashed_id_s": [
         "6923d08f45e427c5"
     ],
-    "_version_": 1667138247714668544,
-    "timestamp": "2020-05-19T16:48:48.743Z"
+    "_version_": 1684903008640434176,
+    "timestamp": "2020-12-01T18:52:04.982Z"
 }

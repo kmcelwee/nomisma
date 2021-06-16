@@ -35,8 +35,14 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10852\",\"call_number_browse\":\"Coin 10852\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Nick Economopoulos; 03/15/2003"
     ],
     "pub_date_start_sort": 379,
     "pub_date_end_sort": 383,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7012"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3  Mint I (\"Kabul\") Type Ic/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "379 to 383"
+    ],
     "hashed_id_s": [
         "baa2caceceda1bf1"
     ],
-    "_version_": 1667138172474097664,
-    "timestamp": "2020-05-19T16:47:36.989Z"
+    "_version_": 1684902949528010752,
+    "timestamp": "2020-12-01T18:51:08.605Z"
 }

@@ -41,19 +41,25 @@
         "18.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6974\",\"call_number_browse\":\"Coin 6974\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -268,
-    "pub_date_end_sort": 0,
+    "pub_date_end_sort": -268,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "uncia"
     ],
-    "issue_number_s": [
-        "4359"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Asculum, Apulia, Italy"
@@ -75,12 +81,16 @@
     ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy pl. 17, #1 165",
-        "Haeb. pl. 69 5-11"
+        "Haeb. pl. 69 5-11",
+        "RRC  14/5v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-268 to -268"
+    ],
     "hashed_id_s": [
         "a7de62b22cc973a2"
     ],
-    "_version_": 1667138138629210112,
-    "timestamp": "2020-05-19T16:47:04.713Z"
+    "_version_": 1684903387498283008,
+    "timestamp": "2020-12-01T18:58:06.285Z"
 }

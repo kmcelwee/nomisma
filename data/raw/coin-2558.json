@@ -35,6 +35,12 @@
         "16.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2558\",\"call_number_browse\":\"Coin 2558\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "298:  Italo Vecchi"
+    ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -246,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1608"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,7 +102,7 @@
     ],
     "issue_reverse_attributes_s": [
         "m1608, in exergue",
-        "m1608a, in exergue",
+        "\u039e, in exergue",
         "bow, in l. hand",
         "arrow, in outstretched r. hand"
     ],
@@ -109,9 +112,15 @@
         "Houghton  630v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-261 to -246"
+    ],
     "hashed_id_s": [
         "8dba46882b873917"
     ],
-    "_version_": 1667138121481846784,
-    "timestamp": "2020-05-19T16:46:48.361Z"
+    "_version_": 1684903652911742976,
+    "timestamp": "2020-12-01T19:02:19.404Z"
 }

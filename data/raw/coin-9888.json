@@ -38,8 +38,14 @@
         "1.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9888\",\"call_number_browse\":\"Coin 9888\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1977"
     ],
     "pub_date_start_sort": 1126,
     "pub_date_end_sort": 1140,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6268"
     ],
     "issue_metal_s": [
         "Copper"
@@ -89,9 +92,12 @@
         "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection IV,p.431 9.2/V"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1126 to 1140"
+    ],
     "hashed_id_s": [
         "d4881890794392fe"
     ],
-    "_version_": 1667138142224777216,
-    "timestamp": "2020-05-19T16:47:08.144Z"
+    "_version_": 1684903392830291968,
+    "timestamp": "2020-12-01T18:58:11.372Z"
 }

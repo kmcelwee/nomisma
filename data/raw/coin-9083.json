@@ -35,8 +35,11 @@
         "2.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9083\",\"call_number_browse\":\"Coin 9083\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "5770"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +105,12 @@
         "BMC.1 3, Trajan 607"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "43e95327b60a83f9"
     ],
-    "_version_": 1667138146981117952,
-    "timestamp": "2020-05-19T16:47:12.678Z"
+    "_version_": 1684903400272035840,
+    "timestamp": "2020-12-01T18:58:18.468Z"
 }

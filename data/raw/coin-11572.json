@@ -41,6 +41,12 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11572\",\"call_number_browse\":\"Coin 11572\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7706"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  LD Type II/2 (SN)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "0cc89fcd28ac0e76"
     ],
-    "_version_": 1667138133044494336,
-    "timestamp": "2020-05-19T16:46:59.386Z"
+    "_version_": 1684903379858358272,
+    "timestamp": "2020-12-01T18:57:59.006Z"
 }

@@ -35,6 +35,9 @@
         "6.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6852\",\"call_number_browse\":\"Coin 6852\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1765,
     "pub_date_end_sort": 1790,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "20 kreuzer"
-    ],
-    "issue_number_s": [
-        "4260"
     ],
     "issue_metal_s": [
         "Copper"
@@ -92,9 +92,12 @@
         "Herinek 1740-1969, Joseph II 216"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1765 to 1790"
+    ],
     "hashed_id_s": [
         "77f0dd7423e0d9fc"
     ],
-    "_version_": 1667138360634769408,
-    "timestamp": "2020-05-19T16:50:36.432Z"
+    "_version_": 1684903089991057408,
+    "timestamp": "2020-12-01T18:53:22.562Z"
 }

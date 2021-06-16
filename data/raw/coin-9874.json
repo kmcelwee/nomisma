@@ -41,8 +41,11 @@
         "2.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9874\",\"call_number_browse\":\"Coin 9874\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1249,
     "pub_date_end_sort": 1250,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6249"
     ],
     "issue_metal_s": [
         "Billon"
@@ -103,9 +103,12 @@
         "Sear  2066"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1249 to 1250"
+    ],
     "hashed_id_s": [
         "15df9b7363177ed8"
     ],
-    "_version_": 1667138194311741440,
-    "timestamp": "2020-05-19T16:47:57.816Z"
+    "_version_": 1684903070918508544,
+    "timestamp": "2020-12-01T18:53:04.374Z"
 }

@@ -35,6 +35,15 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4087\",\"call_number_browse\":\"Coin 4087\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; $2.50"
+    ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
     "issue_object_type_s": [
@@ -43,17 +52,14 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2345"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_master_s": [
         "M. Terentius Varro (-116 to -27)"
-    ],
-    "issue_workshop_s": [
-        "Moving with Pompey, probably in Spain"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -77,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed; legend downwards; border of dots"
+        "wearing diadem"
     ],
     "issue_obverse_legend_s": [
-        "VARRO \u0393RO Q"
+        "VARRO\u00b7PRO\u00b7Q"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Sceptre"
@@ -88,15 +97,13 @@
     "issue_reverse_orientation_s": [
         "upright"
     ],
-    "issue_reverse_figure_description_s": [
-        "to l., dolphin; to r., eagle; legend in two lines in exergue; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "MAGN \u0393RO | COS"
+        "MAGN\u00b7PRO / COS"
     ],
     "issue_reverse_attributes_s": [
-        "dolphin, to left of sceptre, facing r.",
-        "eagle, to right of sceptre, facing l."
+        "dolphin, on l. ",
+        "eagle, on r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  447/1a",
@@ -104,9 +111,12 @@
         "Sear  1374"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "9314a15612bee072"
     ],
-    "_version_": 1667138488814796800,
-    "timestamp": "2020-05-19T16:52:38.677Z"
+    "_version_": 1684903227859927040,
+    "timestamp": "2020-12-01T18:55:34.043Z"
 }

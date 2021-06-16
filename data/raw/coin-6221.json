@@ -35,13 +35,13 @@
         "36.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6221\",\"call_number_browse\":\"Coin 6221\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3667"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -84,9 +84,12 @@
         "Jean Mauger, I.MAVGER.F."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Capture of Belfort    "
+    ],
     "hashed_id_s": [
         "3093b61cc0042c34"
     ],
-    "_version_": 1667138374246334464,
-    "timestamp": "2020-05-19T16:50:49.416Z"
+    "_version_": 1684903112531247104,
+    "timestamp": "2020-12-01T18:53:44.057Z"
 }

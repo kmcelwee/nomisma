@@ -35,6 +35,15 @@
         "15.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13831\",\"call_number_browse\":\"Coin 13831\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; 2/23/1921; $5.00"
+    ],
     "pub_date_start_sort": -88,
     "pub_date_end_sort": -75,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8875"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +111,12 @@
         "H & L II,v.I,p.603 2463.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-88 to -75"
+    ],
     "hashed_id_s": [
         "e80d93c9dd904014"
     ],
-    "_version_": 1667138522433191936,
-    "timestamp": "2020-05-19T16:53:10.737Z"
+    "_version_": 1684903647395184640,
+    "timestamp": "2020-12-01T19:02:14.145Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-9545",
     "title_display": "Coin: 9545",
     "pub_created_display": [
-        "Tiberius, unknown, Apamea"
+        "Tiberius   (14 to 37), unknown, Apamea"
     ],
     "call_number_display": [
         "Coin 9545"
@@ -35,8 +35,8 @@
         "10.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9545\",\"call_number_browse\":\"Coin 9545\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 15,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "unknown"
     ],
-    "issue_number_s": [
-        "6095"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Apamea, Syria, Roman Empire"
@@ -102,9 +99,12 @@
         "PUL  838"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 15"
+    ],
     "hashed_id_s": [
         "dbf78ac9e6d88f81"
     ],
-    "_version_": 1667138146572173312,
-    "timestamp": "2020-05-19T16:47:12.289Z"
+    "_version_": 1684903399810662400,
+    "timestamp": "2020-12-01T18:58:18.028Z"
 }

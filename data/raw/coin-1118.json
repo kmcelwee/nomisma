@@ -35,8 +35,11 @@
         "4.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1118\",\"call_number_browse\":\"Coin 1118\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
     ],
     "pub_date_start_sort": 1337,
     "pub_date_end_sort": 1349,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "ecu"
-    ],
-    "issue_number_s": [
-        "565"
     ],
     "issue_metal_s": [
         "Gold"
@@ -80,9 +80,12 @@
         "Lafaurie  262c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1337 to 1349"
+    ],
     "hashed_id_s": [
         "490990d1016c55dc"
     ],
-    "_version_": 1667138408615510016,
-    "timestamp": "2020-05-19T16:51:22.193Z"
+    "_version_": 1684903182286716928,
+    "timestamp": "2020-12-01T18:54:50.582Z"
 }

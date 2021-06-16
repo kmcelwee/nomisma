@@ -35,8 +35,8 @@
         "0.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13982\",\"call_number_browse\":\"Coin 13982\"}}",
-    "donor_s": [
-        "George C. Brauer"
+    "numismatic_accession_s": [
+        "358: 1994-09-23 George C. Brauer"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "9012"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,6 +77,6 @@
     "hashed_id_s": [
         "aaa9a10fc2b25ba1"
     ],
-    "_version_": 1667144699999158272,
-    "timestamp": "2020-05-19T18:31:22.122Z"
+    "_version_": 1684903523130540032,
+    "timestamp": "2020-12-01T19:00:15.636Z"
 }

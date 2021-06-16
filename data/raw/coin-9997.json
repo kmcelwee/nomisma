@@ -50,6 +50,9 @@
         "1.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9997\",\"call_number_browse\":\"Coin 9997\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1004,
     "pub_date_end_sort": 1024,
     "issue_object_type_s": [
@@ -99,9 +102,12 @@
         "Ox.  9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1004 to 1024"
+    ],
     "hashed_id_s": [
         "b92ccb839c1787c3"
     ],
-    "_version_": 1674261277393813504,
-    "timestamp": "2020-08-06T07:46:19.215Z"
+    "_version_": 1684903393373454336,
+    "timestamp": "2020-12-01T18:58:11.895Z"
 }

@@ -26,19 +26,23 @@
         "num"
     ],
     "notes_display": [
-        "The AVG part of the reverse has been destroyed, but easily identifiable wen compared. Minta Mark: SMANT\u0393"
+        "The AVG part of the reverse has been destroyed, but easily identifiable when compared.",
+        "Mint Mark: SMANT\u0393"
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1937"
+        "1937-05-13"
+    ],
+    "find_feature_s": [
+        "Trench to NE. (basket Gamma)"
     ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
-        "Ca955"
+        "Ca0955"
     ],
     "die_axis_s": [
         "5"
@@ -50,6 +54,12 @@
         "2.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11778\",\"call_number_browse\":\"Coin 11778\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 327,
     "pub_date_end_sort": 329,
     "issue_object_type_s": [
@@ -57,9 +67,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4638"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +108,19 @@
         "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMANT"
     ],
     "issue_references_s": [
-        "RIC 7 691.78",
+        "RIC VII Antioch 78",
         "Cohen 7, 281 454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "b2084216feb1ca0a"
     ],
-    "_version_": 1667138259371687936,
-    "timestamp": "2020-05-19T16:48:59.863Z"
+    "_version_": 1691155302183862272,
+    "timestamp": "2021-02-08T19:09:36.751Z"
 }

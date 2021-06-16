@@ -32,8 +32,11 @@
         "69x86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9401\",\"call_number_browse\":\"Coin 9401\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "20 Shillings"
-    ],
-    "issue_number_s": [
-        "6022"
     ],
     "issue_metal_s": [
         "Paper"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "c0da4814928be93a"
     ],
-    "_version_": 1667138275378200576,
-    "timestamp": "2020-05-19T16:49:15.127Z"
+    "_version_": 1684903493656117248,
+    "timestamp": "2020-12-01T18:59:47.526Z"
 }

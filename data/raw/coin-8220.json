@@ -35,8 +35,11 @@
         "7.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8220\",\"call_number_browse\":\"Coin 8220\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -100,
     "pub_date_end_sort": -75,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5231"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "CNH 387 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-100 to -75"
+    ],
     "hashed_id_s": [
         "0ced0ffc38e29e8a"
     ],
-    "_version_": 1667138348709314560,
-    "timestamp": "2020-05-19T16:50:25.060Z"
+    "_version_": 1684903534018953216,
+    "timestamp": "2020-12-01T19:00:26.020Z"
 }

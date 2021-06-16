@@ -35,6 +35,15 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4762\",\"call_number_browse\":\"Coin 4762\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Baldwin's Auctions, London; 1928; $3.70"
+    ],
     "pub_date_start_sort": -37,
     "pub_date_end_sort": -37,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2591"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +104,12 @@
         "RIC.1.  36"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-37 to -37"
+    ],
     "hashed_id_s": [
         "f3d9cf74be4593d1"
     ],
-    "_version_": 1667138503975108608,
-    "timestamp": "2020-05-19T16:52:53.136Z"
+    "_version_": 1684903312821846016,
+    "timestamp": "2020-12-01T18:56:55.071Z"
 }

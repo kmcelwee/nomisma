@@ -35,8 +35,8 @@
         "4.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3671\",\"call_number_browse\":\"Coin 3671\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "2164"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,6 +73,6 @@
     "hashed_id_s": [
         "ee4f8f339aaef111"
     ],
-    "_version_": 1667138480742858752,
-    "timestamp": "2020-05-19T16:52:30.979Z"
+    "_version_": 1684903303116226560,
+    "timestamp": "2020-12-01T18:56:45.815Z"
 }

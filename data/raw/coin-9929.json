@@ -53,6 +53,12 @@
         "0.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9929\",\"call_number_browse\":\"Coin 9929\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1153,
     "pub_date_end_sort": 1163,
     "issue_object_type_s": [
@@ -105,9 +111,12 @@
         "Schl.  II26bv"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1153 to 1163"
+    ],
     "hashed_id_s": [
         "9ee63d74205eaa56"
     ],
-    "_version_": 1674259290084343808,
-    "timestamp": "2020-08-06T07:14:43.961Z"
+    "_version_": 1684903322953187328,
+    "timestamp": "2020-12-01T18:57:04.732Z"
 }

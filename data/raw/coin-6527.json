@@ -38,6 +38,9 @@
         "7.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6527\",\"call_number_browse\":\"Coin 6527\"}}",
+    "numismatic_accession_s": [
+        "353: 2008-01-15 Candiotti, Keith"
+    ],
     "pub_date_start_sort": 1367,
     "pub_date_end_sort": 1376,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stavraton"
-    ],
-    "issue_number_s": [
-        "3949"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "DOC vol. V, page 202 1236"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1367 to 1376"
+    ],
     "hashed_id_s": [
         "9a9f8d5a167ecf42"
     ],
-    "_version_": 1667138253598228480,
-    "timestamp": "2020-05-19T16:48:54.355Z"
+    "_version_": 1684903126091431936,
+    "timestamp": "2020-12-01T18:53:56.990Z"
 }

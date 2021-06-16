@@ -35,8 +35,11 @@
         "6.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1912\",\"call_number_browse\":\"Coin 1912\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 914,
     "pub_date_end_sort": 919,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1214"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear 338 1758"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "914 to 919"
+    ],
     "hashed_id_s": [
         "d3f7d865ef79b1df"
     ],
-    "_version_": 1667138133691465728,
-    "timestamp": "2020-05-19T16:47:00.003Z"
+    "_version_": 1684902914619867136,
+    "timestamp": "2020-12-01T18:50:35.315Z"
 }

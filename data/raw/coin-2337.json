@@ -35,8 +35,11 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2337\",\"call_number_browse\":\"Coin 2337\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -261,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1499"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +108,16 @@
         "ESM  524v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, lyre"
+    ],
+    "issue_date_s": [
+        "-278 to -261"
+    ],
     "hashed_id_s": [
         "d4ce82b9af877bb5"
     ],
-    "_version_": 1667138121727213568,
-    "timestamp": "2020-05-19T16:46:48.594Z"
+    "_version_": 1684903653061689344,
+    "timestamp": "2020-12-01T19:02:19.547Z"
 }

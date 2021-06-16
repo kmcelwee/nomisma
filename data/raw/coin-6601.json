@@ -35,8 +35,11 @@
         "6.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6601\",\"call_number_browse\":\"Coin 6601\"}}",
-    "donor_s": [
-        "R.F. Easton"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "489:  R.F. Easton"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 reales"
-    ],
-    "issue_number_s": [
-        "4018"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,6 +94,6 @@
     "hashed_id_s": [
         "b83254613540cc5c"
     ],
-    "_version_": 1667138366089461760,
-    "timestamp": "2020-05-19T16:50:41.635Z"
+    "_version_": 1684903546312458240,
+    "timestamp": "2020-12-01T19:00:37.744Z"
 }

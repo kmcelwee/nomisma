@@ -35,6 +35,12 @@
         "3.724"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12990\",\"call_number_browse\":\"Coin 12990\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -108,
     "pub_date_end_sort": -107,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8493"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "RRC  307-1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-108 to -107"
+    ],
     "hashed_id_s": [
         "5ac234f12fcc7bdf"
     ],
-    "_version_": 1667138314797318144,
-    "timestamp": "2020-05-19T16:49:52.720Z"
+    "_version_": 1684903054738980864,
+    "timestamp": "2020-12-01T18:52:48.942Z"
 }

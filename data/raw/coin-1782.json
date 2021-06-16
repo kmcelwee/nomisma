@@ -35,8 +35,11 @@
         "3.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1782\",\"call_number_browse\":\"Coin 1782\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 41,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "1399"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -91,9 +91,12 @@
         "Sear  1864"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 41"
+    ],
     "hashed_id_s": [
         "ffa5e928628d0b62"
     ],
-    "_version_": 1667138471882391552,
-    "timestamp": "2020-05-19T16:52:22.528Z"
+    "_version_": 1684903612351774720,
+    "timestamp": "2020-12-01T19:01:40.722Z"
 }

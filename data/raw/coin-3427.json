@@ -32,8 +32,8 @@
         "102x57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3427\",\"call_number_browse\":\"Coin 3427\"}}",
-    "donor_s": [
-        "Andre de Coppet"
+    "numismatic_accession_s": [
+        "369:  Andre de Coppet"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "6 shillings"
-    ],
-    "issue_number_s": [
-        "2034"
     ],
     "issue_metal_s": [
         "Paper"
@@ -87,9 +84,13 @@
         "Shafer & Cuhaj p. 1131 S1821"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "536edbf9acf44372"
     ],
-    "_version_": 1667138438639386624,
-    "timestamp": "2020-05-19T16:51:50.826Z"
+    "_version_": 1684903286309650432,
+    "timestamp": "2020-12-01T18:56:29.785Z"
 }

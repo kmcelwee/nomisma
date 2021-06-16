@@ -35,6 +35,9 @@
         "1.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6552\",\"call_number_browse\":\"Coin 6552\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1280,
     "pub_date_end_sort": 1350,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "basilicon"
-    ],
-    "issue_number_s": [
-        "3967"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Sear  2586"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1280 to 1350"
+    ],
     "hashed_id_s": [
         "4fe9928c1df899a2"
     ],
-    "_version_": 1667138366514135040,
-    "timestamp": "2020-05-19T16:50:42.039Z"
+    "_version_": 1684903546532659200,
+    "timestamp": "2020-12-01T19:00:37.954Z"
 }

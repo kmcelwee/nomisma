@@ -38,8 +38,11 @@
         "15.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14962\",\"call_number_browse\":\"Coin 14962\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "686:  unknown"
     ],
     "pub_date_start_sort": -430,
     "pub_date_end_sort": -322,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "9174"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         " unknown origin "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-430 to -322"
+    ],
     "hashed_id_s": [
         "fc8c9448e0ad2656"
     ],
-    "_version_": 1667223149986447360,
-    "timestamp": "2020-05-20T15:18:17.889Z"
+    "_version_": 1684903337851355136,
+    "timestamp": "2020-12-01T18:57:18.939Z"
 }

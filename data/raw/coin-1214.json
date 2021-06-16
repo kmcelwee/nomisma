@@ -35,8 +35,11 @@
         "13.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1214\",\"call_number_browse\":\"Coin 1214\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": -315,
     "pub_date_end_sort": -294,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "659"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Le Rider Plate 47 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-315 to -294"
+    ],
     "hashed_id_s": [
         "b4c9841ea939529d"
     ],
-    "_version_": 1667138460128903168,
-    "timestamp": "2020-05-19T16:52:11.319Z"
+    "_version_": 1684903293553213440,
+    "timestamp": "2020-12-01T18:56:36.694Z"
 }

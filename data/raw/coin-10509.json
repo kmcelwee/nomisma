@@ -35,8 +35,11 @@
         "12.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10509\",\"call_number_browse\":\"Coin 10509\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "6683"
     ],
     "issue_metal_s": [
         "Billon"
@@ -95,9 +95,12 @@
         "SNS 1 Group / Mint C (\"Ctesiphon\") Phase 2c/ Flames 1 (e) Type IIh/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "f35b0cce961bae33"
     ],
-    "_version_": 1667138282905927680,
-    "timestamp": "2020-05-19T16:49:22.306Z"
+    "_version_": 1684903026050990080,
+    "timestamp": "2020-12-01T18:52:21.584Z"
 }

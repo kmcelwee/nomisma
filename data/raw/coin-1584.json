@@ -35,8 +35,11 @@
         "0.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1584\",\"call_number_browse\":\"Coin 1584\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "15: 2002-12-18 Anonymous Class of '64"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -333,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/24 stater"
-    ],
-    "issue_number_s": [
-        "972"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Phoen Tyre 14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -333"
+    ],
     "hashed_id_s": [
         "8bc94558be7c8943"
     ],
-    "_version_": 1667145442008236032,
-    "timestamp": "2020-05-19T18:47:11.939Z"
+    "_version_": 1684903351129473024,
+    "timestamp": "2020-12-01T18:57:31.602Z"
 }

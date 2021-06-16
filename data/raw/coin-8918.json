@@ -38,8 +38,11 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8918\",\"call_number_browse\":\"Coin 8918\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -92,9 +95,12 @@
         "Sellwood  45.14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "60208091dfdaf0df"
     ],
-    "_version_": 1672998235342372864,
-    "timestamp": "2020-07-23T09:10:48.442Z"
+    "_version_": 1684903392885866496,
+    "timestamp": "2020-12-01T18:58:11.426Z"
 }

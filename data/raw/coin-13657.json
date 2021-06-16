@@ -2,7 +2,7 @@
     "id": "coin-13657",
     "title_display": "Coin: 13657",
     "pub_created_display": [
-        "Constantine I (306 to 337), follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 13657"
@@ -50,6 +50,9 @@
         "1.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13657\",\"call_number_browse\":\"Coin 13657\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -58,14 +61,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "8723"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine I (306 to 337)"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -86,7 +86,7 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled"
+        "veiled, Bust of Constantine I"
     ],
     "issue_obverse_legend_s": [
         "CONSTAN-TINVS AVG"
@@ -104,12 +104,15 @@
         "emperor, veiled, to r. in quadriga; the hand of God reaches down to him."
     ],
     "issue_references_s": [
-        "RIC.8 515 37"
+        "RIC VIII Antioch 37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "d2b34159ad9d2030"
     ],
-    "_version_": 1667138322925879296,
-    "timestamp": "2020-05-19T16:50:00.472Z"
+    "_version_": 1684903066458914816,
+    "timestamp": "2020-12-01T18:53:00.120Z"
 }

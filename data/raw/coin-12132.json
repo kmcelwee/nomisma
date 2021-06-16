@@ -35,8 +35,11 @@
         "27.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12132\",\"call_number_browse\":\"Coin 12132\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 131,
     "pub_date_end_sort": 132,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8190"
     ],
     "issue_ruler_s": [
         "Hadrian (117 to 138)"
@@ -89,9 +89,12 @@
         "RPC III 5791"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "131 to 132"
+    ],
     "hashed_id_s": [
         "cdd9bf36950fc6de"
     ],
-    "_version_": 1667138301037903872,
-    "timestamp": "2020-05-19T16:49:39.599Z"
+    "_version_": 1684903151221604352,
+    "timestamp": "2020-12-01T18:54:20.956Z"
 }

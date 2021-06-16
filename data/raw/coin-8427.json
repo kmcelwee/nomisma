@@ -35,8 +35,8 @@
         "6.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8427\",\"call_number_browse\":\"Coin 8427\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": -465,
     "pub_date_end_sort": -449,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "5375"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +90,12 @@
         "Cahn  72"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-465 to -449"
+    ],
     "hashed_id_s": [
         "dc8761d8a42f38c1"
     ],
-    "_version_": 1667138268186017792,
-    "timestamp": "2020-05-19T16:49:08.269Z"
+    "_version_": 1684903134173855744,
+    "timestamp": "2020-12-01T18:54:04.697Z"
 }

@@ -35,6 +35,9 @@
         "1.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 372\",\"call_number_browse\":\"Coin 372\"}}",
+    "numismatic_accession_s": [
+        "36:  "
+    ],
     "pub_date_start_sort": -29,
     "pub_date_end_sort": -26,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "188"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,17 @@
         "BMC.1. Augustus 647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Caesar",
+        "Category, victory",
+        "Category, cista"
+    ],
+    "issue_date_s": [
+        "-29 to -26"
+    ],
     "hashed_id_s": [
         "210472940691369f"
     ],
-    "_version_": 1667138403623239680,
-    "timestamp": "2020-05-19T16:51:17.432Z"
+    "_version_": 1684903177804054528,
+    "timestamp": "2020-12-01T18:54:46.307Z"
 }

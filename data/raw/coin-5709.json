@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "paper money"
     ],
-    "issue_number_s": [
-        "3259"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -81,9 +78,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "4d565f0863558d0b"
     ],
-    "_version_": 1667138388415741952,
-    "timestamp": "2020-05-19T16:51:02.930Z"
+    "_version_": 1684903149231407104,
+    "timestamp": "2020-12-01T18:54:19.057Z"
 }

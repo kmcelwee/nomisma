@@ -35,6 +35,9 @@
         "3.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9082\",\"call_number_browse\":\"Coin 9082\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "5769"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "BMC.1 3, Trajan 595"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "aa47c3f346274fda"
     ],
-    "_version_": 1667138150411010048,
-    "timestamp": "2020-05-19T16:47:15.949Z"
+    "_version_": 1684903404733726720,
+    "timestamp": "2020-12-01T18:58:22.724Z"
 }

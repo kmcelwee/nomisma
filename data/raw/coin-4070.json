@@ -35,8 +35,11 @@
         "3.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4070\",\"call_number_browse\":\"Coin 4070\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2337"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Sicinius"
@@ -77,22 +80,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing diadem; border of dots"
+        "wearing diadem"
     ],
     "issue_obverse_legend_s": [
-        "FORT | \u0393R"
+        "FORT P\u00b7R"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, made of dots"
     ],
     "issue_reverse_figure_s": [
         "Palm branch"
     ],
     "issue_reverse_figure_description_s": [
-        "tied with fillet and winged caduceus, in saltire; wreath above; moneyer's name below; IIIVIR on either side; border of dots"
+        "tied with fillet and winged caduceus in saltire; legend running on either side"
     ],
     "issue_reverse_legend_s": [
-        "Q SICINIVS | IIIVIR"
+        "Q\u00b7SICINIVS III\u00b7VIR"
     ],
     "issue_reverse_attributes_s": [
-        "caduceus, winged"
+        "caduceus, winged",
+        "border, dotted",
+        "wreath, above palm-branch"
     ],
     "issue_references_s": [
         "RRC  440/1",
@@ -100,9 +108,12 @@
         "Sear  410"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "0503fb25460adbe9"
     ],
-    "_version_": 1667138231902142464,
-    "timestamp": "2020-05-19T16:48:33.663Z"
+    "_version_": 1684903671043719168,
+    "timestamp": "2020-12-01T19:02:36.698Z"
 }

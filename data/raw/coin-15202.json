@@ -35,6 +35,9 @@
         "12.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15202\",\"call_number_browse\":\"Coin 15202\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 160,
     "pub_date_end_sort": 161,
     "issue_object_type_s": [
@@ -43,17 +46,14 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "9359"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +71,50 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG-PIVS  P P"
+        "ANTONINVS AVG PIVS P P"
     ],
     "issue_reverse_figure_s": [
-        "Young half-dr. male figure (Genius) standing facing, head l., with r. sacrificing from patera over altar; in l., sceptre; to l.-r., S - C"
+        "Genius"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naked to waist, draped, sacrificing out of patera over altar, l."
     ],
     "issue_reverse_legend_s": [
-        "TR POT XXIIII - COS IIII"
+        "TR POT XXIIII COS IIII S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre transverse, in l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 363 2117-8",
-        "RIC 154 1052",
-        "Strack 1205 "
+        "RIC III  Antoninus Pius 1052",
+        "Strack  1205",
+        "BMC.4 363 2117-8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "160 to 161"
+    ],
     "hashed_id_s": [
         "5f60e7301f41a47b"
     ],
-    "_version_": 1667144699395178496,
-    "timestamp": "2020-05-19T18:31:21.569Z"
+    "_version_": 1684902892845137920,
+    "timestamp": "2020-12-01T18:50:14.548Z"
 }

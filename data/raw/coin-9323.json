@@ -53,6 +53,12 @@
         "0.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9323\",\"call_number_browse\":\"Coin 9323\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 782,
     "pub_date_end_sort": 783,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5940"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +89,12 @@
         "Katalog der orientalischen M\u00fcnzen  2151-2154"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "782 to 783"
+    ],
     "hashed_id_s": [
         "5eb881e99ca4a426"
     ],
-    "_version_": 1667146652986638336,
-    "timestamp": "2020-05-19T19:12:25.147Z"
+    "_version_": 1684903074446966784,
+    "timestamp": "2020-12-01T18:53:07.738Z"
 }

@@ -35,8 +35,11 @@
         "16.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 537\",\"call_number_browse\":\"Coin 537\"}}",
-    "donor_s": [
-        "George C. Brauer"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "44: 1994-09-22 George C. Brauer"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "237"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "Price  2952"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -320"
+    ],
     "hashed_id_s": [
         "b2947b003435470f"
     ],
-    "_version_": 1667138404095098880,
-    "timestamp": "2020-05-19T16:51:17.880Z"
+    "_version_": 1684903273439428608,
+    "timestamp": "2020-12-01T18:56:17.510Z"
 }

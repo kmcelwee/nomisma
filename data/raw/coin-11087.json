@@ -35,8 +35,14 @@
         "0.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11087\",\"call_number_browse\":\"Coin 11087\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 10/29/2003"
     ],
     "pub_date_start_sort": 488,
     "pub_date_end_sort": 496,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7248"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +92,12 @@
         "SNS 3 AY Type Ia?/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "488 to 496"
+    ],
     "hashed_id_s": [
         "661475063cb7a5c8"
     ],
-    "_version_": 1667138289621008384,
-    "timestamp": "2020-05-19T16:49:28.712Z"
+    "_version_": 1684903035038334976,
+    "timestamp": "2020-12-01T18:52:30.154Z"
 }

@@ -41,8 +41,11 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8915\",\"call_number_browse\":\"Coin 8915\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -54,
@@ -96,9 +99,12 @@
         "Shore  200"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -54"
+    ],
     "hashed_id_s": [
         "b7b0bfaa1104770c"
     ],
-    "_version_": 1672998461317840896,
-    "timestamp": "2020-07-23T09:14:23.944Z"
+    "_version_": 1684903666682691584,
+    "timestamp": "2020-12-01T19:02:32.537Z"
 }

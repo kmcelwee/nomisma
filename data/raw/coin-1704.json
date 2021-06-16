@@ -35,8 +35,11 @@
         "10.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1704\",\"call_number_browse\":\"Coin 1704\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 56,
     "pub_date_end_sort": 57,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1095"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "RPC.1  5201"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "56 to 57"
+    ],
     "hashed_id_s": [
         "c8e42e5c1ed94afe"
     ],
-    "_version_": 1667138213702008832,
-    "timestamp": "2020-05-19T16:48:16.307Z"
+    "_version_": 1684902979095756800,
+    "timestamp": "2020-12-01T18:51:36.803Z"
 }

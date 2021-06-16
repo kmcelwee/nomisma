@@ -35,16 +35,22 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4157\",\"call_number_browse\":\"Coin 4157\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1924; $3"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2368"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "C. Antius Restio, tr. pl. 68 BCE; legend downwards behind"
+        "behind, legend downwards"
     ],
     "issue_obverse_legend_s": [
         "RESTIO"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Hercules"
@@ -89,15 +98,16 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "cloak/lionskin over l. arm, holding trophy in l. hand, club in r. hand; legend r. downwards; border of dots"
+        "with cloak over l. arm, holding trophy in l. hand, club in r. hand; legend r. downwards"
     ],
     "issue_reverse_legend_s": [
-        "C ANTIVS C F"
+        "C.ANTIVS.C.F"
     ],
     "issue_reverse_attributes_s": [
-        "lionskin, over l. arm of Hercules",
+        "cloak, over l. arm of Hercules",
         "trophy, in l. hand",
-        "club, in r. hand"
+        "club, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  455/1a",
@@ -105,9 +115,12 @@
         "Sear  434"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "c0c857b46d6076db"
     ],
-    "_version_": 1667138491046166528,
-    "timestamp": "2020-05-19T16:52:40.802Z"
+    "_version_": 1684903229129752576,
+    "timestamp": "2020-12-01T18:55:35.256Z"
 }

@@ -50,11 +50,14 @@
         "2.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10332\",\"call_number_browse\":\"Coin 10332\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1310,
     "pub_date_end_sort": 1341,
-    "issue_number_s": [
-        "6563"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -83,9 +86,12 @@
         "Balog Mamluk  197"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1310 to 1341"
+    ],
     "hashed_id_s": [
         "a6c3f96e1d9b4651"
     ],
-    "_version_": 1667138175644991488,
-    "timestamp": "2020-05-19T16:47:40.014Z"
+    "_version_": 1684903423937347584,
+    "timestamp": "2020-12-01T18:58:41.041Z"
 }

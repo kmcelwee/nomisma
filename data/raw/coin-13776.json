@@ -35,6 +35,12 @@
         "6.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13776\",\"call_number_browse\":\"Coin 13776\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -137,
     "pub_date_end_sort": -136,
     "issue_object_type_s": [
@@ -96,19 +102,22 @@
     ],
     "issue_reverse_attributes_s": [
         "palm branch, under far wing",
-        "m13776, above club",
+        "monogram, above club",
         "club, in left field",
-        "m13736, on club",
-        "m13776.2, on right field, above date",
+        "monogram, on club",
+        "\u0391\u03a3, on right field, above date",
         "\u03a3, between eagle's legs"
     ],
     "issue_references_s": [
-        "H & L II,v.I,p.386 2110.4"
+        "H & L II,v.I,p.386 2110.4b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-137 to -136"
+    ],
     "hashed_id_s": [
         "cc2d2f92e87467b1"
     ],
-    "_version_": 1673108362921771008,
-    "timestamp": "2020-07-24T14:21:14.282Z"
+    "_version_": 1684902910496866304,
+    "timestamp": "2020-12-01T18:50:31.384Z"
 }

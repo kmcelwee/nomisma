@@ -35,6 +35,15 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5729\",\"call_number_browse\":\"Coin 5729\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Rodolfo Ratto; Schulman; 1930; $9.20, lot #289"
+    ],
     "pub_date_start_sort": -61,
     "pub_date_end_sort": -61,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3270"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Aemilius Lepidus ( to -13)"
@@ -74,16 +83,26 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Female head r., diademed; border of dots"
+        "diademed"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Equestrian statue"
+        "Horseman"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
     ],
     "issue_reverse_figure_description_s": [
-        "equestrian statue r., with trophy over shoulder; border of dots"
+        "(probably a statue of the moneyer's ancestor, M. Aemilius Lepidus)"
     ],
     "issue_reverse_legend_s": [
-        "M LE\u0393IDVS"
+        "[M\u00b7L]EPIDVS AN\u00b7XV\u00b7PR[\u00b7H\u00b7O\u00b7C\u00b7S]"
+    ],
+    "issue_reverse_attributes_s": [
+        "trophy, over shoulder",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  419/1a",
@@ -91,9 +110,12 @@
         "Sear  371"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-61 to -61"
+    ],
     "hashed_id_s": [
         "65b3ee02c642649b"
     ],
-    "_version_": 1667138388017283072,
-    "timestamp": "2020-05-19T16:51:02.547Z"
+    "_version_": 1684903562448994304,
+    "timestamp": "2020-12-01T19:00:53.132Z"
 }

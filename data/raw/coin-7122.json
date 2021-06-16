@@ -35,6 +35,9 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7122\",\"call_number_browse\":\"Coin 7122\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4452"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,15 +95,18 @@
         "each holding reversed spear and resting hand on shield set on ground; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS"
+        "GLOR-IA EXERCITVS / SMAN"
     ],
     "issue_references_s": [
         "RIC 7 693 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "0d6c77e336bf4eef"
     ],
-    "_version_": 1667318811299151872,
-    "timestamp": "2020-05-21T16:38:47.597Z"
+    "_version_": 1684903251044990976,
+    "timestamp": "2020-12-01T18:55:56.155Z"
 }

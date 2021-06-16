@@ -35,6 +35,12 @@
         "3.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2635\",\"call_number_browse\":\"Coin 2635\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1342,
     "pub_date_end_sort": 1355,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pierreale"
-    ],
-    "issue_number_s": [
-        "1656"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "MEC 14  784"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1342 to 1355"
+    ],
     "hashed_id_s": [
         "261ccae7aa40ebc0"
     ],
-    "_version_": 1667138476553797632,
-    "timestamp": "2020-05-19T16:52:26.981Z"
+    "_version_": 1684903301219352576,
+    "timestamp": "2020-12-01T18:56:44.006Z"
 }

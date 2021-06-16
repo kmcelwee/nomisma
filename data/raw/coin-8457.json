@@ -50,6 +50,12 @@
         "2.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8457\",\"call_number_browse\":\"Coin 8457\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -92,
     "pub_date_end_sort": -72,
     "issue_object_type_s": [
@@ -104,9 +110,12 @@
         "Waage  263"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-92 to -72"
+    ],
     "hashed_id_s": [
         "dd56f97ecd44d67d"
     ],
-    "_version_": 1671474432991821824,
-    "timestamp": "2020-07-06T13:30:37.273Z"
+    "_version_": 1684902895659515904,
+    "timestamp": "2020-12-01T18:50:17.233Z"
 }

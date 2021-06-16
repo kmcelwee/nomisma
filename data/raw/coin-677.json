@@ -35,8 +35,11 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 677\",\"call_number_browse\":\"Coin 677\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 13,
     "pub_date_end_sort": 14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "284"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,16 @@
         "BMC.1. Augustus 512"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Tiberius",
+        "Category, quadriga"
+    ],
+    "issue_date_s": [
+        "13 to 14"
+    ],
     "hashed_id_s": [
         "a643e19ba45fade4"
     ],
-    "_version_": 1667138452043333632,
-    "timestamp": "2020-05-19T16:52:03.610Z"
+    "_version_": 1684903593520398336,
+    "timestamp": "2020-12-01T19:01:22.766Z"
 }

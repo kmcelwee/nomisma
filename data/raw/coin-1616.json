@@ -35,6 +35,12 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1616\",\"call_number_browse\":\"Coin 1616\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "209: 2006-10-26 Leu Numismatik"
+    ],
     "pub_date_start_sort": 1476,
     "pub_date_end_sort": 1503,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "1007"
     ],
     "issue_metal_s": [
         "Gold"
@@ -83,9 +86,12 @@
         "Schl. Plate XI 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1476 to 1503"
+    ],
     "hashed_id_s": [
         "264fe340018c1907"
     ],
-    "_version_": 1667138465125367808,
-    "timestamp": "2020-05-19T16:52:16.085Z"
+    "_version_": 1684903607241015296,
+    "timestamp": "2020-12-01T19:01:35.850Z"
 }

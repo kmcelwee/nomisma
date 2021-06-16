@@ -26,6 +26,9 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11825\",\"call_number_browse\":\"Coin 11825\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1030,
     "pub_date_end_sort": 1042,
     "issue_object_type_s": [
@@ -101,9 +104,12 @@
         "BL 3.2 B.34"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1030 to 1042"
+    ],
     "hashed_id_s": [
         "24447604f7d96f66"
     ],
-    "_version_": 1673458378519609344,
-    "timestamp": "2020-07-28T11:04:35.169Z"
+    "_version_": 1684903148930465792,
+    "timestamp": "2020-12-01T18:54:18.771Z"
 }

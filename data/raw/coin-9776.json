@@ -32,16 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/12/1938"
+        "1938-04-12"
     ],
     "find_feature_s": [
-        "Surface over Room B6"
+        "Over room B6, surface"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
-        "Cb434"
+        "Cb0434"
     ],
     "die_axis_s": [
         "4"
@@ -53,6 +53,9 @@
         "2.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9776\",\"call_number_browse\":\"Coin 9776\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -92,7 +95,7 @@
         "rosette diadem"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NVS MAX AVG"
+        "CONSTANTI-NVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,16 +110,19 @@
         "two soldiers with helmets and weapons facing each other, two standards in between them."
     ],
     "issue_reverse_legend_s": [
-        "GLOR IA EXERC ITVS | SMAN\u0393"
+        "GLOR-IA EXERC-ITVS | SMAN\u0393"
     ],
     "issue_references_s": [
-        "RIC.7 Vol. 7, p693 86",
+        "RIC VII Antioch 86",
         "Waage p118 1014"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "5e87b8dd6e61f9b5"
     ],
-    "_version_": 1674172571492286464,
-    "timestamp": "2020-08-05T08:16:22.663Z"
+    "_version_": 1684903386997063680,
+    "timestamp": "2020-12-01T18:58:05.808Z"
 }

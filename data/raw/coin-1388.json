@@ -38,8 +38,11 @@
         "4.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1388\",\"call_number_browse\":\"Coin 1388\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -208,
@@ -49,11 +52,14 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "788"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_workshop_s": [
+        "First workshop"
     ],
     "issue_place_s": [
         "Sicily, Italy"
@@ -73,11 +79,10 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; behind, X. Loop under visor."
-    ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "loop, under visor",
+        "X, behind head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -88,14 +93,11 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Dioscuri r. Legend in linear frame."
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border"
+        "legend, incuse, below horses"
     ],
     "issue_references_s": [
         "RRC  68/1b",
@@ -103,9 +105,12 @@
         "Sear  39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -208"
+    ],
     "hashed_id_s": [
         "b09ab3add16b32b9"
     ],
-    "_version_": 1667138462863589376,
-    "timestamp": "2020-05-19T16:52:13.928Z"
+    "_version_": 1684903697774018560,
+    "timestamp": "2020-12-01T19:03:02.191Z"
 }

@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "unknown"
     ],
-    "issue_number_s": [
-        "6082"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -101,9 +98,12 @@
         "Catalogue of the Greek Coins in the British Museum Pontus to Bosporus p. 210, #5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "180 to 149"
+    ],
     "hashed_id_s": [
         "d974b575e2845d16"
     ],
-    "_version_": 1667138146668642304,
-    "timestamp": "2020-05-19T16:47:12.380Z"
+    "_version_": 1684903399927054336,
+    "timestamp": "2020-12-01T18:58:18.138Z"
 }

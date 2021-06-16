@@ -35,8 +35,11 @@
         "0.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2604\",\"call_number_browse\":\"Coin 2604\"}}",
-    "donor_s": [
-        "Claus Pelling"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "247: 2006-05-31 Claus Pelling"
     ],
     "pub_date_start_sort": 1382,
     "pub_date_end_sort": 1400,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldino"
-    ],
-    "issue_number_s": [
-        "1601"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,13 +102,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 230, 4",
-        "CNI, 7  IV.26.24",
+        "CNI, 7  109, 24",
         "MEC 12 647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1382 to 1400"
+    ],
     "hashed_id_s": [
         "6a66e4a6f7004890"
     ],
-    "_version_": 1667138221685866496,
-    "timestamp": "2020-05-19T16:48:23.920Z"
+    "_version_": 1684903453194715136,
+    "timestamp": "2020-12-01T18:59:08.940Z"
 }

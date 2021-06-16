@@ -38,8 +38,11 @@
         "7.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5955\",\"call_number_browse\":\"Coin 5955\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Fallani, Rome; Sept. 1959"
     ],
     "pub_date_start_sort": -440,
     "pub_date_end_sort": -425,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3450"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Vlasto Coll.  274-286"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-440 to -425"
+    ],
     "hashed_id_s": [
         "04a0608b5bf93feb"
     ],
-    "_version_": 1667138387572686848,
-    "timestamp": "2020-05-19T16:51:02.125Z"
+    "_version_": 1684903264508706816,
+    "timestamp": "2020-12-01T18:56:08.994Z"
 }

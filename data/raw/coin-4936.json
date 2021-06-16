@@ -35,6 +35,15 @@
         "86.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4936\",\"call_number_browse\":\"Coin 4936\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Schulman, Jaques, Amsterdam; 1927; $6"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "triens"
     ],
-    "issue_number_s": [
-        "2721"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -76,6 +85,9 @@
     "issue_obverse_figure_description_s": [
         "wearing crested Corinthian helmet"
     ],
+    "issue_obverse_attributes_s": [
+        "denominational mark, below head"
+    ],
     "issue_reverse_figure_s": [
         "Prow"
     ],
@@ -85,17 +97,23 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
+    "issue_reverse_attributes_s": [
+        "denominational mark, below prow"
+    ],
     "issue_references_s": [
-        "RRC  35, 3a",
+        "RRC  35/3a",
         "Haeb. pl. 17 6-20",
         "ICC  53",
         "Syd.  74",
         "Sear  578"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "827fab7e2e5823b8"
     ],
-    "_version_": 1667138507281268736,
-    "timestamp": "2020-05-19T16:52:56.287Z"
+    "_version_": 1684903702100443136,
+    "timestamp": "2020-12-01T19:03:06.315Z"
 }

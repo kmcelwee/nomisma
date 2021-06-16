@@ -35,6 +35,12 @@
         "16.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 647\",\"call_number_browse\":\"Coin 647\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "61:  Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -315,
     "pub_date_end_sort": -314,
     "issue_object_type_s": [
@@ -98,9 +104,12 @@
         "Price  3283"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-315 to -314"
+    ],
     "hashed_id_s": [
         "41ad220f9ca88326"
     ],
-    "_version_": 1673002950215073792,
-    "timestamp": "2020-07-23T10:25:44.903Z"
+    "_version_": 1684903667943079936,
+    "timestamp": "2020-12-01T19:02:33.739Z"
 }

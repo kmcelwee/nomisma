@@ -50,6 +50,9 @@
         "1.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8297\",\"call_number_browse\":\"Coin 8297\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 670,
     "pub_date_end_sort": 690,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5286"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +108,12 @@
         "BMC page 8 22"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "670 to 690"
+    ],
     "hashed_id_s": [
         "863100d20259d9c6"
     ],
-    "_version_": 1667138267441528832,
-    "timestamp": "2020-05-19T16:49:07.557Z"
+    "_version_": 1684903490429648896,
+    "timestamp": "2020-12-01T18:59:44.450Z"
 }

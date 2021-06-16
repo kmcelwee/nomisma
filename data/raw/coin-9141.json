@@ -26,22 +26,19 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, Syria, Roman Empire"
     ],
     "find_date_s": [
-        "April 3, 1937"
+        "1937-04-03"
     ],
     "find_feature_s": [
-        "east of stone pavement"
+        "In ancient dig, fallen earth"
     ],
     "find_locus_s": [
-        "17-N"
+        "A 17-N"
     ],
     "find_number_s": [
-        "Ca149"
-    ],
-    "find_description_s": [
-        "in ancient dig fallen earth"
+        "Ca0149"
     ],
     "die_axis_s": [
         "6"
@@ -53,6 +50,12 @@
         "2.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9141\",\"call_number_browse\":\"Coin 9141\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5813"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,12 +113,15 @@
         "IOVI CONSERVATORI AVGG NN"
     ],
     "issue_references_s": [
-        "RIC 7 678.17"
+        "RIC VII Antioch 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "f0dc88a7f15de64e"
     ],
-    "_version_": 1667138345558343680,
-    "timestamp": "2020-05-19T16:50:22.055Z"
+    "_version_": 1684903531111251968,
+    "timestamp": "2020-12-01T19:00:23.246Z"
 }

@@ -35,16 +35,22 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4111\",\"call_number_browse\":\"Coin 4111\"}}",
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; $1"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2351"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; border of dots"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "LIBERTATIS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Roma"
@@ -89,15 +98,16 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "r. breast bare, seated on pile of arms, helmeted, holding sceptre in r. hand, l. foot on globe; to r., Victory crowning Roma; border of dots"
+        "(r. bare breast), seated on pile of arms, helmeted, holding sceptre in r. hand and placing l. foot on globe; on r., flying Victory crowning Roma"
     ],
     "issue_reverse_legend_s": [
-        "C \u0393ANSA C F C N"
+        "C.PANSA.C.F.C.N"
     ],
     "issue_reverse_attributes_s": [
         "sceptre, Roma holds sceptre in r. hand",
         "globe, Roma places l. foot on globe",
-        "victory, crowning Roma"
+        "victory, crowning Roma",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  449/4",
@@ -105,9 +115,12 @@
         "Sear  423"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "e79f00d59f38685b"
     ],
-    "_version_": 1667138490061553664,
-    "timestamp": "2020-05-19T16:52:39.866Z"
+    "_version_": 1684903226010238976,
+    "timestamp": "2020-12-01T18:55:32.279Z"
 }

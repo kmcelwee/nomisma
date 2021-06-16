@@ -32,16 +32,19 @@
         "20.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15046\",\"call_number_browse\":\"Coin 15046\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9229"
     ],
     "issue_metal_s": [
         "White metal"
@@ -65,9 +68,12 @@
         "draped with flags"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "08367e0132d6d4a6"
     ],
-    "_version_": 1670395656116633600,
-    "timestamp": "2020-06-24T15:43:55.480Z"
+    "_version_": 1684903224798085120,
+    "timestamp": "2020-12-01T18:55:31.123Z"
 }

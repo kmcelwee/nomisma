@@ -35,8 +35,11 @@
         "8.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12008\",\"call_number_browse\":\"Coin 12008\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -345,
     "pub_date_end_sort": -307,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "8149"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Ravel 2 1041"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-345 to -307"
+    ],
     "hashed_id_s": [
         "75e0b7ddf6ac11b2"
     ],
-    "_version_": 1667138299834138624,
-    "timestamp": "2020-05-19T16:49:38.450Z"
+    "_version_": 1684903150112210944,
+    "timestamp": "2020-12-01T18:54:19.898Z"
 }

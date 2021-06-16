@@ -35,6 +35,12 @@
         "4.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4250\",\"call_number_browse\":\"Coin 4250\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2401"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +107,12 @@
         "Sear  456"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "f38b718116381533"
     ],
-    "_version_": 1667138492938846208,
-    "timestamp": "2020-05-19T16:52:42.608Z"
+    "_version_": 1684903306972889088,
+    "timestamp": "2020-12-01T18:56:49.493Z"
 }

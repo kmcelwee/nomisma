@@ -34,17 +34,14 @@
     "find_date_s": [
         "05/16/1932"
     ],
-    "find_feature_s": [
-        "House A"
-    ],
     "find_locus_s": [
-        "N-10"
+        "DS 10-N (HSEA)"
     ],
     "find_number_s": [
         "C1559"
     ],
     "find_description_s": [
-        "Surface"
+        "House A, surface"
     ],
     "die_axis_s": [
         "1"
@@ -56,6 +53,12 @@
         "5.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6009\",\"call_number_browse\":\"Coin 6009\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 67,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3401"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -97,9 +103,6 @@
     "issue_obverse_figure_description_s": [
         "wearing taenia"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "legend runs clockwise from upper right"
-    ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
     ],
@@ -113,22 +116,25 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "wearing chiton and peplos, dropping pebble  in voting urn with right arm"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "legend runs clockwise from upper right"
+        "wearing chiton and peplos, dropping pebble in voting urn with right arm"
     ],
     "issue_reverse_legend_s": [
         "ETO EIP"
+    ],
+    "issue_reverse_attributes_s": [
+        "pebble, in r. hand"
     ],
     "issue_references_s": [
         "BMC Gal. p162 87",
         "RPC.1  4305v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 67"
+    ],
     "hashed_id_s": [
         "362c3270cada8908"
     ],
-    "_version_": 1667138249719545856,
-    "timestamp": "2020-05-19T16:48:50.656Z"
+    "_version_": 1684902891813339136,
+    "timestamp": "2020-12-01T18:50:13.566Z"
 }

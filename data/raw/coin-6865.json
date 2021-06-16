@@ -35,8 +35,11 @@
         "2.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6865\",\"call_number_browse\":\"Coin 6865\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "4273"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "287b63308e0257e3"
     ],
-    "_version_": 1667145455013724160,
-    "timestamp": "2020-05-19T18:54:02.389Z"
+    "_version_": 1684903351690461184,
+    "timestamp": "2020-12-01T18:57:32.137Z"
 }

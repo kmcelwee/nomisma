@@ -38,8 +38,14 @@
         "4.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10949\",\"call_number_browse\":\"Coin 10949\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 05/26/2004; E90 (147)"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7110"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 LDY Type Ib1/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "6c336fdb429f43a3"
     ],
-    "_version_": 1667138174273454080,
-    "timestamp": "2020-05-19T16:47:38.708Z"
+    "_version_": 1684902950719193088,
+    "timestamp": "2020-12-01T18:51:09.742Z"
 }

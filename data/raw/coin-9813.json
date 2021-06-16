@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/7/1938"
+        "1938-05-07"
     ],
     "find_feature_s": [
-        "Room 26"
+        "Low level"
     ],
     "find_locus_s": [
-        "NARLEDJA"
+        "N"
     ],
     "find_number_s": [
         "Cb1442"
-    ],
-    "find_description_s": [
-        "low level"
     ],
     "die_axis_s": [
         "5"
@@ -53,6 +50,9 @@
         "2.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9813\",\"call_number_browse\":\"Coin 9813\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 314,
     "issue_object_type_s": [
@@ -60,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6198"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,16 +110,19 @@
         "Jupiter standing l., chlamys across l. shoulder, leaning on scepter, Victory on globe in r. hand, eagle with wreath to l. on ground"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSERVATORI AVGG | ANT"
+        "IOVICONSER-VATORIAVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC.7 Vol. VII, p676 7",
+        "RIC VII Antioch 7",
         "Waage 118 1398"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 314"
+    ],
     "hashed_id_s": [
         "ed3f565689265a99"
     ],
-    "_version_": 1667138141544251392,
-    "timestamp": "2020-05-19T16:47:07.493Z"
+    "_version_": 1684903391971508224,
+    "timestamp": "2020-12-01T18:58:10.554Z"
 }

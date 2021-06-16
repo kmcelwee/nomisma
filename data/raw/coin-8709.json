@@ -53,6 +53,9 @@
         "3.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8709\",\"call_number_browse\":\"Coin 8709\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1400,
     "pub_date_end_sort": 1401,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5533"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "Balog Mamluk  653"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1400 to 1401"
+    ],
     "hashed_id_s": [
         "392a77fafd2c4a63"
     ],
-    "_version_": 1667138134277619712,
-    "timestamp": "2020-05-19T16:47:00.562Z"
+    "_version_": 1684903381634646016,
+    "timestamp": "2020-12-01T18:58:00.696Z"
 }

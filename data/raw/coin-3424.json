@@ -32,8 +32,11 @@
         "103x49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3424\",\"call_number_browse\":\"Coin 3424\"}}",
-    "donor_s": [
-        "Andre de Coppet"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "369:  Andre de Coppet"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 shilling"
-    ],
-    "issue_number_s": [
-        "2033"
     ],
     "issue_metal_s": [
         "Paper"
@@ -87,9 +87,13 @@
         "Shafer & Cuhaj p. 1131 S1818"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "01473812e41d38bd"
     ],
-    "_version_": 1667138438813450240,
-    "timestamp": "2020-05-19T16:51:50.990Z"
+    "_version_": 1684903286442819584,
+    "timestamp": "2020-12-01T18:56:29.913Z"
 }

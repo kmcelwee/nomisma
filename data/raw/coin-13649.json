@@ -38,6 +38,12 @@
         "16.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13649\",\"call_number_browse\":\"Coin 13649\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "285: 2000-10-09 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -145,
     "pub_date_end_sort": -145,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8736"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,12 @@
         "H & L II, v.I, p.260 1885.1/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-145 to -145"
+    ],
     "hashed_id_s": [
         "d86c45d29d50f44c"
     ],
-    "_version_": 1667138517752348672,
-    "timestamp": "2020-05-19T16:53:06.272Z"
+    "_version_": 1684903333111791616,
+    "timestamp": "2020-12-01T18:57:14.421Z"
 }

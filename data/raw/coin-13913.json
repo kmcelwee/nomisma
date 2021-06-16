@@ -2,7 +2,7 @@
     "id": "coin-13913",
     "title_display": "Coin: 13913",
     "pub_created_display": [
-        "Diocletian, aureus, Cyzicus"
+        "Diocletian   (284 to 305), aureus, Cyzicus"
     ],
     "call_number_display": [
         "Coin 13913"
@@ -35,49 +35,55 @@
         "5.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13913\",\"call_number_browse\":\"Coin 13913\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": 290,
+    "pub_date_end_sort": 292,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "aureus"
     ],
-    "issue_number_s": [
-        "8946"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Diocletian"
+        "Diocletian   (284 to 305)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
     "issue_obverse_legend_s": [
-        "DI OCLETIANVS AVGVSTVS"
+        "DIOCLETIANVS AVGVSTVS"
     ],
     "issue_reverse_figure_s": [
         "Emperor"
@@ -88,16 +94,25 @@
     "issue_reverse_orientation_s": [
         "left"
     ],
+    "issue_reverse_figure_description_s": [
+        "draped, cuirassed"
+    ],
     "issue_reverse_legend_s": [
-        "CONSVLIIII PPPROCOS"
+        "CONSVL IIII P P PROCOS"
+    ],
+    "issue_reverse_attributes_s": [
+        "globe, in r. hand"
     ],
     "issue_references_s": [
-        "Probus to Amandus 250 285"
+        "RIC V  Diocletian 285"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "290 to 292"
+    ],
     "hashed_id_s": [
         "b687798f23a14b86"
     ],
-    "_version_": 1667144700373499904,
-    "timestamp": "2020-05-19T18:31:22.495Z"
+    "_version_": 1684903355973894144,
+    "timestamp": "2020-12-01T18:57:36.223Z"
 }

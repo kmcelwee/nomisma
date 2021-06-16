@@ -35,8 +35,11 @@
         "2.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6800\",\"call_number_browse\":\"Coin 6800\"}}",
-    "donor_s": [
-        "Joel Malter"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "522: 1991-01-01 Joel Malter"
     ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4209"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +105,15 @@
         "Bedoukian  974"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zabel"
+    ],
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "df547c99f0ba7263"
     ],
-    "_version_": 1667138361846923264,
-    "timestamp": "2020-05-19T16:50:37.591Z"
+    "_version_": 1684903252627292160,
+    "timestamp": "2020-12-01T18:55:57.663Z"
 }

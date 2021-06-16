@@ -35,8 +35,11 @@
         "2.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1744\",\"call_number_browse\":\"Coin 1744\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "12:  W.S. Watson"
     ],
     "pub_date_start_sort": 104,
     "pub_date_end_sort": 167,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1121"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "104 to 167"
+    ],
     "hashed_id_s": [
         "7d1d8e783fcb5faf"
     ],
-    "_version_": 1667138214003998720,
-    "timestamp": "2020-05-19T16:48:16.597Z"
+    "_version_": 1684903099139883008,
+    "timestamp": "2020-12-01T18:53:31.287Z"
 }

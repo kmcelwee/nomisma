@@ -2,7 +2,7 @@
     "id": "coin-15159",
     "title_display": "Coin: 15159",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15159"
@@ -35,25 +35,25 @@
         "3.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15159\",\"call_number_browse\":\"Coin 15159\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 151,
     "pub_date_end_sort": 152,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9317"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +71,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "A-NTONINVS"
+        "IMP CAES T AEL HADR ANTONINVS AVG PIVS P P"
     ],
     "issue_reverse_figure_s": [
-        "Dr. female figure standing facing, head r., with right hand holding small sacrificial animal by forelegs; in left hand, a platter of fruit held over altar; in ex.,"
+        "Pietas"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped, in front of altar"
     ],
     "issue_reverse_legend_s": [
-        "TR POT XV-C-O-S-IIII"
+        "TR POT XV COS IIII | PIETAS"
+    ],
+    "issue_reverse_attributes_s": [
+        "fore-legs of hind, in r. hand",
+        "dish of fruit, on l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 109-10 754-6",
-        "RIC 52 217",
-        "Strack 240 "
+        "RIC III  Antoninus Pius 217",
+        "Strack  240",
+        "BMC.4 109-10 754-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "151 to 152"
+    ],
     "hashed_id_s": [
         "fc7add55f23eee3c"
     ],
-    "_version_": 1667145481114877952,
-    "timestamp": "2020-05-19T18:43:47.040Z"
+    "_version_": 1684903687557742592,
+    "timestamp": "2020-12-01T19:02:52.445Z"
 }

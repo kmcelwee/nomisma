@@ -35,8 +35,14 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11075\",\"call_number_browse\":\"Coin 11075\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "VAuctions; 03/29/2012; 279 (28)"
     ],
     "pub_date_start_sort": 484,
     "pub_date_end_sort": 488,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7236"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 AW Type Ib/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "484 to 488"
+    ],
     "hashed_id_s": [
         "bc75e1b6cd221479"
     ],
-    "_version_": 1667138289162780672,
-    "timestamp": "2020-05-19T16:49:28.272Z"
+    "_version_": 1684903034147045376,
+    "timestamp": "2020-12-01T18:52:29.306Z"
 }

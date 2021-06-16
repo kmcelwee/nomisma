@@ -35,8 +35,11 @@
         "12.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15254\",\"call_number_browse\":\"Coin 15254\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 69,
     "pub_date_end_sort": 69,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9401"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,12 @@
         "dummy123"
     ],
     "issue_monogram_1display": "[{\"title\":\"dummy123\",\"document_id\":\"179260e9-ea9f-448d-93d4-202c555e9745\"}]",
+    "issue_date_s": [
+        "69 to 69"
+    ],
     "hashed_id_s": [
         "be000f860674aedf"
     ],
-    "_version_": 1667144765424009216,
-    "timestamp": "2020-05-19T18:32:24.621Z"
+    "_version_": 1684903352684511232,
+    "timestamp": "2020-12-01T18:57:33.086Z"
 }

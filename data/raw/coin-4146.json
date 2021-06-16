@@ -35,6 +35,15 @@
         "1.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4146\",\"call_number_browse\":\"Coin 4146\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1926; $4.40"
+    ],
     "pub_date_start_sort": -48,
     "pub_date_end_sort": -47,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2361"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +83,14 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing veil; monogram and culullus behind; border of dots"
+        "(probably Vesta) wearing veil; behind, monogram and culullus"
+    ],
+    "issue_obverse_legend_s": [
+        "LII"
     ],
     "issue_obverse_attributes_s": [
-        "m1939, behind head, indicates Caesar's age (52)"
+        "m1939, behind head, indicates Caesar's age (52)",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Trophy"
@@ -89,10 +99,13 @@
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "trophy with round shield and sword; to l., wreath; to r., ancile; legend beneath; border of dots"
+        "trophy with round shield and sword; on l., wreath; on r., ancile; legend beneath"
     ],
     "issue_reverse_legend_s": [
         "CAE SAR"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  452/3",
@@ -100,9 +113,12 @@
         "Sear  1416"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-48 to -47"
+    ],
     "hashed_id_s": [
         "6eec2dd3385b064d"
     ],
-    "_version_": 1667138233339740160,
-    "timestamp": "2020-05-19T16:48:35.037Z"
+    "_version_": 1684902988072615936,
+    "timestamp": "2020-12-01T18:51:45.364Z"
 }

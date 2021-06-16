@@ -35,8 +35,11 @@
         "7.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 912\",\"call_number_browse\":\"Coin 912\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -600,
     "pub_date_end_sort": -510,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "385"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "ANS Part 2, Lucania 817-846"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-600 to -510"
+    ],
     "hashed_id_s": [
         "0bd04d7a906874fe"
     ],
-    "_version_": 1667138407214612480,
-    "timestamp": "2020-05-19T16:51:20.855Z"
+    "_version_": 1684903180561809408,
+    "timestamp": "2020-12-01T18:54:48.936Z"
 }

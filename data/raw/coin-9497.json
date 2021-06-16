@@ -47,6 +47,12 @@
         "3.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9497\",\"call_number_browse\":\"Coin 9497\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 975,
     "pub_date_end_sort": 1000,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "6075"
     ],
     "issue_metal_s": [
         "Billon"
@@ -80,9 +83,12 @@
         "P.d'A. vol. 1 pl. XLIX 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "975 to 1000"
+    ],
     "hashed_id_s": [
         "ecfda56e2a09e012"
     ],
-    "_version_": 1667138138391183360,
-    "timestamp": "2020-05-19T16:47:04.486Z"
+    "_version_": 1684903387280179200,
+    "timestamp": "2020-12-01T18:58:06.078Z"
 }

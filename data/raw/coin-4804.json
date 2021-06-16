@@ -35,16 +35,16 @@
         "109.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4804\",\"call_number_browse\":\"Coin 4804\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2626"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +83,17 @@
         "Bertault, CH BERTAULT"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Place, Reims    France",
+        "Category, cathedral"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "3c8ff19f02a822bd"
     ],
-    "_version_": 1667138505143222272,
-    "timestamp": "2020-05-19T16:52:54.246Z"
+    "_version_": 1684903307424825344,
+    "timestamp": "2020-12-01T18:56:49.922Z"
 }

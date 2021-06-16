@@ -35,6 +35,9 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1067\",\"call_number_browse\":\"Coin 1067\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
     "issue_object_type_s": [
@@ -96,9 +99,12 @@
         "Price  P110"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "83e0b473dda6e92a"
     ],
-    "_version_": 1673105103458926592,
-    "timestamp": "2020-07-24T13:29:25.817Z"
+    "_version_": 1684903292737421312,
+    "timestamp": "2020-12-01T18:56:35.916Z"
 }

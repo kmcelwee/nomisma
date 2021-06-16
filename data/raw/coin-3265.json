@@ -53,6 +53,9 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3265\",\"call_number_browse\":\"Coin 3265\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1112,
     "pub_date_end_sort": 1119,
     "issue_object_type_s": [
@@ -106,9 +109,12 @@
         "Malloy p. 200 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1112 to 1119"
+    ],
     "hashed_id_s": [
         "2192c168b138d7e7"
     ],
-    "_version_": 1674168285975805952,
-    "timestamp": "2020-08-05T07:08:15.688Z"
+    "_version_": 1684903230053548032,
+    "timestamp": "2020-12-01T18:55:36.135Z"
 }

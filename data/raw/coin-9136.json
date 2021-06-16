@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 14, 1932"
+        "1932-05-14"
     ],
     "find_feature_s": [
-        "Ramp III"
+        "Old dump"
     ],
     "find_locus_s": [
-        "N-9-SE"
+        "DS 9-N (SE.)"
     ],
     "find_number_s": [
         "1528"
-    ],
-    "find_description_s": [
-        "Old Dump"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "3.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9136\",\"call_number_browse\":\"Coin 9136\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5509"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,16 +89,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laurel, dr. and cuir."
+        "laureate, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMP C VAL LICIN LICINIVS P F AVG"
+        "IMPCVALLICINLICINIVSPFAVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
-    ],
-    "issue_reverse_symbol_s": [
-        "S"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -107,18 +104,21 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter standing l, chlamys across l shoulder, holding Victory on globe, r, leaning on sceptre, l; at l., eagle with wreath on ground"
+        "Jupiter standing left, chlamys across left shoulder, holding Victory on globe, right, leaning on sceptre, left; at left., eagle with wreath on ground"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSERVATORI AVGG"
+        "IOVICONSERVATORIAVGG | HTA"
     ],
     "issue_references_s": [
-        "RIC 7 543.12"
+        "RIC VII Heraclea 12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "2fd9468ed0b5dc10"
     ],
-    "_version_": 1667138270212915200,
-    "timestamp": "2020-05-19T16:49:10.200Z"
+    "_version_": 1695852517892554752,
+    "timestamp": "2021-04-01T15:29:50.729Z"
 }

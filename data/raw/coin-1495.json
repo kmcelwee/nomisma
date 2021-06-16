@@ -32,8 +32,11 @@
         "10.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1495\",\"call_number_browse\":\"Coin 1495\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1359,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "3 Cash"
     ],
-    "issue_number_s": [
-        "888"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_series_s": [
         "Yuan rebels"
@@ -69,9 +72,12 @@
         "Jen  493"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1359 to "
+    ],
     "hashed_id_s": [
         "4f544d5917d32569"
     ],
-    "_version_": 1667138464104054784,
-    "timestamp": "2020-05-19T16:52:15.124Z"
+    "_version_": 1684903295109300224,
+    "timestamp": "2020-12-01T18:56:38.179Z"
 }

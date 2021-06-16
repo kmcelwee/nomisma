@@ -50,6 +50,12 @@
         "5.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8500\",\"call_number_browse\":\"Coin 8500\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -99,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -107,9 +113,12 @@
         "Waage  299"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-99 to 0"
+    ],
     "hashed_id_s": [
         "afa81d0517c10461"
     ],
-    "_version_": 1671202432542048256,
-    "timestamp": "2020-07-03T13:27:17.429Z"
+    "_version_": 1684903674602586112,
+    "timestamp": "2020-12-01T19:02:40.092Z"
 }

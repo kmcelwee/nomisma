@@ -35,8 +35,11 @@
         "15.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13890\",\"call_number_browse\":\"Coin 13890\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -92,9 +95,12 @@
         "Athens Its History and Coinage p.207 GroupNvar"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "5288044a4a705da1"
     ],
-    "_version_": 1674074529787281408,
-    "timestamp": "2020-08-04T06:18:02.807Z"
+    "_version_": 1684903172160618496,
+    "timestamp": "2020-12-01T18:54:40.926Z"
 }

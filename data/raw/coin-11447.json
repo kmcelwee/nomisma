@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/19/1939"
+        "1939-04-19"
+    ],
+    "find_feature_s": [
+        "On top of a mosaic (B basket)"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "cc427"
-    ],
-    "find_description_s": [
-        "Found on top of a mosaic (with B basket)"
+        "Cc0427"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "2.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11447\",\"call_number_browse\":\"Coin 11447\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4449"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI-NVS MAX AVG"
+        "CONSTANTI-NVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -110,15 +113,18 @@
         "each holding reversed spear and resting hand on shield set on ground; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 693 86"
+        "RIC VII Antioch 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "6c5f4c61d35463f1"
     ],
-    "_version_": 1667138331504279552,
-    "timestamp": "2020-05-19T16:50:08.652Z"
+    "_version_": 1691973559571709952,
+    "timestamp": "2021-02-17T19:55:27.802Z"
 }

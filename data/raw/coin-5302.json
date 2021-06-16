@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Surface of obverse badly pitted so that only eyes and upper forehead visible.  On back SC and wreath clearly visible."
+        "Surface of obverse badly pitted so that only eyes and upper forehead visible. On back SC and wreath clearly visible."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "09/28/1934"
     ],
-    "find_feature_s": [
-        "Street"
-    ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3693"
     ],
     "find_description_s": [
-        "INF"
+        "Main Street Dig 3, street"
     ],
     "die_axis_s": [
         "2"
@@ -56,6 +53,12 @@
         "14.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5302\",\"call_number_browse\":\"Coin 5302\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "357: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -64,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1462"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -92,24 +95,24 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head right, of a generic Julio Claudian type; also occ. resembles head of Otho"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
+        "generic Julio-Claudian type; possibly resembles hood of head of Otho"
     ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC within a plain circle, dot or dots in field usu. absent or illegible.  Whole within laurel wreath"
+        "within a plain circle, dot or dots in field usually absent or illegible, whole within wreath"
     ],
-    "issue_reverse_legend_s": [
-        "SC"
+    "issue_references_s": [
+        "Waage  869"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "e7453843572b15be"
     ],
-    "_version_": 1667138221575766016,
-    "timestamp": "2020-05-19T16:48:23.816Z"
+    "_version_": 1684903692313034752,
+    "timestamp": "2020-12-01T19:02:56.982Z"
 }

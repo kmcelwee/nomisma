@@ -35,8 +35,11 @@
         "11.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2107\",\"call_number_browse\":\"Coin 2107\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "38:  J.C. Wilson"
     ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 1030,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1386"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "BMC.Byz. 477 (Class I) 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "e4cb98b4e1c6b865"
     ],
-    "_version_": 1667138418138677248,
-    "timestamp": "2020-05-19T16:51:31.275Z"
+    "_version_": 1684903193885016064,
+    "timestamp": "2020-12-01T18:55:01.643Z"
 }

@@ -35,8 +35,11 @@
         "3.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 361\",\"call_number_browse\":\"Coin 361\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1839,
     "pub_date_end_sort": 1839,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half lira"
-    ],
-    "issue_number_s": [
-        "184"
     ],
     "issue_metal_s": [
         "Gold"
@@ -80,9 +80,12 @@
         "wreath, in border"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1839 to 1839"
+    ],
     "hashed_id_s": [
         "be206869605f357c"
     ],
-    "_version_": 1667138118947438592,
-    "timestamp": "2020-05-19T16:46:45.944Z"
+    "_version_": 1684902964493287424,
+    "timestamp": "2020-12-01T18:51:22.876Z"
 }

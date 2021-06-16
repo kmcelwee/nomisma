@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "10 dollars"
     ],
-    "issue_number_s": [
-        "2943"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -81,9 +78,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "464f600937bba257"
     ],
-    "_version_": 1667138415558131712,
-    "timestamp": "2020-05-19T16:51:28.812Z"
+    "_version_": 1684903281425383424,
+    "timestamp": "2020-12-01T18:56:25.127Z"
 }

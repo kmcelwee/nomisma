@@ -35,8 +35,11 @@
         "3.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1618\",\"call_number_browse\":\"Coin 1618\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 91,
     "pub_date_end_sort": 92,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1009"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "91 to 92"
+    ],
     "hashed_id_s": [
         "dab93595b0a44327"
     ],
-    "_version_": 1667145313135099904,
-    "timestamp": "2020-05-19T18:42:23.942Z"
+    "_version_": 1684902912621281280,
+    "timestamp": "2020-12-01T18:50:33.408Z"
 }

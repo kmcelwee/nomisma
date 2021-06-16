@@ -35,8 +35,11 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1953\",\"call_number_browse\":\"Coin 1953\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius serratus"
-    ],
-    "issue_number_s": [
-        "1272"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,13 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head in Attic helmet  r.; legend around; X behind."
+        "in Attic helmet"
     ],
     "issue_obverse_legend_s": [
-        "C.MALLE.C.F"
+        "C.MALLE.C.F X"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Warrior"
@@ -95,13 +95,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Naked, bearded, Gallic warrior in biga r.; in r. hand, hurling spear; in l. hand, holding reins, carnyx, shield. Legend below in exergue."
+        "naked, bearded Gallic warrior in biga, holding shield, carnyx, and reins in l. hand and hurling spear in r. hand; legend in exergue."
     ],
     "issue_reverse_legend_s": [
         "L.LIC.CN.DOM"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dots"
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  282/3",
@@ -109,9 +109,12 @@
         "Sear  158"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "4e102129ee370300"
     ],
-    "_version_": 1667138469273534464,
-    "timestamp": "2020-05-19T16:52:20.043Z"
+    "_version_": 1684903223757897728,
+    "timestamp": "2020-12-01T18:55:30.134Z"
 }

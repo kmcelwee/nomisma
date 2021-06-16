@@ -35,8 +35,11 @@
         "15.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8139\",\"call_number_browse\":\"Coin 8139\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -75,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5157"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "CNH 239 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -75"
+    ],
     "hashed_id_s": [
         "18a8108a540d053b"
     ],
-    "_version_": 1667138193791647744,
-    "timestamp": "2020-05-19T16:47:57.319Z"
+    "_version_": 1684903070486495232,
+    "timestamp": "2020-12-01T18:53:03.960Z"
 }

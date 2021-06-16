@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10484\",\"call_number_browse\":\"Coin 10484\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "5398"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -62,9 +65,12 @@
         "right"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "cbb15b4a637d2d56"
     ],
-    "_version_": 1667144973667008512,
-    "timestamp": "2020-05-19T18:35:43.153Z"
+    "_version_": 1684903134311219200,
+    "timestamp": "2020-12-01T18:54:04.829Z"
 }

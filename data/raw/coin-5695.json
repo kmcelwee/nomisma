@@ -35,8 +35,11 @@
         "5.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5695\",\"call_number_browse\":\"Coin 5695\"}}",
-    "donor_s": [
-        "Gosneu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "436:  Gosneu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "mark"
-    ],
-    "issue_number_s": [
-        "3247"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,6 +89,6 @@
     "hashed_id_s": [
         "c562a47f30b2e93b"
     ],
-    "_version_": 1667145204176519168,
-    "timestamp": "2020-05-19T18:40:04.633Z"
+    "_version_": 1684903470913552384,
+    "timestamp": "2020-12-01T18:59:25.838Z"
 }

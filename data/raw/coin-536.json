@@ -35,8 +35,11 @@
         "16.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 536\",\"call_number_browse\":\"Coin 536\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "236"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "Price  2949"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -320"
+    ],
     "hashed_id_s": [
         "625a4138fd29f8f0"
     ],
-    "_version_": 1667138447448473600,
-    "timestamp": "2020-05-19T16:51:59.225Z"
+    "_version_": 1684903586491793408,
+    "timestamp": "2020-12-01T19:01:16.062Z"
 }

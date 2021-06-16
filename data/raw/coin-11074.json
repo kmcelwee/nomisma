@@ -35,8 +35,14 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11074\",\"call_number_browse\":\"Coin 11074\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 08/10/2012"
     ],
     "pub_date_start_sort": 484,
     "pub_date_end_sort": 488,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7235"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 AW Type Ia/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "484 to 488"
+    ],
     "hashed_id_s": [
         "e1f892538a73072c"
     ],
-    "_version_": 1667138169024282624,
-    "timestamp": "2020-05-19T16:47:33.699Z"
+    "_version_": 1684902929249599488,
+    "timestamp": "2020-12-01T18:50:49.267Z"
 }

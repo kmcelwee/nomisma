@@ -35,6 +35,15 @@
         "3.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11981\",\"call_number_browse\":\"Coin 11981\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Dan Fellows Platt"
+    ],
     "pub_date_start_sort": -111,
     "pub_date_end_sort": -110,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8030"
     ],
     "issue_master_s": [
         "Ap. Claudius Pulcher"
@@ -81,9 +87,12 @@
         "Syd.  570"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-111 to -110"
+    ],
     "hashed_id_s": [
         "ff7d7d32a9653e99"
     ],
-    "_version_": 1667138299699920896,
-    "timestamp": "2020-05-19T16:49:38.322Z"
+    "_version_": 1684903511072964608,
+    "timestamp": "2020-12-01T19:00:04.137Z"
 }

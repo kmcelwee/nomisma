@@ -35,8 +35,11 @@
         "3.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10292\",\"call_number_browse\":\"Coin 10292\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "290:  W.S. Watson"
     ],
     "pub_date_start_sort": 42,
     "pub_date_end_sort": 43,
@@ -86,9 +89,12 @@
         "BMC Palestine p. 236 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "42 to 43"
+    ],
     "hashed_id_s": [
         "5a63fd29f6a01c3d"
     ],
-    "_version_": 1672922071548559360,
-    "timestamp": "2020-07-22T13:00:12.986Z"
+    "_version_": 1684903663903965184,
+    "timestamp": "2020-12-01T19:02:29.887Z"
 }

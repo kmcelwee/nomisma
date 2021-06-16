@@ -38,8 +38,8 @@
         "4.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8771\",\"call_number_browse\":\"Coin 8771\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5573"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +103,12 @@
         "BL Michael VII 55/Cp/AU/01-02v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "a19696d58d7d896a"
     ],
-    "_version_": 1667138156537839616,
-    "timestamp": "2020-05-19T16:47:21.793Z"
+    "_version_": 1684903411967852544,
+    "timestamp": "2020-12-01T18:58:29.622Z"
 }

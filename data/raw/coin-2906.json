@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin is in poor condition.  Obverse legend is completely illegible. Obverse side has beveled edges. On the reverse, S.C. barely visible and laurel wreath is indistinguishable.  Uncertain attribution, see  RPC 4281 for Claudian senatorial issue."
+        "Coin is in poor condition. Obverse legend is completely illegible. Obverse side has beveled edges. On the reverse, S.C. barely visible and laurel wreath is indistinguishable. Uncertain attribution, see RPC 4281 for Claudian senatorial issue."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,8 +34,8 @@
     "find_date_s": [
         "05/10/1934"
     ],
-    "find_feature_s": [
-        "Daphne Harbor 161"
+    "find_locus_s": [
+        "DH 161"
     ],
     "find_number_s": [
         "C2894"
@@ -53,19 +53,25 @@
         "6.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2906\",\"call_number_browse\":\"Coin 2906\"}}",
-    "pub_date_start_sort": 66,
-    "pub_date_end_sort": 67,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 54,
+    "pub_date_end_sort": 68,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1818"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -92,27 +98,30 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head with a lituus in front; circlet of raised dots around rim of coin"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "IM.NER.CLAV CAESAR"
+        "IM NER CLAV CAESAR"
+    ],
+    "issue_obverse_attributes_s": [
+        "lituus, in front"
     ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "S.C. enclosed in a laurel wreath of eight leaves"
-    ],
-    "issue_reverse_legend_s": [
-        "S.C."
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4308"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "ad366444c66f644f"
     ],
-    "_version_": 1667138224290529280,
-    "timestamp": "2020-05-19T16:48:26.407Z"
+    "_version_": 1684902912898105344,
+    "timestamp": "2020-12-01T18:50:33.672Z"
 }

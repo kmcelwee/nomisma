@@ -26,16 +26,16 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, Syria, Roman Empire"
     ],
     "find_date_s": [
-        "May 8, 1936"
+        "1936-05-08"
     ],
     "find_feature_s": [
-        "Mahmoud Tohan"
+        "Mohammed Tokhan, above level of nymphaeum wall"
     ],
     "find_locus_s": [
-        "24-N.D.H."
+        "DH 24-N"
     ],
     "find_number_s": [
         "C6258"
@@ -50,6 +50,12 @@
         "3.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9137\",\"call_number_browse\":\"Coin 9137\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5813"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,12 +113,15 @@
         "IOVI CONSERVATORI AVGG NN"
     ],
     "issue_references_s": [
-        "RIC 7 678.17"
+        "RIC VII Antioch 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "01ac96482385cf0d"
     ],
-    "_version_": 1667138345818390528,
-    "timestamp": "2020-05-19T16:50:22.305Z"
+    "_version_": 1684903691998461952,
+    "timestamp": "2020-12-01T19:02:56.682Z"
 }

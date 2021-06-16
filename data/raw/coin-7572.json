@@ -35,8 +35,14 @@
         "1.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7572\",\"call_number_browse\":\"Coin 7572\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
+    ],
+    "numismatic_provenance_s": [
+        "Dean Mathey; ; "
     ],
     "pub_date_start_sort": 450,
     "pub_date_end_sort": 457,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "aes IV"
-    ],
-    "issue_number_s": [
-        "4754"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,13 +92,16 @@
         "CON"
     ],
     "issue_references_s": [
-        "RIC X  545",
+        "RIC X Marcian 545",
         "DOC  497"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "450 to 457"
+    ],
     "hashed_id_s": [
         "83fc68e118dce4db"
     ],
-    "_version_": 1667138191595929600,
-    "timestamp": "2020-05-19T16:47:55.226Z"
+    "_version_": 1684903432184397824,
+    "timestamp": "2020-12-01T18:58:48.903Z"
 }

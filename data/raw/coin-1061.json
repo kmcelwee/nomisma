@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "double parisis"
     ],
-    "issue_number_s": [
-        "515"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -83,6 +80,6 @@
     "hashed_id_s": [
         "22162bb41b05539f"
     ],
-    "_version_": 1667138207272140800,
-    "timestamp": "2020-05-19T16:48:10.175Z"
+    "_version_": 1683105369384026112,
+    "timestamp": "2020-11-11T22:39:22.590Z"
 }

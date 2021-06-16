@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "144"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -91,6 +88,6 @@
     "hashed_id_s": [
         "02d94c9ecbc6e8be"
     ],
-    "_version_": 1667138201238634496,
-    "timestamp": "2020-05-19T16:48:04.421Z"
+    "_version_": 1683104916167458816,
+    "timestamp": "2020-11-11T22:32:10.369Z"
 }

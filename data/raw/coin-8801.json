@@ -38,8 +38,8 @@
         "1.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8801\",\"call_number_browse\":\"Coin 8801\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5600"
     ],
     "issue_metal_s": [
         "Copper"
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "021f683b6247d537"
     ],
-    "_version_": 1667138156337561600,
-    "timestamp": "2020-05-19T16:47:21.601Z"
+    "_version_": 1684902920152154112,
+    "timestamp": "2020-12-01T18:50:40.591Z"
 }

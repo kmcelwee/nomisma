@@ -38,8 +38,11 @@
         "14.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13387\",\"call_number_browse\":\"Coin 13387\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "290:  W.S. Watson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8670"
     ],
     "issue_metal_s": [
         "Silver"
@@ -111,6 +111,6 @@
     "hashed_id_s": [
         "47d6be0036e4d79c"
     ],
-    "_version_": 1667138524763127808,
-    "timestamp": "2020-05-19T16:53:12.959Z"
+    "_version_": 1684903337604939776,
+    "timestamp": "2020-12-01T18:57:18.705Z"
 }

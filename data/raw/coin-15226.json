@@ -26,8 +26,11 @@
         "36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15226\",\"call_number_browse\":\"Coin 15226\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1961,
     "pub_date_end_sort": 0,
@@ -46,10 +49,16 @@
     "issue_obverse_legend_s": [
         "EJERCITO NACIONAL"
     ],
+    "issue_references_s": [
+        "Thankful Nation Do2 "
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1961 to "
+    ],
     "hashed_id_s": [
         "ebb67f52e0ccbb82"
     ],
-    "_version_": 1671709640155463680,
-    "timestamp": "2020-07-09T03:49:08.308Z"
+    "_version_": 1684902914850553856,
+    "timestamp": "2020-12-01T18:50:35.534Z"
 }

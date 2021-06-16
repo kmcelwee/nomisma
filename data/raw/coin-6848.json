@@ -35,6 +35,9 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6848\",\"call_number_browse\":\"Coin 6848\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1740,
     "pub_date_end_sort": 1780,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1/2 kreuzer"
-    ],
-    "issue_number_s": [
-        "4256"
     ],
     "issue_metal_s": [
         "Copper"
@@ -74,9 +74,12 @@
         "Herinek 1740-1969, Maria Theresia 1635"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1740 to 1780"
+    ],
     "hashed_id_s": [
         "4d5be63324133dc9"
     ],
-    "_version_": 1667138360686149632,
-    "timestamp": "2020-05-19T16:50:36.482Z"
+    "_version_": 1684903090064457728,
+    "timestamp": "2020-12-01T18:53:22.632Z"
 }

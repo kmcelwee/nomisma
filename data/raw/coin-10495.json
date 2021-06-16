@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6669"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -102,9 +99,12 @@
         "ornament, Dot inside circle & petals on sides."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "969 to 976"
+    ],
     "hashed_id_s": [
         "fe5f0c605603b04e"
     ],
-    "_version_": 1667144828246294528,
-    "timestamp": "2020-05-19T18:33:24.583Z"
+    "_version_": 1684903025740611584,
+    "timestamp": "2020-12-01T18:52:21.289Z"
 }

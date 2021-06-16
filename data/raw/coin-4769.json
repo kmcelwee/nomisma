@@ -35,8 +35,11 @@
         "3.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4769\",\"call_number_browse\":\"Coin 4769\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -32,
     "pub_date_end_sort": -31,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2597"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Sear  1479v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-32 to -31"
+    ],
     "hashed_id_s": [
         "c8e892777617912d"
     ],
-    "_version_": 1667138503258931200,
-    "timestamp": "2020-05-19T16:52:52.450Z"
+    "_version_": 1684903312675045376,
+    "timestamp": "2020-12-01T18:56:54.930Z"
 }

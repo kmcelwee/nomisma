@@ -35,8 +35,14 @@
         "3.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10960\",\"call_number_browse\":\"Coin 10960\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Gorney and Mosch, Munich; 130 (1607)"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Pb"
-    ],
-    "issue_number_s": [
-        "7121"
     ],
     "issue_metal_s": [
         "Lead"
@@ -86,9 +89,12 @@
         "SNS 3 Uncertain Mint Type Ia1/1a, var. 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "226ab6b12dbf6937"
     ],
-    "_version_": 1667138173173497856,
-    "timestamp": "2020-05-19T16:47:37.658Z"
+    "_version_": 1684903042472738816,
+    "timestamp": "2020-12-01T18:52:37.244Z"
 }

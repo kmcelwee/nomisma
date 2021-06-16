@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "4/15/1939"
@@ -47,6 +47,12 @@
         "2.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10375\",\"call_number_browse\":\"Coin 10375\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -226,
     "pub_date_end_sort": -223,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8924"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -120,9 +123,12 @@
         "H & L I,v.I,p.334 922.1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "4388cc0ed23474d8"
     ],
-    "_version_": 1670212400384573440,
-    "timestamp": "2020-06-22T15:11:09.192Z"
+    "_version_": 1684903343308144640,
+    "timestamp": "2020-12-01T18:57:24.143Z"
 }

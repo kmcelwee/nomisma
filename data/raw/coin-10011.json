@@ -71,9 +71,12 @@
         "P.d'A. I 34#2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1300"
+    ],
     "hashed_id_s": [
         "bfc21a6c41e67f9c"
     ],
-    "_version_": 1674260387557539840,
-    "timestamp": "2020-08-06T07:32:10.594Z"
+    "_version_": 1684903323615887360,
+    "timestamp": "2020-12-01T18:57:05.364Z"
 }

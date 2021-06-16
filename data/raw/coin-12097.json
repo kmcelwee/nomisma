@@ -35,8 +35,11 @@
         "8.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12097\",\"call_number_browse\":\"Coin 12097\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -345,
     "pub_date_end_sort": -307,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "8157"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Ravel 2 1029"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-345 to -307"
+    ],
     "hashed_id_s": [
         "7da067a463da00fe"
     ],
-    "_version_": 1667138300386738176,
-    "timestamp": "2020-05-19T16:49:38.977Z"
+    "_version_": 1684903041188233216,
+    "timestamp": "2020-12-01T18:52:36.020Z"
 }

@@ -35,8 +35,11 @@
         "22.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11927\",\"call_number_browse\":\"Coin 11927\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 132,
     "pub_date_end_sort": 134,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "7997"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 452 1395"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "132 to 134"
+    ],
     "hashed_id_s": [
         "d21af52d3bcb8cfe"
     ],
-    "_version_": 1667138128039641088,
-    "timestamp": "2020-05-19T16:46:54.614Z"
+    "_version_": 1684903340404637696,
+    "timestamp": "2020-12-01T18:57:21.375Z"
 }

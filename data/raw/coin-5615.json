@@ -35,8 +35,14 @@
         "7.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5615\",\"call_number_browse\":\"Coin 5615\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Faler, Naples; 9/1959; n. 46, $14.03"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3187"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Vlasto Coll.  1018"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "3e8181f4db52b800"
     ],
-    "_version_": 1667138248863907840,
-    "timestamp": "2020-05-19T16:48:49.843Z"
+    "_version_": 1684903119777955840,
+    "timestamp": "2020-12-01T18:53:50.968Z"
 }

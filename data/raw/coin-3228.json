@@ -35,6 +35,12 @@
         "9.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3228\",\"call_number_browse\":\"Coin 3228\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -146,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1970"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +99,12 @@
         "BMC Mac. p. 12 44"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -146"
+    ],
     "hashed_id_s": [
         "daf216bb0d135af4"
     ],
-    "_version_": 1667138436314693632,
-    "timestamp": "2020-05-19T16:51:48.609Z"
+    "_version_": 1684903216240656384,
+    "timestamp": "2020-12-01T18:55:22.962Z"
 }

@@ -38,6 +38,15 @@
         "1.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4684\",\"call_number_browse\":\"Coin 4684\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1931; $8"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2546"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +112,12 @@
         "Sear  1440"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -42"
+    ],
     "hashed_id_s": [
         "da6c8e5c7295d5e7"
     ],
-    "_version_": 1667138238305796096,
-    "timestamp": "2020-05-19T16:48:39.773Z"
+    "_version_": 1684903001844613120,
+    "timestamp": "2020-12-01T18:51:58.498Z"
 }

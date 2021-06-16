@@ -38,6 +38,12 @@
         "Cast"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6971\",\"call_number_browse\":\"Coin 6971\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -268,
     "pub_date_end_sort": -250,
     "issue_object_type_s": [
@@ -46,11 +52,11 @@
     "issue_denomination_s": [
         "quatrunx"
     ],
-    "issue_number_s": [
-        "4357"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Luceria, Apulia, Italy"
@@ -79,12 +85,16 @@
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy pl. 15 139",
         "Haeb. pl. 71 18-20",
-        "MIA pl. LXIV "
+        "MIA pl. LXIV ",
+        "RRC  21/3v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-268 to -250"
+    ],
     "hashed_id_s": [
         "e6eefd467987c8a5"
     ],
-    "_version_": 1667138135917592576,
-    "timestamp": "2020-05-19T16:47:02.126Z"
+    "_version_": 1684903682951348224,
+    "timestamp": "2020-12-01T19:02:48.052Z"
 }

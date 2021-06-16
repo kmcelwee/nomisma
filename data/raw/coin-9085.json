@@ -35,6 +35,9 @@
         "3.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9085\",\"call_number_browse\":\"Coin 9085\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "5772"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "BMC.1 3, Trajan 624"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "7b2f47d8122ee611"
     ],
-    "_version_": 1667138272377176064,
-    "timestamp": "2020-05-19T16:49:12.266Z"
+    "_version_": 1684903020081446912,
+    "timestamp": "2020-12-01T18:52:15.901Z"
 }

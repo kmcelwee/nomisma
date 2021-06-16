@@ -32,16 +32,13 @@
         "11.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6571\",\"call_number_browse\":\"Coin 6571\"}}",
-    "donor_s": [
-        "H.K. Twitchell"
+    "numismatic_accession_s": [
+        "338:  H.K. Twitchell"
     ],
     "pub_date_start_sort": 1914,
-    "pub_date_end_sort": 19918,
+    "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3985"
     ],
     "issue_metal_s": [
         "Silver"
@@ -65,12 +62,15 @@
         "ARRAS REIMS SOISSONS"
     ],
     "issue_artists_s": [
-        "Louis Desvignes"
+        "Louis Desvignes, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "083d4b9f67b13c2c"
     ],
-    "_version_": 1667138159467560960,
-    "timestamp": "2020-05-19T16:47:24.589Z"
+    "_version_": 1684903417066029056,
+    "timestamp": "2020-12-01T18:58:34.485Z"
 }

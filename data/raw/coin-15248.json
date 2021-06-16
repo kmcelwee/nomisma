@@ -35,8 +35,11 @@
         "3.00"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15248\",\"call_number_browse\":\"Coin 15248\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 69,
     "pub_date_end_sort": 69,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9396"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
         "Vitellius   (69 to 69)"
@@ -102,9 +102,12 @@
         "RIC 225 18"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "69 to 69"
+    ],
     "hashed_id_s": [
         "5ae732ba1bf46c54"
     ],
-    "_version_": 1667146044722380800,
-    "timestamp": "2020-05-19T19:06:39.248Z"
+    "_version_": 1684903375376744448,
+    "timestamp": "2020-12-01T18:57:54.726Z"
 }

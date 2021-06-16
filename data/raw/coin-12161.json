@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7/13/1939"
+        "1939-07-13"
     ],
     "find_feature_s": [
-        "House 1. surface West of room 2."
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "S-18-K"
+        "S 18-K"
     ],
     "find_number_s": [
         "Cc2481"
@@ -50,6 +50,9 @@
         "2.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12161\",\"call_number_browse\":\"Coin 12161\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -58,14 +61,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "8206"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
         "Constantine I (306 to 337)"
+    ],
+    "issue_workshop_s": [
+        "\u2208"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -95,12 +98,15 @@
         "IOVI CONSERVATORI AVGG NN"
     ],
     "issue_references_s": [
-        "RIC.7 677 16"
+        "RIC.7 Antioch 16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "3c1431f1fb900175"
     ],
-    "_version_": 1667138330498695168,
-    "timestamp": "2020-05-19T16:50:07.694Z"
+    "_version_": 1684903687833518080,
+    "timestamp": "2020-12-01T19:02:52.709Z"
 }

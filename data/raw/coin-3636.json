@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "20 Shillings"
     ],
-    "issue_number_s": [
-        "2138"
-    ],
     "issue_master_s": [
         "David Hall"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "1da5a8998ebeca0b"
     ],
-    "_version_": 1667138430996316160,
-    "timestamp": "2020-05-19T16:51:43.538Z"
+    "_version_": 1684903206197395456,
+    "timestamp": "2020-12-01T18:55:13.384Z"
 }

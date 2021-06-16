@@ -35,6 +35,12 @@
         "2.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1640\",\"call_number_browse\":\"Coin 1640\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "211: 1985-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 63,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1032"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "RPC.1  3649"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 63"
+    ],
     "hashed_id_s": [
         "64aba3258d4cd301"
     ],
-    "_version_": 1667138465676918784,
-    "timestamp": "2020-05-19T16:52:16.611Z"
+    "_version_": 1684903295906217984,
+    "timestamp": "2020-12-01T18:56:38.937Z"
 }

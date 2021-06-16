@@ -35,6 +35,9 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1435\",\"call_number_browse\":\"Coin 1435\"}}",
+    "numismatic_accession_s": [
+        "199: 1989-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 22,
     "pub_date_end_sort": 19,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "833"
     ],
     "issue_metal_s": [
         "Silver"
@@ -84,9 +84,12 @@
         "BMC.1.  309"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "22 to 19"
+    ],
     "hashed_id_s": [
         "8e42b57618c0df54"
     ],
-    "_version_": 1667138411987730432,
-    "timestamp": "2020-05-19T16:51:25.406Z"
+    "_version_": 1684903184905011200,
+    "timestamp": "2020-12-01T18:54:53.077Z"
 }

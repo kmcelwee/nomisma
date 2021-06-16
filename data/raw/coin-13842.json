@@ -35,6 +35,9 @@
         "3.979"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13842\",\"call_number_browse\":\"Coin 13842\"}}",
+    "numismatic_accession_s": [
+        "815: 2019-07-29 Allen G. Berman"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Dinar"
-    ],
-    "issue_number_s": [
-        "8885"
     ],
     "issue_metal_s": [
         "Gold"
@@ -71,6 +71,6 @@
     "hashed_id_s": [
         "e4c350f85d51ae74"
     ],
-    "_version_": 1667144763918254080,
-    "timestamp": "2020-05-19T18:32:23.467Z"
+    "_version_": 1684903168875429888,
+    "timestamp": "2020-12-01T18:54:37.792Z"
 }

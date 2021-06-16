@@ -29,7 +29,7 @@
         "Damage to reverse, mintmark unclear"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/08/1939"
@@ -53,6 +53,12 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12256\",\"call_number_browse\":\"Coin 12256\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 220,
     "pub_date_end_sort": 187,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8260"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +116,12 @@
         "H & L I, 460 1254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "220 to 187"
+    ],
     "hashed_id_s": [
         "f9c00090b238c980"
     ],
-    "_version_": 1670006361284411392,
-    "timestamp": "2020-06-20T08:36:14.997Z"
+    "_version_": 1684903654350389248,
+    "timestamp": "2020-12-01T19:02:20.776Z"
 }

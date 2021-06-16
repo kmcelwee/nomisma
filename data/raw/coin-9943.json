@@ -102,9 +102,12 @@
         "Schl.  III17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1300"
+    ],
     "hashed_id_s": [
         "a4df3e7d44dd589a"
     ],
-    "_version_": 1674260225984561152,
-    "timestamp": "2020-08-06T07:29:36.501Z"
+    "_version_": 1684903388268986368,
+    "timestamp": "2020-12-01T18:58:07.021Z"
 }

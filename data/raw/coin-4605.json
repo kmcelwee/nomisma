@@ -35,8 +35,11 @@
         "3.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4605\",\"call_number_browse\":\"Coin 4605\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2538"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Sear  1536v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "e84fb8c4524d81c8"
     ],
-    "_version_": 1667138500215963648,
-    "timestamp": "2020-05-19T16:52:49.550Z"
+    "_version_": 1684903311597109248,
+    "timestamp": "2020-12-01T18:56:53.902Z"
 }

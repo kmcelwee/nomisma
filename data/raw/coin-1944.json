@@ -35,8 +35,11 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1944\",\"call_number_browse\":\"Coin 1944\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1269"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,13 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; legend downwards behind; before, monogram upwards and XVI monogram."
+        "helmeted; behind, ROMA downwards; before, monogram (X, crossed), and Q.MAX upwards."
     ],
     "issue_obverse_legend_s": [
-        "ROMA"
+        "ROMA X (crossed) Q.MAX"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots",
+        "border, dotted",
         "m77, XVI monogram",
         "m1269, Monogram"
     ],
@@ -91,7 +91,7 @@
         "Cornucopiae"
     ],
     "issue_reverse_figure_description_s": [
-        "Cornucopiae over thunderbolt; around, wreath of grains and fruit."
+        "superimposed on thunderbolt; around, wreath composed of ear of barley, ear of wheat and assorted fruit."
     ],
     "issue_references_s": [
         "RRC  265/1",
@@ -99,9 +99,12 @@
         "Sear  141"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "4e3349a1ed168b98"
     ],
-    "_version_": 1667138469027119104,
-    "timestamp": "2020-05-19T16:52:19.804Z"
+    "_version_": 1684903610258817024,
+    "timestamp": "2020-12-01T19:01:38.727Z"
 }

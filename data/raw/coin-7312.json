@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "20-5-1936"
+        "1936-05-20"
+    ],
+    "find_feature_s": [
+        "Dig IV, E., 6-7m"
     ],
     "find_locus_s": [
-        "16-P"
+        "A 16-P"
     ],
-    "find_description_s": [
-        "16-P, Dig IV East, 6 to 7M"
+    "find_number_s": [
+        "C6434"
     ],
     "die_axis_s": [
         "5"
@@ -47,6 +50,12 @@
         "1.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7312\",\"call_number_browse\":\"Coin 7312\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4580"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,16 +110,19 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 693.85",
+        "RIC VII Antioch 85",
         "Cohen 7 258.254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "9f2a3e542aa0477d"
     ],
-    "_version_": 1667138356535885824,
-    "timestamp": "2020-05-19T16:50:32.526Z"
+    "_version_": 1691340492038471680,
+    "timestamp": "2021-02-10T20:13:07.555Z"
 }

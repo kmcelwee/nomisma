@@ -35,6 +35,9 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 963\",\"call_number_browse\":\"Coin 963\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -319,
     "issue_object_type_s": [
@@ -96,9 +99,12 @@
         "Price  2637"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -319"
+    ],
     "hashed_id_s": [
         "fdbe9eeba786de74"
     ],
-    "_version_": 1673105249515077632,
-    "timestamp": "2020-07-24T13:31:45.109Z"
+    "_version_": 1684903291685699584,
+    "timestamp": "2020-12-01T18:56:34.913Z"
 }

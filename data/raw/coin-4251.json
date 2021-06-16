@@ -38,8 +38,11 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4251\",\"call_number_browse\":\"Coin 4251\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "398: 1965-01-01 Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2402"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +107,12 @@
         "Sear  457"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "b7b72301bf82d52e"
     ],
-    "_version_": 1667138234940915712,
-    "timestamp": "2020-05-19T16:48:36.564Z"
+    "_version_": 1684903460739219456,
+    "timestamp": "2020-12-01T18:59:16.134Z"
 }

@@ -35,8 +35,8 @@
         "18.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9341\",\"call_number_browse\":\"Coin 9341\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 541,
     "pub_date_end_sort": 542,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5960"
     ],
     "issue_metal_s": [
         "Copper"
@@ -98,9 +95,12 @@
         "BMC Justinian I 243"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "541 to 542"
+    ],
     "hashed_id_s": [
         "8d06b99674f5c95d"
     ],
-    "_version_": 1667138148638916608,
-    "timestamp": "2020-05-19T16:47:14.258Z"
+    "_version_": 1684903402277961728,
+    "timestamp": "2020-12-01T18:58:20.382Z"
 }

@@ -38,8 +38,14 @@
         "11.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10584\",\"call_number_browse\":\"Coin 10584\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 05/08/2000"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE/1"
-    ],
-    "issue_number_s": [
-        "6754"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "SNS 1 Type VIII/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "be9b6dcd243e5ecc"
     ],
-    "_version_": 1667138283071602688,
-    "timestamp": "2020-05-19T16:49:22.463Z"
+    "_version_": 1684903500114296832,
+    "timestamp": "2020-12-01T18:59:53.686Z"
 }

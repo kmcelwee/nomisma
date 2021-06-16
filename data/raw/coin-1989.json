@@ -35,8 +35,11 @@
         "16.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1989\",\"call_number_browse\":\"Coin 1989\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "269: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -430,
     "pub_date_end_sort": -425,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1314"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "The Coinage of Gela page 398 9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-430 to -425"
+    ],
     "hashed_id_s": [
         "08fab0d46a5929ce"
     ],
-    "_version_": 1667138383443394560,
-    "timestamp": "2020-05-19T16:50:58.187Z"
+    "_version_": 1684903123834896384,
+    "timestamp": "2020-12-01T18:53:54.837Z"
 }

@@ -35,6 +35,15 @@
         "3.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4753\",\"call_number_browse\":\"Coin 4753\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1919; $1.25"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -38,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2586"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +109,12 @@
         "Sear  1474"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -38"
+    ],
     "hashed_id_s": [
         "b8c375a7d671855e"
     ],
-    "_version_": 1667138240638877696,
-    "timestamp": "2020-05-19T16:48:41.998Z"
+    "_version_": 1684903004410478592,
+    "timestamp": "2020-12-01T18:52:00.945Z"
 }

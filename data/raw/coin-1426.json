@@ -35,8 +35,11 @@
         "6.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1426\",\"call_number_browse\":\"Coin 1426\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "4:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": 60,
     "pub_date_end_sort": 60,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "824"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "RPC.1  2872"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "60 to 60"
+    ],
     "hashed_id_s": [
         "b2f2001b5ec9fa21"
     ],
-    "_version_": 1667138211470639104,
-    "timestamp": "2020-05-19T16:48:14.181Z"
+    "_version_": 1684902976563445760,
+    "timestamp": "2020-12-01T18:51:34.389Z"
 }

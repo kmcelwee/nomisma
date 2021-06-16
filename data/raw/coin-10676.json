@@ -38,8 +38,14 @@
         "7.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10676\",\"call_number_browse\":\"Coin 10676\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Dmitri Markov; (368)"
     ],
     "pub_date_start_sort": 273,
     "pub_date_end_sort": 276,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-old"
-    ],
-    "issue_number_s": [
-        "6837"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "barbarized"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "273 to 276"
+    ],
     "hashed_id_s": [
         "d3ad4282d3f162c7"
     ],
-    "_version_": 1667138344904032256,
-    "timestamp": "2020-05-19T16:50:21.432Z"
+    "_version_": 1684903083691212800,
+    "timestamp": "2020-12-01T18:53:16.555Z"
 }

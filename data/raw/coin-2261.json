@@ -34,14 +34,14 @@
     "find_date_s": [
         "05/14/1932"
     ],
-    "find_feature_s": [
-        "Bath C; Room 27."
-    ],
     "find_locus_s": [
-        "M-11-NW"
+        "DS 11-M (NW.)"
     ],
     "find_number_s": [
         "1535"
+    ],
+    "find_description_s": [
+        "Bath C, room 27"
     ],
     "die_axis_s": [
         "1"
@@ -53,6 +53,12 @@
         "12.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2261\",\"call_number_browse\":\"Coin 2261\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 47,
     "pub_date_end_sort": 48,
     "issue_object_type_s": [
@@ -61,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1455"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -92,27 +101,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Claudius"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM TI CLA CAE AV GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC enclosed by laurel wreath of eight leaves; dotted border around the wreath"
-    ],
-    "issue_reverse_legend_s": [
-        "SC"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4279"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "47 to 48"
+    ],
     "hashed_id_s": [
         "0b562ea53ad865db"
     ],
-    "_version_": 1667145328312188928,
-    "timestamp": "2020-05-19T18:50:51.824Z"
+    "_version_": 1684903688248754176,
+    "timestamp": "2020-12-01T19:02:53.106Z"
 }

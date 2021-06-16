@@ -32,16 +32,13 @@
         "2.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1137\",\"call_number_browse\":\"Coin 1137\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "578"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +73,12 @@
         "KM 385 11-9.4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "5c813fce229383fb"
     ],
-    "_version_": 1667138390896672768,
-    "timestamp": "2020-05-19T16:51:05.294Z"
+    "_version_": 1684903266171748352,
+    "timestamp": "2020-12-01T18:56:10.581Z"
 }

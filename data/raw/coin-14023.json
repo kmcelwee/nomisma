@@ -35,8 +35,11 @@
         "16.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14023\",\"call_number_browse\":\"Coin 14023\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "9046"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "c9553000dd672b90"
     ],
-    "_version_": 1667310675500728320,
-    "timestamp": "2020-05-21T14:29:28.699Z"
+    "_version_": 1684903658036133888,
+    "timestamp": "2020-12-01T19:02:24.292Z"
 }

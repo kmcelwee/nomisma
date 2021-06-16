@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin is missing a portion on lower left (break occurs from 10 o'clock to 6 o'clock) and a small bit on the right edge. Weight as is: 1.99 g.  On reverse, legend reads as [\u0391\u039d\u03a4\u0399\u039f]\u03a7\u0395\u03a9\u039d.\u0394\u03a1."
+        "Coin is missing a portion on lower left (break occurs from 10 o'clock to 6 o'clock) and a small bit on the right edge. On reverse, legend reads as [\u0391\u039d\u03a4\u0399\u039f]\u03a7\u0395\u03a9\u039d.\u0394\u03a1."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,14 @@
     "find_date_s": [
         "10/20/1934"
     ],
-    "find_feature_s": [
-        "Dump"
-    ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3833"
+    ],
+    "find_description_s": [
+        "Main Street Dig 3, dump"
     ],
     "die_axis_s": [
         "11"
@@ -49,7 +49,16 @@
     "size_s": [
         "16"
     ],
+    "weight_s": [
+        "1.99"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2901\",\"call_number_browse\":\"Coin 2901\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -58,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1814"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -107,9 +119,12 @@
         "RPC.1  4289"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "22814983b95c8d1b"
     ],
-    "_version_": 1667138479000125440,
-    "timestamp": "2020-05-19T16:52:29.314Z"
+    "_version_": 1684903616100433920,
+    "timestamp": "2020-12-01T19:01:44.299Z"
 }

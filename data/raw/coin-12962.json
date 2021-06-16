@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "Dichalkoi"
     ],
-    "issue_number_s": [
-        "8479"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "1ebb0e831902c0e0"
     ],
-    "_version_": 1667138315038490624,
-    "timestamp": "2020-05-19T16:49:52.949Z"
+    "_version_": 1683105437600186368,
+    "timestamp": "2020-11-11T22:40:27.646Z"
 }

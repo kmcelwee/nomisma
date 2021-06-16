@@ -35,8 +35,11 @@
         "3.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13316\",\"call_number_browse\":\"Coin 13316\"}}",
-    "donor_s": [
-        "Waddell"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "808:  Waddell"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8624"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,6 +106,6 @@
     "hashed_id_s": [
         "5dde93986b07deb4"
     ],
-    "_version_": 1667138521559728128,
-    "timestamp": "2020-05-19T16:53:09.903Z"
+    "_version_": 1684903325896540160,
+    "timestamp": "2020-12-01T18:57:07.539Z"
 }

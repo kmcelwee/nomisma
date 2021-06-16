@@ -38,8 +38,11 @@
         "8.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6291\",\"call_number_browse\":\"Coin 6291\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
@@ -117,9 +120,12 @@
         "BMC Gal. 253 46"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "1ca303e8a95db5f6"
     ],
-    "_version_": 1674370225714233344,
-    "timestamp": "2020-08-07T12:38:00.418Z"
+    "_version_": 1684903334129958912,
+    "timestamp": "2020-12-01T18:57:15.394Z"
 }

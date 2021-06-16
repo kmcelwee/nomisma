@@ -50,6 +50,9 @@
         "5.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 977\",\"call_number_browse\":\"Coin 977\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": -332,
     "pub_date_end_sort": -323,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "449"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +105,12 @@
         "Price  3143"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-332 to -323"
+    ],
     "hashed_id_s": [
         "8307e7dadd54f6f3"
     ],
-    "_version_": 1667138206401822720,
-    "timestamp": "2020-05-19T16:48:09.346Z"
+    "_version_": 1684903094030172160,
+    "timestamp": "2020-12-01T18:53:26.414Z"
 }

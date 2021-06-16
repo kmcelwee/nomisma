@@ -35,8 +35,14 @@
         "0.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10559\",\"call_number_browse\":\"Coin 10559\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 9/19/2001; 58 (812)"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7882"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 1 Phase3 Group / Mint C (\"Ctesiphon) Type III/3a Flames 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "ba93d2a7cf021662"
     ],
-    "_version_": 1667138125722288128,
-    "timestamp": "2020-05-19T16:46:52.406Z"
+    "_version_": 1684902992472440832,
+    "timestamp": "2020-12-01T18:51:49.562Z"
 }

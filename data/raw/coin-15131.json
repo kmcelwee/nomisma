@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15131\",\"call_number_browse\":\"Coin 15131\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1912,
     "pub_date_end_sort": 1978,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "Grade I, admirals"
-    ],
-    "issue_number_s": [
-        "9290"
     ],
     "issue_metal_s": [
         "Badge: gilt; Star: silver"
@@ -66,9 +66,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  328-29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1912 to 1978"
+    ],
     "hashed_id_s": [
         "e65f43cba505bc9f"
     ],
-    "_version_": 1667144890666975232,
-    "timestamp": "2020-05-19T18:34:23.968Z"
+    "_version_": 1684903354948386816,
+    "timestamp": "2020-12-01T18:57:35.245Z"
 }

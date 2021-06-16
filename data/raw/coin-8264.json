@@ -2,7 +2,7 @@
     "id": "coin-8264",
     "title_display": "Coin: 8264",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 8264"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7/17/1939"
+        "1939-07-17"
     ],
     "find_feature_s": [
-        "Trenches 1 & 2"
+        "Under rH mosaic pavement"
     ],
     "find_locus_s": [
-        "15-M"
+        "A 15-M"
     ],
     "find_number_s": [
         "Cc2506"
-    ],
-    "find_description_s": [
-        "Under rH mosaic pavement"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "2.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8264\",\"call_number_browse\":\"Coin 8264\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -61,14 +64,14 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5270"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
+    ],
+    "issue_workshop_s": [
+        "SMAN"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -113,12 +116,15 @@
         "PROVIDEN-TIAE CAESS"
     ],
     "issue_references_s": [
-        "RIC 7 688.65"
+        "RIC VII Antioch 65"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "ef658fe985592d0c"
     ],
-    "_version_": 1667138347431100416,
-    "timestamp": "2020-05-19T16:50:23.843Z"
+    "_version_": 1684902912422051840,
+    "timestamp": "2020-12-01T18:50:33.218Z"
 }

@@ -35,8 +35,11 @@
         "2.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6870\",\"call_number_browse\":\"Coin 6870\"}}",
-    "donor_s": [
-        "William W. Lockwood"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "527:  William W. Lockwood"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "4277"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "5cdfe6cab360d162"
     ],
-    "_version_": 1667145415566295040,
-    "timestamp": "2020-05-19T18:53:24.804Z"
+    "_version_": 1684902903690559488,
+    "timestamp": "2020-12-01T18:50:24.898Z"
 }

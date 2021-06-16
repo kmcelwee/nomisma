@@ -2,7 +2,7 @@
     "id": "coin-6522",
     "title_display": "Coin: 6522",
     "pub_created_display": [
-        "Constans I (337 to 350), Antioch"
+        "Constans I (337 to 350), aes III, Antioch"
     ],
     "call_number_display": [
         "Coin 6522"
@@ -29,10 +29,7 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7/17/1937"
-    ],
-    "find_feature_s": [
-        "under geometric mosaic"
+        "07/17/1937"
     ],
     "find_locus_s": [
         "DH 30-Q"
@@ -41,7 +38,7 @@
         "Ca2705"
     ],
     "find_description_s": [
-        "Sealed deposit Ca2704-Ca2713"
+        "Green mosaic dig, room 1, under Geometric mosaic, second level, sealed deposit, to 1m"
     ],
     "die_axis_s": [
         "12"
@@ -53,16 +50,25 @@
         "1.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6522\",\"call_number_browse\":\"Coin 6522\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "3944"
+    "issue_denomination_s": [
+        "aes III"
     ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Constans I (337 to 350)"
@@ -95,19 +101,21 @@
         "Wreath"
     ],
     "issue_reverse_figure_description_s": [
-        "legend, four lines within wreath"
+        "around legend, four lines within wreath"
     ],
     "issue_reverse_legend_s": [
         "VOT XX MVLT XXX"
     ],
     "issue_references_s": [
-        "RIC.8  ",
-        "RIC.8 pg. 521 "
+        "RIC VIII Antioch  115"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "494c1f0d928c7cee"
     ],
-    "_version_": 1667138253502808064,
-    "timestamp": "2020-05-19T16:48:54.264Z"
+    "_version_": 1684903082871226368,
+    "timestamp": "2020-12-01T18:53:15.772Z"
 }

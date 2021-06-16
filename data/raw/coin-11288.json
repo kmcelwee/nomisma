@@ -35,8 +35,14 @@
         "4.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11288\",\"call_number_browse\":\"Coin 11288\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 05/17/2013"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7452"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SN  BN Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "0b9175c7259c740f"
     ],
-    "_version_": 1667138292055801856,
-    "timestamp": "2020-05-19T16:49:31.034Z"
+    "_version_": 1684903144176222208,
+    "timestamp": "2020-12-01T18:54:14.239Z"
 }

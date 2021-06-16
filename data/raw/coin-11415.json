@@ -44,6 +44,12 @@
         "9.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11415\",\"call_number_browse\":\"Coin 11415\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -119,9 +125,12 @@
         "DOC 3.2 C.20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "3dfb0f9f9a2e41ee"
     ],
-    "_version_": 1673454745389367296,
-    "timestamp": "2020-07-28T10:06:50.346Z"
+    "_version_": 1684902902859038720,
+    "timestamp": "2020-12-01T18:50:24.100Z"
 }

@@ -29,8 +29,11 @@
         "77x64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5935\",\"call_number_browse\":\"Coin 5935\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "2 Pence"
-    ],
-    "issue_number_s": [
-        "3435"
     ],
     "issue_metal_s": [
         "Paper"
@@ -84,6 +84,6 @@
     "hashed_id_s": [
         "f153a1d0ba21aed0"
     ],
-    "_version_": 1667138249932406784,
-    "timestamp": "2020-05-19T16:48:50.861Z"
+    "_version_": 1684903122192826368,
+    "timestamp": "2020-12-01T18:53:53.272Z"
 }

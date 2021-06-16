@@ -41,8 +41,11 @@
         "2.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9883\",\"call_number_browse\":\"Coin 9883\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1185,
     "pub_date_end_sort": 1195,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6263"
     ],
     "issue_metal_s": [
         "Billon"
@@ -115,9 +115,12 @@
         "Sear  2003"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1185 to 1195"
+    ],
     "hashed_id_s": [
         "3b3a9b72446a9a83"
     ],
-    "_version_": 1667138278348816384,
-    "timestamp": "2020-05-19T16:49:17.959Z"
+    "_version_": 1684903496547041280,
+    "timestamp": "2020-12-01T18:59:50.284Z"
 }

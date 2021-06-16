@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/1/1938"
-    ],
-    "find_feature_s": [
-        "Trench 4.Surface soil c.-3.50 C1."
+        "04/01/1938"
     ],
     "find_locus_s": [
-        "13-R (NORTH)"
+        "A 13-R (N.)"
     ],
     "find_number_s": [
-        "Cb196"
+        "Cb0196"
     ],
     "find_description_s": [
-        "Bronze disease; incised cross on obverse"
+        "Trench 4, surface soil, 3.5m (C1)"
     ],
     "die_axis_s": [
         "11"
@@ -56,6 +53,12 @@
         "5.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3912\",\"call_number_browse\":\"Coin 3912\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -64,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2265"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -98,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -112,16 +115,16 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above"
-    ],
     "issue_references_s": [
         "RPC.1  4266, 4268-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "5 to 14"
+    ],
     "hashed_id_s": [
         "beb6ab939788ac6c"
     ],
-    "_version_": 1667138443584471040,
-    "timestamp": "2020-05-19T16:51:55.543Z"
+    "_version_": 1684903695426256896,
+    "timestamp": "2020-12-01T19:02:59.949Z"
 }

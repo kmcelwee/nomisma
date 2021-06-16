@@ -35,8 +35,11 @@
         "7.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3559\",\"call_number_browse\":\"Coin 3559\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "8:  Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": 16,
     "pub_date_end_sort": 14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "2090"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +94,12 @@
         "Augustus  1481"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "16 to 14"
+    ],
     "hashed_id_s": [
         "8df6d1de70d62713"
     ],
-    "_version_": 1667138227478200320,
-    "timestamp": "2020-05-19T16:48:29.445Z"
+    "_version_": 1684902984253702144,
+    "timestamp": "2020-12-01T18:51:41.722Z"
 }

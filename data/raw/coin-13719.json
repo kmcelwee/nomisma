@@ -38,8 +38,11 @@
         "7.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13719\",\"call_number_browse\":\"Coin 13719\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -274,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8780"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,12 +104,15 @@
         "m13719.2, inner right"
     ],
     "issue_references_s": [
-        "H & L I, v.I, p.141 382"
+        "H & L I, v.I, p.141 382a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-278 to -274"
+    ],
     "hashed_id_s": [
         "e5fd6e54e0b21056"
     ],
-    "_version_": 1667138518320676864,
-    "timestamp": "2020-05-19T16:53:06.814Z"
+    "_version_": 1684903327831162880,
+    "timestamp": "2020-12-01T18:57:09.386Z"
 }

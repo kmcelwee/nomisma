@@ -35,8 +35,11 @@
         "15.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6810\",\"call_number_browse\":\"Coin 6810\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_collection_s": [
+        "Vermeule"
+    ],
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
@@ -96,9 +99,12 @@
         "Bed.  20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "8508154ec0cf74e4"
     ],
-    "_version_": 1674075388563685376,
-    "timestamp": "2020-08-04T06:31:41.799Z"
+    "_version_": 1684903251539918848,
+    "timestamp": "2020-12-01T18:55:56.626Z"
 }

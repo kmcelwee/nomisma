@@ -35,8 +35,11 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2930\",\"call_number_browse\":\"Coin 2930\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1834"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; tripod behind; XVI monogram before."
+        "helmeted; behind, tripod; before, XVI monogram (X, crossed)."
+    ],
+    "issue_obverse_legend_s": [
+        "X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "m77, XVI monogram."
     ],
     "issue_reverse_figure_s": [
@@ -96,13 +99,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Apollo r. in biga; in r. hand, arrow and reins; in l. hand, bow; legends below."
+        "in biga; holding bow in l. hand and arrow and reins in r. hand, with quiver over shoulder; below, M. OPEIMI; ROMA in exergue."
     ],
     "issue_reverse_legend_s": [
-        "M. OPEIMI; ROMA [in exergue]"
+        "M. OPEIMI ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border."
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  254/1",
@@ -110,9 +113,12 @@
         "Sear  130"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "277fbcf1e533c538"
     ],
-    "_version_": 1667138479401730048,
-    "timestamp": "2020-05-19T16:52:29.698Z"
+    "_version_": 1684903225812058112,
+    "timestamp": "2020-12-01T18:55:32.090Z"
 }

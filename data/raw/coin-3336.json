@@ -35,8 +35,11 @@
         "4.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3336\",\"call_number_browse\":\"Coin 3336\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1573,
     "pub_date_end_sort": 1620,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3068"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +71,12 @@
         "Shang Hai YMQ 138 466"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1573 to 1620"
+    ],
     "hashed_id_s": [
         "b62512bd33a7a287"
     ],
-    "_version_": 1667138147875553280,
-    "timestamp": "2020-05-19T16:47:13.530Z"
+    "_version_": 1684903401083633664,
+    "timestamp": "2020-12-01T18:58:19.242Z"
 }

@@ -44,6 +44,12 @@
         "5.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6097\",\"call_number_browse\":\"Coin 6097\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 59,
     "pub_date_end_sort": 60,
     "issue_object_type_s": [
@@ -52,11 +58,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1813"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -74,7 +83,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Goddess"
+        "Tyche"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -83,7 +92,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of the city goddess"
+        "veiled, turreted, draped"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -95,10 +104,7 @@
         "face foreward"
     ],
     "issue_reverse_figure_description_s": [
-        "alter is lighted and garlanded"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "ET .  HP is in exergue"
+        "lighted and garlanded"
     ],
     "issue_reverse_legend_s": [
         "ET . HP"
@@ -108,9 +114,12 @@
         "RPC.1  4292v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "59 to 60"
+    ],
     "hashed_id_s": [
         "88cfd90bfb361f25"
     ],
-    "_version_": 1667138450776653824,
-    "timestamp": "2020-05-19T16:52:02.399Z"
+    "_version_": 1684903692896043008,
+    "timestamp": "2020-12-01T19:02:57.537Z"
 }

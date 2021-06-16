@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "4363"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,9 +86,12 @@
         "System und Chronologie der Munzpragung des Kusanreiches 82 819"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "127 to 151"
+    ],
     "hashed_id_s": [
         "70163ca2c1059af5"
     ],
-    "_version_": 1667138135184637952,
-    "timestamp": "2020-05-19T16:47:01.426Z"
+    "_version_": 1684903383247355904,
+    "timestamp": "2020-12-01T18:58:02.233Z"
 }

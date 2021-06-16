@@ -26,16 +26,13 @@
         "num"
     ],
     "notes_display": [
-        "Clipped, weight 2.52 grams"
+        "Coin clipped"
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7/10/1937"
-    ],
-    "find_feature_s": [
-        "Removing earth in room B 8."
+        "07/10/1937"
     ],
     "find_locus_s": [
         "DH 27-O"
@@ -43,29 +40,44 @@
     "find_number_s": [
         "Ca2505"
     ],
+    "find_description_s": [
+        "Removing earth in room B8"
+    ],
     "die_axis_s": [
         "6"
     ],
     "size_s": [
         "21"
     ],
+    "weight_s": [
+        "2.52"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13215\",\"call_number_browse\":\"Coin 13215\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8562"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "Z"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,7 +92,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -89,10 +104,13 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Female figure"
+    ],
+    "issue_reverse_symbol_s": [
+        "Z"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -101,18 +119,27 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "presenting wreath to emperor standing l., holding scepter"
+        "draped, presenting wreath to emperor, standing l., extending r. hand"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Aurelian"
     ],
     "issue_reverse_legend_s": [
-        "RESTITVOR BIS | XXI"
+        "RESTITVT ORBIS / XXI"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in Aurelian's l. hand"
     ],
     "issue_references_s": [
-        "RIC V, I, p. 308 386"
+        "RIC V  Aurelian 386"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "de8031e5e1b3599d"
     ],
-    "_version_": 1667138337800978432,
-    "timestamp": "2020-05-19T16:50:14.658Z"
+    "_version_": 1684903676754264064,
+    "timestamp": "2020-12-01T19:02:42.142Z"
 }

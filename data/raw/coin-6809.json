@@ -35,6 +35,12 @@
         "15.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6809\",\"call_number_browse\":\"Coin 6809\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "523: 1999-02-14 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -90,9 +96,12 @@
         "m42, on lower part of rock below Tyche"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "29db54e5ed754861"
     ],
-    "_version_": 1674076998857654272,
-    "timestamp": "2020-08-04T06:57:17.502Z"
+    "_version_": 1684903173015207936,
+    "timestamp": "2020-12-01T18:54:41.739Z"
 }

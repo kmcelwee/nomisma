@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/5/1934"
+        "1934-06-05"
     ],
     "find_feature_s": [
-        "Trench 2 Arena"
+        "Circus, W. side, N. end"
     ],
     "find_locus_s": [
-        "7-N Circus"
+        "DS 7-N (CIR)"
     ],
     "find_number_s": [
         "C3117"
-    ],
-    "find_description_s": [
-        "West side north end"
     ],
     "die_axis_s": [
         "1"
@@ -53,6 +50,12 @@
         "3.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7555\",\"call_number_browse\":\"Coin 7555\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4720"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +92,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "head right, laurel."
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IMP LIC LICINIUS P F AUG"
@@ -107,16 +107,19 @@
         "Jupiter stg. L., chlamys across l. shoulder, leaning on scepter, Victory on globe in r. hand; eagle with wreath to l."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CON-SERVATORI"
+        "IOVI CON-SERVATORI | \u2022SIS\u2022"
     ],
     "issue_references_s": [
-        "RIC, VII 424 17",
+        "RIC VII Siscia 17",
         "Numismatique Constantinienne 2. 324 I 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "eacedcaf8e0df1c8"
     ],
-    "_version_": 1667138259990347776,
-    "timestamp": "2020-05-19T16:49:00.453Z"
+    "_version_": 1692607094812835840,
+    "timestamp": "2021-02-24T19:45:14.090Z"
 }

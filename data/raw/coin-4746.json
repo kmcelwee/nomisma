@@ -35,8 +35,11 @@
         "1.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4746\",\"call_number_browse\":\"Coin 4746\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -39,
     "pub_date_end_sort": -39,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2585"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,12 @@
         "Sear  1575"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-39 to -39"
+    ],
     "hashed_id_s": [
         "c6892dc7eedc6d4e"
     ],
-    "_version_": 1667138239461326848,
-    "timestamp": "2020-05-19T16:48:40.874Z"
+    "_version_": 1684903002801963008,
+    "timestamp": "2020-12-01T18:51:59.413Z"
 }

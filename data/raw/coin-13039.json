@@ -35,6 +35,12 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13039\",\"call_number_browse\":\"Coin 13039\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -118,
     "pub_date_end_sort": -107,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius serratus"
-    ],
-    "issue_number_s": [
-        "8500"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "RRC  309"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-118 to -107"
+    ],
     "hashed_id_s": [
         "f3388cda5f88113c"
     ],
-    "_version_": 1667138315629887488,
-    "timestamp": "2020-05-19T16:49:53.514Z"
+    "_version_": 1684903055210840064,
+    "timestamp": "2020-12-01T18:52:49.393Z"
 }

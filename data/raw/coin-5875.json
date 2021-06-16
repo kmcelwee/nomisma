@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Surface of both side uneven so that only legible portion of inscription is the A of\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d on the obverse.  Notes: BMC PP XIX 8.  Waage notes that only two coins from Antioch collection of this issue are countermarked."
+        "Surface of both side uneven so that only legible portion of inscription is the A of\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d on the obverse. Notes: BMC PP XIX 8. Waage notes that only two coins from Antioch collection of this issue are countermarked."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,14 @@
     "find_date_s": [
         "05/16/1932"
     ],
-    "find_feature_s": [
-        "House A; Surface."
-    ],
     "find_locus_s": [
-        "N-10"
+        "DS 10-N (HSEA)"
     ],
     "find_number_s": [
         "1566A"
+    ],
+    "find_description_s": [
+        "House A, surface"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +53,12 @@
         "4.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5875\",\"call_number_browse\":\"Coin 5875\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -61,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1811"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of the city goddess, Tyche"
+        "veiled, turreted, draped bust"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -107,10 +116,7 @@
         "facing, head to left"
     ],
     "issue_reverse_figure_description_s": [
-        "crescent enclosing a star above center"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "crecent and star located above ram"
+        "crescent enclosing a star above ram"
     ],
     "issue_reverse_legend_s": [
         "\u0395\u03a0\u0399 \u039a\u039f\u03a5\u0391\u0394P\u0391\u03a4\u039f\u03a5"
@@ -119,9 +125,12 @@
         "RPC.1  4287"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "08cb67a8a84018e2"
     ],
-    "_version_": 1667138224509681664,
-    "timestamp": "2020-05-19T16:48:26.617Z"
+    "_version_": 1684903692705202176,
+    "timestamp": "2020-12-01T19:02:57.355Z"
 }

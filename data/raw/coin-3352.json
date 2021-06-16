@@ -38,6 +38,12 @@
         "29.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3352\",\"call_number_browse\":\"Coin 3352\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "356: 2008-01-15 Herakles Numismatics"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "2019"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -104,9 +107,12 @@
         "MacDowall  74 ff. v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "1d2c90ee84f259a7"
     ],
-    "_version_": 1667138166662889472,
-    "timestamp": "2020-05-19T16:47:31.447Z"
+    "_version_": 1684902927665201152,
+    "timestamp": "2020-12-01T18:50:47.756Z"
 }

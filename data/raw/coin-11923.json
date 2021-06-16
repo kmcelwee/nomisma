@@ -35,8 +35,11 @@
         "12.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11923\",\"call_number_browse\":\"Coin 11923\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 125,
     "pub_date_end_sort": 128,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "7993"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 437 1335-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "125 to 128"
+    ],
     "hashed_id_s": [
         "9dec4aa553408f9c"
     ],
-    "_version_": 1667138299199750144,
-    "timestamp": "2020-05-19T16:49:37.843Z"
+    "_version_": 1684903510877929472,
+    "timestamp": "2020-12-01T19:00:03.950Z"
 }

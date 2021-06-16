@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 358\",\"call_number_browse\":\"Coin 358\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1839,
     "pub_date_end_sort": 1839,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "piastre"
-    ],
-    "issue_number_s": [
-        "181"
     ],
     "issue_metal_s": [
         "Silver"
@@ -71,9 +71,12 @@
         "star, in border"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1839 to 1839"
+    ],
     "hashed_id_s": [
         "50e5bc07e7a122fd"
     ],
-    "_version_": 1667138403300278272,
-    "timestamp": "2020-05-19T16:51:17.125Z"
+    "_version_": 1684903177410838528,
+    "timestamp": "2020-12-01T18:54:45.932Z"
 }

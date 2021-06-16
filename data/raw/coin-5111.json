@@ -38,6 +38,12 @@
         "93.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5111\",\"call_number_browse\":\"Coin 5111\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -276,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "triens"
-    ],
-    "issue_number_s": [
-        "2823"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +90,12 @@
         "Sear  536"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-280 to -276"
+    ],
     "hashed_id_s": [
         "ff3f95d172e4f0ff"
     ],
-    "_version_": 1667138399522258944,
-    "timestamp": "2020-05-19T16:51:13.518Z"
+    "_version_": 1684903271057063936,
+    "timestamp": "2020-12-01T18:56:15.241Z"
 }

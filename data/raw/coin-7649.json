@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "9/21/1934"
+        "1934-09-21"
     ],
     "find_feature_s": [
-        "MSD319 m yard"
+        "Main Street Dig 3, street, 85.56-85.07"
+    ],
+    "find_locus_s": [
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3628"
@@ -47,6 +50,12 @@
         "1.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7649\",\"call_number_browse\":\"Coin 7649\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 323,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4780"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -88,6 +94,9 @@
     "issue_reverse_figure_s": [
         "Jupiter"
     ],
+    "issue_reverse_symbol_s": [
+        "\u03b5"
+    ],
     "issue_reverse_part_s": [
         "standing"
     ],
@@ -98,16 +107,19 @@
         "Jupiter stg. l., chlamys across l. shoulder, leaning on sceptre with eagle, Victory on globe in r. hand; eagle holding wreath on ground to l.; to r., captive."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONS-ERVATORI"
+        "IOVI CONS-ERVATORI | SMANTA"
     ],
     "issue_references_s": [
-        "RIC, VII 682. 35",
+        "RIC VII Antioch 35",
         "Numismatique Constantinienne III. 195. I. 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 323"
+    ],
     "hashed_id_s": [
         "3872bf7bad84cda6"
     ],
-    "_version_": 1667138350942781440,
-    "timestamp": "2020-05-19T16:50:27.190Z"
+    "_version_": 1690520591495331840,
+    "timestamp": "2021-02-01T19:01:09.495Z"
 }

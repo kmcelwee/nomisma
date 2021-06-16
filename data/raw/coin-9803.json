@@ -53,6 +53,9 @@
         "2.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9803\",\"call_number_browse\":\"Coin 9803\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 322,
     "pub_date_end_sort": 325,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6190"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,9 +118,12 @@
         "Numismatique Constantinienne II, 271 III, no. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "322 to 325"
+    ],
     "hashed_id_s": [
         "ec474e6324bc42f7"
     ],
-    "_version_": 1667138137759940608,
-    "timestamp": "2020-05-19T16:47:03.885Z"
+    "_version_": 1684903386537787392,
+    "timestamp": "2020-12-01T18:58:05.371Z"
 }

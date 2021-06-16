@@ -29,13 +29,13 @@
         "2.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9373\",\"call_number_browse\":\"Coin 9373\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5993"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -44,6 +44,6 @@
     "hashed_id_s": [
         "874cd9cc7c2cbbf0"
     ],
-    "_version_": 1667138146111848448,
-    "timestamp": "2020-05-19T16:47:11.849Z"
+    "_version_": 1684902916877451264,
+    "timestamp": "2020-12-01T18:50:37.467Z"
 }

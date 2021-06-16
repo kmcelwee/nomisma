@@ -32,13 +32,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-25-1932"
+        "1932-05-25"
+    ],
+    "find_feature_s": [
+        "House A, \"Coin Room,\" S. of room 115"
     ],
     "find_locus_s": [
-        "N-10"
-    ],
-    "find_description_s": [
-        "N-10 House A, \"Coin Room\", S. of 115"
+        "DS 10-N (HSEA)"
     ],
     "die_axis_s": [
         "6"
@@ -50,6 +50,12 @@
         "1.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7294\",\"call_number_browse\":\"Coin 7294\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4569"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed (rosette d.)"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NUSMAXAUG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -110,16 +113,19 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR IAEXERC ITUS"
+        "GLOR-IA EXERC-ITVS"
     ],
     "issue_references_s": [
-        "RIC 7 693.86",
+        "RIC VII Antioch 86",
         "Numismatique Constantinienne 7 257.254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "894cfa7a1d3a3c55"
     ],
-    "_version_": 1667138354269913088,
-    "timestamp": "2020-05-19T16:50:30.363Z"
+    "_version_": 1691968965024153600,
+    "timestamp": "2021-02-17T18:42:26.103Z"
 }

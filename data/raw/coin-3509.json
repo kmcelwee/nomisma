@@ -35,8 +35,11 @@
         "7.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3509\",\"call_number_browse\":\"Coin 3509\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 4,
     "pub_date_end_sort": 5,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2053"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Amandry p. 151-56 XIII"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "4 to 5"
+    ],
     "hashed_id_s": [
         "9480a88f7cd3aa4d"
     ],
-    "_version_": 1667138227047235584,
-    "timestamp": "2020-05-19T16:48:29.038Z"
+    "_version_": 1684903106943385600,
+    "timestamp": "2020-12-01T18:53:38.728Z"
 }

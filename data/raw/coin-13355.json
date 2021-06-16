@@ -35,8 +35,11 @@
         "18.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13355\",\"call_number_browse\":\"Coin 13355\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -169,
     "pub_date_end_sort": -168,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadruple"
-    ],
-    "issue_number_s": [
-        "8636"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "H & L II, 69 1414"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-169 to -168"
+    ],
     "hashed_id_s": [
         "3275f48f2f3ee238"
     ],
-    "_version_": 1667138518734864384,
-    "timestamp": "2020-05-19T16:53:07.210Z"
+    "_version_": 1684903325149954048,
+    "timestamp": "2020-12-01T18:57:06.828Z"
 }

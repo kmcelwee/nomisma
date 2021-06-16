@@ -50,6 +50,9 @@
         "7.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7941\",\"call_number_browse\":\"Coin 7941\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 138,
     "pub_date_end_sort": 161,
     "issue_object_type_s": [
@@ -107,9 +110,12 @@
         "BMC Syria 190 339"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "138 to 161"
+    ],
     "hashed_id_s": [
         "a59d1a80f64d17c6"
     ],
-    "_version_": 1673555019917426688,
-    "timestamp": "2020-07-29T12:40:39.587Z"
+    "_version_": 1684902908903030784,
+    "timestamp": "2020-12-01T18:50:29.862Z"
 }

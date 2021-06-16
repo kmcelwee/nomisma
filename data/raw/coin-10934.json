@@ -38,8 +38,14 @@
         "4.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10934\",\"call_number_browse\":\"Coin 10934\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Don Reece; 04/10/2005"
     ],
     "pub_date_start_sort": 388,
     "pub_date_end_sort": 389,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7095"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Hybrid: Obv. Type Ia1/Rev. type 1a of Yazdgerd I"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "388 to 389"
+    ],
     "hashed_id_s": [
         "31fd8a41a4c7ebc9"
     ],
-    "_version_": 1667138174389846016,
-    "timestamp": "2020-05-19T16:47:38.815Z"
+    "_version_": 1684902950911082496,
+    "timestamp": "2020-12-01T18:51:09.925Z"
 }

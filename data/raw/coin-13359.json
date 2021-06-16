@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Dinar"
     ],
-    "issue_number_s": [
-        "8639"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -71,6 +68,6 @@
     "hashed_id_s": [
         "8025e224eea520d8"
     ],
-    "_version_": 1667145481397993472,
-    "timestamp": "2020-05-19T18:43:47.322Z"
+    "_version_": 1684903164944318464,
+    "timestamp": "2020-12-01T18:54:34.094Z"
 }

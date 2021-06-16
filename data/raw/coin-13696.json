@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6229"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,12 +101,15 @@
         "SMAN\u0393"
     ],
     "issue_references_s": [
-        "RIC.8 515 39"
+        "RIC VIII Antioch 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "7518426453ec1424"
     ],
-    "_version_": 1667138523288829952,
-    "timestamp": "2020-05-19T16:53:11.551Z"
+    "_version_": 1684903647617482752,
+    "timestamp": "2020-12-01T19:02:14.356Z"
 }

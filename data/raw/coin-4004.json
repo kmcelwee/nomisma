@@ -35,8 +35,8 @@
         "17.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4004\",\"call_number_browse\":\"Coin 4004\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2302"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +99,12 @@
         "Sear Justin I 62"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "b049546c70db5de1"
     ],
-    "_version_": 1667138446045478912,
-    "timestamp": "2020-05-19T16:51:57.888Z"
+    "_version_": 1684903289518292992,
+    "timestamp": "2020-12-01T18:56:32.846Z"
 }

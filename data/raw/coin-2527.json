@@ -35,8 +35,11 @@
         "1.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2527\",\"call_number_browse\":\"Coin 2527\"}}",
-    "donor_s": [
-        "Claus Pelling"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "277: 2007-04-25 Claus Pelling"
     ],
     "pub_date_start_sort": 1414,
     "pub_date_end_sort": 1423,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1595"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,13 +105,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 253, 3",
-        "CNI, 7  IV.21.6",
+        "CNI, 7  119, 6",
         "MEC 12 647-648"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1414 to 1423"
+    ],
     "hashed_id_s": [
         "83e5cff30b3fa739"
     ],
-    "_version_": 1667138221221347328,
-    "timestamp": "2020-05-19T16:48:23.478Z"
+    "_version_": 1684902995444105216,
+    "timestamp": "2020-12-01T18:51:52.397Z"
 }

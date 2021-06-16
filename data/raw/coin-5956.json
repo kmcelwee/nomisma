@@ -38,8 +38,11 @@
         "7.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5956\",\"call_number_browse\":\"Coin 5956\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Di Falco, Naples; Nov. 1962; $22.41"
     ],
     "pub_date_start_sort": -415,
     "pub_date_end_sort": -390,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3452"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Vlasto Coll.  301"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-415 to -390"
+    ],
     "hashed_id_s": [
         "1e6241ae43e9d925"
     ],
-    "_version_": 1667138387411206144,
-    "timestamp": "2020-05-19T16:51:01.969Z"
+    "_version_": 1684903562282270720,
+    "timestamp": "2020-12-01T19:00:52.974Z"
 }

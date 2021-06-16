@@ -38,6 +38,12 @@
         "4.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9378\",\"call_number_browse\":\"Coin 9378\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "76: 2001-04-09 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1167,
     "pub_date_end_sort": 1183,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "5998"
     ],
     "issue_metal_s": [
         "Gold"
@@ -103,9 +106,12 @@
         "BL Vol. 2; Manuel I 61/Cp/AU/11-13v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1167 to 1183"
+    ],
     "hashed_id_s": [
         "dc96137f3dd5c085"
     ],
-    "_version_": 1667138146036350976,
-    "timestamp": "2020-05-19T16:47:11.776Z"
+    "_version_": 1684903399142719488,
+    "timestamp": "2020-12-01T18:58:17.391Z"
 }

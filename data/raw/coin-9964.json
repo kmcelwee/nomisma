@@ -102,9 +102,12 @@
         "Schl.  II19"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1136 to 1149"
+    ],
     "hashed_id_s": [
         "f2c1f7c54f092f7c"
     ],
-    "_version_": 1674259775971393536,
-    "timestamp": "2020-08-06T07:22:27.339Z"
+    "_version_": 1684903323492155392,
+    "timestamp": "2020-12-01T18:57:05.247Z"
 }

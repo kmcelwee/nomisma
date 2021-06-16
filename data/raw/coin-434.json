@@ -35,6 +35,9 @@
         "6.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 434\",\"call_number_browse\":\"Coin 434\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 1806,
     "pub_date_end_sort": 1806,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1000 dinar"
-    ],
-    "issue_number_s": [
-        "193"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,9 +77,12 @@
         "Jones  2136"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1806 to 1806"
+    ],
     "hashed_id_s": [
         "193e7137b5f291a2"
     ],
-    "_version_": 1667138403561373696,
-    "timestamp": "2020-05-19T16:51:17.371Z"
+    "_version_": 1684903177755820032,
+    "timestamp": "2020-12-01T18:54:46.261Z"
 }

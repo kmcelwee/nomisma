@@ -38,8 +38,11 @@
         "16.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13717\",\"call_number_browse\":\"Coin 13717\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -109,
     "pub_date_end_sort": -96,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8779"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,16 +103,19 @@
     "issue_reverse_attributes_s": [
         "Nike, in l.hand",
         "sceptre, in r.hand",
-        "m13717, above \u039b in l.field",
-        "m13717.2, under throne"
+        "monogram, above \u039b in l.field",
+        "monogram, under throne"
     ],
     "issue_references_s": [
-        "H & L II,v.I,p.505 2309.2"
+        "H & L II,v.I,p.505 2309.2c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-109 to -96"
+    ],
     "hashed_id_s": [
         "b70e78094ea1f91e"
     ],
-    "_version_": 1667138518940385280,
-    "timestamp": "2020-05-19T16:53:07.406Z"
+    "_version_": 1684903325372252160,
+    "timestamp": "2020-12-01T18:57:07.040Z"
 }

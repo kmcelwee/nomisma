@@ -35,8 +35,11 @@
         "0.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 459\",\"call_number_browse\":\"Coin 459\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 1193,
     "pub_date_end_sort": 1218,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "206"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +91,12 @@
         "Dieudonne pages 114-15 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1193 to 1218"
+    ],
     "hashed_id_s": [
         "2804941719dbc296"
     ],
-    "_version_": 1667138201966346240,
-    "timestamp": "2020-05-19T16:48:05.114Z"
+    "_version_": 1684902971709587456,
+    "timestamp": "2020-12-01T18:51:29.760Z"
 }

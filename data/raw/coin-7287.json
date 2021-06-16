@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "4563"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +83,12 @@
         "Mitchiner pg. 400 2928-2963"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 105"
+    ],
     "hashed_id_s": [
         "43c906609525d327"
     ],
-    "_version_": 1667138356501282816,
-    "timestamp": "2020-05-19T16:50:32.491Z"
+    "_version_": 1684903250747195392,
+    "timestamp": "2020-12-01T18:55:55.871Z"
 }

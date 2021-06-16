@@ -32,6 +32,9 @@
         "98x56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3445\",\"call_number_browse\":\"Coin 3445\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "30 shillings"
-    ],
-    "issue_number_s": [
-        "2039"
     ],
     "issue_metal_s": [
         "Paper"
@@ -84,9 +84,13 @@
         "Shafer & Cuhaj p. 1131 S1824"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "92e36d936ea52fb2"
     ],
-    "_version_": 1667138226964398080,
-    "timestamp": "2020-05-19T16:48:28.954Z"
+    "_version_": 1684902983770308608,
+    "timestamp": "2020-12-01T18:51:41.261Z"
 }

@@ -35,8 +35,11 @@
         "3.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6212\",\"call_number_browse\":\"Coin 6212\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1474,
     "pub_date_end_sort": 1504,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 real"
-    ],
-    "issue_number_s": [
-        "3658"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Cast\u00e1n y Cay\u00f3n  2581"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1474 to 1504"
+    ],
     "hashed_id_s": [
         "a787787d551bcab5"
     ],
-    "_version_": 1667138374281986048,
-    "timestamp": "2020-05-19T16:50:49.448Z"
+    "_version_": 1684903112584724480,
+    "timestamp": "2020-12-01T18:53:44.108Z"
 }

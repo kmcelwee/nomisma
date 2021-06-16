@@ -38,6 +38,12 @@
         "3.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12895\",\"call_number_browse\":\"Coin 12895\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 78,
     "pub_date_end_sort": 105,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8451"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +100,12 @@
         "SNP  Va/5a.\u03b2 (2a.\u03b1)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "78 to 105"
+    ],
     "hashed_id_s": [
         "4f094e2e2c96e21c"
     ],
-    "_version_": 1667138312692826112,
-    "timestamp": "2020-05-19T16:49:50.713Z"
+    "_version_": 1684903159706681344,
+    "timestamp": "2020-12-01T18:54:29.047Z"
 }

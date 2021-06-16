@@ -41,6 +41,12 @@
         "52.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7024\",\"call_number_browse\":\"Coin 7024\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -289,
     "pub_date_end_sort": -271,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "sextans"
-    ],
-    "issue_number_s": [
-        "4383"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -79,9 +82,12 @@
         "Aes Grave  1629"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-289 to -271"
+    ],
     "hashed_id_s": [
         "cb516dd1af20b987"
     ],
-    "_version_": 1667138358559637504,
-    "timestamp": "2020-05-19T16:50:34.456Z"
+    "_version_": 1684903543832576000,
+    "timestamp": "2020-12-01T19:00:35.378Z"
 }

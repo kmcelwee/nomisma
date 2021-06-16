@@ -47,6 +47,12 @@
         "2.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9326\",\"call_number_browse\":\"Coin 9326\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -77,9 +83,12 @@
         "Beitr\u00e4ge zur mamlukischen Numismatik V  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "19a43018d932fabe"
     ],
-    "_version_": 1674255959912873984,
-    "timestamp": "2020-08-06T06:21:48.059Z"
+    "_version_": 1684903315468451840,
+    "timestamp": "2020-12-01T18:56:57.595Z"
 }

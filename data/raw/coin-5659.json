@@ -41,6 +41,12 @@
         "31.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5659\",\"call_number_browse\":\"Coin 5659\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -273,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "sextans"
-    ],
-    "issue_number_s": [
-        "3222"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +84,12 @@
         "Haeb. pl. 81 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-273 to -268"
+    ],
     "hashed_id_s": [
         "0c31e7a1379f846f"
     ],
-    "_version_": 1667138389406646272,
-    "timestamp": "2020-05-19T16:51:03.873Z"
+    "_version_": 1684903265414676480,
+    "timestamp": "2020-12-01T18:56:09.858Z"
 }

@@ -35,8 +35,11 @@
         "3.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2171\",\"call_number_browse\":\"Coin 2171\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -296,
     "pub_date_end_sort": -295,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1413"
     ],
     "issue_metal_s": [
         "Silver"
@@ -116,9 +116,17 @@
         "Sear  6831v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zeus",
+        "Other Person, Athena",
+        "Animal, elephant"
+    ],
+    "issue_date_s": [
+        "-296 to -295"
+    ],
     "hashed_id_s": [
         "9d4e7dd7a20c63ac"
     ],
-    "_version_": 1667138112185171968,
-    "timestamp": "2020-05-19T16:46:39.493Z"
+    "_version_": 1684903649357070336,
+    "timestamp": "2020-12-01T19:02:16.016Z"
 }

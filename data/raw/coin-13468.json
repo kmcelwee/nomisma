@@ -38,8 +38,11 @@
         "0.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13468\",\"call_number_browse\":\"Coin 13468\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 10,
     "pub_date_end_sort": 38,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8482"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Sellwood  63.21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "10 to 38"
+    ],
     "hashed_id_s": [
         "99f8d1a305dc2d5c"
     ],
-    "_version_": 1667138316893421568,
-    "timestamp": "2020-05-19T16:49:54.718Z"
+    "_version_": 1684903162950975488,
+    "timestamp": "2020-12-01T18:54:32.141Z"
 }

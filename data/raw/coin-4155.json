@@ -35,16 +35,22 @@
         "0.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4155\",\"call_number_browse\":\"Coin 4155\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1935; $3.30"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "2367"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; legend downwards behind; border of dots"
+        "laureate; behind, legend downwards"
     ],
     "issue_obverse_legend_s": [
         "NERVA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -89,14 +98,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "holds wreath in r. hand and palm branch in l. hand; legend downwards before; border of dots"
+        "holding wreath in r. hand and palm branch in l. hand over l. shoulder; before, legend downwards"
     ],
     "issue_reverse_legend_s": [
-        "A LICINI"
+        "A.LICINI"
     ],
     "issue_reverse_attributes_s": [
         "wreath, held in r. hand",
-        "palm branch, held in l. hand"
+        "palm branch, held in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  454/4",
@@ -104,9 +114,12 @@
         "Sear  432"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "7325cf8ba07be433"
     ],
-    "_version_": 1667138490587938816,
-    "timestamp": "2020-05-19T16:52:40.369Z"
+    "_version_": 1684903228829859840,
+    "timestamp": "2020-12-01T18:55:34.968Z"
 }

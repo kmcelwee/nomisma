@@ -32,25 +32,28 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1926\",\"call_number_browse\":\"Coin 1926\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1662,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1256"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Shun Zhi \u987a\u6cbb (1638 to 1661)"
     ],
     "issue_workshop_s": [
-        "  Jiang Xi Nan Chang Mint\uff08\u6c5f\u897f\u5357\u660c\u5c40\uff09"
+        "Jiang Xi Nan Chang Mint\uff08\u6c5f\u897f\u5357\u660c\u5c40\uff09"
     ],
     "issue_series_s": [
         "Series 1 Wen\uff08\u6587\uff09coins"
@@ -78,9 +81,12 @@
         "Coole 68 101A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1662"
+    ],
     "hashed_id_s": [
         "a441e2c61c2bcf1d"
     ],
-    "_version_": 1667138468213424128,
-    "timestamp": "2020-05-19T16:52:19.029Z"
+    "_version_": 1684903297165557760,
+    "timestamp": "2020-12-01T18:56:40.138Z"
 }

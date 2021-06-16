@@ -35,8 +35,11 @@
         "19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 924\",\"call_number_browse\":\"Coin 924\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "395"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,6 +87,6 @@
     "hashed_id_s": [
         "6bf167f0bdb455c8"
     ],
-    "_version_": 1667138407282769920,
-    "timestamp": "2020-05-19T16:51:20.922Z"
+    "_version_": 1684903180641501184,
+    "timestamp": "2020-12-01T18:54:49.013Z"
 }

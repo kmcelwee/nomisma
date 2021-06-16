@@ -2,7 +2,7 @@
     "id": "coin-8576",
     "title_display": "Coin: 8576",
     "pub_created_display": [
-        "Licinius (308 to 324), follis, Antioch"
+        "Maximinus Daia  (305 to 313), AE2, Antioch"
     ],
     "call_number_display": [
         "Coin 8576"
@@ -29,16 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/28/1933"
-    ],
-    "find_feature_s": [
-        "Bath D"
+        "04/28/1933"
     ],
     "find_locus_s": [
-        "Nw.12.a0"
+        "DS 10-M (BTHD)"
     ],
     "find_description_s": [
-        "From level on M end"
+        "Bath D, 12m NW? from level on N. end"
     ],
     "die_axis_s": [
         "12"
@@ -50,22 +47,31 @@
         "5.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8576\",\"call_number_browse\":\"Coin 8576\"}}",
-    "pub_date_start_sort": 305,
-    "pub_date_end_sort": 306,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 308,
+    "pub_date_end_sort": 309,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "5171"
+        "AE2"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Licinius (308 to 324)"
+        "Maximinus Daia  (305 to 313)"
+    ],
+    "issue_workshop_s": [
+        "I"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -80,7 +86,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Licinius"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -89,36 +95,43 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laur."
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "IMP C GAL VAL MAXIMIANVS PF AVG"
+        "IMP C LIC LICINNIVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Virtus"
     ],
     "issue_reverse_symbol_s": [
-        "* I"
+        "* on I"
     ],
     "issue_reverse_part_s": [
-        "standing"
+        "advancing"
     ],
     "issue_reverse_orientation_s": [
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Virtus advancing r. in military dress, r. holding transverse spear, l. shield and trophy visible over shoulder"
+        "draped, cuirassed"
     ],
     "issue_reverse_legend_s": [
-        "VIRTIVS EX-ERCITVS | ANT [S above on left]"
+        "VIRTVS EX-ERCITVS/ INT."
+    ],
+    "issue_reverse_attributes_s": [
+        "transverse spear, in r. hand",
+        "shield and trophy, over l. shoulder"
     ],
     "issue_references_s": [
-        "RIC 6 628.92"
+        "RIC VI  Antioch 108b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "308 to 309"
+    ],
     "hashed_id_s": [
         "411a588a10625f3f"
     ],
-    "_version_": 1667138266689699840,
-    "timestamp": "2020-05-19T16:49:06.840Z"
+    "_version_": 1684903489393655808,
+    "timestamp": "2020-12-01T18:59:43.462Z"
 }

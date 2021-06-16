@@ -35,6 +35,12 @@
         "9.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1421\",\"call_number_browse\":\"Coin 1421\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "192: 1985-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 59,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "820"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +104,12 @@
         "RPC.1  3136"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 59"
+    ],
     "hashed_id_s": [
         "7696a973a832d073"
     ],
-    "_version_": 1667138462886658048,
-    "timestamp": "2020-05-19T16:52:13.950Z"
+    "_version_": 1684903294525243392,
+    "timestamp": "2020-12-01T18:56:37.620Z"
 }

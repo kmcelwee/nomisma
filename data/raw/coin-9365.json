@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "5987"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,9 +86,12 @@
         "Mitchiner 452 3451, 3455-8,3643-5,3470"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "185 to 220"
+    ],
     "hashed_id_s": [
         "27c60eeb3c65a83f"
     ],
-    "_version_": 1667138146231386112,
-    "timestamp": "2020-05-19T16:47:11.962Z"
+    "_version_": 1684903399456243712,
+    "timestamp": "2020-12-01T18:58:17.690Z"
 }

@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8000\",\"call_number_browse\":\"Coin 8000\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 624,
     "pub_date_end_sort": 627,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5030"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -84,9 +87,12 @@
         "DOC Volume 2 part 1 166b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "624 to 627"
+    ],
     "hashed_id_s": [
         "f7a0a433278772a3"
     ],
-    "_version_": 1667145060025630720,
-    "timestamp": "2020-05-19T18:42:24.169Z"
+    "_version_": 1684903367854260224,
+    "timestamp": "2020-12-01T18:57:47.552Z"
 }

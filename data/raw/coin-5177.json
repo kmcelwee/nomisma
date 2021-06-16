@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5177\",\"call_number_browse\":\"Coin 5177\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; $1.85"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2868"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "C. Memmius C.f."
@@ -74,13 +83,19 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bearded and laureate head r.; border of dots"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "C MEMMIVS C F / QVIRINVS"
+        "QVIRINVS C\u00b7MEMMI\u00b7C\u00b7F"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Ceres"
+    ],
+    "issue_reverse_symbol_s": [
+        "snake, before"
     ],
     "issue_reverse_part_s": [
         "seated"
@@ -88,11 +103,14 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Ceres seated r., holding torch and three ears of corn; at feet, snake; legend around; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "MEMMIVS AED CERIALIA \u0393REIMVS FECIT"
+        "MEMMIVS\u00b7AED\u00b7CERIALIA\u00b7PREIMVS\u00b7FECIT"
+    ],
+    "issue_reverse_attributes_s": [
+        "torch , in l. hand",
+        "corn-ears, in r. hand",
+        "inscription, around head",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  427/2",
@@ -100,9 +118,12 @@
         "Sear  388"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "ad04488c158dbce3"
     ],
-    "_version_": 1667138397992386560,
-    "timestamp": "2020-05-19T16:51:12.059Z"
+    "_version_": 1684903138242330624,
+    "timestamp": "2020-12-01T18:54:08.577Z"
 }

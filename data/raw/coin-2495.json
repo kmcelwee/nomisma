@@ -35,8 +35,11 @@
         "1.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2495\",\"call_number_browse\":\"Coin 2495\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1559,
     "pub_date_end_sort": 1567,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldo"
-    ],
-    "issue_number_s": [
-        "1574"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,12 +99,18 @@
     ],
     "issue_references_s": [
         "Pap. Gerolamo Priuli 58.AP",
-        "CNI, 7  XIII.13.67"
+        "CNI, 7  375, 67"
     ],
-    "issue_monogram_1display": "[]",
+    "issue_monogram_title_s": [
+        "dummy123"
+    ],
+    "issue_monogram_1display": "[{\"title\":\"dummy123\",\"document_id\":\"179260e9-ea9f-448d-93d4-202c555e9745\"}]",
+    "issue_date_s": [
+        "1559 to 1567"
+    ],
     "hashed_id_s": [
         "6837869c46a73e6f"
     ],
-    "_version_": 1667138160522428416,
-    "timestamp": "2020-05-19T16:47:25.593Z"
+    "_version_": 1684902931233505280,
+    "timestamp": "2020-12-01T18:50:51.160Z"
 }

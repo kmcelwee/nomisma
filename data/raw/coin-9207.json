@@ -38,8 +38,11 @@
         "1.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9207\",\"call_number_browse\":\"Coin 9207\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1036,
     "pub_date_end_sort": 1094,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dirham"
-    ],
-    "issue_number_s": [
-        "5875"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +86,12 @@
         "CFC Type U1 (p. 242), #1719 (p. 259) "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1036 to 1094"
+    ],
     "hashed_id_s": [
         "887206664282d4c8"
     ],
-    "_version_": 1667138147944759296,
-    "timestamp": "2020-05-19T16:47:13.596Z"
+    "_version_": 1684903401300688896,
+    "timestamp": "2020-12-01T18:58:19.449Z"
 }

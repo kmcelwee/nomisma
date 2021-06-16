@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "billon trachy"
     ],
-    "issue_number_s": [
-        "8308"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -85,9 +82,12 @@
         "Iurukova p.88,type V"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1268 to 1277"
+    ],
     "hashed_id_s": [
         "8b3c30f7185161e2"
     ],
-    "_version_": 1667144826967031808,
-    "timestamp": "2020-05-19T18:33:23.220Z"
+    "_version_": 1684903153003134976,
+    "timestamp": "2020-12-01T18:54:22.653Z"
 }

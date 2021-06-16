@@ -35,8 +35,11 @@
         "7.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5108\",\"call_number_browse\":\"Coin 5108\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1127,
     "pub_date_end_sort": 1162,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "3 Cash"
-    ],
-    "issue_number_s": [
-        "2820"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -66,9 +66,12 @@
         "Jen 74 329"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1127 to 1162"
+    ],
     "hashed_id_s": [
         "de194b6e24966b67"
     ],
-    "_version_": 1667138399723585536,
-    "timestamp": "2020-05-19T16:51:13.714Z"
+    "_version_": 1684903271104249856,
+    "timestamp": "2020-12-01T18:56:15.285Z"
 }

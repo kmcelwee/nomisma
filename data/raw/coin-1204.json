@@ -35,6 +35,12 @@
         "10.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1204\",\"call_number_browse\":\"Coin 1204\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "163: 1990-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 66,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "650"
     ],
     "issue_metal_s": [
         "Copper"
@@ -92,9 +95,12 @@
         "Sear  1974"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 66"
+    ],
     "hashed_id_s": [
         "c581747e810e1da2"
     ],
-    "_version_": 1667138409614802944,
-    "timestamp": "2020-05-19T16:51:23.146Z"
+    "_version_": 1684903276180406272,
+    "timestamp": "2020-12-01T18:56:20.125Z"
 }

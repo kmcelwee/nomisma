@@ -35,6 +35,15 @@
         "1.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3079\",\"call_number_browse\":\"Coin 3079\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Franz F.Kraus; 1928; $2.05"
+    ],
     "pub_date_start_sort": -500,
     "pub_date_end_sort": -480,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "1902"
     ],
     "issue_metal_s": [
         "Silver"
@@ -82,9 +88,12 @@
         "Maced  p.51"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-500 to -480"
+    ],
     "hashed_id_s": [
         "84a52ee9e77100c2"
     ],
-    "_version_": 1667138480483860480,
-    "timestamp": "2020-05-19T16:52:30.731Z"
+    "_version_": 1684903226562838528,
+    "timestamp": "2020-12-01T18:55:32.807Z"
 }

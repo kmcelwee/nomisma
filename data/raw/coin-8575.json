@@ -29,19 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/24/1939"
+        "1939-04-24"
     ],
     "find_feature_s": [
-        "In stratum (B1)"
+        "Immediately below late walls"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "Cc813"
+        "Cc0813"
     ],
     "find_description_s": [
-        "immediately below late walls"
+        "In stratum (B1)"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +53,12 @@
         "2.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8575\",\"call_number_browse\":\"Coin 8575\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 314,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5473"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,15 +110,18 @@
         "Jupiter standing l., chlamys across l. shoulder, leaning on sceptre, Victory on globe in r. hand; eagle with wreath to l. on ground"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSER VATO RI AVGG | ANT"
+        "IOVI CONSER-VATO-RI AVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC 7 676.8"
+        "RIC VII Antioch 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 314"
+    ],
     "hashed_id_s": [
         "c5064e44e7114e72"
     ],
-    "_version_": 1667138269230399488,
-    "timestamp": "2020-05-19T16:49:09.263Z"
+    "_version_": 1684903691612585984,
+    "timestamp": "2020-12-01T19:02:56.312Z"
 }

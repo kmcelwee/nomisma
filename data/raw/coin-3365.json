@@ -38,8 +38,11 @@
         "9.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3365\",\"call_number_browse\":\"Coin 3365\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1030,
     "pub_date_end_sort": 1042,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "2024"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +110,12 @@
         "BMC.Byz. 497 (Class II) 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1030 to 1042"
+    ],
     "hashed_id_s": [
         "072367a959e4b2b0"
     ],
-    "_version_": 1667138433347223552,
-    "timestamp": "2020-05-19T16:51:45.780Z"
+    "_version_": 1684903283721764864,
+    "timestamp": "2020-12-01T18:56:27.318Z"
 }

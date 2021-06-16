@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6-10-1935"
-    ],
-    "find_feature_s": [
-        "1-2 to bedrock"
+        "06/10/1935"
     ],
     "find_locus_s": [
-        "23,24N-D-H"
+        "DH 23/24-N"
     ],
     "find_number_s": [
         "C5334"
     ],
     "find_description_s": [
-        "under mosaics"
+        "Under mosaics, 1-2m to bedrock"
     ],
     "die_axis_s": [
         "12"
@@ -56,6 +53,12 @@
         "7.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2054\",\"call_number_browse\":\"Coin 2054\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1359"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -95,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; field in front plain"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -110,9 +116,12 @@
         "RPC.1  4297"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "e8e2f8cdc7741d1c"
     ],
-    "_version_": 1667138217253535744,
-    "timestamp": "2020-05-19T16:48:19.695Z"
+    "_version_": 1684903685187960833,
+    "timestamp": "2020-12-01T19:02:50.185Z"
 }

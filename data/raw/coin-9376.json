@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "5995"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,9 +80,12 @@
         "Calcutta vol 1. p. 183 31"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "200 to 400"
+    ],
     "hashed_id_s": [
         "0d829188d7c41dbc"
     ],
-    "_version_": 1667138275045801984,
-    "timestamp": "2020-05-19T16:49:14.809Z"
+    "_version_": 1684903493309038592,
+    "timestamp": "2020-12-01T18:59:47.195Z"
 }

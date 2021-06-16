@@ -38,6 +38,12 @@
         "8.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10416\",\"call_number_browse\":\"Coin 10416\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "717: 2001-06-06 Amphora Coins"
+    ],
     "pub_date_start_sort": 40,
     "pub_date_end_sort": 39,
     "issue_object_type_s": [
@@ -89,9 +95,12 @@
         "SNG ANS  199"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "40 to 39"
+    ],
     "hashed_id_s": [
         "a284d5c3007c23d1"
     ],
-    "_version_": 1673103529984655360,
-    "timestamp": "2020-07-24T13:04:25.235Z"
+    "_version_": 1684903668160135168,
+    "timestamp": "2020-12-01T19:02:33.946Z"
 }

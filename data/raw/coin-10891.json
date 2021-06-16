@@ -38,8 +38,14 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10891\",\"call_number_browse\":\"Coin 10891\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "N. Chalabiani; 07/30/2005"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7052"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Uncertain Mint Type Ib1/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "68c3b98de4e10fef"
     ],
-    "_version_": 1667138287128543232,
-    "timestamp": "2020-05-19T16:49:26.331Z"
+    "_version_": 1684903142325485568,
+    "timestamp": "2020-12-01T18:54:12.473Z"
 }

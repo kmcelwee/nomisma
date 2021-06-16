@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "1/2 Penny"
     ],
-    "issue_number_s": [
-        "2747"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -103,6 +100,6 @@
     "hashed_id_s": [
         "9650496236cd632d"
     ],
-    "_version_": 1667138457707741184,
-    "timestamp": "2020-05-19T16:52:09.012Z"
+    "_version_": 1683105226597335040,
+    "timestamp": "2020-11-11T22:37:06.419Z"
 }

@@ -35,6 +35,9 @@
         "0.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1377\",\"call_number_browse\":\"Coin 1377\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1229,
     "pub_date_end_sort": 1278,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "780"
     ],
     "issue_metal_s": [
         "Billon"
@@ -88,9 +88,12 @@
         "Malloy page 256 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1229 to 1278"
+    ],
     "hashed_id_s": [
         "a9bc9af5e4d9b030"
     ],
-    "_version_": 1667145457170644992,
-    "timestamp": "2020-05-19T18:56:05.719Z"
+    "_version_": 1684903096674680832,
+    "timestamp": "2020-12-01T18:53:28.935Z"
 }

@@ -38,8 +38,14 @@
         "4.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11071\",\"call_number_browse\":\"Coin 11071\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Matt Kreuzer"
     ],
     "pub_date_start_sort": 484,
     "pub_date_end_sort": 488,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7232"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 AY Type Ia/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "484 to 488"
+    ],
     "hashed_id_s": [
         "eefb8b555865fd19"
     ],
-    "_version_": 1667138171730657280,
-    "timestamp": "2020-05-19T16:47:36.280Z"
+    "_version_": 1684902948387160064,
+    "timestamp": "2020-12-01T18:51:07.519Z"
 }

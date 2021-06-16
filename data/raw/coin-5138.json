@@ -41,6 +41,12 @@
         "39.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5138\",\"call_number_browse\":\"Coin 5138\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "sextans"
-    ],
-    "issue_number_s": [
-        "2849"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +102,12 @@
         "Sear  587"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "e35b309631dba676"
     ],
-    "_version_": 1667138245254709248,
-    "timestamp": "2020-05-19T16:48:46.397Z"
+    "_version_": 1684903006745657344,
+    "timestamp": "2020-12-01T18:52:03.172Z"
 }

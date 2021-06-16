@@ -35,8 +35,11 @@
         "3.708"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6499\",\"call_number_browse\":\"Coin 6499\"}}",
-    "donor_s": [
-        "Ernst Justus Haeberlin"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "476:  Ernst Justus Haeberlin"
     ],
     "pub_date_start_sort": -179,
     "pub_date_end_sort": -170,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "3921"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Sear Vol. I: 87 69"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-179 to -170"
+    ],
     "hashed_id_s": [
         "348af9fd91b57283"
     ],
-    "_version_": 1667138253380124672,
-    "timestamp": "2020-05-19T16:48:54.146Z"
+    "_version_": 1684903125841870848,
+    "timestamp": "2020-12-01T18:53:56.751Z"
 }

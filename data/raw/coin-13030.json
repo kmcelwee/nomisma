@@ -35,8 +35,11 @@
         "0.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13030\",\"call_number_browse\":\"Coin 13030\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 78,
     "pub_date_end_sort": 105,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8499"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +83,12 @@
         "Sellwood  73.16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "78 to 105"
+    ],
     "hashed_id_s": [
         "2ba1b3ad23cdc709"
     ],
-    "_version_": 1667138340592287744,
-    "timestamp": "2020-05-19T16:50:17.320Z"
+    "_version_": 1684903246151286784,
+    "timestamp": "2020-12-01T18:55:51.487Z"
 }

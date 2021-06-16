@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/02/1937"
@@ -47,6 +47,12 @@
         "2.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7354\",\"call_number_browse\":\"Coin 7354\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -244,
     "pub_date_end_sort": -226,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4605"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,12 @@
         "WSM  1163"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-244 to -226"
+    ],
     "hashed_id_s": [
         "f7d54589736efdcd"
     ],
-    "_version_": 1670003555132506112,
-    "timestamp": "2020-06-20T07:51:38.842Z"
+    "_version_": 1684902967675715584,
+    "timestamp": "2020-12-01T18:51:25.912Z"
 }

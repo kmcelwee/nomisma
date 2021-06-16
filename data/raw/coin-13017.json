@@ -38,8 +38,11 @@
         "3.852"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13017\",\"call_number_browse\":\"Coin 13017\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -108,
     "pub_date_end_sort": -107,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8497"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "RRC  308-1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-108 to -107"
+    ],
     "hashed_id_s": [
         "8c51b9db20f548dd"
     ],
-    "_version_": 1667138342425198592,
-    "timestamp": "2020-05-19T16:50:19.068Z"
+    "_version_": 1684903080922972160,
+    "timestamp": "2020-12-01T18:53:13.914Z"
 }

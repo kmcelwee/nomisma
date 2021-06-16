@@ -38,8 +38,14 @@
         "8.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10801\",\"call_number_browse\":\"Coin 10801\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 03/17/2006"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6962"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "SNS 3 Mint V= Sakastan Type 1b1/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "dfbcaec880268131"
     ],
-    "_version_": 1667138178407989248,
-    "timestamp": "2020-05-19T16:47:42.648Z"
+    "_version_": 1684902955490213888,
+    "timestamp": "2020-12-01T18:51:14.292Z"
 }

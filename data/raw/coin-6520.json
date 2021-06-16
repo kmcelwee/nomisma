@@ -35,6 +35,9 @@
         "1.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6520\",\"call_number_browse\":\"Coin 6520\"}}",
+    "numismatic_accession_s": [
+        "101: 2005-01-14 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1282,
     "pub_date_end_sort": 1328,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "3941"
     ],
     "issue_metal_s": [
         "Copper"
@@ -93,9 +93,12 @@
         "Sear  2387"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1282 to 1328"
+    ],
     "hashed_id_s": [
         "b5bfd2b6c08e49ca"
     ],
-    "_version_": 1667138367314198528,
-    "timestamp": "2020-05-19T16:50:42.805Z"
+    "_version_": 1684903255341006848,
+    "timestamp": "2020-12-01T18:56:00.252Z"
 }

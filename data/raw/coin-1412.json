@@ -35,6 +35,12 @@
         "10.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1412\",\"call_number_browse\":\"Coin 1412\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "201: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -287,
     "pub_date_end_sort": -278,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "814"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +102,12 @@
         "ANS Part 5, Sicily III 804"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-287 to -278"
+    ],
     "hashed_id_s": [
         "2a74575af6a0ac5c"
     ],
-    "_version_": 1667138463111053312,
-    "timestamp": "2020-05-19T16:52:14.164Z"
+    "_version_": 1684903294568235008,
+    "timestamp": "2020-12-01T18:56:37.661Z"
 }

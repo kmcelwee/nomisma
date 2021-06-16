@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "5 dollars"
     ],
-    "issue_number_s": [
-        "3480"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -74,6 +71,6 @@
     "hashed_id_s": [
         "a7c427249f9d3587"
     ],
-    "_version_": 1667138383633186816,
-    "timestamp": "2020-05-19T16:50:58.366Z"
+    "_version_": 1684903558911098880,
+    "timestamp": "2020-12-01T19:00:49.759Z"
 }

@@ -38,8 +38,11 @@
         "7.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6374\",\"call_number_browse\":\"Coin 6374\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Santa Maria, Rome; Aug. 1959; Lire 16,000 = $25.92"
     ],
     "pub_date_start_sort": -355,
     "pub_date_end_sort": -340,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3806"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  685"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-355 to -340"
+    ],
     "hashed_id_s": [
         "35f87478d8177059"
     ],
-    "_version_": 1667138251387830272,
-    "timestamp": "2020-05-19T16:48:52.246Z"
+    "_version_": 1684903474190352384,
+    "timestamp": "2020-12-01T18:59:28.964Z"
 }

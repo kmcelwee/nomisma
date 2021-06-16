@@ -32,8 +32,11 @@
         "4.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3342\",\"call_number_browse\":\"Coin 3342\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1522,
     "pub_date_end_sort": 1527,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "1979"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +68,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 285 2nd Coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1522 to 1527"
+    ],
     "hashed_id_s": [
         "67f54b58b8fd4b1a"
     ],
-    "_version_": 1667138166463660032,
-    "timestamp": "2020-05-19T16:47:31.259Z"
+    "_version_": 1684902927336996864,
+    "timestamp": "2020-12-01T18:50:47.444Z"
 }

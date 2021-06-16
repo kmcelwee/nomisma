@@ -50,6 +50,9 @@
         "2.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7899\",\"call_number_browse\":\"Coin 7899\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 696,
     "pub_date_end_sort": 700,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4932"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "\u0645\u062d\u0645\u062f \\ \u0631\u0633\u0648\u0644 \\ \u0627\u0644\u0644\u0647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "696 to 700"
+    ],
     "hashed_id_s": [
         "2546e874d68ed07f"
     ],
-    "_version_": 1667138196683620352,
-    "timestamp": "2020-05-19T16:48:00.078Z"
+    "_version_": 1684902969715195904,
+    "timestamp": "2020-12-01T18:51:27.858Z"
 }

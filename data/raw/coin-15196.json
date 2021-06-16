@@ -29,6 +29,9 @@
         "Phillips book, https://catalog.princeton.edu/catalog/664551, inserted between pp. 302 and 303"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15196\",\"call_number_browse\":\"Coin 15196\"}}",
+    "numismatic_collection_s": [
+        "Phillips"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "15 shillings"
-    ],
-    "issue_number_s": [
-        "9353"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,9 +80,12 @@
         "Newman  p256"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "1133a1b4755593f6"
     ],
-    "_version_": 1667144699917369344,
-    "timestamp": "2020-05-19T18:31:22.105Z"
+    "_version_": 1684903349642592256,
+    "timestamp": "2020-12-01T18:57:30.186Z"
 }

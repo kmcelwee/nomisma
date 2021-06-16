@@ -35,8 +35,11 @@
         "3.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13496\",\"call_number_browse\":\"Coin 13496\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -164,
@@ -95,7 +98,7 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m8326.jpg, outer left",
+        "monogram, outer left",
         "bow, in l. hand",
         "torch, in r. hand"
     ],
@@ -103,9 +106,12 @@
         "H & L II, 94 1485.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -164"
+    ],
     "hashed_id_s": [
         "2bf5c00ec3a240ff"
     ],
-    "_version_": 1673003069870178304,
-    "timestamp": "2020-07-23T10:27:39.004Z"
+    "_version_": 1684903668037451776,
+    "timestamp": "2020-12-01T19:02:33.831Z"
 }

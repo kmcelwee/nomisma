@@ -32,19 +32,22 @@
         "5.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1978\",\"call_number_browse\":\"Coin 1978\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1662,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1302"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Shun Zhi \u987a\u6cbb (1638 to 1661)"
@@ -78,9 +81,12 @@
         "Coole 68 120A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1662"
+    ],
     "hashed_id_s": [
         "2ccfd584bbcc5a2c"
     ],
-    "_version_": 1667138212740464640,
-    "timestamp": "2020-05-19T16:48:15.391Z"
+    "_version_": 1684903098276904960,
+    "timestamp": "2020-12-01T18:53:30.465Z"
 }

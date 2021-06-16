@@ -35,8 +35,11 @@
         "20.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9291\",\"call_number_browse\":\"Coin 9291\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 542,
     "pub_date_end_sort": 543,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5915"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,9 +103,12 @@
         "BL Justinian I 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "542 to 543"
+    ],
     "hashed_id_s": [
         "6bc34de26511f990"
     ],
-    "_version_": 1667138154509893632,
-    "timestamp": "2020-05-19T16:47:19.858Z"
+    "_version_": 1684902919139229696,
+    "timestamp": "2020-12-01T18:50:39.624Z"
 }

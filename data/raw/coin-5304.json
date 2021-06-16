@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin: size 19 mm and 3.02 g.  Die axis indeterminate.  Except for S on reverse, everything else obliterated. If not Julio-Claudian, coin is roughly dated to 68 A.D."
+        "Fragment, half coin. Except for S on reverse, everything else obliterated. If not Julio-Claudian, coin is roughly dated to 68 A.D."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,19 +34,31 @@
     "find_date_s": [
         "05/20/1938"
     ],
-    "find_feature_s": [
-        "Trench 7"
-    ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
         "Cb2174"
     ],
     "find_description_s": [
-        "Surface"
+        "Trench 7, surface"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5304\",\"call_number_browse\":\"Coin 5304\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "357: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -55,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1876"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -82,19 +94,22 @@
     "issue_obverse_figure_description_s": [
         "obliterated"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
-    ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "S.C. usually enclosed in plain circle surrounded by laurel wreath"
+        "in plain circle, surrounded by laurel wreath"
+    ],
+    "issue_references_s": [
+        "Waage  870"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "80086733dbbd293a"
     ],
-    "_version_": 1667138480444014592,
-    "timestamp": "2020-05-19T16:52:30.695Z"
+    "_version_": 1684903693233684480,
+    "timestamp": "2020-12-01T19:02:57.859Z"
 }

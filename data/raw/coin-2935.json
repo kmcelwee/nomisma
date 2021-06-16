@@ -35,6 +35,15 @@
         "17.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2935\",\"call_number_browse\":\"Coin 2935\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; bought 2/14/19; $5.50"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -320,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1838"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +104,12 @@
         "Price  108"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -320"
+    ],
     "hashed_id_s": [
         "4074e7504dcdba4c"
     ],
-    "_version_": 1667138479431090176,
-    "timestamp": "2020-05-19T16:52:29.728Z"
+    "_version_": 1684903225866584064,
+    "timestamp": "2020-12-01T18:55:32.142Z"
 }

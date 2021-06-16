@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/25/1933"
+        "1933-04-25"
     ],
     "find_feature_s": [
-        "Bath D/Room 8"
+        "Bath D, room 8, surface over mosaic"
+    ],
+    "find_locus_s": [
+        "DS 10-M (BTHD)"
     ],
     "find_number_s": [
         "2770"
-    ],
-    "find_description_s": [
-        "surface over mosaic"
     ],
     "die_axis_s": [
         "5"
@@ -50,6 +50,9 @@
         "2.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9780\",\"call_number_browse\":\"Coin 9780\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -107,13 +110,16 @@
         "GLOR IA EXERC ITVS | SMANA"
     ],
     "issue_references_s": [
-        "RIC.7 Vol. 7, p693 86",
+        "RIC VII Antioch 86",
         "Waage p118 1404"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "74144a2262946b8a"
     ],
-    "_version_": 1674171910967001088,
-    "timestamp": "2020-08-05T08:05:52.738Z"
+    "_version_": 1684903234748022784,
+    "timestamp": "2020-12-01T18:55:40.612Z"
 }

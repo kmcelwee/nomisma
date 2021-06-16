@@ -2,7 +2,7 @@
     "id": "coin-8124",
     "title_display": "Coin: 8124",
     "pub_created_display": [
-        "Licinius (308 to 324), follis, Alexandria"
+        "Maximinus Daia  (305 to 313), AE2, Alexandria"
     ],
     "call_number_display": [
         "Coin 8124"
@@ -32,7 +32,7 @@
         "04/22/1935"
     ],
     "find_locus_s": [
-        "15-R"
+        "A 15-R"
     ],
     "find_number_s": [
         "C4541"
@@ -47,22 +47,31 @@
         "5.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8124\",\"call_number_browse\":\"Coin 8124\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 313,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "5147"
+        "AE2"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Licinius (308 to 324)"
+        "Maximinus Daia  (305 to 313)"
+    ],
+    "issue_workshop_s": [
+        "\u03c2"
     ],
     "issue_place_s": [
         "Alexandria, Egypt, Roman Empire"
@@ -86,16 +95,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laur."
+        "of Licinius, laureate"
     ],
     "issue_obverse_legend_s": [
-        "IMPCLICLICINNIVSPFAVGG"
+        "IMP C LIC LICINNIVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Genius"
     ],
     "issue_reverse_symbol_s": [
-        "[star], N, [palm] | S, [wreath]"
+        "* on N on palm branch left | A on wreath"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -104,19 +113,26 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "holding head of Serapis and cornucopiae."
+        "wearing modius, nude, chlamys draped over left shoulder"
     ],
     "issue_reverse_legend_s": [
-        "GENIO AVGVSTI | ALE"
+        "GENIO AVGVSTI / ALE"
+    ],
+    "issue_reverse_attributes_s": [
+        "head of Serapis, in r. hand",
+        "cornucopiae, in l. hand"
     ],
     "issue_references_s": [
-        "RIC 6 p. 685 162",
-        "Numismatique Constantinienne III pp. 255-256, II 2"
+        "RIC VI  Alexandria 162a",
+        "Numismatique Constantinienne III p. 255-256, n. II.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 313"
+    ],
     "hashed_id_s": [
         "becc48d211ca552c"
     ],
-    "_version_": 1667138266484178944,
-    "timestamp": "2020-05-19T16:49:06.645Z"
+    "_version_": 1684903489028751360,
+    "timestamp": "2020-12-01T18:59:43.114Z"
 }

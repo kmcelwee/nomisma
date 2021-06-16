@@ -35,8 +35,11 @@
         "16.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 514\",\"call_number_browse\":\"Coin 514\"}}",
-    "donor_s": [
-        "George C. Brauer"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "44: 1994-09-22 George C. Brauer"
     ],
     "pub_date_start_sort": -330,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "229"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "Monogram in l. field"
     ],
     "issue_monogram_1display": "[{\"title\":\"Monogram in l. field\",\"document_id\":\"f2e7727e-e849-4f34-a415-d626b6544427\"}]",
+    "issue_date_s": [
+        "-330 to -320"
+    ],
     "hashed_id_s": [
         "567cc3a9eb355dc9"
     ],
-    "_version_": 1667138451045089280,
-    "timestamp": "2020-05-19T16:52:02.655Z"
+    "_version_": 1684903290422165504,
+    "timestamp": "2020-12-01T18:56:33.709Z"
 }

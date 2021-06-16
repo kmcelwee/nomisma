@@ -31,14 +31,14 @@
     "find_date_s": [
         "04-13-1937"
     ],
+    "find_feature_s": [
+        "Dig III, surface"
+    ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca313"
-    ],
-    "find_description_s": [
-        "surface"
+        "Ca0313"
     ],
     "die_axis_s": [
         "10"
@@ -50,6 +50,12 @@
         "1.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8189\",\"call_number_browse\":\"Coin 8189\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 401,
     "issue_object_type_s": [
@@ -107,13 +113,16 @@
         "VIRTVS EXERCITI"
     ],
     "issue_references_s": [
-        "RIC 10.246 56-76",
+        "RIC X Arcadius 56",
         "LRC 213 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 401"
+    ],
     "hashed_id_s": [
         "739c64a15965dac0"
     ],
-    "_version_": 1673551643217494016,
-    "timestamp": "2020-07-29T11:46:59.317Z"
+    "_version_": 1684903679055888384,
+    "timestamp": "2020-12-01T19:02:44.338Z"
 }

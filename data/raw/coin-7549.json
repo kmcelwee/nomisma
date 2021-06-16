@@ -35,8 +35,11 @@
         "1.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7549\",\"call_number_browse\":\"Coin 7549\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -251,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "4698"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "Catalogue of Greek Coins - Peloponnesus 47 138"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -251"
+    ],
     "hashed_id_s": [
         "caf66b51735c73dc"
     ],
-    "_version_": 1667138185076932608,
-    "timestamp": "2020-05-19T16:47:49.008Z"
+    "_version_": 1684903427113484288,
+    "timestamp": "2020-12-01T18:58:44.066Z"
 }

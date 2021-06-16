@@ -35,6 +35,12 @@
         "4.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10753\",\"call_number_browse\":\"Coin 10753\"}}",
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 08/18/2011"
+    ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6914"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "SNS 2 Style D/3 Type Ia/3d (?)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "37a9e070747fefbf"
     ],
-    "_version_": 1667138343934099456,
-    "timestamp": "2020-05-19T16:50:20.507Z"
+    "_version_": 1684903086855815168,
+    "timestamp": "2020-12-01T18:53:19.571Z"
 }

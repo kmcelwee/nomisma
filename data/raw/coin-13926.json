@@ -35,8 +35,11 @@
         "5.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13926\",\"call_number_browse\":\"Coin 13926\"}}",
-    "donor_s": [
-        "H.A. Seaby"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "856: 1930-01-01 H.A. Seaby"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8959"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,6 +102,6 @@
     "hashed_id_s": [
         "09b42c624b0a3fd3"
     ],
-    "_version_": 1667138329033834496,
-    "timestamp": "2020-05-19T16:50:06.297Z"
+    "_version_": 1684903068910485504,
+    "timestamp": "2020-12-01T18:53:02.458Z"
 }

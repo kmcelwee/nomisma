@@ -35,8 +35,14 @@
         "6.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5640\",\"call_number_browse\":\"Coin 5640\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; 3/1957; $20"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3207"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Vlasto Coll.  1029-01-30 00:00:00 UTC"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "91c924d94b7b419e"
     ],
-    "_version_": 1667138390109192192,
-    "timestamp": "2020-05-19T16:51:04.544Z"
+    "_version_": 1684903161776570368,
+    "timestamp": "2020-12-01T18:54:31.021Z"
 }

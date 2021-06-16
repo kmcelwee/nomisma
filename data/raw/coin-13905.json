@@ -35,6 +35,12 @@
         "0.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13905\",\"call_number_browse\":\"Coin 13905\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "851: 1927-01-01 Bourgey"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8939"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,6 +99,6 @@
     "hashed_id_s": [
         "4edd8495d12f870b"
     ],
-    "_version_": 1667138329537150976,
-    "timestamp": "2020-05-19T16:50:06.777Z"
+    "_version_": 1684903069297410048,
+    "timestamp": "2020-12-01T18:53:02.827Z"
 }

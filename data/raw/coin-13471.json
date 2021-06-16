@@ -35,8 +35,11 @@
         "6.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13471\",\"call_number_browse\":\"Coin 13471\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -164,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8688"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,17 +92,20 @@
         "front"
     ],
     "issue_reverse_attributes_s": [
-        "m8688.1, outer left",
-        "m8688.2, outer left",
+        "monogram, outer left, above",
+        "\u0394\u0399, outer left, below",
         "wreath, in r. hand"
     ],
     "issue_references_s": [
         "H & L II, 61 1392"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -164"
+    ],
     "hashed_id_s": [
         "1acf96b74c44e487"
     ],
-    "_version_": 1667138513839063040,
-    "timestamp": "2020-05-19T16:53:02.541Z"
+    "_version_": 1684903317636907008,
+    "timestamp": "2020-12-01T18:56:59.662Z"
 }

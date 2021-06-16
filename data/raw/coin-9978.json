@@ -105,9 +105,12 @@
         "Schl.  IV7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1145 to 1174"
+    ],
     "hashed_id_s": [
         "d0498dc410837a7c"
     ],
-    "_version_": 1674259410959990784,
-    "timestamp": "2020-08-06T07:16:39.234Z"
+    "_version_": 1684903323045462016,
+    "timestamp": "2020-12-01T18:57:04.820Z"
 }

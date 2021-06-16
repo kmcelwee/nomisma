@@ -41,6 +41,12 @@
         "278.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5151\",\"call_number_browse\":\"Coin 5151\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2835"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +93,12 @@
         "Sear  570"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "9c390e1f55f48001"
     ],
-    "_version_": 1667138511098085376,
-    "timestamp": "2020-05-19T16:52:59.925Z"
+    "_version_": 1684903309458014208,
+    "timestamp": "2020-12-01T18:56:51.862Z"
 }

@@ -53,6 +53,9 @@
         "2.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8280\",\"call_number_browse\":\"Coin 8280\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 690,
     "pub_date_end_sort": 702,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5282"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +114,12 @@
         "BMC p. 264 884"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "690 to 702"
+    ],
     "hashed_id_s": [
         "866bc8d4e0dff8d2"
     ],
-    "_version_": 1667138347475140608,
-    "timestamp": "2020-05-19T16:50:23.885Z"
+    "_version_": 1684903532697747456,
+    "timestamp": "2020-12-01T19:00:24.759Z"
 }

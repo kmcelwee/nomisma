@@ -35,8 +35,11 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2088\",\"call_number_browse\":\"Coin 2088\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "126:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1371"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,13 +74,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head r. in winged Corinthian helmet; legend below; X behind."
+        "wearing winged Corinthian helmet; below, ROMA; behind, X."
     ],
     "issue_obverse_legend_s": [
-        "ROMA"
+        "ROMA X"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Roma"
@@ -92,10 +92,10 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Roma r., sitting on  pile of shields and helmet; she-wolf before, suckling twins. Bird flying on either side of Roma."
+        "wearing Corinthian helmet, seated on pile of shields; at feet, beside pile of shields, helmet; before, she-wolf r., suckling twins; on either side, bird flying."
     ],
     "issue_reverse_attributes_s": [
-        "border, Dots"
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  287/1",
@@ -103,9 +103,12 @@
         "Sear  164"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "284edac5a586e263"
     ],
-    "_version_": 1667138217611100160,
-    "timestamp": "2020-05-19T16:48:20.037Z"
+    "_version_": 1684903450828079104,
+    "timestamp": "2020-12-01T18:59:06.682Z"
 }

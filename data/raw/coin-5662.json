@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Dollar"
     ],
-    "issue_number_s": [
-        "3226"
-    ],
     "issue_metal_s": [
         "Tin"
     ],
@@ -83,9 +80,13 @@
         "Breen Pages 110-111 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Franklin, Benjamin",
+        "Other Person, Rittenhouse, David"
+    ],
     "hashed_id_s": [
         "933c258f275cda86"
     ],
-    "_version_": 1667138381375602688,
-    "timestamp": "2020-05-19T16:50:56.215Z"
+    "_version_": 1684903123244548096,
+    "timestamp": "2020-12-01T18:53:54.274Z"
 }

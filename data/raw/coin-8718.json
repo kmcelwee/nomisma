@@ -35,8 +35,11 @@
         "26.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8718\",\"call_number_browse\":\"Coin 8718\"}}",
-    "donor_s": [
-        "Harcourt E. Waller"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "640: 1929-05-01 Harcourt E. Waller"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Dollar"
-    ],
-    "issue_number_s": [
-        "5553"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,6 +98,6 @@
     "hashed_id_s": [
         "2309e1a883ed6285"
     ],
-    "_version_": 1667145036013240320,
-    "timestamp": "2020-05-19T18:36:42.572Z"
+    "_version_": 1684903491755048960,
+    "timestamp": "2020-12-01T18:59:45.713Z"
 }

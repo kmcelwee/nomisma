@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "18 pence"
     ],
-    "issue_number_s": [
-        "2181"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,9 +75,12 @@
         "Shafer & Cuhaj p. 1147 S2540A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "3c9b4b5009788249"
     ],
-    "_version_": 1667138437645336576,
-    "timestamp": "2020-05-19T16:51:49.876Z"
+    "_version_": 1684903580863037440,
+    "timestamp": "2020-12-01T19:01:10.693Z"
 }

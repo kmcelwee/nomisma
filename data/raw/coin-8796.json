@@ -35,8 +35,11 @@
         "9.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8796\",\"call_number_browse\":\"Coin 8796\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1466,
     "pub_date_end_sort": 1476,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "teston"
-    ],
-    "issue_number_s": [
-        "5516"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "CNI V, p.170 64"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1466 to 1476"
+    ],
     "hashed_id_s": [
         "36b3097df1d62446"
     ],
-    "_version_": 1667138185169207296,
-    "timestamp": "2020-05-19T16:47:49.097Z"
+    "_version_": 1684903417841975296,
+    "timestamp": "2020-12-01T18:58:35.226Z"
 }

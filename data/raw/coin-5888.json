@@ -35,8 +35,11 @@
         "4.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5888\",\"call_number_browse\":\"Coin 5888\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 960,
     "pub_date_end_sort": 976,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3410"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -66,9 +66,12 @@
         "Hartill 128 16.2i"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "960 to 976"
+    ],
     "hashed_id_s": [
         "2ad5ba4ecc5187bf"
     ],
-    "_version_": 1667138385440931840,
-    "timestamp": "2020-05-19T16:51:00.090Z"
+    "_version_": 1684903125029224448,
+    "timestamp": "2020-12-01T18:53:55.977Z"
 }

@@ -38,6 +38,12 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13689\",\"call_number_browse\":\"Coin 13689\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "828: 1990-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -152,
     "pub_date_end_sort": -151,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8754"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,15 +98,18 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a5 \u03a3\u03a9\u03a4\u0397\u03a1\u039f\u03a3"
     ],
     "issue_reverse_attributes_s": [
-        "m13689, beneath cornucopiae"
+        "monogram, beneath cornucopiae, beside \u0399\u03a1"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.175 1655"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-152 to -151"
+    ],
     "hashed_id_s": [
         "0aef4e4c6b00837b"
     ],
-    "_version_": 1667138517690482688,
-    "timestamp": "2020-05-19T16:53:06.214Z"
+    "_version_": 1684903327269126144,
+    "timestamp": "2020-12-01T18:57:08.848Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-7786",
     "title_display": "Coin: 7786",
     "pub_created_display": [
-        "Constantine II, follis, Heraclea"
+        "Constantine II   (337 to 340), follis, Heraclea"
     ],
     "call_number_display": [
         "Coin 7786"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/6/1932"
+        "1932-05-06"
     ],
     "find_feature_s": [
-        "Peristyle"
+        "House A, S., surface"
     ],
     "find_locus_s": [
-        "N-10"
+        "DS 10-N (HSEA)"
     ],
     "find_number_s": [
         "1778"
-    ],
-    "find_description_s": [
-        " Surface S, House A"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +50,12 @@
         "2.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7786\",\"call_number_browse\":\"Coin 7786\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -61,14 +64,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4849"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Heraclea, Thrace, Roman Empire"
@@ -114,9 +114,12 @@
         "Cohen 7 384.163"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "b10b64397b2542c7"
     ],
-    "_version_": 1667138262324477952,
-    "timestamp": "2020-05-19T16:49:02.678Z"
+    "_version_": 1694983520878854144,
+    "timestamp": "2021-03-23T01:17:30.597Z"
 }

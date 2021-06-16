@@ -38,8 +38,11 @@
         "8.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12114\",\"call_number_browse\":\"Coin 12114\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": -405,
     "pub_date_end_sort": -345,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "8171"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Ravel 2 1039"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-405 to -345"
+    ],
     "hashed_id_s": [
         "9206814b0d9558b8"
     ],
-    "_version_": 1667138300590161920,
-    "timestamp": "2020-05-19T16:49:39.170Z"
+    "_version_": 1684903041591934976,
+    "timestamp": "2020-12-01T18:52:36.404Z"
 }

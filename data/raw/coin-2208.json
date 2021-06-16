@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "08/13/1937"
@@ -50,6 +50,12 @@
         "5.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2208\",\"call_number_browse\":\"Coin 2208\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -286,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1435"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -123,9 +126,16 @@
         "Sear  6849v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Athena",
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-300 to -286"
+    ],
     "hashed_id_s": [
         "8fde7e8dbe0da703"
     ],
-    "_version_": 1670207819833409536,
-    "timestamp": "2020-06-22T13:58:20.868Z"
+    "_version_": 1684903247001681920,
+    "timestamp": "2020-12-01T18:55:52.298Z"
 }

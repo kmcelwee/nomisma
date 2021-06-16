@@ -35,8 +35,11 @@
         "3.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11768\",\"call_number_browse\":\"Coin 11768\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7864"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "SN  GD Type II/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "044682ebc1886b35"
     ],
-    "_version_": 1667138125946683392,
-    "timestamp": "2020-05-19T16:46:52.619Z"
+    "_version_": 1684903650259894272,
+    "timestamp": "2020-12-01T19:02:16.876Z"
 }

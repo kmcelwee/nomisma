@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Due to scratches on obverse, legend is illegible. On reverse, coin was struck off center so that ET HP is at the very bottom edge of the coin.  Waage identifies goddess as Tyche.  On envelope, \"=108; ca. 68 A.D., era of Caesar, 49 B.C.\""
+        "Due to scratches on obverse, legend is illegible. On reverse, coin was struck off center so that ET HP is at the very bottom edge of the coin. Waage identifies goddess as Tyche. On envelope, \"=108; ca. 68 A.D., era of Caesar, 49 B.C.\""
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -35,7 +35,7 @@
         "05/04/1932"
     ],
     "find_locus_s": [
-        "H-25-SE"
+        "A 25-H (SE.)"
     ],
     "find_number_s": [
         "1312"
@@ -50,6 +50,12 @@
         "4.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3011\",\"call_number_browse\":\"Coin 3011\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 59,
     "pub_date_end_sort": 60,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1813"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -80,7 +89,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Goddess"
+        "Tyche"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -89,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of the city goddess"
+        "veiled, turreted, draped"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -101,10 +110,7 @@
         "face foreward"
     ],
     "issue_reverse_figure_description_s": [
-        "alter is lighted and garlanded"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "ET .  HP is in exergue"
+        "lighted and garlanded"
     ],
     "issue_reverse_legend_s": [
         "ET . HP"
@@ -114,9 +120,12 @@
         "RPC.1  4292v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "59 to 60"
+    ],
     "hashed_id_s": [
         "fd6e921e3891e3dc"
     ],
-    "_version_": 1667138478863810560,
-    "timestamp": "2020-05-19T16:52:29.185Z"
+    "_version_": 1684903693139312640,
+    "timestamp": "2020-12-01T19:02:57.769Z"
 }

@@ -50,6 +50,9 @@
         "5.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10399\",\"call_number_browse\":\"Coin 10399\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 218,
     "pub_date_end_sort": 222,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "small"
-    ],
-    "issue_number_s": [
-        "6600"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "Waage  426"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "73234d093fe8c721"
     ],
-    "_version_": 1667138188659916800,
-    "timestamp": "2020-05-19T16:47:52.426Z"
+    "_version_": 1684903429613289472,
+    "timestamp": "2020-12-01T18:58:46.452Z"
 }

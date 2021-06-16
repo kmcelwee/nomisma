@@ -38,6 +38,12 @@
         "4.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9726\",\"call_number_browse\":\"Coin 9726\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 538,
     "pub_date_end_sort": 565,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "6152"
     ],
     "issue_metal_s": [
         "Gold"
@@ -104,9 +107,12 @@
         "BMC.Byz. Justinian I pg 27, n. 12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "538 to 565"
+    ],
     "hashed_id_s": [
         "fb064f40a6eff1f3"
     ],
-    "_version_": 1667138276877664256,
-    "timestamp": "2020-05-19T16:49:16.556Z"
+    "_version_": 1684903495185989632,
+    "timestamp": "2020-12-01T18:59:48.986Z"
 }

@@ -34,14 +34,14 @@
     "find_date_s": [
         "05-14-1937"
     ],
+    "find_feature_s": [
+        "Dig III, under level II, 4-5m (basket A)"
+    ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
         "Ca1291"
-    ],
-    "find_description_s": [
-        "Dig III 4-5 M Basket A"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +53,12 @@
         "3.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8166\",\"call_number_browse\":\"Coin 8166\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 401,
     "issue_object_type_s": [
@@ -110,13 +116,16 @@
         "VIRTVS EXERCITI"
     ],
     "issue_references_s": [
-        "RIC 10.246 56-76",
+        "RIC X Arcadius 56",
         "LRC 213 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 401"
+    ],
     "hashed_id_s": [
         "52af682dbff8679d"
     ],
-    "_version_": 1673551580036595712,
-    "timestamp": "2020-07-29T11:45:59.060Z"
+    "_version_": 1684903679164940288,
+    "timestamp": "2020-12-01T19:02:44.443Z"
 }

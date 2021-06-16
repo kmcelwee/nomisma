@@ -2,7 +2,7 @@
     "id": "coin-7490",
     "title_display": "Coin: 7490",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7490"
@@ -50,6 +50,9 @@
         "1.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7490\",\"call_number_browse\":\"Coin 7490\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -62,7 +65,7 @@
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -107,13 +110,16 @@
         "Emperor, veiled, to right in quadriga; hand reaches down to him, star overhead"
     ],
     "issue_references_s": [
-        "RIC 8 514.37",
+        "RIC VIII Antioch 37",
         "Cohen 7 318.760"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "dc92872ebe3ba57b"
     ],
-    "_version_": 1673553711910092800,
-    "timestamp": "2020-07-29T12:19:52.178Z"
+    "_version_": 1684903680809107456,
+    "timestamp": "2020-12-01T19:02:46.011Z"
 }

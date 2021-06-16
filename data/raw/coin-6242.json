@@ -32,6 +32,12 @@
         "72x93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6242\",\"call_number_browse\":\"Coin 6242\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "8 dollars"
-    ],
-    "issue_number_s": [
-        "3688"
     ],
     "issue_metal_s": [
         "Paper"
@@ -74,6 +77,6 @@
     "hashed_id_s": [
         "0f7069bf94544d89"
     ],
-    "_version_": 1667138378583244800,
-    "timestamp": "2020-05-19T16:50:53.550Z"
+    "_version_": 1684903260265119744,
+    "timestamp": "2020-12-01T18:56:04.948Z"
 }

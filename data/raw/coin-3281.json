@@ -32,8 +32,11 @@
         "97x58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3281\",\"call_number_browse\":\"Coin 3281\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "368: 1958-07-01 Anonymous Class of '64"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "6 pounds"
-    ],
-    "issue_number_s": [
-        "1990"
     ],
     "issue_metal_s": [
         "Paper"
@@ -87,9 +87,13 @@
         "Shafer & Cuhaj p. 1131 S1789"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "2c1929f7baa0443c"
     ],
-    "_version_": 1667138226491490304,
-    "timestamp": "2020-05-19T16:48:28.504Z"
+    "_version_": 1684903455189106688,
+    "timestamp": "2020-12-01T18:59:10.843Z"
 }

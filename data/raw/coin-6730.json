@@ -35,6 +35,12 @@
         "6.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6730\",\"call_number_browse\":\"Coin 6730\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tank"
-    ],
-    "issue_number_s": [
-        "4139"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,9 +102,12 @@
         "Nercessian  354v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "716e07f23d77af4c"
     ],
-    "_version_": 1667138363329609728,
-    "timestamp": "2020-05-19T16:50:39.002Z"
+    "_version_": 1684903095913414656,
+    "timestamp": "2020-12-01T18:53:28.210Z"
 }

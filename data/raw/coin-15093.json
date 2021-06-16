@@ -29,16 +29,16 @@
         "38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15093\",\"call_number_browse\":\"Coin 15093\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1937,
     "pub_date_end_sort": 1959,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9258"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -60,9 +60,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  325"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1937 to 1959"
+    ],
     "hashed_id_s": [
         "1812d6fe30a2f48a"
     ],
-    "_version_": 1667144977097949184,
-    "timestamp": "2020-05-19T18:35:46.383Z"
+    "_version_": 1684903371889180672,
+    "timestamp": "2020-12-01T18:57:51.401Z"
 }

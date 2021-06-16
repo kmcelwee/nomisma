@@ -50,11 +50,14 @@
         "2.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10307\",\"call_number_browse\":\"Coin 10307\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1386,
     "pub_date_end_sort": 1387,
-    "issue_number_s": [
-        "6543"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +89,12 @@
         "Balog Mamluk  546"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1386 to 1387"
+    ],
     "hashed_id_s": [
         "4b43dbb90f873199"
     ],
-    "_version_": 1667138176058130432,
-    "timestamp": "2020-05-19T16:47:40.407Z"
+    "_version_": 1684903066970619904,
+    "timestamp": "2020-12-01T18:53:00.607Z"
 }

@@ -38,6 +38,12 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12485\",\"call_number_browse\":\"Coin 12485\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -70,
     "pub_date_end_sort": -57,
     "issue_object_type_s": [
@@ -95,9 +101,12 @@
         "Sellwood  39.7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-70 to -57"
+    ],
     "hashed_id_s": [
         "d9ac5d6cb22e1122"
     ],
-    "_version_": 1672999368818425856,
-    "timestamp": "2020-07-23T09:28:49.411Z"
+    "_version_": 1684903667264651264,
+    "timestamp": "2020-12-01T19:02:33.095Z"
 }

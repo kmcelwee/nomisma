@@ -35,8 +35,11 @@
         "4.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3420\",\"call_number_browse\":\"Coin 3420\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1661,
     "pub_date_end_sort": 1683,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "2031"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +76,12 @@
         "Zhong Guo 310 1st row, center"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1661 to 1683"
+    ],
     "hashed_id_s": [
         "63e8e6bb21ea0daf"
     ],
-    "_version_": 1667138227881902080,
-    "timestamp": "2020-05-19T16:48:29.830Z"
+    "_version_": 1684902984621752320,
+    "timestamp": "2020-12-01T18:51:42.073Z"
 }

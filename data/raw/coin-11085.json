@@ -35,8 +35,14 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11085\",\"call_number_browse\":\"Coin 11085\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pegasi Numismatics, Ann Arbor, MI; 10/11/2000; IV (260)"
     ],
     "pub_date_start_sort": 488,
     "pub_date_end_sort": 496,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7246"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS  AY Type Ia1/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "488 to 496"
+    ],
     "hashed_id_s": [
         "15a516c86c993883"
     ],
-    "_version_": 1667138168557666304,
-    "timestamp": "2020-05-19T16:47:33.254Z"
+    "_version_": 1684902943098142720,
+    "timestamp": "2020-12-01T18:51:02.475Z"
 }

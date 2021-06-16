@@ -35,6 +35,15 @@
         "4.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4575\",\"call_number_browse\":\"Coin 4575\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1927; $6.10"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2523"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +103,12 @@
         "Sear  497"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "338f118fed149603"
     ],
-    "_version_": 1667138238272241664,
-    "timestamp": "2020-05-19T16:48:39.742Z"
+    "_version_": 1684903001617072128,
+    "timestamp": "2020-12-01T18:51:58.281Z"
 }

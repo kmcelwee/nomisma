@@ -41,6 +41,9 @@
         "16-0; found at surface to 1M."
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11885\",\"call_number_browse\":\"Coin 11885\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1065,
     "pub_date_end_sort": 1070,
     "issue_object_type_s": [
@@ -116,9 +119,12 @@
         "BL 3.2 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1065 to 1070"
+    ],
     "hashed_id_s": [
         "5a91a4259a192a79"
     ],
-    "_version_": 1673453884068069376,
-    "timestamp": "2020-07-28T09:53:08.926Z"
+    "_version_": 1684903149458948096,
+    "timestamp": "2020-12-01T18:54:19.275Z"
 }

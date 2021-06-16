@@ -35,8 +35,14 @@
         "6.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5642\",\"call_number_browse\":\"Coin 5642\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; 7/12/1961; #A532 of No. 3 C. Vol II 1961; $45"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3209"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Vlasto Coll.  1032-4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "ea2ef798b89aa6a3"
     ],
-    "_version_": 1667138389884796928,
-    "timestamp": "2020-05-19T16:51:04.329Z"
+    "_version_": 1684903265707229184,
+    "timestamp": "2020-12-01T18:56:10.137Z"
 }

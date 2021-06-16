@@ -35,8 +35,11 @@
         "10.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11248\",\"call_number_browse\":\"Coin 11248\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "718: 2017-01-12 Peter Donald"
     ],
     "pub_date_start_sort": 1030,
     "pub_date_end_sort": 1042,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7413"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,9 +99,12 @@
         "cross, IS|XS/bAS|ILE/bAS|ILE"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1030 to 1042"
+    ],
     "hashed_id_s": [
         "0da044093bb41ff6"
     ],
-    "_version_": 1667144699862843392,
-    "timestamp": "2020-05-19T18:31:21.996Z"
+    "_version_": 1684903347980599296,
+    "timestamp": "2020-12-01T18:57:28.601Z"
 }

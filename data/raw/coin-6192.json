@@ -29,6 +29,9 @@
         "155x103"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6192\",\"call_number_browse\":\"Coin 6192\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "5 Shillings"
-    ],
-    "issue_number_s": [
-        "3638"
     ],
     "issue_metal_s": [
         "Paper"
@@ -68,6 +68,6 @@
     "hashed_id_s": [
         "18612977ca6f5e5e"
     ],
-    "_version_": 1667138374872334336,
-    "timestamp": "2020-05-19T16:50:50.013Z"
+    "_version_": 1684903113072312320,
+    "timestamp": "2020-12-01T18:53:44.572Z"
 }

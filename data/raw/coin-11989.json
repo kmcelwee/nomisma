@@ -35,6 +35,12 @@
         "3.936"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11989\",\"call_number_browse\":\"Coin 11989\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -110,
     "pub_date_end_sort": -109,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8130"
     ],
     "issue_master_s": [
         "C. Claudius Pulcher"
@@ -83,9 +86,12 @@
         "RRC Page 313 300-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-110 to -109"
+    ],
     "hashed_id_s": [
         "80003f953c919c69"
     ],
-    "_version_": 1667138300199043072,
-    "timestamp": "2020-05-19T16:49:38.799Z"
+    "_version_": 1684903150594555904,
+    "timestamp": "2020-12-01T18:54:20.356Z"
 }

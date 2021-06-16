@@ -35,8 +35,11 @@
         "6.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13687\",\"call_number_browse\":\"Coin 13687\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -154,
     "pub_date_end_sort": -153,
@@ -95,9 +98,12 @@
         "H & L II, 179 1672.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-154 to -153"
+    ],
     "hashed_id_s": [
         "035564f8c9afcf1a"
     ],
-    "_version_": 1673108456689631232,
-    "timestamp": "2020-07-24T14:22:43.706Z"
+    "_version_": 1684903670094757888,
+    "timestamp": "2020-12-01T19:02:35.791Z"
 }

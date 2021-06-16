@@ -38,8 +38,11 @@
         "3.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4767\",\"call_number_browse\":\"Coin 4767\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": -32,
     "pub_date_end_sort": -31,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2595"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Sear  1480"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-32 to -31"
+    ],
     "hashed_id_s": [
         "b23a582d7d6b0d6d"
     ],
-    "_version_": 1667138503065993216,
-    "timestamp": "2020-05-19T16:52:52.266Z"
+    "_version_": 1684903636249870336,
+    "timestamp": "2020-12-01T19:02:03.515Z"
 }

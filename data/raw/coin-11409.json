@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "10/11/1938"
+        "1938-10-10"
+    ],
+    "find_feature_s": [
+        "Dump"
     ],
     "find_locus_s": [
-        "A 13-R"
+        "A 13-R (N.)"
     ],
     "find_number_s": [
         "Cc0081"
@@ -47,6 +50,12 @@
         "3.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11409\",\"call_number_browse\":\"Coin 11409\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 317,
     "pub_date_end_sort": 320,
     "issue_object_type_s": [
@@ -80,13 +89,10 @@
         "bust"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
-    ],
-    "issue_obverse_figure_description_s": [
-        "J1"
+        "facing left"
     ],
     "issue_obverse_legend_s": [
-        "IMP [CON]STAN TINVS [AV]G"
+        "IMP[CON]STAN-TINVS[AV]G"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -104,16 +110,19 @@
         "Jupiter standing l., chlamys across l. shoulder, leaning on sceptre, holding Victory on globe"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CON[S] ERVATORI AVGG | ANT"
+        "IOVICON[S]-ERVATORIAVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC.7  7 680 24",
+        "RIC VII Antioch 26",
         "Waage 118 1399"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "2a94fcbbc84e2765"
     ],
-    "_version_": 1672453661529210880,
-    "timestamp": "2020-07-17T08:55:02.378Z"
+    "_version_": 1684903688537112576,
+    "timestamp": "2020-12-01T19:02:53.380Z"
 }

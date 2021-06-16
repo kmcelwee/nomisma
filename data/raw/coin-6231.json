@@ -35,8 +35,11 @@
         "0.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6231\",\"call_number_browse\":\"Coin 6231\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1238,
     "pub_date_end_sort": 1276,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "menut"
-    ],
-    "issue_number_s": [
-        "3677"
     ],
     "issue_metal_s": [
         "Billon"
@@ -89,9 +89,12 @@
         "Cast\u00e1n y Cay\u00f3n  1901"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1238 to 1276"
+    ],
     "hashed_id_s": [
         "e7c0ae5083ee312b"
     ],
-    "_version_": 1667138378697539584,
-    "timestamp": "2020-05-19T16:50:53.659Z"
+    "_version_": 1684903260339568640,
+    "timestamp": "2020-12-01T18:56:05.018Z"
 }

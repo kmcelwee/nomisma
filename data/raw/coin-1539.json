@@ -2,7 +2,7 @@
     "id": "coin-1539",
     "title_display": "Coin: 1539",
     "pub_created_display": [
-        "Tiberius, as, Calliguris"
+        "Tiberius   (14 to 37), as, Calliguris"
     ],
     "call_number_display": [
         "Coin 1539"
@@ -35,8 +35,11 @@
         "13.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1539\",\"call_number_browse\":\"Coin 1539\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "933"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Calliguris, Spain, Roman Empire"
@@ -99,9 +99,13 @@
         "B. & D.  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Fulvius Sparsus, L.",
+        "Other Person, Saturninus, L."
+    ],
     "hashed_id_s": [
         "96e9bc124bdb9936"
     ],
-    "_version_": 1667145481412673536,
-    "timestamp": "2020-05-19T19:01:12.964Z"
+    "_version_": 1684902904138301440,
+    "timestamp": "2020-12-01T18:50:25.319Z"
 }

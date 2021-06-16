@@ -35,6 +35,9 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7812\",\"call_number_browse\":\"Coin 7812\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1122,
     "pub_date_end_sort": 1137,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "4875"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +100,12 @@
         "Sear  1953"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1122 to 1137"
+    ],
     "hashed_id_s": [
         "219b069a515fa868"
     ],
-    "_version_": 1667138186354098176,
-    "timestamp": "2020-05-19T16:47:50.230Z"
+    "_version_": 1684902937447366656,
+    "timestamp": "2020-12-01T18:50:57.085Z"
 }

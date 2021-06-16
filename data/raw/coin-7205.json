@@ -29,8 +29,11 @@
         "72x92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7205\",\"call_number_browse\":\"Coin 7205\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "30 dollars"
-    ],
-    "issue_number_s": [
-        "4514"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "27ed814f4a9f25cb"
     ],
-    "_version_": 1667145060246880256,
-    "timestamp": "2020-05-19T18:37:05.697Z"
+    "_version_": 1684903478163406848,
+    "timestamp": "2020-12-01T18:59:32.752Z"
 }

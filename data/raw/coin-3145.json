@@ -32,22 +32,22 @@
         "4.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3145\",\"call_number_browse\":\"Coin 3145\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1723,
     "pub_date_end_sort": 1736,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1924"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Yong Zheng \u96cd\u6b63 (1723 to 1736)"
@@ -83,9 +83,12 @@
         "Zhong Guo 331 3rd row, center"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1723 to 1736"
+    ],
     "hashed_id_s": [
         "25078e2d91ba0319"
     ],
-    "_version_": 1667138225621172224,
-    "timestamp": "2020-05-19T16:48:27.674Z"
+    "_version_": 1684903455038111744,
+    "timestamp": "2020-12-01T18:59:10.698Z"
 }

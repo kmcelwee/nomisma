@@ -35,8 +35,11 @@
         "4.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2317\",\"call_number_browse\":\"Coin 2317\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -261,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1492"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +105,16 @@
         "Houghton  626"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Athena",
+        "Category, victory"
+    ],
+    "issue_date_s": [
+        "-280 to -261"
+    ],
     "hashed_id_s": [
         "aba7eb901ebbe917"
     ],
-    "_version_": 1667138114916712448,
-    "timestamp": "2020-05-19T16:46:42.097Z"
+    "_version_": 1684902940240773120,
+    "timestamp": "2020-12-01T18:50:59.747Z"
 }

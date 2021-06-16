@@ -35,8 +35,11 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 959\",\"call_number_browse\":\"Coin 959\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -311,
     "pub_date_end_sort": -300,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "419"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "Price  3354"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-311 to -300"
+    ],
     "hashed_id_s": [
         "8cb269106328c3c1"
     ],
-    "_version_": 1667138407826980864,
-    "timestamp": "2020-05-19T16:51:21.438Z"
+    "_version_": 1684903181136429056,
+    "timestamp": "2020-12-01T18:54:49.483Z"
 }

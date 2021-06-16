@@ -35,8 +35,11 @@
         "4.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9377\",\"call_number_browse\":\"Coin 9377\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": 1167,
     "pub_date_end_sort": 1183,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "5997"
     ],
     "issue_metal_s": [
         "Gold"
@@ -103,9 +103,12 @@
         "BL Vol. 2; Manuel I 61/Cp/AU/11-13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1167 to 1183"
+    ],
     "hashed_id_s": [
         "cc410edecba8045c"
     ],
-    "_version_": 1667138145428176896,
-    "timestamp": "2020-05-19T16:47:11.197Z"
+    "_version_": 1684903398222069760,
+    "timestamp": "2020-12-01T18:58:16.514Z"
 }

@@ -96,9 +96,12 @@
         "Price  1539v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -301"
+    ],
     "hashed_id_s": [
         "bf612780c89f75bc"
     ],
-    "_version_": 1674078729816506368,
-    "timestamp": "2020-08-04T07:24:48.268Z"
+    "_version_": 1684903173526913024,
+    "timestamp": "2020-12-01T18:54:42.226Z"
 }

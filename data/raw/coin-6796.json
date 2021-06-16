@@ -35,8 +35,11 @@
         "2.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6796\",\"call_number_browse\":\"Coin 6796\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1198,
     "pub_date_end_sort": 1219,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4205"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +105,12 @@
         "Bedoukian  465"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1198 to 1219"
+    ],
     "hashed_id_s": [
         "1cd1f17288541cc5"
     ],
-    "_version_": 1667138365171957760,
-    "timestamp": "2020-05-19T16:50:40.760Z"
+    "_version_": 1684903097110888448,
+    "timestamp": "2020-12-01T18:53:29.351Z"
 }

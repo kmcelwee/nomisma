@@ -41,6 +41,12 @@
         "4.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11510\",\"call_number_browse\":\"Coin 11510\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7660"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 1b1/1a (SNS 3), Var. 5; Modern forgery"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "0b14eeb3533727d7"
     ],
-    "_version_": 1667138294174973952,
-    "timestamp": "2020-05-19T16:49:33.053Z"
+    "_version_": 1684903504683991040,
+    "timestamp": "2020-12-01T18:59:58.043Z"
 }

@@ -35,8 +35,11 @@
         "3.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7640\",\"call_number_browse\":\"Coin 7640\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -226,
     "pub_date_end_sort": -223,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4777"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "WSM  1042"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "e18e041531de1014"
     ],
-    "_version_": 1667138123631427584,
-    "timestamp": "2020-05-19T16:46:50.411Z"
+    "_version_": 1684902969271648256,
+    "timestamp": "2020-12-01T18:51:27.435Z"
 }

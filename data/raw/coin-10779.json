@@ -35,8 +35,11 @@
         "4.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10779\",\"call_number_browse\":\"Coin 10779\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6940"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +86,12 @@
         "SNS 3 Mint II (\"West\") Type Ib1/2a1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "2ab6325d78d8fb91"
     ],
-    "_version_": 1667138285920583680,
-    "timestamp": "2020-05-19T16:49:25.181Z"
+    "_version_": 1684903028944011264,
+    "timestamp": "2020-12-01T18:52:24.344Z"
 }

@@ -47,6 +47,12 @@
         "14.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4498\",\"call_number_browse\":\"Coin 4498\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2288"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,6 +117,6 @@
     "hashed_id_s": [
         "f2269472cb9fd15c"
     ],
-    "_version_": 1667138487300653056,
-    "timestamp": "2020-05-19T16:52:37.231Z"
+    "_version_": 1684903622074171392,
+    "timestamp": "2020-12-01T19:01:49.997Z"
 }

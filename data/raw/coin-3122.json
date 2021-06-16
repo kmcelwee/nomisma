@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Only half of coin found.  No traces impression on either side.  Julio-Claudian attribution is based on excavation notes.   This half has a divot taken out of one corner.  Its weight is 2.93.  The diameter of extant half is 21 mm."
+        "Only half of coin found. No traces of inscription on either side. Julio-Claudian attribution is based on excavation notes.  This half has a divot taken out of one corner."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,16 +34,31 @@
     "find_date_s": [
         "04/06/1938"
     ],
-    "find_feature_s": [
-        "West room 8 to 9M \u00a9"
-    ],
     "find_locus_s": [
-        "17-P"
+        "A 17-P"
     ],
     "find_number_s": [
         "Cb3116"
     ],
+    "find_description_s": [
+        "W. room 8, to 9m (C)"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "2.93"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3122\",\"call_number_browse\":\"Coin 3122\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -52,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1911"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -80,18 +95,21 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head right, of a generic Julio Claudian type"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
+        "obscure, of a generic Julio Claudian type"
     ],
     "issue_reverse_figure_description_s": [
         "none (see notes)"
     ],
+    "issue_references_s": [
+        "Waage  869v"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "27 to 68"
+    ],
     "hashed_id_s": [
         "0ec79e24e1ee244f"
     ],
-    "_version_": 1667138480648486912,
-    "timestamp": "2020-05-19T16:52:30.890Z"
+    "_version_": 1684903693342736384,
+    "timestamp": "2020-12-01T19:02:57.963Z"
 }

@@ -50,6 +50,12 @@
         "10.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3890\",\"call_number_browse\":\"Coin 3890\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2085"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +116,12 @@
         "Augustus  704"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "5d9f7a510485609d"
     ],
-    "_version_": 1667138163532890112,
-    "timestamp": "2020-05-19T16:47:28.462Z"
+    "_version_": 1684903421297033216,
+    "timestamp": "2020-12-01T18:58:38.521Z"
 }

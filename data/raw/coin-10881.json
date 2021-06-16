@@ -38,8 +38,14 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10881\",\"call_number_browse\":\"Coin 10881\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 03/19/2005"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7042"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3  Mint VII (ART) Type Ib1/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "b3f61dcd17b7b636"
     ],
-    "_version_": 1667138287251226624,
-    "timestamp": "2020-05-19T16:49:26.451Z"
+    "_version_": 1684903030958325760,
+    "timestamp": "2020-12-01T18:52:26.263Z"
 }

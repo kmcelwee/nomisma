@@ -35,22 +35,25 @@
         "4.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14796\",\"call_number_browse\":\"Coin 14796\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -75,
+    "pub_date_end_sort": -75,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9078"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Farsuleius Mensor  "
@@ -70,52 +73,54 @@
     "issue_obverse_figure_s": [
         "Libertas"
     ],
-    "issue_obverse_symbol_s": [
-        "S.C"
-    ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing Right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
         "draped and wearing diadem"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "behind, symbol and pileus"
-    ],
     "issue_obverse_legend_s": [
-        "MENSOR"
+        "S\u00b7C MENSOR"
+    ],
+    "issue_obverse_attributes_s": [
+        "pileus and inscription, behind",
+        "border, bead and reel"
     ],
     "issue_reverse_figure_s": [
-        "Warrior & togate figure"
+        "Warrior"
     ],
     "issue_reverse_symbol_s": [
-        "LXI"
+        "LXI below"
     ],
     "issue_reverse_part_s": [
         "In biga"
     ],
     "issue_reverse_orientation_s": [
-        "Riding right"
+        "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Holding spear"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Above symbol"
+        "reining in biga with l. hand, assisting togate figure into biga with r. hand"
     ],
     "issue_reverse_legend_s": [
-        "L.FARSVLEI"
+        "L\u00b7FARSVLEI"
+    ],
+    "issue_reverse_attributes_s": [
+        "holding, in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  392-1b"
+        "RRC  392/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-75 to -75"
+    ],
     "hashed_id_s": [
         "f9c6345eddf1ce50"
     ],
-    "_version_": 1667309340699131904,
-    "timestamp": "2020-05-21T14:08:15.734Z"
+    "_version_": 1684903081696821248,
+    "timestamp": "2020-12-01T18:53:14.651Z"
 }

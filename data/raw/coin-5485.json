@@ -38,8 +38,11 @@
         "2.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5485\",\"call_number_browse\":\"Coin 5485\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1163,
     "pub_date_end_sort": 1190,
@@ -49,14 +52,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "3087"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Xiao Zong \u5b5d\u5b97 (Zhao Shen \u8d99\u614e) (1163 to 1190)"
@@ -72,9 +72,12 @@
         "Hartill 172 17.185v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1190"
+    ],
     "hashed_id_s": [
         "0a9a66da47703d3a"
     ],
-    "_version_": 1667138392867995648,
-    "timestamp": "2020-05-19T16:51:07.176Z"
+    "_version_": 1684903267506585600,
+    "timestamp": "2020-12-01T18:56:11.854Z"
 }

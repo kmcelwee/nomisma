@@ -53,6 +53,12 @@
         "7.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8362\",\"call_number_browse\":\"Coin 8362\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -118,9 +124,12 @@
         "RPC.1  4235-4259"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 0"
+    ],
     "hashed_id_s": [
         "e72f941164409809"
     ],
-    "_version_": 1671117514109616128,
-    "timestamp": "2020-07-02T14:57:32.903Z"
+    "_version_": 1684903673307594752,
+    "timestamp": "2020-12-01T19:02:38.855Z"
 }

@@ -35,8 +35,14 @@
         "0.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4729\",\"call_number_browse\":\"Coin 4729\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1992; 4 of 12"
     ],
     "pub_date_start_sort": 1323,
     "pub_date_end_sort": 1335,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denier tournois"
-    ],
-    "issue_number_s": [
-        "2186"
     ],
     "issue_metal_s": [
         "Billon"
@@ -85,9 +88,12 @@
         "Malloy p 395 115"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1323 to 1335"
+    ],
     "hashed_id_s": [
         "08000939067154c1"
     ],
-    "_version_": 1667145479093223424,
-    "timestamp": "2020-05-19T18:43:45.124Z"
+    "_version_": 1684903455675645952,
+    "timestamp": "2020-12-01T18:59:11.306Z"
 }

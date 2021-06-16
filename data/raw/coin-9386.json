@@ -38,8 +38,11 @@
         "2.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9386\",\"call_number_browse\":\"Coin 9386\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "51: 1930-01-01 Platt"
     ],
     "pub_date_start_sort": 196,
     "pub_date_end_sort": 146,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "6006"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +107,12 @@
         "Catalogue of the Greek Coins in the British Museum Central Greece 128.34"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "196 to 146"
+    ],
     "hashed_id_s": [
         "cfbeb08b7f309b0c"
     ],
-    "_version_": 1667138198408527872,
-    "timestamp": "2020-05-19T16:48:01.728Z"
+    "_version_": 1684903435480072192,
+    "timestamp": "2020-12-01T18:58:52.046Z"
 }

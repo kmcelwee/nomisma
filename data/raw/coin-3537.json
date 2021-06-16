@@ -35,6 +35,12 @@
         "9.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3537\",\"call_number_browse\":\"Coin 3537\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "377:  Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2072"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "Augustus  718"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "8595c7ecca967310"
     ],
-    "_version_": 1667138434360147968,
-    "timestamp": "2020-05-19T16:51:46.744Z"
+    "_version_": 1684903212848513024,
+    "timestamp": "2020-12-01T18:55:19.727Z"
 }

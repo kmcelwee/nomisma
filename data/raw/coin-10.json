@@ -35,8 +35,11 @@
         "1.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10\",\"call_number_browse\":\"Coin 10\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dirham"
-    ],
-    "issue_number_s": [
-        "8585"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "447ef5114feef4f9"
     ],
-    "_version_": 1667138318018543616,
-    "timestamp": "2020-05-19T16:49:55.792Z"
+    "_version_": 1684903056670457856,
+    "timestamp": "2020-12-01T18:52:50.786Z"
 }

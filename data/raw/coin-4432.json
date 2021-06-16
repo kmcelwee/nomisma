@@ -35,6 +35,15 @@
         "7.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4432\",\"call_number_browse\":\"Coin 4432\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Rodolfo Ratto; Schulman; 1930; #1267, $66"
+    ],
     "pub_date_start_sort": -44,
     "pub_date_end_sort": -44,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "2489"
     ],
     "issue_metal_s": [
         "Gold"
@@ -97,9 +103,12 @@
         "Sear  1397"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-44 to -44"
+    ],
     "hashed_id_s": [
         "a51ac70d1c545aa6"
     ],
-    "_version_": 1667138497380614144,
-    "timestamp": "2020-05-19T16:52:46.847Z"
+    "_version_": 1684903632165666816,
+    "timestamp": "2020-12-01T19:01:59.619Z"
 }

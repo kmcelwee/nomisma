@@ -35,8 +35,14 @@
         "4.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11002\",\"call_number_browse\":\"Coin 11002\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 09/19/2001; 58 (836.3)"
     ],
     "pub_date_start_sort": 438,
     "pub_date_end_sort": 457,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7163"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 AY Type Ib2/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "438 to 457"
+    ],
     "hashed_id_s": [
         "672778eb5740d180"
     ],
-    "_version_": 1667138177418133504,
-    "timestamp": "2020-05-19T16:47:41.705Z"
+    "_version_": 1684902953833463808,
+    "timestamp": "2020-12-01T18:51:12.711Z"
 }

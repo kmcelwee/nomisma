@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "3032"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -98,9 +95,12 @@
         "Breen  974"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1784 to 1789"
+    ],
     "hashed_id_s": [
         "5413edba475c129e"
     ],
-    "_version_": 1667138400261505024,
-    "timestamp": "2020-05-19T16:51:14.227Z"
+    "_version_": 1684903174794641408,
+    "timestamp": "2020-12-01T18:54:43.437Z"
 }

@@ -38,7 +38,7 @@
         "Ca1286"
     ],
     "find_description_s": [
-        "Dig III 4-5M"
+        "Dig III, under level II, 4-5m (basket A)"
     ],
     "die_axis_s": [
         "6"
@@ -50,13 +50,16 @@
         "0.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8211\",\"call_number_browse\":\"Coin 8211\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5222"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,7 +92,7 @@
         "Head r., diad."
     ],
     "issue_obverse_legend_s": [
-        "DNCONSTANSPFAUG"
+        "DNCONSTA-NSPFAUG"
     ],
     "issue_reverse_figure_s": [
         "Wreath"
@@ -101,17 +104,20 @@
         "Four lines of text within wreath"
     ],
     "issue_reverse_legend_s": [
-        "VOTXVMVLTXX|ANT"
+        "VOTXVMVLTXX | SMAN\u0398"
     ],
     "issue_references_s": [
         "Waage p.126 1560",
         "Cohen VII, p.434 196",
-        "RIC.8 p.521 114"
+        "RIC VIII Antioch 114"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "886b6a3c45478515"
     ],
-    "_version_": 1667138191114633216,
-    "timestamp": "2020-05-19T16:47:54.768Z"
+    "_version_": 1684903431486046208,
+    "timestamp": "2020-12-01T18:58:48.237Z"
 }

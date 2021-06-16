@@ -35,8 +35,11 @@
         "3.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5192\",\"call_number_browse\":\"Coin 5192\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2881"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Cassius Longinus"
@@ -76,17 +79,23 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head r.; border of dots"
-    ],
     "issue_obverse_legend_s": [
-        "LIBERT - Q CASSIVS"
+        "LIBERT Q\u00b7CASSIVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Temple of Vesta"
     ],
-    "issue_reverse_figure_description_s": [
-        "Temple of Vesta; curule chair inside; to l., voting-urn; to r., tablet with A C; border of dots"
+    "issue_reverse_legend_s": [
+        "A C"
+    ],
+    "issue_reverse_attributes_s": [
+        "curule chair, within",
+        "urn, on l. ",
+        "tablet inscribed A C, on r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  428/2",
@@ -94,9 +103,12 @@
         "Sear  390"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "6713c924c5318a83"
     ],
-    "_version_": 1667138397713465344,
-    "timestamp": "2020-05-19T16:51:11.796Z"
+    "_version_": 1684903570547146752,
+    "timestamp": "2020-12-01T19:01:00.857Z"
 }

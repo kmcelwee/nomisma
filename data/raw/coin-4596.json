@@ -35,6 +35,12 @@
         "3.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4596\",\"call_number_browse\":\"Coin 4596\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2531"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +94,12 @@
         "Sear  495"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "527cc7d720b026c3"
     ],
-    "_version_": 1667138501135564800,
-    "timestamp": "2020-05-19T16:52:50.425Z"
+    "_version_": 1684903307362959360,
+    "timestamp": "2020-12-01T18:56:49.863Z"
 }

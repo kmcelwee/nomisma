@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5227\",\"call_number_browse\":\"Coin 5227\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -276,
@@ -37,11 +40,11 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "2910"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Metapontum, Campania, Italy"
@@ -68,7 +71,10 @@
         "left"
     ],
     "issue_obverse_figure_description_s": [
-        "Bearded Mars head l., in Corinthian helmet; oak-spray behind."
+        "bearded, in Corinthian helmet"
+    ],
+    "issue_obverse_attributes_s": [
+        "oak-spray, behind head"
     ],
     "issue_reverse_figure_s": [
         "Horse"
@@ -83,7 +89,7 @@
         "facing, head to right"
     ],
     "issue_reverse_figure_description_s": [
-        "Protome of horse head r., on base; corn ear behind; legend on base."
+        "on base, above legend"
     ],
     "issue_reverse_legend_s": [
         "ROMANO"
@@ -94,9 +100,12 @@
         "Syd.  1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-280 to -276"
+    ],
     "hashed_id_s": [
         "52ba56694f802886"
     ],
-    "_version_": 1667145288847982592,
-    "timestamp": "2020-05-19T18:40:43.693Z"
+    "_version_": 1684903117000278016,
+    "timestamp": "2020-12-01T18:53:48.320Z"
 }

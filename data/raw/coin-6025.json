@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "2 Pence"
     ],
-    "issue_number_s": [
-        "3502"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -71,6 +68,6 @@
     "hashed_id_s": [
         "9ce4c9f913f07f78"
     ],
-    "_version_": 1667138385880285184,
-    "timestamp": "2020-05-19T16:51:00.509Z"
+    "_version_": 1684903561015590912,
+    "timestamp": "2020-12-01T19:00:51.766Z"
 }

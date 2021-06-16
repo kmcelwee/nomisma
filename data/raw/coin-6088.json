@@ -50,6 +50,12 @@
         "5.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6088\",\"call_number_browse\":\"Coin 6088\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 67,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3401"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -91,9 +100,6 @@
     "issue_obverse_figure_description_s": [
         "wearing taenia"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "legend runs clockwise from upper right"
-    ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
     ],
@@ -107,22 +113,25 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "wearing chiton and peplos, dropping pebble  in voting urn with right arm"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "legend runs clockwise from upper right"
+        "wearing chiton and peplos, dropping pebble in voting urn with right arm"
     ],
     "issue_reverse_legend_s": [
         "ETO EIP"
+    ],
+    "issue_reverse_attributes_s": [
+        "pebble, in r. hand"
     ],
     "issue_references_s": [
         "BMC Gal. p162 87",
         "RPC.1  4305v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 67"
+    ],
     "hashed_id_s": [
         "1f5ac6ab9b901dfd"
     ],
-    "_version_": 1667138387442663424,
-    "timestamp": "2020-05-19T16:51:01.999Z"
+    "_version_": 1684902892019908608,
+    "timestamp": "2020-12-01T18:50:13.762Z"
 }

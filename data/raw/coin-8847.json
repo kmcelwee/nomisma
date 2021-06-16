@@ -41,8 +41,11 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8847\",\"call_number_browse\":\"Coin 8847\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -80,
     "pub_date_end_sort": -70,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "5642"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Shore  134"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-80 to -70"
+    ],
     "hashed_id_s": [
         "46c61c8a0d2288b8"
     ],
-    "_version_": 1667138157052690432,
-    "timestamp": "2020-05-19T16:47:22.283Z"
+    "_version_": 1684903412514160640,
+    "timestamp": "2020-12-01T18:58:30.144Z"
 }

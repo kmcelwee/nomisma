@@ -35,8 +35,11 @@
         "26.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8755\",\"call_number_browse\":\"Coin 8755\"}}",
-    "donor_s": [
-        "Archibald Alexander Gulick"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "642:  Archibald Alexander Gulick"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Dollar"
-    ],
-    "issue_number_s": [
-        "5561"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,6 +98,6 @@
     "hashed_id_s": [
         "093c357aabf79c7a"
     ],
-    "_version_": 1667145392532226048,
-    "timestamp": "2020-05-19T18:52:24.714Z"
+    "_version_": 1684903491924918272,
+    "timestamp": "2020-12-01T18:59:45.876Z"
 }

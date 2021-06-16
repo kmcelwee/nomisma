@@ -38,8 +38,11 @@
         "4.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7542\",\"call_number_browse\":\"Coin 7542\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -250,
     "pub_date_end_sort": -146,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "diobol"
-    ],
-    "issue_number_s": [
-        "4715"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "Catalogue of Greek Coins - Peloponnesus 54 227"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-250 to -146"
+    ],
     "hashed_id_s": [
         "82d542c1c41b4905"
     ],
-    "_version_": 1667138175478267904,
-    "timestamp": "2020-05-19T16:47:39.855Z"
+    "_version_": 1684903423742312448,
+    "timestamp": "2020-12-01T18:58:40.851Z"
 }

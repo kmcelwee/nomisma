@@ -41,8 +41,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8959\",\"call_number_browse\":\"Coin 8959\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -54,
@@ -93,9 +96,12 @@
         "Sellwood  40.2 (variant without T)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -54"
+    ],
     "hashed_id_s": [
         "f2eddff5319aa302"
     ],
-    "_version_": 1672838537293070336,
-    "timestamp": "2020-07-21T14:52:28.511Z"
+    "_version_": 1684903662613168128,
+    "timestamp": "2020-12-01T19:02:28.656Z"
 }

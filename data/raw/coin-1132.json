@@ -32,16 +32,13 @@
         "2.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1132\",\"call_number_browse\":\"Coin 1132\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "574"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +73,12 @@
         " 647 2269v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "4d90629602e98fb6"
     ],
-    "_version_": 1667138208224247808,
-    "timestamp": "2020-05-19T16:48:11.084Z"
+    "_version_": 1684903094898393088,
+    "timestamp": "2020-12-01T18:53:27.242Z"
 }

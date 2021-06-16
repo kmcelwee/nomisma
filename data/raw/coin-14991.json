@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "07/02/1937"
@@ -47,6 +47,12 @@
         "2.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14991\",\"call_number_browse\":\"Coin 14991\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -223,
     "pub_date_end_sort": -210,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "9197"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "H & L I, v.I, p.400 1049"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-223 to -210"
+    ],
     "hashed_id_s": [
         "0852af7b8ed4e47a"
     ],
-    "_version_": 1670294622328324096,
-    "timestamp": "2020-06-23T12:58:02.150Z"
+    "_version_": 1684903344804462592,
+    "timestamp": "2020-12-01T18:57:25.572Z"
 }

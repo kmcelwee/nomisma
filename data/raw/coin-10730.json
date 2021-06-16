@@ -38,8 +38,14 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10730\",\"call_number_browse\":\"Coin 10730\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Markov; 10/23/2001; 10 (385)"
     ],
     "pub_date_start_sort": 293,
     "pub_date_end_sort": 302,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6891"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "SNS 2 Style G/1 (Phase 1) Type Ia/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 302"
+    ],
     "hashed_id_s": [
         "24272a23a3102b12"
     ],
-    "_version_": 1667138285150928896,
-    "timestamp": "2020-05-19T16:49:24.449Z"
+    "_version_": 1684903141483479040,
+    "timestamp": "2020-12-01T18:54:11.668Z"
 }

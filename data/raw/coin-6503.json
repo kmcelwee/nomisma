@@ -35,6 +35,9 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6503\",\"call_number_browse\":\"Coin 6503\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1261,
     "pub_date_end_sort": 1282,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3924"
     ],
     "issue_metal_s": [
         "Gold"
@@ -99,9 +99,12 @@
         "Sear  2243"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1261 to 1282"
+    ],
     "hashed_id_s": [
         "96981741a76f6b9b"
     ],
-    "_version_": 1667138373074026496,
-    "timestamp": "2020-05-19T16:50:48.295Z"
+    "_version_": 1684903111342161920,
+    "timestamp": "2020-12-01T18:53:42.924Z"
 }

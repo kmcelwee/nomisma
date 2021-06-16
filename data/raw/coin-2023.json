@@ -35,8 +35,11 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2023\",\"call_number_browse\":\"Coin 2023\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1340"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r. w/ XVI monogram and voting-urn behind."
+        "helmeted, behind, voting-urn and XVI monogram (X, crossed)."
+    ],
+    "issue_obverse_legend_s": [
+        "X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots",
+        "border, dotted",
         "m77, XVI monogram."
     ],
     "issue_reverse_figure_s": [
@@ -96,13 +99,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Libertas r. in quadriga.; in r. hand, pileus; in l. hand, scepter  and reins. Legends below; ROMA in exergue."
+        "in quadriga; holding reins and rod in l. hand and pileus in r. hand; below, C.CASSI; ROMA in exergue."
     ],
     "issue_reverse_legend_s": [
-        "C CASSI; ROMA"
+        "C.CASSI ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line"
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  266/1",
@@ -110,9 +113,12 @@
         "Sear  142"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "052d4659f4ff852d"
     ],
-    "_version_": 1667138470663946240,
-    "timestamp": "2020-05-19T16:52:21.365Z"
+    "_version_": 1684903611282227200,
+    "timestamp": "2020-12-01T19:01:39.703Z"
 }

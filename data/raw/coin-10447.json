@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "6633"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -101,9 +98,12 @@
         "RPC  5327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "dd2c2fad8d9c1e9e"
     ],
-    "_version_": 1667138180930863104,
-    "timestamp": "2020-05-19T16:47:45.056Z"
+    "_version_": 1684902958854045696,
+    "timestamp": "2020-12-01T18:51:17.499Z"
 }

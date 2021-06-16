@@ -47,6 +47,9 @@
         "5.038"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11458\",\"call_number_browse\":\"Coin 11458\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -122,9 +125,12 @@
         "DOC 3.2 C.45"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "ad76294776328fe5"
     ],
-    "_version_": 1673459411476021248,
-    "timestamp": "2020-07-28T11:21:00.277Z"
+    "_version_": 1684903145487990784,
+    "timestamp": "2020-12-01T18:54:15.489Z"
 }

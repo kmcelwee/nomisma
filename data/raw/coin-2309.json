@@ -38,8 +38,11 @@
         "12.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2309\",\"call_number_browse\":\"Coin 2309\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "284:  W.S. Watson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "halfpence"
-    ],
-    "issue_number_s": [
-        "1484"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,9 +83,12 @@
         "Breen  1156"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place, London  England  Great Britain"
+    ],
     "hashed_id_s": [
         "8f42e6f4f733aaad"
     ],
-    "_version_": 1667138219859247104,
-    "timestamp": "2020-05-19T16:48:22.181Z"
+    "_version_": 1684903101651222528,
+    "timestamp": "2020-12-01T18:53:33.681Z"
 }

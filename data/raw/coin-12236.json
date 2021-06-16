@@ -41,8 +41,14 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12236\",\"call_number_browse\":\"Coin 12236\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
+    ],
+    "numismatic_provenance_s": [
+        "Tommaso Bertel\u00e8; 1892-1971"
     ],
     "pub_date_start_sort": 1230,
     "pub_date_end_sort": 1241,
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8243"
     ],
     "issue_metal_s": [
         "Billon"
@@ -106,9 +109,12 @@
         "Iurukova p.83 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1230 to 1241"
+    ],
     "hashed_id_s": [
         "b40563707002c287"
     ],
-    "_version_": 1667138302238523392,
-    "timestamp": "2020-05-19T16:49:40.743Z"
+    "_version_": 1684903513868468224,
+    "timestamp": "2020-12-01T19:00:06.803Z"
 }

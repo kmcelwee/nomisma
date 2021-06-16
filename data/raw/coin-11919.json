@@ -35,8 +35,11 @@
         "2.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11919\",\"call_number_browse\":\"Coin 11919\"}}",
-    "donor_s": [
-        "Anonymous"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "167: 1996-12-20 Anonymous"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7989"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 323 649"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "4d47d2278f7c33b9"
     ],
-    "_version_": 1667138298990034944,
-    "timestamp": "2020-05-19T16:49:37.646Z"
+    "_version_": 1684903040115539968,
+    "timestamp": "2020-12-01T18:52:34.996Z"
 }

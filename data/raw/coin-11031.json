@@ -35,8 +35,14 @@
         "4.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11031\",\"call_number_browse\":\"Coin 11031\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Indus Numismatic Gallery; 12/02/2010"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7192"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "SN  III/1 (SN)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "426308b5a0b0d604"
     ],
-    "_version_": 1667138169961709568,
-    "timestamp": "2020-05-19T16:47:34.594Z"
+    "_version_": 1684902945300152320,
+    "timestamp": "2020-12-01T18:51:04.573Z"
 }

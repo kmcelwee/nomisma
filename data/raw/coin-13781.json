@@ -35,6 +35,15 @@
         "2.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13781\",\"call_number_browse\":\"Coin 13781\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1928; Cost: 60 cents"
+    ],
     "pub_date_start_sort": -149,
     "pub_date_end_sort": -147,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8828"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -88,16 +94,16 @@
     "issue_reverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5"
     ],
-    "issue_reverse_attributes_s": [
-        "m13781, right of elephant"
-    ],
     "issue_references_s": [
-        "H & L II,v.I,p.225 1791.1"
+        "H & L II,v.I,p.225 1791.1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-149 to -147"
+    ],
     "hashed_id_s": [
         "49d3dfb091b51ebc"
     ],
-    "_version_": 1667138519906123776,
-    "timestamp": "2020-05-19T16:53:08.326Z"
+    "_version_": 1684903325449846784,
+    "timestamp": "2020-12-01T18:57:07.114Z"
 }

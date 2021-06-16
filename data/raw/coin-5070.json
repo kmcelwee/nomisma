@@ -35,8 +35,11 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5070\",\"call_number_browse\":\"Coin 5070\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -54,
     "pub_date_end_sort": -54,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2803"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Iunius Brutus (c. -85 to -42)"
@@ -76,14 +79,11 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head r.; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Ancestor; Consul 509"
-    ],
     "issue_obverse_legend_s": [
         "BRVTVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "C. Servilius Ahala"
@@ -94,14 +94,11 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Head r.; border of dots"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Ancestor; Magister Equitum 439"
-    ],
     "issue_reverse_legend_s": [
         "AHALA"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  433/2",
@@ -109,9 +106,12 @@
         "Sear  398"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-54 to -54"
+    ],
     "hashed_id_s": [
         "ec940896ee681caf"
     ],
-    "_version_": 1667138244255416320,
-    "timestamp": "2020-05-19T16:48:45.447Z"
+    "_version_": 1684903006358732800,
+    "timestamp": "2020-12-01T18:52:02.804Z"
 }

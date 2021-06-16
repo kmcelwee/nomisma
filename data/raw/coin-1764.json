@@ -32,6 +32,9 @@
         "9.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1764\",\"call_number_browse\":\"Coin 1764\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": -24,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1145"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "RPC.1 1 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to -24"
+    ],
     "hashed_id_s": [
         "9444334d57c6e98d"
     ],
-    "_version_": 1667138415493120000,
-    "timestamp": "2020-05-19T16:51:28.752Z"
+    "_version_": 1684903188732313600,
+    "timestamp": "2020-12-01T18:54:56.736Z"
 }

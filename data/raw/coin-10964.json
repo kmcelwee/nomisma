@@ -38,8 +38,14 @@
         "4.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10964\",\"call_number_browse\":\"Coin 10964\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 08/30/2003"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7125"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3 Uncertain Mint Type Ib1/1a, var. 6 var. two crescents to the right of altar flames"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "2a48ab32fbc5ad60"
     ],
-    "_version_": 1667138288327065600,
-    "timestamp": "2020-05-19T16:49:27.475Z"
+    "_version_": 1684903032489246720,
+    "timestamp": "2020-12-01T18:52:27.724Z"
 }

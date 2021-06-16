@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5396\",\"call_number_browse\":\"Coin 5396\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1928; $1.50"
+    ],
     "pub_date_start_sort": -58,
     "pub_date_end_sort": -58,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3036"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Aemilius Scaurus"
@@ -71,10 +80,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Camel r.; before, kneeling figure r., holding reins in l. hand and olive branch tied with fillet in r. hand; border of dots"
+        "kneeling figure (of king Aretas) before"
     ],
     "issue_obverse_legend_s": [
-        "M SCAVR - EX - SC | AED CVR"
+        "M\u00b7SCAVR EX S C AED CVR"
+    ],
+    "issue_obverse_attributes_s": [
+        "reins, in kneeling figure's l. hand",
+        "olive-branch tied with fillet, in kneeling figure's r. hand",
+        "inscription, on either side",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -86,10 +101,15 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter in quadriga l., holding reins in l. hand and hurling thunderbolt with r. hand; border of dots"
+        "in quadriga, hurling thunderbolt"
     ],
     "issue_reverse_legend_s": [
-        "\u0393 HV\u0393SAEVS / AED CVR | C HV\u0393SAE COS / \u0393REIVER | CA\u0393TVM"
+        "[P\u00b7]HYPSAEVS / AED\u00b7CVR [C\u00b7]HVPSAE\u00b7COS / PREIVER CAPT"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "thunderbolt, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  422/1a",
@@ -97,9 +117,12 @@
         "Sear  378"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-58 to -58"
+    ],
     "hashed_id_s": [
         "e050bd8e027fc0d0"
     ],
-    "_version_": 1667138247382269952,
-    "timestamp": "2020-05-19T16:48:48.429Z"
+    "_version_": 1684903008369901568,
+    "timestamp": "2020-12-01T18:52:04.722Z"
 }

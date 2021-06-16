@@ -35,8 +35,11 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11654\",\"call_number_browse\":\"Coin 11654\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7760"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "SNS 3 BY\u0160 Type Ib1/1a,Var.5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "3ad74c3aa23f3c8f"
     ],
-    "_version_": 1667138132198293504,
-    "timestamp": "2020-05-19T16:46:58.582Z"
+    "_version_": 1684903378226774016,
+    "timestamp": "2020-12-01T18:57:57.448Z"
 }

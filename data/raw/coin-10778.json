@@ -35,8 +35,14 @@
         "7.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10778\",\"call_number_browse\":\"Coin 10778\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 18/02/2001"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-old"
-    ],
-    "issue_number_s": [
-        "6939"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +89,12 @@
         "SNS 3 Mint II (\"West\") Type Ia/1a1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "36ee38229d25cb6a"
     ],
-    "_version_": 1667138285614399488,
-    "timestamp": "2020-05-19T16:49:24.889Z"
+    "_version_": 1684903501616906240,
+    "timestamp": "2020-12-01T18:59:55.126Z"
 }

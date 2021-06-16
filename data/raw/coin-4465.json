@@ -35,6 +35,15 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4465\",\"call_number_browse\":\"Coin 4465\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $3"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -43,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2494"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +97,12 @@
         "Sear  486"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -43"
+    ],
     "hashed_id_s": [
         "faec25b8a101b296"
     ],
-    "_version_": 1667138237247782912,
-    "timestamp": "2020-05-19T16:48:38.762Z"
+    "_version_": 1684903462070910976,
+    "timestamp": "2020-12-01T18:59:17.406Z"
 }

@@ -50,6 +50,12 @@
         "2.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2262\",\"call_number_browse\":\"Coin 2262\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -282,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -112,9 +118,16 @@
         "WSM  1628"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Medusa",
+        "Animal, bull"
+    ],
+    "issue_date_s": [
+        "-282 to -281"
+    ],
     "hashed_id_s": [
         "353390e9d50b110f"
     ],
-    "_version_": 1673104838999670784,
-    "timestamp": "2020-07-24T13:25:13.609Z"
+    "_version_": 1684903669303083008,
+    "timestamp": "2020-12-01T19:02:35.036Z"
 }

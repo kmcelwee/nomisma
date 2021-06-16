@@ -35,6 +35,15 @@
         "0.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 887\",\"call_number_browse\":\"Coin 887\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1931; bought for $6"
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 526,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quarter siliqua"
-    ],
-    "issue_number_s": [
-        "368"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +93,15 @@
         "Mettlich  55"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Justin I"
+    ],
+    "issue_date_s": [
+        "518 to 526"
+    ],
     "hashed_id_s": [
         "d8f345d447f80b9d"
     ],
-    "_version_": 1667138454087008256,
-    "timestamp": "2020-05-19T16:52:05.558Z"
+    "_version_": 1684903596220481536,
+    "timestamp": "2020-12-01T19:01:25.339Z"
 }

@@ -35,8 +35,11 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2644\",\"call_number_browse\":\"Coin 2644\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 1280,
     "pub_date_end_sort": 1339,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1665"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "Liguria - Isola Di Corsica Repubblica II.12.42"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1280 to 1339"
+    ],
     "hashed_id_s": [
         "67a382d30f2e9871"
     ],
-    "_version_": 1667138476605177856,
-    "timestamp": "2020-05-19T16:52:27.034Z"
+    "_version_": 1684903301326307328,
+    "timestamp": "2020-12-01T18:56:44.110Z"
 }

@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7-8-1935"
+        "1935-07-08"
+    ],
+    "find_feature_s": [
+        "Circus, house walls, W. of W. cavea"
     ],
     "find_locus_s": [
-        "7-N"
+        "DS 7-N (CIR)"
     ],
-    "find_description_s": [
-        "7-N Circus, House Walls west of west cavea"
+    "find_number_s": [
+        "C5740"
     ],
     "die_axis_s": [
         "11"
@@ -47,6 +50,12 @@
         "1.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7311\",\"call_number_browse\":\"Coin 7311\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4577"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,7 +95,7 @@
         "diademed, draped"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS MAX AVG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,16 +113,19 @@
         "with two standards."
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
         "Cohen 7 258.254",
-        "RIC 7 693.86"
+        "RIC VII Antioch 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "2706b70ddef9ea58"
     ],
-    "_version_": 1667138353353457664,
-    "timestamp": "2020-05-19T16:50:29.492Z"
+    "_version_": 1691788708164927488,
+    "timestamp": "2021-02-15T18:57:19.767Z"
 }

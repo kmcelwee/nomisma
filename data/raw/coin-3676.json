@@ -56,6 +56,12 @@
         "7.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3676\",\"call_number_browse\":\"Coin 3676\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1030,
     "pub_date_end_sort": 1042,
     "issue_object_type_s": [
@@ -63,9 +69,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "2024"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -125,9 +128,12 @@
         "BMC.Byz. 497 (Class II) 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1030 to 1042"
+    ],
     "hashed_id_s": [
         "60a45e7fa5324862"
     ],
-    "_version_": 1667138413097123840,
-    "timestamp": "2020-05-19T16:51:26.477Z"
+    "_version_": 1684903185905352704,
+    "timestamp": "2020-12-01T18:54:54.032Z"
 }

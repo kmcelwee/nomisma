@@ -38,8 +38,11 @@
         "5.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13716\",\"call_number_browse\":\"Coin 13716\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "672: 1931-01-01 Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": -128,
     "pub_date_end_sort": -122,
@@ -106,9 +109,12 @@
         "H & L II, v.I, p.459 2242"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-128 to -122"
+    ],
     "hashed_id_s": [
         "5200d5dbd2fea775"
     ],
-    "_version_": 1674261769668788224,
-    "timestamp": "2020-08-06T07:54:08.674Z"
+    "_version_": 1684903336994668544,
+    "timestamp": "2020-12-01T18:57:18.124Z"
 }

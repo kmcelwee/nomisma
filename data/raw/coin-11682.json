@@ -35,7 +35,10 @@
         "DH 28-0"
     ],
     "find_number_s": [
-        "Ca514"
+        "Ca0514"
+    ],
+    "find_description_s": [
+        "Above Lion mosaic"
     ],
     "die_axis_s": [
         "6"
@@ -47,6 +50,9 @@
         "1.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11682\",\"call_number_browse\":\"Coin 11682\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7783"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,12 +98,15 @@
         "SMANA"
     ],
     "issue_references_s": [
-        "RIC 8 515 39"
+        "RIC VIII Antioch 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "3138058e7141070d"
     ],
-    "_version_": 1667138131996966912,
-    "timestamp": "2020-05-19T16:46:58.387Z"
+    "_version_": 1684903378034884608,
+    "timestamp": "2020-12-01T18:57:57.262Z"
 }

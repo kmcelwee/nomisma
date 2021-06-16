@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "7 dollars"
     ],
-    "issue_number_s": [
-        "3481"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -71,6 +68,6 @@
     "hashed_id_s": [
         "73a06e7dd55c2671"
     ],
-    "_version_": 1667138383462268928,
-    "timestamp": "2020-05-19T16:50:58.206Z"
+    "_version_": 1684903558630080512,
+    "timestamp": "2020-12-01T19:00:49.491Z"
 }

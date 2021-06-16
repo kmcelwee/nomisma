@@ -35,16 +35,13 @@
         "2.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8448\",\"call_number_browse\":\"Coin 8448\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -190,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5382"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +87,12 @@
         "SNG. vol 25 306-310"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -190"
+    ],
     "hashed_id_s": [
         "5e3c2704198b6afb"
     ],
-    "_version_": 1667138187578834944,
-    "timestamp": "2020-05-19T16:47:51.396Z"
+    "_version_": 1684903428942200832,
+    "timestamp": "2020-12-01T18:58:45.811Z"
 }

@@ -35,8 +35,11 @@
         "4.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6606\",\"call_number_browse\":\"Coin 6606\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -209,
     "pub_date_end_sort": -208,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "4028"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,10 +77,11 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; behind, X."
+        "helmeted"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "X, behind head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -91,14 +95,8 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Dioscuri r.; anchor below. Legend in linear frame."
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
-    ],
-    "issue_reverse_attributes_s": [
-        "border, Line border."
     ],
     "issue_references_s": [
         "RRC  50/2",
@@ -106,9 +104,12 @@
         "Sear Volume I 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-209 to -208"
+    ],
     "hashed_id_s": [
         "d570b146a947ad27"
     ],
-    "_version_": 1667138254269317120,
-    "timestamp": "2020-05-19T16:48:54.997Z"
+    "_version_": 1684903700880949248,
+    "timestamp": "2020-12-01T19:03:05.151Z"
 }

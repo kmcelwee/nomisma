@@ -26,22 +26,25 @@
         "num"
     ],
     "notes_display": [
-        "Attribution uncertain"
+        "Attribution uncertain."
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/22/1937"
-    ],
-    "find_feature_s": [
-        "DUMP"
+        "08/22/1937"
     ],
     "find_locus_s": [
         "S 19-G"
     ],
     "find_number_s": [
         "Ca3035"
+    ],
+    "find_description_s": [
+        "Dump"
+    ],
+    "die_axis_s": [
+        "12"
     ],
     "size_s": [
         "23"
@@ -50,19 +53,25 @@
         "2.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13234\",\"call_number_browse\":\"Coin 13234\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8574"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
@@ -74,7 +83,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -83,7 +95,7 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPAVRELIANVSAVG"
+        "IMP AVRELIANVS AVG"
     ],
     "issue_reverse_figure_description_s": [
         "illegible"
@@ -91,10 +103,16 @@
     "issue_reverse_legend_s": [
         "illegible"
     ],
+    "issue_references_s": [
+        "Waage  1263"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "aa7801c2e4ddbd2d"
     ],
-    "_version_": 1667138317774225408,
-    "timestamp": "2020-05-19T16:49:55.558Z"
+    "_version_": 1684903677271212032,
+    "timestamp": "2020-12-01T19:02:42.636Z"
 }

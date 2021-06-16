@@ -41,6 +41,12 @@
         "3.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11343\",\"call_number_browse\":\"Coin 11343\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7510"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +93,12 @@
         "SN  I/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "b0e6faef8ae34b4e"
     ],
-    "_version_": 1667138134780936192,
-    "timestamp": "2020-05-19T16:47:01.045Z"
+    "_version_": 1684903382585704448,
+    "timestamp": "2020-12-01T18:58:01.602Z"
 }

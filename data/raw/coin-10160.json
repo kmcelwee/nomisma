@@ -35,6 +35,12 @@
         "3.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10160\",\"call_number_browse\":\"Coin 10160\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 117,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6419"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 239 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "117 to 117"
+    ],
     "hashed_id_s": [
         "212be23b43752f5d"
     ],
-    "_version_": 1667138179982950400,
-    "timestamp": "2020-05-19T16:47:44.150Z"
+    "_version_": 1684903425324613632,
+    "timestamp": "2020-12-01T18:58:42.361Z"
 }

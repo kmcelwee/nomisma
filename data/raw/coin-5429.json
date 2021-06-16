@@ -35,8 +35,11 @@
         "3.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5429\",\"call_number_browse\":\"Coin 5429\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "10 pfennig"
-    ],
-    "issue_number_s": [
-        "3050"
     ],
     "issue_metal_s": [
         "Copper-nickel"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "07fc8049936c4819"
     ],
-    "_version_": 1667138393654427648,
-    "timestamp": "2020-05-19T16:51:07.924Z"
+    "_version_": 1684903133009936384,
+    "timestamp": "2020-12-01T18:54:03.587Z"
 }

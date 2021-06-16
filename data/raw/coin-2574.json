@@ -38,6 +38,12 @@
         "3.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2574\",\"call_number_browse\":\"Coin 2574\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "468:  Certified Coin Exchange"
+    ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -250,
     "issue_object_type_s": [
@@ -98,9 +104,16 @@
         "Houghton  598v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod"
+    ],
+    "issue_date_s": [
+        "-261 to -250"
+    ],
     "hashed_id_s": [
         "4d0f5ce3b888a1bf"
     ],
-    "_version_": 1674371791098740736,
-    "timestamp": "2020-08-07T13:02:53.285Z"
+    "_version_": 1684903334742327296,
+    "timestamp": "2020-12-01T18:57:15.975Z"
 }

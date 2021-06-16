@@ -50,6 +50,9 @@
         "3.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4129\",\"call_number_browse\":\"Coin 4129\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "2322"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +105,12 @@
         "Sear  107"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "adf7a6628adf07a8"
     ],
-    "_version_": 1667138489627443200,
-    "timestamp": "2020-05-19T16:52:39.452Z"
+    "_version_": 1684903625336291328,
+    "timestamp": "2020-12-01T19:01:53.108Z"
 }

@@ -38,8 +38,11 @@
         "3.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12331\",\"call_number_browse\":\"Coin 12331\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -138,
     "pub_date_end_sort": -127,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8289"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "Sellwood  16.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-138 to -127"
+    ],
     "hashed_id_s": [
         "462a2c5496d23890"
     ],
-    "_version_": 1667138329914638336,
-    "timestamp": "2020-05-19T16:50:07.137Z"
+    "_version_": 1684903235759898624,
+    "timestamp": "2020-12-01T18:55:41.578Z"
 }

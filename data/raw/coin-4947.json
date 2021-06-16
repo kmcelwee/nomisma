@@ -35,6 +35,15 @@
         "3.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4947\",\"call_number_browse\":\"Coin 4947\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Henry C.Miller; 1920; $3"
+    ],
     "pub_date_start_sort": -54,
     "pub_date_end_sort": -54,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2731"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Q. Pompeius Rufus"
@@ -70,11 +79,14 @@
     "issue_obverse_orientation_s": [
         "upright"
     ],
-    "issue_obverse_figure_description_s": [
-        "curule chair; to l., arrow; to r., laurel branch; legend above; on tablet, COS; border of dots"
-    ],
     "issue_obverse_legend_s": [
-        "Q \u0393OM\u0393EI Q F / RVFVS"
+        "Q\u00b7POMPEI\u00b7Q\u00b7F / RVFVS COS"
+    ],
+    "issue_obverse_attributes_s": [
+        "arrow, on l. ",
+        "laurel-branch, on r. ",
+        "tablet and inscription, below",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Curule chair"
@@ -82,11 +94,14 @@
     "issue_reverse_orientation_s": [
         "upright"
     ],
-    "issue_reverse_figure_description_s": [
-        "curule chair; to l., lituus; to r., wreath; legend above; on tablet, Q \u0393OM\u0393EI RVF; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "SVLLA COS"
+        "SVLLA\u00b7COS Q\u00b7POMPEI\u00b7RVF"
+    ],
+    "issue_reverse_attributes_s": [
+        "lituus, on l. ",
+        "wreath, on r. ",
+        "table and inscription, below",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  434/2",
@@ -94,9 +109,12 @@
         "Sear  400"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-54 to -54"
+    ],
     "hashed_id_s": [
         "de68b788e6276abf"
     ],
-    "_version_": 1667138242591326208,
-    "timestamp": "2020-05-19T16:48:43.857Z"
+    "_version_": 1684903005058498560,
+    "timestamp": "2020-12-01T18:52:01.564Z"
 }

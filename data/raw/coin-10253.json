@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "teston"
     ],
-    "issue_number_s": [
-        "6497"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -102,9 +99,12 @@
         "Leone Leoni"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1535 to 1556"
+    ],
     "hashed_id_s": [
         "2ad8dfaebdabd661"
     ],
-    "_version_": 1667138281339355136,
-    "timestamp": "2020-05-19T16:49:21.037Z"
+    "_version_": 1684903025056940032,
+    "timestamp": "2020-12-01T18:52:20.636Z"
 }

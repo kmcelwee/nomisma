@@ -35,8 +35,11 @@
         "3.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13470\",\"call_number_browse\":\"Coin 13470\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -164,
@@ -101,9 +104,12 @@
         "H & L II, 83 1456"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -164"
+    ],
     "hashed_id_s": [
         "7a9fad91da95ed78"
     ],
-    "_version_": 1673362268736192512,
-    "timestamp": "2020-07-27T09:36:57.737Z"
+    "_version_": 1684902897141153792,
+    "timestamp": "2020-12-01T18:50:18.646Z"
 }

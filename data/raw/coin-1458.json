@@ -32,8 +32,11 @@
         "25.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1458\",\"call_number_browse\":\"Coin 1458\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1821,
     "pub_date_end_sort": 1850,
@@ -43,14 +46,11 @@
     "issue_denomination_s": [
         "Palace Issue"
     ],
-    "issue_number_s": [
-        "858"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Dao Guang \u9053\u5149 (1821 to 1851)"
@@ -71,9 +71,12 @@
         "KM 352 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1821 to 1850"
+    ],
     "hashed_id_s": [
         "608e46613a79c932"
     ],
-    "_version_": 1667138463587106816,
-    "timestamp": "2020-05-19T16:52:14.618Z"
+    "_version_": 1684903294852399104,
+    "timestamp": "2020-12-01T18:56:37.931Z"
 }

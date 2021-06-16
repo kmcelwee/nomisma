@@ -35,8 +35,11 @@
         "25.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3008\",\"call_number_browse\":\"Coin 3008\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 68,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "1865"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -105,9 +105,12 @@
         "Sear  1961v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 68"
+    ],
     "hashed_id_s": [
         "574c63757e67a98d"
     ],
-    "_version_": 1667138224951132160,
-    "timestamp": "2020-05-19T16:48:27.037Z"
+    "_version_": 1684902982126141440,
+    "timestamp": "2020-12-01T18:51:39.694Z"
 }

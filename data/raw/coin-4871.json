@@ -38,8 +38,11 @@
         "7.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4871\",\"call_number_browse\":\"Coin 4871\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -31,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2677"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "Amandry  VIc"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-34 to -31"
+    ],
     "hashed_id_s": [
         "6e9cc74c49a9b8b0"
     ],
-    "_version_": 1667138238727323648,
-    "timestamp": "2020-05-19T16:48:40.175Z"
+    "_version_": 1684903112136982528,
+    "timestamp": "2020-12-01T18:53:43.683Z"
 }

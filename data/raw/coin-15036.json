@@ -35,16 +35,16 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15036\",\"call_number_browse\":\"Coin 15036\"}}",
-    "donor_s": [
-        "Rodman Wanamaker"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "268: 1930-01-01 Rodman Wanamaker"
     ],
     "pub_date_start_sort": -406,
     "pub_date_end_sort": -393,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "9221"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "Catalogue of the Greek Coins in the British Museum p.20  209"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-406 to -393"
+    ],
     "hashed_id_s": [
         "65b98ea16f1d9ec6"
     ],
-    "_version_": 1667145372911271936,
-    "timestamp": "2020-05-19T18:52:24.299Z"
+    "_version_": 1684903374036664320,
+    "timestamp": "2020-12-01T18:57:53.449Z"
 }

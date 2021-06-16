@@ -29,7 +29,7 @@
         "Reverse legend and monogram effaced"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/13/1936"
@@ -53,6 +53,12 @@
         "3.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2414\",\"call_number_browse\":\"Coin 2414\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -268,
     "pub_date_end_sort": -261,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1538"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -124,9 +127,15 @@
         "Houghton  29v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-268 to -261"
+    ],
     "hashed_id_s": [
         "84ac37d818dd41d2"
     ],
-    "_version_": 1669919480598233088,
-    "timestamp": "2020-06-19T09:35:19.117Z"
+    "_version_": 1684903318446407680,
+    "timestamp": "2020-12-01T18:57:00.434Z"
 }

@@ -35,6 +35,9 @@
         "16.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 483\",\"call_number_browse\":\"Coin 483\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -315,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "211"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Price  206"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -315"
+    ],
     "hashed_id_s": [
         "faddad79d5782fda"
     ],
-    "_version_": 1667138202310279168,
-    "timestamp": "2020-05-19T16:48:05.444Z"
+    "_version_": 1684903091710722048,
+    "timestamp": "2020-12-01T18:53:24.202Z"
 }

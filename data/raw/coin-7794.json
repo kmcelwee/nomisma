@@ -2,7 +2,7 @@
     "id": "coin-7794",
     "title_display": "Coin: 7794",
     "pub_created_display": [
-        "Constantine II, follis, Thessalonica"
+        "Constantine II   (337 to 340), follis, Siscia"
     ],
     "call_number_display": [
         "Coin 7794"
@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 2, 1932"
+        "1932-05-02"
     ],
     "find_feature_s": [
-        "Trench"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "N-9"
+        "DS 9-N"
     ],
     "find_number_s": [
         "1138"
@@ -50,28 +50,31 @@
         "2.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7794\",\"call_number_browse\":\"Coin 7794\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 320,
-    "pub_date_end_sort": 324,
+    "pub_date_end_sort": 321,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4846"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
-        "Thessalonica, Illyria, Roman Empire"
+        "Siscia, Illyria, Roman Empire"
     ],
     "issue_city_s": [
-        "Thessalonica"
+        "Siscia"
     ],
     "issue_state_s": [
         "Illyria"
@@ -86,33 +89,33 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "head laureled"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS IVN NOB C"
+        "CONSTANTINVSIVNNOBC"
     ],
     "issue_reverse_figure_s": [
         "Wreath"
-    ],
-    "issue_reverse_symbol_s": [
-        "star"
     ],
     "issue_reverse_orientation_s": [
         "center"
     ],
     "issue_reverse_figure_description_s": [
-        "wreath enclosing VOT / V"
+        "VOT / V within laurel wreath"
     ],
     "issue_reverse_legend_s": [
-        "CAESARVM NOSTRORVM"
+        "CAESARVMNOSTRORVM | \u0393SIS*"
     ],
     "issue_references_s": [
-        "RIC 7 512.115"
+        "RIC VII Siscia 166"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "320 to 321"
+    ],
     "hashed_id_s": [
         "f4c8dad0235781a0"
     ],
-    "_version_": 1667138352136060928,
-    "timestamp": "2020-05-19T16:50:28.328Z"
+    "_version_": 1695436737440907264,
+    "timestamp": "2021-03-28T01:21:11.594Z"
 }

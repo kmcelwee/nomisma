@@ -38,8 +38,11 @@
         "14.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12887\",\"call_number_browse\":\"Coin 12887\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 58,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8447"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Shore  383"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 58"
+    ],
     "hashed_id_s": [
         "1495b6fd8d48b77e"
     ],
-    "_version_": 1667138312506179584,
-    "timestamp": "2020-05-19T16:49:50.535Z"
+    "_version_": 1684903052018974720,
+    "timestamp": "2020-12-01T18:52:46.350Z"
 }

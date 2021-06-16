@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4498"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,9 +101,12 @@
         "Sear page 210 1008"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "655 to 656"
+    ],
     "hashed_id_s": [
         "45309c54d685eded"
     ],
-    "_version_": 1667138331416199168,
-    "timestamp": "2020-05-19T16:50:08.569Z"
+    "_version_": 1684903072099205120,
+    "timestamp": "2020-12-01T18:53:05.500Z"
 }

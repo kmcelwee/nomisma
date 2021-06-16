@@ -35,8 +35,14 @@
         "3.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10789\",\"call_number_browse\":\"Coin 10789\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 03/22/2001"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6950"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 3 Mint IV (\"West\") Type Ia/1a3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "c55dc5ab24c76002"
     ],
-    "_version_": 1667138178530672640,
-    "timestamp": "2020-05-19T16:47:42.765Z"
+    "_version_": 1684902955730337792,
+    "timestamp": "2020-12-01T18:51:14.522Z"
 }

@@ -35,6 +35,15 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2717\",\"call_number_browse\":\"Coin 2717\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Clement Platt, Paris; 1937; "
+    ],
     "pub_date_start_sort": 13,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -80,9 +89,15 @@
         "TI.CAESAR.SVG.F.TR.POT.XV."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, quadriga"
+    ],
+    "issue_date_s": [
+        "13 to 14"
+    ],
     "hashed_id_s": [
         "486e52744059b298"
     ],
-    "_version_": 1674369075233423360,
-    "timestamp": "2020-08-07T12:19:43.234Z"
+    "_version_": 1684903333409587200,
+    "timestamp": "2020-12-01T18:57:14.703Z"
 }

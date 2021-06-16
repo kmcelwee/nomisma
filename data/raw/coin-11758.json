@@ -38,8 +38,11 @@
         "1.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11758\",\"call_number_browse\":\"Coin 11758\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7452"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "SN  BN Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "6a66db8056cff603"
     ],
-    "_version_": 1667138171628945408,
-    "timestamp": "2020-05-19T16:47:36.184Z"
+    "_version_": 1684903031279190016,
+    "timestamp": "2020-12-01T18:52:26.571Z"
 }

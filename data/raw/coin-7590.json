@@ -29,7 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/2/1933"
+        "1933-04-02"
+    ],
+    "find_feature_s": [
+        "[None Recorded]"
+    ],
+    "find_locus_s": [
+        "[None Recorded]"
     ],
     "find_number_s": [
         "2360"
@@ -44,6 +50,12 @@
         "3.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7590\",\"call_number_browse\":\"Coin 7590\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 323,
     "issue_object_type_s": [
@@ -51,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4751"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,16 +104,19 @@
         "Turreted Genius stg. l., loins dr. with himation, patera in r. hand, cornucopia in l."
     ],
     "issue_reverse_legend_s": [
-        "GENIO-POP ROM"
+        "GENIO-POP ROM | T/ F/ ATR"
     ],
     "issue_references_s": [
-        "RIC, VII 173 119",
+        "RIC VII Treveri 119",
         "Numismatique Constantinienne I. 406-407. III. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 323"
+    ],
     "hashed_id_s": [
         "6b908fec2aa7ba4f"
     ],
-    "_version_": 1667138260348960768,
-    "timestamp": "2020-05-19T16:49:00.794Z"
+    "_version_": 1693059442404229120,
+    "timestamp": "2021-03-01T19:35:06.368Z"
 }

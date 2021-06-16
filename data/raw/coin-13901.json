@@ -35,6 +35,12 @@
         "6.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13901\",\"call_number_browse\":\"Coin 13901\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "852: 1924-01-01 Lincoln"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "8935"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +99,12 @@
         "Coinage of Rhodes  98"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "6c2a7b44881e78dd"
     ],
-    "_version_": 1667138520008884224,
-    "timestamp": "2020-05-19T16:53:08.424Z"
+    "_version_": 1684903325564141568,
+    "timestamp": "2020-12-01T18:57:07.222Z"
 }

@@ -35,6 +35,15 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4084\",\"call_number_browse\":\"Coin 4084\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; envelope reads \"Schulman?\""
+    ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2339"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Mn. Acilius Glabrio"
@@ -74,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; legend upwards on left; border of dots"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "SALVTIS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Valetudo"
@@ -89,10 +101,14 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "resting l. arm on column, holding snake in r. hand; border of dots"
+        "resting l. arm on column"
     ],
     "issue_reverse_legend_s": [
-        "MN ACILIVS | III VIR VALETV"
+        "MN\u00b7ACILIVS III\u00b7VIR\u00b7VALETV"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted",
+        "snake, in r. hand"
     ],
     "issue_references_s": [
         "RRC  442/1a",
@@ -100,9 +116,12 @@
         "Sear  412"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "576ccb3c4b683018"
     ],
-    "_version_": 1667138489270927360,
-    "timestamp": "2020-05-19T16:52:39.112Z"
+    "_version_": 1684903624816197632,
+    "timestamp": "2020-12-01T19:01:52.611Z"
 }

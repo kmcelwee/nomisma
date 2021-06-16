@@ -38,8 +38,11 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2336\",\"call_number_browse\":\"Coin 2336\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "148:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -256,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1498"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -112,9 +112,16 @@
         "Houghton  29v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, lyre"
+    ],
+    "issue_date_s": [
+        "-261 to -256"
+    ],
     "hashed_id_s": [
         "a4c45fd288d7e4c0"
     ],
-    "_version_": 1667138422332981248,
-    "timestamp": "2020-05-19T16:51:35.276Z"
+    "_version_": 1684903201162133504,
+    "timestamp": "2020-12-01T18:55:08.582Z"
 }

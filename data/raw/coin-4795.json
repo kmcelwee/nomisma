@@ -35,6 +35,15 @@
         "4.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4795\",\"call_number_browse\":\"Coin 4795\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1931; $10.30"
+    ],
     "pub_date_start_sort": -37,
     "pub_date_end_sort": -37,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2619"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +114,12 @@
         "Sear  1497"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-37 to -37"
+    ],
     "hashed_id_s": [
         "4fad89414ded4237"
     ],
-    "_version_": 1667138505113862144,
-    "timestamp": "2020-05-19T16:52:54.220Z"
+    "_version_": 1684903312881614848,
+    "timestamp": "2020-12-01T18:56:55.128Z"
 }

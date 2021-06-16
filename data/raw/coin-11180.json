@@ -49,9 +49,6 @@
     "issue_denomination_s": [
         "Drachm"
     ],
-    "issue_number_s": [
-        "7345"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -98,6 +95,6 @@
     "hashed_id_s": [
         "e9e5b390a11bd85c"
     ],
-    "_version_": 1667138162366873600,
-    "timestamp": "2020-05-19T16:47:27.351Z"
+    "_version_": 1683104880514826240,
+    "timestamp": "2020-11-11T22:31:36.368Z"
 }

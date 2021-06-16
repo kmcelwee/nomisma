@@ -2,7 +2,7 @@
     "id": "coin-7601",
     "title_display": "Coin: 7601",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7601"
@@ -32,16 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "April 4, 1934"
+        "1934-04-04"
     ],
     "find_feature_s": [
-        "Rm 10"
+        "1-1.1m below level of mosaic"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
-    "find_description_s": [
-        "-1.0 to-1.1 below level of mosaic floor"
+    "find_number_s": [
+        "C2394"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +53,12 @@
         "2.396"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7601\",\"call_number_browse\":\"Coin 7601\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -61,14 +67,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4745"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -83,22 +86,22 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "center, facing right"
+        "facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "bust, facing right with diadem tied at neck"
+        "laureate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS IVN NOB C"
+        "CONSTANTINVSIVNNOBC"
     ],
     "issue_reverse_figure_s": [
         "Two soldiers"
-    ],
-    "issue_reverse_symbol_s": [
-        "S"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -107,18 +110,21 @@
         "facing each other"
     ],
     "issue_reverse_figure_description_s": [
-        "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, two standards"
+        "Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS"
+        "GLOR-IAEXERCITVS | SMANS"
     ],
     "issue_references_s": [
-        "RIC, VII 693 87"
+        "RIC VII Antioch 87"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "c33ecd3983bf205d"
     ],
-    "_version_": 1667138352507256832,
-    "timestamp": "2020-05-19T16:50:28.685Z"
+    "_version_": 1697437078163292160,
+    "timestamp": "2021-04-19T03:15:45.160Z"
 }

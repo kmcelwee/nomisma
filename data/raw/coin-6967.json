@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "4354"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -87,9 +84,12 @@
         "Jones pg. 416 3076"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "120 to 150"
+    ],
     "hashed_id_s": [
         "a18fe95fc84c0727"
     ],
-    "_version_": 1667138142642110464,
-    "timestamp": "2020-05-19T16:47:08.540Z"
+    "_version_": 1684903393569538048,
+    "timestamp": "2020-12-01T18:58:12.077Z"
 }

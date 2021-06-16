@@ -35,8 +35,11 @@
         "1.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5459\",\"call_number_browse\":\"Coin 5459\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -500,
     "pub_date_end_sort": -480,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "1871"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "BMC Mac. p. 80 29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-500 to -480"
+    ],
     "hashed_id_s": [
         "9e9ed3ea54140e94"
     ],
-    "_version_": 1667145313451769857,
-    "timestamp": "2020-05-19T18:42:23.265Z"
+    "_version_": 1684903353915539456,
+    "timestamp": "2020-12-01T18:57:34.259Z"
 }

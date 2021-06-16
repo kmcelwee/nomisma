@@ -50,6 +50,12 @@
         "12.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2851\",\"call_number_browse\":\"Coin 2851\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 1030,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1370"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,9 +121,12 @@
         "BMC.Byz. 477, Class I 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "4183b9c6c1d50b88"
     ],
-    "_version_": 1667138470439550976,
-    "timestamp": "2020-05-19T16:52:21.150Z"
+    "_version_": 1684903298183725056,
+    "timestamp": "2020-12-01T18:56:41.109Z"
 }

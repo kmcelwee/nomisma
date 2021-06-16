@@ -38,8 +38,14 @@
         "3.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10774\",\"call_number_browse\":\"Coin 10774\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Alex G. Malloy"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6933"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "SNS 3 Mint I (\u201c'Ctesiphon\u201d) Type Ib1/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "a9e4e6d541c077ca"
     ],
-    "_version_": 1667138286290731008,
-    "timestamp": "2020-05-19T16:49:25.535Z"
+    "_version_": 1684903029539602432,
+    "timestamp": "2020-12-01T18:52:24.912Z"
 }

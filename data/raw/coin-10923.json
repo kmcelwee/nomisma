@@ -35,8 +35,14 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10923\",\"call_number_browse\":\"Coin 10923\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 05/19/2004; 66 (883)"
     ],
     "pub_date_start_sort": 388,
     "pub_date_end_sort": 389,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7084"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 3 \"Western Group\" Type Ia2/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "388 to 389"
+    ],
     "hashed_id_s": [
         "0afdf8e9884a09b4"
     ],
-    "_version_": 1667138174472683520,
-    "timestamp": "2020-05-19T16:47:38.897Z"
+    "_version_": 1684902951059980288,
+    "timestamp": "2020-12-01T18:51:10.066Z"
 }

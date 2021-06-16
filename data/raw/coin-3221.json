@@ -35,16 +35,16 @@
         "4.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3221\",\"call_number_browse\":\"Coin 3221\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1965"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,6 +77,6 @@
     "hashed_id_s": [
         "99702e6b119ea785"
     ],
-    "_version_": 1667138481047994368,
-    "timestamp": "2020-05-19T16:52:31.274Z"
+    "_version_": 1684903303465402368,
+    "timestamp": "2020-12-01T18:56:46.147Z"
 }

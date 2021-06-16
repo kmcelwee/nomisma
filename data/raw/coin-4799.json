@@ -35,8 +35,11 @@
         "12.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4799\",\"call_number_browse\":\"Coin 4799\"}}",
-    "donor_s": [
-        "David Magie"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "81:  David Magie"
     ],
     "pub_date_start_sort": -39,
     "pub_date_end_sort": -39,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "cistophorius"
-    ],
-    "issue_number_s": [
-        "2623"
     ],
     "issue_metal_s": [
         "Silver"
@@ -110,9 +110,12 @@
         "Sear  1513"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-39 to -39"
+    ],
     "hashed_id_s": [
         "c25195179332d91c"
     ],
-    "_version_": 1667138240709132288,
-    "timestamp": "2020-05-19T16:48:42.063Z"
+    "_version_": 1684903004666331136,
+    "timestamp": "2020-12-01T18:52:01.189Z"
 }

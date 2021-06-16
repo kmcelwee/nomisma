@@ -35,6 +35,15 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2666\",\"call_number_browse\":\"Coin 2666\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Adolph E Cahn; 5/30/1932"
+    ],
     "pub_date_start_sort": -34,
     "pub_date_end_sort": -27,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "287"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +106,17 @@
         "Sear  1552"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, victory",
+        "Category, palm",
+        "Category, wreath"
+    ],
+    "issue_date_s": [
+        "-34 to -27"
+    ],
     "hashed_id_s": [
         "1b443e0a969496bc"
     ],
-    "_version_": 1667138405132140544,
-    "timestamp": "2020-05-19T16:51:18.869Z"
+    "_version_": 1684903179417812992,
+    "timestamp": "2020-12-01T18:54:47.846Z"
 }

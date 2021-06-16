@@ -38,6 +38,12 @@
         "9.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3512\",\"call_number_browse\":\"Coin 3512\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "241: 2001-05-19 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2057"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,6 +107,6 @@
     "hashed_id_s": [
         "671d26708c89d8f8"
     ],
-    "_version_": 1667138482154242048,
-    "timestamp": "2020-05-19T16:52:32.325Z"
+    "_version_": 1684903617625063424,
+    "timestamp": "2020-12-01T19:01:45.755Z"
 }

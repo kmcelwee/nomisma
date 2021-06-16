@@ -38,6 +38,12 @@
         "3.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12922\",\"call_number_browse\":\"Coin 12922\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 190,
     "pub_date_end_sort": 190,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8457"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +99,12 @@
         "Shore  438"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "190 to 190"
+    ],
     "hashed_id_s": [
         "195f250903fa9c3a"
     ],
-    "_version_": 1667138341080924160,
-    "timestamp": "2020-05-19T16:50:17.787Z"
+    "_version_": 1684903079019806720,
+    "timestamp": "2020-12-01T18:53:12.099Z"
 }

@@ -35,8 +35,11 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1767\",\"call_number_browse\":\"Coin 1767\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -379,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1149"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "BMC Mac. Macedonia 36-44"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -379"
+    ],
     "hashed_id_s": [
         "4d77206d845534d1"
     ],
-    "_version_": 1667138466806235136,
-    "timestamp": "2020-05-19T16:52:17.687Z"
+    "_version_": 1684903296467206144,
+    "timestamp": "2020-12-01T18:56:39.473Z"
 }

@@ -35,8 +35,11 @@
         "7.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1050\",\"call_number_browse\":\"Coin 1050\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 67,
     "pub_date_end_sort": 67,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "504"
     ],
     "issue_metal_s": [
         "Gold"
@@ -104,9 +104,12 @@
         "Sear  1932"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "67 to 67"
+    ],
     "hashed_id_s": [
         "497226d9a1740c58"
     ],
-    "_version_": 1667138457164578816,
-    "timestamp": "2020-05-19T16:52:08.492Z"
+    "_version_": 1684903220787281920,
+    "timestamp": "2020-12-01T18:55:27.298Z"
 }

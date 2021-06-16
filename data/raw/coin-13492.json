@@ -35,8 +35,11 @@
         "2.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13492\",\"call_number_browse\":\"Coin 13492\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -164,
@@ -92,9 +95,12 @@
         "H & L II, 87 1470"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -164"
+    ],
     "hashed_id_s": [
         "b0c2ef1ba40bcdfe"
     ],
-    "_version_": 1673108564548255744,
-    "timestamp": "2020-07-24T14:24:26.572Z"
+    "_version_": 1684903670146138112,
+    "timestamp": "2020-12-01T19:02:35.840Z"
 }

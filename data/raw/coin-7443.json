@@ -35,8 +35,11 @@
         "3.879"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7443\",\"call_number_browse\":\"Coin 7443\"}}",
-    "donor_s": [
-        "Miller"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "584:  Miller"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4662"
     ],
     "issue_metal_s": [
         "Silver"
@@ -118,6 +118,6 @@
     "hashed_id_s": [
         "0b4760f9e544e560"
     ],
-    "_version_": 1667138258287460352,
-    "timestamp": "2020-05-19T16:48:58.826Z"
+    "_version_": 1684903480187158528,
+    "timestamp": "2020-12-01T18:59:34.685Z"
 }

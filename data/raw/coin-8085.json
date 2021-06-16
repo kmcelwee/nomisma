@@ -50,6 +50,12 @@
         "5.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8085\",\"call_number_browse\":\"Coin 8085\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -37,
     "issue_object_type_s": [
@@ -111,9 +117,12 @@
         "RPC.1  4229"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -37"
+    ],
     "hashed_id_s": [
         "8228bd0993e4744f"
     ],
-    "_version_": 1674712125993385984,
-    "timestamp": "2020-08-11T07:12:21.933Z"
+    "_version_": 1684903658751262720,
+    "timestamp": "2020-12-01T19:02:24.974Z"
 }

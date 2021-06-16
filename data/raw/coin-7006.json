@@ -38,6 +38,9 @@
         "8.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7006\",\"call_number_browse\":\"Coin 7006\"}}",
+    "numismatic_provenance_s": [
+        "Rodgers; gift"
+    ],
     "pub_date_start_sort": 50,
     "pub_date_end_sort": 85,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "4373"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "Mitchiner vol. 8, pg. 683 1046"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "50 to 85"
+    ],
     "hashed_id_s": [
         "8cfa95e88b37e303"
     ],
-    "_version_": 1667138134808199168,
-    "timestamp": "2020-05-19T16:47:01.070Z"
+    "_version_": 1684903382628696064,
+    "timestamp": "2020-12-01T18:58:01.642Z"
 }

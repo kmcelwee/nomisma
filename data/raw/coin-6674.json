@@ -35,8 +35,11 @@
         "7.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6674\",\"call_number_browse\":\"Coin 6674\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Salton/Schlesinger; Sept. 1960; $27.50"
     ],
     "pub_date_start_sort": -302,
     "pub_date_end_sort": -231,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "4093"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "Vlasto Coll.  673-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-302 to -231"
+    ],
     "hashed_id_s": [
         "6cfd8ec73ad8b05c"
     ],
-    "_version_": 1667138254710767616,
-    "timestamp": "2020-05-19T16:48:55.418Z"
+    "_version_": 1684903126632497152,
+    "timestamp": "2020-12-01T18:53:57.505Z"
 }

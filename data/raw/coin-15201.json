@@ -35,8 +35,14 @@
         "23.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15201\",\"call_number_browse\":\"Coin 15201\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
+    ],
+    "numismatic_provenance_s": [
+        "E.C. Pomeroy; ; "
     ],
     "pub_date_start_sort": 158,
     "pub_date_end_sort": 159,
@@ -46,17 +52,14 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "9358"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -74,26 +77,47 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG-PIVS  P P TR P XXII"
+        "ANTONINVS AVG PIVS P P TR P XXII"
     ],
     "issue_reverse_figure_s": [
-        "Antoninus, veiled and togate, standing facing, head l., with right, sacrificing from patera over tripod-altar; in left hand, rotulus; to l-r., S - C; in ex. COS IIII"
+        "Emperor"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "sacrificing with patera over tripod, l. arm at side"
     ],
     "issue_reverse_legend_s": [
-        "VOTA SVSCE-PTA DEC III"
+        "VOTA SVSCEPTA DEC III COS IIII S C"
     ],
     "issue_references_s": [
-        "BMC.1 353 2068",
-        "RIC 150 1010",
-        "Strack 1171 "
+        "RIC III  Antoninus Pius 1010",
+        "Strack  1171",
+        "BMC.4 353 2068"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "158 to 159"
+    ],
     "hashed_id_s": [
         "42d58185c5d49054"
     ],
-    "_version_": 1667144699518910464,
-    "timestamp": "2020-05-19T18:31:21.711Z"
+    "_version_": 1684903348340260864,
+    "timestamp": "2020-12-01T18:57:28.943Z"
 }

@@ -32,19 +32,19 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1929\",\"call_number_browse\":\"Coin 1929\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1662,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1258"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Shun Zhi \u987a\u6cbb (1638 to 1661)"
@@ -79,9 +79,12 @@
         "Coole 68 117B"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1662"
+    ],
     "hashed_id_s": [
         "8a0089f97a9dc307"
     ],
-    "_version_": 1667138215501365248,
-    "timestamp": "2020-05-19T16:48:18.023Z"
+    "_version_": 1684902990849245184,
+    "timestamp": "2020-12-01T18:51:48.013Z"
 }

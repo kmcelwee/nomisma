@@ -35,8 +35,11 @@
         "1.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6257\",\"call_number_browse\":\"Coin 6257\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1458,
     "pub_date_end_sort": 1479,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/2 real"
-    ],
-    "issue_number_s": [
-        "3694"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Cast\u00e1n y Cay\u00f3n  var. 1706"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1458 to 1479"
+    ],
     "hashed_id_s": [
         "5084f79280f81593"
     ],
-    "_version_": 1667138252333645824,
-    "timestamp": "2020-05-19T16:48:53.151Z"
+    "_version_": 1684903010839298048,
+    "timestamp": "2020-12-01T18:52:07.076Z"
 }

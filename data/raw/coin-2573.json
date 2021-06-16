@@ -38,8 +38,11 @@
         "3.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2573\",\"call_number_browse\":\"Coin 2573\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -246,
@@ -100,9 +103,16 @@
         "Houghton  601v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod"
+    ],
+    "issue_date_s": [
+        "-261 to -246"
+    ],
     "hashed_id_s": [
         "b857c23921cdd22a"
     ],
-    "_version_": 1673104741432819712,
-    "timestamp": "2020-07-24T13:23:40.562Z"
+    "_version_": 1684903668943421440,
+    "timestamp": "2020-12-01T19:02:34.693Z"
 }

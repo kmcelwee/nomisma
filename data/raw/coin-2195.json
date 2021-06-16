@@ -35,19 +35,19 @@
         "3.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2195\",\"call_number_browse\":\"Coin 2195\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": -293,
-    "pub_date_end_sort": -280,
+    "numismatic_accession_s": [
+        "79:  J.C. Wilson"
+    ],
+    "pub_date_start_sort": -295,
+    "pub_date_end_sort": -281,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1431"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,8 +101,8 @@
         "\u03a3\u0395\u0391\u0395\u03a5\u039a\u039f\u03a5 | \u0392\u0391\u03a3\u0399\u0391\u0395\u03a9\u03a3"
     ],
     "issue_reverse_attributes_s": [
-        "m1431, beneath throne",
-        "m1431a, in l. field above anchor",
+        "monogram, beneath throne",
+        "monogram, in l. field, above anchor",
         "eagle, in outstretched r. hand",
         "sceptre, in l. hand"
     ],
@@ -112,9 +112,17 @@
         "Houghton  1132v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Hercules",
+        "Other Person, Zeus",
+        "Animal, eagle"
+    ],
+    "issue_date_s": [
+        "-295 to -281"
+    ],
     "hashed_id_s": [
         "987c7806f8e90aaf"
     ],
-    "_version_": 1667138112923369472,
-    "timestamp": "2020-05-19T16:46:40.199Z"
+    "_version_": 1684903659157061632,
+    "timestamp": "2020-12-01T19:02:25.362Z"
 }

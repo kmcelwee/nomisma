@@ -35,8 +35,11 @@
         "17.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 510\",\"call_number_browse\":\"Coin 510\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -330,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "229"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "Monogram in l. field"
     ],
     "issue_monogram_1display": "[{\"title\":\"Monogram in l. field\",\"document_id\":\"f2e7727e-e849-4f34-a415-d626b6544427\"}]",
+    "issue_date_s": [
+        "-330 to -320"
+    ],
     "hashed_id_s": [
         "77fa64050455ca76"
     ],
-    "_version_": 1667138202734952448,
-    "timestamp": "2020-05-19T16:48:05.849Z"
+    "_version_": 1684903439195176960,
+    "timestamp": "2020-12-01T18:58:55.588Z"
 }

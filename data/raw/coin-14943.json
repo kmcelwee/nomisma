@@ -35,8 +35,11 @@
         "31.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14943\",\"call_number_browse\":\"Coin 14943\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1979,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2nd Grade"
-    ],
-    "issue_number_s": [
-        "9158"
     ],
     "issue_metal_s": [
         "Silvered"
@@ -84,9 +84,12 @@
         "World Orders of Knighthood and Merit  1069"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1979 to "
+    ],
     "hashed_id_s": [
         "841d6ecc499ee782"
     ],
-    "_version_": 1667696318451023872,
-    "timestamp": "2020-05-25T20:39:06.474Z"
+    "_version_": 1684902907222163456,
+    "timestamp": "2020-12-01T18:50:28.258Z"
 }

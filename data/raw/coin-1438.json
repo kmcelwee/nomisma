@@ -38,8 +38,11 @@
         "17.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1438\",\"call_number_browse\":\"Coin 1438\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -169,
     "pub_date_end_sort": -158,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "838"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,10 +77,10 @@
         "head"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate head of Janus; above, l."
+        "laureate; above, legend."
     ],
-    "issue_obverse_attributes_s": [
-        "l, Above head of Janus"
+    "issue_obverse_legend_s": [
+        "I"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -89,11 +89,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Prow r.; above, monogram; below, l."
+        "above, monogram; before, l; below, legend."
+    ],
+    "issue_reverse_legend_s": [
+        "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "l, Below prow",
-        "m1438, Monogram above prow"
+        "m1438, Above prow"
     ],
     "issue_references_s": [
         "RRC  186/1",
@@ -101,9 +103,12 @@
         "Sear  700"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-169 to -158"
+    ],
     "hashed_id_s": [
         "985af0b7689d6356"
     ],
-    "_version_": 1667138463507415040,
-    "timestamp": "2020-05-19T16:52:14.540Z"
+    "_version_": 1684903606592995328,
+    "timestamp": "2020-12-01T19:01:35.233Z"
 }

@@ -32,19 +32,22 @@
         "12.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1452\",\"call_number_browse\":\"Coin 1452\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1760,
     "pub_date_end_sort": 1911,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "852"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Tian Di Hui (Anti-Qing Rebel Society\uff09 \u5929\u5730\u6703 (1760 to )"
@@ -68,9 +71,12 @@
         " 16 58v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1760 to 1911"
+    ],
     "hashed_id_s": [
         "baa436e3a75262e6"
     ],
-    "_version_": 1667138211511533568,
-    "timestamp": "2020-05-19T16:48:14.217Z"
+    "_version_": 1684903097159122944,
+    "timestamp": "2020-12-01T18:53:29.398Z"
 }

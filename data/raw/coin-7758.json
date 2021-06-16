@@ -35,8 +35,8 @@
         "5.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7758\",\"call_number_browse\":\"Coin 7758\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -370,
     "pub_date_end_sort": -250,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "4836"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +83,12 @@
         "Catalogue of Greek Coins - Peloponnesus 50 170"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-370 to -250"
+    ],
     "hashed_id_s": [
         "0b5d1517a90ca6a3"
     ],
-    "_version_": 1667138261886173184,
-    "timestamp": "2020-05-19T16:49:02.266Z"
+    "_version_": 1684903483799502848,
+    "timestamp": "2020-12-01T18:59:38.129Z"
 }

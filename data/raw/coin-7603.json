@@ -2,7 +2,7 @@
     "id": "coin-7603",
     "title_display": "Coin: 7603",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7603"
@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "April 27, 1934"
+        "1934-04-27"
     ],
     "find_feature_s": [
-        "Trial trench 3"
+        "Surface"
     ],
     "find_locus_s": [
-        "7-O -47"
+        "DS 7-O 47"
     ],
     "find_number_s": [
         "C2656"
-    ],
-    "find_description_s": [
-        "Surface"
     ],
     "die_axis_s": [
         "6"
@@ -56,6 +53,12 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7603\",\"call_number_browse\":\"Coin 7603\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -64,14 +67,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4744"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -110,18 +110,21 @@
         "facing each other"
     ],
     "issue_reverse_figure_description_s": [
-        "Two soldiers stg. facing each other, each holding reversed spear ans resting hand on shield set on ground; between them, two standards"
+        "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS"
+        "GLOR-IA EXERCITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC, VII 7 693.87"
+        "RIC VII Antioch 87"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "00ed943e5b766fba"
     ],
-    "_version_": 1667138331167686656,
-    "timestamp": "2020-05-19T16:50:08.332Z"
+    "_version_": 1690702539889049600,
+    "timestamp": "2021-02-03T19:13:08.973Z"
 }

@@ -47,6 +47,9 @@
         "4.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7906\",\"call_number_browse\":\"Coin 7906\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 643,
     "pub_date_end_sort": 644,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4963"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +113,12 @@
         "Sear  1002"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "643 to 644"
+    ],
     "hashed_id_s": [
         "81872b097e72ea8a"
     ],
-    "_version_": 1667138264048336896,
-    "timestamp": "2020-05-19T16:49:04.322Z"
+    "_version_": 1684903485638705152,
+    "timestamp": "2020-12-01T18:59:39.881Z"
 }

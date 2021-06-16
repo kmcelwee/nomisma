@@ -2,7 +2,7 @@
     "id": "coin-8199",
     "title_display": "Coin: 8199",
     "pub_created_display": [
-        "Constantius I Chlorus (293 to 306), Antioch"
+        "Diocletian   (284 to 305), fractional, Antioch"
     ],
     "call_number_display": [
         "Coin 8199"
@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/16/1937"
+        "04/16/1937"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca406"
+        "Ca0406"
     ],
     "find_description_s": [
-        "Central room with apse to 3M"
+        "Central room with apse, to 3m"
     ],
     "die_axis_s": [
         "6"
@@ -50,19 +50,28 @@
         "2.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8199\",\"call_number_browse\":\"Coin 8199\"}}",
-    "pub_date_start_sort": 295,
-    "pub_date_end_sort": 299,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 296,
+    "pub_date_end_sort": 296,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "5208"
+    "issue_denomination_s": [
+        "fractional"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Constantius I Chlorus (293 to 306)"
+        "Diocletian   (284 to 305)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -77,7 +86,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Emperor"
+        "Head of Constantius Chlorus"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -85,30 +94,44 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "radiate, draped, cuirassed"
+    ],
+    "issue_obverse_figure_relationship_s": [
+        "seen from behind"
+    ],
     "issue_obverse_legend_s": [
-        "CONCORDIAMILITUM"
+        "FL VAL CONSTANTIVS NOB CAES"
     ],
     "issue_reverse_figure_s": [
-        "Soldiers"
+        "Emperor"
     ],
     "issue_reverse_part_s": [
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "center"
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "receiving small Victory on globe from Jupiter"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "opposite Jupiter, standing left, leaning on sceptre"
     ],
     "issue_reverse_legend_s": [
-        "FLVAL []"
+        "CONCORDIA MIL-ITVM"
     ],
     "issue_references_s": [
-        "Waage p.113 1327",
-        "RIC VI  ",
-        "RIC VI.,p.581 15"
+        "RIC VI  Antioch 61a",
+        "Waage  1327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "296 to 296"
+    ],
     "hashed_id_s": [
         "b2072c2e4b100db0"
     ],
-    "_version_": 1667138347829559296,
-    "timestamp": "2020-05-19T16:50:24.221Z"
+    "_version_": 1684903670934667264,
+    "timestamp": "2020-12-01T19:02:36.594Z"
 }

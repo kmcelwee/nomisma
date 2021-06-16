@@ -35,8 +35,11 @@
         "3.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4171\",\"call_number_browse\":\"Coin 4171\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2377"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,14 +80,15 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, wearing elephant's skin; to r., ear of corn; plough beneath; border of dots"
+        "laureate, wearing elephant's skin; on r., corn-ear; below, plough; on far r., Q.METELL downwards; on l., SCIPIO.IMP upwards"
     ],
     "issue_obverse_legend_s": [
-        "Q METELL | SCI\u0393IO IM\u0393"
+        "Q.METELL SCIPIO.IMP"
     ],
     "issue_obverse_attributes_s": [
-        "ear of corn, to right",
-        "plough, beneath head"
+        "corn-ear, to right",
+        "plough, below head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Hercules"
@@ -99,13 +100,14 @@
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "r. hand on hip, l. arm on club draped with lionskin and resting on a rock; border of dots"
+        "with r. hand on hip and resting l. arm on club draped with lionskin, club resting on a rock"
     ],
     "issue_reverse_legend_s": [
-        "E\u0393\u0393IVS | LEG F C"
+        "EPPIVS LEG.F.C"
     ],
     "issue_reverse_attributes_s": [
-        "club, under left arm, draped with lionskin, on rock"
+        "club, under left arm, draped with lionskin, on rock",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  461/1",
@@ -113,9 +115,12 @@
         "Sear  1380"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "9e2c8537390ce4f2"
     ],
-    "_version_": 1667138484201062400,
-    "timestamp": "2020-05-19T16:52:34.275Z"
+    "_version_": 1684903618911666176,
+    "timestamp": "2020-12-01T19:01:46.980Z"
 }

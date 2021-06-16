@@ -26,22 +26,19 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, Syria, Roman Empire"
     ],
     "find_date_s": [
-        "8/2/1939"
+        "1939-08-02"
     ],
     "find_feature_s": [
-        "trench 4"
+        "Continuation of trench N of apse building, .57-1.1m"
     ],
     "find_locus_s": [
-        "15-M"
+        "A 15-M"
     ],
     "find_number_s": [
         "Cc2739"
-    ],
-    "find_description_s": [
-        "Continuation of Trench N of apse bldg .57-1.10M"
     ],
     "die_axis_s": [
         "10"
@@ -53,16 +50,19 @@
         "2.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8578\",\"call_number_browse\":\"Coin 8578\"}}",
-    "pub_date_start_sort": 305,
-    "pub_date_end_sort": 306,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 317,
+    "pub_date_end_sort": 320,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5476"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,18 +107,21 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter standing l., chlamys across l. shoulder, leaning on sceptre, holding vVictory on globe; to left, captive"
+        "Jupiter standing l., chlamys across l. shoulder, leaning on sceptre, holding Victory on globe; to left, captive"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSER-ERVATORI CAESS | ANT"
+        "IOVI CONSER-VATORI CAESS | ANT"
     ],
     "issue_references_s": [
-        "RIC 7 680.29"
+        "RIC VII Antioch 29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "d66725471a278156"
     ],
-    "_version_": 1667138269190553600,
-    "timestamp": "2020-05-19T16:49:09.226Z"
+    "_version_": 1684903672211832832,
+    "timestamp": "2020-12-01T19:02:37.812Z"
 }

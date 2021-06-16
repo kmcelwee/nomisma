@@ -35,6 +35,9 @@
         "1.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8665\",\"call_number_browse\":\"Coin 8665\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1805,
     "pub_date_end_sort": 1814,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "5 soldi"
-    ],
-    "issue_number_s": [
-        "5542"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "CNI V., p.429 89"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1805 to 1814"
+    ],
     "hashed_id_s": [
         "0aca7a80e172576d"
     ],
-    "_version_": 1667138157662961664,
-    "timestamp": "2020-05-19T16:47:22.865Z"
+    "_version_": 1684902920793882624,
+    "timestamp": "2020-12-01T18:50:41.203Z"
 }

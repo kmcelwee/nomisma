@@ -35,6 +35,9 @@
         "6.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1316\",\"call_number_browse\":\"Coin 1316\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -315,
     "pub_date_end_sort": -294,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "738"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "SNG-Alpha Bank  391v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-315 to -294"
+    ],
     "hashed_id_s": [
         "dbc1c4acfbed7f72"
     ],
-    "_version_": 1667138461500440576,
-    "timestamp": "2020-05-19T16:52:12.626Z"
+    "_version_": 1684903293977886720,
+    "timestamp": "2020-12-01T18:56:37.099Z"
 }

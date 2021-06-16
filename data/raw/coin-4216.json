@@ -35,8 +35,11 @@
         "3.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4216\",\"call_number_browse\":\"Coin 4216\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2384"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Sear  441"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "cba6ba47e200b6c2"
     ],
-    "_version_": 1667138233950011392,
-    "timestamp": "2020-05-19T16:48:35.619Z"
+    "_version_": 1684903459681206272,
+    "timestamp": "2020-12-01T18:59:15.126Z"
 }

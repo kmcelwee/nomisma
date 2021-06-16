@@ -35,6 +35,12 @@
         "3.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5820\",\"call_number_browse\":\"Coin 5820\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 pfennig"
-    ],
-    "issue_number_s": [
-        "3352"
     ],
     "issue_metal_s": [
         "Copper"
@@ -80,6 +83,6 @@
     "hashed_id_s": [
         "37a4c2190f0e1664"
     ],
-    "_version_": 1667145226937958400,
-    "timestamp": "2020-05-19T18:41:08.662Z"
+    "_version_": 1684903471978905600,
+    "timestamp": "2020-12-01T18:59:26.852Z"
 }

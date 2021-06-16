@@ -35,8 +35,8 @@
         "13.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3973\",\"call_number_browse\":\"Coin 3973\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2277"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +96,12 @@
         "Sear Justin I 62"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "20188b32acc48258"
     ],
-    "_version_": 1667138486063333376,
-    "timestamp": "2020-05-19T16:52:36.052Z"
+    "_version_": 1684903306253565952,
+    "timestamp": "2020-12-01T18:56:48.806Z"
 }

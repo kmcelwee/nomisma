@@ -35,16 +35,13 @@
         "244.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9795\",\"call_number_browse\":\"Coin 9795\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": 1444,
     "pub_date_end_sort": 1462,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "6180"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +80,12 @@
         "Antonio Marescotti"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1444 to 1462"
+    ],
     "hashed_id_s": [
         "fdaea7ecd0a6916f"
     ],
-    "_version_": 1667138258533875712,
-    "timestamp": "2020-05-19T16:48:59.062Z"
+    "_version_": 1684903480325570560,
+    "timestamp": "2020-12-01T18:59:34.814Z"
 }

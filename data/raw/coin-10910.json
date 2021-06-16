@@ -35,8 +35,14 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10910\",\"call_number_browse\":\"Coin 10910\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "John Yeroushalmi; 02/12/2012"
     ],
     "pub_date_start_sort": 388,
     "pub_date_end_sort": 389,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7071"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 AYL Type Ia3/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "388 to 389"
+    ],
     "hashed_id_s": [
         "be773208d7a0f0ec"
     ],
-    "_version_": 1667138178052521984,
-    "timestamp": "2020-05-19T16:47:42.313Z"
+    "_version_": 1684902954858971136,
+    "timestamp": "2020-12-01T18:51:13.690Z"
 }

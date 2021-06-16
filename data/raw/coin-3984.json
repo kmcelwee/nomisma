@@ -35,8 +35,8 @@
         "15.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3984\",\"call_number_browse\":\"Coin 3984\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2289"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +95,12 @@
         " Justin I 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "19e33a7213660d58"
     ],
-    "_version_": 1667138402164670464,
-    "timestamp": "2020-05-19T16:51:16.042Z"
+    "_version_": 1684903177082634240,
+    "timestamp": "2020-12-01T18:54:45.619Z"
 }

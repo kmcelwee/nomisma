@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "10/23/1934"
@@ -50,6 +50,12 @@
         "2.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13521\",\"call_number_browse\":\"Coin 13521\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -223,
     "pub_date_end_sort": -213,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5002"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,9 +121,12 @@
         "H & L  1050"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-223 to -213"
+    ],
     "hashed_id_s": [
         "0fdca70d80194367"
     ],
-    "_version_": 1670005241157779456,
-    "timestamp": "2020-06-20T08:18:26.773Z"
+    "_version_": 1684902891764056064,
+    "timestamp": "2020-12-01T18:50:13.518Z"
 }

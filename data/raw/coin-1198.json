@@ -32,16 +32,13 @@
         "1.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1198\",\"call_number_browse\":\"Coin 1198\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1899,
     "pub_date_end_sort": 1901,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "645"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,9 +71,12 @@
         "Jen 289 1692"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1899 to 1901"
+    ],
     "hashed_id_s": [
         "f3f5f78a3a453532"
     ],
-    "_version_": 1667138409341124608,
-    "timestamp": "2020-05-19T16:51:22.883Z"
+    "_version_": 1684903275921408000,
+    "timestamp": "2020-12-01T18:56:19.878Z"
 }

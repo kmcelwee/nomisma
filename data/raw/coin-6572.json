@@ -38,8 +38,8 @@
         "0.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6572\",\"call_number_browse\":\"Coin 6572\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1452,
     "pub_date_end_sort": 1516,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dinero"
-    ],
-    "issue_number_s": [
-        "3986"
     ],
     "issue_metal_s": [
         "Copper"
@@ -89,9 +86,12 @@
         "Cast\u00e1n y Cay\u00f3n p. 366 2127"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1452 to 1516"
+    ],
     "hashed_id_s": [
         "a87bed67554605c4"
     ],
-    "_version_": 1667138371461316608,
-    "timestamp": "2020-05-19T16:50:46.759Z"
+    "_version_": 1684903257983418368,
+    "timestamp": "2020-12-01T18:56:02.773Z"
 }

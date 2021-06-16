@@ -35,8 +35,14 @@
         "65.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14027\",\"call_number_browse\":\"Coin 14027\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke; ; "
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Grand Cross"
-    ],
-    "issue_number_s": [
-        "9050"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -86,9 +89,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia 1:266-68 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "3f405c82ede2b3e2"
     ],
-    "_version_": 1667138328885985280,
-    "timestamp": "2020-05-19T16:50:06.155Z"
+    "_version_": 1684903523683139584,
+    "timestamp": "2020-12-01T19:00:16.163Z"
 }

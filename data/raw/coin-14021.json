@@ -35,8 +35,11 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14021\",\"call_number_browse\":\"Coin 14021\"}}",
-    "donor_s": [
-        "David R. Winans"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "606:  David R. Winans"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "triobol"
-    ],
-    "issue_number_s": [
-        "9044"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,6 +95,6 @@
     "hashed_id_s": [
         "4c2d6f0550f6a67b"
     ],
-    "_version_": 1667310756977180672,
-    "timestamp": "2020-05-21T14:30:46.399Z"
+    "_version_": 1684903658381115392,
+    "timestamp": "2020-12-01T19:02:24.623Z"
 }

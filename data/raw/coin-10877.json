@@ -38,8 +38,14 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10877\",\"call_number_browse\":\"Coin 10877\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "John Yeroushalmi; 05/08/2013"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7038"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 3  Mint III Hybrid: Obv. Type 1b1/rev. type 2b of Wahram IV, unsigned mint F"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "ef0b00f58c2efd94"
     ],
-    "_version_": 1667138176867631104,
-    "timestamp": "2020-05-19T16:47:41.179Z"
+    "_version_": 1684902952865628160,
+    "timestamp": "2020-12-01T18:51:11.788Z"
 }

@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "obol"
     ],
-    "issue_number_s": [
-        "4664"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +83,12 @@
         "Catalogue of Greek Coins - Peloponnesus 44 102v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "b83b754b62e2b472"
     ],
-    "_version_": 1667138257596448768,
-    "timestamp": "2020-05-19T16:48:58.170Z"
+    "_version_": 1684903417396330496,
+    "timestamp": "2020-12-01T18:58:34.800Z"
 }

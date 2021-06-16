@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1937"
-    ],
-    "find_feature_s": [
-        "Cross trench near painted floor 3.50 to 4.50M."
+        "05/13/1937"
     ],
     "find_locus_s": [
         "DH 28-O"
     ],
     "find_number_s": [
-        "Ca932"
+        "Ca0932"
     ],
     "find_description_s": [
-        "Feature (con't): Basket \u0394"
+        "Cross trench near painted floor, 3.5m to 4.5m (basket Delta)"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "7.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3942\",\"call_number_browse\":\"Coin 3942\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -61,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2265"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -95,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -109,16 +112,16 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above"
-    ],
     "issue_references_s": [
         "RPC.1  4266, 4268-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "5 to 14"
+    ],
     "hashed_id_s": [
         "c79df44c4150451a"
     ],
-    "_version_": 1667138486926311424,
-    "timestamp": "2020-05-19T16:52:36.875Z"
+    "_version_": 1684903694071496704,
+    "timestamp": "2020-12-01T19:02:58.658Z"
 }

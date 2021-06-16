@@ -2,7 +2,7 @@
     "id": "coin-9295",
     "title_display": "Coin: 9295",
     "pub_created_display": [
-        "Tiberius, sestertius, Rome"
+        "Tiberius   (14 to 37), sestertius, Rome"
     ],
     "call_number_display": [
         "Coin 9295"
@@ -35,8 +35,8 @@
         "27.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9295\",\"call_number_browse\":\"Coin 9295\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 23,
     "pub_date_end_sort": 23,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "5921"
-    ],
     "issue_metal_s": [
         "Brass"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Rome, Italy, Roman Empire"
@@ -100,9 +97,12 @@
         "Sear  1793"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "23 to 23"
+    ],
     "hashed_id_s": [
         "d2b2345333d53b71"
     ],
-    "_version_": 1667138154478436352,
-    "timestamp": "2020-05-19T16:47:19.828Z"
+    "_version_": 1684902919061635072,
+    "timestamp": "2020-12-01T18:50:39.550Z"
 }

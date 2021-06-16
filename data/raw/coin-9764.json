@@ -32,8 +32,11 @@
         "94x71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9764\",\"call_number_browse\":\"Coin 9764\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "3 dollars"
-    ],
-    "issue_number_s": [
-        "3683"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "25ae32e6e070822d"
     ],
-    "_version_": 1667145458005311488,
-    "timestamp": "2020-05-19T18:43:25.013Z"
+    "_version_": 1684903444805058560,
+    "timestamp": "2020-12-01T18:59:00.940Z"
 }

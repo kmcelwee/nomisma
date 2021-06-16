@@ -35,8 +35,11 @@
         "6.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1058\",\"call_number_browse\":\"Coin 1058\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -214,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "511"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Italy"
@@ -59,16 +62,16 @@
         "Italy"
     ],
     "issue_obverse_figure_s": [
-        "Janus"
+        "Dioscuri"
     ],
     "issue_obverse_part_s": [
-        "head"
+        "heads"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate"
+        "laureate, Janiform"
     ],
     "issue_obverse_attributes_s": [
-        "dots, border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -80,13 +83,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "in quadriga w thunderbolt & scepter"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Victory behind"
+        "in quadriga, driven by Victory"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in l. hand",
+        "thunderbolt, in r. hand"
     ],
     "issue_references_s": [
         "RRC  30/1",
@@ -94,9 +98,16 @@
         "Sear  31v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Janus",
+        "Other Person, Jupiter"
+    ],
+    "issue_date_s": [
+        "-225 to -214"
+    ],
     "hashed_id_s": [
         "0fa2ed16f5db4145"
     ],
-    "_version_": 1667145480569618432,
-    "timestamp": "2020-05-19T19:01:12.362Z"
+    "_version_": 1684903696281894912,
+    "timestamp": "2020-12-01T19:03:00.765Z"
 }

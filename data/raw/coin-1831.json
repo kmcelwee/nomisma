@@ -35,8 +35,11 @@
         "5.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1831\",\"call_number_browse\":\"Coin 1831\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 174,
     "pub_date_end_sort": 150,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1197"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,7 +77,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "draped, wearign turreted crown and earring; hair in chignon, with long plait behind; behind head, letters; border of dots"
+        "draped, wearing turreted crown and earring; hair in chignon, with long plait behind; behind head, letters; border of dots"
     ],
     "issue_reverse_figure_s": [
         "Rudder"
@@ -96,9 +96,12 @@
         "BMC.Phoen  5958"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "174 to 150"
+    ],
     "hashed_id_s": [
         "9b9c643c6e8d6643"
     ],
-    "_version_": 1667138416239706112,
-    "timestamp": "2020-05-19T16:51:29.462Z"
+    "_version_": 1684903191277207552,
+    "timestamp": "2020-12-01T18:54:59.156Z"
 }

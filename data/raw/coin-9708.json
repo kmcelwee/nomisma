@@ -32,8 +32,11 @@
         "79x93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9708\",\"call_number_browse\":\"Coin 9708\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 Shillings and Sixpence"
-    ],
-    "issue_number_s": [
-        "6143"
     ],
     "issue_metal_s": [
         "Paper"
@@ -84,6 +84,6 @@
     "hashed_id_s": [
         "2817cf763aee60b8"
     ],
-    "_version_": 1667146652930015232,
-    "timestamp": "2020-05-19T19:12:25.146Z"
+    "_version_": 1684903495031848960,
+    "timestamp": "2020-12-01T18:59:48.838Z"
 }

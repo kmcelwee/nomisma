@@ -38,8 +38,11 @@
         "7.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2135\",\"call_number_browse\":\"Coin 2135\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1401"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -111,9 +111,12 @@
         "Amandry XXIV pp. 232-234"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "976d509d9b487ae5"
     ],
-    "_version_": 1667138472192770048,
-    "timestamp": "2020-05-19T16:52:22.824Z"
+    "_version_": 1684903612618113024,
+    "timestamp": "2020-12-01T19:01:40.978Z"
 }

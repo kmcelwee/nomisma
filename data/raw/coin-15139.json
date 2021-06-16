@@ -29,6 +29,9 @@
         "Phillips book, https://catalog.princeton.edu/catalog/664551, inserted between pp. 290 and 291"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15139\",\"call_number_browse\":\"Coin 15139\"}}",
+    "numismatic_collection_s": [
+        "Phillips"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "30 shillings"
-    ],
-    "issue_number_s": [
-        "9298"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,9 +80,12 @@
         "Newman  p254"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "632c577c4823f2e3"
     ],
-    "_version_": 1667144825752780800,
-    "timestamp": "2020-05-19T18:33:22.109Z"
+    "_version_": 1684903328917487616,
+    "timestamp": "2020-12-01T18:57:10.421Z"
 }

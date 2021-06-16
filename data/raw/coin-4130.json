@@ -50,6 +50,12 @@
         "4.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4130\",\"call_number_browse\":\"Coin 4130\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "2322"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Sear  107"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "276930ea5382cb3b"
     ],
-    "_version_": 1667138489943064576,
-    "timestamp": "2020-05-19T16:52:39.754Z"
+    "_version_": 1684903625702244352,
+    "timestamp": "2020-12-01T19:01:53.457Z"
 }

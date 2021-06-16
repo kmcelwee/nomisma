@@ -35,8 +35,14 @@
         "3.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11112\",\"call_number_browse\":\"Coin 11112\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Baldwin's Auctions, London; 10/11/2004; 39 (1415)"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE-\"\u0394\""
-    ],
-    "issue_number_s": [
-        "7272"
     ],
     "issue_metal_s": [
         "\"bronze dachm\""
@@ -86,9 +89,12 @@
         "SNS 3 Uncertain Mint Type Ib/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "ba6eed7fc0ffb991"
     ],
-    "_version_": 1667138162716049408,
-    "timestamp": "2020-05-19T16:47:27.683Z"
+    "_version_": 1684902935200268288,
+    "timestamp": "2020-12-01T18:50:54.943Z"
 }

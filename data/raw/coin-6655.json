@@ -35,8 +35,11 @@
         "5.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6655\",\"call_number_browse\":\"Coin 6655\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 reales"
-    ],
-    "issue_number_s": [
-        "4079"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,6 +94,6 @@
     "hashed_id_s": [
         "72af9c2fc2062595"
     ],
-    "_version_": 1667138368670007296,
-    "timestamp": "2020-05-19T16:50:44.098Z"
+    "_version_": 1684903105269858304,
+    "timestamp": "2020-12-01T18:53:37.133Z"
 }

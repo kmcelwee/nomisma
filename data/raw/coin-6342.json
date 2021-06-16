@@ -29,6 +29,9 @@
         "63x95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6342\",\"call_number_browse\":\"Coin 6342\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "4 dollars"
-    ],
-    "issue_number_s": [
-        "3774"
     ],
     "issue_metal_s": [
         "Paper"
@@ -65,6 +65,6 @@
     "hashed_id_s": [
         "d2f428ff87260712"
     ],
-    "_version_": 1667138372578050048,
-    "timestamp": "2020-05-19T16:50:47.823Z"
+    "_version_": 1684903550424973312,
+    "timestamp": "2020-12-01T19:00:41.666Z"
 }

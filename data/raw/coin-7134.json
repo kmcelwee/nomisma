@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4461"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,12 +92,15 @@
         "IOVI CONSERVATORI AVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC 8 638 147d"
+        "RIC VIII 638 147d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 311"
+    ],
     "hashed_id_s": [
         "9dfd013bc5e7c587"
     ],
-    "_version_": 1667138359405838336,
-    "timestamp": "2020-05-19T16:50:35.263Z"
+    "_version_": 1684903089537024000,
+    "timestamp": "2020-12-01T18:53:22.128Z"
 }

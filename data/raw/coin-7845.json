@@ -50,6 +50,12 @@
         "1.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7845\",\"call_number_browse\":\"Coin 7845\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 752,
     "pub_date_end_sort": 753,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4906"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +99,12 @@
         "Katalog der orientalischen M\u00fcnzen  2074"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "752 to 753"
+    ],
     "hashed_id_s": [
         "04f6cffe8c2b7911"
     ],
-    "_version_": 1667138263214718976,
-    "timestamp": "2020-05-19T16:49:03.529Z"
+    "_version_": 1684902997248704512,
+    "timestamp": "2020-12-01T18:51:54.117Z"
 }

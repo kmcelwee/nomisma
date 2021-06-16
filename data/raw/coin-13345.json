@@ -35,8 +35,11 @@
         "3.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13345\",\"call_number_browse\":\"Coin 13345\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8630"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -112,9 +112,12 @@
         "H & L II, 24 1332"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "edba73dd4d09f03b"
     ],
-    "_version_": 1667138343406665728,
-    "timestamp": "2020-05-19T16:50:20.004Z"
+    "_version_": 1684903086347255808,
+    "timestamp": "2020-12-01T18:53:19.088Z"
 }

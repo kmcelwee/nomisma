@@ -2,7 +2,7 @@
     "id": "coin-9419",
     "title_display": "Coin: 9419",
     "pub_created_display": [
-        "Tiberius, dupondius, Romula"
+        "Tiberius   (14 to 37), dupondius, Romula"
     ],
     "call_number_display": [
         "Coin 9419"
@@ -35,8 +35,8 @@
         "21.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9419\",\"call_number_browse\":\"Coin 9419\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 37,
@@ -46,14 +46,11 @@
     "issue_denomination_s": [
         "dupondius"
     ],
-    "issue_number_s": [
-        "6035"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Romula, Spain, Roman Empire"
@@ -107,9 +104,12 @@
         "RPC  73"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "bc3b6e2360f5bb0d"
     ],
-    "_version_": 1667138275403366400,
-    "timestamp": "2020-05-19T16:49:15.150Z"
+    "_version_": 1684903493695963136,
+    "timestamp": "2020-12-01T18:59:47.565Z"
 }

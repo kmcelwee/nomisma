@@ -35,8 +35,11 @@
         "1.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2576\",\"call_number_browse\":\"Coin 2576\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "148:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -246,
@@ -96,9 +99,16 @@
         "WSM  1397"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, cithara"
+    ],
+    "issue_date_s": [
+        "-261 to -246"
+    ],
     "hashed_id_s": [
         "bc0c888d7c7f2c5f"
     ],
-    "_version_": 1673104680920547328,
-    "timestamp": "2020-07-24T13:22:42.853Z"
+    "_version_": 1684902966546399232,
+    "timestamp": "2020-12-01T18:51:24.836Z"
 }

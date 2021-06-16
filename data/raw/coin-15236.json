@@ -35,8 +35,11 @@
         "2.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15236\",\"call_number_browse\":\"Coin 15236\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 69,
     "pub_date_end_sort": 69,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9386"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "BMC.1 219 12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "69 to 69"
+    ],
     "hashed_id_s": [
         "e2863d7f5dadfe1a"
     ],
-    "_version_": 1667146086822707200,
-    "timestamp": "2020-05-19T18:59:36.593Z"
+    "_version_": 1684902921542565888,
+    "timestamp": "2020-12-01T18:50:41.919Z"
 }

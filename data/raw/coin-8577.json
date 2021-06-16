@@ -26,13 +26,16 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, Syria, Roman Empire"
     ],
     "find_date_s": [
-        "4/14/1932"
+        "1932-04-14"
+    ],
+    "find_feature_s": [
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "SE N-9"
+        "DS 9-N (SE.)"
     ],
     "find_number_s": [
         "640"
@@ -47,6 +50,12 @@
         "2.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8577\",\"call_number_browse\":\"Coin 8577\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 317,
     "pub_date_end_sort": 320,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5475"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,7 +95,7 @@
         "laureled, holding thunderbolt and sceptre"
     ],
     "issue_obverse_legend_s": [
-        "IMPLICI NIVSAVG"
+        "IMPLICI-NIVSAVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -110,12 +116,15 @@
         "IOVICONS-ERVATORIAVGG | ANT"
     ],
     "issue_references_s": [
-        "RIC 7 680.27"
+        "RIC VII Antioch 27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "0cece795443833d2"
     ],
-    "_version_": 1667138269254516736,
-    "timestamp": "2020-05-19T16:49:09.285Z"
+    "_version_": 1684903691730026496,
+    "timestamp": "2020-12-01T19:02:56.425Z"
 }

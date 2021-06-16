@@ -35,6 +35,9 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 810\",\"call_number_browse\":\"Coin 810\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "334"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Price  1372"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "f3f05fa710cee98a"
     ],
-    "_version_": 1667138204735635456,
-    "timestamp": "2020-05-19T16:48:07.756Z"
+    "_version_": 1684903441466392576,
+    "timestamp": "2020-12-01T18:58:57.755Z"
 }

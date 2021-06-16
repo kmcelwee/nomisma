@@ -35,8 +35,11 @@
         "3.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12459\",\"call_number_browse\":\"Coin 12459\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -87,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8349"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,12 @@
         "Shore  118"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -87"
+    ],
     "hashed_id_s": [
         "9e1a5765cf8a1ac9"
     ],
-    "_version_": 1667138306459041792,
-    "timestamp": "2020-05-19T16:49:44.767Z"
+    "_version_": 1684903155606749184,
+    "timestamp": "2020-12-01T18:54:25.138Z"
 }

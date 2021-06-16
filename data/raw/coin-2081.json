@@ -35,8 +35,14 @@
         "3.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2081\",\"call_number_browse\":\"Coin 2081\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "278: 1931-01-01 Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1/1/1931; $4"
     ],
     "pub_date_start_sort": 526,
     "pub_date_end_sort": 534,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "1367"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +105,12 @@
         "Charles the Bald  132"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "526 to 534"
+    ],
     "hashed_id_s": [
         "d67ae16f57579209"
     ],
-    "_version_": 1667138217399287808,
-    "timestamp": "2020-05-19T16:48:19.833Z"
+    "_version_": 1684903450367754240,
+    "timestamp": "2020-12-01T18:59:06.244Z"
 }

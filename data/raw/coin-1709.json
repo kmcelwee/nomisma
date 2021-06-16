@@ -35,6 +35,12 @@
         "11.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1709\",\"call_number_browse\":\"Coin 1709\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "227: 1983-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 67,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1100"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "RPC.1  5296"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 67"
+    ],
     "hashed_id_s": [
         "93ce67b675ba24e2"
     ],
-    "_version_": 1667138212593664000,
-    "timestamp": "2020-05-19T16:48:15.252Z"
+    "_version_": 1684903097939263488,
+    "timestamp": "2020-12-01T18:53:30.141Z"
 }

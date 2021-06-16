@@ -105,9 +105,12 @@
         "Schl.  IV8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1137 to 1152"
+    ],
     "hashed_id_s": [
         "e02d3b7bb554fc6b"
     ],
-    "_version_": 1674259721996992512,
-    "timestamp": "2020-08-06T07:21:35.864Z"
+    "_version_": 1684903323435532288,
+    "timestamp": "2020-12-01T18:57:05.192Z"
 }

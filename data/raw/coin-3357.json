@@ -50,6 +50,9 @@
         "2.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3357\",\"call_number_browse\":\"Coin 3357\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1112,
     "pub_date_end_sort": 1119,
     "issue_object_type_s": [
@@ -103,9 +106,12 @@
         "Malloy 201 9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1112 to 1119"
+    ],
     "hashed_id_s": [
         "cc2a1f0cfe4b5e22"
     ],
-    "_version_": 1674168956288499712,
-    "timestamp": "2020-08-05T07:18:55.328Z"
+    "_version_": 1684903581540417536,
+    "timestamp": "2020-12-01T19:01:11.340Z"
 }

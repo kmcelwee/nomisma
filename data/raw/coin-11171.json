@@ -38,8 +38,11 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11171\",\"call_number_browse\":\"Coin 11171\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
     ],
     "pub_date_start_sort": 578,
     "pub_date_end_sort": 590,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7336"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "SN  Imitations ZWZNY, type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "578 to 590"
+    ],
     "hashed_id_s": [
         "d9e817cd63ca8c3d"
     ],
-    "_version_": 1667138290334040064,
-    "timestamp": "2020-05-19T16:49:29.392Z"
+    "_version_": 1684903143440121856,
+    "timestamp": "2020-12-01T18:54:13.536Z"
 }

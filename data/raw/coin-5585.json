@@ -35,8 +35,11 @@
         "6.196"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5585\",\"call_number_browse\":\"Coin 5585\"}}",
-    "donor_s": [
-        "Cahn"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -230,
     "pub_date_end_sort": -226,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "Didrachm"
     ],
-    "issue_number_s": [
-        "3168"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -77,10 +80,11 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Beardless Mars head r., in Corinthian helmet. Behind, club."
+        "beardless, in Corinthian helmet"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted",
+        "club, behind head"
     ],
     "issue_reverse_figure_s": [
         "Horse"
@@ -94,14 +98,11 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Horse r.; above, club; below, legend."
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border."
+        "club, above horse"
     ],
     "issue_references_s": [
         "RRC Vol. I: 143 27/1",
@@ -109,9 +110,12 @@
         "Syd.  23"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-230 to -226"
+    ],
     "hashed_id_s": [
         "d00f94ee0b1e2c01"
     ],
-    "_version_": 1667138391492263936,
-    "timestamp": "2020-05-19T16:51:05.861Z"
+    "_version_": 1684903700504510464,
+    "timestamp": "2020-12-01T19:03:04.793Z"
 }

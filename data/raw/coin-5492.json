@@ -38,8 +38,11 @@
         "6.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5492\",\"call_number_browse\":\"Coin 5492\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1163,
     "pub_date_end_sort": 1190,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "3091"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +71,12 @@
         "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63 513 2036"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1190"
+    ],
     "hashed_id_s": [
         "edef8de18791ecff"
     ],
-    "_version_": 1667138377118384128,
-    "timestamp": "2020-05-19T16:50:52.155Z"
+    "_version_": 1684903554489253888,
+    "timestamp": "2020-12-01T19:00:45.540Z"
 }

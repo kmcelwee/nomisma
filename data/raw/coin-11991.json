@@ -35,8 +35,11 @@
         "3.459"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11991\",\"call_number_browse\":\"Coin 11991\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -110,
     "pub_date_end_sort": -109,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8131"
     ],
     "issue_master_s": [
         "P. Porcius Laeca"
@@ -92,9 +92,12 @@
         "RRC  301-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-110 to -109"
+    ],
     "hashed_id_s": [
         "42c94d7bc3f1d5bb"
     ],
-    "_version_": 1667138299163049984,
-    "timestamp": "2020-05-19T16:49:37.811Z"
+    "_version_": 1684903149824901120,
+    "timestamp": "2020-12-01T18:54:19.623Z"
 }

@@ -35,8 +35,14 @@
         "3.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11258\",\"call_number_browse\":\"Coin 11258\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Ira & Larry Goldberg; 09/04/2012; 70 (3156)"
     ],
     "pub_date_start_sort": 630,
     "pub_date_end_sort": 631,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7423"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SN  GW Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "630 to 631"
+    ],
     "hashed_id_s": [
         "de9c1be42656eb7d"
     ],
-    "_version_": 1667138168142430208,
-    "timestamp": "2020-05-19T16:47:32.858Z"
+    "_version_": 1684902928726360064,
+    "timestamp": "2020-12-01T18:50:48.769Z"
 }

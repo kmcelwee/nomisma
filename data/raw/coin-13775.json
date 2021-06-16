@@ -35,6 +35,15 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13775\",\"call_number_browse\":\"Coin 13775\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Baldwin; 1927; $7.25 dollars"
+    ],
     "pub_date_start_sort": -145,
     "pub_date_end_sort": -144,
     "issue_object_type_s": [
@@ -97,15 +106,19 @@
     "issue_reverse_attributes_s": [
         "bow, in r.hand",
         "arrow, in l.hand",
-        "grain ear, on outer left."
+        "grain ear, on outer left.",
+        "monogram , between Apollo's feet"
     ],
     "issue_references_s": [
-        "H & L II,v.I,p.327 2011.1"
+        "H & L II,v.I,p.327 2011.1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-145 to -144"
+    ],
     "hashed_id_s": [
         "579a5927bd9d4601"
     ],
-    "_version_": 1674261830354075648,
-    "timestamp": "2020-08-06T07:55:06.548Z"
+    "_version_": 1684903646252236800,
+    "timestamp": "2020-12-01T19:02:13.055Z"
 }

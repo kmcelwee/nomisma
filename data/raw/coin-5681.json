@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin, sliced. Size: 21 mm. Weight: 3.76 g. Die axis indeterminate. Obverse and most reverse obliterated.  Traces of what may have been top part of S of [S.C.] suggest that this coin is a Julio-Claudian senatorial issue."
+        "Fragment, half coin, sliced. Obverse and most reverse obliterated. Traces of what may have been top part of S of [S.C.] suggest that this coin is a Julio-Claudian senatorial issue."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,16 +34,31 @@
     "find_date_s": [
         "09/28/1934"
     ],
-    "find_feature_s": [
-        "Garden area 286"
-    ],
     "find_locus_s": [
-        "DH-S"
+        "DH 256"
     ],
     "find_number_s": [
         "C3699"
     ],
+    "find_description_s": [
+        "S. of yard"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.76"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5681\",\"call_number_browse\":\"Coin 5681\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "357: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -52,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1462"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -80,24 +95,24 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head right, of a generic Julio Claudian type; also occ. resembles head of Otho"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
+        "generic Julio-Claudian type; possibly resembles hood of head of Otho"
     ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC within a plain circle, dot or dots in field usu. absent or illegible.  Whole within laurel wreath"
+        "within a plain circle, dot or dots in field usually absent or illegible, whole within wreath"
     ],
-    "issue_reverse_legend_s": [
-        "SC"
+    "issue_references_s": [
+        "Waage  869"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "437fd5be517d9008"
     ],
-    "_version_": 1667138477077037056,
-    "timestamp": "2020-05-19T16:52:27.481Z"
+    "_version_": 1684903614940708864,
+    "timestamp": "2020-12-01T19:01:43.192Z"
 }

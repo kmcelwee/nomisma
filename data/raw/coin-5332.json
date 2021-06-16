@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin.  Size: 21 mm.  Weight: 3.45 g.  Die axis indeterminate.  On obverse head is obliterated.  For most part, no traces of obverse or reverse inscriptions.  On reverse, only S of S.C. visible. Notes: senatorial bronze of Antioch."
+        "Fragment, half coin. On obverse, head is obliterated. For most part, no traces of obverse or reverse inscriptions. On reverse, only S of S.C. visible. Notes: senatorial bronze of Antioch."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,16 +34,31 @@
     "find_date_s": [
         "05/17/1938"
     ],
-    "find_feature_s": [
-        "East of room Cl"
-    ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb1974"
     ],
+    "find_description_s": [
+        "E. of room C1"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.45"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5332\",\"call_number_browse\":\"Coin 5332\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "357: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -52,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1876"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -79,19 +94,22 @@
     "issue_obverse_figure_description_s": [
         "obliterated"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
-    ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "S.C. usually enclosed in plain circle surrounded by laurel wreath"
+        "in plain circle, surrounded by laurel wreath"
+    ],
+    "issue_references_s": [
+        "Waage  870"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "2ea020e93490e94f"
     ],
-    "_version_": 1667138480503783424,
-    "timestamp": "2020-05-19T16:52:30.748Z"
+    "_version_": 1684903302986203136,
+    "timestamp": "2020-12-01T18:56:45.690Z"
 }

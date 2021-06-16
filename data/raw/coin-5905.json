@@ -32,8 +32,11 @@
         "2.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5905\",\"call_number_browse\":\"Coin 5905\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 997,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3419"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -61,9 +61,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 55 Top right"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 997"
+    ],
     "hashed_id_s": [
         "2a2d17bfc05f3ab4"
     ],
-    "_version_": 1667138250240688128,
-    "timestamp": "2020-05-19T16:48:51.155Z"
+    "_version_": 1684903122424561664,
+    "timestamp": "2020-12-01T18:53:53.492Z"
 }

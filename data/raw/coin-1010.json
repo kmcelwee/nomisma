@@ -35,6 +35,12 @@
         "14.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1010\",\"call_number_browse\":\"Coin 1010\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "102: 2005-01-01 Spink"
+    ],
     "pub_date_start_sort": -92,
     "pub_date_end_sort": -91,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "463"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +105,15 @@
         "Sear  5919v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-92 to -91"
+    ],
     "hashed_id_s": [
         "e1fc55eb5a374242"
     ],
-    "_version_": 1667138456342495232,
-    "timestamp": "2020-05-19T16:52:07.719Z"
+    "_version_": 1684903292202647552,
+    "timestamp": "2020-12-01T18:56:35.407Z"
 }

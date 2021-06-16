@@ -35,6 +35,15 @@
         "3.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5063\",\"call_number_browse\":\"Coin 5063\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1924; $3.50"
+    ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2801"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Cn. Plancius"
@@ -74,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Female, head r., wearing causia (Macedonian brimmed hat); border of dots"
+        "wearing causia"
     ],
     "issue_obverse_legend_s": [
-        "CN \u0393LANCIVS / AED CVR S C"
+        "CN\u00b7PLANCIVS AED\u00b7CVR\u00b7S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Goat"
@@ -89,7 +101,11 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Cretan goat standing r.; bow and quiver behind; border of dots"
+        "Cretan"
+    ],
+    "issue_reverse_attributes_s": [
+        "bow and quiver, behind goat",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  432/1",
@@ -97,9 +113,12 @@
         "Sear  396"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "4206fa941d48446c"
     ],
-    "_version_": 1667138510428045312,
-    "timestamp": "2020-05-19T16:52:59.288Z"
+    "_version_": 1684903314223792128,
+    "timestamp": "2020-12-01T18:56:56.409Z"
 }

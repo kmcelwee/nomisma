@@ -35,6 +35,12 @@
         "4.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14870\",\"call_number_browse\":\"Coin 14870\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "703: 2015-12-03 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1356,
     "pub_date_end_sort": 1361,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "groat"
-    ],
-    "issue_number_s": [
-        "9135"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +99,12 @@
         "Seaby England  1570"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1356 to 1361"
+    ],
     "hashed_id_s": [
         "8ee3ee3bc27bc450"
     ],
-    "_version_": 1667232980394835968,
-    "timestamp": "2020-05-20T17:54:32.895Z"
+    "_version_": 1684903339984158720,
+    "timestamp": "2020-12-01T18:57:20.973Z"
 }

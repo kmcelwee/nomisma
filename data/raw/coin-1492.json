@@ -32,8 +32,11 @@
         "10.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1492\",\"call_number_browse\":\"Coin 1492\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1360,
     "pub_date_end_sort": 1364,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "3 Cash"
-    ],
-    "issue_number_s": [
-        "885"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -72,9 +72,12 @@
         "Jen  500"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1360 to 1364"
+    ],
     "hashed_id_s": [
         "d85e823f409f37c0"
     ],
-    "_version_": 1667138411814715392,
-    "timestamp": "2020-05-19T16:51:25.244Z"
+    "_version_": 1684903184777084928,
+    "timestamp": "2020-12-01T18:54:52.957Z"
 }

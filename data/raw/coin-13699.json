@@ -35,6 +35,12 @@
         "16.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13699\",\"call_number_browse\":\"Coin 13699\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "831: 1998-08-06 Davissons, Ltd."
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8762"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "The New Style Coinage of Athens p.189 483ab"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "7e2f9dfdc2e1ce46"
     ],
-    "_version_": 1667138520740790272,
-    "timestamp": "2020-05-19T16:53:09.123Z"
+    "_version_": 1684903646591975424,
+    "timestamp": "2020-12-01T19:02:13.379Z"
 }

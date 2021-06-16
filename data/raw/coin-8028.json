@@ -32,16 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/4/1937"
+        "1937-05-04"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca734"
+        "Ca0734"
     ],
     "find_description_s": [
-        "Dig IV room 19 near South wall, depth 1.80M"
+        "Dig IV, room 19, near S. wall, 1.8m"
     ],
     "die_axis_s": [
         "6"
@@ -53,13 +53,16 @@
         "1.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8028\",\"call_number_browse\":\"Coin 8028\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5063"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +111,12 @@
         "RIC.7 p.424 15"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "7d4ee39d1c544def"
     ],
-    "_version_": 1667144975751577601,
-    "timestamp": "2020-05-19T18:35:45.143Z"
+    "_version_": 1690433716944371712,
+    "timestamp": "2021-01-31T20:00:19.434Z"
 }

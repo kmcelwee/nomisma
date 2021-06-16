@@ -50,6 +50,9 @@
         "0.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9937\",\"call_number_browse\":\"Coin 9937\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1153,
     "pub_date_end_sort": 1163,
     "issue_object_type_s": [
@@ -102,9 +105,12 @@
         "Schl.  II20bv"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1153 to 1163"
+    ],
     "hashed_id_s": [
         "708ef19c6daa5cfe"
     ],
-    "_version_": 1674259191567482880,
-    "timestamp": "2020-08-06T07:13:10.004Z"
+    "_version_": 1684903497072377856,
+    "timestamp": "2020-12-01T18:59:50.784Z"
 }

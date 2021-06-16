@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Coin in bad condition.  None of obverse legend is visible.  Relief of portrait head on obverse and of SC enwreathed by laurel leaves on the reverse has been worn smooth.  Attribution to Claudius is tentative; notes from excavation also suggest Nero."
+        "Coin in bad condition. None of obverse legend is visible. Relief of portrait head on obverse and of SC, enwreathed by laurel leaves on the reverse, has been worn smooth. Attribution to Claudius is tentative; notes from excavation also suggest Nero."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,14 +34,14 @@
     "find_date_s": [
         "04/12/1935"
     ],
-    "find_feature_s": [
-        "Near surface above West side Stage building"
-    ],
     "find_locus_s": [
-        "D-H-20N"
+        "DH 20-N"
     ],
     "find_number_s": [
         "C4313"
+    ],
+    "find_description_s": [
+        "Above W. side stage building, near surface"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +53,12 @@
         "13.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2279\",\"call_number_browse\":\"Coin 2279\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 47,
     "pub_date_end_sort": 48,
     "issue_object_type_s": [
@@ -61,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1455"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -92,27 +101,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Claudius"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM TI CLA CAE AV GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "SC enclosed by laurel wreath of eight leaves; dotted border around the wreath"
-    ],
-    "issue_reverse_legend_s": [
-        "SC"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
         "RPC.1  4279"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "47 to 48"
+    ],
     "hashed_id_s": [
         "94c95f5d83d61686"
     ],
-    "_version_": 1667138426322812928,
-    "timestamp": "2020-05-19T16:51:39.078Z"
+    "_version_": 1684903665522966528,
+    "timestamp": "2020-12-01T19:02:31.432Z"
 }

@@ -32,16 +32,19 @@
         "39.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15041\",\"call_number_browse\":\"Coin 15041\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1979,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9228"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -84,9 +87,12 @@
         "m9109.jpg"
     ],
     "issue_monogram_1display": "[{\"title\":\"m9109.jpg\",\"document_id\":\"cfd9c51f-f2bc-463c-9cc5-9cb98958a1b3\"}]",
+    "issue_date_s": [
+        "1979 to "
+    ],
     "hashed_id_s": [
         "e6009f9a4506f01f"
     ],
-    "_version_": 1667144828595470337,
-    "timestamp": "2020-05-19T18:33:24.763Z"
+    "_version_": 1684903644817784832,
+    "timestamp": "2020-12-01T19:02:11.693Z"
 }

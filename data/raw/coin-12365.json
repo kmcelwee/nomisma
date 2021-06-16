@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "08/15/1935"
@@ -47,6 +47,12 @@
         "1.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12365\",\"call_number_browse\":\"Coin 12365\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 211,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "8306"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,12 +117,15 @@
         "grounded bow, in l. hand"
     ],
     "issue_references_s": [
-        "H & L I 404 1064"
+        "H & L I 404 1064a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to 211"
+    ],
     "hashed_id_s": [
         "d17e2e2cd7599216"
     ],
-    "_version_": 1670211284100972544,
-    "timestamp": "2020-06-22T14:53:24.623Z"
+    "_version_": 1684902905720602624,
+    "timestamp": "2020-12-01T18:50:26.828Z"
 }

@@ -35,6 +35,12 @@
         "14.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1203\",\"call_number_browse\":\"Coin 1203\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "163: 1990-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 66,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "649"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -102,9 +105,12 @@
         "Sear  1969"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 66"
+    ],
     "hashed_id_s": [
         "2d2820a653ead5d1"
     ],
-    "_version_": 1667138390835855360,
-    "timestamp": "2020-05-19T16:51:05.244Z"
+    "_version_": 1684903565096648704,
+    "timestamp": "2020-12-01T19:00:55.657Z"
 }

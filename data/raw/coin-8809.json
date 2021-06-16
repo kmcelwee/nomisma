@@ -35,6 +35,12 @@
         "1.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8809\",\"call_number_browse\":\"Coin 8809\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 1260,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "florin"
-    ],
-    "issue_number_s": [
-        "5603"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Le Monete Della Repubblica Fiorentina II, 5 27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1260"
+    ],
     "hashed_id_s": [
         "340da73a4d2ba06f"
     ],
-    "_version_": 1667138270622908416,
-    "timestamp": "2020-05-19T16:49:10.591Z"
+    "_version_": 1684903017881534464,
+    "timestamp": "2020-12-01T18:52:13.793Z"
 }

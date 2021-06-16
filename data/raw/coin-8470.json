@@ -35,7 +35,7 @@
         "Cleaning Pavement"
     ],
     "find_locus_s": [
-        "13-R"
+        "A 13-R"
     ],
     "find_number_s": [
         "C6580"
@@ -50,6 +50,12 @@
         "3.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8470\",\"call_number_browse\":\"Coin 8470\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 114,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "5390"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -101,12 +104,15 @@
         "DAC.PARTHICO P.M.TR.POT.XX.COS.VI.P.P.S.C"
     ],
     "issue_references_s": [
-        "RIC 2 290 645"
+        "RIC II Trajan 645"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "114 to 117"
+    ],
     "hashed_id_s": [
         "6a16d7a2332d53c7"
     ],
-    "_version_": 1667138185785769984,
-    "timestamp": "2020-05-19T16:47:49.684Z"
+    "_version_": 1689430911034064896,
+    "timestamp": "2021-01-20T18:21:09.196Z"
 }

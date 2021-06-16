@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/5/1933"
+        "1933-04-05"
     ],
     "find_feature_s": [
-        "Atrium s. w."
+        "1.25m just above street"
+    ],
+    "find_locus_s": [
+        "[None recorded]"
     ],
     "find_number_s": [
         "2877"
-    ],
-    "find_description_s": [
-        "1.25 m just above street"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7587\",\"call_number_browse\":\"Coin 7587\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4748"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -85,11 +88,14 @@
     "issue_obverse_figure_s": [
         "Head"
     ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
     "issue_obverse_orientation_s": [
         "right"
     ],
     "issue_obverse_legend_s": [
-        "IMP LIC LICINIVS P F AVG"
+        "IMP LIC LICINIVS P F AVG | ANT"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -107,13 +113,16 @@
         "IOVI CONSERVATORI AVGG NN"
     ],
     "issue_references_s": [
-        "RIC, VII 678 17",
+        "RIC VII Antioch 17",
         "Numismatique Constantinienne III. 186-187. I. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "feafe240e303b63e"
     ],
-    "_version_": 1667138352268181504,
-    "timestamp": "2020-05-19T16:50:28.454Z"
+    "_version_": 1690700681914089472,
+    "timestamp": "2021-02-03T18:43:37.072Z"
 }

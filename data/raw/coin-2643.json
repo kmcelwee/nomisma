@@ -35,6 +35,12 @@
         "1.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2643\",\"call_number_browse\":\"Coin 2643\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1443,
     "pub_date_end_sort": 1447,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "petachina"
-    ],
-    "issue_number_s": [
-        "1664"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "Liguria - Isola Di Corsica Raffaele Adorno V.16.26"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1443 to 1447"
+    ],
     "hashed_id_s": [
         "da4b605f65333ba9"
     ],
-    "_version_": 1667138476639780864,
-    "timestamp": "2020-05-19T16:52:27.064Z"
+    "_version_": 1684903614689050624,
+    "timestamp": "2020-12-01T19:01:42.951Z"
 }

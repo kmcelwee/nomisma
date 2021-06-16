@@ -47,6 +47,9 @@
         "5.834"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11827\",\"call_number_browse\":\"Coin 11827\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1075,
     "pub_date_end_sort": 1080,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7920"
     ],
     "issue_metal_s": [
         "Copper"
@@ -116,9 +116,12 @@
         "BL 3.2 I.16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1075 to 1080"
+    ],
     "hashed_id_s": [
         "b096a3112271842b"
     ],
-    "_version_": 1667144825751732224,
-    "timestamp": "2020-05-19T18:33:22.109Z"
+    "_version_": 1684903365764448256,
+    "timestamp": "2020-12-01T18:57:45.561Z"
 }

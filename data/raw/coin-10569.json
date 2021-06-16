@@ -35,6 +35,12 @@
         "4.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10569\",\"call_number_browse\":\"Coin 10569\"}}",
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 02/09/2001"
+    ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6735"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 1 Type IIIb/3b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "547dfdc38bb65420"
     ],
-    "_version_": 1667138344434270208,
-    "timestamp": "2020-05-19T16:50:20.984Z"
+    "_version_": 1684903087649587200,
+    "timestamp": "2020-12-01T18:53:20.329Z"
 }

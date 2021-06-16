@@ -35,8 +35,11 @@
         "1.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 320\",\"call_number_browse\":\"Coin 320\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 1180,
     "pub_date_end_sort": 1223,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "168"
     ],
     "issue_metal_s": [
         "Silver"
@@ -88,9 +88,12 @@
         "Robert  2327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1180 to 1223"
+    ],
     "hashed_id_s": [
         "219df4f52312f9ef"
     ],
-    "_version_": 1667138402680569856,
-    "timestamp": "2020-05-19T16:51:16.531Z"
+    "_version_": 1684903272687599616,
+    "timestamp": "2020-12-01T18:56:16.794Z"
 }

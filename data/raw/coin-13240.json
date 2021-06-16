@@ -38,6 +38,15 @@
         "2.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13240\",\"call_number_browse\":\"Coin 13240\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "802: 2015-02-14 Gerhard Hirsch"
+    ],
+    "numismatic_provenance_s": [
+        "Gerhard Hirsch, Munich; Alan Stahl; 2.14.2015"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "asper"
-    ],
-    "issue_number_s": [
-        "8575"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,6 +104,6 @@
     "hashed_id_s": [
         "f4fd0e1712caf593"
     ],
-    "_version_": 1667138337524154368,
-    "timestamp": "2020-05-19T16:50:14.393Z"
+    "_version_": 1696054792281915392,
+    "timestamp": "2021-04-03T21:04:54.616Z"
 }

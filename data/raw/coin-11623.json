@@ -38,8 +38,8 @@
         "4.038"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11623\",\"call_number_browse\":\"Coin 11623\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 293,
     "pub_date_end_sort": 302,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7742"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +87,12 @@
         "SN  II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 302"
+    ],
     "hashed_id_s": [
         "239b99a486b02f4a"
     ],
-    "_version_": 1667138295634591744,
-    "timestamp": "2020-05-19T16:49:34.447Z"
+    "_version_": 1684903507618955264,
+    "timestamp": "2020-12-01T19:00:00.843Z"
 }

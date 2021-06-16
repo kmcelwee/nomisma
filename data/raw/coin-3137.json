@@ -32,16 +32,16 @@
         "5.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3137\",\"call_number_browse\":\"Coin 3137\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1723,
     "pub_date_end_sort": 1736,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1917"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +80,12 @@
         "Zhong Guo 331 2nd row, 3rd coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1723 to 1736"
+    ],
     "hashed_id_s": [
         "7f482a92a74eb57b"
     ],
-    "_version_": 1667138164999847936,
-    "timestamp": "2020-05-19T16:47:29.862Z"
+    "_version_": 1684903421703880704,
+    "timestamp": "2020-12-01T18:58:38.909Z"
 }

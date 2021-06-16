@@ -35,8 +35,14 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10703\",\"call_number_browse\":\"Coin 10703\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Gorney and Mosch, Munich; 03/08/2004; 30 (1551)"
     ],
     "pub_date_start_sort": 276,
     "pub_date_end_sort": 293,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6864"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style C Type VIa/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "276 to 293"
+    ],
     "hashed_id_s": [
         "029e2f93ea9ab4b0"
     ],
-    "_version_": 1667138178689007616,
-    "timestamp": "2020-05-19T16:47:42.918Z"
+    "_version_": 1684902956031279104,
+    "timestamp": "2020-12-01T18:51:14.807Z"
 }

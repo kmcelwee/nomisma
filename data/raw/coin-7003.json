@@ -41,52 +41,62 @@
         "68.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7003\",\"call_number_browse\":\"Coin 7003\"}}",
-    "pub_date_start_sort": -279,
-    "pub_date_end_sort": -275,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -241,
+    "pub_date_end_sort": -235,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "4372"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
-    "issue_place_s": [
-        "Campania, Italy"
+    "issue_shape_s": [
+        "round"
     ],
-    "issue_state_s": [
-        "Campania"
+    "issue_place_s": [
+        "Rome"
     ],
     "issue_region_s": [
-        "Italy"
+        "Rome"
     ],
     "issue_obverse_figure_s": [
-        "Two corn grains"
+        "Right hand"
     ],
     "issue_obverse_symbol_s": [
         "3 dots"
     ],
+    "issue_obverse_attributes_s": [
+        "sickle, in r. field"
+    ],
     "issue_reverse_figure_s": [
-        "Hand"
+        "Two grains of barley"
     ],
     "issue_reverse_symbol_s": [
-        "falx and 3 dots"
+        "3 dots"
     ],
     "issue_reverse_orientation_s": [
-        "right"
+        "?"
     ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  52",
-        "Haeb. pl. 40 "
+        "Haeb. pl. 40 ",
+        "RRC  25/7"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-241 to -235"
+    ],
     "hashed_id_s": [
         "6c68418968902ca2"
     ],
-    "_version_": 1667138359553687552,
-    "timestamp": "2020-05-19T16:50:35.402Z"
+    "_version_": 1684903702626828288,
+    "timestamp": "2020-12-01T19:03:06.816Z"
 }

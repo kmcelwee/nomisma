@@ -38,16 +38,16 @@
         "153.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5319\",\"call_number_browse\":\"Coin 5319\"}}",
-    "donor_s": [
-        "H.K. Twitchell"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "414:  H.K. Twitchell"
     ],
     "pub_date_start_sort": 1915,
     "pub_date_end_sort": 1915,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2973"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,9 +77,15 @@
         "Emile Andre Boisseau, E. BOISSEAU"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    "
+    ],
+    "issue_date_s": [
+        "1915 to 1915"
+    ],
     "hashed_id_s": [
         "b68182f5e02a76be"
     ],
-    "_version_": 1667138401722171392,
-    "timestamp": "2020-05-19T16:51:15.618Z"
+    "_version_": 1684903573264007168,
+    "timestamp": "2020-12-01T19:01:03.447Z"
 }

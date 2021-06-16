@@ -35,8 +35,11 @@
         "2.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13914\",\"call_number_browse\":\"Coin 13914\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8947"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,6 +105,6 @@
     "hashed_id_s": [
         "4b045303458af61f"
     ],
-    "_version_": 1667138329651445760,
-    "timestamp": "2020-05-19T16:50:06.886Z"
+    "_version_": 1684903069405413376,
+    "timestamp": "2020-12-01T18:53:02.930Z"
 }

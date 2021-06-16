@@ -32,8 +32,11 @@
         "2.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5483\",\"call_number_browse\":\"Coin 5483\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1308,
     "pub_date_end_sort": 1311,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "3085"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -60,9 +60,12 @@
         "Hartill 227 19.39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1308 to 1311"
+    ],
     "hashed_id_s": [
         "2f336e18189e77d4"
     ],
-    "_version_": 1667138112221872128,
-    "timestamp": "2020-05-19T16:46:39.529Z"
+    "_version_": 1684903649403207680,
+    "timestamp": "2020-12-01T19:02:16.058Z"
 }

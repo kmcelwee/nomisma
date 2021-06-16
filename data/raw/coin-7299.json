@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-3-1934"
+        "1934-05-03"
+    ],
+    "find_feature_s": [
+        "Trench 10, S. end, surface"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
-    "find_description_s": [
-        "7O, Trial Trench 10, Surface"
+    "find_number_s": [
+        "C2761"
     ],
     "die_axis_s": [
         "5"
@@ -47,6 +50,12 @@
         "2.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7299\",\"call_number_browse\":\"Coin 7299\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4572"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed (d., rosettes)"
+        "diademed, draped"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS MAX AVG"
+        "CONSTANTIN-VS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -104,17 +110,20 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
         "Cohen 7 258.254",
         "Numismatique Constantinienne 3 210.I.1",
-        "RIC 7 693.86"
+        "RIC VII Antioch 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "be11388982232262"
     ],
-    "_version_": 1667138354204901376,
-    "timestamp": "2020-05-19T16:50:30.303Z"
+    "_version_": 1691790165096267776,
+    "timestamp": "2021-02-15T19:20:30.194Z"
 }

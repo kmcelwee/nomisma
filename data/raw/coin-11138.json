@@ -38,8 +38,14 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11138\",\"call_number_browse\":\"Coin 11138\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Hussam Zurqieh; 06/15/2013"
     ],
     "pub_date_start_sort": 531,
     "pub_date_end_sort": 578,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7299"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SN  WLC Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "cf8ff75c0a45ea06"
     ],
-    "_version_": 1667138290069798912,
-    "timestamp": "2020-05-19T16:49:29.140Z"
+    "_version_": 1684903035812184064,
+    "timestamp": "2020-12-01T18:52:30.893Z"
 }

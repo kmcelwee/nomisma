@@ -38,8 +38,11 @@
         "1.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13721\",\"call_number_browse\":\"Coin 13721\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -220,
     "pub_date_end_sort": -204,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "8782"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "H & L I,v.I,p.442 1173"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-220 to -204"
+    ],
     "hashed_id_s": [
         "81c795a154dfe005"
     ],
-    "_version_": 1667138324596260864,
-    "timestamp": "2020-05-19T16:50:02.065Z"
+    "_version_": 1684903168841875456,
+    "timestamp": "2020-12-01T18:54:37.760Z"
 }

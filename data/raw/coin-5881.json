@@ -38,8 +38,11 @@
         "8.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5881\",\"call_number_browse\":\"Coin 5881\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "American Numismatic Society, New York; Feb. 1958; $30"
     ],
     "pub_date_start_sort": -510,
     "pub_date_end_sort": -450,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3403"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +91,12 @@
         "Vlasto Coll.  97-107"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-510 to -450"
+    ],
     "hashed_id_s": [
         "fc58c0b3ff9bbe11"
     ],
-    "_version_": 1667138386388844544,
-    "timestamp": "2020-05-19T16:51:00.994Z"
+    "_version_": 1684903125775810560,
+    "timestamp": "2020-12-01T18:53:56.689Z"
 }

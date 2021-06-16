@@ -29,7 +29,7 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "06/20/1935"
+        "1935-06-20"
     ],
     "find_feature_s": [
         "Sub room 1. Between alpha and beta"
@@ -50,6 +50,12 @@
         "2.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8039\",\"call_number_browse\":\"Coin 8039\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 323,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5071"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "Numismatique Constantinienne III p. 195 I 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 323"
+    ],
     "hashed_id_s": [
         "03520d20a2d964d4"
     ],
-    "_version_": 1667138189316325377,
-    "timestamp": "2020-05-19T16:47:53.052Z"
+    "_version_": 1690151363874390016,
+    "timestamp": "2021-01-28T17:12:26.566Z"
 }

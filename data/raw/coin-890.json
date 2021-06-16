@@ -35,6 +35,15 @@
         "0.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 890\",\"call_number_browse\":\"Coin 890\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; 1931; $3"
+    ],
     "pub_date_start_sort": 527,
     "pub_date_end_sort": 534,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "half siliqua"
-    ],
-    "issue_number_s": [
-        "371"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +93,15 @@
         "MEC.1  126"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Anastasius I"
+    ],
+    "issue_date_s": [
+        "527 to 534"
+    ],
     "hashed_id_s": [
         "38bc9480236d4612"
     ],
-    "_version_": 1667138454162505728,
-    "timestamp": "2020-05-19T16:52:05.631Z"
+    "_version_": 1684903220580712448,
+    "timestamp": "2020-12-01T18:55:27.102Z"
 }

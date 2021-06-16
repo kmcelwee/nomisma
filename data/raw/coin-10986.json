@@ -38,8 +38,14 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10986\",\"call_number_browse\":\"Coin 10986\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Zuzim Judea; 06/06/2006"
     ],
     "pub_date_start_sort": 420,
     "pub_date_end_sort": 438,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7147"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 MLWY Type Ib2/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "420 to 438"
+    ],
     "hashed_id_s": [
         "ed327c462b15da5c"
     ],
-    "_version_": 1667138177646723072,
-    "timestamp": "2020-05-19T16:47:41.923Z"
+    "_version_": 1684902954260234240,
+    "timestamp": "2020-12-01T18:51:13.119Z"
 }

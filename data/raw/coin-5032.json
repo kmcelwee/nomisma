@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "9 Pence"
     ],
-    "issue_number_s": [
-        "2787"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -74,6 +71,6 @@
     "hashed_id_s": [
         "5fddf9bcc16370d3"
     ],
-    "_version_": 1667138400202784768,
-    "timestamp": "2020-05-19T16:51:14.170Z"
+    "_version_": 1684903271417774080,
+    "timestamp": "2020-12-01T18:56:15.585Z"
 }

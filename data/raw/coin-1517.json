@@ -32,16 +32,16 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1517\",\"call_number_browse\":\"Coin 1517\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1850,
     "pub_date_end_sort": 1861,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "913"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -79,9 +79,12 @@
         "Jen 152 755"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1850 to 1861"
+    ],
     "hashed_id_s": [
         "fc4394ed7394b9a6"
     ],
-    "_version_": 1667236615158759424,
-    "timestamp": "2020-05-20T18:52:19.233Z"
+    "_version_": 1684903295315869696,
+    "timestamp": "2020-12-01T18:56:38.374Z"
 }

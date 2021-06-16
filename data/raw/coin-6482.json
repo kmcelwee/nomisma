@@ -38,6 +38,12 @@
         "3.483"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6482\",\"call_number_browse\":\"Coin 6482\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "472: 2009-01-07 "
+    ],
     "pub_date_start_sort": 1355,
     "pub_date_end_sort": 1356,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "3905"
     ],
     "issue_metal_s": [
         "Gold"
@@ -95,9 +98,12 @@
         ".SITTXPEDATQ.TV REGISISTEDVCAT."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1355 to 1356"
+    ],
     "hashed_id_s": [
         "9ed03bbe0c0115e6"
     ],
-    "_version_": 1667138513963843584,
-    "timestamp": "2020-05-19T16:53:02.736Z"
+    "_version_": 1684903326515200000,
+    "timestamp": "2020-12-01T18:57:08.129Z"
 }

@@ -32,16 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/24/1939"
+        "1939-04-24"
     ],
     "find_feature_s": [
-        "Surface over Nymphaeum"
+        "[None recorded]"
     ],
     "find_locus_s": [
         "DH 26-M/N"
     ],
     "find_number_s": [
-        "Cc805"
+        "Cc0805"
     ],
     "die_axis_s": [
         "7"
@@ -53,6 +53,9 @@
         "2.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12160\",\"call_number_browse\":\"Coin 12160\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 324,
     "pub_date_end_sort": 325,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8205"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,12 +101,15 @@
         "CONSTAN/TINVS/AVG"
     ],
     "issue_references_s": [
-        "RIC.7 687 57"
+        "RIC.7 Antioch 57"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "324 to 325"
+    ],
     "hashed_id_s": [
         "558ded94ed0365d7"
     ],
-    "_version_": 1667138301735206912,
-    "timestamp": "2020-05-19T16:49:40.265Z"
+    "_version_": 1684903512845058048,
+    "timestamp": "2020-12-01T19:00:05.828Z"
 }

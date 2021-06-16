@@ -35,6 +35,9 @@
         "0.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 876\",\"call_number_browse\":\"Coin 876\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1208,
     "pub_date_end_sort": 1234,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "358"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "P.d'A.  3903"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1208 to 1234"
+    ],
     "hashed_id_s": [
         "477e8f03299fbb10"
     ],
-    "_version_": 1667138453811232768,
-    "timestamp": "2020-05-19T16:52:05.295Z"
+    "_version_": 1684903291299823616,
+    "timestamp": "2020-12-01T18:56:34.544Z"
 }

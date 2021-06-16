@@ -35,8 +35,11 @@
         "21.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3151\",\"call_number_browse\":\"Coin 3151\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 66,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "1929"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -104,9 +104,12 @@
         "Sear  1952"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 66"
+    ],
     "hashed_id_s": [
         "b5fccd2ae32cccc8"
     ],
-    "_version_": 1667138164724072448,
-    "timestamp": "2020-05-19T16:47:29.599Z"
+    "_version_": 1684903414471852032,
+    "timestamp": "2020-12-01T18:58:32.010Z"
 }

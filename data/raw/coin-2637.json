@@ -35,8 +35,11 @@
         "0.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2637\",\"call_number_browse\":\"Coin 2637\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 1361,
     "pub_date_end_sort": 1365,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldino"
-    ],
-    "issue_number_s": [
-        "1658"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,13 +102,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 200, 2",
-        "CNI, 7  III.28.9",
+        "CNI, 7  88, 9",
         "MEC 12 644-646"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1361 to 1365"
+    ],
     "hashed_id_s": [
         "4b23252e5d63c87b"
     ],
-    "_version_": 1667138473216180224,
-    "timestamp": "2020-05-19T16:52:23.799Z"
+    "_version_": 1684903299041460224,
+    "timestamp": "2020-12-01T18:56:41.928Z"
 }

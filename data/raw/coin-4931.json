@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "1 Shilling and 6 Pence"
     ],
-    "issue_number_s": [
-        "2715"
-    ],
     "issue_master_s": [
         "Hall and Sellers"
     ],
@@ -74,9 +71,12 @@
         "Newman P. 355"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "f71cd80551eea2e6"
     ],
-    "_version_": 1667138410487218176,
-    "timestamp": "2020-05-19T16:51:23.976Z"
+    "_version_": 1684903276894486528,
+    "timestamp": "2020-12-01T18:56:20.807Z"
 }

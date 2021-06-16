@@ -38,8 +38,8 @@
         "5.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8782\",\"call_number_browse\":\"Coin 8782\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1078,
     "pub_date_end_sort": 1081,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5584"
     ],
     "issue_metal_s": [
         "Copper"
@@ -97,9 +94,12 @@
         "BL Nicephorus III 56/Cp/AE/01-11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1078 to 1081"
+    ],
     "hashed_id_s": [
         "21245a3f98ff51c1"
     ],
-    "_version_": 1667138181208735744,
-    "timestamp": "2020-05-19T16:47:45.319Z"
+    "_version_": 1684903426156134400,
+    "timestamp": "2020-12-01T18:58:43.155Z"
 }

@@ -38,6 +38,15 @@
         "3.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5173\",\"call_number_browse\":\"Coin 5173\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Eugen Merzbacher, Munich, Germany; 1927; $2"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -46,11 +55,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2867"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "C. Memmius C.f."
@@ -76,11 +85,11 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Head r., wearing wreath of corn-ears; border of dots"
-    ],
     "issue_obverse_legend_s": [
-        "C MEMMIVS C F"
+        "C\u00b7MEMMI\u00b7C\u00b7F"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Trophy"
@@ -89,10 +98,10 @@
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "Macedonian trophy; at foot, captive kneeling r. with hands tied behind back; border of dots"
+        "behind kneeling captive with hands tied behind back"
     ],
     "issue_reverse_legend_s": [
-        "C MEMMIVS / IM\u0393ERATOR"
+        "C\u00b7MEMMIVS IMPERATOR"
     ],
     "issue_references_s": [
         "RRC  427/1",
@@ -100,9 +109,12 @@
         "Sear  387"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "23192798ccc89aaf"
     ],
-    "_version_": 1667138245861834752,
-    "timestamp": "2020-05-19T16:48:46.979Z"
+    "_version_": 1684903468347686912,
+    "timestamp": "2020-12-01T18:59:23.391Z"
 }

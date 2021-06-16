@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Drachm"
     ],
-    "issue_number_s": [
-        "4585"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +83,12 @@
         "Mitchiner 404 3000"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 105"
+    ],
     "hashed_id_s": [
         "4cc38546021d563b"
     ],
-    "_version_": 1667138356589363200,
-    "timestamp": "2020-05-19T16:50:32.574Z"
+    "_version_": 1684903250782846976,
+    "timestamp": "2020-12-01T18:55:55.904Z"
 }

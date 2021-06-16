@@ -35,16 +35,22 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4107\",\"call_number_browse\":\"Coin 4107\"}}",
-    "pub_date_start_sort": -48,
-    "pub_date_end_sort": -48,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "A. H. Baldwin & Sons, Ltd., London; 1926; 55\u00a2"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2348"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,13 +80,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "border of dots"
+        "mask of bearded Pan; below, legend."
     ],
     "issue_obverse_legend_s": [
         "PANSA"
     ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
+    ],
     "issue_reverse_figure_s": [
-        "Jupiter Axurus"
+        "Jupiter"
     ],
     "issue_reverse_part_s": [
         "seated"
@@ -89,14 +98,15 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "laureate, holding patera in r. hand and sceptre in l. hand; border of dots"
+        "laureate, holding patera in r. hand and sceptre in l. hand"
     ],
     "issue_reverse_legend_s": [
-        "C VIBIVS C F C N | IOVIS AXVR"
+        "C.VIBIVS.C.F.C.N IOVIS.AXVR"
     ],
     "issue_reverse_attributes_s": [
         "patera, held in r. hand",
-        "sceptre, held in l. hand"
+        "sceptre, held in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  449/1a",
@@ -104,9 +114,12 @@
         "Sear  420"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "4511b70ead3fe64b"
     ],
-    "_version_": 1667138489981861888,
-    "timestamp": "2020-05-19T16:52:39.791Z"
+    "_version_": 1684903228063350784,
+    "timestamp": "2020-12-01T18:55:34.237Z"
 }

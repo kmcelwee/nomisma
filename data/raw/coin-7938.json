@@ -2,7 +2,7 @@
     "id": "coin-7938",
     "title_display": "Coin: 7938",
     "pub_created_display": [
-        "Antiochus VII Sidetes (-138 to -129), diobol, Antiocheia ad Orontem"
+        "Antiochus VII Sidetes (-138 to -129), double, Antiocheia ad Orontem"
     ],
     "call_number_display": [
         "Coin 7938"
@@ -29,19 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/11/1937"
-    ],
-    "find_feature_s": [
-        "Dig II roo 11"
+        "05/11/1937"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca857"
+        "Ca0857"
     ],
     "find_description_s": [
-        "level to 6.50M. Basket A."
+        "Dig II, under level III, room 11, to 6.5m (basket A)"
+    ],
+    "die_axis_s": [
+        "12"
     ],
     "size_s": [
         "22"
@@ -50,19 +50,28 @@
         "4.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7938\",\"call_number_browse\":\"Coin 7938\"}}",
-    "pub_date_start_sort": -139,
-    "pub_date_end_sort": -138,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -137,
+    "pub_date_end_sort": -136,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "diobol"
+        "double"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
         "Round"
+    ],
+    "issue_era_s": [
+        "Seleucid"
     ],
     "issue_ruler_s": [
         "Antiochus VII Sidetes (-138 to -129)"
@@ -82,9 +91,6 @@
     "issue_obverse_figure_s": [
         "Eros"
     ],
-    "issue_obverse_symbol_s": [
-        "wreath"
-    ],
     "issue_obverse_part_s": [
         "bust"
     ],
@@ -92,15 +98,34 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Eros r. with Myrtle Wreath"
+        "with myrtle wreath"
     ],
     "issue_obverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5 \u0395\u03a5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03a5"
     ],
+    "issue_reverse_figure_s": [
+        "Isis headdress"
+    ],
+    "issue_reverse_part_s": [
+        "resting"
+    ],
+    "issue_reverse_figure_description_s": [
+        "on two grain ears with stems crossed above inverted crescent"
+    ],
+    "issue_reverse_attributes_s": [
+        "\u0399\u0395, in outer l. field",
+        "date, in exergue"
+    ],
+    "issue_references_s": [
+        "H & L  p. 367, n. 2067.6"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-137 to -136"
+    ],
     "hashed_id_s": [
         "938d00ccf707aec8"
     ],
-    "_version_": 1673550722052915200,
-    "timestamp": "2020-07-29T11:32:20.824Z"
+    "_version_": 1684903659216830464,
+    "timestamp": "2020-12-01T19:02:25.420Z"
 }

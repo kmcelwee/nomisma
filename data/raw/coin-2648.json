@@ -35,6 +35,12 @@
         "0.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2648\",\"call_number_browse\":\"Coin 2648\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1304,
     "pub_date_end_sort": 1350,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denaro provisino"
-    ],
-    "issue_number_s": [
-        "1669"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +96,12 @@
         "Roma, parte I  IX.22.410"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1304 to 1350"
+    ],
     "hashed_id_s": [
         "4befab9500c9cad2"
     ],
-    "_version_": 1667138423874387968,
-    "timestamp": "2020-05-19T16:51:36.743Z"
+    "_version_": 1684903577388056576,
+    "timestamp": "2020-12-01T19:01:07.385Z"
 }

@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 868\",\"call_number_browse\":\"Coin 868\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "86: 2002-01-29 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": 49,
     "pub_date_end_sort": 50,
     "issue_object_type_s": [
@@ -33,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "353"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +101,15 @@
         "Phoenician letter"
     ],
     "issue_monogram_1display": "[{\"title\":\"Phoenician letter\",\"document_id\":\"abfe47f2-bc56-4fc8-9b55-ccfc998cc499\"}]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "49 to 50"
+    ],
     "hashed_id_s": [
         "b1a95950546539a2"
     ],
-    "_version_": 1667138406041255936,
-    "timestamp": "2020-05-19T16:51:19.736Z"
+    "_version_": 1684903180132941824,
+    "timestamp": "2020-12-01T18:54:48.527Z"
 }

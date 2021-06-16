@@ -2,7 +2,7 @@
     "id": "coin-7063",
     "title_display": "Coin: 7063",
     "pub_created_display": [
-        "Constantine I (306 to 337), follis, Antioch"
+        "Maximinus Daia  (305 to 313), AE1, Antioch"
     ],
     "call_number_display": [
         "Coin 7063"
@@ -35,25 +35,28 @@
         "10.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7063\",\"call_number_browse\":\"Coin 7063\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 306,
-    "pub_date_end_sort": 308,
+    "pub_date_end_sort": 306,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "follis"
-    ],
-    "issue_number_s": [
-        "4407"
+        "AE1"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_ruler_s": [
-        "Constantine I (306 to 337)"
+        "Maximinus Daia  (305 to 313)"
     ],
     "issue_workshop_s": [
         "Z"
@@ -71,7 +74,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Head"
+        "Head of Constantius Chlorus"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -82,22 +85,32 @@
     "issue_reverse_figure_s": [
         "Genius populi Romani"
     ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
     "issue_reverse_orientation_s": [
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "r. holds patera, l. cornucopia"
+        "wearing modius, nude, chlamys draped over left shoulder"
     ],
     "issue_reverse_legend_s": [
         "GENIO POPV-LI ROMANI"
     ],
+    "issue_reverse_attributes_s": [
+        "patera, in r. hand",
+        "cornucopia, in l. hand"
+    ],
     "issue_references_s": [
-        "RIC 6 624 74a"
+        "RIC VI  Antioch 74av"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "306 to 306"
+    ],
     "hashed_id_s": [
         "26695f1e472c672e"
     ],
-    "_version_": 1667138360323342336,
-    "timestamp": "2020-05-19T16:50:36.136Z"
+    "_version_": 1684903544184897536,
+    "timestamp": "2020-12-01T19:00:35.715Z"
 }

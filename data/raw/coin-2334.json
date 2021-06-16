@@ -38,8 +38,11 @@
         "0.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2334\",\"call_number_browse\":\"Coin 2334\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -261,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "1496"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -100,9 +100,16 @@
         "ESM  526v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, lyre"
+    ],
+    "issue_date_s": [
+        "-278 to -261"
+    ],
     "hashed_id_s": [
         "b63e4160dbd2f498"
     ],
-    "_version_": 1667138116358504448,
-    "timestamp": "2020-05-19T16:46:43.473Z"
+    "_version_": 1684902962001870848,
+    "timestamp": "2020-12-01T18:51:20.501Z"
 }

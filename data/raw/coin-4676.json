@@ -35,8 +35,11 @@
         "3.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4676\",\"call_number_browse\":\"Coin 4676\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -42,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2542"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +100,12 @@
         "Sear  1447"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -42"
+    ],
     "hashed_id_s": [
         "90088c8d492fd872"
     ],
-    "_version_": 1667138499780804608,
-    "timestamp": "2020-05-19T16:52:49.135Z"
+    "_version_": 1684903311150415872,
+    "timestamp": "2020-12-01T18:56:53.476Z"
 }

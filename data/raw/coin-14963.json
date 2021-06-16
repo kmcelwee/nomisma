@@ -35,8 +35,11 @@
         "16.90"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14963\",\"call_number_browse\":\"Coin 14963\"}}",
-    "donor_s": [
-        "Allan Marquand"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "617:  Allan Marquand"
     ],
     "pub_date_start_sort": -430,
     "pub_date_end_sort": -322,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "9173"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "Catalogue of the Greek Coins in the British Museum British Museum 139var"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-430 to -322"
+    ],
     "hashed_id_s": [
         "d4f7aeb44bfe9268"
     ],
-    "_version_": 1667144699302903808,
-    "timestamp": "2020-05-19T18:31:21.458Z"
+    "_version_": 1684903643623456768,
+    "timestamp": "2020-12-01T19:02:10.546Z"
 }

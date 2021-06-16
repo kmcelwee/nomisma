@@ -50,13 +50,16 @@
         "1.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8204\",\"call_number_browse\":\"Coin 8204\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 324,
     "pub_date_end_sort": 325,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5213"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +112,12 @@
         "RIC.7 p.686 52"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "324 to 325"
+    ],
     "hashed_id_s": [
         "fab809401aaadbf5"
     ],
-    "_version_": 1667145029487951872,
-    "timestamp": "2020-05-19T18:36:36.347Z"
+    "_version_": 1684902918233260032,
+    "timestamp": "2020-12-01T18:50:38.760Z"
 }

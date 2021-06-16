@@ -29,8 +29,11 @@
         "52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15229\",\"call_number_browse\":\"Coin 15229\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1959,
     "pub_date_end_sort": 1961,
@@ -64,10 +67,16 @@
     "issue_reverse_legend_s": [
         "REPUBLICA DE DOMINICANA | 1959 | ERA DE TRUJILLO"
     ],
+    "issue_references_s": [
+        "Thankful Nation Do6 "
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1959 to 1961"
+    ],
     "hashed_id_s": [
         "67f8b46308aaf7d9"
     ],
-    "_version_": 1671710004739047424,
-    "timestamp": "2020-07-09T03:54:56.014Z"
+    "_version_": 1684902914889351168,
+    "timestamp": "2020-12-01T18:50:35.572Z"
 }

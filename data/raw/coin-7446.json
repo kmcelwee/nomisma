@@ -35,8 +35,11 @@
         "3.948"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7446\",\"call_number_browse\":\"Coin 7446\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "586:  Bourgey"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4663"
     ],
     "issue_metal_s": [
         "Silver"
@@ -115,6 +115,6 @@
     "hashed_id_s": [
         "253567b92fc2d02f"
     ],
-    "_version_": 1667138353674321920,
-    "timestamp": "2020-05-19T16:50:29.797Z"
+    "_version_": 1684903250516508672,
+    "timestamp": "2020-12-01T18:55:55.663Z"
 }

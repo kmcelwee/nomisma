@@ -35,8 +35,11 @@
         "16.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 508\",\"call_number_browse\":\"Coin 508\"}}",
-    "donor_s": [
-        "W. Joyce"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "43:  W. Joyce"
     ],
     "pub_date_start_sort": -199,
     "pub_date_end_sort": -198,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "227"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Price  3391"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-199 to -198"
+    ],
     "hashed_id_s": [
         "9d7826c8c69eb5d3"
     ],
-    "_version_": 1667138202609123328,
-    "timestamp": "2020-05-19T16:48:05.729Z"
+    "_version_": 1684903439062007808,
+    "timestamp": "2020-12-01T18:58:55.462Z"
 }

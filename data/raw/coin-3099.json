@@ -35,8 +35,11 @@
         "6.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3099\",\"call_number_browse\":\"Coin 3099\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 4,
     "pub_date_end_sort": 5,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1907"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,16 @@
         "Amandry p.151-56 XIIIg6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Mussius Priscus, C.",
+        "Other Person, Heius Pollio, C."
+    ],
+    "issue_date_s": [
+        "4 to 5"
+    ],
     "hashed_id_s": [
         "0c2f48c1f8da550c"
     ],
-    "_version_": 1667138426263044096,
-    "timestamp": "2020-05-19T16:51:39.022Z"
+    "_version_": 1684903186011258880,
+    "timestamp": "2020-12-01T18:54:54.133Z"
 }

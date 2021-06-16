@@ -35,6 +35,12 @@
         "2.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6618\",\"call_number_browse\":\"Coin 6618\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -206,
     "pub_date_end_sort": -195,
     "issue_object_type_s": [
@@ -43,11 +49,11 @@
     "issue_denomination_s": [
         "victoriatus"
     ],
-    "issue_number_s": [
-        "4039"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -71,10 +77,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate Jupiter head r."
+        "laureate"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -89,13 +95,10 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r., crowning trophy. Thunderbolt between. Legend in exergue."
+        "crowning trophy"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
-    ],
-    "issue_reverse_attributes_s": [
-        "border, Line border."
     ],
     "issue_references_s": [
         "RRC  119/1",
@@ -103,9 +106,12 @@
         "Sear  58"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-206 to -195"
+    ],
     "hashed_id_s": [
         "d9ecc4167257755e"
     ],
-    "_version_": 1667138140197879808,
-    "timestamp": "2020-05-19T16:47:06.208Z"
+    "_version_": 1684903701383217152,
+    "timestamp": "2020-12-01T19:03:05.631Z"
 }

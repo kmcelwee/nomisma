@@ -35,8 +35,11 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6804\",\"call_number_browse\":\"Coin 6804\"}}",
-    "donor_s": [
-        "Joel Malter"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "522: 1991-01-01 Joel Malter"
     ],
     "pub_date_start_sort": 1301,
     "pub_date_end_sort": 1307,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "takvorin"
-    ],
-    "issue_number_s": [
-        "4213"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,9 +108,12 @@
         "Nercessian  419v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1301 to 1307"
+    ],
     "hashed_id_s": [
         "9df874665ac3b8ef"
     ],
-    "_version_": 1667138358702243840,
-    "timestamp": "2020-05-19T16:50:34.590Z"
+    "_version_": 1684903251639533568,
+    "timestamp": "2020-12-01T18:55:56.722Z"
 }

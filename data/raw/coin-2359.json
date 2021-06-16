@@ -2,7 +2,7 @@
     "id": "coin-2359",
     "title_display": "Coin: 2359",
     "pub_created_display": [
-        "Antiochus I Soter (-280 to -261), unit, Antiocheia ad Orontem"
+        "Antiochus I Soter (-280 to -261), half, Antiocheia ad Orontem"
     ],
     "call_number_display": [
         "Coin 2359"
@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "06/15/1937"
@@ -50,16 +50,19 @@
         "1.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2359\",\"call_number_browse\":\"Coin 2359\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -278,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "unit"
-    ],
-    "issue_number_s": [
-        "1516"
+        "half"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +109,16 @@
         "Houghton  17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod"
+    ],
+    "issue_date_s": [
+        "-280 to -278"
+    ],
     "hashed_id_s": [
         "e144439ace2c6c7f"
     ],
-    "_version_": 1669835055953870848,
-    "timestamp": "2020-06-18T11:13:25.502Z"
+    "_version_": 1684903316683751424,
+    "timestamp": "2020-12-01T18:56:58.753Z"
 }

@@ -35,8 +35,11 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1386\",\"call_number_browse\":\"Coin 1386\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -208,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "786"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Sicily, Italy"
@@ -70,17 +73,15 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; behind, X"
-    ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "border, dotted",
+        "X, behind head"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
     ],
     "issue_reverse_symbol_s": [
-        "corn ear"
+        "corn ear below horses"
     ],
     "issue_reverse_part_s": [
         "galloping"
@@ -88,14 +89,11 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Dioscuri r. w/ corn ear below. Legend in linear frame."
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border"
+        "inscription, in linear frame"
     ],
     "issue_references_s": [
         "RRC  68/1a",
@@ -103,9 +101,12 @@
         "Sear  39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -208"
+    ],
     "hashed_id_s": [
         "b37da1b26de11884"
     ],
-    "_version_": 1667138462455693312,
-    "timestamp": "2020-05-19T16:52:13.539Z"
+    "_version_": 1684903697717395456,
+    "timestamp": "2020-12-01T19:03:02.135Z"
 }

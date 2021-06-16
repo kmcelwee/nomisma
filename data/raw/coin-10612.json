@@ -38,8 +38,14 @@
         "4.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10612\",\"call_number_browse\":\"Coin 10612\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 12/01/2001"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6775"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 1 Style A/b Type IIa1/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "f8e76f5ab43073d8"
     ],
-    "_version_": 1667138283341086720,
-    "timestamp": "2020-05-19T16:49:22.723Z"
+    "_version_": 1684903026905579520,
+    "timestamp": "2020-12-01T18:52:22.400Z"
 }

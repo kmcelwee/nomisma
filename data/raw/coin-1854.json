@@ -32,19 +32,22 @@
         "7.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1854\",\"call_number_browse\":\"Coin 1854\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1209"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Nuerhachi / Tai Zu Emperor \u52aa\u723e\u54c8\u8d64 / \u592a\u7956\u5e1d (1616 to 1626)"
@@ -73,6 +76,6 @@
     "hashed_id_s": [
         "faede137586c0f0a"
     ],
-    "_version_": 1667138416473538560,
-    "timestamp": "2020-05-19T16:51:29.687Z"
+    "_version_": 1684903281765122048,
+    "timestamp": "2020-12-01T18:56:25.451Z"
 }

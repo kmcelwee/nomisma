@@ -47,6 +47,9 @@
         "1.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11501\",\"call_number_browse\":\"Coin 11501\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 337,
     "pub_date_end_sort": 347,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7647"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,12 +98,15 @@
         "SMA with star"
     ],
     "issue_references_s": [
-        "RIC 8 515 37"
+        "RIC VIII Antioch 37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "5d9f8fabbbaf0170"
     ],
-    "_version_": 1667138132622966784,
-    "timestamp": "2020-05-19T16:46:58.983Z"
+    "_version_": 1684903687492730880,
+    "timestamp": "2020-12-01T19:02:52.383Z"
 }

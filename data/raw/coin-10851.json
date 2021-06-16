@@ -38,8 +38,14 @@
         "4.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10851\",\"call_number_browse\":\"Coin 10851\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 09/07/2005; 122 (191)"
     ],
     "pub_date_start_sort": 379,
     "pub_date_end_sort": 383,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7011"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3  Mint I (\"Kabul\") Type Ic/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "379 to 383"
+    ],
     "hashed_id_s": [
         "6a4b383913140312"
     ],
-    "_version_": 1667138172319956992,
-    "timestamp": "2020-05-19T16:47:36.843Z"
+    "_version_": 1684903038419992576,
+    "timestamp": "2020-12-01T18:52:33.381Z"
 }

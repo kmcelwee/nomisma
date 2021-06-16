@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Waage is uncertain whether image on obverse is head or a bust. Notes state \"head of Artemis wearing a stephane\" rather than Apollo and refer to \"Date 111 of Caesar era\" or 79 A.D.  Refer to B.M.C. Galatia p. 161 p. 84."
+        "Waage is uncertain whether image on obverse is head or a bust. Notes state \"head of Artemis wearing a stephane\" rather than Apollo and refer to \"Date 111 of Caesar era\" or 79 A.D. Refer to B.M.C. Galatia p. 161 p. 84."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "04/04/1935"
     ],
-    "find_feature_s": [
-        "Room 4"
-    ],
     "find_locus_s": [
-        "15-R"
+        "A 15-R"
     ],
     "find_number_s": [
         "C4190"
     ],
     "find_description_s": [
-        "Alone polyg struck jt wall -.60 m to 0 on wall top"
+        "Room 4, along polyg struck jt wall, on wall top, surface to .6m"
     ],
     "die_axis_s": [
         "1"
@@ -56,6 +53,12 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3018\",\"call_number_browse\":\"Coin 3018\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 62,
     "pub_date_end_sort": 63,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1870"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -106,9 +112,6 @@
     "issue_reverse_figure_description_s": [
         "circlet of raised dots around rim of coin"
     ],
-    "issue_reverse_figure_relationship_s": [
-        "AIR located at top of lyre"
-    ],
     "issue_reverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395 \u0395T AIR"
     ],
@@ -117,9 +120,12 @@
         "BMC Gal. Antioch 84"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "62 to 63"
+    ],
     "hashed_id_s": [
         "d171abf22b2c043f"
     ],
-    "_version_": 1667138164296253440,
-    "timestamp": "2020-05-19T16:47:29.191Z"
+    "_version_": 1684902933386231808,
+    "timestamp": "2020-12-01T18:50:53.213Z"
 }

@@ -50,6 +50,9 @@
         "5.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10262\",\"call_number_browse\":\"Coin 10262\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 218,
     "pub_date_end_sort": 222,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "small"
-    ],
-    "issue_number_s": [
-        "6509"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "BMC Syria  445"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "62faa418f4060939"
     ],
-    "_version_": 1667138194844418048,
-    "timestamp": "2020-05-19T16:47:58.323Z"
+    "_version_": 1684903434229121024,
+    "timestamp": "2020-12-01T18:58:50.855Z"
 }

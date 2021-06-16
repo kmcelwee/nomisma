@@ -35,8 +35,8 @@
         "928.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1961\",\"call_number_browse\":\"Coin 1961\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_accession_s": [
+        "274:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1/15 Shilling"
-    ],
-    "issue_number_s": [
-        "1285"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,6 +96,6 @@
     "hashed_id_s": [
         "b02443b3925e52f2"
     ],
-    "_version_": 1667138417575591936,
-    "timestamp": "2020-05-19T16:51:30.738Z"
+    "_version_": 1684903192877334528,
+    "timestamp": "2020-12-01T18:55:00.683Z"
 }

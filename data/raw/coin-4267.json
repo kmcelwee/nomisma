@@ -38,8 +38,11 @@
         "3.532"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4267\",\"call_number_browse\":\"Coin 4267\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1400,
     "pub_date_end_sort": 1413,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2417"
     ],
     "issue_metal_s": [
         "Gold"
@@ -80,9 +80,12 @@
         ".SI.TTN.9C.DA(upside down)T.A(upside down). .KEC.IS.TE.C.VCA(upside down)T."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1400 to 1413"
+    ],
     "hashed_id_s": [
         "31f97bcb5ba3605b"
     ],
-    "_version_": 1667138235575304192,
-    "timestamp": "2020-05-19T16:48:37.169Z"
+    "_version_": 1684902989791232000,
+    "timestamp": "2020-12-01T18:51:47.004Z"
 }

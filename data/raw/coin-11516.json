@@ -35,8 +35,8 @@
         "2.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11516\",\"call_number_browse\":\"Coin 11516\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 751,
     "pub_date_end_sort": 775,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7636"
     ],
     "issue_metal_s": [
         "Copper"
@@ -103,9 +100,12 @@
         "BMC.Byz. 385 35"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "751 to 775"
+    ],
     "hashed_id_s": [
         "6dc7c2394b2d3c83"
     ],
-    "_version_": 1667138294973988864,
-    "timestamp": "2020-05-19T16:49:33.816Z"
+    "_version_": 1684903505562697728,
+    "timestamp": "2020-12-01T18:59:58.882Z"
 }

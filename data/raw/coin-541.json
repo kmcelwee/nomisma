@@ -35,8 +35,11 @@
         "0.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 541\",\"call_number_browse\":\"Coin 541\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 1266,
     "pub_date_end_sort": 1270,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "242"
     ],
     "issue_metal_s": [
         "Silver"
@@ -78,9 +78,12 @@
         "Robert  4857"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1266 to 1270"
+    ],
     "hashed_id_s": [
         "e82d2e1844fb57ee"
     ],
-    "_version_": 1667138127698853888,
-    "timestamp": "2020-05-19T16:46:54.288Z"
+    "_version_": 1684902904070144000,
+    "timestamp": "2020-12-01T18:50:25.253Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-8242",
     "title_display": "Coin: 8242",
     "pub_created_display": [
-        "Tiberius II (578 to 582), 10 nummi, Antioch"
+        "Tiberius II   (574 to 582), 10 nummi, Antioch"
     ],
     "call_number_display": [
         "Coin 8242"
@@ -53,6 +53,12 @@
         "1.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8242\",\"call_number_browse\":\"Coin 8242\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -61,14 +67,11 @@
     "issue_denomination_s": [
         "10 nummi"
     ],
-    "issue_number_s": [
-        "5254"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius II (578 to 582)"
+        "Tiberius II   (574 to 582)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Byzantium"
@@ -106,6 +109,6 @@
     "hashed_id_s": [
         "ec92cccb14c94848"
     ],
-    "_version_": 1667144891658928128,
-    "timestamp": "2020-05-19T18:36:20.152Z"
+    "_version_": 1684903357883351040,
+    "timestamp": "2020-12-01T18:57:38.044Z"
 }

@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "1246"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -96,6 +93,6 @@
     "hashed_id_s": [
         "fb3b0fb5a9fdfd35"
     ],
-    "_version_": 1667138468284727296,
-    "timestamp": "2020-05-19T16:52:19.096Z"
+    "_version_": 1683105230819950592,
+    "timestamp": "2020-11-11T22:37:10.445Z"
 }

@@ -29,7 +29,7 @@
         "Exergue above and beneath legend effaced"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "08/03/1937"
@@ -53,6 +53,12 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2243\",\"call_number_browse\":\"Coin 2243\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -286,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "1450"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -115,9 +118,16 @@
         "Houghton  11"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Medusa",
+        "Animal, bull"
+    ],
+    "issue_date_s": [
+        "-286 to -281"
+    ],
     "hashed_id_s": [
         "ea7f8237a44adde8"
     ],
-    "_version_": 1669831435561730048,
-    "timestamp": "2020-06-18T10:15:52.827Z"
+    "_version_": 1684903315582746624,
+    "timestamp": "2020-12-01T18:56:57.703Z"
 }

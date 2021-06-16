@@ -35,16 +35,16 @@
         "30.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5952\",\"call_number_browse\":\"Coin 5952\"}}",
-    "donor_s": [
-        "M. Goodridge"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "417: 2008-12-03 M. Goodridge"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3443"
     ],
     "issue_metal_s": [
         "Lead"
@@ -87,9 +87,12 @@
         "Jan Smeltzing, S.N."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Flight of James II    "
+    ],
     "hashed_id_s": [
         "1790812ce6a6933c"
     ],
-    "_version_": 1667138249836986368,
-    "timestamp": "2020-05-19T16:48:50.767Z"
+    "_version_": 1684903472488513536,
+    "timestamp": "2020-12-01T18:59:27.340Z"
 }

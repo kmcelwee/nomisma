@@ -53,6 +53,9 @@
         "1.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12264\",\"call_number_browse\":\"Coin 12264\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 336,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -61,9 +64,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "8265"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -71,13 +71,13 @@
         "Constantine I (306 to 337)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -107,9 +107,12 @@
         "RIC.7 659 122"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "336 to 337"
+    ],
     "hashed_id_s": [
         "5c5a944c32b3ec4f"
     ],
-    "_version_": 1667138303151833088,
-    "timestamp": "2020-05-19T16:49:41.613Z"
+    "_version_": 1684903514734592000,
+    "timestamp": "2020-12-01T19:00:07.629Z"
 }

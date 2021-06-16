@@ -50,6 +50,12 @@
         "13.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4044\",\"call_number_browse\":\"Coin 4044\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "2284"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -111,9 +114,12 @@
         " Justin I 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "44860c93e200ee12"
     ],
-    "_version_": 1667138111746867200,
-    "timestamp": "2020-05-19T16:46:39.075Z"
+    "_version_": 1684902933880111104,
+    "timestamp": "2020-12-01T18:50:53.689Z"
 }

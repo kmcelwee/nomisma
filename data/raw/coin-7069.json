@@ -2,7 +2,7 @@
     "id": "coin-7069",
     "title_display": "Coin: 7069",
     "pub_created_display": [
-        "sextans"
+        "sextans, Rome"
     ],
     "call_number_display": [
         "Coin 7069"
@@ -41,25 +41,34 @@
         "51.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7069\",\"call_number_browse\":\"Coin 7069\"}}",
-    "pub_date_start_sort": -300,
-    "pub_date_end_sort": -211,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -275,
+    "pub_date_end_sort": -270,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sextans"
     ],
-    "issue_number_s": [
-        "4413"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_place_s": [
-        "Campania, Italy"
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
     ],
     "issue_state_s": [
-        "Campania"
+        "Latium"
     ],
     "issue_region_s": [
         "Italy"
@@ -90,12 +99,16 @@
     ],
     "issue_references_s": [
         "Haeb. pl. 36 12",
-        "Aes Grave  1606"
+        "Aes Grave  1606",
+        "RRC  18/5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-275 to -270"
+    ],
     "hashed_id_s": [
         "831c9e2f10007dd5"
     ],
-    "_version_": 1667138360247844864,
-    "timestamp": "2020-05-19T16:50:36.066Z"
+    "_version_": 1684903703946985472,
+    "timestamp": "2020-12-01T19:03:08.075Z"
 }

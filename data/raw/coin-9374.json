@@ -29,16 +29,16 @@
         "3.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9374\",\"call_number_browse\":\"Coin 9374\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5994"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -47,6 +47,6 @@
     "hashed_id_s": [
         "13689cd00a7bee2b"
     ],
-    "_version_": 1667138275023781888,
-    "timestamp": "2020-05-19T16:49:14.788Z"
+    "_version_": 1684903493272338432,
+    "timestamp": "2020-12-01T18:59:47.160Z"
 }

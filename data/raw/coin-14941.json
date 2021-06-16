@@ -35,8 +35,14 @@
         "33.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14941\",\"call_number_browse\":\"Coin 14941\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1979,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2nd Grade"
-    ],
-    "issue_number_s": [
-        "9156"
     ],
     "issue_metal_s": [
         "Silvered"
@@ -84,9 +87,12 @@
         "World Orders of Knighthood and Merit  1067-68"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1979 to "
+    ],
     "hashed_id_s": [
         "a0b414330b4f95f5"
     ],
-    "_version_": 1667696843375509504,
-    "timestamp": "2020-05-25T20:47:27.066Z"
+    "_version_": 1684902907394129920,
+    "timestamp": "2020-12-01T18:50:28.423Z"
 }

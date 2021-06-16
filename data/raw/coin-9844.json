@@ -47,6 +47,9 @@
         "1.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9844\",\"call_number_browse\":\"Coin 9844\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6227"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,7 +77,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Woman"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -86,7 +86,7 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled woman"
+        "Bust of Constantine II"
     ],
     "issue_obverse_legend_s": [
         "DV CONSTANTINVS [PT AVGG]"
@@ -111,9 +111,12 @@
         "Waage 121 1458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "a444346682c4e17f"
     ],
-    "_version_": 1667138137080463360,
-    "timestamp": "2020-05-19T16:47:03.237Z"
+    "_version_": 1684903687107903488,
+    "timestamp": "2020-12-01T19:02:52.016Z"
 }

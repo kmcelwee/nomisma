@@ -32,6 +32,9 @@
         "94x69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3722\",\"call_number_browse\":\"Coin 3722\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "20 Shillings"
-    ],
-    "issue_number_s": [
-        "2184"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +78,12 @@
         "Shafer & Cuhaj p. 1148 S2540G"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "6a3afe61ec156cba"
     ],
-    "_version_": 1667138433209860096,
-    "timestamp": "2020-05-19T16:51:45.646Z"
+    "_version_": 1684903283577061376,
+    "timestamp": "2020-12-01T18:56:27.181Z"
 }

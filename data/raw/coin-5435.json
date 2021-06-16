@@ -38,8 +38,11 @@
         "6.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5435\",\"call_number_browse\":\"Coin 5435\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Ratto, Milan; 6/1963; Lire 75,000"
     ],
     "pub_date_start_sort": -510,
     "pub_date_end_sort": -450,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3059"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Vlasto Coll.  135"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-510 to -450"
+    ],
     "hashed_id_s": [
         "774cfb69ab17fa7c"
     ],
-    "_version_": 1667138393638699008,
-    "timestamp": "2020-05-19T16:51:07.909Z"
+    "_version_": 1684903268198645760,
+    "timestamp": "2020-12-01T18:56:12.514Z"
 }

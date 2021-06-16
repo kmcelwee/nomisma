@@ -32,6 +32,9 @@
         "88x70"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3653\",\"call_number_browse\":\"Coin 3653\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "14 Shillings"
-    ],
-    "issue_number_s": [
-        "2156"
     ],
     "issue_metal_s": [
         "Paper"
@@ -81,6 +81,6 @@
     "hashed_id_s": [
         "7ed3be9948bb9852"
     ],
-    "_version_": 1667138441236709376,
-    "timestamp": "2020-05-19T16:51:53.302Z"
+    "_version_": 1684903211228463104,
+    "timestamp": "2020-12-01T18:55:18.181Z"
 }

@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/25/1938"
-    ],
-    "find_feature_s": [
-        "Trench 9; Surface (A1)"
+        "06/25/1938"
     ],
     "find_locus_s": [
-        "13-R (N)"
+        "A 13-R (N.)"
     ],
     "find_number_s": [
         "Cb3432"
+    ],
+    "find_description_s": [
+        "Trench 9, surface (A1)"
     ],
     "die_axis_s": [
         "2"
@@ -50,6 +50,12 @@
         "2.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3965\",\"call_number_browse\":\"Coin 3965\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 11,
     "pub_date_end_sort": 12,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2273"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,13 +101,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head, r., veiled and turreted"
+        "veiled and turreted"
     ],
     "issue_reverse_figure_s": [
         "Ear of corn"
     ],
     "issue_reverse_figure_description_s": [
-        "3 ears of corn; in field, BM"
+        "3 ears of corn"
     ],
     "issue_reverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -110,9 +119,12 @@
         "RPC.1  4267"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "11 to 12"
+    ],
     "hashed_id_s": [
         "faff463aa746fcad"
     ],
-    "_version_": 1667138485467742208,
-    "timestamp": "2020-05-19T16:52:35.485Z"
+    "_version_": 1684903620035739648,
+    "timestamp": "2020-12-01T19:01:48.051Z"
 }

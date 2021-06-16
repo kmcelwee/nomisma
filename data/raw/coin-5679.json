@@ -26,22 +26,34 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin.  Size: 22 mm. Weight:  7.51 g. Die axis indeterminate.  Both obverse and reverse completely obliterated.  Coin surface is  slightly pitted and has slight green patination.  No accesion number."
+        "Fragment, half coin. Both obverse and reverse completely obliterated. Coin surface is slightly pitted and has slight green patination. No accesion number."
     ],
     "find_date_s": [
         "08/11/1934"
     ],
-    "find_feature_s": [
-        "Dig IV"
-    ],
     "find_locus_s": [
-        "16-P"
+        "A 16-P"
     ],
     "find_description_s": [
-        "Medieval cemetery underneath tomb 3."
+        "Dig IV, medieval cemetery, underneath tomb 3."
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "22"
+    ],
+    "weight_s": [
+        "7.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5679\",\"call_number_browse\":\"Coin 5679\"}}",
-    "pub_date_start_sort": 27,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
         "coin"
@@ -49,11 +61,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3039"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -74,15 +86,21 @@
         "Head"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head, of a generic Julio Claudian type"
+        "of a generic Julio Claudian type"
     ],
     "issue_reverse_figure_description_s": [
         "none (see notes)"
     ],
+    "issue_references_s": [
+        "Waage  869v"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "4f024a8584741362"
     ],
-    "_version_": 1667138387833782272,
-    "timestamp": "2020-05-19T16:51:02.373Z"
+    "_version_": 1684902891438997504,
+    "timestamp": "2020-12-01T18:50:13.208Z"
 }

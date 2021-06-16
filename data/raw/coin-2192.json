@@ -35,8 +35,11 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2192\",\"call_number_browse\":\"Coin 2192\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -286,
     "pub_date_end_sort": -281,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1429"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +92,7 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 | \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "\u03a3, between right and left hind leg"
+        "\u039e, in exergue"
     ],
     "issue_references_s": [
         "H & L  22.1v",
@@ -101,9 +101,16 @@
         "Sear  6852"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Medusa",
+        "Animal, bull"
+    ],
+    "issue_date_s": [
+        "-286 to -281"
+    ],
     "hashed_id_s": [
         "4eae4e0f1111f8b7"
     ],
-    "_version_": 1667138112748257280,
-    "timestamp": "2020-05-19T16:46:40.033Z"
+    "_version_": 1684902892600819712,
+    "timestamp": "2020-12-01T18:50:14.317Z"
 }

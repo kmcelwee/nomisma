@@ -35,8 +35,11 @@
         "76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2727\",\"call_number_browse\":\"Coin 2727\"}}",
-    "donor_s": [
-        "Rodman Wanamaker"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "309: 1923-07-31 Rodman Wanamaker"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dirham"
-    ],
-    "issue_number_s": [
-        "27"
     ],
     "issue_metal_s": [
         "Silver"
@@ -78,9 +78,12 @@
         "BMC 342 801"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "138"
+    ],
     "hashed_id_s": [
         "d963caef88be2853"
     ],
-    "_version_": 1667138445051428864,
-    "timestamp": "2020-05-19T16:51:56.938Z"
+    "_version_": 1684903289267683328,
+    "timestamp": "2020-12-01T18:56:32.606Z"
 }

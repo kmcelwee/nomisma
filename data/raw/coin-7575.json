@@ -2,7 +2,7 @@
     "id": "coin-7575",
     "title_display": "Coin: 7575",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7575"
@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "July 4, 1934"
+        "1934-07-04"
     ],
     "find_feature_s": [
-        "Circus, Trench 2"
+        "Over W. arena, N. end"
     ],
     "find_locus_s": [
-        "7-N"
+        "DS 7-N"
     ],
     "find_number_s": [
         "C3111"
-    ],
-    "find_description_s": [
-        " over wash arena, north end"
     ],
     "die_axis_s": [
         "6"
@@ -53,6 +50,12 @@
         "19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7575\",\"call_number_browse\":\"Coin 7575\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 324,
     "pub_date_end_sort": 325,
     "issue_object_type_s": [
@@ -61,14 +64,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4740"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -98,16 +98,19 @@
         "legend/script in three lines, star above"
     ],
     "issue_reverse_legend_s": [
-        "CONSTANT/TINVS/CAESAR"
+        "CONSTANT/TINVS/CAESAR | SMANT"
     ],
     "issue_references_s": [
-        "RIC 7 686.54",
+        "RIC VII Antioch 54",
         "Cohen 7 373.83"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "324 to 325"
+    ],
     "hashed_id_s": [
         "0246a865543cc945"
     ],
-    "_version_": 1667138260258783232,
-    "timestamp": "2020-05-19T16:49:00.708Z"
+    "_version_": 1690829985861861376,
+    "timestamp": "2021-02-05T04:58:50.943Z"
 }

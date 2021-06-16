@@ -35,6 +35,15 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4176\",\"call_number_browse\":\"Coin 4176\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; $1.25"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2380"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "draped; border of dots"
+        "(possibly Roma) draped"
     ],
     "issue_obverse_legend_s": [
-        "M CATO \u0393RO \u0393R"
+        "M.CATO.PRO.PR"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -92,14 +101,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "holds patera in r. hand, palm branch in l. hand; legend in exergue, TR in monogram; border of dots"
+        "holding patera in r. hand, palm branch in l. hand, over l. shoulder; legend in exergue, TR in monogram"
     ],
     "issue_reverse_legend_s": [
         "VICTRIX"
     ],
     "issue_reverse_attributes_s": [
         "patera, in right hand",
-        "palm branch, in left hand"
+        "palm branch, in left hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  462/1c",
@@ -107,9 +117,12 @@
         "Sear  1381"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "08c7c59ea56cdc30"
     ],
-    "_version_": 1667138491643854848,
-    "timestamp": "2020-05-19T16:52:41.373Z"
+    "_version_": 1684903235948642304,
+    "timestamp": "2020-12-01T18:55:41.759Z"
 }

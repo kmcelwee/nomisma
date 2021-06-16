@@ -34,11 +34,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "8821"
-    ],
     "issue_metal_s": [
         "White Copper"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Gao Zu \u5510\u9ad8\u7956 (Li Yuan \u674e\u6df5) (618 to 626)"
@@ -59,9 +59,12 @@
         "wei jin sui tang qian bi: \u9b4f\u664b\u968b\u5510\u9322\u5e63 188 739"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "6a7eaa304b6ba77e"
     ],
-    "_version_": 1667138324966408192,
-    "timestamp": "2020-05-19T16:50:02.417Z"
+    "_version_": 1684903522585280512,
+    "timestamp": "2020-12-01T19:00:15.115Z"
 }

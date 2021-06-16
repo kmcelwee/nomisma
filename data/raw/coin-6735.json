@@ -35,6 +35,12 @@
         "4.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6735\",\"call_number_browse\":\"Coin 6735\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "kardez"
-    ],
-    "issue_number_s": [
-        "4144"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,9 +102,12 @@
         "Nercessian  359v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "0c78de17c7a02a80"
     ],
-    "_version_": 1667138363022376960,
-    "timestamp": "2020-05-19T16:50:38.712Z"
+    "_version_": 1684903545051021312,
+    "timestamp": "2020-12-01T19:00:36.542Z"
 }

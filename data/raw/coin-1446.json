@@ -35,8 +35,11 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1446\",\"call_number_browse\":\"Coin 1446\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -19,
     "pub_date_end_sort": -15,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "846"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +94,12 @@
         "Sear  1613"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-19 to -15"
+    ],
     "hashed_id_s": [
         "f25564f94bd42399"
     ],
-    "_version_": 1667138463891193856,
-    "timestamp": "2020-05-19T16:52:14.907Z"
+    "_version_": 1684903606749233152,
+    "timestamp": "2020-12-01T19:01:35.382Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-13848",
     "title_display": "Coin: 13848",
     "pub_created_display": [
-        "Diocletian, aureus, Trier"
+        "Maximianus Herculius (285 to 310), aureus, Trier"
     ],
     "call_number_display": [
         "Coin 13848"
@@ -35,69 +35,81 @@
         "4.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13848\",\"call_number_browse\":\"Coin 13848\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
+    ],
+    "pub_date_start_sort": 295,
+    "pub_date_end_sort": 305,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "aureus"
     ],
-    "issue_number_s": [
-        "8896"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
-    "issue_ruler_s": [
-        "Diocletian"
+    "issue_shape_s": [
+        "round"
     ],
-    "issue_workshop_s": [
-        "TR"
+    "issue_ruler_s": [
+        "Maximianus Herculius (285 to 310)"
     ],
     "issue_place_s": [
-        "Trier, Belgica 1, Roman Empire"
+        "Trier, Gaul, Roman Empire"
     ],
     "issue_city_s": [
         "Trier"
     ],
     "issue_state_s": [
-        "Belgica 1"
+        "Gaul"
     ],
     "issue_region_s": [
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Diocletian"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
         "right"
     ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
+    ],
     "issue_obverse_legend_s": [
-        "DIOCLE TIANUSAUG"
+        "DIOCLETIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
     ],
     "issue_reverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_reverse_orientation_s": [
         "right"
     ],
+    "issue_reverse_figure_description_s": [
+        "laureate"
+    ],
     "issue_reverse_legend_s": [
-        "IOVICONS ERVATORI"
+        "IOVI CONS-ERVATORI / TR"
+    ],
+    "issue_references_s": [
+        "RIC VI  Treveri 54"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "295 to 305"
+    ],
     "hashed_id_s": [
         "865608ed5332cb27"
     ],
-    "_version_": 1667144762795229184,
-    "timestamp": "2020-05-19T18:32:22.009Z"
+    "_version_": 1684903357560389632,
+    "timestamp": "2020-12-01T18:57:37.736Z"
 }

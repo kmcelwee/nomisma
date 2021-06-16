@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "4/1/1935"
@@ -47,6 +47,12 @@
         "28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7276\",\"call_number_browse\":\"Coin 7276\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -232,
     "pub_date_end_sort": -228,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "4525"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -120,9 +123,12 @@
         "WSM  1015"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-232 to -228"
+    ],
     "hashed_id_s": [
         "eda195d9dc0f5114"
     ],
-    "_version_": 1670208518945243136,
-    "timestamp": "2020-06-22T14:09:27.566Z"
+    "_version_": 1684902967304519680,
+    "timestamp": "2020-12-01T18:51:25.558Z"
 }

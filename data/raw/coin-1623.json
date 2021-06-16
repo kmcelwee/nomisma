@@ -38,8 +38,11 @@
         "2.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1623\",\"call_number_browse\":\"Coin 1623\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -157,
     "pub_date_end_sort": -156,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1014"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; behind, X."
+        "helmeted; behind, X."
     ],
     "issue_obverse_attributes_s": [
-        "dots, border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -92,13 +92,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r. in biga, with whip  in r. hand and reins in l. hand. Legend in exergue."
+        "in biga, holding reins in l. hand and goad in r. hand; in exergue, legend."
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, border"
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  197/1b",
@@ -106,9 +106,12 @@
         "Sear  76"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-157 to -156"
+    ],
     "hashed_id_s": [
         "5176b8981b9bd7fe"
     ],
-    "_version_": 1667138465394851840,
-    "timestamp": "2020-05-19T16:52:16.342Z"
+    "_version_": 1684903222134702080,
+    "timestamp": "2020-12-01T18:55:28.583Z"
 }

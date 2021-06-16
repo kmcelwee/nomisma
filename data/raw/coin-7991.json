@@ -50,6 +50,12 @@
         "3.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7991\",\"call_number_browse\":\"Coin 7991\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1075,
     "pub_date_end_sort": 1080,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5024"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Sear  1889"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1075 to 1080"
+    ],
     "hashed_id_s": [
         "fed8be24d65258a9"
     ],
-    "_version_": 1667138350294761472,
-    "timestamp": "2020-05-19T16:50:26.572Z"
+    "_version_": 1684903535940993024,
+    "timestamp": "2020-12-01T19:00:27.852Z"
 }

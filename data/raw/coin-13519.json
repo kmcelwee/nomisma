@@ -29,7 +29,7 @@
         "Attribution unclear"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/23/1935"
@@ -50,6 +50,12 @@
         "3.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13519\",\"call_number_browse\":\"Coin 13519\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -208,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8613"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -119,9 +122,12 @@
         "H & L I, 459 1249"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -208"
+    ],
     "hashed_id_s": [
         "ca10346403980e08"
     ],
-    "_version_": 1670211530909548544,
-    "timestamp": "2020-06-22T14:57:19.998Z"
+    "_version_": 1684902905948143616,
+    "timestamp": "2020-12-01T18:50:27.044Z"
 }

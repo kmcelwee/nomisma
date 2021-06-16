@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "30 shillings"
     ],
-    "issue_number_s": [
-        "3110"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,9 +75,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "ae686d34cdee71e7"
     ],
-    "_version_": 1667138392191664128,
-    "timestamp": "2020-05-19T16:51:06.528Z"
+    "_version_": 1684903558584991744,
+    "timestamp": "2020-12-01T19:00:49.448Z"
 }

@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "08/19/1935"
@@ -47,6 +47,12 @@
         "2.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2244\",\"call_number_browse\":\"Coin 2244\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -286,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "1452"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +102,16 @@
         "WSM  930v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Medusa",
+        "Animal, bull"
+    ],
+    "issue_date_s": [
+        "-286 to -281"
+    ],
     "hashed_id_s": [
         "589f01de578621f1"
     ],
-    "_version_": 1670207884283084800,
-    "timestamp": "2020-06-22T13:59:22.304Z"
+    "_version_": 1684902904476991488,
+    "timestamp": "2020-12-01T18:50:25.641Z"
 }

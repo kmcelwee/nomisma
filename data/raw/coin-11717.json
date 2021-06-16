@@ -38,8 +38,11 @@
         "2.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11717\",\"call_number_browse\":\"Coin 11717\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 531,
     "pub_date_end_sort": 578,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7816"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "Mochiri  1202"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "531 to 578"
+    ],
     "hashed_id_s": [
         "90dd1a87bfdeb0b9"
     ],
-    "_version_": 1667138296773345280,
-    "timestamp": "2020-05-19T16:49:35.533Z"
+    "_version_": 1684903147333484544,
+    "timestamp": "2020-12-01T18:54:17.249Z"
 }

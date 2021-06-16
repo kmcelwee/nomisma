@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/22/1938"
+        "1938-08-22"
+    ],
+    "find_feature_s": [
+        "Dump"
     ],
     "find_locus_s": [
-        "18-0"
+        "A 18-O"
     ],
     "find_number_s": [
         "Cb4463"
@@ -47,6 +50,12 @@
         "2.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11780\",\"call_number_browse\":\"Coin 11780\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 320,
     "pub_date_end_sort": 321,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7873"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +104,12 @@
         "RIC 7 319 225"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "320 to 321"
+    ],
     "hashed_id_s": [
         "b16685830677249b"
     ],
-    "_version_": 1667138125771571200,
-    "timestamp": "2020-05-19T16:46:52.451Z"
+    "_version_": 1696405286694158336,
+    "timestamp": "2021-04-07T17:55:52.140Z"
 }

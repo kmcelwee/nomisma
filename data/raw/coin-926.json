@@ -35,8 +35,11 @@
         "3.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 926\",\"call_number_browse\":\"Coin 926\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -328,
     "pub_date_end_sort": -323,
@@ -99,9 +102,12 @@
         "Price  1499v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-328 to -323"
+    ],
     "hashed_id_s": [
         "2447498e8b760b01"
     ],
-    "_version_": 1674078929166532608,
-    "timestamp": "2020-08-04T07:27:58.382Z"
+    "_version_": 1684903093200748544,
+    "timestamp": "2020-12-01T18:53:25.622Z"
 }

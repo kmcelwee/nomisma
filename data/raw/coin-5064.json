@@ -35,8 +35,11 @@
         "3.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5064\",\"call_number_browse\":\"Coin 5064\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": -54,
     "pub_date_end_sort": -54,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2802"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Iunius Brutus (c. -85 to -42)"
@@ -76,11 +79,11 @@
     "issue_obverse_orientation_s": [
         "right"
     ],
-    "issue_obverse_figure_description_s": [
-        "head r.; border of dots"
-    ],
     "issue_obverse_legend_s": [
         "LIBERTAS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "L. Iunius Brutus"
@@ -92,13 +95,13 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "L. Iunius Brutus, Cos. 509, walking left between two lictors with fasces, all preceded by accensus; legend in exergue; border of dots"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "Ancestor; Cos. 509"
+        "between two lictors carrying fasces and preceded by an accensus."
     ],
     "issue_reverse_legend_s": [
         "BRVTVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  433/1",
@@ -106,9 +109,12 @@
         "Sear  397"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-54 to -54"
+    ],
     "hashed_id_s": [
         "7c8e160d6c80f7b1"
     ],
-    "_version_": 1667138510236155904,
-    "timestamp": "2020-05-19T16:52:59.105Z"
+    "_version_": 1684903314011979776,
+    "timestamp": "2020-12-01T18:56:56.206Z"
 }

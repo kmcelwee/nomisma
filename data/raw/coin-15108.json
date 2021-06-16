@@ -2,7 +2,7 @@
     "id": "coin-15108",
     "title_display": "Coin: 15108",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15108"
@@ -35,22 +35,25 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15108\",\"call_number_browse\":\"Coin 15108\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "pub_date_start_sort": 140,
+    "pub_date_end_sort": 143,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9270"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
+    ],
+    "issue_era_s": [
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -68,26 +71,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bare head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG-PIVS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS III"
     ],
     "issue_reverse_figure_s": [
-        "Young half-dr. male figure standing facing, head r. with sceptre and cornucopiae"
+        "Genius populi Romani"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "standing front, head right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naked to waist,"
     ],
     "issue_reverse_legend_s": [
-        "GENIVS-POP ROMANI"
+        "GENIVS POP ROMAN"
+    ],
+    "issue_reverse_attributes_s": [
+        "vertical sceptre, in r. hand",
+        "cornucopiae, in l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 32 207-8",
-        "Strack  89",
-        "Roman Imperial Coinage 34 70a"
+        "RIC III  Antoninus Pius 70a",
+        "BMC.4 32 207-8",
+        "Strack  89"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 143"
+    ],
     "hashed_id_s": [
         "0b3e77213a3de539"
     ],
-    "_version_": 1667145457524015104,
-    "timestamp": "2020-05-19T18:43:24.554Z"
+    "_version_": 1684903683917086720,
+    "timestamp": "2020-12-01T19:02:48.973Z"
 }

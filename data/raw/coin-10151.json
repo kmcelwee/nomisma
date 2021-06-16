@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "imitation"
     ],
-    "issue_number_s": [
-        "6412"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,6 +86,6 @@
     "hashed_id_s": [
         "85f573b4832e3fef"
     ],
-    "_version_": 1667138280522514432,
-    "timestamp": "2020-05-19T16:49:20.032Z"
+    "_version_": 1684903023692742656,
+    "timestamp": "2020-12-01T18:52:19.334Z"
 }

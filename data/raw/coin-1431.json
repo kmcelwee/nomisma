@@ -38,8 +38,11 @@
         "13.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1431\",\"call_number_browse\":\"Coin 1431\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "206: 1930-03-01 W.S. Watson"
     ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -275,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "828"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "Celts AR  vii (v)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -275"
+    ],
     "hashed_id_s": [
         "9a723ad94928f20c"
     ],
-    "_version_": 1667138413147455488,
-    "timestamp": "2020-05-19T16:51:26.514Z"
+    "_version_": 1684903278974861312,
+    "timestamp": "2020-12-01T18:56:22.792Z"
 }

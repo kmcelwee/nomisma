@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Bent and Scored"
+        "Bent and Scared"
     ],
     "die_axis_s": [
         "2"
@@ -38,8 +38,11 @@
         "2.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14787\",\"call_number_browse\":\"Coin 14787\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
     ],
     "pub_date_start_sort": -76,
     "pub_date_end_sort": -75,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9074"
     ],
     "issue_metal_s": [
         "Silver"
@@ -62,60 +62,58 @@
         "plain"
     ],
     "issue_master_s": [
-        "Cn. Lentulus  "
+        "Cn. Cornelius Lentulus Marcellinus  (90 to 48)"
     ],
     "issue_place_s": [
-        "Rome"
+        "Hispania"
     ],
     "issue_region_s": [
-        "Rome"
+        "Hispania"
     ],
     "issue_obverse_figure_s": [
         "Genius Populi Romani"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing Right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Draped, Hair tied with Band"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Scepter over shoulder"
+        "draped and hair tied with band"
     ],
     "issue_obverse_legend_s": [
         "G.P.R."
     ],
     "issue_obverse_attributes_s": [
-        "Border, Dots"
+        "sceptre, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Wreathed Scepter, Globe, Rudder"
-    ],
-    "issue_reverse_symbol_s": [
-        "EX S.C."
+        "Sceptre"
     ],
     "issue_reverse_orientation_s": [
         "Centered"
     ],
-    "issue_reverse_figure_relationship_s": [
-        "Between symbols"
+    "issue_reverse_figure_description_s": [
+        "with wreath, globe and rudder"
     ],
     "issue_reverse_legend_s": [
-        "CN.LEN.Q."
+        "EX S\u00b7C CN\u00b7LEN Q"
     ],
     "issue_reverse_attributes_s": [
-        "Border, Dots"
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  393-1a"
+        "RRC  393/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -75"
+    ],
     "hashed_id_s": [
         "5df079404b2b2d4f"
     ],
-    "_version_": 1667309532973367296,
-    "timestamp": "2020-05-21T14:11:19.099Z"
+    "_version_": 1684903688964931584,
+    "timestamp": "2020-12-01T19:02:53.788Z"
 }

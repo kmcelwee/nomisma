@@ -38,8 +38,14 @@
         "4.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11228\",\"call_number_browse\":\"Coin 11228\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Linda's Coins; 04/20/2007"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7394"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  WYHC Type II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "58cca9d15a756ee8"
     ],
-    "_version_": 1667138161575198720,
-    "timestamp": "2020-05-19T16:47:26.596Z"
+    "_version_": 1684902925204193280,
+    "timestamp": "2020-12-01T18:50:45.410Z"
 }

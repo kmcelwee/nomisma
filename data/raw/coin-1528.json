@@ -32,8 +32,11 @@
         "81.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1528\",\"call_number_browse\":\"Coin 1528\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1851,
     "pub_date_end_sort": 1861,
@@ -43,14 +46,11 @@
     "issue_denomination_s": [
         "50 Cash"
     ],
-    "issue_number_s": [
-        "920"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Xian Feng \u54b8\u8c50 (1851 to 1862)"
@@ -82,9 +82,12 @@
         "Jen 162 819"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1851 to 1861"
+    ],
     "hashed_id_s": [
         "a22522e4c8d13d94"
     ],
-    "_version_": 1667138212345151488,
-    "timestamp": "2020-05-19T16:48:15.013Z"
+    "_version_": 1684902977553301504,
+    "timestamp": "2020-12-01T18:51:35.333Z"
 }

@@ -26,8 +26,8 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9771\",\"call_number_browse\":\"Coin 9771\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 119,
     "pub_date_end_sort": 122,
@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "6158"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -47,9 +44,12 @@
         "Hadrian (117 to 138)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "119 to 122"
+    ],
     "hashed_id_s": [
         "24ad9dc3f30cdc19"
     ],
-    "_version_": 1667146652897509376,
-    "timestamp": "2020-05-19T19:02:24.762Z"
+    "_version_": 1684903138685878272,
+    "timestamp": "2020-12-01T18:54:09Z"
 }

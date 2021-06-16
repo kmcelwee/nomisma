@@ -35,6 +35,12 @@
         "2.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5700\",\"call_number_browse\":\"Coin 5700\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/2 mark"
-    ],
-    "issue_number_s": [
-        "3251"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,6 +89,6 @@
     "hashed_id_s": [
         "7c83657477ea6fbf"
     ],
-    "_version_": 1667145145287442432,
-    "timestamp": "2020-05-19T18:43:22.376Z"
+    "_version_": 1684903461115658240,
+    "timestamp": "2020-12-01T18:59:16.493Z"
 }

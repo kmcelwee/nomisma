@@ -38,8 +38,11 @@
         "7.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6012\",\"call_number_browse\":\"Coin 6012\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Dec. 1959; Lire 25,000 = $ 41.25, #168 in Dec. 1959 issue of Monete e Medaglie"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -380,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3487"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Vlasto Coll.  365-7, 370"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -380"
+    ],
     "hashed_id_s": [
         "2945c995b9dea20f"
     ],
-    "_version_": 1667138383401451520,
-    "timestamp": "2020-05-19T16:50:58.147Z"
+    "_version_": 1684903558449725440,
+    "timestamp": "2020-12-01T19:00:49.319Z"
 }

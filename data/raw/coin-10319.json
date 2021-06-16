@@ -50,11 +50,14 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10319\",\"call_number_browse\":\"Coin 10319\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1396,
     "pub_date_end_sort": 1397,
-    "issue_number_s": [
-        "6555"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -86,9 +89,12 @@
         "Balog Mamluk  596c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1396 to 1397"
+    ],
     "hashed_id_s": [
         "a946a2e67f53a7b1"
     ],
-    "_version_": 1667145455046230016,
-    "timestamp": "2020-05-19T18:54:02.548Z"
+    "_version_": 1684903350214066176,
+    "timestamp": "2020-12-01T18:57:30.729Z"
 }

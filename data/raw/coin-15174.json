@@ -35,25 +35,25 @@
         "22.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15174\",\"call_number_browse\":\"Coin 15174\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 140,
-    "pub_date_end_sort": 143,
+    "pub_date_end_sort": 144,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "9334"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +71,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG PI-VS P P TR P COS III"
+        "ANTONINVS AVG PIVS P P TR P COS III"
     ],
     "issue_reverse_figure_s": [
-        "Dr. female figure standing facing, head l., sceptre in left hand, patera in right hand, feeding snake coiled round, to l.-r., S-C"
+        "Salus"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped, feeding snake coiled round altar, l."
     ],
     "issue_reverse_legend_s": [
-        "SA-LVS AVG"
+        "SALVS AVG S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "patera, in r. hand",
+        "vertical sceptre, in l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 208-9 1303-6",
-        "RIC 111 635a",
-        "Strack 854 "
+        "RIC III  Antoninus Pius 635a",
+        "Strack  854",
+        "BMC.4 208-9 1303-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 144"
+    ],
     "hashed_id_s": [
         "9d3353fd14c8e4b4"
     ],
-    "_version_": 1667144764933275648,
-    "timestamp": "2020-05-19T18:32:24.048Z"
+    "_version_": 1684903369001402368,
+    "timestamp": "2020-12-01T18:57:48.648Z"
 }

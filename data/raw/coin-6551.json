@@ -35,6 +35,9 @@
         "2.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6551\",\"call_number_browse\":\"Coin 6551\"}}",
+    "numismatic_accession_s": [
+        "354: 2008-01-15 Cederlind, Tom"
+    ],
     "pub_date_start_sort": 1280,
     "pub_date_end_sort": 1350,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "basilicon"
-    ],
-    "issue_number_s": [
-        "3963"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Sear  2587"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1280 to 1350"
+    ],
     "hashed_id_s": [
         "cef482fa5691e0b6"
     ],
-    "_version_": 1667138366836047872,
-    "timestamp": "2020-05-19T16:50:42.347Z"
+    "_version_": 1684903546811580416,
+    "timestamp": "2020-12-01T19:00:38.219Z"
 }

@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "27-7-1935"
+        "1932-05-27"
+    ],
+    "find_feature_s": [
+        "Circus, at join of carcares to W. cavea, surface"
     ],
     "find_locus_s": [
-        "9-N"
+        "DS 9-N (CIR)"
     ],
-    "find_description_s": [
-        "9-N Circus at  join of carcares to w cavea surface"
+    "find_number_s": [
+        "C5579"
     ],
     "die_axis_s": [
         "11"
@@ -47,6 +50,12 @@
         "0.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7330\",\"call_number_browse\":\"Coin 7330\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4591"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,16 +113,19 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
         "Cohen 7 257.250",
-        "RIC 7 697.108"
+        "RIC VII Antioch 108"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "0406bc6c239ac527"
     ],
-    "_version_": 1667138356281081856,
-    "timestamp": "2020-05-19T16:50:32.282Z"
+    "_version_": 1691335241622355968,
+    "timestamp": "2021-02-10T18:49:40.367Z"
 }

@@ -35,6 +35,15 @@
         "24.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10608\",\"call_number_browse\":\"Coin 10608\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1929; $18.70"
+    ],
     "pub_date_start_sort": 136,
     "pub_date_end_sort": 137,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "6770"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +104,12 @@
         "RPC III 6228v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "136 to 137"
+    ],
     "hashed_id_s": [
         "b890e76b926fe40c"
     ],
-    "_version_": 1667138179467051008,
-    "timestamp": "2020-05-19T16:47:43.658Z"
+    "_version_": 1684902957866287104,
+    "timestamp": "2020-12-01T18:51:16.559Z"
 }

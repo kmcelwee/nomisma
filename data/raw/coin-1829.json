@@ -35,8 +35,11 @@
         "0.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1829\",\"call_number_browse\":\"Coin 1829\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 1204,
     "pub_date_end_sort": 1223,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denier tournois"
-    ],
-    "issue_number_s": [
-        "1195"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "Robert  2405"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1204 to 1223"
+    ],
     "hashed_id_s": [
         "4182ee3411632364"
     ],
-    "_version_": 1667138214766313472,
-    "timestamp": "2020-05-19T16:48:17.322Z"
+    "_version_": 1684903448454103040,
+    "timestamp": "2020-12-01T18:59:04.419Z"
 }

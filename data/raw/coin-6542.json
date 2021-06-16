@@ -38,8 +38,11 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6542\",\"call_number_browse\":\"Coin 6542\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1465,
     "pub_date_end_sort": 1468,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "cuartillo"
-    ],
-    "issue_number_s": [
-        "3959"
     ],
     "issue_metal_s": [
         "Billon"
@@ -95,9 +95,12 @@
         "Heiss vol I, lam. 16 4, var."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1465 to 1468"
+    ],
     "hashed_id_s": [
         "869491c5220bbb67"
     ],
-    "_version_": 1667138366971314176,
-    "timestamp": "2020-05-19T16:50:42.478Z"
+    "_version_": 1684903254959325184,
+    "timestamp": "2020-12-01T18:55:59.888Z"
 }

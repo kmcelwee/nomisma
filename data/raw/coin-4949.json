@@ -38,6 +38,15 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4949\",\"call_number_browse\":\"Coin 4949\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1927; $25"
+    ],
     "pub_date_start_sort": -53,
     "pub_date_end_sort": -53,
     "issue_object_type_s": [
@@ -46,11 +55,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2732"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Valerius Messalla"
@@ -77,10 +86,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted (Corinthian - plumed); spear over shoulder; AL in monogram; border of dots"
+        "helmeted, wearing Corinthian helmet with a plume on each side"
     ],
     "issue_obverse_legend_s": [
-        "MESSAL F"
+        "MESSAL\u00b7F"
+    ],
+    "issue_obverse_attributes_s": [
+        "spear, over shoulder"
     ],
     "issue_reverse_figure_s": [
         "Curule chair"
@@ -88,11 +100,13 @@
     "issue_reverse_orientation_s": [
         "upright"
     ],
-    "issue_reverse_figure_description_s": [
-        "curule chair; below, diadem and sceptre; S C on either side; TR in monogram; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "\u0393ATRE COS"
+        "PATRE\u00b7COS S C"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre with diadem, below",
+        "inscription, on either side",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  435/1",
@@ -100,9 +114,12 @@
         "Sear  401"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-53 to -53"
+    ],
     "hashed_id_s": [
         "0300209d8b88b061"
     ],
-    "_version_": 1667138507338940416,
-    "timestamp": "2020-05-19T16:52:56.341Z"
+    "_version_": 1684903640253333504,
+    "timestamp": "2020-12-01T19:02:07.336Z"
 }

@@ -38,8 +38,11 @@
         "7.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5365\",\"call_number_browse\":\"Coin 5365\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; 10/5/1957; Coin Galleries, mail-bid sale, $35"
     ],
     "pub_date_start_sort": -510,
     "pub_date_end_sort": -450,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3008"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "F-B  79"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-510 to -450"
+    ],
     "hashed_id_s": [
         "83fc80c8a0d13b48"
     ],
-    "_version_": 1667138247001636864,
-    "timestamp": "2020-05-19T16:48:48.064Z"
+    "_version_": 1684903469550403584,
+    "timestamp": "2020-12-01T18:59:24.539Z"
 }

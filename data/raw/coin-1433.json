@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "831"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -81,9 +78,15 @@
         "BMC.1.  274"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Tiberius"
+    ],
+    "issue_date_s": [
+        "10 to 11"
+    ],
     "hashed_id_s": [
         "9f75ca43cf1b2b1d"
     ],
-    "_version_": 1667138413049937920,
-    "timestamp": "2020-05-19T16:51:26.420Z"
+    "_version_": 1684903575797366784,
+    "timestamp": "2020-12-01T19:01:05.863Z"
 }

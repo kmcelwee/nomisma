@@ -35,8 +35,14 @@
         "7.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10580\",\"call_number_browse\":\"Coin 10580\"}}",
-    "donor_s": [
-        "W. Benson Harer, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "732:  W. Benson Harer, Jr."
+    ],
+    "numismatic_provenance_s": [
+        "01/03/2000; "
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -85,9 +91,12 @@
         "SNG ANS pl. 12 445"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "9fcaba492ea9af9f"
     ],
-    "_version_": 1672921608937799680,
-    "timestamp": "2020-07-22T12:52:51.807Z"
+    "_version_": 1684903663216099328,
+    "timestamp": "2020-12-01T19:02:29.232Z"
 }

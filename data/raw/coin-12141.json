@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "6/7/1939"
+        "1939-06-07"
+    ],
+    "find_feature_s": [
+        "Over room with Tryoh mosaic, under pavement, sealed"
     ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc1776"
-    ],
-    "find_description_s": [
-        "Sealed under pavement over room with Tryoh mosaic"
     ],
     "die_axis_s": [
         "7"
@@ -50,6 +50,12 @@
         "2.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12141\",\"call_number_browse\":\"Coin 12141\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7789"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,11 +85,14 @@
     "issue_obverse_figure_s": [
         "Emperor"
     ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
     "issue_obverse_figure_description_s": [
-        "emperor with rosette diadem, dr., cuir. Bust"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANT-INVS MAX AVG"
+        "CONSTANT-INVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -98,15 +104,18 @@
         "Two soldiers, helmeted, stg. Looking at one another, reversed spear in outer hands, inner hadns on shield resting on the ground; between them two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS l SMN(A)"
+        "GLOR-IAEXERCITVS l SMN(A)"
     ],
     "issue_references_s": [
-        "RIC 7 633 188"
+        "RIC VII Nicomedia 188"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "e19efa11f6f871e1"
     ],
-    "_version_": 1667138167350755328,
-    "timestamp": "2020-05-19T16:47:32.105Z"
+    "_version_": 1696408473995051008,
+    "timestamp": "2021-04-07T18:46:31.781Z"
 }

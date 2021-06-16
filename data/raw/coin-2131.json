@@ -38,8 +38,11 @@
         "3.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2131\",\"call_number_browse\":\"Coin 2131\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 68,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1400"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "Roman Imperial Coinage p. 209 72"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 68"
+    ],
     "hashed_id_s": [
         "b2711051e518f8be"
     ],
-    "_version_": 1667138472019755008,
-    "timestamp": "2020-05-19T16:52:22.659Z"
+    "_version_": 1684903612491235328,
+    "timestamp": "2020-12-01T19:01:40.856Z"
 }

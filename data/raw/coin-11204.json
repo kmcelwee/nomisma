@@ -38,8 +38,14 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11204\",\"call_number_browse\":\"Coin 11204\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Youssef Mishriki; 09/15/2004"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7370"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  \tDA Type II/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "d4564fe2085af60d"
     ],
-    "_version_": 1667138336580435968,
-    "timestamp": "2020-05-19T16:50:13.494Z"
+    "_version_": 1684903073521074176,
+    "timestamp": "2020-12-01T18:53:06.856Z"
 }

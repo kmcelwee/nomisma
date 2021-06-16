@@ -50,13 +50,16 @@
         "1.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7999\",\"call_number_browse\":\"Coin 7999\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 327,
     "pub_date_end_sort": 328,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5034"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +109,12 @@
         "Cohen vol VII, p.259 263"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 328"
+    ],
     "hashed_id_s": [
         "f189e074206e8f7f"
     ],
-    "_version_": 1667145060046602240,
-    "timestamp": "2020-05-19T18:37:05.508Z"
+    "_version_": 1684903368222310400,
+    "timestamp": "2020-12-01T18:57:47.904Z"
 }

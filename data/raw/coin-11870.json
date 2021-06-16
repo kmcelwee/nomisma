@@ -35,8 +35,11 @@
         "3.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11870\",\"call_number_browse\":\"Coin 11870\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 119,
     "pub_date_end_sort": 122,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7957"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "BMC 275 289"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "119 to 122"
+    ],
     "hashed_id_s": [
         "bbfbdedc4e100a65"
     ],
-    "_version_": 1667138119320731648,
-    "timestamp": "2020-05-19T16:46:46.301Z"
+    "_version_": 1684902964763820032,
+    "timestamp": "2020-12-01T18:51:23.134Z"
 }

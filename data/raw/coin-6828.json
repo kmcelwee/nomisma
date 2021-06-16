@@ -35,6 +35,12 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6828\",\"call_number_browse\":\"Coin 6828\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -88,9 +94,12 @@
         "M&D  47"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "b0a37676c3714267"
     ],
-    "_version_": 1674076575658672128,
-    "timestamp": "2020-08-04T06:50:33.902Z"
+    "_version_": 1684903172463656960,
+    "timestamp": "2020-12-01T18:54:41.215Z"
 }

@@ -35,8 +35,11 @@
         "3.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 925\",\"call_number_browse\":\"Coin 925\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "79:  J.C. Wilson"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "398"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,6 +90,6 @@
     "hashed_id_s": [
         "555dfc5183db050b"
     ],
-    "_version_": 1667138454668967936,
-    "timestamp": "2020-05-19T16:52:06.111Z"
+    "_version_": 1684903596914638848,
+    "timestamp": "2020-12-01T19:01:26.004Z"
 }

@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "04/20/1938"
@@ -50,6 +50,12 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10517\",\"call_number_browse\":\"Coin 10517\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -226,
     "pub_date_end_sort": -223,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8927"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,9 +121,12 @@
         "H & L I, v.I, p.335 924"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "4d32ba36f698b292"
     ],
-    "_version_": 1670291868753068032,
-    "timestamp": "2020-06-23T12:14:16.136Z"
+    "_version_": 1684902922359406592,
+    "timestamp": "2020-12-01T18:50:42.695Z"
 }

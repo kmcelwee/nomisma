@@ -2,7 +2,7 @@
     "id": "coin-4078",
     "title_display": "Coin: 4078",
     "pub_created_display": [
-        "denarius, Rome"
+        "denarius"
     ],
     "call_number_display": [
         "Coin 4078"
@@ -35,8 +35,11 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4078\",\"call_number_browse\":\"Coin 4078\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
@@ -46,29 +49,14 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2343"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_master_s": [
         "Cn. Calpurnius Piso"
-    ],
-    "issue_workshop_s": [
-        "Moving with Pompey, probably in Spain"
-    ],
-    "issue_place_s": [
-        "Rome, Latium, Italy"
-    ],
-    "issue_city_s": [
-        "Rome"
-    ],
-    "issue_state_s": [
-        "Latium"
-    ],
-    "issue_region_s": [
-        "Italy"
     ],
     "issue_obverse_figure_s": [
         "Numa"
@@ -80,10 +68,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bearded, wearing a diadem inscribed \"NUMA\""
+        "bearded, wearing a diadem inscribed NVMA"
     ],
     "issue_obverse_legend_s": [
-        "CN \u0393ISO \u0393RO Q"
+        "NVMA CN\u00b7PISO\u00b7PRO\u00b7Q"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, line"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -91,21 +82,24 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "legend split above and below prow"
-    ],
     "issue_reverse_legend_s": [
-        "MAGN | \u0393RO COS"
+        "MAGN PRO\u00b7COS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, line"
     ],
     "issue_references_s": [
-        "RRC  446",
+        "RRC  446/1",
         "Syd.  1032",
         "Sear  1373"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "ec4a14f15fad761c"
     ],
-    "_version_": 1667138489080086528,
-    "timestamp": "2020-05-19T16:52:38.928Z"
+    "_version_": 1684903624446050304,
+    "timestamp": "2020-12-01T19:01:52.257Z"
 }

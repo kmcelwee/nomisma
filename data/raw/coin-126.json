@@ -44,6 +44,12 @@
         "1.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 126\",\"call_number_browse\":\"Coin 126\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 517,
     "issue_object_type_s": [
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "66"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +104,12 @@
         "Sear  29A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 517"
+    ],
     "hashed_id_s": [
         "2adc31c183d1f938"
     ],
-    "_version_": 1667138446211153920,
-    "timestamp": "2020-05-19T16:51:58.044Z"
+    "_version_": 1684903584805683200,
+    "timestamp": "2020-12-01T19:01:14.454Z"
 }

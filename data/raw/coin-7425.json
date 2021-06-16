@@ -29,10 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "July 27, 1935"
+        "1935-07-27"
+    ],
+    "find_locus_s": [
+        "DS 9-N (CIR)"
+    ],
+    "find_number_s": [
+        "C5410"
     ],
     "find_description_s": [
-        "Circus at join of carcares to west cavea, surface"
+        "Circus at join of carcares & W. cavea, surface"
     ],
     "die_axis_s": [
         "5"
@@ -44,6 +50,12 @@
         "2.756"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7425\",\"call_number_browse\":\"Coin 7425\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 327,
     "pub_date_end_sort": 329,
     "issue_object_type_s": [
@@ -51,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4638"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,16 +104,19 @@
         "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 691.78",
+        "RIC VII Antioch 78",
         "Cohen 7, 281 454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "ea40cfebc65745f8"
     ],
-    "_version_": 1667138257748492288,
-    "timestamp": "2020-05-19T16:48:58.312Z"
+    "_version_": 1691154365416472576,
+    "timestamp": "2021-02-08T18:54:43.376Z"
 }

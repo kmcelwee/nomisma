@@ -29,7 +29,7 @@
         "Attribution uncertain"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "04/18/1939"
@@ -50,6 +50,12 @@
         "1.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12916\",\"call_number_browse\":\"Coin 12916\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -256,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "4436"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "H & L  574"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-261 to -256"
+    ],
     "hashed_id_s": [
         "ed92df92fab63c28"
     ],
-    "_version_": 1669925919359238144,
-    "timestamp": "2020-06-19T11:17:39.596Z"
+    "_version_": 1684903653296570368,
+    "timestamp": "2020-12-01T19:02:19.772Z"
 }

@@ -35,8 +35,11 @@
         "4.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1059\",\"call_number_browse\":\"Coin 1059\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "126:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -211,
     "pub_date_end_sort": -211,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "547"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,10 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "helmeted w/ X behind"
+        "helmeted"
+    ],
+    "issue_obverse_legend_s": [
+        "X behind head"
     ],
     "issue_obverse_attributes_s": [
-        "dots, border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -92,7 +98,7 @@
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "legend, partly incuse"
+        ""
     ],
     "issue_references_s": [
         "RRC  44/5",
@@ -100,9 +106,16 @@
         "Sear  37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Janus",
+        "Other Person, Jupiter"
+    ],
+    "issue_date_s": [
+        "-211 to -211"
+    ],
     "hashed_id_s": [
         "c17ae64bdf8c6a95"
     ],
-    "_version_": 1667138207915966464,
-    "timestamp": "2020-05-19T16:48:10.789Z"
+    "_version_": 1684903696402481152,
+    "timestamp": "2020-12-01T19:03:00.880Z"
 }

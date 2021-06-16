@@ -35,6 +35,15 @@
         "16.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13739\",\"call_number_browse\":\"Coin 13739\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1929; Bought for $27.50"
+    ],
     "pub_date_start_sort": -143,
     "pub_date_end_sort": -142,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8796"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,16 +106,19 @@
     "issue_reverse_attributes_s": [
         "\u03a4\u03a1\u03a5, above spears on right field",
         "\u03a3\u03a4\u0391, beneath mintmark",
-        "m13739, underneath spears on right field",
+        "monogram, underneath spears on right field",
         "couched spears, in their hands"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.322 2000.3d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-143 to -142"
+    ],
     "hashed_id_s": [
         "56a5373be0289297"
     ],
-    "_version_": 1667138519828529152,
-    "timestamp": "2020-05-19T16:53:08.253Z"
+    "_version_": 1684903646427348992,
+    "timestamp": "2020-12-01T19:02:13.222Z"
 }

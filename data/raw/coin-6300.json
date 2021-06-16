@@ -38,8 +38,11 @@
         "7.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6300\",\"call_number_browse\":\"Coin 6300\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; June 1959; $20; A258 of #18-19 April-June 1959 Fixed Price List"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -380,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3735"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  456"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -380"
+    ],
     "hashed_id_s": [
         "e106fb5d45f15066"
     ],
-    "_version_": 1667138381278085120,
-    "timestamp": "2020-05-19T16:50:56.122Z"
+    "_version_": 1684903123052658688,
+    "timestamp": "2020-12-01T18:53:54.091Z"
 }

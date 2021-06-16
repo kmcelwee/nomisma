@@ -35,8 +35,11 @@
         "2.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1608\",\"call_number_browse\":\"Coin 1608\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "4:  Anonymous Class of '64"
     ],
     "pub_date_start_sort": 130,
     "pub_date_end_sort": 131,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "999"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "130 to 131"
+    ],
     "hashed_id_s": [
         "cde645bbadc7e24d"
     ],
-    "_version_": 1667145373075898368,
-    "timestamp": "2020-05-19T18:43:23.659Z"
+    "_version_": 1684903097673973760,
+    "timestamp": "2020-12-01T18:53:29.888Z"
 }

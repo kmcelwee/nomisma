@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6696"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -90,9 +87,12 @@
         "ornament, Ornamentation below & above inscr."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1035"
+    ],
     "hashed_id_s": [
         "df5b5cd3d06b3c99"
     ],
-    "_version_": 1667144763967537152,
-    "timestamp": "2020-05-19T18:32:23.131Z"
+    "_version_": 1684903140524032000,
+    "timestamp": "2020-12-01T18:54:10.753Z"
 }

@@ -38,8 +38,11 @@
         "13.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14857\",\"call_number_browse\":\"Coin 14857\"}}",
-    "donor_s": [
-        "F.J. Mather"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "217: 1931-06-01 F.J. Mather"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dollar"
-    ],
-    "issue_number_s": [
-        "9121"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "Robert Scot, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "f41e7d843f52b6f2"
     ],
-    "_version_": 1667305702296649728,
-    "timestamp": "2020-05-21T13:10:25.881Z"
+    "_version_": 1684903074736373760,
+    "timestamp": "2020-12-01T18:53:08.013Z"
 }

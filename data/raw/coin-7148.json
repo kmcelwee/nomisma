@@ -2,7 +2,7 @@
     "id": "coin-7148",
     "title_display": "Coin: 7148",
     "pub_created_display": [
-        "uncia"
+        "uncia, Rome"
     ],
     "call_number_display": [
         "Coin 7148"
@@ -38,25 +38,34 @@
         "Cast"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7148\",\"call_number_browse\":\"Coin 7148\"}}",
-    "pub_date_start_sort": -306,
-    "pub_date_end_sort": -281,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -280,
+    "pub_date_end_sort": -276,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "uncia"
     ],
-    "issue_number_s": [
-        "4470"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
+    "issue_shape_s": [
+        "round"
+    ],
     "issue_place_s": [
-        "Campania, Italy"
+        "Rome, Latium, Italy"
+    ],
+    "issue_city_s": [
+        "Rome"
     ],
     "issue_state_s": [
-        "Campania"
+        "Latium"
     ],
     "issue_region_s": [
         "Italy"
@@ -67,17 +76,21 @@
     "issue_obverse_symbol_s": [
         "dot"
     ],
-    "issue_reverse_symbol_s": [
-        "dot"
+    "issue_reverse_figure_s": [
+        "Dot"
     ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  41",
-        "Haeb. pl. 40 16-22"
+        "Haeb. pl. 40 16-22",
+        "RRC  14/6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-280 to -276"
+    ],
     "hashed_id_s": [
         "f9151469fbb6a2e6"
     ],
-    "_version_": 1667138358893084672,
-    "timestamp": "2020-05-19T16:50:34.773Z"
+    "_version_": 1684903704499585024,
+    "timestamp": "2020-12-01T19:03:08.603Z"
 }

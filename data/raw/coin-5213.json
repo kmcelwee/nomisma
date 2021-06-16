@@ -35,6 +35,12 @@
         "338.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5213\",\"call_number_browse\":\"Coin 5213\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aes rude"
-    ],
-    "issue_number_s": [
-        "2902"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -58,6 +61,6 @@
     "hashed_id_s": [
         "0257b9c3ffdf0b23"
     ],
-    "_version_": 1667138245955158016,
-    "timestamp": "2020-05-19T16:48:47.068Z"
+    "_version_": 1684903007482806272,
+    "timestamp": "2020-12-01T18:52:03.876Z"
 }

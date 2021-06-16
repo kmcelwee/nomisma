@@ -53,6 +53,9 @@
         "0.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8034\",\"call_number_browse\":\"Coin 8034\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 392,
     "issue_object_type_s": [
@@ -116,12 +119,15 @@
         "SALVS REI-PVBLICAE"
     ],
     "issue_references_s": [
-        "RIC 9.293 67(a), 3"
+        "RIC IX Antioch 67A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 392"
+    ],
     "hashed_id_s": [
         "5d478f2722c602a6"
     ],
-    "_version_": 1673552401910464512,
-    "timestamp": "2020-07-29T11:59:02.860Z"
+    "_version_": 1684902925080461312,
+    "timestamp": "2020-12-01T18:50:45.292Z"
 }

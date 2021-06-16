@@ -47,6 +47,9 @@
         "2.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3395\",\"call_number_browse\":\"Coin 3395\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1119,
     "pub_date_end_sort": 1130,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "2029"
     ],
     "issue_metal_s": [
         "Copper"
@@ -112,9 +112,12 @@
         "Malloy p. 201 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1119 to 1130"
+    ],
     "hashed_id_s": [
         "78feb41898853016"
     ],
-    "_version_": 1667138481785143296,
-    "timestamp": "2020-05-19T16:52:31.973Z"
+    "_version_": 1684903617411153920,
+    "timestamp": "2020-12-01T19:01:45.550Z"
 }

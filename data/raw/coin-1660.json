@@ -35,8 +35,11 @@
         "5.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1660\",\"call_number_browse\":\"Coin 1660\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1054"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "SNG-Alpha Bank  890v(Cassander)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "f26533c43c0f0557"
     ],
-    "_version_": 1667138213077057536,
-    "timestamp": "2020-05-19T16:48:15.714Z"
+    "_version_": 1684902978592440320,
+    "timestamp": "2020-12-01T18:51:36.324Z"
 }

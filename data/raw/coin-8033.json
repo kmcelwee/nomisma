@@ -53,6 +53,9 @@
         "5.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8033\",\"call_number_browse\":\"Coin 8033\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5067"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,12 +116,15 @@
         "GLORIA RO-MANORVM"
     ],
     "issue_references_s": [
-        "RIC 9.183 45a"
+        "RIC IX Antioch 45A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "0a79ece4de04bdfb"
     ],
-    "_version_": 1667138348471287808,
-    "timestamp": "2020-05-19T16:50:24.835Z"
+    "_version_": 1684903533663485952,
+    "timestamp": "2020-12-01T19:00:25.680Z"
 }

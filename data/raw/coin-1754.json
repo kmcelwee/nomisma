@@ -35,8 +35,11 @@
         "1.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1754\",\"call_number_browse\":\"Coin 1754\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 76,
     "pub_date_end_sort": 77,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1136"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "76 to 77"
+    ],
     "hashed_id_s": [
         "ec7a0b286411a6d0"
     ],
-    "_version_": 1667138415467954176,
-    "timestamp": "2020-05-19T16:51:28.729Z"
+    "_version_": 1684903281335205888,
+    "timestamp": "2020-12-01T18:56:25.041Z"
 }

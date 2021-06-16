@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "6 shillings"
     ],
-    "issue_number_s": [
-        "2788"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,6 +75,6 @@
     "hashed_id_s": [
         "b0a7a3873c6e65fb"
     ],
-    "_version_": 1667138243811868672,
-    "timestamp": "2020-05-19T16:48:45.021Z"
+    "_version_": 1684903005742170112,
+    "timestamp": "2020-12-01T18:52:02.215Z"
 }

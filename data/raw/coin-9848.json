@@ -31,14 +31,14 @@
     "find_date_s": [
         "4/28/1938"
     ],
-    "find_feature_s": [
-        "To within .10-20 of mosaics of C300 building"
-    ],
     "find_locus_s": [
         "DH27-0"
     ],
     "find_number_s": [
         "Cb1010"
+    ],
+    "find_description_s": [
+        "To within .10 - .20 meters of mosaics of C300 building"
     ],
     "die_axis_s": [
         "10"
@@ -57,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6229"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,12 +101,15 @@
         "SMAN\u0393"
     ],
     "issue_references_s": [
-        "RIC.8 515 39"
+        "RIC VIII Antioch 39"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "afb52796f295595b"
     ],
-    "_version_": 1667138137413910528,
-    "timestamp": "2020-05-19T16:47:03.554Z"
+    "_version_": 1684903686187253760,
+    "timestamp": "2020-12-01T19:02:51.138Z"
 }

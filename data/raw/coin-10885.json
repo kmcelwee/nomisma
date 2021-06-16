@@ -38,8 +38,14 @@
         "2.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10885\",\"call_number_browse\":\"Coin 10885\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 11/05/2008; E198 (166)"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7046"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "SNS 3  Mint XIII = Sakastan Type Ib1/1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "0e1867f34dabb5ea"
     ],
-    "_version_": 1667138287187263488,
-    "timestamp": "2020-05-19T16:49:26.389Z"
+    "_version_": 1684903030700376064,
+    "timestamp": "2020-12-01T18:52:26.017Z"
 }

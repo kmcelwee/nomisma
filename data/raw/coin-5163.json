@@ -35,6 +35,15 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5163\",\"call_number_browse\":\"Coin 5163\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1928; $3.50"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2862"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -67,6 +76,9 @@
     "issue_obverse_figure_s": [
         "Venus"
     ],
+    "issue_obverse_symbol_s": [
+        "sceptre behind head"
+    ],
     "issue_obverse_part_s": [
         "bust"
     ],
@@ -74,25 +86,31 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust r., draped, laureate, diademed; sceptre behind; border of dots"
+        "draped, laureate, and wearing diadem"
     ],
     "issue_obverse_legend_s": [
-        "S C"
+        "S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Trophy"
     ],
     "issue_reverse_symbol_s": [
-        "jug and lituus"
+        "jug on l.; lituus on r."
     ],
     "issue_reverse_orientation_s": [
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "3 trophies, each with spear; to l., jug; to r., lituus; below, legend in monogram; border of dots"
+        "three trophies"
     ],
     "issue_reverse_legend_s": [
-        "FAVST (monogram)"
+        "FAVSTVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  426/3",
@@ -100,9 +118,12 @@
         "Sear  386"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "d37819071b223edb"
     ],
-    "_version_": 1667138245778997248,
-    "timestamp": "2020-05-19T16:48:46.899Z"
+    "_version_": 1684903468159991808,
+    "timestamp": "2020-12-01T18:59:23.212Z"
 }

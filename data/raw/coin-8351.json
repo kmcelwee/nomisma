@@ -50,6 +50,12 @@
         "8.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8351\",\"call_number_browse\":\"Coin 8351\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -29,
     "pub_date_end_sort": -28,
     "issue_object_type_s": [
@@ -115,9 +121,12 @@
         "RPC.1  4237-4238"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-29 to -28"
+    ],
     "hashed_id_s": [
         "fe67bd1b931d0b57"
     ],
-    "_version_": 1671107259136999424,
-    "timestamp": "2020-07-02T12:14:33.002Z"
+    "_version_": 1684902935844093952,
+    "timestamp": "2020-12-01T18:50:55.555Z"
 }

@@ -29,8 +29,11 @@
         "56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15151\",\"call_number_browse\":\"Coin 15151\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1944,
     "pub_date_end_sort": 1978,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "Grand Cross"
-    ],
-    "issue_number_s": [
-        "9308"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -69,9 +69,12 @@
         "Reference Catalogue of Orders, Medals and Decorations of the World  332"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1944 to 1978"
+    ],
     "hashed_id_s": [
         "d6cf61f49cdda50c"
     ],
-    "_version_": 1667698080754958336,
-    "timestamp": "2020-05-25T21:07:07.138Z"
+    "_version_": 1684903369044393984,
+    "timestamp": "2020-12-01T18:57:48.687Z"
 }

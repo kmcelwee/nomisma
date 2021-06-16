@@ -38,8 +38,8 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6259\",\"call_number_browse\":\"Coin 6259\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1224,
     "pub_date_end_sort": 1230,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "trachy"
-    ],
-    "issue_number_s": [
-        "3693"
     ],
     "issue_metal_s": [
         "Billon"
@@ -109,9 +106,12 @@
         "BMC.Vand page 194 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1224 to 1230"
+    ],
     "hashed_id_s": [
         "77b3929f772d5948"
     ],
-    "_version_": 1667138378505650176,
-    "timestamp": "2020-05-19T16:50:53.478Z"
+    "_version_": 1684903555323920384,
+    "timestamp": "2020-12-01T19:00:46.338Z"
 }

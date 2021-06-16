@@ -35,6 +35,12 @@
         "0.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8817\",\"call_number_browse\":\"Coin 8817\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1323,
     "pub_date_end_sort": 1326,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "picciolo"
-    ],
-    "issue_number_s": [
-        "5613"
     ],
     "issue_metal_s": [
         "Mistura"
@@ -89,9 +92,12 @@
         "Le Monete Della Repubblica Fiorentina II, 58 600"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1323 to 1326"
+    ],
     "hashed_id_s": [
         "32a95ca087500bc1"
     ],
-    "_version_": 1667138156136235008,
-    "timestamp": "2020-05-19T16:47:21.408Z"
+    "_version_": 1684903411333464064,
+    "timestamp": "2020-12-01T18:58:29.017Z"
 }

@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "5 Pounds"
     ],
-    "issue_number_s": [
-        "2206"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,9 +75,12 @@
         "Shafer & Cuhaj p. 1148 S2540T"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "8bd460875b017e11"
     ],
-    "_version_": 1667138229017509888,
-    "timestamp": "2020-05-19T16:48:30.913Z"
+    "_version_": 1684902985029648384,
+    "timestamp": "2020-12-01T18:51:42.464Z"
 }

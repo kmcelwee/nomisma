@@ -35,6 +35,12 @@
         "3.904"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7343\",\"call_number_browse\":\"Coin 7343\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "552:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4597"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,6 +111,6 @@
     "hashed_id_s": [
         "f6687571b179d2d4"
     ],
-    "_version_": 1667138133494333440,
-    "timestamp": "2020-05-19T16:46:59.816Z"
+    "_version_": 1684902914336751616,
+    "timestamp": "2020-12-01T18:50:35.044Z"
 }

@@ -38,8 +38,11 @@
         "1.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12374\",\"call_number_browse\":\"Coin 12374\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -400,
     "pub_date_end_sort": -300,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8309"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "BMC Corinth  466"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-400 to -300"
+    ],
     "hashed_id_s": [
         "98a8b7b631d9649e"
     ],
-    "_version_": 1667138304107085824,
-    "timestamp": "2020-05-19T16:49:42.524Z"
+    "_version_": 1684903153603969024,
+    "timestamp": "2020-12-01T18:54:23.226Z"
 }

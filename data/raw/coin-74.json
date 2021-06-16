@@ -35,8 +35,11 @@
         "6.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 74\",\"call_number_browse\":\"Coin 74\"}}",
-    "donor_s": [
-        "Oleg Grabar"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "10: 2002-01-07 Oleg Grabar"
     ],
     "pub_date_start_sort": 498,
     "pub_date_end_sort": 507,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "28"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "Sear  14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "498 to 507"
+    ],
     "hashed_id_s": [
         "a8b4fecd3088b009"
     ],
-    "_version_": 1667138199869194240,
-    "timestamp": "2020-05-19T16:48:03.117Z"
+    "_version_": 1684903414700441600,
+    "timestamp": "2020-12-01T18:58:32.228Z"
 }

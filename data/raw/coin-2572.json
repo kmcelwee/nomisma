@@ -38,8 +38,11 @@
         "3.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2572\",\"call_number_browse\":\"Coin 2572\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -246,
@@ -101,9 +104,16 @@
         "Houghton  601v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod"
+    ],
+    "issue_date_s": [
+        "-261 to -246"
+    ],
     "hashed_id_s": [
         "1cfe3f0fe2ae38e4"
     ],
-    "_version_": 1673104634302955520,
-    "timestamp": "2020-07-24T13:21:58.395Z"
+    "_version_": 1684902966490824704,
+    "timestamp": "2020-12-01T18:51:24.785Z"
 }

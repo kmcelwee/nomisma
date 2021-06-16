@@ -35,8 +35,11 @@
         "3.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13314\",\"call_number_browse\":\"Coin 13314\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "306:  Robert Ross"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8623"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,6 +106,6 @@
     "hashed_id_s": [
         "32b85871f5ceb257"
     ],
-    "_version_": 1667138522585235456,
-    "timestamp": "2020-05-19T16:53:10.882Z"
+    "_version_": 1684903336854159360,
+    "timestamp": "2020-12-01T18:57:17.989Z"
 }

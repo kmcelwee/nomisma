@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "6505"
-    ],
     "issue_metal_s": [
         "Leaded bronze"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "7c1f24b94e12685b"
     ],
-    "_version_": 1667138281580527616,
-    "timestamp": "2020-05-19T16:49:21.041Z"
+    "_version_": 1684903498499489792,
+    "timestamp": "2020-12-01T18:59:52.146Z"
 }

@@ -35,8 +35,11 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 891\",\"call_number_browse\":\"Coin 891\"}}",
-    "donor_s": [
-        "McClean"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "91:  McClean"
     ],
     "pub_date_start_sort": -310,
     "pub_date_end_sort": -301,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "372"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "Price  1406"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -301"
+    ],
     "hashed_id_s": [
         "52e71e6250fe1b90"
     ],
-    "_version_": 1667138406309691392,
-    "timestamp": "2020-05-19T16:51:19.995Z"
+    "_version_": 1684903180357337088,
+    "timestamp": "2020-12-01T18:54:48.741Z"
 }

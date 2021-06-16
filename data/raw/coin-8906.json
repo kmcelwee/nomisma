@@ -41,8 +41,11 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8906\",\"call_number_browse\":\"Coin 8906\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -99,9 +102,12 @@
         "Shore  246"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "b5801bd0c85cf6f2"
     ],
-    "_version_": 1673001266969575424,
-    "timestamp": "2020-07-23T09:58:59.628Z"
+    "_version_": 1684903667366363136,
+    "timestamp": "2020-12-01T19:02:33.190Z"
 }

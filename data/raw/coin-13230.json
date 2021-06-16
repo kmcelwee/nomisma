@@ -26,16 +26,13 @@
         "num"
     ],
     "notes_display": [
-        "Badly clipped/fragmented, weight of larger fragment: 1.37 grams, weight of smaller fragment: 0.04 grams, Attribution uncertain"
+        "Weight of larger fragment: 1.37 grams. Weight of smaller fragment: 0.04 grams."
     ],
     "find_place_s": [
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/13/1938"
-    ],
-    "find_feature_s": [
-        "Area B14"
+        "05/13/1938"
     ],
     "find_locus_s": [
         "DH 27-O"
@@ -43,38 +40,53 @@
     "find_number_s": [
         "Cb1709"
     ],
+    "find_description_s": [
+        "Area B14"
+    ],
+    "weight_s": [
+        "1.41 g"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13230\",\"call_number_browse\":\"Coin 13230\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8570"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -83,7 +95,7 @@
         "radiate, cuirassed or draped"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVREL("
+        "IMP AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Lion"
@@ -94,19 +106,19 @@
     "issue_reverse_orientation_s": [
         "left"
     ],
-    "issue_reverse_figure_description_s": [
-        "traces"
-    ],
     "issue_reverse_legend_s": [
-        "illegible"
+        "P M TR P P / COS"
     ],
     "issue_references_s": [
-        "RIC V, I, p.302 325"
+        "RIC V  Aurelian 325v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "4b2e87de63878cb0"
     ],
-    "_version_": 1667138317846577152,
-    "timestamp": "2020-05-19T16:49:55.627Z"
+    "_version_": 1684903520736641024,
+    "timestamp": "2020-12-01T19:00:13.354Z"
 }

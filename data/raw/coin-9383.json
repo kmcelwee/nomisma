@@ -32,13 +32,13 @@
         "11.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9383\",\"call_number_browse\":\"Coin 9383\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 200,
     "pub_date_end_sort": 400,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "6003"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +83,12 @@
         "Calcutta vol. 1 p. 182 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "200 to 400"
+    ],
     "hashed_id_s": [
         "6836ccbaa03c61f6"
     ],
-    "_version_": 1667138275218817024,
-    "timestamp": "2020-05-19T16:49:14.976Z"
+    "_version_": 1684903488072450048,
+    "timestamp": "2020-12-01T18:59:42.202Z"
 }

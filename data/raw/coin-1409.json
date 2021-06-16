@@ -35,6 +35,12 @@
         "9.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1409\",\"call_number_browse\":\"Coin 1409\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "189:  Bullowa"
+    ],
     "pub_date_start_sort": -295,
     "pub_date_end_sort": -289,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "litra"
-    ],
-    "issue_number_s": [
-        "809"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +97,12 @@
         "Sicily AE page 179 275"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-295 to -289"
+    ],
     "hashed_id_s": [
         "42b07a7c0eee4504"
     ],
-    "_version_": 1667138463203328000,
-    "timestamp": "2020-05-19T16:52:14.250Z"
+    "_version_": 1684903294718181376,
+    "timestamp": "2020-12-01T18:56:37.806Z"
 }

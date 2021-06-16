@@ -50,6 +50,12 @@
         "3.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9330\",\"call_number_browse\":\"Coin 9330\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 314,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5948"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,9 +119,12 @@
         "RIC.7 Volume 7, 299 27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "314 to 315"
+    ],
     "hashed_id_s": [
         "33bb2341b87f0999"
     ],
-    "_version_": 1667138154124017664,
-    "timestamp": "2020-05-19T16:47:19.489Z"
+    "_version_": 1684903409227923456,
+    "timestamp": "2020-12-01T18:58:27.010Z"
 }

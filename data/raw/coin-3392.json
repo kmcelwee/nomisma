@@ -50,6 +50,9 @@
         "4.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3392\",\"call_number_browse\":\"Coin 3392\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1101,
     "pub_date_end_sort": 1112,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "copper"
-    ],
-    "issue_number_s": [
-        "1607"
     ],
     "issue_metal_s": [
         "Copper"
@@ -106,9 +106,12 @@
         "Ox.  49"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1101 to 1112"
+    ],
     "hashed_id_s": [
         "9282722947467f98"
     ],
-    "_version_": 1667138422897115136,
-    "timestamp": "2020-05-19T16:51:35.813Z"
+    "_version_": 1684903576166465536,
+    "timestamp": "2020-12-01T19:01:06.215Z"
 }

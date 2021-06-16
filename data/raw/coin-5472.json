@@ -38,8 +38,11 @@
         "7.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5472\",\"call_number_browse\":\"Coin 5472\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 31/1/1964; Vlasto collection, Pounds 75"
     ],
     "pub_date_start_sort": -450,
     "pub_date_end_sort": -440,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3080"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Vlasto, Taras  12."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-450 to -440"
+    ],
     "hashed_id_s": [
         "1bd5b7a9b3178e2f"
     ],
-    "_version_": 1667138397100048384,
-    "timestamp": "2020-05-19T16:51:11.212Z"
+    "_version_": 1684903269907824640,
+    "timestamp": "2020-12-01T18:56:14.143Z"
 }

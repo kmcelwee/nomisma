@@ -35,8 +35,11 @@
         "2.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11915\",\"call_number_browse\":\"Coin 11915\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7985"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "BMC 348 857-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "d7a14c36ed5c5c44"
     ],
-    "_version_": 1667138299087552512,
-    "timestamp": "2020-05-19T16:49:37.739Z"
+    "_version_": 1684903040249757696,
+    "timestamp": "2020-12-01T18:52:35.125Z"
 }

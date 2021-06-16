@@ -38,6 +38,15 @@
         "3.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13260\",\"call_number_browse\":\"Coin 13260\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "802: 2015-02-14 Gerhard Hirsch"
+    ],
+    "numismatic_provenance_s": [
+        "Gerhard Hirsch, Munich; Alan Stahl; 02.14.2015"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "half-stavraton"
-    ],
-    "issue_number_s": [
-        "8593"
     ],
     "issue_metal_s": [
         "Silver"
@@ -108,6 +114,6 @@
     "hashed_id_s": [
         "b4eb580d0cc44f88"
     ],
-    "_version_": 1667138318558560256,
-    "timestamp": "2020-05-19T16:49:56.307Z"
+    "_version_": 1684903521263026176,
+    "timestamp": "2020-12-01T19:00:13.856Z"
 }

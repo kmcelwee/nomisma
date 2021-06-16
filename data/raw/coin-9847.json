@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6228"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -68,13 +65,13 @@
         "Constantine I (306 to 337)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -114,9 +111,12 @@
         "Waage 121 1465"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "3a97f22bda7955d4"
     ],
-    "_version_": 1667138277975523328,
-    "timestamp": "2020-05-19T16:49:17.605Z"
+    "_version_": 1684903039265144832,
+    "timestamp": "2020-12-01T18:52:34.186Z"
 }

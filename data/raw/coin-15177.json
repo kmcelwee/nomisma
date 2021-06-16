@@ -2,7 +2,7 @@
     "id": "coin-15177",
     "title_display": "Coin: 15177",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), bronze as (Marcus), Rome"
+        "Antoninus Pius (138 to 161), as, Rome"
     ],
     "call_number_display": [
         "Coin 15177"
@@ -35,25 +35,22 @@
         "10.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15177\",\"call_number_browse\":\"Coin 15177\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 140,
     "pub_date_end_sort": 144,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "bronze as (Marcus)"
-    ],
-    "issue_number_s": [
-        "9336"
+        "as"
     ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
-    ],
-    "issue_era_s": [
-        "Antoninus Pius"
+        "round"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +68,44 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bare head of Marcus Aurelius r."
+        "Marcus Aurelius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "AVRELIVS CAESAR-AVG PII F COS"
+        "AVRELIVS CAESAR AVG PII F COS"
     ],
     "issue_reverse_figure_s": [
-        "Knife, aspergillum, jug, lituus, simpulum; in ex., S C"
+        "Priestly emblems"
+    ],
+    "issue_reverse_orientation_s": [
+        "from left to right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "knife, sprinkler, jug, lituus, simpulum"
     ],
     "issue_reverse_legend_s": [
-        "PIETAS AVG"
+        "PIETAS AVG S C"
     ],
     "issue_references_s": [
-        "BMC.1 228 1411-12",
-        "RIC 174 1240a",
-        "Strack 922 "
+        "RIC III  Antoninus Pius 1240A (as)",
+        "Strack  922",
+        "BMC.4 228 1411-12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "140 to 144"
+    ],
     "hashed_id_s": [
         "976e4427f5a4a781"
     ],
-    "_version_": 1667145481512288256,
-    "timestamp": "2020-05-19T18:43:47.431Z"
+    "_version_": 1684903689256435712,
+    "timestamp": "2020-12-01T19:02:54.065Z"
 }

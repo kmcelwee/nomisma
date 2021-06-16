@@ -35,6 +35,12 @@
         "5.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1427\",\"call_number_browse\":\"Coin 1427\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "194: 1989-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 55,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "825"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "RPC.1  3401"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 55"
+    ],
     "hashed_id_s": [
         "4ea78e104e9cead0"
     ],
-    "_version_": 1667138211309158400,
-    "timestamp": "2020-05-19T16:48:14.028Z"
+    "_version_": 1684902976073760768,
+    "timestamp": "2020-12-01T18:51:33.922Z"
 }

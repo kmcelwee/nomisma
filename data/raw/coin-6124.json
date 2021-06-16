@@ -29,6 +29,12 @@
         "93x74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6124\",\"call_number_browse\":\"Coin 6124\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "4 Shillings"
-    ],
-    "issue_number_s": [
-        "3574"
     ],
     "issue_metal_s": [
         "Paper"
@@ -75,6 +78,6 @@
     "hashed_id_s": [
         "d57ca6e750f0e271"
     ],
-    "_version_": 1667138378834903040,
-    "timestamp": "2020-05-19T16:50:53.792Z"
+    "_version_": 1684903119298756608,
+    "timestamp": "2020-12-01T18:53:50.512Z"
 }

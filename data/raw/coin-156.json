@@ -35,6 +35,12 @@
         "26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 156\",\"call_number_browse\":\"Coin 156\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 1720,
     "pub_date_end_sort": 1721,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "4 shahi"
-    ],
-    "issue_number_s": [
-        "73"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "Mitchiner  2083"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1720 to 1721"
+    ],
     "hashed_id_s": [
         "e96ee51e9065acce"
     ],
-    "_version_": 1667138401976975360,
-    "timestamp": "2020-05-19T16:51:15.861Z"
+    "_version_": 1684903177027059712,
+    "timestamp": "2020-12-01T18:54:45.566Z"
 }

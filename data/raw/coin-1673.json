@@ -35,6 +35,9 @@
         "3.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1673\",\"call_number_browse\":\"Coin 1673\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 108,
     "pub_date_end_sort": 109,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1068"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Sear  5923"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "108 to 109"
+    ],
     "hashed_id_s": [
         "1e24c8a7263cab8d"
     ],
-    "_version_": 1667146529452851200,
-    "timestamp": "2020-05-19T19:02:24.171Z"
+    "_version_": 1684903372898959360,
+    "timestamp": "2020-12-01T18:57:52.365Z"
 }

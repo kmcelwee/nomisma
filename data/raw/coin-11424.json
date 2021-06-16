@@ -122,9 +122,12 @@
         "DOC 3.2 C.33"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "1bac3a78554aefca"
     ],
-    "_version_": 1673458013242916864,
-    "timestamp": "2020-07-28T10:58:46.816Z"
+    "_version_": 1684903353855770624,
+    "timestamp": "2020-12-01T18:57:34.205Z"
 }

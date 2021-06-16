@@ -35,8 +35,11 @@
         "4.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6475\",\"call_number_browse\":\"Coin 6475\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 367,
     "pub_date_end_sort": 375,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "solidus"
     ],
-    "issue_number_s": [
-        "3899"
-    ],
     "issue_metal_s": [
         "Gold"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Valens (364 to 378)"
@@ -92,18 +95,21 @@
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "shield between with VOT | V | MVL | X, togate figure below"
+        "shield between, with VOT | V | MVL | X, togate figure below"
     ],
     "issue_reverse_legend_s": [
         "GLORIA REI PUBLICAE | SMANSSPE SRP | ANTA+"
     ],
     "issue_references_s": [
-        "RIC.9 p. 277 20a"
+        "RIC IX Antioch 20A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "367 to 375"
+    ],
     "hashed_id_s": [
         "5283f6146ce60642"
     ],
-    "_version_": 1667138370193588224,
-    "timestamp": "2020-05-19T16:50:45.551Z"
+    "_version_": 1684902913042808832,
+    "timestamp": "2020-12-01T18:50:33.812Z"
 }

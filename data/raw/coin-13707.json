@@ -35,8 +35,11 @@
         "8.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13707\",\"call_number_browse\":\"Coin 13707\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -147,
     "pub_date_end_sort": -146,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8767"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,16 +103,19 @@
     "issue_reverse_attributes_s": [
         "spear, behind shield",
         "shield, grounded in front of Athena",
-        "\u039a, on inner left, above",
-        "m13707, on inner left, below"
+        "monogram, on inner left, below",
+        "monogram, on inner left, above"
     ],
     "issue_references_s": [
-        "H & L II, v.I, p.226 1793.3"
+        "H & L II, v.I, p.226 1793.3d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-147 to -146"
+    ],
     "hashed_id_s": [
         "f0da98371371ad33"
     ],
-    "_version_": 1667138516883079168,
-    "timestamp": "2020-05-19T16:53:05.444Z"
+    "_version_": 1684903645773037568,
+    "timestamp": "2020-12-01T19:02:12.598Z"
 }

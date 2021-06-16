@@ -61,9 +61,6 @@
     "issue_denomination_s": [
         "Qirtas"
     ],
-    "issue_number_s": [
-        "5953"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,9 +86,12 @@
         "Ayyubids  666"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1201 to 1202"
+    ],
     "hashed_id_s": [
         "3ddadba51230f70d"
     ],
-    "_version_": 1667144891610693632,
-    "timestamp": "2020-05-19T18:34:24.953Z"
+    "_version_": 1684903075854155776,
+    "timestamp": "2020-12-01T18:53:09.079Z"
 }

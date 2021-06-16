@@ -35,8 +35,11 @@
         ".87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15056\",\"call_number_browse\":\"Coin 15056\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
     ],
     "pub_date_start_sort": 1329,
     "pub_date_end_sort": 1339,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldino"
-    ],
-    "issue_number_s": [
-        "9234"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Pap. 1 163, 10"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1329 to 1339"
+    ],
     "hashed_id_s": [
         "b175a97af4e3b693"
     ],
-    "_version_": 1667145395496550400,
-    "timestamp": "2020-05-19T18:53:23.990Z"
+    "_version_": 1684903375427076096,
+    "timestamp": "2020-12-01T18:57:54.774Z"
 }

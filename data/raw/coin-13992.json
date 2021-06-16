@@ -35,8 +35,8 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13992\",\"call_number_browse\":\"Coin 13992\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hemiobol"
-    ],
-    "issue_number_s": [
-        "9018"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,6 +93,6 @@
     "hashed_id_s": [
         "262480cfb10efc99"
     ],
-    "_version_": 1667138328721358848,
-    "timestamp": "2020-05-19T16:50:05.999Z"
+    "_version_": 1684903171994943488,
+    "timestamp": "2020-12-01T18:54:40.768Z"
 }

@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "10/25/1934"
+        "1934-10-25"
     ],
     "find_feature_s": [
-        "above basalt pavement near old wall"
+        "Near old wall, above basalt pavement"
     ],
     "find_locus_s": [
-        "12-N"
+        "DS 12-N"
     ],
     "find_number_s": [
         "C3898"
@@ -50,6 +50,12 @@
         "2.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8126\",\"call_number_browse\":\"Coin 8126\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 316,
     "pub_date_end_sort": 317,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5148"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +95,7 @@
         "laur."
     ],
     "issue_obverse_legend_s": [
-        "IMP C VAL LICIN LICINIVS P F AVG"
+        "IMPCVALLICINLICINIVSPFAVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -110,16 +113,19 @@
         "Jupiter standing l., holding Victory and scepter. At l., eagle."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSER-VATORI AVGG | ALE"
+        "IOVICONSER-VATORIAVGG | ALE"
     ],
     "issue_references_s": [
-        "RIC.7 p. 706 18",
+        "RIC VII Alexandria  18",
         "Numismatique Constantinienne III, p. 259, II 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "316 to 317"
+    ],
     "hashed_id_s": [
         "424c85d11aefdf56"
     ],
-    "_version_": 1667138349505183744,
-    "timestamp": "2020-05-19T16:50:25.819Z"
+    "_version_": 1694239001631784960,
+    "timestamp": "2021-03-14T20:03:41.714Z"
 }

@@ -35,13 +35,13 @@
         "28.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6220\",\"call_number_browse\":\"Coin 6220\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3666"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -91,9 +91,12 @@
         "George T. Morgan"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Third Spanish Fronde    "
+    ],
     "hashed_id_s": [
         "06a0e32da0999123"
     ],
-    "_version_": 1667138252179505152,
-    "timestamp": "2020-05-19T16:48:53.002Z"
+    "_version_": 1684903474892898304,
+    "timestamp": "2020-12-01T18:59:29.632Z"
 }

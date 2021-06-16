@@ -32,6 +32,9 @@
         "84x70"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3656\",\"call_number_browse\":\"Coin 3656\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "16 Shillings"
-    ],
-    "issue_number_s": [
-        "2157"
     ],
     "issue_metal_s": [
         "Paper"
@@ -81,6 +81,6 @@
     "hashed_id_s": [
         "914d16f6609c21e9"
     ],
-    "_version_": 1667138431213371392,
-    "timestamp": "2020-05-19T16:51:43.744Z"
+    "_version_": 1684903206562299904,
+    "timestamp": "2020-12-01T18:55:13.733Z"
 }

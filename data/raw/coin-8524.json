@@ -38,6 +38,12 @@
         "1.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8524\",\"call_number_browse\":\"Coin 8524\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "626: 2010-01-11 Stack's"
+    ],
     "pub_date_start_sort": 600,
     "pub_date_end_sort": 675,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "tremissis"
-    ],
-    "issue_number_s": [
-        "5431"
     ],
     "issue_metal_s": [
         "Gold"
@@ -98,9 +101,12 @@
         "Prou  405v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "600 to 675"
+    ],
     "hashed_id_s": [
         "78042294b4f54c75"
     ],
-    "_version_": 1667138268884369408,
-    "timestamp": "2020-05-19T16:49:08.933Z"
+    "_version_": 1684903490023849984,
+    "timestamp": "2020-12-01T18:59:44.061Z"
 }

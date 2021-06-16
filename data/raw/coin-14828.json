@@ -35,22 +35,25 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14828\",\"call_number_browse\":\"Coin 14828\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "685:  unknown"
+    ],
+    "pub_date_start_sort": -76,
+    "pub_date_end_sort": -76,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9101"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Lucretius Trio  "
@@ -71,39 +74,49 @@
         "Neptune"
     ],
     "issue_obverse_symbol_s": [
-        "XXXIX"
+        "XXXIX behind"
     ],
     "issue_obverse_part_s": [
-        "laureate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "trident over shoulder"
+        "laureate"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "behind, symbol"
+    "issue_obverse_attributes_s": [
+        "trident, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Winged boy"
     ],
     "issue_reverse_part_s": [
-        "riding dolphinback"
+        "speeding"
     ],
     "issue_reverse_orientation_s": [
         "right"
     ],
+    "issue_reverse_figure_description_s": [
+        "on dolphin"
+    ],
     "issue_reverse_legend_s": [
-        "L.LVCRETI TRIO"
+        "L\u00b7LVCRETI / TRIO"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  390-2"
+        "RRC  390/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -76"
+    ],
     "hashed_id_s": [
         "4f91805fbe6c4d46"
     ],
-    "_version_": 1667307362973646848,
-    "timestamp": "2020-05-21T13:36:49.626Z"
+    "_version_": 1684903229820764160,
+    "timestamp": "2020-12-01T18:55:35.914Z"
 }

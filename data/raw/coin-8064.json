@@ -50,6 +50,9 @@
         "2.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8064\",\"call_number_browse\":\"Coin 8064\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 538,
     "pub_date_end_sort": 540,
     "issue_object_type_s": [
@@ -101,9 +104,12 @@
         "THEUP"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "538 to 540"
+    ],
     "hashed_id_s": [
         "f28d72c3a4b3ce45"
     ],
-    "_version_": 1673365819625570304,
-    "timestamp": "2020-07-27T10:33:24.129Z"
+    "_version_": 1684902897702141952,
+    "timestamp": "2020-12-01T18:50:19.181Z"
 }

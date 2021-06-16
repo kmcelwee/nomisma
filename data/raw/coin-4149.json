@@ -35,19 +35,19 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4149\",\"call_number_browse\":\"Coin 4149\"}}",
-    "donor_s": [
-        "Anonymous"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_accession_s": [
+        "200:  Anonymous"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2363"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,13 @@
         "facing"
     ],
     "issue_obverse_figure_description_s": [
-        "legend below; border of dots"
+        "legend below"
     ],
     "issue_obverse_legend_s": [
-        "L \u0393LAVTIVS"
+        "L.PLAVTIVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -89,13 +92,14 @@
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory holds palm-branch in l. hand and leads four horses; legend below; border of dots"
+        "holding palm-branch in l. hand and leading four horses; legend below"
     ],
     "issue_reverse_legend_s": [
-        "\u0393LANCV[S?]"
+        "PLANCV[S?]"
     ],
     "issue_reverse_attributes_s": [
-        "palm branch, held in l. hand"
+        "palm branch, held in l. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  453/1c-d",
@@ -103,9 +107,12 @@
         "Sear  429"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "a257d1f4a321f9d1"
     ],
-    "_version_": 1667138393846317056,
-    "timestamp": "2020-05-19T16:51:08.106Z"
+    "_version_": 1684903566995619840,
+    "timestamp": "2020-12-01T19:00:57.469Z"
 }

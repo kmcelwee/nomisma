@@ -38,8 +38,11 @@
         "1.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12589\",\"call_number_browse\":\"Coin 12589\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8396"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Sellwood  45.38"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "e64ee1222c0a9cad"
     ],
-    "_version_": 1667138308217503744,
-    "timestamp": "2020-05-19T16:49:46.445Z"
+    "_version_": 1684903048456962048,
+    "timestamp": "2020-12-01T18:52:42.953Z"
 }

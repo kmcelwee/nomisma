@@ -2,7 +2,7 @@
     "id": "coin-13726",
     "title_display": "Coin: 13726",
     "pub_created_display": [
-        "Lucius Appuleis Saturnius (-104 to ), denarius, Rome"
+        "denarius, Rome"
     ],
     "call_number_display": [
         "Coin 13726"
@@ -26,40 +26,40 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13726\",\"call_number_browse\":\"Coin 13726\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "pub_date_start_sort": -104,
+    "pub_date_end_sort": -104,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "8784"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
-    "issue_ruler_s": [
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_master_s": [
         "Lucius Appuleis Saturnius (-104 to )"
     ],
     "issue_place_s": [
-        "Rome, Italy, Roman Empire"
+        "Rome, Latium, Italy"
     ],
     "issue_city_s": [
         "Rome"
     ],
     "issue_state_s": [
-        "Italy"
+        "Latium"
     ],
     "issue_region_s": [
-        "Roman Empire"
+        "Italy"
     ],
     "issue_obverse_figure_s": [
         "Roma"
     ],
     "issue_obverse_symbol_s": [
-        "border of dots"
+        "control-mark behind head"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -68,35 +68,43 @@
         "left"
     ],
     "issue_obverse_figure_description_s": [
-        "helmeted head"
+        "helmeted"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Saturn"
     ],
     "issue_reverse_symbol_s": [
-        "border of dots"
+        "control-mark (S\u00b7) below"
     ],
     "issue_reverse_part_s": [
         "riding in a quadriga"
     ],
     "issue_reverse_orientation_s": [
-        "advancing right"
-    ],
-    "issue_reverse_figure_description_s": [
-        "holding reins in l.hand, harpa in r. hand"
+        "right"
     ],
     "issue_reverse_legend_s": [
-        "L. Saturn"
+        "L\u00b7SATVRN"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "harpa, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "Syd. 80 578-80",
-        "RRC 323 317",
+        "RRC  317/3b",
         "PUL 14 176"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-104 to -104"
+    ],
     "hashed_id_s": [
         "bdb475ba055fa983"
     ],
-    "_version_": 1667145480822325248,
-    "timestamp": "2020-05-19T18:51:23.364Z"
+    "_version_": 1684903168706609152,
+    "timestamp": "2020-12-01T18:54:37.632Z"
 }

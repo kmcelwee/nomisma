@@ -38,8 +38,11 @@
         "5.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1442\",\"call_number_browse\":\"Coin 1442\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -169,
     "pub_date_end_sort": -158,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "sextans"
-    ],
-    "issue_number_s": [
-        "839"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,10 +80,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Mercury r.; above, two pellets."
-    ],
-    "issue_obverse_attributes_s": [
-        "pellet, Two pellets above head, arranged horizontally."
+        "Head of Mercury r.; above, two pellets arrange horizontally."
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -92,15 +89,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Prow r.; above, CINA; before, |; below, ROMA."
+        "Prow r.; above, CINA; before, I; below, ROMA; before, two pellets arranged vertically."
     ],
     "issue_reverse_legend_s": [
         "CINA; ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "pellet, Two pellets before prow, arranged vertically.",
         "I, Before prow.",
-        "line, Border"
+        "border, line"
     ],
     "issue_references_s": [
         "RRC  178/5",
@@ -108,9 +104,12 @@
         "Sear  1271"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-169 to -158"
+    ],
     "hashed_id_s": [
         "b2e60bc19b1e08db"
     ],
-    "_version_": 1667138412993314816,
-    "timestamp": "2020-05-19T16:51:26.366Z"
+    "_version_": 1684903575740743680,
+    "timestamp": "2020-12-01T19:01:05.809Z"
 }

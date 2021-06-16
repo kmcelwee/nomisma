@@ -29,8 +29,14 @@
         "30"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15228\",\"call_number_browse\":\"Coin 15228\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1937,
     "pub_date_end_sort": 1961,
@@ -58,10 +64,16 @@
     "issue_reverse_attributes_s": [
         "Inscription, MEDALLA | CONMEMORATIVA | DEL | AVENIMIENTO | DE LA | PATRIA NUEVA | 23 DE FEBRERO | 1930"
     ],
+    "issue_references_s": [
+        "Thankful Nation Do5 "
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1937 to 1961"
+    ],
     "hashed_id_s": [
         "042ace31dbbf6207"
     ],
-    "_version_": 1671709886897979392,
-    "timestamp": "2020-07-09T03:53:03.616Z"
+    "_version_": 1684902914827485184,
+    "timestamp": "2020-12-01T18:50:35.512Z"
 }

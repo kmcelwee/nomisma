@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "dupondius"
     ],
-    "issue_number_s": [
-        "95"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -91,6 +88,6 @@
     "hashed_id_s": [
         "c7ec21cd3b40d880"
     ],
-    "_version_": 1667138126058881024,
-    "timestamp": "2020-05-19T16:46:52.725Z"
+    "_version_": 1683105557569863680,
+    "timestamp": "2020-11-11T22:42:22.060Z"
 }

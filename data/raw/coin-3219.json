@@ -32,8 +32,11 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3219\",\"call_number_browse\":\"Coin 3219\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1652,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "1964"
     ],
     "issue_metal_s": [
         "Iron"
@@ -79,9 +79,12 @@
         "Zhong Guo 306 2nd row, 1st coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1652"
+    ],
     "hashed_id_s": [
         "cb7e36027c4126de"
     ],
-    "_version_": 1667138435991732224,
-    "timestamp": "2020-05-19T16:51:48.298Z"
+    "_version_": 1684903215820177408,
+    "timestamp": "2020-12-01T18:55:22.562Z"
 }

@@ -35,16 +35,16 @@
         "19.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12056\",\"call_number_browse\":\"Coin 12056\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "8155"
     ],
     "issue_ruler_s": [
         "Justinian I (527 to 565)"
@@ -53,6 +53,6 @@
     "hashed_id_s": [
         "b2fcc0e13b1d6391"
     ],
-    "_version_": 1667144699356381184,
-    "timestamp": "2020-05-19T18:31:21.519Z"
+    "_version_": 1684903348053999616,
+    "timestamp": "2020-12-01T18:57:28.669Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-10256",
     "title_display": "Coin: 10256",
     "pub_created_display": [
-        "Lucius Verus, sestertius, Padua"
+        "Lucius Verus   (161 to 169), sestertius, Padua"
     ],
     "call_number_display": [
         "Coin 10256"
@@ -43,14 +43,11 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "6395"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Lucius Verus"
+        "Lucius Verus   (161 to 169)"
     ],
     "issue_place_s": [
         "Padua, Venice, Italy"
@@ -101,6 +98,6 @@
     "hashed_id_s": [
         "d958b0d5ca97baec"
     ],
-    "_version_": 1667138280185921536,
-    "timestamp": "2020-05-19T16:49:19.710Z"
+    "_version_": 1684903023543844864,
+    "timestamp": "2020-12-01T18:52:19.191Z"
 }

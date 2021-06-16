@@ -35,8 +35,11 @@
         "2.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6795\",\"call_number_browse\":\"Coin 6795\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
     ],
     "pub_date_start_sort": 1198,
     "pub_date_end_sort": 1219,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/2 double tram"
-    ],
-    "issue_number_s": [
-        "4204"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +105,12 @@
         "Bedoukian  63"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1198 to 1219"
+    ],
     "hashed_id_s": [
         "18aa9ec8eff65070"
     ],
-    "_version_": 1667138365097508864,
-    "timestamp": "2020-05-19T16:50:40.691Z"
+    "_version_": 1684903545739935744,
+    "timestamp": "2020-12-01T19:00:37.199Z"
 }

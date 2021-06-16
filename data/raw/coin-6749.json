@@ -35,6 +35,12 @@
         "2.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6749\",\"call_number_browse\":\"Coin 6749\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1198,
     "pub_date_end_sort": 1219,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tram"
-    ],
-    "issue_number_s": [
-        "4158"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +105,15 @@
         "Nercessian  263v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Mary, Virgin"
+    ],
+    "issue_date_s": [
+        "1198 to 1219"
+    ],
     "hashed_id_s": [
         "a6588e5a81310858"
     ],
-    "_version_": 1667138362688929792,
-    "timestamp": "2020-05-19T16:50:38.393Z"
+    "_version_": 1684903544724914176,
+    "timestamp": "2020-12-01T19:00:36.232Z"
 }

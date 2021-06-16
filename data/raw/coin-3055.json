@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "On the reverse, the inscription appears thus: [ANT]IOX [ET EIR].  The laureate head of Apollo on the  obverse of this coin differs from bare-headed Apollo depicted in RPC 1. 4306.  Picture corr. to BMC Antioch 90 matches, but description as head is wrong."
+        "On the reverse, the inscription appears thus: [ANT]IOX [ET EIR]. The laureate head of Apollo on the obverse of this coin differs from bare-headed Apollo depicted in RPC 1. 4306. Picture corr. to BMC Antioch 90 matches, but description as head is wrong."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "06/28/1939"
     ],
-    "find_feature_s": [
-        "Mosaic of Rm 13"
-    ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc2268"
     ],
     "find_description_s": [
-        "Sealed under mosaic of Room 13 in red painted pool"
+        "Room 13, under mosaic, in red painted pool, sealed"
     ],
     "die_axis_s": [
         "1"
@@ -56,6 +53,12 @@
         "2.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3055\",\"call_number_browse\":\"Coin 3055\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 66,
     "pub_date_end_sort": 67,
     "issue_object_type_s": [
@@ -64,11 +67,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1912"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -95,16 +101,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "lhead is aureate; circle of dots around perimeter of coin"
+        "laureate; circle of dots around perimeter of coin"
     ],
     "issue_reverse_figure_s": [
         "Laurel branch"
     ],
     "issue_reverse_figure_description_s": [
         "leaves appear relatively round; encosed by a thin circle"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "ANTIOX on right edge; ET EIR on left"
     ],
     "issue_reverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7 ET EIR"
@@ -114,9 +117,12 @@
         "BMC Gal. Antioch 90"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "66 to 67"
+    ],
     "hashed_id_s": [
         "1a5cecbc3c1b0cb7"
     ],
-    "_version_": 1667138480527900672,
-    "timestamp": "2020-05-19T16:52:30.772Z"
+    "_version_": 1684903694506655744,
+    "timestamp": "2020-12-01T19:02:59.073Z"
 }

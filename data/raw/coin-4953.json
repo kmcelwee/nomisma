@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "7 Pence"
     ],
-    "issue_number_s": [
-        "2740"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -71,6 +68,6 @@
     "hashed_id_s": [
         "ca03cf1e4329ea9c"
     ],
-    "_version_": 1667138398605803520,
-    "timestamp": "2020-05-19T16:51:12.646Z"
+    "_version_": 1684903270657556480,
+    "timestamp": "2020-12-01T18:56:14.859Z"
 }

@@ -32,8 +32,11 @@
         "5.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1604\",\"call_number_browse\":\"Coin 1604\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "20 Fen"
     ],
-    "issue_number_s": [
-        "994"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "China"
@@ -59,16 +62,19 @@
         "\u4e2d\u83ef\u6c11\u570b\u5341\u5e74 | \u8cb3\u6beb\u9280\u5e63 | \u5ee3\u6771\u7701\u9020"
     ],
     "issue_reverse_legend_s": [
-        " Kwang-Tung Province | 20 | Twenty Cents"
+        "Kwang-Tung Province | 20 | Twenty Cents"
     ],
     "issue_references_s": [
         "Qing Dai 108 368",
         "KM 2005 387 423"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "f145f787d311aeee"
     ],
-    "_version_": 1667138464409190400,
-    "timestamp": "2020-05-19T16:52:15.401Z"
+    "_version_": 1684903295196332032,
+    "timestamp": "2020-12-01T18:56:38.261Z"
 }

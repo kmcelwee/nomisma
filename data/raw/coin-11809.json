@@ -26,6 +26,9 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11809\",\"call_number_browse\":\"Coin 11809\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1075,
     "pub_date_end_sort": 1080,
     "issue_object_type_s": [
@@ -98,9 +101,12 @@
         "BL 3.2 I.37"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1075 to 1080"
+    ],
     "hashed_id_s": [
         "88b0eca6cc3a1b2f"
     ],
-    "_version_": 1673453575783579648,
-    "timestamp": "2020-07-28T09:48:14.923Z"
+    "_version_": 1684902901850308608,
+    "timestamp": "2020-12-01T18:50:23.137Z"
 }

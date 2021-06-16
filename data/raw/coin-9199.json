@@ -35,8 +35,11 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9199\",\"call_number_browse\":\"Coin 9199\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 990,
     "pub_date_end_sort": 990,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dinar"
-    ],
-    "issue_number_s": [
-        "5867"
     ],
     "issue_metal_s": [
         "Gold"
@@ -86,9 +86,12 @@
         "CFC Type A1 (p. 71); #716 (p. 92) "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "990 to 990"
+    ],
     "hashed_id_s": [
         "9fde5aef32789a53"
     ],
-    "_version_": 1667138273892368384,
-    "timestamp": "2020-05-19T16:49:13.710Z"
+    "_version_": 1684903137180123136,
+    "timestamp": "2020-12-01T18:54:07.565Z"
 }

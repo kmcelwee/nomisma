@@ -29,16 +29,16 @@
         "Waage believes that there may be a captive at the feet of Sol in the obverse."
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, Syria, Roman Empire"
     ],
     "find_date_s": [
-        "6/6/1934"
+        "1934-06-06"
     ],
     "find_feature_s": [
-        "Trench 2 over foundation of west Cavea N. end"
+        "Circus"
     ],
     "find_locus_s": [
-        "7-N Circus"
+        "DS 9-N (CIR)"
     ],
     "find_number_s": [
         "C3149"
@@ -53,6 +53,12 @@
         "2.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9333\",\"call_number_browse\":\"Coin 9333\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 314,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5951"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,9 +119,12 @@
         "RIC.7 7, 299 27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "314 to 315"
+    ],
     "hashed_id_s": [
         "5a8f14a32900537a"
     ],
-    "_version_": 1667138154030694400,
-    "timestamp": "2020-05-19T16:47:19.400Z"
+    "_version_": 1684903672134238208,
+    "timestamp": "2020-12-01T19:02:37.737Z"
 }

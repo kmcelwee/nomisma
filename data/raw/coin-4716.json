@@ -35,6 +35,15 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4716\",\"call_number_browse\":\"Coin 4716\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Baldwin's Auctions, London; 1929; $15.50"
+    ],
     "pub_date_start_sort": -41,
     "pub_date_end_sort": -41,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2565"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +112,12 @@
         "Sear  1469"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-41 to -41"
+    ],
     "hashed_id_s": [
         "0e6ebb2695f2f763"
     ],
-    "_version_": 1667138239264194560,
-    "timestamp": "2020-05-19T16:48:40.688Z"
+    "_version_": 1684903463606026240,
+    "timestamp": "2020-12-01T18:59:18.870Z"
 }

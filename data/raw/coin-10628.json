@@ -35,8 +35,14 @@
         "0.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10628\",\"call_number_browse\":\"Coin 10628\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Jean Elsen et Fils, Brussels; 02/24/2000"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6790"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 1 Style E Type IIc/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "ce6dfce94c65e48a"
     ],
-    "_version_": 1667138179331784704,
-    "timestamp": "2020-05-19T16:47:43.532Z"
+    "_version_": 1684902957432176640,
+    "timestamp": "2020-12-01T18:51:16.144Z"
 }

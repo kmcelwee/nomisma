@@ -35,8 +35,11 @@
         "2.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 885\",\"call_number_browse\":\"Coin 885\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1389,
     "pub_date_end_sort": 1405,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "guenar"
-    ],
-    "issue_number_s": [
-        "364"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +91,12 @@
         "Duplessy  378D"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1389 to 1405"
+    ],
     "hashed_id_s": [
         "2c35477494125631"
     ],
-    "_version_": 1667138406222659584,
-    "timestamp": "2020-05-19T16:51:19.909Z"
+    "_version_": 1684903274186014720,
+    "timestamp": "2020-12-01T18:56:18.224Z"
 }

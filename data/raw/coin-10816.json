@@ -38,8 +38,14 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10816\",\"call_number_browse\":\"Coin 10816\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Windsor Antiquities; 01/20/2001"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6976"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 Mint IX (\"Kabul\") Type Ib1/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "5584861b56d89f27"
     ],
-    "_version_": 1667138171900526592,
-    "timestamp": "2020-05-19T16:47:36.442Z"
+    "_version_": 1684903034693353472,
+    "timestamp": "2020-12-01T18:52:29.827Z"
 }

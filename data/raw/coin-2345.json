@@ -35,6 +35,15 @@
         "15.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2345\",\"call_number_browse\":\"Coin 2345\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Faelten; purchased $2.35 in 1938"
+    ],
     "pub_date_start_sort": 526,
     "pub_date_end_sort": 534,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "1506"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +96,12 @@
         "BMC.Vand Ostrogothic 27"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "526 to 534"
+    ],
     "hashed_id_s": [
         "e05c72fa63621487"
     ],
-    "_version_": 1667138425742950400,
-    "timestamp": "2020-05-19T16:51:38.526Z"
+    "_version_": 1684903203678715904,
+    "timestamp": "2020-12-01T18:55:10.981Z"
 }

@@ -35,8 +35,11 @@
         "2.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 217\",\"call_number_browse\":\"Coin 217\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 1600,
     "pub_date_end_sort": 1699,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 shahi"
-    ],
-    "issue_number_s": [
-        "142"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "dots, around edge"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1600 to 1699"
+    ],
     "hashed_id_s": [
         "551d63c082403622"
     ],
-    "_version_": 1667145926532136960,
-    "timestamp": "2020-05-19T18:50:51.835Z"
+    "_version_": 1684903091256688640,
+    "timestamp": "2020-12-01T18:53:23.769Z"
 }

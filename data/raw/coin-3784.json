@@ -38,13 +38,16 @@
         "49.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3784\",\"call_number_browse\":\"Coin 3784\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 1917,
     "pub_date_end_sort": 1917,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2194"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +83,19 @@
         "L Barillet, L. BARILLET"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, battle    ",
+        "Other Person, Guynemer, Georges",
+        "Category, eulogistic medal",
+        "Category, pilot"
+    ],
+    "issue_date_s": [
+        "1917 to 1917"
+    ],
     "hashed_id_s": [
         "1b3ad7493a6d2eb0"
     ],
-    "_version_": 1667138388088586240,
-    "timestamp": "2020-05-19T16:51:02.618Z"
+    "_version_": 1684903264900874240,
+    "timestamp": "2020-12-01T18:56:09.368Z"
 }

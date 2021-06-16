@@ -35,6 +35,12 @@
         "11.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2713\",\"call_number_browse\":\"Coin 2713\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -19,
     "pub_date_end_sort": -18,
     "issue_object_type_s": [
@@ -88,9 +94,15 @@
         "BMC.1. Augustus 703"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, arch"
+    ],
+    "issue_date_s": [
+        "-19 to -18"
+    ],
     "hashed_id_s": [
         "181daf3fed7c4869"
     ],
-    "_version_": 1674369173997748224,
-    "timestamp": "2020-08-07T12:21:17.422Z"
+    "_version_": 1684903333530173440,
+    "timestamp": "2020-12-01T18:57:14.819Z"
 }

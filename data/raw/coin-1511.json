@@ -35,8 +35,11 @@
         "6.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1511\",\"call_number_browse\":\"Coin 1511\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "907"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,6 +89,6 @@
     "hashed_id_s": [
         "0c7151b6c493b8ef"
     ],
-    "_version_": 1667309848139661312,
-    "timestamp": "2020-05-21T14:16:19.664Z"
+    "_version_": 1684903657985802240,
+    "timestamp": "2020-12-01T19:02:24.244Z"
 }

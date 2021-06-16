@@ -35,8 +35,11 @@
         "4.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3569\",\"call_number_browse\":\"Coin 3569\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1678,
     "pub_date_end_sort": 1681,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2096"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -78,9 +78,12 @@
         "Zhong Guo 317 3rd row, 1st coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1678 to 1681"
+    ],
     "hashed_id_s": [
         "42c85de5d2f14fec"
     ],
-    "_version_": 1667138163409158144,
-    "timestamp": "2020-05-19T16:47:28.345Z"
+    "_version_": 1684902925686538240,
+    "timestamp": "2020-12-01T18:50:45.869Z"
 }

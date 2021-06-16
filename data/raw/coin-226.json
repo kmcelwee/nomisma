@@ -35,6 +35,9 @@
         "0.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 226\",\"call_number_browse\":\"Coin 226\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 839,
     "pub_date_end_sort": 852,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "120"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "MEC.1  813"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "839 to 852"
+    ],
     "hashed_id_s": [
         "2f9cb46469327c21"
     ],
-    "_version_": 1667138200790892544,
-    "timestamp": "2020-05-19T16:48:03.995Z"
+    "_version_": 1684903091206356992,
+    "timestamp": "2020-12-01T18:53:23.721Z"
 }

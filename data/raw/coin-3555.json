@@ -35,8 +35,11 @@
         "1.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3555\",\"call_number_browse\":\"Coin 3555\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "8:  Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": -6,
     "pub_date_end_sort": 11,
@@ -82,9 +85,12 @@
         "PUC  772"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-6 to 11"
+    ],
     "hashed_id_s": [
         "8ba4af949e397c04"
     ],
-    "_version_": 1674369818464092160,
-    "timestamp": "2020-08-07T12:31:32.034Z"
+    "_version_": 1684903333916049408,
+    "timestamp": "2020-12-01T18:57:15.188Z"
 }

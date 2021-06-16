@@ -35,6 +35,15 @@
         "2.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12382\",\"call_number_browse\":\"Coin 12382\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Wayte Raymond, New York, NY; source questioned; $0.75"
+    ],
     "pub_date_start_sort": -350,
     "pub_date_end_sort": -338,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8315"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +101,12 @@
         "Corinth, Colonies of Corinth, Etc.  227"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-350 to -338"
+    ],
     "hashed_id_s": [
         "61087f1a65d35b12"
     ],
-    "_version_": 1667138304747765760,
-    "timestamp": "2020-05-19T16:49:43.136Z"
+    "_version_": 1684903154225774592,
+    "timestamp": "2020-12-01T18:54:23.821Z"
 }

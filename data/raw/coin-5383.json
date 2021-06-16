@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "3026"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -87,9 +84,12 @@
         "  3-C"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1783 to 1786"
+    ],
     "hashed_id_s": [
         "c66e7ed605a95311"
     ],
-    "_version_": 1667138420141457408,
-    "timestamp": "2020-05-19T16:51:33.298Z"
+    "_version_": 1684903197353705472,
+    "timestamp": "2020-12-01T18:55:04.950Z"
 }

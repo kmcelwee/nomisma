@@ -35,8 +35,11 @@
         "7.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1636\",\"call_number_browse\":\"Coin 1636\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -15,
     "pub_date_end_sort": -14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1026"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "RPC.1 1 55"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-15 to -14"
+    ],
     "hashed_id_s": [
         "713af929c567516c"
     ],
-    "_version_": 1667138465598275584,
-    "timestamp": "2020-05-19T16:52:16.537Z"
+    "_version_": 1684903295850643456,
+    "timestamp": "2020-12-01T18:56:38.884Z"
 }

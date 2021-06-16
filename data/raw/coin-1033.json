@@ -35,6 +35,9 @@
         "4.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1033\",\"call_number_browse\":\"Coin 1033\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "481"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +68,12 @@
         "horsehair crest, B in upper l., A in upper r."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
     "hashed_id_s": [
         "fd805e0c5c5dbc5d"
     ],
-    "_version_": 1667138408230682624,
-    "timestamp": "2020-05-19T16:51:21.823Z"
+    "_version_": 1684903275147558912,
+    "timestamp": "2020-12-01T18:56:19.140Z"
 }

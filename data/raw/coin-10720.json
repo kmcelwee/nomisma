@@ -35,6 +35,12 @@
         "3.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10720\",\"call_number_browse\":\"Coin 10720\"}}",
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Malvin Coins; 10/29/2002"
+    ],
     "pub_date_start_sort": 276,
     "pub_date_end_sort": 293,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6881"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,9 +80,12 @@
         "SNS 2 Hybrid: obv. style B/Rev. style A Type III/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "276 to 293"
+    ],
     "hashed_id_s": [
         "df03356804199460"
     ],
-    "_version_": 1667138285039779840,
-    "timestamp": "2020-05-19T16:49:24.339Z"
+    "_version_": 1684903028458520576,
+    "timestamp": "2020-12-01T18:52:23.881Z"
 }

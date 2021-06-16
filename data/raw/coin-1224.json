@@ -35,8 +35,11 @@
         "5.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1224\",\"call_number_browse\":\"Coin 1224\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -214,
     "pub_date_end_sort": -212,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "uncia"
     ],
-    "issue_number_s": [
-        "668"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Luceria, Latium, Italy"
@@ -67,14 +70,17 @@
     "issue_obverse_figure_s": [
         "Roma"
     ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
     "issue_obverse_orientation_s": [
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "head of Roma w/ Attic helmet; pellet behind"
+        "wearing Attic helmet"
     ],
     "issue_obverse_attributes_s": [
-        "pellet, single pellet behind head"
+        "pellet, behind head"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -82,14 +88,12 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "prow r. w/ archaic letter and pellet below, ROMA above"
-    ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "a1224, archaic letter w/ pellet  below prow"
+        "denominational mark, below prow",
+        "pellet, below prow"
     ],
     "issue_references_s": [
         "RRC  43/5",
@@ -97,9 +101,12 @@
         "Sear  618"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-214 to -212"
+    ],
     "hashed_id_s": [
         "8f6922704746c35e"
     ],
-    "_version_": 1667138460544139264,
-    "timestamp": "2020-05-19T16:52:11.713Z"
+    "_version_": 1684903696875388928,
+    "timestamp": "2020-12-01T19:03:01.331Z"
 }

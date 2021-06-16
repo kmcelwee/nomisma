@@ -35,6 +35,12 @@
         "2.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1851\",\"call_number_browse\":\"Coin 1851\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "260: 1986-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 969,
     "pub_date_end_sort": 976,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "miliaresion"
-    ],
-    "issue_number_s": [
-        "1206"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +101,12 @@
         "Sear 345 1792"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "969 to 976"
+    ],
     "hashed_id_s": [
         "2811cf966e7f7b69"
     ],
-    "_version_": 1667138214899482624,
-    "timestamp": "2020-05-19T16:48:17.451Z"
+    "_version_": 1684903449030819840,
+    "timestamp": "2020-12-01T18:59:04.968Z"
 }

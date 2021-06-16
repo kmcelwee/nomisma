@@ -50,6 +50,9 @@
         "2.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8146\",\"call_number_browse\":\"Coin 8146\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 602,
     "pub_date_end_sort": 603,
     "issue_object_type_s": [
@@ -103,9 +106,12 @@
         "BMC vol.1, p. 176 117"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "602 to 603"
+    ],
     "hashed_id_s": [
         "3bbfffbbba0af135"
     ],
-    "_version_": 1673365076661239808,
-    "timestamp": "2020-07-27T10:21:35.586Z"
+    "_version_": 1684902897367646208,
+    "timestamp": "2020-12-01T18:50:18.862Z"
 }

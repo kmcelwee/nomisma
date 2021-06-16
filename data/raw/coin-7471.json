@@ -38,8 +38,11 @@
         "2.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7471\",\"call_number_browse\":\"Coin 7471\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4647"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -97,15 +97,22 @@
     "issue_reverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u039f\u03a3 \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
+    "issue_reverse_attributes_s": [
+        "monogram, in exergue",
+        "monogram , in outer r. field"
+    ],
     "issue_references_s": [
         "ESM  560",
         "Houghton  1205",
         "H & L II, vol. I, p.31 1356"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "da2d289ca1bbb5b4"
     ],
-    "_version_": 1667138352777789440,
-    "timestamp": "2020-05-19T16:50:28.940Z"
+    "_version_": 1684903128534614016,
+    "timestamp": "2020-12-01T18:53:59.321Z"
 }

@@ -38,8 +38,14 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11094\",\"call_number_browse\":\"Coin 11094\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 06/17/2000"
     ],
     "pub_date_start_sort": 496,
     "pub_date_end_sort": 499,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7255"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 AS Type Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "496 to 499"
+    ],
     "hashed_id_s": [
         "283421d2effc8ffa"
     ],
-    "_version_": 1667138168491606016,
-    "timestamp": "2020-05-19T16:47:33.194Z"
+    "_version_": 1684902928945512448,
+    "timestamp": "2020-12-01T18:50:48.976Z"
 }

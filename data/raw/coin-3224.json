@@ -35,6 +35,15 @@
         "1.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3224\",\"call_number_browse\":\"Coin 3224\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Clement Platt, Paris; 1931; $13.00"
+    ],
     "pub_date_start_sort": -411,
     "pub_date_end_sort": -350,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "triobol"
-    ],
-    "issue_number_s": [
-        "1903"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +101,12 @@
         "BMC Mac. p. 85 17ff."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-411 to -350"
+    ],
     "hashed_id_s": [
         "2a2e7f2ca34f0e46"
     ],
-    "_version_": 1667138480556212224,
-    "timestamp": "2020-05-19T16:52:30.801Z"
+    "_version_": 1684903226606878720,
+    "timestamp": "2020-12-01T18:55:32.850Z"
 }

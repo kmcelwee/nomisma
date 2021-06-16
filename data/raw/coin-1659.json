@@ -35,8 +35,11 @@
         "2.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1659\",\"call_number_browse\":\"Coin 1659\"}}",
-    "donor_s": [
-        "F.J. Mather"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "217: 1931-06-01 F.J. Mather"
     ],
     "pub_date_start_sort": -274,
     "pub_date_end_sort": -216,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "4 litrae"
-    ],
-    "issue_number_s": [
-        "1053"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "ANS Part 5, Sicily III 1021"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-274 to -216"
+    ],
     "hashed_id_s": [
         "42abc3f8aaa82111"
     ],
-    "_version_": 1667138445196132352,
-    "timestamp": "2020-05-19T16:51:57.076Z"
+    "_version_": 1684903289334792192,
+    "timestamp": "2020-12-01T18:56:32.672Z"
 }

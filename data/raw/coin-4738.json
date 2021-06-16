@@ -35,6 +35,15 @@
         "3.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4738\",\"call_number_browse\":\"Coin 4738\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1936; $69"
+    ],
     "pub_date_start_sort": -40,
     "pub_date_end_sort": -40,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2577"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +106,12 @@
         "Sear  1458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-40 to -40"
+    ],
     "hashed_id_s": [
         "3af5d38eb7c50f21"
     ],
-    "_version_": 1667138239422529536,
-    "timestamp": "2020-05-19T16:48:40.837Z"
+    "_version_": 1684903464114585600,
+    "timestamp": "2020-12-01T18:59:19.354Z"
 }

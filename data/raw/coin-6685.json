@@ -41,6 +41,9 @@
         "13.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6685\",\"call_number_browse\":\"Coin 6685\"}}",
+    "numismatic_provenance_s": [
+        "Rodgers; index card says \"gift Rodgers\""
+    ],
     "pub_date_start_sort": 127,
     "pub_date_end_sort": 151,
     "issue_object_type_s": [
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "4103"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "fire altar flanked by two attendants"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "127 to 151"
+    ],
     "hashed_id_s": [
         "d750762c4f900229"
     ],
-    "_version_": 1667138368021987328,
-    "timestamp": "2020-05-19T16:50:43.477Z"
+    "_version_": 1684903104496009216,
+    "timestamp": "2020-12-01T18:53:36.395Z"
 }

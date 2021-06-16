@@ -35,6 +35,12 @@
         "7.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4050\",\"call_number_browse\":\"Coin 4050\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "2323"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,6 +99,6 @@
     "hashed_id_s": [
         "2780f532fdac2a33"
     ],
-    "_version_": 1667138231663067136,
-    "timestamp": "2020-05-19T16:48:33.438Z"
+    "_version_": 1684903458022359040,
+    "timestamp": "2020-12-01T18:59:13.544Z"
 }

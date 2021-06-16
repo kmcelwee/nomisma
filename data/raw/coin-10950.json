@@ -38,8 +38,14 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10950\",\"call_number_browse\":\"Coin 10950\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Youssef Mishriki; 12/31/2009"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7111"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 LYW Type Ib1/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "7c4a403e08913e2a"
     ],
-    "_version_": 1667138288096378880,
-    "timestamp": "2020-05-19T16:49:27.256Z"
+    "_version_": 1684903032250171392,
+    "timestamp": "2020-12-01T18:52:27.496Z"
 }

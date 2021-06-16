@@ -35,6 +35,9 @@
         "3.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6512\",\"call_number_browse\":\"Coin 6512\"}}",
+    "numismatic_accession_s": [
+        "101: 2005-01-14 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1303,
     "pub_date_end_sort": 1320,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3933"
     ],
     "issue_metal_s": [
         "Gold"
@@ -98,9 +98,12 @@
         "DOC vol. 5, page 138 165"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1303 to 1320"
+    ],
     "hashed_id_s": [
         "74deffe83328f8ba"
     ],
-    "_version_": 1667138369455390720,
-    "timestamp": "2020-05-19T16:50:44.848Z"
+    "_version_": 1684903107768614912,
+    "timestamp": "2020-12-01T18:53:39.515Z"
 }

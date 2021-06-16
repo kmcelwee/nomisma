@@ -2,7 +2,7 @@
     "id": "coin-14803",
     "title_display": "Coin: 14803",
     "pub_created_display": [
-        "Diocletian   (244 to 311), antoninianus, Carthage"
+        "Maximianus Herculius (285 to 310), AE1, Carthage"
     ],
     "call_number_display": [
         "Coin 14803"
@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Variant; E-N legend breakage"
+        "E-N legend breakage on reverse"
     ],
     "die_axis_s": [
         "7"
@@ -38,28 +38,28 @@
         "9.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14803\",\"call_number_browse\":\"Coin 14803\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "686:  unknown"
+    ],
+    "pub_date_start_sort": 297,
+    "pub_date_end_sort": 297,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "antoninianus"
-    ],
-    "issue_number_s": [
-        "9084"
+        "AE1"
     ],
     "issue_metal_s": [
-        "Billon"
+        "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
-        "Diocletian   (244 to 311)"
+        "Maximianus Herculius (285 to 310)"
     ],
     "issue_place_s": [
         "Carthage, Africa, Roman Empire"
@@ -74,39 +74,49 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Diocletian"
+    ],
+    "issue_obverse_part_s": [
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "Facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
         "laureate"
     ],
     "issue_obverse_legend_s": [
-        "IMPDIOCLETIANVSPFAVG"
+        "IMP DIOCLETIANVS P F AVG"
     ],
     "issue_reverse_figure_s": [
         "Africa"
     ],
-    "issue_reverse_symbol_s": [
-        "/ PKP"
+    "issue_reverse_part_s": [
+        "standing"
     ],
     "issue_reverse_orientation_s": [
-        "facing"
+        "standing front, head left"
     ],
     "issue_reverse_figure_description_s": [
-        "holding standard"
+        "wearing elephant-skin head-dress, draped, lion with captured bull to l."
     ],
     "issue_reverse_legend_s": [
-        "FELIXADVE NTAUGGNN"
+        "FELIX ADV-ENT AVGG NN / PKP"
+    ],
+    "issue_reverse_attributes_s": [
+        "standard, in r. hand",
+        "tusk, in l. hand"
     ],
     "issue_references_s": [
-        "RIC 6 425 19a"
+        "RIC VI  Carthage 19a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "297 to 297"
+    ],
     "hashed_id_s": [
         "a4d692a48a6fb761"
     ],
-    "_version_": 1667309053223632896,
-    "timestamp": "2020-05-21T14:03:41.617Z"
+    "_version_": 1684903680743047168,
+    "timestamp": "2020-12-01T19:02:45.947Z"
 }

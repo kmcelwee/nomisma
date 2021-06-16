@@ -38,8 +38,11 @@
         "7.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6433\",\"call_number_browse\":\"Coin 6433\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Muenzen & Medaillen AG, Basel; Sept. 1960; S. fr. 160 = $37.44; Liste 203"
     ],
     "pub_date_start_sort": -380,
     "pub_date_end_sort": -355,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3814"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  618"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-380 to -355"
+    ],
     "hashed_id_s": [
         "689fef18423a7083"
     ],
-    "_version_": 1667138252898828288,
-    "timestamp": "2020-05-19T16:48:53.688Z"
+    "_version_": 1684903124897103872,
+    "timestamp": "2020-12-01T18:53:55.850Z"
 }

@@ -35,6 +35,12 @@
         "8.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12111\",\"call_number_browse\":\"Coin 12111\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "11: 1933-01-01 American Numismatic Society"
+    ],
     "pub_date_start_sort": -345,
     "pub_date_end_sort": -307,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "8168"
     ],
     "issue_metal_s": [
         "Silver"
@@ -94,9 +97,12 @@
         "Ravel 2 1024"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-345 to -307"
+    ],
     "hashed_id_s": [
         "4f6df0fdf3ffba9f"
     ],
-    "_version_": 1667138300364718080,
-    "timestamp": "2020-05-19T16:49:38.954Z"
+    "_version_": 1684903041147338752,
+    "timestamp": "2020-12-01T18:52:35.981Z"
 }

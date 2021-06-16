@@ -47,6 +47,9 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7815\",\"call_number_browse\":\"Coin 7815\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1122,
     "pub_date_end_sort": 1137,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "4878"
     ],
     "issue_metal_s": [
         "Billon"
@@ -109,9 +109,12 @@
         "Sear  1953"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1122 to 1137"
+    ],
     "hashed_id_s": [
         "1371027e8ccf59e2"
     ],
-    "_version_": 1667138263083646976,
-    "timestamp": "2020-05-19T16:49:03.404Z"
+    "_version_": 1684903484779921408,
+    "timestamp": "2020-12-01T18:59:39.060Z"
 }

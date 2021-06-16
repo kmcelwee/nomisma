@@ -35,8 +35,14 @@
         "0.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10576\",\"call_number_browse\":\"Coin 10576\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 05/19/2004; 66 (847)"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6742"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 1 Type IIIb/3b var. head to the left"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "8c1b7d43a481d0bd"
     ],
-    "_version_": 1667138332814999552,
-    "timestamp": "2020-05-19T16:50:09.904Z"
+    "_version_": 1684903072585744384,
+    "timestamp": "2020-12-01T18:53:05.964Z"
 }

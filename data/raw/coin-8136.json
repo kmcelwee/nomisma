@@ -2,7 +2,7 @@
     "id": "coin-8136",
     "title_display": "Coin: 8136",
     "pub_created_display": [
-        "Maurice Tiberius, 20 nummi, Constantinople"
+        "Maurice Tiberius   (582 to 602), 20 nummi, Constantinople"
     ],
     "call_number_display": [
         "Coin 8136"
@@ -58,14 +58,11 @@
     "issue_denomination_s": [
         "20 nummi"
     ],
-    "issue_number_s": [
-        "5153"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Maurice Tiberius"
+        "Maurice Tiberius   (582 to 602)"
     ],
     "issue_workshop_s": [
         "B"
@@ -106,9 +103,12 @@
         "MIB vol.2 69"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "586 to 588"
+    ],
     "hashed_id_s": [
         "06898646b4cfefce"
     ],
-    "_version_": 1667138191912599552,
-    "timestamp": "2020-05-19T16:47:55.528Z"
+    "_version_": 1684902939590656000,
+    "timestamp": "2020-12-01T18:50:59.129Z"
 }

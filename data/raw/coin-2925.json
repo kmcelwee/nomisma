@@ -35,8 +35,11 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2925\",\"call_number_browse\":\"Coin 2925\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "1830"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,29 +77,26 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Hercules head r.; pellets behind."
+        "behind, pellets."
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "pellet, ooo [three pellets; vertical orientation]"
     ],
     "issue_reverse_figure_s": [
         "Prow"
     ],
-    "issue_reverse_symbol_s": [
-        "S"
-    ],
     "issue_reverse_orientation_s": [
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Prow r.; M.FABRI/NI above; before, S and pellets; ROMA below"
+        "above, M.FABRI/NI; before, S and pellets; below ROMA."
     ],
     "issue_reverse_legend_s": [
-        "M. FABRI/NI; ROMA"
+        "M. FABRI/NI S ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "pellet, ooo [three pellets; vertical orientation]"
     ],
     "issue_references_s": [
@@ -108,9 +105,12 @@
         "Sear  1157"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "3e475bcac3c4c729"
     ],
-    "_version_": 1667138479598862336,
-    "timestamp": "2020-05-19T16:52:29.889Z"
+    "_version_": 1684903224770822144,
+    "timestamp": "2020-12-01T18:55:31.098Z"
 }

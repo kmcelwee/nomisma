@@ -35,6 +35,12 @@
         "3.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11875\",\"call_number_browse\":\"Coin 11875\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "752:  Certified Coin Exchange"
+    ],
     "pub_date_start_sort": 119,
     "pub_date_end_sort": 122,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7961"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 269 240"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "119 to 122"
+    ],
     "hashed_id_s": [
         "7971a3c518c7fbda"
     ],
-    "_version_": 1667138122879598592,
-    "timestamp": "2020-05-19T16:46:49.692Z"
+    "_version_": 1684902967594975232,
+    "timestamp": "2020-12-01T18:51:25.835Z"
 }

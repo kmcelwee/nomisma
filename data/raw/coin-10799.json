@@ -38,8 +38,14 @@
         "7.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10799\",\"call_number_browse\":\"Coin 10799\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 02/09/2001"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6960"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "SNS 3 Mint V= Sakastan Type Ib2/2a2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "2da64243e404ce7e"
     ],
-    "_version_": 1667138178483486720,
-    "timestamp": "2020-05-19T16:47:42.722Z"
+    "_version_": 1684902955639111680,
+    "timestamp": "2020-12-01T18:51:14.434Z"
 }

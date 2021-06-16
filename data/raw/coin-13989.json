@@ -35,8 +35,8 @@
         "0.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13989\",\"call_number_browse\":\"Coin 13989\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obol"
-    ],
-    "issue_number_s": [
-        "9016"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +92,12 @@
         "Athens Its History and Coinage p.210 \u03b3\u03b3\u03b3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "0b0f5baca7f1eea1"
     ],
-    "_version_": 1667144699494793216,
-    "timestamp": "2020-05-19T18:31:21.756Z"
+    "_version_": 1684903171634233344,
+    "timestamp": "2020-12-01T18:54:40.422Z"
 }

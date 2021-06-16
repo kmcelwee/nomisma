@@ -35,16 +35,16 @@
         "29.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3686\",\"call_number_browse\":\"Coin 3686\"}}",
-    "donor_s": [
-        "Professor Henry van Dyke, Jr."
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "374:  Professor Henry van Dyke, Jr."
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1915,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2170"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,18 @@
         "Jules Baetes, BAETES"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Category, royalty",
+        "Category, monarchy",
+        "Place, Antwerp    Belgium"
+    ],
+    "issue_date_s": [
+        "1914 to 1915"
+    ],
     "hashed_id_s": [
         "396e5e1e39e3fefe"
     ],
-    "_version_": 1667138482266439680,
-    "timestamp": "2020-05-19T16:52:32.432Z"
+    "_version_": 1684903304313700352,
+    "timestamp": "2020-12-01T18:56:46.955Z"
 }

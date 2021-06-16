@@ -35,8 +35,14 @@
         "3.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10942\",\"call_number_browse\":\"Coin 10942\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pegasi Numismatics, Ann Arbor, MI; 05/15/2012; A26 (266)"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7103"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 DA for \u0160 Type Ib2/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "dd03dff78065d159"
     ],
-    "_version_": 1667138174299668480,
-    "timestamp": "2020-05-19T16:47:38.730Z"
+    "_version_": 1684902950775816192,
+    "timestamp": "2020-12-01T18:51:09.795Z"
 }

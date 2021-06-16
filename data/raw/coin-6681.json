@@ -38,16 +38,16 @@
         "146.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6681\",\"call_number_browse\":\"Coin 6681\"}}",
-    "donor_s": [
-        "Savage"
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "4099"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,15 @@
         "Henry Dropsy, HENRY DROPSY"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Birdwood, William"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "cf296c2dae7cba51"
     ],
-    "_version_": 1667138368185565184,
-    "timestamp": "2020-05-19T16:50:43.634Z"
+    "_version_": 1684903255786651648,
+    "timestamp": "2020-12-01T18:56:00.677Z"
 }

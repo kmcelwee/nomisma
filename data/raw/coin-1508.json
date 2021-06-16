@@ -35,8 +35,11 @@
         "8.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1508\",\"call_number_browse\":\"Coin 1508\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -8,
     "pub_date_end_sort": 1,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "904"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -104,9 +104,16 @@
         "RPC.1 1 314"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Porcius, M.",
+        "Other Person, Fadius, Cn."
+    ],
+    "issue_date_s": [
+        "-8 to 1"
+    ],
     "hashed_id_s": [
         "cfb0c70a73f08f72"
     ],
-    "_version_": 1667138127919054848,
-    "timestamp": "2020-05-19T16:46:54.499Z"
+    "_version_": 1684903657480388608,
+    "timestamp": "2020-12-01T19:02:23.761Z"
 }

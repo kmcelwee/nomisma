@@ -35,8 +35,11 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12516\",\"call_number_browse\":\"Coin 12516\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -256,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4375"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -104,9 +104,12 @@
         "WSM  967"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-261 to -256"
+    ],
     "hashed_id_s": [
         "e4a46f43541c0d80"
     ],
-    "_version_": 1667138121887645696,
-    "timestamp": "2020-05-19T16:46:48.748Z"
+    "_version_": 1684903652993531904,
+    "timestamp": "2020-12-01T19:02:19.482Z"
 }

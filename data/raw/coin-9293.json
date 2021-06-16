@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9293\",\"call_number_browse\":\"Coin 9293\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 539,
     "pub_date_end_sort": 540,
@@ -92,9 +95,12 @@
         "BL Justinian I 32"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "539 to 540"
+    ],
     "hashed_id_s": [
         "aa300ad91126bfc0"
     ],
-    "_version_": 1673365706677157888,
-    "timestamp": "2020-07-27T10:31:36.418Z"
+    "_version_": 1684903137374109696,
+    "timestamp": "2020-12-01T18:54:07.749Z"
 }

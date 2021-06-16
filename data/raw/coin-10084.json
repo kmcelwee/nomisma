@@ -61,9 +61,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6292"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -90,9 +87,12 @@
         "BMC  610"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "696 to 750"
+    ],
     "hashed_id_s": [
         "57da8e4492306121"
     ],
-    "_version_": 1667144825442402304,
-    "timestamp": "2020-05-19T18:33:21.805Z"
+    "_version_": 1684903360434536448,
+    "timestamp": "2020-12-01T18:57:40.477Z"
 }

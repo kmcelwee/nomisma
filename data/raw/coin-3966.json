@@ -31,14 +31,14 @@
     "find_date_s": [
         "10/22/1934"
     ],
-    "find_feature_s": [
-        "Below Phoenix mosaic Room 1"
-    ],
     "find_locus_s": [
-        "DH256"
+        "DH 256"
     ],
     "find_number_s": [
         "C3863"
+    ],
+    "find_description_s": [
+        "Room 1, below Phoenix mosaic"
     ],
     "die_axis_s": [
         "11"
@@ -50,6 +50,12 @@
         "6.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3966\",\"call_number_browse\":\"Coin 3966\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 4,
     "pub_date_end_sort": 5,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2255"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head of Zeus, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Tyche"
@@ -106,23 +115,23 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "Tyche seated, r., with palm branch; river god Orontes before; in right field, E\u039b"
-    ],
     "issue_reverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d \u0395\u03a0\u0399 \u03a3\u0391\u03a4\u039f\u03a1\u039d\u0399\u039d\u039f\u03a5 \u039f\u03a5\u039f\u039b\u039f"
     ],
     "issue_reverse_attributes_s": [
         "river god, river god Orontes, r., before seated Tyche",
-        "palm branch, Tyche holds out palm branch in outstretched hand"
+        "palm branch, in Tyche's outstretched hand."
     ],
     "issue_references_s": [
         "RPC.1  4262"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "4 to 5"
+    ],
     "hashed_id_s": [
         "b60050892ffbf701"
     ],
-    "_version_": 1667138484844888064,
-    "timestamp": "2020-05-19T16:52:34.892Z"
+    "_version_": 1684903619454828544,
+    "timestamp": "2020-12-01T19:01:47.498Z"
 }

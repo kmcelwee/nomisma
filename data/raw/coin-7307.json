@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8-6-1935"
+        "1935-08-06"
+    ],
+    "find_feature_s": [
+        "Under mosaic 1"
     ],
     "find_locus_s": [
-        "DH 23,24 N"
+        "DH 23/24-N"
     ],
-    "find_description_s": [
-        "23,24N-D-H, under Mosaic 1."
+    "find_number_s": [
+        "C5259"
     ],
     "die_axis_s": [
         "10"
@@ -47,16 +50,19 @@
         "1.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7307\",\"call_number_browse\":\"Coin 7307\"}}",
-    "pub_date_start_sort": 333,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4579"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,14 +88,17 @@
     "issue_obverse_figure_s": [
         "Head"
     ],
+    "issue_obverse_part_s": [
+        "bust"
+    ],
     "issue_obverse_orientation_s": [
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed"
+        "diademed cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NUSMAXAUG"
+        "CONSTANTI-NVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,16 +116,19 @@
         "with two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS"
     ],
     "issue_references_s": [
         "Cohen 7 258.254",
-        "RIC 7 693.86"
+        "RIC VII Antioch 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "cfa9656e93d577e4"
     ],
-    "_version_": 1667138356247527424,
-    "timestamp": "2020-05-19T16:50:32.249Z"
+    "_version_": 1691787374807220224,
+    "timestamp": "2021-02-15T18:36:08.180Z"
 }

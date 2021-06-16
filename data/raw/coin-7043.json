@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "7/6/1934"
@@ -50,6 +50,12 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7043\",\"call_number_browse\":\"Coin 7043\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -256,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4375"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,9 +119,12 @@
         "WSM  967"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-261 to -256"
+    ],
     "hashed_id_s": [
         "6485a62582425c62"
     ],
-    "_version_": 1669925582062747648,
-    "timestamp": "2020-06-19T11:12:17.928Z"
+    "_version_": 1684902966616653824,
+    "timestamp": "2020-12-01T18:51:24.903Z"
 }

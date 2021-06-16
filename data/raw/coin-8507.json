@@ -44,13 +44,16 @@
         "20"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8507\",\"call_number_browse\":\"Coin 8507\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 300,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5415"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,9 +83,12 @@
         "Waage  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "0 to 300"
+    ],
     "hashed_id_s": [
         "fc65066d730b1c5c"
     ],
-    "_version_": 1667138186680205312,
-    "timestamp": "2020-05-19T16:47:50.539Z"
+    "_version_": 1684903428544790528,
+    "timestamp": "2020-12-01T18:58:45.431Z"
 }

@@ -50,6 +50,12 @@
         "6.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7967\",\"call_number_browse\":\"Coin 7967\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5010"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +112,12 @@
         "Sear  1825"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "84d07846399724fe"
     ],
-    "_version_": 1667138135390158848,
-    "timestamp": "2020-05-19T16:47:01.623Z"
+    "_version_": 1684903383503208448,
+    "timestamp": "2020-12-01T18:58:02.478Z"
 }

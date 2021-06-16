@@ -2,7 +2,7 @@
     "id": "coin-15144",
     "title_display": "Coin: 15144",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), silver denarius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15144"
@@ -35,25 +35,25 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15144\",\"call_number_browse\":\"Coin 15144\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 147,
     "pub_date_end_sort": 148,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "silver denarius"
-    ],
-    "issue_number_s": [
-        "9301"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -71,26 +71,51 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bare-head dr. bust of Marcus Aurelius r."
+        "Marcus Aurelius"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "AVRELIVS CAE-SAR AVG PII F."
+        "AVRELIVS CAESAR AVG PII F"
     ],
     "issue_reverse_figure_s": [
-        "Dr. female figure standing facing, head r., with wheat-ears and platter of fruit (Fides)"
+        "Fides"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped"
     ],
     "issue_reverse_legend_s": [
-        "TR-POT II-C-O-S II"
+        "TR POT II COS II"
+    ],
+    "issue_reverse_attributes_s": [
+        "two corn-ears, downwards in r. hand",
+        "dish of fruit, on raised l. hand"
     ],
     "issue_references_s": [
-        "BMC.1 93 645",
-        "RIC 82 440",
-        "Strack 188 "
+        "RIC III  Antoninus Pius 440A (denarius)",
+        "Strack  188",
+        "BMC.4 93 645"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "147 to 148"
+    ],
     "hashed_id_s": [
         "a4c7be473179fdf8"
     ],
-    "_version_": 1667144764791717888,
-    "timestamp": "2020-05-19T18:32:23.913Z"
+    "_version_": 1684903370803904512,
+    "timestamp": "2020-12-01T18:57:50.367Z"
 }

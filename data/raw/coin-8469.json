@@ -32,10 +32,10 @@
         "5/11/1935"
     ],
     "find_feature_s": [
-        "North big wall"
+        "Theater"
     ],
     "find_locus_s": [
-        "DH 20-NH"
+        "DH 20-NH (THR)"
     ],
     "find_number_s": [
         "C4849"
@@ -53,6 +53,12 @@
         "6.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8469\",\"call_number_browse\":\"Coin 8469\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 114,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "5392"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -104,12 +107,15 @@
         "DAC.PARTHICO P.M.TR.POT.XX.COS.VI.P.P.S.C."
     ],
     "issue_references_s": [
-        "RIC 2 290 648"
+        "RIC II Trajan 648"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "114 to 117"
+    ],
     "hashed_id_s": [
         "f59d7f455c749d82"
     ],
-    "_version_": 1667138182136725504,
-    "timestamp": "2020-05-19T16:47:46.207Z"
+    "_version_": 1689431633469374464,
+    "timestamp": "2021-01-20T18:32:38.163Z"
 }

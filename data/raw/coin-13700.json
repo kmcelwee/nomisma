@@ -38,8 +38,11 @@
         "4.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13700\",\"call_number_browse\":\"Coin 13700\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -150,
     "pub_date_end_sort": -147,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8763"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,15 +98,18 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 | \u0398\u0395\u039f\u03a0\u0391\u03a4\u039f\u03a1\u039f\u03a3 \u0395\u03a5\u0395\u03a1\u0393\u0395\u03a4\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m13700, above elephant"
+        "\u0394\u03a7, above elephant"
     ],
     "issue_references_s": [
         "H & L II,v.I,p.254 1876"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-150 to -147"
+    ],
     "hashed_id_s": [
         "f6de90211d7aa394"
     ],
-    "_version_": 1667138519972184064,
-    "timestamp": "2020-05-19T16:53:08.389Z"
+    "_version_": 1684903325518004224,
+    "timestamp": "2020-12-01T18:57:07.179Z"
 }

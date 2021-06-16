@@ -29,8 +29,11 @@
         "75x94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7068\",\"call_number_browse\":\"Coin 7068\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "105: 1923-01-01 Anonymous Class of '64"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "8 dollars"
-    ],
-    "issue_number_s": [
-        "4412"
     ],
     "issue_metal_s": [
         "Paper"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "9fc27166286c2de4"
     ],
-    "_version_": 1667138360145084416,
-    "timestamp": "2020-05-19T16:50:35.967Z"
+    "_version_": 1684903252208910336,
+    "timestamp": "2020-12-01T18:55:57.264Z"
 }

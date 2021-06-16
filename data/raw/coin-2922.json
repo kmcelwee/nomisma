@@ -35,8 +35,11 @@
         "4.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2922\",\"call_number_browse\":\"Coin 2922\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "1828"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,10 +77,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Hercules head r.; pellets behind."
+        "pellets behind."
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "pellet, ooo [three pellets; vertical orientation]"
     ],
     "issue_reverse_figure_s": [
@@ -90,13 +90,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Prow r.; M.ABVRI.MF above; before, pellets and GEM; ROMA below"
+        "above, M.ABVRI.MF; before, pellets and GEM; ROMA below."
     ],
     "issue_reverse_legend_s": [
-        "M. ABVRI. MF; GEM; ROMA"
+        "M. ABVRI. MF GEM ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dot border.",
+        "border, dotted",
         "m1413, AB in monogram.",
         "m1827, VR in monogram.",
         "pellet, ooo [three pellets; vertical orientation]",
@@ -108,9 +108,12 @@
         "Sear  1156"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "8527ba5c3ad12e72"
     ],
-    "_version_": 1667138224552673280,
-    "timestamp": "2020-05-19T16:48:26.658Z"
+    "_version_": 1684902982004506624,
+    "timestamp": "2020-12-01T18:51:39.579Z"
 }

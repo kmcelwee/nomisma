@@ -2,7 +2,7 @@
     "id": "coin-7959",
     "title_display": "Coin: 7959",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7959"
@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 10, 1934"
+        "1934-05-10"
     ],
     "find_feature_s": [
-        " Trial Trench 9"
+        "S. end, surface"
     ],
     "find_locus_s": [
-        "7-O"
+        "DS 7-O"
     ],
     "find_number_s": [
         "C2918"
-    ],
-    "find_description_s": [
-        "S. end surface"
     ],
     "die_axis_s": [
         "11"
@@ -56,6 +53,12 @@
         "1.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7959\",\"call_number_browse\":\"Coin 7959\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -64,14 +67,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4763"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -113,15 +113,18 @@
         "Two soldiers stg. facing each other, each holding reversed spear and resting hand on shield set on ground; between them, one standard"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITVS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC, VII 7 697.109"
+        "RIC VII Antioch 109"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 337"
+    ],
     "hashed_id_s": [
         "953e1f788580aa98"
     ],
-    "_version_": 1667138174661427200,
-    "timestamp": "2020-05-19T16:47:39.076Z"
+    "_version_": 1690522306115272704,
+    "timestamp": "2021-02-01T19:28:24.658Z"
 }

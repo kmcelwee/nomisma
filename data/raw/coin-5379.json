@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "3024"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -99,9 +96,12 @@
         "  Pl. IX, 21"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1781 to 1781"
+    ],
     "hashed_id_s": [
         "ef9a938e80d46faf"
     ],
-    "_version_": 1667138393088196608,
-    "timestamp": "2020-05-19T16:51:07.385Z"
+    "_version_": 1684903267805429760,
+    "timestamp": "2020-12-01T18:56:12.140Z"
 }

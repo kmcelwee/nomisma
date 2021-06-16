@@ -50,6 +50,9 @@
         "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7723\",\"call_number_browse\":\"Coin 7723\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4824"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,6 +116,6 @@
     "hashed_id_s": [
         "e3af9323bc365ca6"
     ],
-    "_version_": 1667138351676784640,
-    "timestamp": "2020-05-19T16:50:27.893Z"
+    "_version_": 1684903537040949248,
+    "timestamp": "2020-12-01T19:00:28.902Z"
 }

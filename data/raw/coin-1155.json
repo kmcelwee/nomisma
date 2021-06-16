@@ -35,8 +35,11 @@
         "3.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1155\",\"call_number_browse\":\"Coin 1155\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
     ],
     "pub_date_start_sort": 1445,
     "pub_date_end_sort": 1450,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "ecu"
-    ],
-    "issue_number_s": [
-        "600"
     ],
     "issue_metal_s": [
         "Gold"
@@ -90,9 +90,12 @@
         "Duplessy  511B"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1445 to 1450"
+    ],
     "hashed_id_s": [
         "9cc9258c51ad375a"
     ],
-    "_version_": 1667138381702758400,
-    "timestamp": "2020-05-19T16:50:56.528Z"
+    "_version_": 1684903261469933568,
+    "timestamp": "2020-12-01T18:56:06.097Z"
 }

@@ -32,19 +32,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 25, 1932"
+        "1932-05-25"
     ],
     "find_feature_s": [
-        "House A"
+        "House A, \"Coin Room,\" S. of room 115"
     ],
     "find_locus_s": [
-        "N-10"
+        "DS 10-N (HSEA)"
     ],
     "find_number_s": [
         "1769"
-    ],
-    "find_description_s": [
-        "\"Coin room\" South of 115"
     ],
     "die_axis_s": [
         "6"
@@ -56,6 +53,12 @@
         "1.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9138\",\"call_number_browse\":\"Coin 9138\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -63,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5813"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,12 +116,15 @@
         "IOVI CONSERVATORI AVGG NN"
     ],
     "issue_references_s": [
-        "RIC 7 678.17"
+        "RIC VII Antioch 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "b8eb4971733ccb63"
     ],
-    "_version_": 1667138345588752384,
-    "timestamp": "2020-05-19T16:50:22.085Z"
+    "_version_": 1684903672257970176,
+    "timestamp": "2020-12-01T19:02:37.855Z"
 }

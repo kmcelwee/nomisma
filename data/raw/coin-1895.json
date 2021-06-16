@@ -35,8 +35,8 @@
         "8.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1895\",\"call_number_browse\":\"Coin 1895\"}}",
-    "donor_s": [
-        "Rodman Wanamaker"
+    "numismatic_accession_s": [
+        "268: 1930-01-01 Rodman Wanamaker"
     ],
     "pub_date_start_sort": -510,
     "pub_date_end_sort": -472,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "1238"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +90,12 @@
         "Agrigento  83"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-510 to -472"
+    ],
     "hashed_id_s": [
         "e087f323b21d47dc"
     ],
-    "_version_": 1667138416682205184,
-    "timestamp": "2020-05-19T16:51:29.883Z"
+    "_version_": 1684903281885708288,
+    "timestamp": "2020-12-01T18:56:25.567Z"
 }

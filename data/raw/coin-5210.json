@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "2900"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -47,9 +44,12 @@
         "United States of America"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1794 to 1795"
+    ],
     "hashed_id_s": [
         "38ea98abfcc66794"
     ],
-    "_version_": 1667145289271607296,
-    "timestamp": "2020-05-19T18:40:44.096Z"
+    "_version_": 1684902913906835456,
+    "timestamp": "2020-12-01T18:50:34.635Z"
 }

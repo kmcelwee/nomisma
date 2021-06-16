@@ -93,9 +93,12 @@
         "Schl.  XII9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1246 to 1278"
+    ],
     "hashed_id_s": [
         "ddfd3ff43a04ecb6"
     ],
-    "_version_": 1674257745019142144,
-    "timestamp": "2020-08-06T06:50:10.469Z"
+    "_version_": 1684903321211502592,
+    "timestamp": "2020-12-01T18:57:03.070Z"
 }

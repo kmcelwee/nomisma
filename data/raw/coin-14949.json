@@ -29,16 +29,16 @@
         "12.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14949\",\"call_number_browse\":\"Coin 14949\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1978,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9164"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -53,9 +53,12 @@
         "Gear"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1978 to "
+    ],
     "hashed_id_s": [
         "fd5f58238e65d70e"
     ],
-    "_version_": 1667144976185688064,
-    "timestamp": "2020-05-19T18:35:45.514Z"
+    "_version_": 1684903369944072192,
+    "timestamp": "2020-12-01T18:57:49.546Z"
 }

@@ -38,8 +38,14 @@
         "2.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11026\",\"call_number_browse\":\"Coin 11026\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 03/17/2006"
     ],
     "pub_date_start_sort": 438,
     "pub_date_end_sort": 457,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "7187"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "SNS 3 Doubtful ART, type Ia1/2c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "438 to 457"
+    ],
     "hashed_id_s": [
         "5adb179309e4b103"
     ],
-    "_version_": 1667138288902733824,
-    "timestamp": "2020-05-19T16:49:28.027Z"
+    "_version_": 1684903143037468672,
+    "timestamp": "2020-12-01T18:54:13.151Z"
 }

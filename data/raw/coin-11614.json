@@ -47,6 +47,9 @@
         "6.904"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11614\",\"call_number_browse\":\"Coin 11614\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -119,9 +122,12 @@
         "cross, Jeweled cross with pellet at end of each arm."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "d9fb27ca6bb4b613"
     ],
-    "_version_": 1673457364894744576,
-    "timestamp": "2020-07-28T10:48:28.505Z"
+    "_version_": 1684902900015300608,
+    "timestamp": "2020-12-01T18:50:21.387Z"
 }

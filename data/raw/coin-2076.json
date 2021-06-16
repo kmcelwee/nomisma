@@ -32,19 +32,22 @@
         "4.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2076\",\"call_number_browse\":\"Coin 2076\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1644,
     "pub_date_end_sort": 1662,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1364"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Shun Zhi \u987a\u6cbb (1638 to 1661)"
@@ -78,9 +81,12 @@
         "Coole 78 4A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1644 to 1662"
+    ],
     "hashed_id_s": [
         "42b1aeed0982529c"
     ],
-    "_version_": 1667138216958885888,
-    "timestamp": "2020-05-19T16:48:19.413Z"
+    "_version_": 1684902991808692224,
+    "timestamp": "2020-12-01T18:51:48.929Z"
 }

@@ -50,6 +50,12 @@
         "3.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4128\",\"call_number_browse\":\"Coin 4128\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 527,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "2322"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Sear  107"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 527"
+    ],
     "hashed_id_s": [
         "16fa0d677056cc4c"
     ],
-    "_version_": 1667138392366776320,
-    "timestamp": "2020-05-19T16:51:06.697Z"
+    "_version_": 1684903163198439424,
+    "timestamp": "2020-12-01T18:54:32.379Z"
 }

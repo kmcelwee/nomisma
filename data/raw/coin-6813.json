@@ -35,6 +35,12 @@
         "4.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6813\",\"call_number_browse\":\"Coin 6813\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "524: 1999-02-08 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -95,9 +101,12 @@
         "M&D  85"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "e6fedb393c04e8d6"
     ],
-    "_version_": 1673557398846963712,
-    "timestamp": "2020-07-29T13:18:28.312Z"
+    "_version_": 1684902909231235072,
+    "timestamp": "2020-12-01T18:50:30.177Z"
 }

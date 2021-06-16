@@ -32,19 +32,22 @@
         "4.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2313\",\"call_number_browse\":\"Coin 2313\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1851,
     "pub_date_end_sort": 1862,
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "1488"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Xian Feng \u54b8\u8c50 (1851 to 1862)"
@@ -73,9 +76,12 @@
         "Jen 154 762"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1851 to 1862"
+    ],
     "hashed_id_s": [
         "7082cf77e4c68c05"
     ],
-    "_version_": 1667138218224517120,
-    "timestamp": "2020-05-19T16:48:20.622Z"
+    "_version_": 1684903451780186112,
+    "timestamp": "2020-12-01T18:59:07.596Z"
 }

@@ -35,13 +35,13 @@
         "32.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5162\",\"call_number_browse\":\"Coin 5162\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
     "pub_date_start_sort": 1731,
     "pub_date_end_sort": 1732,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3417"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,15 @@
         "Jean Dassier, I.D."
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Defeat of Spanish Armada    "
+    ],
+    "issue_date_s": [
+        "1731 to 1732"
+    ],
     "hashed_id_s": [
         "f3c949af20a43ebb"
     ],
-    "_version_": 1667138385482874880,
-    "timestamp": "2020-05-19T16:51:00.133Z"
+    "_version_": 1684903263590154240,
+    "timestamp": "2020-12-01T18:56:08.118Z"
 }

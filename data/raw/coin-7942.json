@@ -50,6 +50,9 @@
         "4.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7942\",\"call_number_browse\":\"Coin 7942\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 217,
     "pub_date_end_sort": 218,
     "issue_object_type_s": [
@@ -107,9 +110,12 @@
         "BMC Syria 198 385"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "217 to 218"
+    ],
     "hashed_id_s": [
         "1e9b2230e1c5abbe"
     ],
-    "_version_": 1673554822360465408,
-    "timestamp": "2020-07-29T12:37:31.182Z"
+    "_version_": 1684903536409706496,
+    "timestamp": "2020-12-01T19:00:28.300Z"
 }

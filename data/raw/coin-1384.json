@@ -50,6 +50,12 @@
         "5.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1384\",\"call_number_browse\":\"Coin 1384\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -332,
     "pub_date_end_sort": -320,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "784"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -105,9 +108,12 @@
         "Waage IV Part Two: Greek, Roman, Byzantine, and Crusaders' Coins 782"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-332 to -320"
+    ],
     "hashed_id_s": [
         "8c74bf3bcf2f2800"
     ],
-    "_version_": 1667138411098537984,
-    "timestamp": "2020-05-19T16:51:24.558Z"
+    "_version_": 1684903277583400960,
+    "timestamp": "2020-12-01T18:56:21.464Z"
 }

@@ -35,6 +35,15 @@
         "5.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2348\",\"call_number_browse\":\"Coin 2348\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Jacques Schulman, Germany; purchased $4 in 1931"
+    ],
     "pub_date_start_sort": 549,
     "pub_date_end_sort": 552,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "1509"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -88,9 +94,12 @@
         " Ostrogothic 89"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "549 to 552"
+    ],
     "hashed_id_s": [
         "34530c1c6449bb1d"
     ],
-    "_version_": 1667138474855104512,
-    "timestamp": "2020-05-19T16:52:25.363Z"
+    "_version_": 1684903225064423424,
+    "timestamp": "2020-12-01T18:55:31.377Z"
 }

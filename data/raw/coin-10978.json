@@ -38,8 +38,14 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10978\",\"call_number_browse\":\"Coin 10978\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA"
     ],
     "pub_date_start_sort": 420,
     "pub_date_end_sort": 438,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7139"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 KA Type Ib2/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "420 to 438"
+    ],
     "hashed_id_s": [
         "9955000883a0227a"
     ],
-    "_version_": 1667144700295905280,
-    "timestamp": "2020-05-19T18:31:22.424Z"
+    "_version_": 1684903350133325824,
+    "timestamp": "2020-12-01T18:57:30.657Z"
 }

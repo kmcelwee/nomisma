@@ -38,13 +38,16 @@
         "41.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3628\",\"call_number_browse\":\"Coin 3628\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2132"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +86,16 @@
         "P Ansart, P A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Battle of the Somme    Jul  1 1916 12:00AM"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "09664514ee3cb05b"
     ],
-    "_version_": 1667138163817054208,
-    "timestamp": "2020-05-19T16:47:28.734Z"
+    "_version_": 1684902925848018944,
+    "timestamp": "2020-12-01T18:50:46.022Z"
 }

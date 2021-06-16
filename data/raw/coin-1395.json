@@ -32,8 +32,11 @@
         "7.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1395\",\"call_number_browse\":\"Coin 1395\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1900,
     "pub_date_end_sort": 1906,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "795"
     ],
     "issue_metal_s": [
         "Copper"
@@ -76,9 +76,12 @@
         "KM 2005 386 193"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1900 to 1906"
+    ],
     "hashed_id_s": [
         "0ca56835f617815c"
     ],
-    "_version_": 1667138462593056768,
-    "timestamp": "2020-05-19T16:52:13.671Z"
+    "_version_": 1684903294385782784,
+    "timestamp": "2020-12-01T18:56:37.488Z"
 }

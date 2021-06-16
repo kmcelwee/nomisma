@@ -38,8 +38,14 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10754\",\"call_number_browse\":\"Coin 10754\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "K\u00fcnker, Osnabr\u00fcck; 10/09/2001; 67 (514)"
     ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6915"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 2 Style E Type Ia/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "09ecc72bc4d35829"
     ],
-    "_version_": 1667138344005402624,
-    "timestamp": "2020-05-19T16:50:20.574Z"
+    "_version_": 1684903086958575616,
+    "timestamp": "2020-12-01T18:53:19.671Z"
 }

@@ -23,21 +23,21 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12034\",\"call_number_browse\":\"Coin 12034\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "761: 2018-09-07 Robert Ross/Liverpool Medals"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "8152"
-    ],
     "issue_monogram_1display": "[]",
     "hashed_id_s": [
         "d1ff1ddb99d0c4ef"
     ],
-    "_version_": 1667949376339705856,
-    "timestamp": "2020-05-28T15:41:21.287Z"
+    "_version_": 1684903329342160896,
+    "timestamp": "2020-12-01T18:57:10.823Z"
 }

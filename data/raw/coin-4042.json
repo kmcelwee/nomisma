@@ -35,6 +35,12 @@
         "0.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4042\",\"call_number_browse\":\"Coin 4042\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -311,
     "pub_date_end_sort": -292,
     "issue_object_type_s": [
@@ -43,9 +49,6 @@
     "issue_denomination_s": [
         "obol"
     ],
-    "issue_number_s": [
-        "2320"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -53,16 +56,16 @@
         "Alexander III the Great (-336 to -323)"
     ],
     "issue_place_s": [
-        "Ecbatana, Persia, Asia"
+        "Ecbatana, Media, Persia"
     ],
     "issue_city_s": [
         "Ecbatana"
     ],
     "issue_state_s": [
-        "Persia"
+        "Media"
     ],
     "issue_region_s": [
-        "Asia"
+        "Persia"
     ],
     "issue_obverse_figure_s": [
         "Hercules"
@@ -99,9 +102,12 @@
         "Price  3892"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-311 to -292"
+    ],
     "hashed_id_s": [
         "113bb23945096be9"
     ],
-    "_version_": 1667138231140876288,
-    "timestamp": "2020-05-19T16:48:32.940Z"
+    "_version_": 1684903457610268672,
+    "timestamp": "2020-12-01T18:59:13.152Z"
 }

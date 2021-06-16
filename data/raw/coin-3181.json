@@ -35,8 +35,11 @@
         "13.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3181\",\"call_number_browse\":\"Coin 3181\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "8 Cash"
-    ],
-    "issue_number_s": [
-        "1942"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "abc48b858065388f"
     ],
-    "_version_": 1667138436791795712,
-    "timestamp": "2020-05-19T16:51:49.062Z"
+    "_version_": 1684903580632350720,
+    "timestamp": "2020-12-01T19:01:10.474Z"
 }

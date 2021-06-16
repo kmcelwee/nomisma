@@ -35,6 +35,15 @@
         "3.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4165\",\"call_number_browse\":\"Coin 4165\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; 70\u00a2"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2373"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; border of dots"
+        "laureate; before, Q.METEL downwards; below, PIVS"
     ],
     "issue_obverse_legend_s": [
-        "Q METEL | \u0393IVS"
+        "Q.METEL PIVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Elephant"
@@ -89,10 +98,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "border of dots"
+        "above, SCIPIO; below, IMP"
     ],
     "issue_reverse_legend_s": [
-        "SCI\u0393IO IM\u0393"
+        "SCIPIO IMP"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  459/1",
@@ -100,9 +112,12 @@
         "Sear  1379"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "855eb6a678cc18f1"
     ],
-    "_version_": 1667138491810578432,
-    "timestamp": "2020-05-19T16:52:41.531Z"
+    "_version_": 1684903236282089472,
+    "timestamp": "2020-12-01T18:55:42.076Z"
 }

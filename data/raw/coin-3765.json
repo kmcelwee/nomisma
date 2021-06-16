@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "denier tournois"
     ],
-    "issue_number_s": [
-        "2186"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -73,9 +70,12 @@
         "Malloy p 395 115"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1323 to 1335"
+    ],
     "hashed_id_s": [
         "99598e2c67fbde08"
     ],
-    "_version_": 1667145228889358336,
-    "timestamp": "2020-05-19T18:43:42.470Z"
+    "_version_": 1684902928498819072,
+    "timestamp": "2020-12-01T18:50:48.550Z"
 }

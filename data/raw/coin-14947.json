@@ -32,16 +32,16 @@
         "29.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14947\",\"call_number_browse\":\"Coin 14947\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1953,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "decoration"
-    ],
-    "issue_number_s": [
-        "9162"
     ],
     "issue_metal_s": [
         "Gilt"
@@ -74,9 +74,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia  2:274-77"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1953 to "
+    ],
     "hashed_id_s": [
         "526c9d7b9c04829f"
     ],
-    "_version_": 1667760027906080768,
-    "timestamp": "2020-05-26T13:31:44.547Z"
+    "_version_": 1684902914269642752,
+    "timestamp": "2020-12-01T18:50:34.981Z"
 }

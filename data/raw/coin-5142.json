@@ -41,6 +41,12 @@
         "64.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5142\",\"call_number_browse\":\"Coin 5142\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -215,
     "pub_date_end_sort": -212,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2852"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +97,12 @@
         "Sear  573"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-215 to -212"
+    ],
     "hashed_id_s": [
         "16f2ab1e99c6a0e6"
     ],
-    "_version_": 1667138511317237760,
-    "timestamp": "2020-05-19T16:53:00.136Z"
+    "_version_": 1684903642415497216,
+    "timestamp": "2020-12-01T19:02:09.603Z"
 }

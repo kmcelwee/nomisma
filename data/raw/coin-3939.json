@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "8/7/1935"
-    ],
-    "find_feature_s": [
-        "Sub room 1."
+        "08/07/1935"
     ],
     "find_locus_s": [
-        "North [26]K.D.H."
+        "DH 26-K (N.)"
     ],
     "find_number_s": [
-        "2 in circle"
+        "2"
+    ],
+    "find_description_s": [
+        "Sub room 1"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "6.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3939\",\"call_number_browse\":\"Coin 3939\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -58,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2265"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -106,16 +112,16 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above"
-    ],
     "issue_references_s": [
         "RPC.1  4266, 4268-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "5 to 14"
+    ],
     "hashed_id_s": [
         "a305b4ca2987fecc"
     ],
-    "_version_": 1667138486243688448,
-    "timestamp": "2020-05-19T16:52:36.223Z"
+    "_version_": 1684903695602417664,
+    "timestamp": "2020-12-01T19:03:00.117Z"
 }

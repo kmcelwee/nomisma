@@ -35,6 +35,15 @@
         "3.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4374\",\"call_number_browse\":\"Coin 4374\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Gerhard Hirsch; 1930; #102, 100 fr."
+    ],
     "pub_date_start_sort": -45,
     "pub_date_end_sort": -45,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2451"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +106,12 @@
         "Sear  472"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-45 to -45"
+    ],
     "hashed_id_s": [
         "03dcc6cb144a9381"
     ],
-    "_version_": 1667138235512389632,
-    "timestamp": "2020-05-19T16:48:37.109Z"
+    "_version_": 1684902989680082944,
+    "timestamp": "2020-12-01T18:51:46.897Z"
 }

@@ -35,8 +35,11 @@
         "17.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 759\",\"call_number_browse\":\"Coin 759\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -316,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "314"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Price  P158"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -316"
+    ],
     "hashed_id_s": [
         "9126e4a4a4ff59cd"
     ],
-    "_version_": 1667138204479782912,
-    "timestamp": "2020-05-19T16:48:07.513Z"
+    "_version_": 1684903441225220096,
+    "timestamp": "2020-12-01T18:58:57.525Z"
 }

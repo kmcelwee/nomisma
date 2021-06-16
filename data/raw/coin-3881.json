@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "9/28/1934"
-    ],
-    "find_feature_s": [
-        "Street"
+        "09/28/1934"
     ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3687"
+    ],
+    "find_description_s": [
+        "Main Street Dig 3, street"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "10.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3881\",\"call_number_browse\":\"Coin 3881\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -5,
     "pub_date_end_sort": -4,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2241"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -101,22 +110,25 @@
         "Legend"
     ],
     "issue_reverse_figure_description_s": [
-        "5 lines, all in wreath of archiereus"
+        "5 lines, all within archiereus wreath"
     ],
     "issue_reverse_legend_s": [
         "\u0391\u03a1\u03a7\u0399\u0395|\u03a1\u0391\u03a4\u0399\u039a\u039f\u039d|\u0391\u039d\u03a4\u0399\u039f|\u03a7\u0395\u0399\u03a3|\u0396\u039a"
     ],
     "issue_reverse_attributes_s": [
-        "wreath, wreath of archiereus around 5 lines text"
+        ""
     ],
     "issue_references_s": [
         "RPC.1  4251",
         "BMC.1.  135-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-5 to -4"
+    ],
     "hashed_id_s": [
         "eedf1c82b0159504"
     ],
-    "_version_": 1667138229571158016,
-    "timestamp": "2020-05-19T16:48:31.444Z"
+    "_version_": 1684903456218808320,
+    "timestamp": "2020-12-01T18:59:11.823Z"
 }

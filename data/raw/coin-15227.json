@@ -29,8 +29,11 @@
         "44 \u00d7 38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15227\",\"call_number_browse\":\"Coin 15227\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1961,
     "pub_date_end_sort": 0,
@@ -58,10 +61,16 @@
     "issue_reverse_legend_s": [
         "MARINA DE GUERRA"
     ],
+    "issue_references_s": [
+        "Thankful Nation Do3 "
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1961 to "
+    ],
     "hashed_id_s": [
         "af24abc4887c7fe9"
     ],
-    "_version_": 1671709760269844480,
-    "timestamp": "2020-07-09T03:51:02.855Z"
+    "_version_": 1684902914725773312,
+    "timestamp": "2020-12-01T18:50:35.415Z"
 }

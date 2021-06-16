@@ -35,8 +35,11 @@
         "9.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1868\",\"call_number_browse\":\"Coin 1868\"}}",
-    "donor_s": [
-        "D.G. Douglas"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "261:  D.G. Douglas"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/15 Shilling"
-    ],
-    "issue_number_s": [
-        "1220"
     ],
     "issue_metal_s": [
         "Copper"
@@ -99,6 +99,6 @@
     "hashed_id_s": [
         "003a8986a114706e"
     ],
-    "_version_": 1667138445496025088,
-    "timestamp": "2020-05-19T16:51:57.362Z"
+    "_version_": 1684903289453281280,
+    "timestamp": "2020-12-01T18:56:32.784Z"
 }

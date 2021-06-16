@@ -32,16 +32,16 @@
         "6.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15080\",\"call_number_browse\":\"Coin 15080\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "412:  unknown"
     ],
     "pub_date_start_sort": -220,
     "pub_date_end_sort": -83,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "9248"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -77,9 +77,12 @@
         "Catalogue of the Greek Coins in the British Museum p.82 563"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-220 to -83"
+    ],
     "hashed_id_s": [
         "051bc478394a2272"
     ],
-    "_version_": 1667145397207826432,
-    "timestamp": "2020-05-19T18:53:24.757Z"
+    "_version_": 1684902911781371904,
+    "timestamp": "2020-12-01T18:50:32.607Z"
 }

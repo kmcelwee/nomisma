@@ -38,6 +38,15 @@
         "3.484"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4264\",\"call_number_browse\":\"Coin 4264\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "400: 2008-04-02 LHS Numismatik"
+    ],
+    "numismatic_provenance_s": [
+        "K\u00fcnker, Osnabr\u00fcck; G.W. de Wit; 3/11/2008; LOT 3990"
+    ],
     "pub_date_start_sort": 1343,
     "pub_date_end_sort": 1400,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2415"
     ],
     "issue_metal_s": [
         "Gold"
@@ -68,9 +74,12 @@
         ".SITTXPEDAT.O.T\u0668 KGISIST.ED.VEAT."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1343 to 1400"
+    ],
     "hashed_id_s": [
         "1b5fa772a20433d9"
     ],
-    "_version_": 1667138493442162688,
-    "timestamp": "2020-05-19T16:52:43.091Z"
+    "_version_": 1684903629049298944,
+    "timestamp": "2020-12-01T19:01:56.648Z"
 }

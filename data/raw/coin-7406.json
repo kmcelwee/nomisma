@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-17-1933"
+        "1933-05-17"
     ],
-    "find_description_s": [
-        "Yogta Severaules, Aoper 28"
+    "find_feature_s": [
+        "Sewer under room 28"
+    ],
+    "find_locus_s": [
+        "Y"
     ],
     "die_axis_s": [
         "6"
@@ -44,6 +47,12 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7406\",\"call_number_browse\":\"Coin 7406\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -51,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4633"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +107,19 @@
         "two turrets, no doors, star above; varying number of stone layers; in left field, A."
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN-TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMANT"
     ],
     "issue_references_s": [
-        "RIC 7 688.63",
+        "RIC VII Antioch 63",
         "Cohen 7 281.454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "7aca551d5d753b13"
     ],
-    "_version_": 1667138354582388736,
-    "timestamp": "2020-05-19T16:50:30.661Z"
+    "_version_": 1691156241631412224,
+    "timestamp": "2021-02-08T19:24:32.678Z"
 }

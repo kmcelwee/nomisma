@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/30/1938"
+        "1938-04-30"
     ],
     "find_feature_s": [
-        "Trench 4, North Extension, Surface"
+        "A1"
     ],
     "find_locus_s": [
-        "14-R"
+        "A 14-R"
     ],
     "find_number_s": [
         "Cb1045"
-    ],
-    "find_description_s": [
-        "A1"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "2.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8018\",\"call_number_browse\":\"Coin 8018\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5053"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,13 +113,16 @@
         "IOVICONSERVATORIAVGGNN | ANT"
     ],
     "issue_references_s": [
-        "RIC, VII 678 17",
+        "RIC VII Antioch 17",
         "Numismatique Constantinienne III 186-187 I 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "61122127f0b6734f"
     ],
-    "_version_": 1667138265423020032,
-    "timestamp": "2020-05-19T16:49:05.633Z"
+    "_version_": 1690437076111065088,
+    "timestamp": "2021-01-31T20:53:42.997Z"
 }

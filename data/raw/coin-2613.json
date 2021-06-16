@@ -35,8 +35,11 @@
         "7.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2613\",\"call_number_browse\":\"Coin 2613\"}}",
-    "donor_s": [
-        "F.J. Mather"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "217: 1931-06-01 F.J. Mather"
     ],
     "pub_date_start_sort": 1098,
     "pub_date_end_sort": 1101,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "trifollaro"
-    ],
-    "issue_number_s": [
-        "1637"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "MEC 14  94"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1098 to 1101"
+    ],
     "hashed_id_s": [
         "b4b1a3a9f084b350"
     ],
-    "_version_": 1667138475931992064,
-    "timestamp": "2020-05-19T16:52:26.389Z"
+    "_version_": 1684903300899536896,
+    "timestamp": "2020-12-01T18:56:43.700Z"
 }

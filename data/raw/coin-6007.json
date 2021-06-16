@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "8 dollars"
     ],
-    "issue_number_s": [
-        "3482"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -80,6 +77,6 @@
     "hashed_id_s": [
         "b0489f2b7a65e4e1"
     ],
-    "_version_": 1667138383365799936,
-    "timestamp": "2020-05-19T16:50:58.113Z"
+    "_version_": 1684903262495440896,
+    "timestamp": "2020-12-01T18:56:07.075Z"
 }

@@ -35,8 +35,11 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5717\",\"call_number_browse\":\"Coin 5717\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -62,
     "pub_date_end_sort": -62,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3265"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Aemilius Lepidus Paullus"
@@ -77,10 +80,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Concordia r., veiled and diademed; border of dots"
+        "wearing veil and diadem"
     ],
     "issue_obverse_legend_s": [
-        "to l., \u0393AVLLVS LE\u0393IDVS; to r., CONCORDIA"
+        "PAVLLVS\u00b7LEPIDVS CONCORDIA"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Trophy"
@@ -89,10 +95,16 @@
         "upright"
     ],
     "issue_reverse_figure_description_s": [
-        "trophy; TER above; to r., togate figure; to l., three captives; legend in exergue; border of dots"
+        "with togate figure of L. Aemilius Paullus and three captives (King Perseus of Macedon and his sons)"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "L. Aemilius Paulus on r.; three captives on l."
     ],
     "issue_reverse_legend_s": [
-        "\u0393AVLLVS"
+        "TER PAVLLVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  415/1",
@@ -100,9 +112,12 @@
         "Sear  366"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-62 to -62"
+    ],
     "hashed_id_s": [
         "ae2d7b35c3a4c869"
     ],
-    "_version_": 1667138249332621312,
-    "timestamp": "2020-05-19T16:48:50.289Z"
+    "_version_": 1684903009910259712,
+    "timestamp": "2020-12-01T18:52:06.191Z"
 }

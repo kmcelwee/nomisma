@@ -2,7 +2,7 @@
     "id": "coin-4077",
     "title_display": "Coin: 4077",
     "pub_created_display": [
-        "denarius, Rome"
+        "denarius, Apollonia Mordiaeum"
     ],
     "call_number_display": [
         "Coin 4077"
@@ -35,8 +35,11 @@
         "3.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4077\",\"call_number_browse\":\"Coin 4077\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
@@ -46,41 +49,37 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2342"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Cornelius Lentulus [Crus] ( to -48)"
     ],
-    "issue_workshop_s": [
-        "Moving from Apollonia (Illyricae) to Asia"
-    ],
     "issue_place_s": [
-        "Rome, Latium, Italy"
+        "Apollonia Mordiaeum, Pisidia, Asia"
     ],
     "issue_city_s": [
-        "Rome"
+        "Apollonia Mordiaeum"
     ],
     "issue_state_s": [
-        "Latium"
+        "Pisidia"
     ],
     "issue_region_s": [
-        "Italy"
+        "Asia"
     ],
     "issue_obverse_figure_s": [
-        "Triskeles"
+        "Triskele"
     ],
     "issue_obverse_orientation_s": [
-        "facing"
-    ],
-    "issue_obverse_figure_description_s": [
-        "triskeles with winged head of Medusa at the center and corn ears between the legs; border of dots"
+        "facing center"
     ],
     "issue_obverse_attributes_s": [
-        "corn ear, between legs of triskeles"
+        "corn ear, between legs",
+        "winged head of Medusa, in centre",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -91,26 +90,27 @@
     "issue_reverse_orientation_s": [
         "facing"
     ],
-    "issue_reverse_figure_description_s": [
-        "holding thunderbolt in r. hand, eagle in l. hand; harpa on far r.; border of dots"
-    ],
     "issue_reverse_legend_s": [
-        "LENT MAR | COS"
+        "LENT MAR COS"
     ],
     "issue_reverse_attributes_s": [
-        "harpa, on far right",
-        "thunderbolt, Jupiter holds thunderbolt in r. hand",
-        "eagle, Jupiter holds eagle in l. hand"
+        "thunderbolt, in r. hand",
+        "eagle, in l. hand",
+        "harpa, on far r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  445/1a",
+        "RRC  445/1av",
         "Syd.  1029a",
         "Sear  414"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "26898e39ab44c707"
     ],
-    "_version_": 1667138232026923008,
-    "timestamp": "2020-05-19T16:48:33.783Z"
+    "_version_": 1684902985848586240,
+    "timestamp": "2020-12-01T18:51:43.243Z"
 }

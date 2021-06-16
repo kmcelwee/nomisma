@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "6394"
-    ],
     "issue_metal_s": [
         "Leaded bronze"
     ],
@@ -92,6 +89,6 @@
     "hashed_id_s": [
         "28ad82886b7650f6"
     ],
-    "_version_": 1667138280155512832,
-    "timestamp": "2020-05-19T16:49:19.684Z"
+    "_version_": 1684903023445278720,
+    "timestamp": "2020-12-01T18:52:19.097Z"
 }

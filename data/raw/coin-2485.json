@@ -35,8 +35,11 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2485\",\"call_number_browse\":\"Coin 2485\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1570,
     "pub_date_end_sort": 1577,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "zecchino"
-    ],
-    "issue_number_s": [
-        "1567"
     ],
     "issue_metal_s": [
         "Gold"
@@ -98,13 +98,16 @@
         "SIT T XPE DAT Q TV REGIS ISTE DVCAT"
     ],
     "issue_references_s": [
-        "CNI, 7  XV.3.97",
+        "CNI, 7  412, 97",
         "Pap. Alvise I Mocenigo 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1570 to 1577"
+    ],
     "hashed_id_s": [
         "8b798b3a8f29fd5f"
     ],
-    "_version_": 1667138427121827840,
-    "timestamp": "2020-05-19T16:51:39.841Z"
+    "_version_": 1684903579011252224,
+    "timestamp": "2020-12-01T19:01:08.929Z"
 }

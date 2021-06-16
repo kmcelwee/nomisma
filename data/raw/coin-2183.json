@@ -38,8 +38,11 @@
         "6.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2183\",\"call_number_browse\":\"Coin 2183\"}}",
-    "donor_s": [
-        "William T. Anton, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "733: 1998-08-06 William T. Anton, Jr."
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "halfpence"
-    ],
-    "issue_number_s": [
-        "1419"
     ],
     "issue_metal_s": [
         "Copper"
@@ -96,9 +96,12 @@
         "Whitman Colonial  2260"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place, London  England  Great Britain"
+    ],
     "hashed_id_s": [
         "6e558282adb7bfa7"
     ],
-    "_version_": 1667138472436039680,
-    "timestamp": "2020-05-19T16:52:23.056Z"
+    "_version_": 1684903298318991360,
+    "timestamp": "2020-12-01T18:56:41.239Z"
 }

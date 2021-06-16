@@ -35,8 +35,14 @@
         "3.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11292\",\"call_number_browse\":\"Coin 11292\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Frank Robinson; 09/07/2010; 79 (516)"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7456"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SN  SK Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "4ed9edbeac0abc6a"
     ],
-    "_version_": 1667138291826163712,
-    "timestamp": "2020-05-19T16:49:30.812Z"
+    "_version_": 1684903037708009472,
+    "timestamp": "2020-12-01T18:52:32.700Z"
 }

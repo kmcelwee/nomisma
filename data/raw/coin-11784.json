@@ -38,8 +38,11 @@
         "3.38"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11784\",\"call_number_browse\":\"Coin 11784\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 628,
     "pub_date_end_sort": 630,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7415"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "SN  NY Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "628 to 630"
+    ],
     "hashed_id_s": [
         "0300e45ce3561206"
     ],
-    "_version_": 1667138167846731776,
-    "timestamp": "2020-05-19T16:47:32.577Z"
+    "_version_": 1684902942651449344,
+    "timestamp": "2020-12-01T18:51:02.048Z"
 }

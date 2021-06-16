@@ -35,22 +35,25 @@
         "3.84"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14836\",\"call_number_browse\":\"Coin 14836\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "686:  unknown"
+    ],
+    "pub_date_start_sort": -77,
+    "pub_date_end_sort": -77,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9111"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Rutilius Flaccus  "
@@ -71,16 +74,19 @@
         "Roma"
     ],
     "issue_obverse_part_s": [
-        "bust"
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing helmet"
+        "helmeted"
     ],
     "issue_obverse_legend_s": [
         "FLAC"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -89,21 +95,26 @@
         "In biga"
     ],
     "issue_reverse_orientation_s": [
-        "galloping right"
-    ],
-    "issue_reverse_figure_description_s": [
-        "holding wreath in right hand"
+        "right"
     ],
     "issue_reverse_legend_s": [
-        "L.RVTILI"
+        "L\u00b7RVTILI"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "wreath, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  387"
+        "RRC  387/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-77 to -77"
+    ],
     "hashed_id_s": [
         "bbbe333b857922de"
     ],
-    "_version_": 1667306276054368256,
-    "timestamp": "2020-05-21T13:19:33.092Z"
+    "_version_": 1684903657474097152,
+    "timestamp": "2020-12-01T19:02:23.755Z"
 }

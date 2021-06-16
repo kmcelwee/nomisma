@@ -50,6 +50,9 @@
         "2.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7419\",\"call_number_browse\":\"Coin 7419\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 653,
     "pub_date_end_sort": 654,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4642"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +117,12 @@
         "Sear page 210 1007"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "653 to 654"
+    ],
     "hashed_id_s": [
         "527e591a1286dc11"
     ],
-    "_version_": 1667138354545688576,
-    "timestamp": "2020-05-19T16:50:30.628Z"
+    "_version_": 1684903541221621760,
+    "timestamp": "2020-12-01T19:00:32.889Z"
 }

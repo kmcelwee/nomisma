@@ -35,6 +35,12 @@
         "15.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 730\",\"call_number_browse\":\"Coin 730\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "73:  Gerhard Hirsch"
+    ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -70,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "302"
     ],
     "issue_metal_s": [
         "Silver"
@@ -100,9 +103,12 @@
         "Price  1191"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -70"
+    ],
     "hashed_id_s": [
         "a8c9ecdc60729b1e"
     ],
-    "_version_": 1667138402859876352,
-    "timestamp": "2020-05-19T16:51:16.703Z"
+    "_version_": 1684903272716959744,
+    "timestamp": "2020-12-01T18:56:16.822Z"
 }

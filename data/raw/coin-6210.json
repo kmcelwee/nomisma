@@ -35,13 +35,13 @@
         "34.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6210\",\"call_number_browse\":\"Coin 6210\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3655"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +87,12 @@
         "Joseph Roettiers, R"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Capture of Piombino and Portolongone    "
+    ],
     "hashed_id_s": [
         "8956db0fefab2fc5"
     ],
-    "_version_": 1667138374551470080,
-    "timestamp": "2020-05-19T16:50:49.708Z"
+    "_version_": 1684903112999960576,
+    "timestamp": "2020-12-01T18:53:44.506Z"
 }

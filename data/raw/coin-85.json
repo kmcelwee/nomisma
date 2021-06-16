@@ -50,6 +50,12 @@
         "2.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 85\",\"call_number_browse\":\"Coin 85\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 498,
     "pub_date_end_sort": 507,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "59"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,9 +110,12 @@
         "Sear  28"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "498 to 507"
+    ],
     "hashed_id_s": [
         "e453e2c6f7248e9b"
     ],
-    "_version_": 1667138444914065408,
-    "timestamp": "2020-05-19T16:51:56.808Z"
+    "_version_": 1684903582959140864,
+    "timestamp": "2020-12-01T19:01:12.693Z"
 }

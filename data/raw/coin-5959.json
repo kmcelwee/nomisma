@@ -38,8 +38,11 @@
         "7.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5959\",\"call_number_browse\":\"Coin 5959\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; May 1961; Lire 25,000 = $41.25"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -380,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3454"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Vlasto Coll.  367"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -380"
+    ],
     "hashed_id_s": [
         "37c2171ede237ed0"
     ],
-    "_version_": 1667138175541182464,
-    "timestamp": "2020-05-19T16:47:39.915Z"
+    "_version_": 1684903052610371584,
+    "timestamp": "2020-12-01T18:52:46.913Z"
 }

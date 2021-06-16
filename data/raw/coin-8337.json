@@ -50,6 +50,12 @@
         "14.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8337\",\"call_number_browse\":\"Coin 8337\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -41,
     "issue_object_type_s": [
@@ -110,12 +116,15 @@
     ],
     "issue_references_s": [
         "Waage  276",
-        "From Vespasian to Domitian (AD 69\u201396)  4222"
+        "RPC I 4222"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -41"
+    ],
     "hashed_id_s": [
         "aa70f31d9a9172c8"
     ],
-    "_version_": 1671018266223443968,
-    "timestamp": "2020-07-01T12:40:02.745Z"
+    "_version_": 1684903671939203072,
+    "timestamp": "2020-12-01T19:02:37.552Z"
 }

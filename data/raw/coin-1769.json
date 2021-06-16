@@ -35,8 +35,11 @@
         "2.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1769\",\"call_number_browse\":\"Coin 1769\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -392,
     "pub_date_end_sort": -379,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1151"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "BMC Mac. Macedonia 63-2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-392 to -379"
+    ],
     "hashed_id_s": [
         "308ec25e25092bdf"
     ],
-    "_version_": 1667138214084739072,
-    "timestamp": "2020-05-19T16:48:16.674Z"
+    "_version_": 1684902979480584192,
+    "timestamp": "2020-12-01T18:51:37.171Z"
 }

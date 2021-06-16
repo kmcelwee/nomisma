@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "ducat"
     ],
-    "issue_number_s": [
-        "3911"
-    ],
     "issue_metal_s": [
         "Gold"
     ],
@@ -100,12 +97,15 @@
     "issue_references_s": [
         "MEC 12 644-646",
         "Pap. 1 181, 1",
-        "CNI, 7  III.15.40"
+        "CNI, 7  74, 40"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1343 to 1354"
+    ],
     "hashed_id_s": [
         "09adf22436ad7083"
     ],
-    "_version_": 1667138369810857984,
-    "timestamp": "2020-05-19T16:50:45.183Z"
+    "_version_": 1684903256649629696,
+    "timestamp": "2020-12-01T18:56:01.500Z"
 }

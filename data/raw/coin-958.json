@@ -35,6 +35,9 @@
         "18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 958\",\"call_number_browse\":\"Coin 958\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "430"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Price  1379A"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "3ca42429f1c1bf8a"
     ],
-    "_version_": 1667138408220196864,
-    "timestamp": "2020-05-19T16:51:21.813Z"
+    "_version_": 1684903275123441664,
+    "timestamp": "2020-12-01T18:56:19.117Z"
 }

@@ -2,7 +2,7 @@
     "id": "coin-8168",
     "title_display": "Coin: 8168",
     "pub_created_display": [
-        "Phocas (809 to 831), follis, Nicomedia"
+        "Phocas   (602 to 610), follis, Nicomedia"
     ],
     "call_number_display": [
         "Coin 8168"
@@ -50,6 +50,9 @@
         "12.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8168\",\"call_number_browse\":\"Coin 8168\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 602,
     "pub_date_end_sort": 603,
     "issue_object_type_s": [
@@ -58,14 +61,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5180"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Phocas (809 to 831)"
+        "Phocas   (602 to 610)"
     ],
     "issue_place_s": [
         "Nicomedia, Bithynia, Byzantium"
@@ -112,9 +112,12 @@
         "MIB vol. 2 68"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "602 to 603"
+    ],
     "hashed_id_s": [
         "931a2457eb525da6"
     ],
-    "_version_": 1667138266826014720,
-    "timestamp": "2020-05-19T16:49:06.970Z"
+    "_version_": 1684903015493926912,
+    "timestamp": "2020-12-01T18:52:11.515Z"
 }

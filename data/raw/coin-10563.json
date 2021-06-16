@@ -38,8 +38,14 @@
         "0.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10563\",\"call_number_browse\":\"Coin 10563\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pegasi Numismatics, Ann Arbor, MI; 10/11/2000; IV (248)"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6725"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 1 Type IIIa/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "d97bb8e4eb31077e"
     ],
-    "_version_": 1667138344551710720,
-    "timestamp": "2020-05-19T16:50:21.095Z"
+    "_version_": 1684903087898099712,
+    "timestamp": "2020-12-01T18:53:20.566Z"
 }

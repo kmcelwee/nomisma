@@ -35,16 +35,13 @@
         "5-7-1937"
     ],
     "find_feature_s": [
-        "under byzantine pavement, basket c"
+        "Dig I, under level III, room 2, under Byzantine pavement, to 5m (basket C)"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca794"
-    ],
-    "find_description_s": [
-        "Dig I under level 3 to 5m, room 2, under byz pave."
+        "Ca0794"
     ],
     "die_axis_s": [
         "5"
@@ -53,6 +50,9 @@
         "16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7995\",\"call_number_browse\":\"Coin 7995\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 401,
     "issue_object_type_s": [
@@ -110,13 +110,16 @@
         "VIRTVS-EXERCITI"
     ],
     "issue_references_s": [
-        "RIC 10.247 70",
+        "RIC X Arcadius 70",
         "Monnaies Byzantines 1.plIV 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 401"
+    ],
     "hashed_id_s": [
         "2a4c3c9c92d70de3"
     ],
-    "_version_": 1673551958545268736,
-    "timestamp": "2020-07-29T11:52:00.038Z"
+    "_version_": 1684903682804547584,
+    "timestamp": "2020-12-01T19:02:47.913Z"
 }

@@ -53,6 +53,9 @@
         "5.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7937\",\"call_number_browse\":\"Coin 7937\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 651,
     "pub_date_end_sort": 655,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4986"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,9 +113,12 @@
         "M, l. ANA, below \u0393, in ex. NEO, r. IA"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "651 to 655"
+    ],
     "hashed_id_s": [
         "2dd4d1c0abc5eb85"
     ],
-    "_version_": 1667138348888621056,
-    "timestamp": "2020-05-19T16:50:25.231Z"
+    "_version_": 1684903534178336768,
+    "timestamp": "2020-12-01T19:00:26.173Z"
 }

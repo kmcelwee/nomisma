@@ -35,8 +35,14 @@
         "7.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10895\",\"call_number_browse\":\"Coin 10895\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pars Coins; 11/12/2004"
     ],
     "pub_date_start_sort": 383,
     "pub_date_end_sort": 388,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AV. D-old"
-    ],
-    "issue_number_s": [
-        "7056"
     ],
     "issue_metal_s": [
         "Gold"
@@ -89,9 +92,12 @@
         "SNS 3 Sind Type Ib1/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "383 to 388"
+    ],
     "hashed_id_s": [
         "5b4fb6d0e78dc51c"
     ],
-    "_version_": 1667138176670498816,
-    "timestamp": "2020-05-19T16:47:40.991Z"
+    "_version_": 1684902952585658368,
+    "timestamp": "2020-12-01T18:51:11.521Z"
 }

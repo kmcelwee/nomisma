@@ -35,8 +35,11 @@
         "13.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11939\",\"call_number_browse\":\"Coin 11939\"}}",
-    "donor_s": [
-        "Anonymous"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "167: 1996-12-20 Anonymous"
     ],
     "pub_date_start_sort": 119,
     "pub_date_end_sort": 121,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "8009"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "BMC 420 1232"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "119 to 121"
+    ],
     "hashed_id_s": [
         "8d09212bdb56441e"
     ],
-    "_version_": 1667138294619570176,
-    "timestamp": "2020-05-19T16:49:33.476Z"
+    "_version_": 1684903505402265600,
+    "timestamp": "2020-12-01T18:59:58.729Z"
 }

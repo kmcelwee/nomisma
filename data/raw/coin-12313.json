@@ -38,8 +38,11 @@
         "1.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12313\",\"call_number_browse\":\"Coin 12313\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -171,
     "pub_date_end_sort": -138,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8295"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "Sellwood  12.25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-171 to -138"
+    ],
     "hashed_id_s": [
         "30f0c5c95a347760"
     ],
-    "_version_": 1667138303776784384,
-    "timestamp": "2020-05-19T16:49:42.210Z"
+    "_version_": 1684903153378525184,
+    "timestamp": "2020-12-01T18:54:23.014Z"
 }

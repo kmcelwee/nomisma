@@ -35,8 +35,14 @@
         "4.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11017\",\"call_number_browse\":\"Coin 11017\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Frank S. Robinson; 11/09/2004"
     ],
     "pub_date_start_sort": 438,
     "pub_date_end_sort": 457,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7178"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 3 Uncertain Mint Type Ib1/2b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "438 to 457"
+    ],
     "hashed_id_s": [
         "63ca84727a868fa4"
     ],
-    "_version_": 1667138172162670592,
-    "timestamp": "2020-05-19T16:47:36.692Z"
+    "_version_": 1684902948852727808,
+    "timestamp": "2020-12-01T18:51:07.963Z"
 }

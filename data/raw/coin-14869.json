@@ -35,8 +35,11 @@
         "3.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14869\",\"call_number_browse\":\"Coin 14869\"}}",
-    "donor_s": [
-        "Dean Mathey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "136:  Dean Mathey"
     ],
     "pub_date_start_sort": 1369,
     "pub_date_end_sort": 1377,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half noble"
-    ],
-    "issue_number_s": [
-        "9134"
     ],
     "issue_metal_s": [
         "Gold"
@@ -105,9 +105,12 @@
         "Seaby England  1524"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1369 to 1377"
+    ],
     "hashed_id_s": [
         "9bdd5cd8fa257cf6"
     ],
-    "_version_": 1667233055328174080,
-    "timestamp": "2020-05-20T17:55:44.354Z"
+    "_version_": 1684903315123470336,
+    "timestamp": "2020-12-01T18:56:57.266Z"
 }

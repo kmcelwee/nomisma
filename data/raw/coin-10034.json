@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "denaro"
     ],
-    "issue_number_s": [
-        "6345"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -83,9 +80,12 @@
         "CNI IV XL17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1027 to 1039"
+    ],
     "hashed_id_s": [
         "d88583d55ac074cf"
     ],
-    "_version_": 1667138142418763776,
-    "timestamp": "2020-05-19T16:47:08.327Z"
+    "_version_": 1684903393175273472,
+    "timestamp": "2020-12-01T18:58:11.700Z"
 }

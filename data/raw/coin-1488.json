@@ -32,8 +32,11 @@
         "10.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1488\",\"call_number_browse\":\"Coin 1488\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1279,
     "pub_date_end_sort": 1368,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "5 Cash"
     ],
-    "issue_number_s": [
-        "882"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_series_s": [
         "Yuan rebels"
@@ -66,9 +69,16 @@
         "Jen  490"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, dragon",
+        "Animal, phoenix"
+    ],
+    "issue_date_s": [
+        "1279 to 1368"
+    ],
     "hashed_id_s": [
         "9c14155762fc7dcd"
     ],
-    "_version_": 1667138411767529472,
-    "timestamp": "2020-05-19T16:51:25.198Z"
+    "_version_": 1684903184666984448,
+    "timestamp": "2020-12-01T18:54:52.851Z"
 }

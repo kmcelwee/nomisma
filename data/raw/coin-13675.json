@@ -35,8 +35,11 @@
         "16.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13675\",\"call_number_browse\":\"Coin 13675\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -162,
     "pub_date_end_sort": -154,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8746"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,7 +98,7 @@
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u0394\u0399\u039c\u0399\u03a4\u03a1\u0399\u039f\u03a5"
     ],
     "issue_reverse_attributes_s": [
-        "m13660, control in outer left",
+        "\u0395\u0399, in exergue",
         "sceptre, in l.hand",
         "cornucopia, in r.hand"
     ],
@@ -106,9 +106,12 @@
         "H & L II,v.I, p.169 1638.2a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-162 to -154"
+    ],
     "hashed_id_s": [
         "6a213e828846bb72"
     ],
-    "_version_": 1667138323087360000,
-    "timestamp": "2020-05-19T16:50:00.625Z"
+    "_version_": 1684903062483763200,
+    "timestamp": "2020-12-01T18:52:56.328Z"
 }

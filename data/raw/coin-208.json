@@ -35,8 +35,11 @@
         "1.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 208\",\"call_number_browse\":\"Coin 208\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 822,
     "pub_date_end_sort": 840,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "106"
     ],
     "issue_metal_s": [
         "Silver"
@@ -84,9 +84,12 @@
         "MEC.1  793"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "822 to 840"
+    ],
     "hashed_id_s": [
         "67985144fa193787"
     ],
-    "_version_": 1667138200679743488,
-    "timestamp": "2020-05-19T16:48:03.889Z"
+    "_version_": 1684903091211599872,
+    "timestamp": "2020-12-01T18:53:23.725Z"
 }

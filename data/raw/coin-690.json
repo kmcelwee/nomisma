@@ -47,6 +47,12 @@
         "1.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 690\",\"call_number_browse\":\"Coin 690\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 517,
     "pub_date_end_sort": 518,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "132"
     ],
     "issue_metal_s": [
         "Copper"
@@ -111,9 +114,12 @@
         "Sear  53"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "517 to 518"
+    ],
     "hashed_id_s": [
         "ecdf7b726b90063b"
     ],
-    "_version_": 1667138202299793408,
-    "timestamp": "2020-05-19T16:48:05.434Z"
+    "_version_": 1684903438560788480,
+    "timestamp": "2020-12-01T18:58:54.984Z"
 }

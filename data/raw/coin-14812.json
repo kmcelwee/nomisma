@@ -35,19 +35,25 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14812\",\"call_number_browse\":\"Coin 14812\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -75,
+    "pub_date_end_sort": -75,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9093"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_edge_s": [
         "milled"
@@ -71,45 +77,49 @@
         "Cupid"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing right"
-    ],
-    "issue_obverse_figure_description_s": [
-        "bow and quiver over shoulder"
+        "right"
     ],
     "issue_obverse_legend_s": [
         "MAXSVMVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "bow and quiver, over shoulder"
     ],
     "issue_reverse_figure_s": [
         "Two figures"
     ],
     "issue_reverse_symbol_s": [
-        "XXIIII"
+        "thunderbolt above figure on l.; pileus above figure on r.; XXIIII on r."
     ],
     "issue_reverse_part_s": [
-        "in distyle temple"
+        "N/A"
     ],
     "issue_reverse_orientation_s": [
-        "standing"
+        "N/A"
     ],
     "issue_reverse_figure_description_s": [
-        "on left holding staff on right under thunderbolt"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "below pileus"
+        "within, two figures"
     ],
     "issue_reverse_legend_s": [
-        "C.EGNATIUS.CN.F. CN.N"
+        "C\u00b7EGNATIVS\u00b7CN\u00b7F CN\u00b7N"
+    ],
+    "issue_reverse_attributes_s": [
+        "staff, in l. figure's r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  391-2"
+        "RRC  391/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-75 to -75"
+    ],
     "hashed_id_s": [
         "98b184f09285fa95"
     ],
-    "_version_": 1667307898979483648,
-    "timestamp": "2020-05-21T13:45:20.800Z"
+    "_version_": 1686050620917678080,
+    "timestamp": "2020-12-14T10:52:53.340Z"
 }

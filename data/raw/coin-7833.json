@@ -56,6 +56,9 @@
         "1.74"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7833\",\"call_number_browse\":\"Coin 7833\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 737,
     "pub_date_end_sort": 767,
     "issue_object_type_s": [
@@ -63,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4892"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "Miles  32:2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 767"
+    ],
     "hashed_id_s": [
         "60e975f9f90700e4"
     ],
-    "_version_": 1667138263279730688,
-    "timestamp": "2020-05-19T16:49:03.590Z"
+    "_version_": 1684903484860661760,
+    "timestamp": "2020-12-01T18:59:39.138Z"
 }

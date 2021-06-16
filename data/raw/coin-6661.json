@@ -38,6 +38,9 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6661\",\"call_number_browse\":\"Coin 6661\"}}",
+    "numismatic_accession_s": [
+        "502: 1992-02-19 C.N.A."
+    ],
     "pub_date_start_sort": 1221,
     "pub_date_end_sort": 1254,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "4082"
     ],
     "issue_metal_s": [
         "Billon"
@@ -92,9 +92,12 @@
         "DOC vol. 4, page 503 43"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1221 to 1254"
+    ],
     "hashed_id_s": [
         "cbd08b2fd70f9dd6"
     ],
-    "_version_": 1667138368608141312,
-    "timestamp": "2020-05-19T16:50:44.039Z"
+    "_version_": 1684903255926112256,
+    "timestamp": "2020-12-01T18:56:00.810Z"
 }

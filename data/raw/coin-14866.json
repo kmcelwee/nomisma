@@ -35,8 +35,14 @@
         "27.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14866\",\"call_number_browse\":\"Coin 14866\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 1981,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "2nd Grade"
-    ],
-    "issue_number_s": [
-        "9128"
     ],
     "issue_metal_s": [
         "Silver gilt"
@@ -81,9 +84,12 @@
         "World Orders of Knighthood and Merit  1070-71"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1981 to "
+    ],
     "hashed_id_s": [
         "dd2b75e5e05e61fb"
     ],
-    "_version_": 1667343683146481664,
-    "timestamp": "2020-05-21T23:14:07.288Z"
+    "_version_": 1684903088287121408,
+    "timestamp": "2020-12-01T18:53:20.936Z"
 }

@@ -35,6 +35,12 @@
         "2.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3513\",\"call_number_browse\":\"Coin 3513\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "370: 1999-06-20 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -11,
     "pub_date_end_sort": 12,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "2058"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +98,12 @@
         "RPC.1  1718"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-11 to 12"
+    ],
     "hashed_id_s": [
         "62df88a627b47769"
     ],
-    "_version_": 1667138437151457280,
-    "timestamp": "2020-05-19T16:51:49.407Z"
+    "_version_": 1684903284378173440,
+    "timestamp": "2020-12-01T18:56:27.943Z"
 }

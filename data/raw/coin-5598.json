@@ -38,6 +38,12 @@
         "67.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5598\",\"call_number_browse\":\"Coin 5598\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -230,
     "pub_date_end_sort": -226,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "3176"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +93,12 @@
         "Sear  549"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-230 to -226"
+    ],
     "hashed_id_s": [
         "23e90d307ad9f5a0"
     ],
-    "_version_": 1667138114270789632,
-    "timestamp": "2020-05-19T16:46:41.484Z"
+    "_version_": 1684902931853213696,
+    "timestamp": "2020-12-01T18:50:51.749Z"
 }

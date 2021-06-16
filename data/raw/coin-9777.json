@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/26/1937"
+        "1937-04-26"
     ],
     "find_feature_s": [
-        "from trench A"
+        "Trench A, S. of room, Lion mosaic"
     ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
-        "Ca569"
-    ],
-    "find_description_s": [
-        "\"south of room Lion mosaic\""
+        "Ca0569"
     ],
     "die_axis_s": [
         "6"
@@ -53,6 +50,9 @@
         "3.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9777\",\"call_number_browse\":\"Coin 9777\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -89,7 +89,7 @@
         "facing right"
     ],
     "issue_obverse_legend_s": [
-        "CONSTAN TINVS AVG"
+        "CONSTAN-TINVSAVG"
     ],
     "issue_reverse_figure_s": [
         "Camp gate"
@@ -98,16 +98,19 @@
         "camp gate, two turrets, star above, different stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAEAVGG | SMANTA"
+        "PROVIDEN-TIAEAVGG | SMANTA"
     ],
     "issue_references_s": [
-        "RIC.7 Vol. 7, p688 63",
+        "RIC VII Antioch 63",
         "Waage p118 1402"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "6645153a2f0601c6"
     ],
-    "_version_": 1674172641911504896,
-    "timestamp": "2020-08-05T08:17:29.821Z"
+    "_version_": 1684903688342077440,
+    "timestamp": "2020-12-01T19:02:53.194Z"
 }

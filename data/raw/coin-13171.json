@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/14/1932"
+        "05/14/1932"
     ],
-    "find_feature_s": [
-        "Daphne Temple"
+    "find_locus_s": [
+        "DH (TPL)"
     ],
     "find_number_s": [
         "1545"
+    ],
+    "find_description_s": [
+        "Temple"
     ],
     "die_axis_s": [
         "12"
@@ -47,22 +50,31 @@
         "2.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13171\",\"call_number_browse\":\"Coin 13171\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 270,
+    "pub_date_end_sort": 275,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "antoninianus"
     ],
-    "issue_number_s": [
-        "8532"
-    ],
     "issue_metal_s": [
-        "Bronze"
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Aurelian (270 to 275)"
+    ],
+    "issue_workshop_s": [
+        "Uncertain"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -77,7 +89,10 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Bust"
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "bust"
     ],
     "issue_obverse_orientation_s": [
         "right"
@@ -86,7 +101,7 @@
         "radiate, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMPCAVRELIANVSAVG"
+        "IMP C AVRELIANVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Vabalathus"
@@ -98,18 +113,21 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "laureate, draped"
+        "laureate, draped, cuirassed"
     ],
     "issue_reverse_legend_s": [
-        "VABALATHVSVCRIMDR"
+        "VABALATHVS VCRIMDR"
     ],
     "issue_references_s": [
-        "RIC V, I, p.308 381"
+        "RIC V  Aurelian 381"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "270 to 275"
+    ],
     "hashed_id_s": [
         "e26a5828efdf2a6d"
     ],
-    "_version_": 1667138317377863680,
-    "timestamp": "2020-05-19T16:49:55.181Z"
+    "_version_": 1684903676588589056,
+    "timestamp": "2020-12-01T19:02:41.983Z"
 }

@@ -53,6 +53,9 @@
         "1.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8497\",\"call_number_browse\":\"Coin 8497\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 690,
     "pub_date_end_sort": 702,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5383"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -106,9 +106,12 @@
         "BMC page 39 cf. 134"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "690 to 702"
+    ],
     "hashed_id_s": [
         "d74853eb94c415ab"
     ],
-    "_version_": 1667138347538055168,
-    "timestamp": "2020-05-19T16:50:23.947Z"
+    "_version_": 1684903532763807744,
+    "timestamp": "2020-12-01T19:00:24.823Z"
 }

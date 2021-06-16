@@ -38,6 +38,15 @@
         "5.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13822\",\"call_number_browse\":\"Coin 13822\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "H.A. Seaby; 1930; 60 cents"
+    ],
     "pub_date_start_sort": -121,
     "pub_date_end_sort": -120,
     "issue_object_type_s": [
@@ -45,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "8867"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +108,12 @@
         "H & L II,v.I,p.501 2300.1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-121 to -120"
+    ],
     "hashed_id_s": [
         "7373d3187dd7dcff"
     ],
-    "_version_": 1667138521302827008,
-    "timestamp": "2020-05-19T16:53:09.659Z"
+    "_version_": 1684903325817896960,
+    "timestamp": "2020-12-01T18:57:07.465Z"
 }

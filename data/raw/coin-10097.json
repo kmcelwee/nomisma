@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6387"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -90,9 +87,12 @@
         "BMC p. 204 *"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "737 to 750"
+    ],
     "hashed_id_s": [
         "aa400b833a03d354"
     ],
-    "_version_": 1667145288673918976,
-    "timestamp": "2020-05-19T18:40:43.526Z"
+    "_version_": 1684903358419173376,
+    "timestamp": "2020-12-01T18:57:38.557Z"
 }

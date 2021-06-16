@@ -35,6 +35,9 @@
         "14.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1005\",\"call_number_browse\":\"Coin 1005\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -96,
     "pub_date_end_sort": -95,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "461"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,15 @@
         "Phoenician Letter"
     ],
     "issue_monogram_1display": "[{\"title\":\"Phoenician Letter\",\"document_id\":\"9a3a2393-e12f-4e13-a8cb-e507e843fb27\"}]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-96 to -95"
+    ],
     "hashed_id_s": [
         "915a27c2b274710f"
     ],
-    "_version_": 1667138206666063872,
-    "timestamp": "2020-05-19T16:48:09.598Z"
+    "_version_": 1684903094213672960,
+    "timestamp": "2020-12-01T18:53:26.589Z"
 }

@@ -35,8 +35,11 @@
         "9.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1678\",\"call_number_browse\":\"Coin 1678\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 155,
     "pub_date_end_sort": 156,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1071"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -103,9 +103,12 @@
         "RPC.1  5926"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "155 to 156"
+    ],
     "hashed_id_s": [
         "e552aa4052860917"
     ],
-    "_version_": 1667145479493779457,
-    "timestamp": "2020-05-19T18:43:45.506Z"
+    "_version_": 1684903098641809408,
+    "timestamp": "2020-12-01T18:53:30.813Z"
 }

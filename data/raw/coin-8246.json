@@ -2,7 +2,7 @@
     "id": "coin-8246",
     "title_display": "Coin: 8246",
     "pub_created_display": [
-        "Maurice Tiberius, 10 nummi, Antioch"
+        "Maurice Tiberius   (582 to 602), 10 nummi, Antioch"
     ],
     "call_number_display": [
         "Coin 8246"
@@ -50,6 +50,12 @@
         "3.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8246\",\"call_number_browse\":\"Coin 8246\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 592,
     "pub_date_end_sort": 593,
     "issue_object_type_s": [
@@ -58,14 +64,11 @@
     "issue_denomination_s": [
         "10 nummi"
     ],
-    "issue_number_s": [
-        "5258"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Maurice Tiberius"
+        "Maurice Tiberius   (582 to 602)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Byzantium"
@@ -106,9 +109,12 @@
         "BMC 147 209"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "592 to 593"
+    ],
     "hashed_id_s": [
         "59139c42c790b928"
     ],
-    "_version_": 1667144891722891264,
-    "timestamp": "2020-05-19T18:34:25.050Z"
+    "_version_": 1684903359729893376,
+    "timestamp": "2020-12-01T18:57:39.805Z"
 }

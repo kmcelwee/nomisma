@@ -32,16 +32,16 @@
         "1.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1355\",\"call_number_browse\":\"Coin 1355\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1875,
     "pub_date_end_sort": 1908,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "754"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,9 +75,12 @@
         "KM 356 1-16.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1875 to 1908"
+    ],
     "hashed_id_s": [
         "3e2facad537055ac"
     ],
-    "_version_": 1667138462200889344,
-    "timestamp": "2020-05-19T16:52:13.296Z"
+    "_version_": 1684903605199437824,
+    "timestamp": "2020-12-01T19:01:33.902Z"
 }

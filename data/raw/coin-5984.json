@@ -35,8 +35,8 @@
         "4.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5984\",\"call_number_browse\":\"Coin 5984\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 reales"
-    ],
-    "issue_number_s": [
-        "3467"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,6 +90,6 @@
     "hashed_id_s": [
         "59b7a17cc501a871"
     ],
-    "_version_": 1667138383924690944,
-    "timestamp": "2020-05-19T16:50:58.647Z"
+    "_version_": 1684903262654824448,
+    "timestamp": "2020-12-01T18:56:07.227Z"
 }

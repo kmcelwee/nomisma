@@ -50,6 +50,12 @@
         "2.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10360\",\"call_number_browse\":\"Coin 10360\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 67,
     "pub_date_end_sort": 67,
     "issue_object_type_s": [
@@ -100,9 +106,12 @@
         "SNG ANS  435"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "67 to 67"
+    ],
     "hashed_id_s": [
         "b04ea5ed3c43faf1"
     ],
-    "_version_": 1672921724845293568,
-    "timestamp": "2020-07-22T12:54:42.346Z"
+    "_version_": 1684903083981668352,
+    "timestamp": "2020-12-01T18:53:16.830Z"
 }

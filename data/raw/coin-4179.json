@@ -38,8 +38,11 @@
         "1.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4179\",\"call_number_browse\":\"Coin 4179\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2381"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,10 +83,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing ivy wreath; border of dots; AT of legend in monogram"
+        "wearing ivy-wreath; below, M.CATO.PRO.PR, AT of legend in monogram"
     ],
     "issue_obverse_legend_s": [
-        "M CATO \u0393RO \u0393R"
+        "M.CATO.PRO.PR"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -98,14 +101,15 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "holds patera in r. hand, palm branch in l. hand; legend in exergue; TR of legend in monogram; border of dots"
+        "holding patera in r. hand and palm branch in l. hand; legend in exergue; TR of legend in monogram"
     ],
     "issue_reverse_legend_s": [
         "VICTRIX"
     ],
     "issue_reverse_attributes_s": [
         "patera, in right hand",
-        "palm branch, in left hand"
+        "palm branch, in left hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  462/2",
@@ -113,9 +117,12 @@
         "Sear  1383"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "3f5accc0a15b5485"
     ],
-    "_version_": 1667138492515221504,
-    "timestamp": "2020-05-19T16:52:42.203Z"
+    "_version_": 1684903627820367872,
+    "timestamp": "2020-12-01T19:01:55.476Z"
 }

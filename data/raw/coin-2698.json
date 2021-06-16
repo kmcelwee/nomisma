@@ -38,13 +38,16 @@
         "cast"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2698\",\"call_number_browse\":\"Coin 2698\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "283:  "
+    ],
     "pub_date_start_sort": 1793,
     "pub_date_end_sort": 1874,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "1702"
     ],
     "issue_metal_s": [
         "Lead"
@@ -107,9 +110,16 @@
         "Joseph Wright"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, US Revolutionary War capture of Paulus Hook    Aug 19 1779 12:00AM",
+        "Place, Paulus Hook  New Jersey  United States of America"
+    ],
+    "issue_date_s": [
+        "1793 to 1874"
+    ],
     "hashed_id_s": [
         "d3a0596f7ef84885"
     ],
-    "_version_": 1667138424365121536,
-    "timestamp": "2020-05-19T16:51:37.211Z"
+    "_version_": 1684903577850478592,
+    "timestamp": "2020-12-01T19:01:07.822Z"
 }

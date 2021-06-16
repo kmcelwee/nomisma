@@ -38,6 +38,9 @@
         "4.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8786\",\"call_number_browse\":\"Coin 8786\"}}",
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1092,
     "pub_date_end_sort": 1118,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "5588"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BL Alexis I 59/Cp/AV/01-07v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1092 to 1118"
+    ],
     "hashed_id_s": [
         "ae861a95f837b353"
     ],
-    "_version_": 1667138186027991040,
-    "timestamp": "2020-05-19T16:47:49.915Z"
+    "_version_": 1684902936857018368,
+    "timestamp": "2020-12-01T18:50:56.523Z"
 }

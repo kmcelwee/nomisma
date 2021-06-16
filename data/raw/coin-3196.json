@@ -35,8 +35,11 @@
         "16.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3196\",\"call_number_browse\":\"Coin 3196\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 68,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "1951"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -101,9 +101,12 @@
         "PUL  1965v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 68"
+    ],
     "hashed_id_s": [
         "1034474166191751"
     ],
-    "_version_": 1667138435265069056,
-    "timestamp": "2020-05-19T16:51:47.608Z"
+    "_version_": 1684903214732804096,
+    "timestamp": "2020-12-01T18:55:21.525Z"
 }

@@ -35,8 +35,11 @@
         "1.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11615\",\"call_number_browse\":\"Coin 11615\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/2\u0394"
-    ],
-    "issue_number_s": [
-        "7736"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "SN  IV/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "eace54f426cffdb1"
     ],
-    "_version_": 1667138295795023872,
-    "timestamp": "2020-05-19T16:49:34.596Z"
+    "_version_": 1684903043156410368,
+    "timestamp": "2020-12-01T18:52:37.898Z"
 }

@@ -47,6 +47,9 @@
         "9.323"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11690\",\"call_number_browse\":\"Coin 11690\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1050,
     "pub_date_end_sort": 1060,
     "issue_object_type_s": [
@@ -123,9 +126,12 @@
         "BL  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1050 to 1060"
+    ],
     "hashed_id_s": [
         "28c060c27aa73cf7"
     ],
-    "_version_": 1673453985561837568,
-    "timestamp": "2020-07-28T09:54:45.718Z"
+    "_version_": 1684902902242476032,
+    "timestamp": "2020-12-01T18:50:23.511Z"
 }

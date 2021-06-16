@@ -32,16 +32,16 @@
         "7.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3158\",\"call_number_browse\":\"Coin 3158\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1796,
     "pub_date_end_sort": 1821,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1936"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +81,12 @@
         "Jen 146 716"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1796 to 1821"
+    ],
     "hashed_id_s": [
         "c21df192719122b7"
     ],
-    "_version_": 1667138434406285312,
-    "timestamp": "2020-05-19T16:51:46.789Z"
+    "_version_": 1684903213070811136,
+    "timestamp": "2020-12-01T18:55:19.939Z"
 }

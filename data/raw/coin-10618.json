@@ -38,8 +38,14 @@
         "3.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10618\",\"call_number_browse\":\"Coin 10618\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Tom Mallon; 05/30/2005"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6781"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 1 Type IIa2/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "937e5f4b83299907"
     ],
-    "_version_": 1667138283362058240,
-    "timestamp": "2020-05-19T16:49:22.742Z"
+    "_version_": 1684903141073485824,
+    "timestamp": "2020-12-01T18:54:11.278Z"
 }

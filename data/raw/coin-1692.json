@@ -35,8 +35,11 @@
         "12.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1692\",\"call_number_browse\":\"Coin 1692\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": -10,
     "pub_date_end_sort": 10,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "1083"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,15 @@
         "RIC.1. 1 p. 44"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Vispanius Agrippa, M."
+    ],
+    "issue_date_s": [
+        "-10 to 10"
+    ],
     "hashed_id_s": [
         "ef88cfa909b45707"
     ],
-    "_version_": 1667138414755971072,
-    "timestamp": "2020-05-19T16:51:28.047Z"
+    "_version_": 1684903187919667200,
+    "timestamp": "2020-12-01T18:54:55.953Z"
 }

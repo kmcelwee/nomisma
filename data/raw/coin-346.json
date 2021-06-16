@@ -35,8 +35,11 @@
         "7.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 346\",\"call_number_browse\":\"Coin 346\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "147:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 886,
     "pub_date_end_sort": 912,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "178"
     ],
     "issue_metal_s": [
         "Copper"
@@ -96,9 +96,12 @@
         "BMC.Byz. 447 8"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "886 to 912"
+    ],
     "hashed_id_s": [
         "5386de730da1d450"
     ],
-    "_version_": 1667138402498117632,
-    "timestamp": "2020-05-19T16:51:16.358Z"
+    "_version_": 1684903573424439296,
+    "timestamp": "2020-12-01T19:01:03.601Z"
 }

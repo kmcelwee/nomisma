@@ -35,8 +35,14 @@
         "3.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10976\",\"call_number_browse\":\"Coin 10976\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Zuzim Judea; 02/20/2006"
     ],
     "pub_date_start_sort": 420,
     "pub_date_end_sort": 438,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7137"
     ],
     "issue_metal_s": [
         "Silver"
@@ -59,13 +62,13 @@
         "HLYDY"
     ],
     "issue_place_s": [
-        "Herat, Khorasan, Sasanian Empire"
+        "Herat, Herat, Sasanian Empire"
     ],
     "issue_city_s": [
         "Herat"
     ],
     "issue_state_s": [
-        "Khorasan"
+        "Herat"
     ],
     "issue_region_s": [
         "Sasanian Empire"
@@ -92,9 +95,12 @@
         "SNS 3 HLYDY Type Ib1/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "420 to 438"
+    ],
     "hashed_id_s": [
         "d83bcff1cd7980c8"
     ],
-    "_version_": 1667138173068640256,
-    "timestamp": "2020-05-19T16:47:37.558Z"
+    "_version_": 1684903042350055424,
+    "timestamp": "2020-12-01T18:52:37.128Z"
 }

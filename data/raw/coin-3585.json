@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "30 shillings"
     ],
-    "issue_number_s": [
-        "2134"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -81,6 +78,6 @@
     "hashed_id_s": [
         "a889680ed573f5ee"
     ],
-    "_version_": 1667138163998457856,
-    "timestamp": "2020-05-19T16:47:28.907Z"
+    "_version_": 1684902926009499648,
+    "timestamp": "2020-12-01T18:50:46.177Z"
 }

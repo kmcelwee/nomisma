@@ -102,9 +102,12 @@
         "Schl.  II14"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1126 to 1130"
+    ],
     "hashed_id_s": [
         "357b712c5c4ff461"
     ],
-    "_version_": 1674259831958011904,
-    "timestamp": "2020-08-06T07:23:20.729Z"
+    "_version_": 1684903497542139904,
+    "timestamp": "2020-12-01T18:59:51.234Z"
 }

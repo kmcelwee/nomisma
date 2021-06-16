@@ -38,8 +38,11 @@
         "2.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3971\",\"call_number_browse\":\"Coin 3971\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 522,
     "pub_date_end_sort": 527,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "solidus"
-    ],
-    "issue_number_s": [
-        "2276"
     ],
     "issue_metal_s": [
         "Gold"
@@ -108,9 +108,12 @@
         "Sear  56"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "522 to 527"
+    ],
     "hashed_id_s": [
         "f4ad73f3fa7c08d2"
     ],
-    "_version_": 1667138230040920064,
-    "timestamp": "2020-05-19T16:48:31.892Z"
+    "_version_": 1684902985536110592,
+    "timestamp": "2020-12-01T18:51:42.945Z"
 }

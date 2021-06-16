@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "9241"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,6 +80,6 @@
     "hashed_id_s": [
         "490916bc5ef7a292"
     ],
-    "_version_": 1667145396766375936,
-    "timestamp": "2020-05-19T18:53:24.034Z"
+    "_version_": 1683105306004946944,
+    "timestamp": "2020-11-11T22:38:22.149Z"
 }

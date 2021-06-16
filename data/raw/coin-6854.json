@@ -35,6 +35,9 @@
         "2.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6854\",\"call_number_browse\":\"Coin 6854\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1745,
     "pub_date_end_sort": 1765,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "pfennig"
-    ],
-    "issue_number_s": [
-        "4262"
     ],
     "issue_metal_s": [
         "Copper"
@@ -83,9 +83,12 @@
         "Herinek 1740-1969, Francis I 658"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1745 to 1765"
+    ],
     "hashed_id_s": [
         "4bb470d611e66693"
     ],
-    "_version_": 1667138255301115904,
-    "timestamp": "2020-05-19T16:48:55.981Z"
+    "_version_": 1684903476938670080,
+    "timestamp": "2020-12-01T18:59:31.584Z"
 }

@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "6522"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,6 +101,6 @@
     "hashed_id_s": [
         "814f7d2df42ad061"
     ],
-    "_version_": 1667138281216671744,
-    "timestamp": "2020-05-19T16:49:20.696Z"
+    "_version_": 1684903140169613312,
+    "timestamp": "2020-12-01T18:54:10.418Z"
 }

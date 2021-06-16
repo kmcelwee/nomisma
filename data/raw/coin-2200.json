@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "10/31/1934"
@@ -47,6 +47,12 @@
         "5.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2200\",\"call_number_browse\":\"Coin 2200\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -286,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1427"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,16 @@
         "Sear  6849v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Other Person, Athena"
+    ],
+    "issue_date_s": [
+        "-300 to -286"
+    ],
     "hashed_id_s": [
         "69015ce55564760e"
     ],
-    "_version_": 1669678445862322176,
-    "timestamp": "2020-06-16T17:44:10.482Z"
+    "_version_": 1684903219906478080,
+    "timestamp": "2020-12-01T18:55:26.459Z"
 }

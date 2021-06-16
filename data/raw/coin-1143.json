@@ -35,8 +35,11 @@
         "24.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1143\",\"call_number_browse\":\"Coin 1143\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 64,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "582"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -94,9 +94,12 @@
         "Sear  1953"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 64"
+    ],
     "hashed_id_s": [
         "0be3441a2aa5bdef"
     ],
-    "_version_": 1667138458711228416,
-    "timestamp": "2020-05-19T16:52:09.969Z"
+    "_version_": 1684903601903763456,
+    "timestamp": "2020-12-01T19:01:30.759Z"
 }

@@ -41,6 +41,12 @@
         "19.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7146\",\"call_number_browse\":\"Coin 7146\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -289,
     "pub_date_end_sort": -271,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "uncia"
-    ],
-    "issue_number_s": [
-        "4465"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +84,12 @@
         "Haeb. pl. 68 23-25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-289 to -271"
+    ],
     "hashed_id_s": [
         "04c40a4f78159257"
     ],
-    "_version_": 1667138359196123136,
-    "timestamp": "2020-05-19T16:50:35.063Z"
+    "_version_": 1684903251847151616,
+    "timestamp": "2020-12-01T18:55:56.920Z"
 }

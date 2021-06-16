@@ -105,9 +105,12 @@
         "Schl.  IV17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1187 to 1233"
+    ],
     "hashed_id_s": [
         "0a4b5cd0f2882b6e"
     ],
-    "_version_": 1674258979986866176,
-    "timestamp": "2020-08-06T07:09:48.225Z"
+    "_version_": 1684903322782269440,
+    "timestamp": "2020-12-01T18:57:04.569Z"
 }

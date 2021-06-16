@@ -2,7 +2,7 @@
     "id": "coin-9479",
     "title_display": "Coin: 9479",
     "pub_created_display": [
-        "Tiberius, as, Corinth"
+        "Tiberius   (14 to 37), as, Corinth"
     ],
     "call_number_display": [
         "Coin 9479"
@@ -38,8 +38,8 @@
         "6.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9479\",\"call_number_browse\":\"Coin 9479\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 32,
     "pub_date_end_sort": 34,
@@ -49,14 +49,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6074"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Corinth, Achaea, Roman Empire"
@@ -98,9 +95,12 @@
         "RPC  1154"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "32 to 34"
+    ],
     "hashed_id_s": [
         "ab2ca2a34e8dd2d3"
     ],
-    "_version_": 1667138140097216512,
-    "timestamp": "2020-05-19T16:47:06.113Z"
+    "_version_": 1684903389274570752,
+    "timestamp": "2020-12-01T18:58:07.980Z"
 }

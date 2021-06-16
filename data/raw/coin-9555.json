@@ -35,6 +35,9 @@
         "1.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9555\",\"call_number_browse\":\"Coin 9555\"}}",
+    "numismatic_accession_s": [
+        "101: 2005-01-14 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1188,
     "pub_date_end_sort": 1189,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "6103"
     ],
     "issue_metal_s": [
         "Billon"
@@ -101,9 +101,12 @@
         "DOC vol 4. pt. 1 p 396 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1188 to 1189"
+    ],
     "hashed_id_s": [
         "ab9e865a5877e0e9"
     ],
-    "_version_": 1667138144559955968,
-    "timestamp": "2020-05-19T16:47:10.369Z"
+    "_version_": 1684903396824317952,
+    "timestamp": "2020-12-01T18:58:15.182Z"
 }

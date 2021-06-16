@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "29/4/1934"
+        "1934-04-29"
     ],
     "find_feature_s": [
-        "Hill A"
+        "[None Recorded]"
     ],
     "find_locus_s": [
-        "AE 19"
+        "[AE 19]"
     ],
     "find_number_s": [
         "C2306"
@@ -50,6 +50,12 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7568\",\"call_number_browse\":\"Coin 7568\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 324,
     "issue_object_type_s": [
@@ -58,9 +64,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4733"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -68,7 +71,7 @@
         "Licinius (308 to 324)"
     ],
     "issue_workshop_s": [
-        "E"
+        "B"
     ],
     "issue_place_s": [
         "Alexandria, Egypt, Roman Empire"
@@ -104,16 +107,19 @@
         "Jupiter stg. l., chlamys across l. shoulder, leaning on sceptre with eagle, Victory on globe in r. hand; eagle holding wreath on ground to l.; to r., captive."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONS-ERVATORI"
+        "IOVI CONS-ERVATORI | X/II/SMAL"
     ],
     "issue_references_s": [
-        "RIC, VII 708 28",
+        "RIC VII Alexandria 28",
         "Numismatique Constantinienne III. 270. I. 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 324"
+    ],
     "hashed_id_s": [
         "24f3e63131189921"
     ],
-    "_version_": 1667138351237431296,
-    "timestamp": "2020-05-19T16:50:27.471Z"
+    "_version_": 1693058782503895040,
+    "timestamp": "2021-03-01T19:24:37.044Z"
 }

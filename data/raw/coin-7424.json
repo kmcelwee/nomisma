@@ -29,10 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "June 16, 1935"
+        "1935-06-16"
     ],
-    "find_description_s": [
-        "Sub room 1, under west side mosaic"
+    "find_feature_s": [
+        "Sub room 1, under W. side mosaic"
+    ],
+    "find_locus_s": [
+        "[None recorded]"
     ],
     "die_axis_s": [
         "5"
@@ -44,6 +47,12 @@
         "2.347"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7424\",\"call_number_browse\":\"Coin 7424\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 327,
     "pub_date_end_sort": 329,
     "issue_object_type_s": [
@@ -51,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4638"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,16 +101,19 @@
         "Camp gate, two turrets, no doors, stars above; varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 691.78",
+        "RIC VII Antioch 78",
         "Cohen 7, 281 454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "2cf0f4214d04ba17"
     ],
-    "_version_": 1667138190574616576,
-    "timestamp": "2020-05-19T16:47:54.252Z"
+    "_version_": 1691154306361720832,
+    "timestamp": "2021-02-08T18:53:47.056Z"
 }

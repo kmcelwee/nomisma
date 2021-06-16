@@ -35,8 +35,11 @@
         "3.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1162\",\"call_number_browse\":\"Coin 1162\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 1559,
     "pub_date_end_sort": 1560,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Henri d'or"
-    ],
-    "issue_number_s": [
-        "609"
     ],
     "issue_metal_s": [
         "Gold"
@@ -89,9 +89,12 @@
         "Lafaurie  862"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1559 to 1560"
+    ],
     "hashed_id_s": [
         "eb859d54acdb54d1"
     ],
-    "_version_": 1667138459193573376,
-    "timestamp": "2020-05-19T16:52:10.427Z"
+    "_version_": 1684903293064577024,
+    "timestamp": "2020-12-01T18:56:36.228Z"
 }

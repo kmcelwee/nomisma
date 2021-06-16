@@ -50,6 +50,9 @@
         "7.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4126\",\"call_number_browse\":\"Coin 4126\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 518,
     "pub_date_end_sort": 522,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "20 nummi"
-    ],
-    "issue_number_s": [
-        "2294"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +108,12 @@
         "Sear Justin I 68"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "518 to 522"
+    ],
     "hashed_id_s": [
         "af9e000b76b75ac9"
     ],
-    "_version_": 1667138488158388224,
-    "timestamp": "2020-05-19T16:52:38.051Z"
+    "_version_": 1684903623437320192,
+    "timestamp": "2020-12-01T19:01:51.297Z"
 }

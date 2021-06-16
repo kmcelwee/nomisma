@@ -37,9 +37,6 @@
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "1709"
-    ],
     "issue_metal_s": [
         "Plaster"
     ],
@@ -92,6 +89,6 @@
     "hashed_id_s": [
         "765def2c85fa8fe6"
     ],
-    "_version_": 1667138425085493248,
-    "timestamp": "2020-05-19T16:51:37.899Z"
+    "_version_": 1683105490436882432,
+    "timestamp": "2020-11-11T22:41:18.035Z"
 }

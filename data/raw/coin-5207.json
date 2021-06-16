@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "2898"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -68,9 +65,12 @@
         "Song liao jin xi xia qian bi: \u5b8b\u907c\u91d1\u897f\u590f\u9322\u5e63  1051"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1100 to 1125"
+    ],
     "hashed_id_s": [
         "f17caa76460be911"
     ],
-    "_version_": 1667138517591916544,
-    "timestamp": "2020-05-19T16:53:06.119Z"
+    "_version_": 1684903645458464768,
+    "timestamp": "2020-12-01T19:02:12.297Z"
 }

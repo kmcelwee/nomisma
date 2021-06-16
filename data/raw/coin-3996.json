@@ -35,8 +35,8 @@
         "3.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3996\",\"call_number_browse\":\"Coin 3996\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 522,
     "pub_date_end_sort": 527,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "10 nummi"
-    ],
-    "issue_number_s": [
-        "2296"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +93,12 @@
         "Sear  70"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "522 to 527"
+    ],
     "hashed_id_s": [
         "77be6a559a43b81d"
     ],
-    "_version_": 1667138230635462656,
-    "timestamp": "2020-05-19T16:48:32.456Z"
+    "_version_": 1684903109011177472,
+    "timestamp": "2020-12-01T18:53:40.700Z"
 }

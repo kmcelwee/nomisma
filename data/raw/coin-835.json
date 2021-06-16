@@ -44,6 +44,12 @@
         "1.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 835\",\"call_number_browse\":\"Coin 835\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 512,
     "pub_date_end_sort": 522,
     "issue_object_type_s": [
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "337"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,9 +110,12 @@
         "Sear  29/93"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "512 to 522"
+    ],
     "hashed_id_s": [
         "df4ecb5f2c60266d"
     ],
-    "_version_": 1667138453343567872,
-    "timestamp": "2020-05-19T16:52:04.847Z"
+    "_version_": 1684903595161419776,
+    "timestamp": "2020-12-01T19:01:24.331Z"
 }

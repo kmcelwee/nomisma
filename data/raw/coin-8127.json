@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "07/31/1935"
+        "1935-07-31"
     ],
     "find_feature_s": [
-        "Circus at end of West cavea"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "9-N"
+        "DS 9-N (CIR)"
     ],
     "find_number_s": [
         "C5622"
@@ -50,6 +50,12 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8127\",\"call_number_browse\":\"Coin 8127\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 315,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5149"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "Numismatique Constantinienne III, p. 259 II 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 315"
+    ],
     "hashed_id_s": [
         "0c92b150601083dd"
     ],
-    "_version_": 1667138349666664448,
-    "timestamp": "2020-05-19T16:50:25.973Z"
+    "_version_": 1694425471377211392,
+    "timestamp": "2021-03-16T21:27:33.116Z"
 }

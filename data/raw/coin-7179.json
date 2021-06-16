@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4439"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -89,9 +86,12 @@
         "DOC vol. 2, page 399 9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "642 to 643"
+    ],
     "hashed_id_s": [
         "3d5fd944de1929d4"
     ],
-    "_version_": 1667138357417738240,
-    "timestamp": "2020-05-19T16:50:33.368Z"
+    "_version_": 1684903251169771520,
+    "timestamp": "2020-12-01T18:55:56.275Z"
 }

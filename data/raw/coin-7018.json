@@ -41,19 +41,25 @@
         "101.12"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7018\",\"call_number_browse\":\"Coin 7018\"}}",
-    "pub_date_start_sort": -275,
-    "pub_date_end_sort": -271,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -265,
+    "pub_date_end_sort": -242,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "triens"
     ],
-    "issue_number_s": [
-        "4379"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -85,6 +91,9 @@
     "issue_reverse_symbol_s": [
         "4 dots"
     ],
+    "issue_reverse_figure_description_s": [
+        "composed of six spokes"
+    ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  88",
         "RRC  24.5",
@@ -93,9 +102,12 @@
         "Sear  541"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-265 to -242"
+    ],
     "hashed_id_s": [
         "2af062468d3400e2"
     ],
-    "_version_": 1667138358607872000,
-    "timestamp": "2020-05-19T16:50:34.500Z"
+    "_version_": 1684903699748487168,
+    "timestamp": "2020-12-01T19:03:04.072Z"
 }

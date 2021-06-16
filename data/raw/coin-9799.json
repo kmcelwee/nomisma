@@ -38,16 +38,16 @@
         "cast"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9799\",\"call_number_browse\":\"Coin 9799\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
+    ],
+    "numismatic_provenance_s": [
+        "Alfred F. Spero"
     ],
     "pub_date_start_sort": 1438,
     "pub_date_end_sort": 1439,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "6166"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "Antonio di Puccio Pisano (Pisanello), OPVS PISANI PICTORIS"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1438 to 1439"
+    ],
     "hashed_id_s": [
         "93cb700d2c435371"
     ],
-    "_version_": 1667138138099679232,
-    "timestamp": "2020-05-19T16:47:04.210Z"
+    "_version_": 1684903386948829184,
+    "timestamp": "2020-12-01T18:58:05.762Z"
 }

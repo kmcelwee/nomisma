@@ -35,8 +35,11 @@
         "16.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13663\",\"call_number_browse\":\"Coin 13663\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -162,
     "pub_date_end_sort": -154,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "8740"
     ],
     "issue_metal_s": [
         "Silver"
@@ -106,9 +106,12 @@
         "H & L II, v.I, p.169 1638.1d"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-162 to -154"
+    ],
     "hashed_id_s": [
         "908f7853a81d22e5"
     ],
-    "_version_": 1667138129113382912,
-    "timestamp": "2020-05-19T16:46:55.640Z"
+    "_version_": 1684902909644374016,
+    "timestamp": "2020-12-01T18:50:30.570Z"
 }

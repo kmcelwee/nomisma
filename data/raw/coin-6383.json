@@ -29,8 +29,11 @@
         "77x99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6383\",\"call_number_browse\":\"Coin 6383\"}}",
-    "donor_s": [
-        "Andre de Coppet"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "462:  Andre de Coppet"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "35 dollars"
-    ],
-    "issue_number_s": [
-        "3816"
     ],
     "issue_metal_s": [
         "Paper"
@@ -68,6 +68,6 @@
     "hashed_id_s": [
         "714db2c3a8b8b9a2"
     ],
-    "_version_": 1667138375369359360,
-    "timestamp": "2020-05-19T16:50:50.484Z"
+    "_version_": 1684903552952041472,
+    "timestamp": "2020-12-01T19:00:44.075Z"
 }

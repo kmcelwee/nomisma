@@ -38,6 +38,12 @@
         "9.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13203\",\"call_number_browse\":\"Coin 13203\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "285: 2000-10-09 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8542"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,6 +102,6 @@
     "hashed_id_s": [
         "bd6b4c8b420f5234"
     ],
-    "_version_": 1667138338093531136,
-    "timestamp": "2020-05-19T16:50:14.938Z"
+    "_version_": 1684903244221906944,
+    "timestamp": "2020-12-01T18:55:49.650Z"
 }

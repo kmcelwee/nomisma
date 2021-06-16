@@ -47,6 +47,12 @@
         "6.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8418\",\"call_number_browse\":\"Coin 8418\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -47,
     "pub_date_end_sort": -46,
     "issue_object_type_s": [
@@ -103,12 +109,16 @@
     ],
     "issue_references_s": [
         "Waage  271",
-        "RPC.1  4217"
+        "RPC.1  4217",
+        "NC XIX, p. 87 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-47 to -46"
+    ],
     "hashed_id_s": [
         "b34ef52da49c1a65"
     ],
-    "_version_": 1671205793681113088,
-    "timestamp": "2020-07-03T14:20:42.863Z"
+    "_version_": 1684903675235926016,
+    "timestamp": "2020-12-01T19:02:40.695Z"
 }

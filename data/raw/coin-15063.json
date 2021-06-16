@@ -32,16 +32,16 @@
         "5.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15063\",\"call_number_browse\":\"Coin 15063\"}}",
-    "donor_s": [
-        "Fred Blaicher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "420:  Fred Blaicher"
     ],
     "pub_date_start_sort": 117,
     "pub_date_end_sort": 192,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "9240"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -71,9 +71,12 @@
         "Catalogue of the Greek Coins in the British Museum p.100 725"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "117 to 192"
+    ],
     "hashed_id_s": [
         "eccd4406240627b4"
     ],
-    "_version_": 1667145396728627200,
-    "timestamp": "2020-05-19T18:45:27.825Z"
+    "_version_": 1684903376294248448,
+    "timestamp": "2020-12-01T18:57:55.603Z"
 }

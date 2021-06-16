@@ -38,8 +38,11 @@
         "7.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6294\",\"call_number_browse\":\"Coin 6294\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Aug. 1959; Lire 6500 = $10.53"
     ],
     "pub_date_start_sort": -355,
     "pub_date_end_sort": -340,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3728"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  673"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-355 to -340"
+    ],
     "hashed_id_s": [
         "f781483e646fe3e4"
     ],
-    "_version_": 1667138381603143680,
-    "timestamp": "2020-05-19T16:50:56.429Z"
+    "_version_": 1684903123552829440,
+    "timestamp": "2020-12-01T18:53:54.568Z"
 }

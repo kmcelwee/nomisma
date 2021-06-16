@@ -35,6 +35,12 @@
         "2.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6829\",\"call_number_browse\":\"Coin 6829\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -85,9 +91,12 @@
         "M&D  87"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -56"
+    ],
     "hashed_id_s": [
         "fb4dfb4d24750f1a"
     ],
-    "_version_": 1673557572491149312,
-    "timestamp": "2020-07-29T13:21:13.912Z"
+    "_version_": 1684902909452484608,
+    "timestamp": "2020-12-01T18:50:30.386Z"
 }

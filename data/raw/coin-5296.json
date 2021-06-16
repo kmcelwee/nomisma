@@ -35,8 +35,11 @@
         "2.52"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5296\",\"call_number_browse\":\"Coin 5296\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "5 pfennig"
-    ],
-    "issue_number_s": [
-        "2960"
     ],
     "issue_metal_s": [
         "Copper-nickel"
@@ -83,6 +83,6 @@
     "hashed_id_s": [
         "04e6642354d2e3c3"
     ],
-    "_version_": 1667138416057253888,
-    "timestamp": "2020-05-19T16:51:29.289Z"
+    "_version_": 1684903191030792192,
+    "timestamp": "2020-12-01T18:54:58.920Z"
 }

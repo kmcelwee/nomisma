@@ -41,6 +41,12 @@
         "1.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12292\",\"call_number_browse\":\"Coin 12292\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_provenance_s": [
+        "Gordon Andreas Singer, Greenbelt, MD"
+    ],
     "pub_date_start_sort": 1257,
     "pub_date_end_sort": 1258,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8278"
     ],
     "issue_metal_s": [
         "Billon"
@@ -101,9 +104,12 @@
         "Iurukova p.85-87,type I"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1257 to 1258"
+    ],
     "hashed_id_s": [
         "96ef951b7b68b5fa"
     ],
-    "_version_": 1667138303415025664,
-    "timestamp": "2020-05-19T16:49:41.865Z"
+    "_version_": 1684903515116273664,
+    "timestamp": "2020-12-01T19:00:07.993Z"
 }

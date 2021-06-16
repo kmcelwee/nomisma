@@ -41,6 +41,12 @@
         "66.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5148\",\"call_number_browse\":\"Coin 5148\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -49,11 +55,11 @@
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "2720"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_series_s": [
         "Aes Grave"
@@ -83,7 +89,10 @@
         "left"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing lion's skull"
+        "wearing lion skin"
+    ],
+    "issue_obverse_attributes_s": [
+        "denominational mark, behind head"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -94,6 +103,9 @@
     "issue_reverse_orientation_s": [
         "right"
     ],
+    "issue_reverse_attributes_s": [
+        "denominational mark, below prow"
+    ],
     "issue_references_s": [
         "RRC  35, 4",
         "Haeb. pl. 18 1-9",
@@ -102,9 +114,12 @@
         "ICC  54"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "492985ab7096e003"
     ],
-    "_version_": 1667138410650796032,
-    "timestamp": "2020-05-19T16:51:24.131Z"
+    "_version_": 1684903698479710208,
+    "timestamp": "2020-12-01T19:03:02.862Z"
 }

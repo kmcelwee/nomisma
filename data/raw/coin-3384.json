@@ -32,8 +32,11 @@
         "9.41"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3384\",\"call_number_browse\":\"Coin 3384\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "5 Cash"
-    ],
-    "issue_number_s": [
-        "2027"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,6 +82,6 @@
     "hashed_id_s": [
         "bd41719dcf3985e3"
     ],
-    "_version_": 1667138328463409152,
-    "timestamp": "2020-05-19T16:50:05.753Z"
+    "_version_": 1684903068418703360,
+    "timestamp": "2020-12-01T18:53:01.988Z"
 }

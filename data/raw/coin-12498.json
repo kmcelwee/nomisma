@@ -38,6 +38,12 @@
         "3.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12498\",\"call_number_browse\":\"Coin 12498\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -70,
     "pub_date_end_sort": -70,
     "issue_object_type_s": [
@@ -90,9 +96,12 @@
         "Shore  157"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-70 to -70"
+    ],
     "hashed_id_s": [
         "51b0e6a0ac70ea55"
     ],
-    "_version_": 1672999264581582848,
-    "timestamp": "2020-07-23T09:27:09.996Z"
+    "_version_": 1684903667170279424,
+    "timestamp": "2020-12-01T19:02:33.010Z"
 }

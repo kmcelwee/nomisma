@@ -38,8 +38,11 @@
         "4.67"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11625\",\"call_number_browse\":\"Coin 11625\"}}",
-    "donor_s": [
-        "Rudolf-Ernst Br\u00fcnnow"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "743:  Rudolf-Ernst Br\u00fcnnow"
     ],
     "pub_date_start_sort": 293,
     "pub_date_end_sort": 302,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7743"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "SN  II/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "293 to 302"
+    ],
     "hashed_id_s": [
         "08971d2ed5c8aaf6"
     ],
-    "_version_": 1667138275769319424,
-    "timestamp": "2020-05-19T16:49:15.498Z"
+    "_version_": 1684903013581324288,
+    "timestamp": "2020-12-01T18:52:09.692Z"
 }

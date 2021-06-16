@@ -35,8 +35,11 @@
         "2.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3319\",\"call_number_browse\":\"Coin 3319\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1368,
     "pub_date_end_sort": 1398,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2106"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,9 +74,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 268 Lower Right"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1368 to 1398"
+    ],
     "hashed_id_s": [
         "73adcc2d934eab6b"
     ],
-    "_version_": 1667138163594756096,
-    "timestamp": "2020-05-19T16:47:28.520Z"
+    "_version_": 1684902932352335872,
+    "timestamp": "2020-12-01T18:50:52.226Z"
 }

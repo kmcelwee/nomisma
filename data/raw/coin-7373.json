@@ -35,6 +35,9 @@
         "17.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7373\",\"call_number_browse\":\"Coin 7373\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 248,
     "pub_date_end_sort": 248,
     "issue_object_type_s": [
@@ -43,26 +46,26 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "4615"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Philip I the Arab (244 to 249)"
     ],
     "issue_place_s": [
-        "Rome, Latium, Italy"
+        "Rome, Italy, Roman Empire"
     ],
     "issue_city_s": [
         "Rome"
     ],
     "issue_state_s": [
-        "Latium"
+        "Italy"
     ],
     "issue_region_s": [
-        "Italy"
+        "Roman Empire"
     ],
     "issue_obverse_figure_s": [
         "Bust"
@@ -74,10 +77,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, draped, cuirassed"
+        "Philip the Arab, laureate, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMP. M. IVL.  PHILIPPVS AVG"
+        "IMP M IVL PHILIPPVS AVG"
     ],
     "issue_reverse_figure_s": [
         "Temple"
@@ -89,19 +92,22 @@
         "center"
     ],
     "issue_reverse_figure_description_s": [
-        "octastyle, with statue (of Roma) in centre of columns"
+        "octastyle, with statue of Roma in centre of columns"
     ],
     "issue_reverse_legend_s": [
-        "SAECVLARES AVGG.S.C."
+        "SAECVLARES AVGG S C"
     ],
     "issue_references_s": [
-        "RIC 4, pt. III 89.164",
-        "Cohen 4 201"
+        "RIC IV  Philip I 164",
+        "Cohen 4, 201"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "248 to 248"
+    ],
     "hashed_id_s": [
         "d88b3f492939bdac"
     ],
-    "_version_": 1667138197335834624,
-    "timestamp": "2020-05-19T16:48:00.699Z"
+    "_version_": 1684903082923655168,
+    "timestamp": "2020-12-01T18:53:15.822Z"
 }

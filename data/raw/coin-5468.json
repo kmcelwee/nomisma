@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin.  Size: 18 mm.  Weight: 2.71 g.  Die axis indeterminate. Both obverse and reverse obliterated.  On one side the is  a small 2 mm notch.  On envelope, \"senatorial bronze, Antioch\" is given but it seems impossible to verify."
+        "Fragment, half coin. Both obverse and reverse obliterated. On one side the is a small 2 mm notch. On envelope, \"senatorial bronze, Antioch\" is given but it seems impossible to verify."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -35,13 +35,28 @@
         "06/25/1937"
     ],
     "find_locus_s": [
-        "16-O"
+        "A 16-O"
     ],
     "find_number_s": [
         "Ca2302"
     ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "18"
+    ],
+    "weight_s": [
+        "2.71"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5468\",\"call_number_browse\":\"Coin 5468\"}}",
-    "pub_date_start_sort": 27,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
         "coin"
@@ -49,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3039"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -74,15 +89,21 @@
         "Head"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head, of a generic Julio Claudian type"
+        "of a generic Julio Claudian type"
     ],
     "issue_reverse_figure_description_s": [
         "none (see notes)"
     ],
+    "issue_references_s": [
+        "Waage  869v"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "f7fa86f22f490b76"
     ],
-    "_version_": 1667138388460830720,
-    "timestamp": "2020-05-19T16:51:02.972Z"
+    "_version_": 1684902890351624192,
+    "timestamp": "2020-12-01T18:50:12.171Z"
 }

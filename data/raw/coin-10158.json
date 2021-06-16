@@ -35,6 +35,12 @@
         "3.31"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10158\",\"call_number_browse\":\"Coin 10158\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6417"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 345 832"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "ec9081edf8ce644f"
     ],
-    "_version_": 1667138186125508608,
-    "timestamp": "2020-05-19T16:47:50.010Z"
+    "_version_": 1684902937034227712,
+    "timestamp": "2020-12-01T18:50:56.690Z"
 }

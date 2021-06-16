@@ -35,6 +35,15 @@
         "3.83"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4682\",\"call_number_browse\":\"Coin 4682\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1928; $10"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2545"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +103,12 @@
         "Sear  1433"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -42"
+    ],
     "hashed_id_s": [
         "b3192bfa903c8b0f"
     ],
-    "_version_": 1667138502248103936,
-    "timestamp": "2020-05-19T16:52:51.488Z"
+    "_version_": 1684903312277635072,
+    "timestamp": "2020-12-01T18:56:54.567Z"
 }

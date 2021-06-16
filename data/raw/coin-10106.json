@@ -55,11 +55,11 @@
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10106\",\"call_number_browse\":\"Coin 10106\"}}",
     "pub_date_start_sort": 733,
     "pub_date_end_sort": 743,
+    "issue_object_type_s": [
+        "coin"
+    ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "6368"
     ],
     "issue_metal_s": [
         "Copper"
@@ -94,9 +94,12 @@
         "Ash.2  1174"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "733 to 743"
+    ],
     "hashed_id_s": [
         "baba71fae99f2153"
     ],
-    "_version_": 1667144699928903680,
-    "timestamp": "2020-05-19T18:31:22.055Z"
+    "_version_": 1684903498167091200,
+    "timestamp": "2020-12-01T18:59:51.829Z"
 }

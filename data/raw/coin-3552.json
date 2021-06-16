@@ -35,6 +35,12 @@
         "11.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3552\",\"call_number_browse\":\"Coin 3552\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "381: 1985-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "2085"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +101,12 @@
         "Augustus  704"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "922ffb6c9178a9c4"
     ],
-    "_version_": 1667138227191939072,
-    "timestamp": "2020-05-19T16:48:29.174Z"
+    "_version_": 1684903107210772480,
+    "timestamp": "2020-12-01T18:53:38.983Z"
 }

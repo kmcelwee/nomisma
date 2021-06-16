@@ -29,7 +29,7 @@
         "Traces of illegible inscriptioin on r. of Zeus holding illegible object. Legend or monogram off flan. Exergue obliterated."
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/21/1938"
@@ -53,16 +53,19 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2294\",\"call_number_browse\":\"Coin 2294\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -300,
-    "pub_date_end_sort": -290,
+    "pub_date_end_sort": -298,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1470"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,16 +77,16 @@
         "Seleucus I Nikator (-312 to -280)"
     ],
     "issue_place_s": [
-        "Seleuceia Pieria, Seleucus and Pieria, Syria"
+        "Seleuceia Pieria, Seleucis and Pieria, Seleucid Empire"
     ],
     "issue_city_s": [
         "Seleuceia Pieria"
     ],
     "issue_state_s": [
-        "Seleucus and Pieria"
+        "Seleucis and Pieria"
     ],
     "issue_region_s": [
-        "Syria"
+        "Seleucid Empire"
     ],
     "issue_obverse_figure_s": [
         "Hercules"
@@ -120,9 +123,17 @@
         "WSM  891"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Hercules",
+        "Other Person, Zeus",
+        "Animal, eagle"
+    ],
+    "issue_date_s": [
+        "-300 to -298"
+    ],
     "hashed_id_s": [
         "0c0dcd256c15ce7b"
     ],
-    "_version_": 1669833268810219520,
-    "timestamp": "2020-06-18T10:45:01.149Z"
+    "_version_": 1684902940102361088,
+    "timestamp": "2020-12-01T18:50:59.616Z"
 }

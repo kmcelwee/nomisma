@@ -35,8 +35,11 @@
         "4.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5553\",\"call_number_browse\":\"Coin 5553\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 168,
     "pub_date_end_sort": 189,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "3141"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Ling of Eastern Han \u6771\u6f22\u9748\u5e1d (168 to 189)"
@@ -74,9 +74,12 @@
         "Hartill 91 10.3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "168 to 189"
+    ],
     "hashed_id_s": [
         "e8f3ab3b0b130cac"
     ],
-    "_version_": 1667138366451220480,
-    "timestamp": "2020-05-19T16:50:41.982Z"
+    "_version_": 1684903546479181824,
+    "timestamp": "2020-12-01T19:00:37.902Z"
 }

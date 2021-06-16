@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-11-1939"
-    ],
-    "find_feature_s": [
-        "Trench to N. of room 2"
+        "05/11/1939"
     ],
     "find_locus_s": [
-        "DH-26-M/N"
+        "DH 26-M/N"
     ],
     "find_number_s": [
         "Cc1253"
     ],
     "find_description_s": [
-        "From surf depos above lvl of late pavement to ca1M"
+        "Trench N. of room 2, above level of late pavement, surface deposit, to 1m"
     ],
     "die_axis_s": [
         "12"
@@ -53,6 +50,12 @@
         "6.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2063\",\"call_number_browse\":\"Coin 2063\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -61,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1361"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -92,7 +95,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, field in front obliterated"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -101,15 +104,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
-        "RPC.1 pp.628-629, SC series (uncertain) "
+        "RPC.1  4310v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "0e7cac5f4311c976"
     ],
-    "_version_": 1667138471218642944,
-    "timestamp": "2020-05-19T16:52:22.029Z"
+    "_version_": 1684903686319374336,
+    "timestamp": "2020-12-01T19:02:51.267Z"
 }

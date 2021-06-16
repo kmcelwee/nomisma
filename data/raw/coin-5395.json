@@ -35,6 +35,15 @@
         "3.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5395\",\"call_number_browse\":\"Coin 5395\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $2.50"
+    ],
     "pub_date_start_sort": -59,
     "pub_date_end_sort": -59,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3035"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "M. Nonius Sufenas"
@@ -67,6 +76,9 @@
     "issue_obverse_figure_s": [
         "Saturn"
     ],
+    "issue_obverse_symbol_s": [
+        "harpa and oval object behind"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -74,13 +86,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Saturn, bare, r.; harpa behind; border of dots"
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "SVFENAS - S C"
+        "S\u00b7C SVFENAS"
     ],
     "issue_obverse_attributes_s": [
-        "harpa, harpa over shoulder of Saturn"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Roma"
@@ -92,10 +104,21 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Roma seated l. on armor, holds scepter in r. hand and sword in l. hand; Victory standing behind, holding palm branch in l. hand and crowning Roma with r. hand; border of dots"
+        "on pile of armour, crowned by Victory"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "before Victory"
     ],
     "issue_reverse_legend_s": [
-        "\u0393R L V \u0393 F | SEX NONI"
+        "PR\u00b7L\u00b7V\u00b7P\u00b7F SEX\u00b7NONI"
+    ],
+    "issue_reverse_attributes_s": [
+        "sceptre, in r. hand",
+        "sword, in l. hand",
+        "palm-branch, in Victory's l. hand",
+        "crown, in Victory's r. hand",
+        "inscription, around",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  421/1",
@@ -103,9 +126,12 @@
         "Sear  377"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-59 to -59"
+    ],
     "hashed_id_s": [
         "145ebfa6c465076d"
     ],
-    "_version_": 1667138395395063808,
-    "timestamp": "2020-05-19T16:51:09.583Z"
+    "_version_": 1684903568170024960,
+    "timestamp": "2020-12-01T19:00:58.588Z"
 }

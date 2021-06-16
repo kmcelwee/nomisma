@@ -2,7 +2,7 @@
     "id": "coin-7779",
     "title_display": "Coin: 7779",
     "pub_created_display": [
-        "Constantine II, follis, Constantinople"
+        "Constantine II   (337 to 340), follis, Constantinople"
     ],
     "call_number_display": [
         "Coin 7779"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "July 31, 1935"
+        "1935-07-31"
     ],
     "find_feature_s": [
-        "Circus"
+        "End of W. cavea"
     ],
     "find_locus_s": [
-        "9-N"
+        "DS 9-N (CIR)"
     ],
     "find_number_s": [
         "C5629"
-    ],
-    "find_description_s": [
-        "end of west cavea"
     ],
     "die_axis_s": [
         "6"
@@ -53,6 +50,12 @@
         "2.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7779\",\"call_number_browse\":\"Coin 7779\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 333,
     "issue_object_type_s": [
@@ -61,14 +64,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4843"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Constantinople, Thrace, Roman Empire"
@@ -116,9 +116,12 @@
         "RIC 7 579.61"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 333"
+    ],
     "hashed_id_s": [
         "76966ca8ab2689db"
     ],
-    "_version_": 1667138352203169792,
-    "timestamp": "2020-05-19T16:50:28.394Z"
+    "_version_": 1694981423283306496,
+    "timestamp": "2021-03-23T00:44:10.169Z"
 }

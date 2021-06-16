@@ -98,9 +98,12 @@
         "CNI IV XL20"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1056 to 1106"
+    ],
     "hashed_id_s": [
         "09e741e7740384e3"
     ],
-    "_version_": 1674261183185551360,
-    "timestamp": "2020-08-06T07:44:49.360Z"
+    "_version_": 1684903324246081536,
+    "timestamp": "2020-12-01T18:57:05.965Z"
 }

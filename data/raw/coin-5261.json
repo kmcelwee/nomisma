@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Cent"
     ],
-    "issue_number_s": [
-        "2933"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -86,9 +83,12 @@
         "Breen  1310"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1787 to 1787"
+    ],
     "hashed_id_s": [
         "34f73fcc5b5d76c5"
     ],
-    "_version_": 1667138133512159232,
-    "timestamp": "2020-05-19T16:46:59.833Z"
+    "_version_": 1684902914383937536,
+    "timestamp": "2020-12-01T18:50:35.090Z"
 }

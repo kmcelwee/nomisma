@@ -32,16 +32,16 @@
         "4.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2954\",\"call_number_browse\":\"Coin 2954\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1662,
     "pub_date_end_sort": 1723,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1853"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,9 +82,12 @@
         "Jen 142 685"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1662 to 1723"
+    ],
     "hashed_id_s": [
         "c1acd13652988af6"
     ],
-    "_version_": 1667138479759294464,
-    "timestamp": "2020-05-19T16:52:30.041Z"
+    "_version_": 1684903302557335552,
+    "timestamp": "2020-12-01T18:56:45.282Z"
 }

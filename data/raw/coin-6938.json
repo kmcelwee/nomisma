@@ -35,6 +35,9 @@
         "2.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6938\",\"call_number_browse\":\"Coin 6938\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "5 pfennig"
-    ],
-    "issue_number_s": [
-        "3369"
     ],
     "issue_metal_s": [
         "Copper-nickel"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "4ec719f65e7b87d0"
     ],
-    "_version_": 1667145120675266560,
-    "timestamp": "2020-05-19T18:38:03.310Z"
+    "_version_": 1684903471941156864,
+    "timestamp": "2020-12-01T18:59:26.816Z"
 }

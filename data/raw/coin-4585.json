@@ -35,6 +35,12 @@
         "3.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4585\",\"call_number_browse\":\"Coin 4585\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2527"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +100,12 @@
         "Sear  494"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "eac4cbdb87035f59"
     ],
-    "_version_": 1667138405418401792,
-    "timestamp": "2020-05-19T16:51:19.144Z"
+    "_version_": 1684903273792798720,
+    "timestamp": "2020-12-01T18:56:17.849Z"
 }

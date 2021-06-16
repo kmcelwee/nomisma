@@ -35,8 +35,14 @@
         "4.03"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10944\",\"call_number_browse\":\"Coin 10944\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Youssef Mishriki; 10/29/2009"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7105"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 GNC LYW Type Ib1/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "e5d8cab29201f343"
     ],
-    "_version_": 1667138174238851072,
-    "timestamp": "2020-05-19T16:47:38.679Z"
+    "_version_": 1684903416056250368,
+    "timestamp": "2020-12-01T18:58:33.523Z"
 }

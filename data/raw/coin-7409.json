@@ -35,6 +35,12 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7409\",\"call_number_browse\":\"Coin 7409\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "575:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4635"
     ],
     "issue_metal_s": [
         "Silver"
@@ -109,6 +112,6 @@
     "hashed_id_s": [
         "caaa479a57c5a4f9"
     ],
-    "_version_": 1667138354693537792,
-    "timestamp": "2020-05-19T16:50:30.767Z"
+    "_version_": 1684903250497634304,
+    "timestamp": "2020-12-01T18:55:55.649Z"
 }

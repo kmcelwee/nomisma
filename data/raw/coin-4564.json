@@ -35,8 +35,11 @@
         "4.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4564\",\"call_number_browse\":\"Coin 4564\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "398: 1965-01-01 Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2519"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "Sear  488"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "145cdaea1a0b8510"
     ],
-    "_version_": 1667138498712305664,
-    "timestamp": "2020-05-19T16:52:48.115Z"
+    "_version_": 1684903310707916800,
+    "timestamp": "2020-12-01T18:56:53.053Z"
 }

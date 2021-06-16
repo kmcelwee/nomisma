@@ -50,6 +50,12 @@
         "6.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8399\",\"call_number_browse\":\"Coin 8399\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -38,
     "pub_date_end_sort": -37,
     "issue_object_type_s": [
@@ -105,9 +111,12 @@
         "From Vespasian to Domitian (AD 69\u201396)  4229"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-38 to -37"
+    ],
     "hashed_id_s": [
         "f0264349dc8ce027"
     ],
-    "_version_": 1671203305113518080,
-    "timestamp": "2020-07-03T13:41:09.584Z"
+    "_version_": 1684902960595730432,
+    "timestamp": "2020-12-01T18:51:19.161Z"
 }

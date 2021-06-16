@@ -35,8 +35,11 @@
         ".29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14868\",\"call_number_browse\":\"Coin 14868\"}}",
-    "donor_s": [
-        "Platt"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "679:  Platt"
     ],
     "pub_date_start_sort": 1178,
     "pub_date_end_sort": 1192,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "piccolo"
-    ],
-    "issue_number_s": [
-        "9131"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "Pap. 1 78, 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1178 to 1192"
+    ],
     "hashed_id_s": [
         "9f5c734295a81b58"
     ],
-    "_version_": 1667233348597055488,
-    "timestamp": "2020-05-20T18:00:24.015Z"
+    "_version_": 1684903340198068224,
+    "timestamp": "2020-12-01T18:57:21.177Z"
 }

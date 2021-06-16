@@ -35,6 +35,12 @@
         "1.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6791\",\"call_number_browse\":\"Coin 6791\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1365,
     "pub_date_end_sort": 1373,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "takvorin"
-    ],
-    "issue_number_s": [
-        "4200"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,12 @@
         "Nercessian  491v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1365 to 1373"
+    ],
     "hashed_id_s": [
         "b79b4fc8769383a0"
     ],
-    "_version_": 1667138365379575808,
-    "timestamp": "2020-05-19T16:50:40.958Z"
+    "_version_": 1684903546022002688,
+    "timestamp": "2020-12-01T19:00:37.467Z"
 }

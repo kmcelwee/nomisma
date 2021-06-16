@@ -35,8 +35,11 @@
         "12.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3207\",\"call_number_browse\":\"Coin 3207\"}}",
-    "donor_s": [
-        "Ernest DeWald"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "310: 2007-08-01 Ernest DeWald/Princeton University Museum"
     ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 64,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "dupondius"
-    ],
-    "issue_number_s": [
-        "1957"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -105,9 +105,12 @@
         "RIC.1. Nero 308"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 64"
+    ],
     "hashed_id_s": [
         "42ea7a7f46aa446e"
     ],
-    "_version_": 1667138435638362112,
-    "timestamp": "2020-05-19T16:51:47.965Z"
+    "_version_": 1684903284016414720,
+    "timestamp": "2020-12-01T18:56:27.598Z"
 }

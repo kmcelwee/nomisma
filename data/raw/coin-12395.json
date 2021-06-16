@@ -38,8 +38,11 @@
         "5.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12395\",\"call_number_browse\":\"Coin 12395\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 211,
     "pub_date_end_sort": 217,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "8326"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "BMC Corinth  662"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "211 to 217"
+    ],
     "hashed_id_s": [
         "55f2c472d144423a"
     ],
-    "_version_": 1667138304154271744,
-    "timestamp": "2020-05-19T16:49:42.570Z"
+    "_version_": 1684903153656397824,
+    "timestamp": "2020-12-01T18:54:23.277Z"
 }

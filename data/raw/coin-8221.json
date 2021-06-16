@@ -35,8 +35,11 @@
         "16.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8221\",\"call_number_browse\":\"Coin 8221\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -150,
     "pub_date_end_sort": -125,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5232"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "CNH 344 17"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-150 to -125"
+    ],
     "hashed_id_s": [
         "52f1d99ea9755e75"
     ],
-    "_version_": 1667138158504968192,
-    "timestamp": "2020-05-19T16:47:23.666Z"
+    "_version_": 1684902921246867456,
+    "timestamp": "2020-12-01T18:50:41.635Z"
 }

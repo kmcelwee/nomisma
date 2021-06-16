@@ -29,7 +29,7 @@
         "Part of obverse face indistinguishable"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "08/15/1935"
@@ -53,6 +53,12 @@
         "0.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2292\",\"call_number_browse\":\"Coin 2292\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -261,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "1499"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -123,9 +126,16 @@
         "ESM  524v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, lyre"
+    ],
+    "issue_date_s": [
+        "-278 to -261"
+    ],
     "hashed_id_s": [
         "090188cc84c76640"
     ],
-    "_version_": 1669833904913121280,
-    "timestamp": "2020-06-18T10:55:07.784Z"
+    "_version_": 1684903316439433216,
+    "timestamp": "2020-12-01T18:56:58.520Z"
 }

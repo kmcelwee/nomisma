@@ -38,6 +38,9 @@
         "4.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8774\",\"call_number_browse\":\"Coin 8774\"}}",
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5576"
     ],
     "issue_metal_s": [
         "Gold"
@@ -103,9 +103,12 @@
         "BL Michael VII 55/Cp/AU/05v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "ae2cc306fdc6053e"
     ],
-    "_version_": 1667138181752946688,
-    "timestamp": "2020-05-19T16:47:45.838Z"
+    "_version_": 1684903417595559936,
+    "timestamp": "2020-12-01T18:58:34.991Z"
 }

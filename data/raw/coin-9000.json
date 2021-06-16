@@ -41,8 +41,11 @@
         "3.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9000\",\"call_number_browse\":\"Coin 9000\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -98,9 +101,12 @@
         "Sellwood  47.9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "26bbdf26c9546d6f"
     ],
-    "_version_": 1672998004271874048,
-    "timestamp": "2020-07-23T09:07:08.071Z"
+    "_version_": 1684902919754743808,
+    "timestamp": "2020-12-01T18:50:40.212Z"
 }

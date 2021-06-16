@@ -38,8 +38,11 @@
         "4.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9379\",\"call_number_browse\":\"Coin 9379\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 1164,
     "pub_date_end_sort": 1167,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "aspron trachy nomisma"
-    ],
-    "issue_number_s": [
-        "5999"
     ],
     "issue_metal_s": [
         "Electrum"
@@ -106,9 +106,12 @@
         "BL Vol. 2; Manuel I 61/Cp/El/18"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1164 to 1167"
+    ],
     "hashed_id_s": [
         "6b9b65167a1c9f5e"
     ],
-    "_version_": 1667138149880430592,
-    "timestamp": "2020-05-19T16:47:15.441Z"
+    "_version_": 1684902917626134528,
+    "timestamp": "2020-12-01T18:50:38.182Z"
 }

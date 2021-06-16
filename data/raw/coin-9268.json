@@ -53,6 +53,9 @@
         "1.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9268\",\"call_number_browse\":\"Coin 9268\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -61,9 +64,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "5905"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -71,6 +71,6 @@
     "hashed_id_s": [
         "ec2ae31c2ad1e48a"
     ],
-    "_version_": 1667144975531376640,
-    "timestamp": "2020-05-19T18:35:44.890Z"
+    "_version_": 1684903022347419648,
+    "timestamp": "2020-12-01T18:52:18.050Z"
 }

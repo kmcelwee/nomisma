@@ -35,8 +35,11 @@
         "3.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1340\",\"call_number_browse\":\"Coin 1340\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 56,
     "pub_date_end_sort": 57,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "757"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "RPC.1  3828"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "56 to 57"
+    ],
     "hashed_id_s": [
         "be202c8b3f7fcfc6"
     ],
-    "_version_": 1667138462092886016,
-    "timestamp": "2020-05-19T16:52:13.193Z"
+    "_version_": 1684903221525479424,
+    "timestamp": "2020-12-01T18:55:28.003Z"
 }

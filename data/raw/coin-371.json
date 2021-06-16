@@ -35,8 +35,8 @@
         "1.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 371\",\"call_number_browse\":\"Coin 371\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -29,
     "pub_date_end_sort": -26,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "188"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +90,17 @@
         "BMC.1. Augustus 647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Caesar",
+        "Category, victory",
+        "Category, cista"
+    ],
+    "issue_date_s": [
+        "-29 to -26"
+    ],
     "hashed_id_s": [
         "289ae7bc897e0946"
     ],
-    "_version_": 1667138400597049344,
-    "timestamp": "2020-05-19T16:51:14.546Z"
+    "_version_": 1684903175323123712,
+    "timestamp": "2020-12-01T18:54:43.941Z"
 }

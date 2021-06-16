@@ -35,8 +35,14 @@
         "4.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10649\",\"call_number_browse\":\"Coin 10649\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Ponterio; 01/14/2006; 137 (1233)"
     ],
     "pub_date_start_sort": 271,
     "pub_date_end_sort": 273,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6810"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style A Type Ia/2a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "271 to 273"
+    ],
     "hashed_id_s": [
         "12daee99353dd5cd"
     ],
-    "_version_": 1667138283872714752,
-    "timestamp": "2020-05-19T16:49:23.227Z"
+    "_version_": 1684903027153043456,
+    "timestamp": "2020-12-01T18:52:22.635Z"
 }

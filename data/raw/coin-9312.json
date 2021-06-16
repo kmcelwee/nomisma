@@ -53,6 +53,9 @@
         "2.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9312\",\"call_number_browse\":\"Coin 9312\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 783,
     "pub_date_end_sort": 784,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5938"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +83,12 @@
         "Katalog der orientalischen M\u00fcnzen  2144-2145"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "783 to 784"
+    ],
     "hashed_id_s": [
         "3ec5291de44731aa"
     ],
-    "_version_": 1667138154195320832,
-    "timestamp": "2020-05-19T16:47:19.560Z"
+    "_version_": 1684902918780616704,
+    "timestamp": "2020-12-01T18:50:39.282Z"
 }

@@ -35,8 +35,14 @@
         "5.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10825\",\"call_number_browse\":\"Coin 10825\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Taimoor Hashmi; 12/05/2008"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6985"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +95,12 @@
         "SNS 3 Mint IX (\"Kabul\") Type II/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "50df4cca663ccda5"
     ],
-    "_version_": 1667138286484717568,
-    "timestamp": "2020-05-19T16:49:25.721Z"
+    "_version_": 1684903141845237760,
+    "timestamp": "2020-12-01T18:54:12.019Z"
 }

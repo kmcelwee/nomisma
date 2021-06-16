@@ -35,8 +35,8 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 769\",\"call_number_browse\":\"Coin 769\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "323"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +99,12 @@
         "Price  1375"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "97991b2d6c96e01d"
     ],
-    "_version_": 1667138204881387520,
-    "timestamp": "2020-05-19T16:48:07.896Z"
+    "_version_": 1684903441640456192,
+    "timestamp": "2020-12-01T18:58:57.921Z"
 }

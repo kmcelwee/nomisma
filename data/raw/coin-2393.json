@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/17/1938"
@@ -50,6 +50,12 @@
         "4.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2393\",\"call_number_browse\":\"Coin 2393\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1489"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,18 @@
         "Houghton  25"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod",
+        "Category, bow",
+        "Category, club"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "2e6f70acd16036eb"
     ],
-    "_version_": 1669833723217969152,
-    "timestamp": "2020-06-18T10:52:14.503Z"
+    "_version_": 1684903316388052992,
+    "timestamp": "2020-12-01T18:56:58.472Z"
 }

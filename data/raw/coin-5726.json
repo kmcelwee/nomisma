@@ -35,6 +35,15 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5726\",\"call_number_browse\":\"Coin 5726\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1929; $1"
+    ],
     "pub_date_start_sort": -62,
     "pub_date_end_sort": -62,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3267"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Aemilius Lepidus Paullus"
@@ -74,22 +83,31 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Concordia r., veiled and diademed; border of dots"
+        "wearing veil and diadem"
     ],
     "issue_obverse_legend_s": [
-        "to l., \u0393AVLLVS LE\u0393IDVS; to r., CONCORD"
+        "PAVLLVS\u00b7LEPIDVS CONCORD"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Puteal Scribonianum"
+    ],
+    "issue_reverse_symbol_s": [
+        "hammer at base"
     ],
     "issue_reverse_orientation_s": [
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "Puteal Scribonianum, with garland and two lyres; hammer at base; border of dots"
+        "decorated with garland and two lyres"
     ],
     "issue_reverse_legend_s": [
-        "above, \u0393VTEAL SCRIBON; below, LIBO"
+        "PVTEAL\u00b7SCRIBON LIBO"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  417/1a",
@@ -97,9 +115,12 @@
         "Sear  368"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-62 to -62"
+    ],
     "hashed_id_s": [
         "91f726930ca4168b"
     ],
-    "_version_": 1667138386936201216,
-    "timestamp": "2020-05-19T16:51:01.516Z"
+    "_version_": 1684903561776857088,
+    "timestamp": "2020-12-01T19:00:52.492Z"
 }

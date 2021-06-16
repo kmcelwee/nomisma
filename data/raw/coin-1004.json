@@ -35,8 +35,11 @@
         "0.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1004\",\"call_number_browse\":\"Coin 1004\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1434,
     "pub_date_end_sort": 1480,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sol coronat"
-    ],
-    "issue_number_s": [
-        "460"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "Robert  5973"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1434 to 1480"
+    ],
     "hashed_id_s": [
         "acaa7ad4904df344"
     ],
-    "_version_": 1667138206359879680,
-    "timestamp": "2020-05-19T16:48:09.306Z"
+    "_version_": 1684903093989277696,
+    "timestamp": "2020-12-01T18:53:26.376Z"
 }

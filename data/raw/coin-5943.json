@@ -32,8 +32,8 @@
         "63x73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5943\",\"call_number_browse\":\"Coin 5943\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "3 shillings and Sixpence"
-    ],
-    "issue_number_s": [
-        "3440"
     ],
     "issue_metal_s": [
         "Paper"
@@ -89,6 +86,6 @@
     "hashed_id_s": [
         "51b2ba0fb46481b9"
     ],
-    "_version_": 1667138241061453824,
-    "timestamp": "2020-05-19T16:48:42.400Z"
+    "_version_": 1684903113483354112,
+    "timestamp": "2020-12-01T18:53:44.967Z"
 }

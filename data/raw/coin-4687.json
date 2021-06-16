@@ -35,6 +35,15 @@
         "1.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4687\",\"call_number_browse\":\"Coin 4687\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Baldwin's Auctions, London; 1926; $5"
+    ],
     "pub_date_start_sort": -43,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "quinarius"
-    ],
-    "issue_number_s": [
-        "2548"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +97,12 @@
         "Sear  1441"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-43 to -42"
+    ],
     "hashed_id_s": [
         "c04af7c5e6f4d412"
     ],
-    "_version_": 1667138238503976960,
-    "timestamp": "2020-05-19T16:48:39.960Z"
+    "_version_": 1684903002152894464,
+    "timestamp": "2020-12-01T18:51:58.794Z"
 }

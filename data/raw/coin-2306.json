@@ -35,8 +35,8 @@
         "0.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2306\",\"call_number_browse\":\"Coin 2306\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_accession_s": [
+        "274:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "twopence"
-    ],
-    "issue_number_s": [
-        "1482"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +87,12 @@
         "Noe  29"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Place, London  England  Great Britain"
+    ],
     "hashed_id_s": [
         "18b158ffd567a2a3"
     ],
-    "_version_": 1667138473836937216,
-    "timestamp": "2020-05-19T16:52:24.392Z"
+    "_version_": 1684903299600351232,
+    "timestamp": "2020-12-01T18:56:42.461Z"
 }

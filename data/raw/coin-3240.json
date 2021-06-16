@@ -53,6 +53,9 @@
         "4.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3240\",\"call_number_browse\":\"Coin 3240\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1101,
     "pub_date_end_sort": 1112,
     "issue_object_type_s": [
@@ -106,9 +109,12 @@
         "Malloy p. 200 6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1101 to 1112"
+    ],
     "hashed_id_s": [
         "041fcfa4e9ff9ba8"
     ],
-    "_version_": 1674170546269454336,
-    "timestamp": "2020-08-05T07:44:11.263Z"
+    "_version_": 1684903233829470208,
+    "timestamp": "2020-12-01T18:55:39.737Z"
 }

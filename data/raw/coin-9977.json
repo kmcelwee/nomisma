@@ -105,9 +105,12 @@
         "DOC Basil I to Nicepherous III I.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1084 to 1098"
+    ],
     "hashed_id_s": [
         "9f3f2202887936be"
     ],
-    "_version_": 1674261120840368128,
-    "timestamp": "2020-08-06T07:43:49.905Z"
+    "_version_": 1684903497701523456,
+    "timestamp": "2020-12-01T18:59:51.386Z"
 }

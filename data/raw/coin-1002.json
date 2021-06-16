@@ -35,8 +35,11 @@
         "2.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1002\",\"call_number_browse\":\"Coin 1002\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1515,
     "pub_date_end_sort": 1547,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "douzain"
-    ],
-    "issue_number_s": [
-        "2334"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +83,12 @@
         "Lafaurie  694"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1515 to 1547"
+    ],
     "hashed_id_s": [
         "8858ae602d5b8edd"
     ],
-    "_version_": 1667138231710253056,
-    "timestamp": "2020-05-19T16:48:33.483Z"
+    "_version_": 1684903110182436864,
+    "timestamp": "2020-12-01T18:53:41.819Z"
 }

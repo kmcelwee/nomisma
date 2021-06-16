@@ -2,7 +2,7 @@
     "id": "coin-8059",
     "title_display": "Coin: 8059",
     "pub_created_display": [
-        "Constantine II, Heraclea"
+        "Constantine II   (337 to 340), Heraclea"
     ],
     "call_number_display": [
         "Coin 8059"
@@ -58,14 +58,11 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "5090"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Heraclea, Thrace, Roman Empire"
@@ -118,6 +115,6 @@
     "hashed_id_s": [
         "7ca9ccd68c5fe6b0"
     ],
-    "_version_": 1667138349250379776,
-    "timestamp": "2020-05-19T16:50:25.579Z"
+    "_version_": 1683105451146739712,
+    "timestamp": "2020-11-11T22:40:40.565Z"
 }

@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "7/10/1939"
+        "1939-07-10"
     ],
     "find_feature_s": [
-        "Bath F. Trench from Tethys pool to apse, section 2. pavement level."
+        "Trench from Tethys pool to apse, section 2, pavement level"
     ],
     "find_locus_s": [
-        "13-R"
+        "A 13-R"
     ],
     "find_number_s": [
         "Cc2460"
@@ -50,6 +50,12 @@
         "1.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12211\",\"call_number_browse\":\"Coin 12211\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4449"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,10 +92,10 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "diademed"
+        "rosette-diademed, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI-NVS MAX AVG"
+        "CONSTANTI-NVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -110,15 +113,18 @@
         "each holding reversed spear and resting hand on shield set on ground; between them, two standards"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERCITVS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 693 86"
+        "RIC VII Antioch 86"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "0193cf92ad7140ac"
     ],
-    "_version_": 1667145454841757696,
-    "timestamp": "2020-05-19T18:43:21.996Z"
+    "_version_": 1691974222875721728,
+    "timestamp": "2021-02-17T20:06:00.378Z"
 }

@@ -38,8 +38,14 @@
         "0.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10564\",\"call_number_browse\":\"Coin 10564\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Rudnik Numismatics; 10/27/2000"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7890"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 1 Phase 3 Group  /Mint C )\"Ctesiphon) Type V/3a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "726ede4d2aac78c1"
     ],
-    "_version_": 1667138126811758592,
-    "timestamp": "2020-05-19T16:46:53.442Z"
+    "_version_": 1684903656701296640,
+    "timestamp": "2020-12-01T19:02:23.027Z"
 }

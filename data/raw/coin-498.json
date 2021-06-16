@@ -35,8 +35,11 @@
         "16.58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 498\",\"call_number_browse\":\"Coin 498\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "40:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -320,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "225"
     ],
     "issue_metal_s": [
         "Silver"
@@ -101,9 +101,12 @@
         "Price  113"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -320"
+    ],
     "hashed_id_s": [
         "1c9868e70d3ac305"
     ],
-    "_version_": 1667145312253247488,
-    "timestamp": "2020-05-19T18:42:23.227Z"
+    "_version_": 1684903439101853696,
+    "timestamp": "2020-12-01T18:58:55.500Z"
 }

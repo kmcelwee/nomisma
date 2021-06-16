@@ -38,6 +38,12 @@
         "3.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11961\",\"call_number_browse\":\"Coin 11961\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 171,
     "pub_date_end_sort": 138,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8017"
     ],
     "issue_metal_s": [
         "Silver"
@@ -83,9 +86,12 @@
         "Sellwood  11.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "171 to 138"
+    ],
     "hashed_id_s": [
         "8bd5aec968a24cae"
     ],
-    "_version_": 1667138299366473728,
-    "timestamp": "2020-05-19T16:49:38.004Z"
+    "_version_": 1684903040609419264,
+    "timestamp": "2020-12-01T18:52:35.471Z"
 }

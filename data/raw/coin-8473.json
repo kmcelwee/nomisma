@@ -29,10 +29,10 @@
         "4/18/1935"
     ],
     "find_feature_s": [
-        "Bottom of orchestra gutter"
+        "Orchestra gutter, bottom"
     ],
     "find_locus_s": [
-        "20N-D-H"
+        "DH 20-N"
     ],
     "find_number_s": [
         "C4520"
@@ -47,6 +47,12 @@
         "23.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8473\",\"call_number_browse\":\"Coin 8473\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 103,
     "pub_date_end_sort": 111,
     "issue_object_type_s": [
@@ -54,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "5393"
     ],
     "issue_metal_s": [
         "Orichalcum"
@@ -95,12 +98,15 @@
         "S.P.Q.R.OPTIMO PRINCIPI - S.C."
     ],
     "issue_references_s": [
-        "RIC 2 280 503"
+        "RIC II Trajan 503"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "103 to 111"
+    ],
     "hashed_id_s": [
         "94204c791a119066"
     ],
-    "_version_": 1667138182351683584,
-    "timestamp": "2020-05-19T16:47:46.410Z"
+    "_version_": 1689432021324005376,
+    "timestamp": "2021-01-20T18:38:48.048Z"
 }

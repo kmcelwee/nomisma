@@ -41,8 +41,11 @@
         "0.93"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13268\",\"call_number_browse\":\"Coin 13268\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8601"
     ],
     "issue_metal_s": [
         "Billon"
@@ -108,6 +108,6 @@
     "hashed_id_s": [
         "a1717f627cf9bc68"
     ],
-    "_version_": 1667138318687535104,
-    "timestamp": "2020-05-19T16:49:56.431Z"
+    "_version_": 1684903164061417472,
+    "timestamp": "2020-12-01T18:54:33.201Z"
 }

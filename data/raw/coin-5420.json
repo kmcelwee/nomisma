@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin. Size: 19 mm.  Weight: 3.23 g. Die axis indeterminate since obverse is obliterated and has green patina.  Part of the S in SC is legible and traces of plain circle and wreath also visible."
+        "Fragment, half coin. Part of the S in SC is legible and traces of plain circle and wreath also visible."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,16 +34,28 @@
     "find_date_s": [
         "05/02/1935"
     ],
-    "find_feature_s": [
-        "E. wall"
-    ],
     "find_locus_s": [
-        "23/24-N"
+        "A 23/24-N"
     ],
     "find_description_s": [
-        "Surface E"
+        "E. wall, E. surface"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "19"
+    ],
+    "weight_s": [
+        "3.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5420\",\"call_number_browse\":\"Coin 5420\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "359:  Antioch Excavation"
+    ],
     "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -52,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1876"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -79,19 +91,22 @@
     "issue_obverse_figure_description_s": [
         "obliterated"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "unidentifiable due to illegibility of legend"
-    ],
     "issue_reverse_figure_s": [
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "S.C. usually enclosed in plain circle surrounded by laurel wreath"
+        "in plain circle, surrounded by laurel wreath"
+    ],
+    "issue_references_s": [
+        "Waage  870"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "f88f01f806f20142"
     ],
-    "_version_": 1667138480827793408,
-    "timestamp": "2020-05-19T16:52:31.058Z"
+    "_version_": 1684903693385728000,
+    "timestamp": "2020-12-01T19:02:58.006Z"
 }

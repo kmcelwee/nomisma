@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "double tournois"
     ],
-    "issue_number_s": [
-        "619"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -80,9 +77,12 @@
         "KM 17th edition 61.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1610 to 1635"
+    ],
     "hashed_id_s": [
         "c01a8feb7fecb451"
     ],
-    "_version_": 1667138208509460480,
-    "timestamp": "2020-05-19T16:48:11.357Z"
+    "_version_": 1684903418311737344,
+    "timestamp": "2020-12-01T18:58:35.672Z"
 }

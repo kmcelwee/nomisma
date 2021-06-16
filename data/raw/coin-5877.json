@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Die axis uncertain(~12)  since obverse is obliterated. No accesion number given. Notes: Antioch autonomous 55 - 58 A.D.; plus an encircled \"2.\""
+        "No accesion number given. Notes: Antioch autonomous 55 - 58 A.D.; plus an encircled \"2.\""
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,11 +34,14 @@
     "find_date_s": [
         "07/02/1935"
     ],
-    "find_feature_s": [
+    "find_locus_s": [
+        "A 27-O"
+    ],
+    "find_description_s": [
         "Dump"
     ],
-    "find_locus_s": [
-        "27-D"
+    "die_axis_s": [
+        "12"
     ],
     "size_s": [
         "19"
@@ -47,6 +50,12 @@
         "5.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5877\",\"call_number_browse\":\"Coin 5877\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
     "issue_object_type_s": [
@@ -55,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1811"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Caesarian"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -86,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled, turreted, draped bust of the city goddess, Tyche"
+        "veiled, turreted, draped bust"
     ],
     "issue_obverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d"
@@ -101,10 +113,7 @@
         "facing, head to left"
     ],
     "issue_reverse_figure_description_s": [
-        "crescent enclosing a star above center"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "crecent and star located above ram"
+        "crescent enclosing a star above ram"
     ],
     "issue_reverse_legend_s": [
         "\u0395\u03a0\u0399 \u039a\u039f\u03a5\u0391\u0394P\u0391\u03a4\u039f\u03a5"
@@ -113,9 +122,12 @@
         "RPC.1  4287"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "ca2f15295dc01314"
     ],
-    "_version_": 1667138479850520576,
-    "timestamp": "2020-05-19T16:52:30.129Z"
+    "_version_": 1684903692603490304,
+    "timestamp": "2020-12-01T19:02:57.259Z"
 }

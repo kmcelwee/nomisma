@@ -35,8 +35,11 @@
         "10.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1632\",\"call_number_browse\":\"Coin 1632\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 55,
     "pub_date_end_sort": 56,
@@ -95,9 +98,12 @@
         "RPC.1  4616"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "55 to 56"
+    ],
     "hashed_id_s": [
         "1004b92ef792e0e7"
     ],
-    "_version_": 1673361751981162496,
-    "timestamp": "2020-07-27T09:28:44.920Z"
+    "_version_": 1684902896141860864,
+    "timestamp": "2020-12-01T18:50:17.692Z"
 }

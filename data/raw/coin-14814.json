@@ -35,22 +35,25 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14814\",\"call_number_browse\":\"Coin 14814\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -75,
+    "pub_date_end_sort": -75,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9095"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_edge_s": [
         "milled"
@@ -74,48 +77,54 @@
         "Libertas"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
         "draped and wearing diadem"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "behind, pileus"
-    ],
     "issue_obverse_legend_s": [
         "MAXSVMVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "pileus and inscription, behind"
     ],
     "issue_reverse_figure_s": [
         "Roma and Venus"
     ],
     "issue_reverse_symbol_s": [
-        "r"
+        "R on l."
     ],
     "issue_reverse_part_s": [
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "standing"
+        "front"
     ],
     "issue_reverse_figure_description_s": [
-        "holding sword and perched Cupid"
-    ],
-    "issue_reverse_figure_relationship_s": [
-        "stepping on wolf piloting boat with rudder"
+        "Roma places l. foot on wolf's head; Venus has Cupid about to alight on shoulder"
     ],
     "issue_reverse_legend_s": [
-        "C.EGNATIUS.CN.F. CN.N"
+        "C\u00b7EGNATIVS\u00b7CN\u00b7F CN\u00b7N"
+    ],
+    "issue_reverse_attributes_s": [
+        "staff, in each's r. hand",
+        "sword, in Roma's l. hand",
+        "rudder standing on prow, on either side",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  391-3"
+        "RRC  391/3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-75 to -75"
+    ],
     "hashed_id_s": [
         "b44938d81c403286"
     ],
-    "_version_": 1667307750721323008,
-    "timestamp": "2020-05-21T13:42:59.407Z"
+    "_version_": 1684903691430133760,
+    "timestamp": "2020-12-01T19:02:56.140Z"
 }

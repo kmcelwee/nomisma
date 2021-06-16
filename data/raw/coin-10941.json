@@ -38,8 +38,14 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10941\",\"call_number_browse\":\"Coin 10941\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Pegasi Numismatics, Ann Arbor, MI; 11/24/2006; A21 (230)"
     ],
     "pub_date_start_sort": 399,
     "pub_date_end_sort": 420,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7102"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 DA for LWDY Type Ib2/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "399 to 420"
+    ],
     "hashed_id_s": [
         "488f745f8a86ed2d"
     ],
-    "_version_": 1667138174359437312,
-    "timestamp": "2020-05-19T16:47:38.787Z"
+    "_version_": 1684902950859702272,
+    "timestamp": "2020-12-01T18:51:09.875Z"
 }

@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment; half coin (left side of obverse).  Weight as is:  3.98 g. Die axis: ~ 12. On obverse, legend should probably be [IM TI CLA CAE] on the missing right half with AV GER clearly visible on specimen. Notes: a1500-1501 out; a1502 Claudius."
+        "Coin cut in half. On obverse, legend should probably be [IM TI CLA CAE] on the missing right half, with AV GER clearly visible on specimen. Notes: a1500-1501 out; a1502 Claudius."
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -34,17 +34,14 @@
     "find_date_s": [
         "05/19/1937"
     ],
-    "find_feature_s": [
-        "Trench NE of lion mosaic room N to 5.50M"
-    ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
         "Ca1502"
     ],
     "find_description_s": [
-        "Basket N."
+        "Trench NE. of Lion mosaic, room N, to 5m (basket N)"
     ],
     "die_axis_s": [
         "12"
@@ -52,7 +49,16 @@
     "size_s": [
         "20"
     ],
+    "weight_s": [
+        "3.98"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2291\",\"call_number_browse\":\"Coin 2291\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 41,
     "pub_date_end_sort": 54,
     "issue_object_type_s": [
@@ -61,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1350"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Claudius (41 to 54)"
@@ -92,27 +98,27 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate; border of dots enclosing legend"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IMP TI CLA CAE AV GER"
     ],
     "issue_reverse_figure_s": [
-        "S C in wreath"
+        "S.C."
     ],
     "issue_reverse_figure_description_s": [
         "laurel wreath of eight leaves"
-    ],
-    "issue_reverse_legend_s": [
-        "S C"
     ],
     "issue_references_s": [
         "RPC.1  4280v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "41 to 54"
+    ],
     "hashed_id_s": [
         "8b0f22d32a26b2e6"
     ],
-    "_version_": 1667138217065840640,
-    "timestamp": "2020-05-19T16:48:19.517Z"
+    "_version_": 1684903685184815104,
+    "timestamp": "2020-12-01T19:02:50.185Z"
 }

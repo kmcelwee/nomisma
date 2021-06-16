@@ -23,13 +23,13 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3584\",\"call_number_browse\":\"Coin 3584\"}}",
+    "numismatic_collection_s": [
+        "Savage"
+    ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1914,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2115"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -68,9 +68,18 @@
         "Henri E. Allouard, H Allouard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Battle of Yser    Oct 16 1914 12:00AM",
+        "Other Person, Ronarc'h, Pierre-Alexis",
+        "Other Person, Foch, Ferdinand"
+    ],
+    "issue_date_s": [
+        "1914 to 1914"
+    ],
     "hashed_id_s": [
         "98d39e22e8ca8951"
     ],
-    "_version_": 1667145476331274240,
-    "timestamp": "2020-05-19T18:59:22.403Z"
+    "_version_": 1684902925874233344,
+    "timestamp": "2020-12-01T18:50:46.047Z"
 }

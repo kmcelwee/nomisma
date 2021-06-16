@@ -35,8 +35,11 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1776\",\"call_number_browse\":\"Coin 1776\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1158"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,10 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma-head r..; behind, X."
+        "helmeted; behind, legend."
+    ],
+    "issue_obverse_legend_s": [
+        "X"
     ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Victory"
@@ -92,13 +95,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Victory r. in biga, w/ whip in r. hand and reins in l. hand. Legends below, ROMA in exergue."
+        "in biga, holding whip in r. hand and reins in l. hand; below, NATTA; legend in exergue."
     ],
     "issue_reverse_legend_s": [
-        "NATTA; ROMA"
+        "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border",
+        "border, line",
         "m91, Monogram"
     ],
     "issue_references_s": [
@@ -107,9 +110,12 @@
         "Sear  89"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "7d954deaaa9dd7bd"
     ],
-    "_version_": 1667138415892627456,
-    "timestamp": "2020-05-19T16:51:29.132Z"
+    "_version_": 1684903190615556096,
+    "timestamp": "2020-12-01T18:54:58.524Z"
 }

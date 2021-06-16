@@ -29,8 +29,11 @@
         "74x96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7166\",\"call_number_browse\":\"Coin 7166\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "3: 1923-01-01 unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "4 dollars"
-    ],
-    "issue_number_s": [
-        "4486"
     ],
     "issue_metal_s": [
         "Paper"
@@ -80,6 +80,6 @@
     "hashed_id_s": [
         "77e39d6a02df5853"
     ],
-    "_version_": 1667138356668006400,
-    "timestamp": "2020-05-19T16:50:32.651Z"
+    "_version_": 1684903542064676864,
+    "timestamp": "2020-12-01T19:00:33.692Z"
 }

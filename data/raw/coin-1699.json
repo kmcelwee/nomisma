@@ -35,8 +35,11 @@
         "5.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1699\",\"call_number_browse\":\"Coin 1699\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
@@ -46,9 +49,6 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1090"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -56,13 +56,16 @@
         "Nero (54 to 68)"
     ],
     "issue_place_s": [
-        "Ascalon, Syria"
+        "Ascalon, Judaea, Roman Empire"
     ],
     "issue_city_s": [
         "Ascalon"
     ],
+    "issue_state_s": [
+        "Judaea"
+    ],
     "issue_region_s": [
-        "Syria"
+        "Roman Empire"
     ],
     "issue_obverse_figure_s": [
         "Nero"
@@ -98,9 +101,12 @@
         "RPC.1  4889"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "3fa6cee459209780"
     ],
-    "_version_": 1667138415004483584,
-    "timestamp": "2020-05-19T16:51:28.283Z"
+    "_version_": 1684903188247871488,
+    "timestamp": "2020-12-01T18:54:56.266Z"
 }

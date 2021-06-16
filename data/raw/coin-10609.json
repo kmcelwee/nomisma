@@ -35,6 +35,15 @@
         "2.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10609\",\"call_number_browse\":\"Coin 10609\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1930; $5.10"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "6771"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,6 +98,6 @@
     "hashed_id_s": [
         "196abbbe9dcbc360"
     ],
-    "_version_": 1667138179515285504,
-    "timestamp": "2020-05-19T16:47:43.705Z"
+    "_version_": 1684902957949124608,
+    "timestamp": "2020-12-01T18:51:16.638Z"
 }

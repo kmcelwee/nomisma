@@ -29,16 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5-29-1936"
-    ],
-    "find_feature_s": [
-        "Dig IV center"
+        "05/29/1936"
     ],
     "find_locus_s": [
-        "16-P"
+        "A 16-P"
     ],
     "find_description_s": [
-        "under s pipes 1.7m under lower level of floor"
+        "Dig IV center, under S. pipes, 1.7m under lower level of floor"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +47,12 @@
         "7.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2070\",\"call_number_browse\":\"Coin 2070\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 54,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
@@ -58,11 +61,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "1361"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Nero (54 to 68)"
@@ -89,7 +92,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate, field in front obliterated"
+        "laureate"
     ],
     "issue_obverse_legend_s": [
         "IM NER CLAV CAESAR"
@@ -98,15 +101,18 @@
         "S.C."
     ],
     "issue_reverse_figure_description_s": [
-        "in wreath"
+        "in a laurel wreath of eight leaves"
     ],
     "issue_references_s": [
-        "RPC.1 pp.628-629, SC series (uncertain) "
+        "RPC.1  4310v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "54 to 68"
+    ],
     "hashed_id_s": [
         "2badc7cf4d05da48"
     ],
-    "_version_": 1667138471797456896,
-    "timestamp": "2020-05-19T16:52:22.448Z"
+    "_version_": 1684903688579055616,
+    "timestamp": "2020-12-01T19:02:53.419Z"
 }

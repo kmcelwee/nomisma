@@ -35,8 +35,11 @@
         "3.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2027\",\"call_number_browse\":\"Coin 2027\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "1343"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,13 +77,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Roma head r. in Phrygian helmet; XVI monogram before,  legend downwards behind."
+        "wearing Phrygian helmet; before, XVI monogram (X, crossed); behind, ROMA downwards."
     ],
     "issue_obverse_legend_s": [
-        "ROMA"
+        "ROMA X (crossed)"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dots",
+        "border, dotted",
         "m77, XVI monogram"
     ],
     "issue_reverse_figure_s": [
@@ -96,13 +96,13 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter l. in elephant biga, crowned by flying Victory at above r.; in l. hand, thunderbolt; in r. hand, reins. Legend in exergue."
+        "in elephant biga, crowned by flying Victory at above r.; holding thunderbolt in l. hand and reins in r. hand; legend in exergue."
     ],
     "issue_reverse_legend_s": [
         "C METELLVS"
     ],
     "issue_reverse_attributes_s": [
-        "border, Dots",
+        "border, dotted",
         "m85, Monogram"
     ],
     "issue_references_s": [
@@ -111,9 +111,12 @@
         "Sear  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "5db77e8aa3408af3"
     ],
-    "_version_": 1667138216758607872,
-    "timestamp": "2020-05-19T16:48:19.224Z"
+    "_version_": 1684903100514566144,
+    "timestamp": "2020-12-01T18:53:32.598Z"
 }

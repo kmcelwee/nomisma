@@ -35,16 +35,16 @@
         "2.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1363\",\"call_number_browse\":\"Coin 1363\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1908,
     "pub_date_end_sort": 1911,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "746"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,9 +75,12 @@
         "Jen 292 1713"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1908 to 1911"
+    ],
     "hashed_id_s": [
         "a68ec012a5f25db8"
     ],
-    "_version_": 1667138210775433216,
-    "timestamp": "2020-05-19T16:48:13.519Z"
+    "_version_": 1684902975251677184,
+    "timestamp": "2020-12-01T18:51:33.137Z"
 }

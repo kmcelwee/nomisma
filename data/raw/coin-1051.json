@@ -35,6 +35,12 @@
         "7.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1051\",\"call_number_browse\":\"Coin 1051\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "36:  "
+    ],
     "pub_date_start_sort": 64,
     "pub_date_end_sort": 66,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "505"
     ],
     "issue_metal_s": [
         "Gold"
@@ -102,9 +105,12 @@
         "Sear  1928"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "64 to 66"
+    ],
     "hashed_id_s": [
         "7356702d4274cc2b"
     ],
-    "_version_": 1667138207244877824,
-    "timestamp": "2020-05-19T16:48:10.149Z"
+    "_version_": 1684903444291256320,
+    "timestamp": "2020-12-01T18:59:00.448Z"
 }

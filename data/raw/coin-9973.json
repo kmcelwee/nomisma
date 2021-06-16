@@ -105,9 +105,12 @@
         "Schl.  VI23"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1267 to 1284"
+    ],
     "hashed_id_s": [
         "bfc0b58fe302b8ae"
     ],
-    "_version_": 1674257626653786112,
-    "timestamp": "2020-08-06T06:48:17.587Z"
+    "_version_": 1684903321164316672,
+    "timestamp": "2020-12-01T18:57:03.025Z"
 }

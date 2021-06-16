@@ -38,6 +38,16 @@
         "3.538"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4262\",\"call_number_browse\":\"Coin 4262\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "400: 2008-04-02 LHS Numismatik"
+    ],
+    "numismatic_provenance_s": [
+        "K\u00fcnker, Osnabr\u00fcck; G.W. de Wit; 3/11/2008; Lot 3991",
+        "WAG, Dortmund; 1997; auction 9, no. 4"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -45,9 +55,6 @@
     ],
     "issue_denomination_s": [
         "ducat"
-    ],
-    "issue_number_s": [
-        "2411"
     ],
     "issue_metal_s": [
         "Gold"
@@ -83,6 +90,6 @@
     "hashed_id_s": [
         "38e3b0641cc71d0e"
     ],
-    "_version_": 1667138404878385152,
-    "timestamp": "2020-05-19T16:51:18.628Z"
+    "_version_": 1684903179124211712,
+    "timestamp": "2020-12-01T18:54:47.565Z"
 }

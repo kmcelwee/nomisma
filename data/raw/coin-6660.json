@@ -38,8 +38,11 @@
         "7.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6660\",\"call_number_browse\":\"Coin 6660\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Baranowsky, Rome; Feb. 1959; $15"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "4084"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "F-B  904"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "c52408bd7338ceb1"
     ],
-    "_version_": 1667138368800030720,
-    "timestamp": "2020-05-19T16:50:44.222Z"
+    "_version_": 1684903107149955072,
+    "timestamp": "2020-12-01T18:53:38.926Z"
 }

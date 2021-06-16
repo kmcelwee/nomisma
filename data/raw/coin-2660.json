@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "1678"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -82,6 +79,6 @@
     "hashed_id_s": [
         "f158355b8a61a721"
     ],
-    "_version_": 1667138424421744640,
-    "timestamp": "2020-05-19T16:51:37.265Z"
+    "_version_": 1683105130721837056,
+    "timestamp": "2020-11-11T22:35:34.985Z"
 }

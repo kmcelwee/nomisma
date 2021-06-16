@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "sestertius"
     ],
-    "issue_number_s": [
-        "6690"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -92,9 +89,12 @@
         "Roman Imperial Coinage  261"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 68"
+    ],
     "hashed_id_s": [
         "8214d652feaa5e1c"
     ],
-    "_version_": 1667138180541841408,
-    "timestamp": "2020-05-19T16:47:44.682Z"
+    "_version_": 1684902958436712448,
+    "timestamp": "2020-12-01T18:51:17.101Z"
 }

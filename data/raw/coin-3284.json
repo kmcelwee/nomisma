@@ -32,8 +32,11 @@
         "108x58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3284\",\"call_number_browse\":\"Coin 3284\"}}",
-    "donor_s": [
-        "Anonymous Class of '64"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "368: 1958-07-01 Anonymous Class of '64"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "6 pounds"
-    ],
-    "issue_number_s": [
-        "1991"
     ],
     "issue_master_s": [
         "Isaac Collins ( to 1817)"
@@ -83,9 +83,13 @@
         "Newman p. 253"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "f278022a3dd946e1"
     ],
-    "_version_": 1667138436760338432,
-    "timestamp": "2020-05-19T16:51:49.034Z"
+    "_version_": 1684903284218789888,
+    "timestamp": "2020-12-01T18:56:27.791Z"
 }

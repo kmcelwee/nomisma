@@ -35,8 +35,14 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10627\",\"call_number_browse\":\"Coin 10627\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Mohsin Shaikh; 09/12/2010"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6789"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SNS 1 Style E/a Type IIc/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "5eda327e2221c3de"
     ],
-    "_version_": 1667138179387359232,
-    "timestamp": "2020-05-19T16:47:43.585Z"
+    "_version_": 1684902957530742784,
+    "timestamp": "2020-12-01T18:51:16.239Z"
 }

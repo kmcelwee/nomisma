@@ -41,6 +41,12 @@
         "38.15"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5753\",\"call_number_browse\":\"Coin 5753\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -211,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "teruncius"
-    ],
-    "issue_number_s": [
-        "3289"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -84,9 +87,12 @@
         "Syd.  140"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-300 to -211"
+    ],
     "hashed_id_s": [
         "052156855a53bcfd"
     ],
-    "_version_": 1667138386323832832,
-    "timestamp": "2020-05-19T16:51:01.031Z"
+    "_version_": 1684903125413003264,
+    "timestamp": "2020-12-01T18:53:56.343Z"
 }

@@ -35,8 +35,11 @@
         "11.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3877\",\"call_number_browse\":\"Coin 3877\"}}",
-    "donor_s": [
-        "Burbules"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "393: 1998-01-01 Burbules"
     ],
     "pub_date_start_sort": -25,
     "pub_date_end_sort": -20,
@@ -107,9 +110,12 @@
         "BMC.1.  696"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-25 to -20"
+    ],
     "hashed_id_s": [
         "3ab632eb22c4ec93"
     ],
-    "_version_": 1674369312534560768,
-    "timestamp": "2020-08-07T12:23:29.542Z"
+    "_version_": 1684903333656002560,
+    "timestamp": "2020-12-01T18:57:14.939Z"
 }

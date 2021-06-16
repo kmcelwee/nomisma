@@ -38,8 +38,11 @@
         "7.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6160\",\"call_number_browse\":\"Coin 6160\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Fallani, Rome; Nov. 14 1962; $16.50"
     ],
     "pub_date_start_sort": -390,
     "pub_date_end_sort": -380,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3609"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Vlasto Coll.  418-20 var."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-390 to -380"
+    ],
     "hashed_id_s": [
         "60f093ecaddca757"
     ],
-    "_version_": 1667138376334049280,
-    "timestamp": "2020-05-19T16:50:51.405Z"
+    "_version_": 1684903259764948992,
+    "timestamp": "2020-12-01T18:56:04.471Z"
 }

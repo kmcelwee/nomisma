@@ -35,8 +35,11 @@
         "5.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 364\",\"call_number_browse\":\"Coin 364\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 1861,
     "pub_date_end_sort": 1861,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "5 piastre"
-    ],
-    "issue_number_s": [
-        "187"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "wreath, in border"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1861 to 1861"
+    ],
     "hashed_id_s": [
         "09a37d3f1bf55e5c"
     ],
-    "_version_": 1667138403187032064,
-    "timestamp": "2020-05-19T16:51:17.014Z"
+    "_version_": 1684903177305980928,
+    "timestamp": "2020-12-01T18:54:45.832Z"
 }

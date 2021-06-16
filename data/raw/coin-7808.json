@@ -35,6 +35,12 @@
         "4.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7808\",\"call_number_browse\":\"Coin 7808\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "101: 2005-01-14 Harlan J. Berk"
+    ],
     "pub_date_start_sort": 1221,
     "pub_date_end_sort": 1254,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "4871"
     ],
     "issue_metal_s": [
         "Gold"
@@ -100,9 +103,12 @@
         "Sear  2072"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1221 to 1254"
+    ],
     "hashed_id_s": [
         "d458252cea6c090f"
     ],
-    "_version_": 1667138261222424576,
-    "timestamp": "2020-05-19T16:49:01.629Z"
+    "_version_": 1684903131023933440,
+    "timestamp": "2020-12-01T18:54:01.694Z"
 }

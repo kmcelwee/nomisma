@@ -38,6 +38,12 @@
         "6.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3536\",\"call_number_browse\":\"Coin 3536\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "371: 1999-06-20 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "2071"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +105,12 @@
         "BMC.1.  73"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "0958012317197008"
     ],
-    "_version_": 1667138439899774976,
-    "timestamp": "2020-05-19T16:51:52.026Z"
+    "_version_": 1684903209118728192,
+    "timestamp": "2020-12-01T18:55:16.172Z"
 }

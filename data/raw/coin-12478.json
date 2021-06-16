@@ -35,6 +35,12 @@
         "3.4"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12478\",\"call_number_browse\":\"Coin 12478\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -87,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Dichalkoi"
-    ],
-    "issue_number_s": [
-        "8349"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +96,12 @@
         "Shore  118"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -87"
+    ],
     "hashed_id_s": [
         "837be91070baf350"
     ],
-    "_version_": 1667138341969068032,
-    "timestamp": "2020-05-19T16:50:18.634Z"
+    "_version_": 1684903530089938944,
+    "timestamp": "2020-12-01T19:00:22.273Z"
 }

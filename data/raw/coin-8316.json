@@ -50,13 +50,16 @@
         "1.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8316\",\"call_number_browse\":\"Coin 8316\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 364,
     "pub_date_end_sort": 367,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5308"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,9 +117,12 @@
         "RIC.9 p.275 12B."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "364 to 367"
+    ],
     "hashed_id_s": [
         "0044de26339a0fd7"
     ],
-    "_version_": 1667138347104993280,
-    "timestamp": "2020-05-19T16:50:23.532Z"
+    "_version_": 1684903066888830976,
+    "timestamp": "2020-12-01T18:53:00.529Z"
 }

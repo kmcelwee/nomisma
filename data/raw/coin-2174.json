@@ -35,8 +35,11 @@
         "7.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2174\",\"call_number_browse\":\"Coin 2174\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -300,
     "pub_date_end_sort": -286,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1427"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -108,9 +108,16 @@
         "Sear  6849v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Other Person, Athena"
+    ],
+    "issue_date_s": [
+        "-300 to -286"
+    ],
     "hashed_id_s": [
         "3e730c8c4b677783"
     ],
-    "_version_": 1667138112521764864,
-    "timestamp": "2020-05-19T16:46:39.816Z"
+    "_version_": 1684902892487573504,
+    "timestamp": "2020-12-01T18:50:14.208Z"
 }

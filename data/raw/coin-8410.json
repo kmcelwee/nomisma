@@ -35,13 +35,13 @@
         "39.69"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8410\",\"call_number_browse\":\"Coin 8410\"}}",
+    "numismatic_accession_s": [
+        "621: 2011-12-01 Petros Vergos"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "5365"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "Carl Friedrich Voigt"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Ruler, Otto I of Greece"
+    ],
     "hashed_id_s": [
         "fa8adba371e66bdc"
     ],
-    "_version_": 1667138268042362880,
-    "timestamp": "2020-05-19T16:49:08.130Z"
+    "_version_": 1684903016471199744,
+    "timestamp": "2020-12-01T18:52:12.449Z"
 }

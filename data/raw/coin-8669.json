@@ -35,6 +35,9 @@
         "0.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8669\",\"call_number_browse\":\"Coin 8669\"}}",
+    "numismatic_accession_s": [
+        "637: 1996-01-01 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": 1039,
     "pub_date_end_sort": 1125,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "obolino"
-    ],
-    "issue_number_s": [
-        "5547"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,9 +77,12 @@
         "CNI V., p.50 23"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1039 to 1125"
+    ],
     "hashed_id_s": [
         "44b6662224fe6ffa"
     ],
-    "_version_": 1667138157519306752,
-    "timestamp": "2020-05-19T16:47:22.728Z"
+    "_version_": 1684902920713142272,
+    "timestamp": "2020-12-01T18:50:41.126Z"
 }

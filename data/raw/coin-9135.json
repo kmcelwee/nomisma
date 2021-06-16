@@ -29,7 +29,7 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "August 19, 1937"
+        "1937-08-19"
     ],
     "find_locus_s": [
         "AE.019"
@@ -50,6 +50,12 @@
         "1.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9135\",\"call_number_browse\":\"Coin 9135\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 315,
     "pub_date_end_sort": 316,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5509"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,16 +89,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laurel, dr. and cuir."
+        "laureate, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "IMP C VAL LICIN LICINIVS P F AVG"
+        "IMPCVALLICINLICINIVSPFAVG"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
-    ],
-    "issue_reverse_symbol_s": [
-        "S"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -104,18 +104,21 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter standing l, chlamys across l shoulder, holding Victory on globe, r, leaning on sceptre, l; at l., eagle with wreath on ground"
+        "Jupiter standing left, chlamys across left shoulder, holding Victory on globe, right, leaning on sceptre, left; at left., eagle with wreath on ground"
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONSERVATORI AVGG"
+        "IOVICONSERVATORIAVGG | HTA"
     ],
     "issue_references_s": [
-        "RIC 7 543.12"
+        "RIC VII Heraclea 12"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "315 to 316"
+    ],
     "hashed_id_s": [
         "91d67ce40a8dcc33"
     ],
-    "_version_": 1667138185147187200,
-    "timestamp": "2020-05-19T16:47:49.076Z"
+    "_version_": 1695852437552758784,
+    "timestamp": "2021-04-01T15:28:34.112Z"
 }

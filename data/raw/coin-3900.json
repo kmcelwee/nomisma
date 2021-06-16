@@ -31,14 +31,14 @@
     "find_date_s": [
         "10/31/1934"
     ],
-    "find_feature_s": [
-        "Under Phoenix mosaic Room 4"
-    ],
     "find_locus_s": [
-        "DH256"
+        "DH 256"
     ],
     "find_number_s": [
         "C3940"
+    ],
+    "find_description_s": [
+        "Room 4, under Phoenix mosaic"
     ],
     "die_axis_s": [
         "1"
@@ -50,6 +50,12 @@
         "8.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3900\",\"call_number_browse\":\"Coin 3900\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -5,
     "pub_date_end_sort": -4,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2241"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -101,22 +110,25 @@
         "Legend"
     ],
     "issue_reverse_figure_description_s": [
-        "5 lines, all in wreath of archiereus"
+        "5 lines, all within archiereus wreath"
     ],
     "issue_reverse_legend_s": [
         "\u0391\u03a1\u03a7\u0399\u0395|\u03a1\u0391\u03a4\u0399\u039a\u039f\u039d|\u0391\u039d\u03a4\u0399\u039f|\u03a7\u0395\u0399\u03a3|\u0396\u039a"
     ],
     "issue_reverse_attributes_s": [
-        "wreath, wreath of archiereus around 5 lines text"
+        ""
     ],
     "issue_references_s": [
         "RPC.1  4251",
         "BMC.1.  135-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-5 to -4"
+    ],
     "hashed_id_s": [
         "e158fbcaee4951c9"
     ],
-    "_version_": 1667138484595326976,
-    "timestamp": "2020-05-19T16:52:34.655Z"
+    "_version_": 1684903619266084864,
+    "timestamp": "2020-12-01T19:01:47.318Z"
 }

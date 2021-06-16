@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "12 Pence"
     ],
-    "issue_number_s": [
-        "3505"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "26f8a1322d963ea1"
     ],
-    "_version_": 1667138250763927552,
-    "timestamp": "2020-05-19T16:48:51.654Z"
+    "_version_": 1684903473295917056,
+    "timestamp": "2020-12-01T18:59:28.110Z"
 }

@@ -38,8 +38,8 @@
         "4.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9547\",\"call_number_browse\":\"Coin 9547\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 68,
     "pub_date_end_sort": 69,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unknown"
-    ],
-    "issue_number_s": [
-        "6097"
     ],
     "issue_metal_s": [
         "Brass"
@@ -105,9 +102,12 @@
         "PUL  841"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "819da9cff6fee288"
     ],
-    "_version_": 1667138276378542080,
-    "timestamp": "2020-05-19T16:49:16.092Z"
+    "_version_": 1684903494770753536,
+    "timestamp": "2020-12-01T18:59:48.589Z"
 }

@@ -35,8 +35,11 @@
         "9.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11932\",\"call_number_browse\":\"Coin 11932\"}}",
-    "donor_s": [
-        "Howard Crosby Butler"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "288:  Howard Crosby Butler"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "8002"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -87,9 +87,12 @@
         "BMC 479 1579"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "3af15e212ce136db"
     ],
-    "_version_": 1667138299341307904,
-    "timestamp": "2020-05-19T16:49:37.981Z"
+    "_version_": 1684903040559087616,
+    "timestamp": "2020-12-01T18:52:35.421Z"
 }

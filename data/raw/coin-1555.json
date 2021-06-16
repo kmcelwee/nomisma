@@ -40,11 +40,11 @@
     "issue_denomination_s": [
         "10 Cash"
     ],
-    "issue_number_s": [
-        "946"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Da Zhong \u5927\u4e2d (Zhu Yuan Zhang) (1361 to 1398)"
@@ -72,9 +72,12 @@
         "Jen  523"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1361 to "
+    ],
     "hashed_id_s": [
         "4fbb9c24e07cc626"
     ],
-    "_version_": 1667138412668256256,
-    "timestamp": "2020-05-19T16:51:26.058Z"
+    "_version_": 1684903575491182592,
+    "timestamp": "2020-12-01T19:01:05.571Z"
 }

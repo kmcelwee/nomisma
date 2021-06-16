@@ -29,6 +29,12 @@
         "86x71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6122\",\"call_number_browse\":\"Coin 6122\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "18 pence"
-    ],
-    "issue_number_s": [
-        "3572"
     ],
     "issue_metal_s": [
         "Paper"
@@ -75,6 +78,6 @@
     "hashed_id_s": [
         "afbc6a5af271e7ea"
     ],
-    "_version_": 1667138379332976640,
-    "timestamp": "2020-05-19T16:50:54.268Z"
+    "_version_": 1684903119947825152,
+    "timestamp": "2020-12-01T18:53:51.133Z"
 }

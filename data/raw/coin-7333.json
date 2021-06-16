@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "20-6-1935"
+        "1935-06-20"
+    ],
+    "find_feature_s": [
+        "Sub room 3"
     ],
     "find_locus_s": [
         "DH 27-P"
     ],
-    "find_description_s": [
-        "27PNDNHSub room 3"
+    "find_number_s": [
+        "C5425"
     ],
     "die_axis_s": [
         "6"
@@ -47,6 +50,12 @@
         "1.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7333\",\"call_number_browse\":\"Coin 7333\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4591"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -107,16 +113,19 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLOR-IA EXERC-ITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
         "Cohen 7 257.250",
-        "RIC 7 697.108"
+        "RIC VII Antioch 108"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "5fc1b01cb4ea640b"
     ],
-    "_version_": 1667138353130110976,
-    "timestamp": "2020-05-19T16:50:29.278Z"
+    "_version_": 1691335351940939776,
+    "timestamp": "2021-02-10T18:51:25.574Z"
 }

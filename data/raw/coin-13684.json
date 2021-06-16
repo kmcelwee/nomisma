@@ -47,16 +47,16 @@
         "0.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13684\",\"call_number_browse\":\"Coin 13684\"}}",
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": 337,
+    "pub_date_end_sort": 347,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "8749"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,12 +98,15 @@
         "IVST-VEN MEM"
     ],
     "issue_references_s": [
-        "RIC.8 516 64"
+        "RIC VIII Antioch 64"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "337 to 347"
+    ],
     "hashed_id_s": [
         "ed0f2aec8ce91147"
     ],
-    "_version_": 1667138525025271808,
-    "timestamp": "2020-05-19T16:53:13.209Z"
+    "_version_": 1684903648789790720,
+    "timestamp": "2020-12-01T19:02:15.474Z"
 }

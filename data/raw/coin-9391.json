@@ -2,7 +2,7 @@
     "id": "coin-9391",
     "title_display": "Coin: 9391",
     "pub_created_display": [
-        "Tiberius, as, Carthago Nova"
+        "Tiberius   (14 to 37), as, Carthago Nova"
     ],
     "call_number_display": [
         "Coin 9391"
@@ -38,8 +38,8 @@
         "9.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9391\",\"call_number_browse\":\"Coin 9391\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 37,
@@ -49,14 +49,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6011"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Carthago Nova, Spain, Roman Empire"
@@ -105,9 +102,12 @@
         "PUL  812"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "c0dcbd48c8abcd5c"
     ],
-    "_version_": 1667138149600460800,
-    "timestamp": "2020-05-19T16:47:15.176Z"
+    "_version_": 1684903403801542656,
+    "timestamp": "2020-12-01T18:58:21.834Z"
 }

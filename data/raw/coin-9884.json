@@ -38,8 +38,14 @@
         "4.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9884\",\"call_number_browse\":\"Coin 9884\"}}",
-    "donor_s": [
-        "Theodore Sarmas"
+    "numismatic_collection_s": [
+        "Latin Orient"
+    ],
+    "numismatic_accession_s": [
+        "348: 2009-01-06 Theodore Sarmas"
+    ],
+    "numismatic_provenance_s": [
+        "Simon Bendall; 1993"
     ],
     "pub_date_start_sort": 1204,
     "pub_date_end_sort": 1261,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "6264"
     ],
     "issue_metal_s": [
         "Billon"
@@ -108,9 +111,12 @@
         "Byzantine Coins in the Dumbarton Oaks Collection and in the Whittemore Collection IV, pg. 674 2.3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1204 to 1261"
+    ],
     "hashed_id_s": [
         "50f421ff28476648"
     ],
-    "_version_": 1667138278452625408,
-    "timestamp": "2020-05-19T16:49:18.058Z"
+    "_version_": 1684903496819671040,
+    "timestamp": "2020-12-01T18:59:50.544Z"
 }

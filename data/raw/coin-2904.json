@@ -2,7 +2,7 @@
     "id": "coin-2904",
     "title_display": "Coin: 2904",
     "pub_created_display": [
-        "Nero (54 to 68), aes, Antioch"
+        "Nero (54 to 68), bronze, Antioch"
     ],
     "call_number_display": [
         "Coin 2904"
@@ -53,13 +53,19 @@
         "3.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2904\",\"call_number_browse\":\"Coin 2904\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 59,
     "pub_date_end_sort": 60,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "aes"
+        "bronze"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,9 +116,12 @@
         "RPC.1  4293"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "59 to 60"
+    ],
     "hashed_id_s": [
         "68e9460f6f7b2e97"
     ],
-    "_version_": 1675626511923675136,
-    "timestamp": "2020-08-21T09:26:08.316Z"
+    "_version_": 1684903679747948544,
+    "timestamp": "2020-12-01T19:02:44.997Z"
 }

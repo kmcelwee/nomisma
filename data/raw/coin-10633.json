@@ -35,8 +35,14 @@
         "12.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10633\",\"call_number_browse\":\"Coin 10633\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Busso Peus, Athens; 368 (373)"
     ],
     "pub_date_start_sort": 240,
     "pub_date_end_sort": 272,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "BI"
-    ],
-    "issue_number_s": [
-        "6795"
     ],
     "issue_metal_s": [
         "Billon"
@@ -89,9 +92,12 @@
         "SNS 1 Style P Type IIc/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "240 to 272"
+    ],
     "hashed_id_s": [
         "fa41c437db50e50a"
     ],
-    "_version_": 1667138179158769664,
-    "timestamp": "2020-05-19T16:47:43.364Z"
+    "_version_": 1684902957014843392,
+    "timestamp": "2020-12-01T18:51:15.747Z"
 }

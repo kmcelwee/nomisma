@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "6 Pence"
     ],
-    "issue_number_s": [
-        "2706"
-    ],
     "issue_master_s": [
         "Hall and Sellers"
     ],
@@ -74,9 +71,12 @@
         "Newman p. 352"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "6629f4ba3735dbcd"
     ],
-    "_version_": 1667138507806605312,
-    "timestamp": "2020-05-19T16:52:56.788Z"
+    "_version_": 1684903308220694528,
+    "timestamp": "2020-12-01T18:56:50.687Z"
 }

@@ -38,8 +38,14 @@
         "0.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11033\",\"call_number_browse\":\"Coin 11033\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 04/01/2001"
     ],
     "pub_date_start_sort": 457,
     "pub_date_end_sort": 484,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "7194"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "SNS 3 AW Type IIa/1c"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "457 to 484"
+    ],
     "hashed_id_s": [
         "c17c15a1282ca404"
     ],
-    "_version_": 1667138169929203712,
-    "timestamp": "2020-05-19T16:47:34.564Z"
+    "_version_": 1684902945243529216,
+    "timestamp": "2020-12-01T18:51:04.519Z"
 }

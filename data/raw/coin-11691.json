@@ -38,8 +38,11 @@
         "4.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11691\",\"call_number_browse\":\"Coin 11691\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 499,
     "pub_date_end_sort": 531,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7791"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "SN  VI/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "499 to 531"
+    ],
     "hashed_id_s": [
         "3fecd8dc41aa8a6a"
     ],
-    "_version_": 1667138134524035072,
-    "timestamp": "2020-05-19T16:47:00.798Z"
+    "_version_": 1684903382078193664,
+    "timestamp": "2020-12-01T18:58:01.118Z"
 }

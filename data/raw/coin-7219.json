@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "5/9/1933"
@@ -44,16 +44,19 @@
         "2.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7219\",\"call_number_browse\":\"Coin 7219\"}}",
-    "pub_date_start_sort": -232,
-    "pub_date_end_sort": -228,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -244,
+    "pub_date_end_sort": -226,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4523"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,7 +89,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate"
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Tripod"
@@ -97,10 +100,20 @@
     "issue_reverse_legend_s": [
         "\u0392\u0391\u03a3\u0399\u039b\u0395\u039f\u03a3 \u03a3\u0395\u039b\u0395\u03a5\u039a\u039f\u03a5"
     ],
+    "issue_reverse_attributes_s": [
+        "\u0395\u03a5, in outer l. field",
+        "monogram, in outer r. field"
+    ],
+    "issue_references_s": [
+        "H & L  694"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-244 to -226"
+    ],
     "hashed_id_s": [
         "58e78f1110f5a0e4"
     ],
-    "_version_": 1669926133002403840,
-    "timestamp": "2020-06-19T11:21:03.344Z"
+    "_version_": 1684903653352144896,
+    "timestamp": "2020-12-01T19:02:19.824Z"
 }

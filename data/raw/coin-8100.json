@@ -29,7 +29,7 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "07/15/1937"
+        "1937-07-15"
     ],
     "find_feature_s": [
         "Under room B5"
@@ -50,6 +50,12 @@
         "2.77"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8100\",\"call_number_browse\":\"Coin 8100\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 316,
     "pub_date_end_sort": 317,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5131"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +95,7 @@
         "laur., holding thunderbolt and sceptre"
     ],
     "issue_obverse_legend_s": [
-        "IMPLICI NIVSAVG"
+        "IMPLICI-NIVSAVG"
     ],
     "issue_reverse_figure_s": [
         "Gate"
@@ -101,16 +104,19 @@
         "Camp gate with three turrets, no doors; varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN-TIAE AVGG"
+        "PROVIDEN-TIAE AVGG | HT\u0393"
     ],
     "issue_references_s": [
-        "RIC.7 p. 544 15",
+        "RIC VII Heraclea 15",
         "Numismatique Constantinienne II p. 578, II 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "316 to 317"
+    ],
     "hashed_id_s": [
         "a1fb62db2f85e042"
     ],
-    "_version_": 1667138349961314304,
-    "timestamp": "2020-05-19T16:50:26.253Z"
+    "_version_": 1694233629777985536,
+    "timestamp": "2021-03-14T18:38:18.712Z"
 }

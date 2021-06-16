@@ -38,8 +38,11 @@
         "7.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6377\",\"call_number_browse\":\"Coin 6377\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; March 1964; $30, #A3 of Vol. V, number 1 Numismatic Review"
     ],
     "pub_date_start_sort": -415,
     "pub_date_end_sort": -390,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3809"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "F-B  355"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-415 to -390"
+    ],
     "hashed_id_s": [
         "427df612455b2e22"
     ],
-    "_version_": 1667138375785644032,
-    "timestamp": "2020-05-19T16:50:50.884Z"
+    "_version_": 1684903114237280256,
+    "timestamp": "2020-12-01T18:53:45.685Z"
 }

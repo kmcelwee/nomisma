@@ -35,6 +35,12 @@
         "2.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8837\",\"call_number_browse\":\"Coin 8837\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 1765,
     "pub_date_end_sort": 1790,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "paolo"
-    ],
-    "issue_number_s": [
-        "5633"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "CNI XII, 436 124"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1765 to 1790"
+    ],
     "hashed_id_s": [
         "ab878336e311ea7a"
     ],
-    "_version_": 1667138153144647680,
-    "timestamp": "2020-05-19T16:47:18.557Z"
+    "_version_": 1684903407937126400,
+    "timestamp": "2020-12-01T18:58:25.779Z"
 }

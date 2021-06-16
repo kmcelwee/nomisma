@@ -38,8 +38,11 @@
         "7.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5884\",\"call_number_browse\":\"Coin 5884\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; Aug. 1959; Pounds 12 = $33"
     ],
     "pub_date_start_sort": -450,
     "pub_date_end_sort": -440,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3406"
     ],
     "issue_metal_s": [
         "Silver"
@@ -90,9 +90,12 @@
         "Vlasto Coll.  262-3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-450 to -440"
+    ],
     "hashed_id_s": [
         "bf242fd1d40a6c8d"
     ],
-    "_version_": 1667138386430787584,
-    "timestamp": "2020-05-19T16:51:01.034Z"
+    "_version_": 1684903125934145536,
+    "timestamp": "2020-12-01T18:53:56.839Z"
 }

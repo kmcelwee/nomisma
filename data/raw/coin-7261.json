@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "Drachm"
     ],
-    "issue_number_s": [
-        "4551"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -80,9 +77,12 @@
         "Mitchiner 338 2432"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-20 to -1"
+    ],
     "hashed_id_s": [
         "be0793de064acd09"
     ],
-    "_version_": 1667138357499527168,
-    "timestamp": "2020-05-19T16:50:33.445Z"
+    "_version_": 1684903251286163456,
+    "timestamp": "2020-12-01T18:55:56.384Z"
 }

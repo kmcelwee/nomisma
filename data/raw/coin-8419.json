@@ -35,8 +35,12 @@
         "6.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8419\",\"call_number_browse\":\"Coin 8419\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_accession_s": [
+        "62: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
+    ],
+    "numismatic_provenance_s": [
+        "Coin Galleries, New York, NY; 7/17/1996; lot 1421 (1500-2000)",
+        "Monnaies & Medailles, La Rochelle; 10/1995; lot 32 sfrs. 1650 = $1370"
     ],
     "pub_date_start_sort": -490,
     "pub_date_end_sort": -465,
@@ -45,9 +49,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "5370"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +94,12 @@
         "Cahn  54"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-490 to -465"
+    ],
     "hashed_id_s": [
         "aa0ef1d4bdf52426"
     ],
-    "_version_": 1667138268216426496,
-    "timestamp": "2020-05-19T16:49:08.296Z"
+    "_version_": 1684903134227333120,
+    "timestamp": "2020-12-01T18:54:04.748Z"
 }

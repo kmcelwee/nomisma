@@ -35,6 +35,12 @@
         "3.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10236\",\"call_number_browse\":\"Coin 10236\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "6482"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +90,12 @@
         "BMC 322 640"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "0891f8eb7c1d75f9"
     ],
-    "_version_": 1667138136759599104,
-    "timestamp": "2020-05-19T16:47:02.930Z"
+    "_version_": 1684903385202950144,
+    "timestamp": "2020-12-01T18:58:04.099Z"
 }

@@ -35,6 +35,15 @@
         "130.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4937\",\"call_number_browse\":\"Coin 4937\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1929; $10, #10 in sale"
+    ],
     "pub_date_start_sort": -269,
     "pub_date_end_sort": -266,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "semis"
     ],
-    "issue_number_s": [
-        "2722"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -64,9 +73,6 @@
     "issue_obverse_figure_s": [
         "Minerva"
     ],
-    "issue_obverse_symbol_s": [
-        "S"
-    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -76,11 +82,11 @@
     "issue_obverse_figure_description_s": [
         "wearing crested Corinthian helmet"
     ],
+    "issue_obverse_attributes_s": [
+        "S, below head"
+    ],
     "issue_reverse_figure_s": [
         "Minerva"
-    ],
-    "issue_reverse_symbol_s": [
-        "S"
     ],
     "issue_reverse_part_s": [
         "head"
@@ -91,6 +97,9 @@
     "issue_reverse_figure_description_s": [
         "wearing crested Corinthian helmet"
     ],
+    "issue_reverse_attributes_s": [
+        "S, below head"
+    ],
     "issue_references_s": [
         "RRC  21, 2",
         "Haeb. pl. 27 7-10",
@@ -99,9 +108,12 @@
         "Sear  536"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-269 to -266"
+    ],
     "hashed_id_s": [
         "530b54c016bcb317"
     ],
-    "_version_": 1667138507408146432,
-    "timestamp": "2020-05-19T16:52:56.407Z"
+    "_version_": 1684903702014459904,
+    "timestamp": "2020-12-01T19:03:06.233Z"
 }

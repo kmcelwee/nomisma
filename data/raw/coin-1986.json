@@ -35,8 +35,11 @@
         "9.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1986\",\"call_number_browse\":\"Coin 1986\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -168,
     "pub_date_end_sort": -31,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1310"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "BMC Mac. p. 42 1v."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-168 to -31"
+    ],
     "hashed_id_s": [
         "39dc2776300530c8"
     ],
-    "_version_": 1667138133777448960,
-    "timestamp": "2020-05-19T16:47:00.087Z"
+    "_version_": 1684902915040346112,
+    "timestamp": "2020-12-01T18:50:35.716Z"
 }

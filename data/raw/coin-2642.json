@@ -35,6 +35,12 @@
         "0.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2642\",\"call_number_browse\":\"Coin 2642\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1272,
     "pub_date_end_sort": 1339,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denaro"
-    ],
-    "issue_number_s": [
-        "1663"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "Liguria - Isola Di Corsica Repubblica I.21.81"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1272 to 1339"
+    ],
     "hashed_id_s": [
         "4a0bee7763c61d91"
     ],
-    "_version_": 1667138424056840192,
-    "timestamp": "2020-05-19T16:51:36.919Z"
+    "_version_": 1684903577651249152,
+    "timestamp": "2020-12-01T19:01:07.631Z"
 }

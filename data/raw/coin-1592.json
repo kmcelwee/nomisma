@@ -35,8 +35,11 @@
         "5.97"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1592\",\"call_number_browse\":\"Coin 1592\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "980"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "unidentifiable, under horse"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "44b0e8e33b544db1"
     ],
-    "_version_": 1667138413444202496,
-    "timestamp": "2020-05-19T16:51:26.796Z"
+    "_version_": 1684903186383503360,
+    "timestamp": "2020-12-01T18:54:54.489Z"
 }

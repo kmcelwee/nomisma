@@ -35,8 +35,11 @@
         "0.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 540\",\"call_number_browse\":\"Coin 540\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1125,
     "pub_date_end_sort": 1152,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "241"
     ],
     "issue_metal_s": [
         "Silver"
@@ -87,9 +87,12 @@
         "Robert  4726"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1125 to 1152"
+    ],
     "hashed_id_s": [
         "09fb7bace0bdf200"
     ],
-    "_version_": 1667138404405477376,
-    "timestamp": "2020-05-19T16:51:18.175Z"
+    "_version_": 1684903178461511680,
+    "timestamp": "2020-12-01T18:54:46.934Z"
 }

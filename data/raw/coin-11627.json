@@ -35,6 +35,9 @@
         "2.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11627\",\"call_number_browse\":\"Coin 11627\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7745"
     ],
     "issue_metal_s": [
         "Silver"
@@ -84,9 +84,12 @@
         "SN  I/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "c12d2f06c9a8470e"
     ],
-    "_version_": 1667138295906172928,
-    "timestamp": "2020-05-19T16:49:34.703Z"
+    "_version_": 1684903043357736960,
+    "timestamp": "2020-12-01T18:52:38.088Z"
 }

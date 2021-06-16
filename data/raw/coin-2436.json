@@ -29,7 +29,7 @@
         "Legend and monograms effaced"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/08/1937"
@@ -50,6 +50,12 @@
         "10.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2436\",\"call_number_browse\":\"Coin 2436\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -268,
     "pub_date_end_sort": -261,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "quarter"
-    ],
-    "issue_number_s": [
-        "1540"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -111,7 +114,6 @@
     ],
     "issue_reverse_attributes_s": [
         "P, in outer l. field",
-        "m1516, in outer r. field",
         "bow, in l. hand",
         "arrow, in extended r. hand"
     ],
@@ -121,9 +123,15 @@
         "Houghton  31"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo"
+    ],
+    "issue_date_s": [
+        "-268 to -261"
+    ],
     "hashed_id_s": [
         "bd9d49a99c69201c"
     ],
-    "_version_": 1669921437900603392,
-    "timestamp": "2020-06-19T10:06:25.747Z"
+    "_version_": 1684903300450746368,
+    "timestamp": "2020-12-01T18:56:43.272Z"
 }

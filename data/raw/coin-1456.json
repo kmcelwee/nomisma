@@ -32,8 +32,8 @@
         "6.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1456\",\"call_number_browse\":\"Coin 1456\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "856"
     ],
     "issue_metal_s": [
         "Copper"
@@ -69,9 +66,12 @@
         "KM 2005 412 303a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "772b2b3afdd705d8"
     ],
-    "_version_": 1667138411557814272,
-    "timestamp": "2020-05-19T16:51:24.999Z"
+    "_version_": 1684903184419520512,
+    "timestamp": "2020-12-01T18:54:52.615Z"
 }

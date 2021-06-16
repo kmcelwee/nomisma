@@ -38,6 +38,15 @@
         "17.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2141\",\"call_number_browse\":\"Coin 2141\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "285: 2000-10-09 Classical Numismatic Group"
+    ],
+    "numismatic_provenance_s": [
+        "Classical Numismatic Group, Lancaster, PA; 54; lot 793"
+    ],
     "pub_date_start_sort": -282,
     "pub_date_end_sort": -281,
     "issue_object_type_s": [
@@ -103,9 +112,17 @@
         "Sear  6830v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Hercules",
+        "Other Person, Zeus",
+        "Other Person, Nike"
+    ],
+    "issue_date_s": [
+        "-282 to -281"
+    ],
     "hashed_id_s": [
         "840432d51f9f83ae"
     ],
-    "_version_": 1673104895483314176,
-    "timestamp": "2020-07-24T13:26:07.475Z"
+    "_version_": 1684903669010530304,
+    "timestamp": "2020-12-01T19:02:34.758Z"
 }

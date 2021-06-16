@@ -38,8 +38,11 @@
         "2.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12442\",\"call_number_browse\":\"Coin 12442\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -123,
     "pub_date_end_sort": -88,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "chalkous"
-    ],
-    "issue_number_s": [
-        "8342"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -96,9 +96,12 @@
         "Shore  95"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-123 to -88"
+    ],
     "hashed_id_s": [
         "3933cf789c847227"
     ],
-    "_version_": 1667138305366425600,
-    "timestamp": "2020-05-19T16:49:43.726Z"
+    "_version_": 1684903154707070976,
+    "timestamp": "2020-12-01T18:54:24.281Z"
 }

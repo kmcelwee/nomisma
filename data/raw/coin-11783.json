@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4638"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -84,9 +81,12 @@
         "Cohen 7, 281 454"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "327 to 329"
+    ],
     "hashed_id_s": [
         "7854b7412b8ff340"
     ],
-    "_version_": 1667145454707539968,
-    "timestamp": "2020-05-19T18:43:21.864Z"
+    "_version_": 1684903130152566784,
+    "timestamp": "2020-12-01T18:54:00.861Z"
 }

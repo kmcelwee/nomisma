@@ -111,9 +111,12 @@
         "Schl.  III1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1163 to 1201"
+    ],
     "hashed_id_s": [
         "a490877f2a72378a"
     ],
-    "_version_": 1674261396670382080,
-    "timestamp": "2020-08-06T07:48:12.959Z"
+    "_version_": 1684903497334521856,
+    "timestamp": "2020-12-01T18:59:51.034Z"
 }

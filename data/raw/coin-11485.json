@@ -38,8 +38,8 @@
         "2.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11485\",\"call_number_browse\":\"Coin 11485\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 751,
     "pub_date_end_sort": 775,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7636"
     ],
     "issue_metal_s": [
         "Copper"
@@ -106,9 +103,12 @@
         "BMC.Byz. 385 35"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "751 to 775"
+    ],
     "hashed_id_s": [
         "b524da1d4bd349be"
     ],
-    "_version_": 1667138131885817856,
-    "timestamp": "2020-05-19T16:46:58.282Z"
+    "_version_": 1684903377752817664,
+    "timestamp": "2020-12-01T18:57:56.993Z"
 }

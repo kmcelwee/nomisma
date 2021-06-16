@@ -29,16 +29,19 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/24/1932"
+        "1932-05-24"
     ],
     "find_feature_s": [
-        "Bath C room 42"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "M-11"
+        "DS 11-M"
     ],
     "find_number_s": [
         "1762"
+    ],
+    "find_description_s": [
+        "Bath C room 42?"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +53,12 @@
         "3.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7639\",\"call_number_browse\":\"Coin 7639\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 324,
     "issue_object_type_s": [
@@ -57,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4778"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,16 +107,19 @@
         "Jupiter stg. l., chlamys across l. shoulder, leaning on sceptre with eagle, Victory on globe in r. hand; eagle holding wreath on ground to l.; to r., captive."
     ],
     "issue_reverse_legend_s": [
-        "IOVI CONS-ERVATORI"
+        "IOVI CONS-ERVATORI | (X on II\u0393)/ SMALA"
     ],
     "issue_references_s": [
-        "RIC, VII 708. 28.",
+        "RIC VII Alexandria 28",
         "Numismatique Constantinienne III. 270. I. 1."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 324"
+    ],
     "hashed_id_s": [
         "516e01ec6bb8cb67"
     ],
-    "_version_": 1667138260788314112,
-    "timestamp": "2020-05-19T16:49:01.214Z"
+    "_version_": 1693238054112722944,
+    "timestamp": "2021-03-03T18:54:03.787Z"
 }

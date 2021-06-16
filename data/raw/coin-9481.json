@@ -47,6 +47,9 @@
         "15.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9481\",\"call_number_browse\":\"Coin 9481\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1075,
     "pub_date_end_sort": 1125,
     "issue_object_type_s": [
@@ -54,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "6076"
     ],
     "issue_metal_s": [
         "Billon"
@@ -84,9 +84,12 @@
         "Ox.  42,43"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1075 to 1125"
+    ],
     "hashed_id_s": [
         "e792ffd71ec3570d"
     ],
-    "_version_": 1667138275971694592,
-    "timestamp": "2020-05-19T16:49:15.692Z"
+    "_version_": 1684903494378586112,
+    "timestamp": "2020-12-01T18:59:48.215Z"
 }

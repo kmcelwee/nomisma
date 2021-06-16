@@ -35,6 +35,12 @@
         "5.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3868\",\"call_number_browse\":\"Coin 3868\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "385: 1990-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -32,
     "pub_date_end_sort": -31,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "2240"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +102,12 @@
         "Augustus  866"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-32 to -31"
+    ],
     "hashed_id_s": [
         "0e115f4eacbfbd85"
     ],
-    "_version_": 1667138483809943552,
-    "timestamp": "2020-05-19T16:52:33.904Z"
+    "_version_": 1684903227228684288,
+    "timestamp": "2020-12-01T18:55:33.442Z"
 }

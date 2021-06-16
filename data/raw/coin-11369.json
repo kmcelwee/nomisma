@@ -47,6 +47,12 @@
         "8.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11369\",\"call_number_browse\":\"Coin 11369\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1042,
     "pub_date_end_sort": 1050,
     "issue_object_type_s": [
@@ -122,9 +128,12 @@
         "DOC 3.2 C.33"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1042 to 1050"
+    ],
     "hashed_id_s": [
         "012e01d3a7dc8973"
     ],
-    "_version_": 1673454283929944064,
-    "timestamp": "2020-07-28T09:59:30.264Z"
+    "_version_": 1684902902407102464,
+    "timestamp": "2020-12-01T18:50:23.667Z"
 }

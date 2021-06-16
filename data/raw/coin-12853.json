@@ -38,8 +38,11 @@
         "3.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12853\",\"call_number_browse\":\"Coin 12853\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 40,
     "pub_date_end_sort": 51,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "8429"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Shore  364"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "40 to 51"
+    ],
     "hashed_id_s": [
         "0914c1d68c8d1ffb"
     ],
-    "_version_": 1667138337048100864,
-    "timestamp": "2020-05-19T16:50:13.940Z"
+    "_version_": 1684903524355276800,
+    "timestamp": "2020-12-01T19:00:16.803Z"
 }

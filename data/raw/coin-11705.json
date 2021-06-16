@@ -50,6 +50,9 @@
         "4.377"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11705\",\"call_number_browse\":\"Coin 11705\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 1065,
     "pub_date_end_sort": 1070,
     "issue_object_type_s": [
@@ -125,9 +128,12 @@
         "BL 3.2 G.28"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1065 to 1070"
+    ],
     "hashed_id_s": [
         "46fef38a146ffd7e"
     ],
-    "_version_": 1673453849333989376,
-    "timestamp": "2020-07-28T09:52:35.804Z"
+    "_version_": 1684902902121889792,
+    "timestamp": "2020-12-01T18:50:23.397Z"
 }

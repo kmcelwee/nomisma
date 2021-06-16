@@ -38,8 +38,8 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1839\",\"call_number_browse\":\"Coin 1839\"}}",
-    "donor_s": [
-        "Rodman Wanamaker"
+    "numismatic_accession_s": [
+        "268: 1930-01-01 Rodman Wanamaker"
     ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 54,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1448"
     ],
     "issue_metal_s": [
         "Leaded bronze"
@@ -98,9 +95,12 @@
         "RPC.1  1421"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 54"
+    ],
     "hashed_id_s": [
         "5d7d808d12864ad6"
     ],
-    "_version_": 1667138218913431552,
-    "timestamp": "2020-05-19T16:48:21.277Z"
+    "_version_": 1684902993536745472,
+    "timestamp": "2020-12-01T18:51:50.577Z"
 }

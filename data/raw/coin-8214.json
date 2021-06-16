@@ -35,8 +35,11 @@
         "9.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8214\",\"call_number_browse\":\"Coin 8214\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -175,
     "pub_date_end_sort": -100,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5225"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -86,9 +86,12 @@
         "CNH 101 13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-175 to -100"
+    ],
     "hashed_id_s": [
         "28c61991a941c3c3"
     ],
-    "_version_": 1667138190896529408,
-    "timestamp": "2020-05-19T16:47:54.559Z"
+    "_version_": 1684902939133476864,
+    "timestamp": "2020-12-01T18:50:58.693Z"
 }

@@ -38,6 +38,15 @@
         "16.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13777\",\"call_number_browse\":\"Coin 13777\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; 5.1.2020; Bought for $4.25"
+    ],
     "pub_date_start_sort": -95,
     "pub_date_end_sort": -62,
     "issue_object_type_s": [
@@ -95,7 +104,7 @@
         "shield, under shoulder, grounded",
         "Nike, in her right hand, who crowns royal epithet",
         "spear, vertical, rising from Athena's arm",
-        "\u0394, above \u039b on outer left",
+        "\u0394, above A on outer left",
         "\u03a4, on inner left",
         "\u0391, on inner right"
     ],
@@ -103,9 +112,12 @@
         "H & L II, v.I, p.407 2150.5/var"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-95 to -62"
+    ],
     "hashed_id_s": [
         "e4a43d71d7e7e3f1"
     ],
-    "_version_": 1675484641497186304,
-    "timestamp": "2020-08-19T19:51:10.151Z"
+    "_version_": 1684903675372240896,
+    "timestamp": "2020-12-01T19:02:40.826Z"
 }

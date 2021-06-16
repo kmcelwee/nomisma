@@ -35,8 +35,11 @@
         "3.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5555\",\"call_number_browse\":\"Coin 5555\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": -73,
     "pub_date_end_sort": -49,
@@ -46,14 +49,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "3142"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
-        "Round"
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Xuan of Western Han \u897f\u6f22\u5ba3\u5e1d (-73 to -49)"
@@ -74,9 +74,12 @@
         "Qin Han 184 730"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-73 to -49"
+    ],
     "hashed_id_s": [
         "39171ce10fc57499"
     ],
-    "_version_": 1667138395103559680,
-    "timestamp": "2020-05-19T16:51:09.306Z"
+    "_version_": 1684903268768022528,
+    "timestamp": "2020-12-01T18:56:13.056Z"
 }

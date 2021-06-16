@@ -35,6 +35,12 @@
         "0.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2634\",\"call_number_browse\":\"Coin 2634\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "32: 2005-05-10 Allen G. Berman"
+    ],
     "pub_date_start_sort": 1258,
     "pub_date_end_sort": 1266,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denaro"
-    ],
-    "issue_number_s": [
-        "1655"
     ],
     "issue_metal_s": [
         "Billon"
@@ -86,9 +89,12 @@
         "MEC 14  602"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1258 to 1266"
+    ],
     "hashed_id_s": [
         "3ccbb3466f2b1344"
     ],
-    "_version_": 1667138160005480448,
-    "timestamp": "2020-05-19T16:47:25.099Z"
+    "_version_": 1684902930606456832,
+    "timestamp": "2020-12-01T18:50:50.559Z"
 }

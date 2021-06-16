@@ -35,6 +35,12 @@
         "18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1078\",\"call_number_browse\":\"Coin 1078\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "122: 1991-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 60,
     "pub_date_end_sort": 61,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "532"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "Sear  1936"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "60 to 61"
+    ],
     "hashed_id_s": [
         "1ff47c4322bb9d50"
     ],
-    "_version_": 1667138457810501632,
-    "timestamp": "2020-05-19T16:52:09.106Z"
+    "_version_": 1684903600602480640,
+    "timestamp": "2020-12-01T19:01:29.518Z"
 }

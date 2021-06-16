@@ -35,6 +35,15 @@
         "3.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5448\",\"call_number_browse\":\"Coin 5448\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $3"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3071"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Marcius Philippus"
@@ -67,6 +76,9 @@
     "issue_obverse_figure_s": [
         "Ancus Marcius"
     ],
+    "issue_obverse_symbol_s": [
+        "lituus behind head"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -74,13 +86,19 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Diademed head of Ancus Marcius r.; lituus behind; border of dots"
+        "wearing diadem"
     ],
     "issue_obverse_legend_s": [
         "ANCVS"
     ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
+    ],
     "issue_reverse_figure_s": [
-        "Equestrian statue"
+        "Aqueduct"
+    ],
+    "issue_reverse_symbol_s": [
+        "flower at horse's feet"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -89,10 +107,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Equestrian statue r., on aqueduct; flower (?) beneath horse's hooves; border of dots"
+        "on which stands equestrian statue"
     ],
     "issue_reverse_legend_s": [
-        "Behind, PHILIPPVS; within arches of aqueduct, A - Q - V - A - MAR (MAR in monogram)"
+        "PHILIPPVS AQVA MAR"
+    ],
+    "issue_reverse_attributes_s": [
+        "inscription, within arches of aqueduct",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  425/1",
@@ -100,9 +122,12 @@
         "Sear  382"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "76bbc87ebefe9e79"
     ],
-    "_version_": 1667138248078524416,
-    "timestamp": "2020-05-19T16:48:49.091Z"
+    "_version_": 1684903009240219648,
+    "timestamp": "2020-12-01T18:52:05.554Z"
 }

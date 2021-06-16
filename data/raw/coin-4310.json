@@ -35,8 +35,11 @@
         "7.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4310\",\"call_number_browse\":\"Coin 4310\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "37:  Louis C. West"
     ],
     "pub_date_start_sort": -46,
     "pub_date_end_sort": -46,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "2412"
     ],
     "issue_metal_s": [
         "Gold"
@@ -97,9 +97,12 @@
         "Sear  1395"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-46 to -46"
+    ],
     "hashed_id_s": [
         "af764dba9d09869e"
     ],
-    "_version_": 1667138493067821056,
-    "timestamp": "2020-05-19T16:52:42.734Z"
+    "_version_": 1684903628613091328,
+    "timestamp": "2020-12-01T19:01:56.231Z"
 }

@@ -35,8 +35,11 @@
         "2.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13269\",\"call_number_browse\":\"Coin 13269\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "8599"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,6 +105,6 @@
     "hashed_id_s": [
         "f20918addbee4b10"
     ],
-    "_version_": 1667138519940726784,
-    "timestamp": "2020-05-19T16:53:08.358Z"
+    "_version_": 1684903325479206912,
+    "timestamp": "2020-12-01T18:57:07.140Z"
 }

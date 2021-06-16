@@ -50,6 +50,9 @@
         "3.89"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8282\",\"call_number_browse\":\"Coin 8282\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 670,
     "pub_date_end_sort": 690,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "5280"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +109,12 @@
         "BMC vol. IX, page 9 30-31"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "670 to 690"
+    ],
     "hashed_id_s": [
         "dd2b142eaf2b2b7f"
     ],
-    "_version_": 1667138187424694272,
-    "timestamp": "2020-05-19T16:47:51.247Z"
+    "_version_": 1684903428739825664,
+    "timestamp": "2020-12-01T18:58:45.619Z"
 }

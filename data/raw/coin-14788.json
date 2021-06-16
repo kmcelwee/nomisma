@@ -35,6 +35,12 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14788\",\"call_number_browse\":\"Coin 14788\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -76,
     "pub_date_end_sort": -75,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "9074"
     ],
     "issue_metal_s": [
         "Silver"
@@ -56,60 +59,58 @@
         "plain"
     ],
     "issue_master_s": [
-        "Cn. Lentulus  "
+        "Cn. Cornelius Lentulus Marcellinus  (90 to 48)"
     ],
     "issue_place_s": [
-        "Rome"
+        "Hispania"
     ],
     "issue_region_s": [
-        "Rome"
+        "Hispania"
     ],
     "issue_obverse_figure_s": [
         "Genius Populi Romani"
     ],
     "issue_obverse_part_s": [
-        "Bust"
+        "bust"
     ],
     "issue_obverse_orientation_s": [
-        "Facing Right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Draped, Hair tied with Band"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "Scepter over shoulder"
+        "draped and hair tied with band"
     ],
     "issue_obverse_legend_s": [
         "G.P.R."
     ],
     "issue_obverse_attributes_s": [
-        "Border, Dots"
+        "sceptre, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Wreathed Scepter, Globe, Rudder"
-    ],
-    "issue_reverse_symbol_s": [
-        "EX S.C."
+        "Sceptre"
     ],
     "issue_reverse_orientation_s": [
         "Centered"
     ],
-    "issue_reverse_figure_relationship_s": [
-        "Between symbols"
+    "issue_reverse_figure_description_s": [
+        "with wreath, globe and rudder"
     ],
     "issue_reverse_legend_s": [
-        "CN.LEN.Q."
+        "EX S\u00b7C CN\u00b7LEN Q"
     ],
     "issue_reverse_attributes_s": [
-        "Border, Dots"
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  393-1a"
+        "RRC  393/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -75"
+    ],
     "hashed_id_s": [
         "9e76472c196dab64"
     ],
-    "_version_": 1667309544486731776,
-    "timestamp": "2020-05-21T14:11:30.086Z"
+    "_version_": 1686050290110824448,
+    "timestamp": "2020-12-14T10:47:37.854Z"
 }

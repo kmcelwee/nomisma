@@ -17,7 +17,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Collect data from figgy
+    - name: Collect data from the catalog
       run: python NomismaPipeline.py
 
   validate:

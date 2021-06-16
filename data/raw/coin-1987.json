@@ -35,8 +35,11 @@
         "16.81"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1987\",\"call_number_browse\":\"Coin 1987\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "269: 1996-01-01 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -480,
     "pub_date_end_sort": -470,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1312"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "The Coinage of Gela page 126 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-480 to -470"
+    ],
     "hashed_id_s": [
         "9d0fdd4777d84b70"
     ],
-    "_version_": 1667138216229076992,
-    "timestamp": "2020-05-19T16:48:18.719Z"
+    "_version_": 1684903099966160896,
+    "timestamp": "2020-12-01T18:53:32.077Z"
 }

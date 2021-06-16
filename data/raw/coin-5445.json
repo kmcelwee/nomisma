@@ -35,6 +35,15 @@
         "3.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5445\",\"call_number_browse\":\"Coin 5445\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1928; $6"
+    ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -57,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3070"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "C. Considius Nonianus"
@@ -74,13 +83,16 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust of Venus Erycina r., laureate and diademed; border of dots"
+        "laureate, diademed, and with hair decorated"
     ],
     "issue_obverse_legend_s": [
-        "C.CONSIDI.NONIANI - S.C"
+        "C\u00b7CONSIDI\u00b7NONIANI S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Temple"
+        "Mountain"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -89,10 +101,14 @@
         "facing each other"
     ],
     "issue_reverse_figure_description_s": [
-        "Tetrastyle temple of Venus Erycina on rocky prominence with ERVC at base; wall in foreground with gate at center and two towers; border of dots"
+        "on which stands temple (of Venus at Eryx), surrounded by wall with gate"
     ],
     "issue_reverse_legend_s": [
         "ERVC"
+    ],
+    "issue_reverse_attributes_s": [
+        "inscription, above gate",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  424/1",
@@ -100,9 +116,12 @@
         "Sear  381"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -57"
+    ],
     "hashed_id_s": [
         "606f47ac6e8c742d"
     ],
-    "_version_": 1667138392598511616,
-    "timestamp": "2020-05-19T16:51:06.915Z"
+    "_version_": 1684903165101604864,
+    "timestamp": "2020-12-01T18:54:34.192Z"
 }

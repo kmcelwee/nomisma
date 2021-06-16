@@ -35,6 +35,9 @@
         "2.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13250\",\"call_number_browse\":\"Coin 13250\"}}",
+    "numismatic_accession_s": [
+        "748: 2018-05-15 Allen G. Berman"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -71,9 +74,12 @@
         "\u0627\u0644\u0644\u0647 \u0627\u062d\u062f \u0627\u0644\u0644\u0647 | \u0627\u0644\u0635\u0645\u062f \u0644\u0645 \u064a\u0644\u062f \u0648| \u0644\u0645\u064a\u0648\u0644\u062f \u0648 \u0644\u0645\u064a\u0643\u0644 | \u0644\u0647 \u0643\u0641\u0648\u0627 \u0627\u062d\u062f (counter clockwise)\u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 \u0627\u0631\u0633\u0644\u0647 \u0628\u0627\u0644\u0647\u062f\u0649 \u0648 \u062f\u064a\u0646 \u0627\u0644\u062d\u0642 \u0644\u064a\u0638\u0647\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0644\u062f\u064a\u0646 \u0643\u0644\u0651\u0647 \u0648 \u0644\u0648 \u0643\u0631\u0647 \u0627\u0644\u0645\u0634\u0631\u0643\u0648\u0646"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "07e0726782abb7d9"
     ],
-    "_version_": 1674368589649412096,
-    "timestamp": "2020-08-07T12:12:00.150Z"
+    "_version_": 1684903143772520448,
+    "timestamp": "2020-12-01T18:54:13.852Z"
 }

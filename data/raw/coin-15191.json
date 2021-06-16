@@ -29,8 +29,11 @@
         "43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15191\",\"call_number_browse\":\"Coin 15191\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1979,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "2nd Grade"
-    ],
-    "issue_number_s": [
-        "9349"
     ],
     "issue_metal_s": [
         "Silvered"
@@ -65,9 +65,12 @@
         "Condecoraciones Cubanas: Teor\u00eda e Historia  3:174-78"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1979 to "
+    ],
     "hashed_id_s": [
         "2c3c3d02c314cf3b"
     ],
-    "_version_": 1667145394174296065,
-    "timestamp": "2020-05-19T18:52:44.573Z"
+    "_version_": 1684903371439341568,
+    "timestamp": "2020-12-01T18:57:50.971Z"
 }

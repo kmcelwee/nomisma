@@ -35,8 +35,11 @@
         "25.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11970\",\"call_number_browse\":\"Coin 11970\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 134,
     "pub_date_end_sort": 138,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "8023"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -90,9 +90,12 @@
         "BMC 446 1371"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "134 to 138"
+    ],
     "hashed_id_s": [
         "d72138c99693785e"
     ],
-    "_version_": 1667138336457752576,
-    "timestamp": "2020-05-19T16:50:13.376Z"
+    "_version_": 1684903528356642816,
+    "timestamp": "2020-12-01T19:00:20.619Z"
 }

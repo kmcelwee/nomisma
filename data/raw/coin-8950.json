@@ -41,8 +41,11 @@
         "3.91"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8950\",\"call_number_browse\":\"Coin 8950\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "652: 1924-11-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -57,
     "pub_date_end_sort": -38,
@@ -98,9 +101,12 @@
         "Sellwood  47.10 variant"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-57 to -38"
+    ],
     "hashed_id_s": [
         "84c9ad72809ed525"
     ],
-    "_version_": 1672999014862159872,
-    "timestamp": "2020-07-23T09:23:11.849Z"
+    "_version_": 1684903666959515648,
+    "timestamp": "2020-12-01T19:02:32.802Z"
 }

@@ -35,8 +35,11 @@
         "3.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10492\",\"call_number_browse\":\"Coin 10492\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Jean Elsen et Fils, Brussels; 03/18/2000; Public Auction 61 (187)"
     ],
     "pub_date_start_sort": 224,
     "pub_date_end_sort": 240,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6663"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "SNS 1 Type IIe/3a (SNS 1)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "224 to 240"
+    ],
     "hashed_id_s": [
         "b92a6d0ce8bd39c7"
     ],
-    "_version_": 1667138345023569920,
-    "timestamp": "2020-05-19T16:50:21.547Z"
+    "_version_": 1684903248440328192,
+    "timestamp": "2020-12-01T18:55:53.670Z"
 }

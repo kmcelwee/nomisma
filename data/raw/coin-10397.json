@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "small"
     ],
-    "issue_number_s": [
-        "6598"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,9 +101,12 @@
         "BMC Syria  445"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "ab1edc8014c160f1"
     ],
-    "_version_": 1667138282340745216,
-    "timestamp": "2020-05-19T16:49:21.767Z"
+    "_version_": 1684903499495636992,
+    "timestamp": "2020-12-01T18:59:53.095Z"
 }

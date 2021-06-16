@@ -35,6 +35,15 @@
         "3.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4718\",\"call_number_browse\":\"Coin 4718\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1924; $11"
+    ],
     "pub_date_start_sort": -41,
     "pub_date_end_sort": -41,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2566"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +109,12 @@
         "Sear  1504"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-41 to -41"
+    ],
     "hashed_id_s": [
         "70345972bbc69c8d"
     ],
-    "_version_": 1667138239230640128,
-    "timestamp": "2020-05-19T16:48:40.654Z"
+    "_version_": 1684903463547305984,
+    "timestamp": "2020-12-01T18:59:18.814Z"
 }

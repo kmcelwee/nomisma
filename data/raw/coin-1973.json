@@ -38,8 +38,8 @@
         "6.37"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1973\",\"call_number_browse\":\"Coin 1973\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": 42,
     "pub_date_end_sort": 46,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1291"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +95,12 @@
         "RPC.1  1180"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "42 to 46"
+    ],
     "hashed_id_s": [
         "5b8062ef95a5e7a3"
     ],
-    "_version_": 1667138216485978112,
-    "timestamp": "2020-05-19T16:48:18.962Z"
+    "_version_": 1684902991370387456,
+    "timestamp": "2020-12-01T18:51:48.510Z"
 }

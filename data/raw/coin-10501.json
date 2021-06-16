@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "small"
     ],
-    "issue_number_s": [
-        "6674"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -104,9 +101,12 @@
         "BMC Syria  426"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "218 to 222"
+    ],
     "hashed_id_s": [
         "3dcd516ceb58d734"
     ],
-    "_version_": 1667144827449376768,
-    "timestamp": "2020-05-19T18:33:23.784Z"
+    "_version_": 1684903361058439168,
+    "timestamp": "2020-12-01T18:57:41.072Z"
 }

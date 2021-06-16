@@ -38,6 +38,9 @@
         "4.27"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8720\",\"call_number_browse\":\"Coin 8720\"}}",
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1028,
     "pub_date_end_sort": 1034,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "nomisma histamenon"
-    ],
-    "issue_number_s": [
-        "5554"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BL Romanus III 43/Cp/AU/"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1028 to 1034"
+    ],
     "hashed_id_s": [
         "bdfa878c17171fc5"
     ],
-    "_version_": 1667138157378797568,
-    "timestamp": "2020-05-19T16:47:22.594Z"
+    "_version_": 1684902920658616320,
+    "timestamp": "2020-12-01T18:50:41.075Z"
 }

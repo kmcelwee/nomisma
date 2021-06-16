@@ -35,6 +35,15 @@
         "14.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3226\",\"call_number_browse\":\"Coin 3226\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "B.A. Seaby, London; 1929; $75"
+    ],
     "pub_date_start_sort": -392,
     "pub_date_end_sort": -358,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1968"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +92,12 @@
         "BMC Mac. p. 67 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-392 to -358"
+    ],
     "hashed_id_s": [
         "3bbc745cc90c3f5b"
     ],
-    "_version_": 1667138226134974464,
-    "timestamp": "2020-05-19T16:48:28.166Z"
+    "_version_": 1684902983334100992,
+    "timestamp": "2020-12-01T18:51:40.846Z"
 }

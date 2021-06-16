@@ -38,8 +38,11 @@
         "3.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5998\",\"call_number_browse\":\"Coin 5998\"}}",
-    "donor_s": [
-        "T. Leslie Shear, Jr."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "5: 1976-01-01 T. Leslie Shear, Jr."
     ],
     "pub_date_start_sort": -44,
     "pub_date_end_sort": -31,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "3475"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Amandry 238 C3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-44 to -31"
+    ],
     "hashed_id_s": [
         "fd779feaa081fcbb"
     ],
-    "_version_": 1667138382753431552,
-    "timestamp": "2020-05-19T16:50:57.529Z"
+    "_version_": 1684903557840502784,
+    "timestamp": "2020-12-01T19:00:48.737Z"
 }

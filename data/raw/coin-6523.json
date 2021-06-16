@@ -38,6 +38,9 @@
         "0.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6523\",\"call_number_browse\":\"Coin 6523\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1294,
     "pub_date_end_sort": 1328,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "billon tornese"
-    ],
-    "issue_number_s": [
-        "3942"
     ],
     "issue_metal_s": [
         "Silver"
@@ -93,9 +93,12 @@
         "Sear  2327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1294 to 1328"
+    ],
     "hashed_id_s": [
         "64f3b8775fbc1fea"
     ],
-    "_version_": 1667138369074757632,
-    "timestamp": "2020-05-19T16:50:44.485Z"
+    "_version_": 1684903256193499136,
+    "timestamp": "2020-12-01T18:56:01.065Z"
 }

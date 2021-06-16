@@ -32,16 +32,16 @@
         "14.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1069\",\"call_number_browse\":\"Coin 1069\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1862,
     "pub_date_end_sort": 1875,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "523"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,9 +75,12 @@
         "KM 357 1-15"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1862 to 1875"
+    ],
     "hashed_id_s": [
         "705588715c8da5f7"
     ],
-    "_version_": 1667145480125022209,
-    "timestamp": "2020-05-19T18:50:06.541Z"
+    "_version_": 1684903443761725440,
+    "timestamp": "2020-12-01T18:58:59.944Z"
 }

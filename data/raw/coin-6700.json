@@ -35,8 +35,11 @@
         "7.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6700\",\"call_number_browse\":\"Coin 6700\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Muenzen & Medaillen AG, Basel; Sept. 1960; S. fr. 110 = $25.74"
     ],
     "pub_date_start_sort": -302,
     "pub_date_end_sort": -231,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "4117"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +95,12 @@
         "Vlasto Coll.  691"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-302 to -231"
+    ],
     "hashed_id_s": [
         "965f9603a7f0d2ae"
     ],
-    "_version_": 1667138367624577024,
-    "timestamp": "2020-05-19T16:50:43.101Z"
+    "_version_": 1684903104171999232,
+    "timestamp": "2020-12-01T18:53:36.085Z"
 }

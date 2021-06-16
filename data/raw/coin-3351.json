@@ -35,8 +35,11 @@
         "6.66"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3351\",\"call_number_browse\":\"Coin 3351\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1620,
     "pub_date_end_sort": 1627,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "1977"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -70,9 +70,12 @@
         "\u4e2d\u56fd\u53e4\u94b1\u76ee\u5f55 294 1st Column 1st Coin"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1620 to 1627"
+    ],
     "hashed_id_s": [
         "80d471ac8a47a4fc"
     ],
-    "_version_": 1667138437747048448,
-    "timestamp": "2020-05-19T16:51:49.974Z"
+    "_version_": 1684903285128953856,
+    "timestamp": "2020-12-01T18:56:28.659Z"
 }

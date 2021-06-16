@@ -35,6 +35,9 @@
         "3.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7101\",\"call_number_browse\":\"Coin 7101\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 325,
     "pub_date_end_sort": 326,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4444"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -98,9 +98,12 @@
         "RIC 7 688 63"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "325 to 326"
+    ],
     "hashed_id_s": [
         "2314dbc4db8a32f9"
     ],
-    "_version_": 1667138356927004672,
-    "timestamp": "2020-05-19T16:50:32.899Z"
+    "_version_": 1684903250924404736,
+    "timestamp": "2020-12-01T18:55:56.039Z"
 }

@@ -38,8 +38,14 @@
         "4.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11300\",\"call_number_browse\":\"Coin 11300\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "N. Chalabiani; 10/02/2003"
     ],
     "pub_date_start_sort": 632,
     "pub_date_end_sort": 651,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7464"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  ST Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "632 to 651"
+    ],
     "hashed_id_s": [
         "2b07db32f69f2b29"
     ],
-    "_version_": 1667138171650965504,
-    "timestamp": "2020-05-19T16:47:36.205Z"
+    "_version_": 1684902948279156736,
+    "timestamp": "2020-12-01T18:51:07.417Z"
 }

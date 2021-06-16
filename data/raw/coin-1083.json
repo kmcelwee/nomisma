@@ -35,8 +35,11 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1083\",\"call_number_browse\":\"Coin 1083\"}}",
-    "donor_s": [
-        "David R. Winans"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "124: 1966-01-01 David R. Winans"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "534"
     ],
     "issue_metal_s": [
         "Silver"
@@ -103,9 +103,12 @@
         "Price  P15"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "eb2600550eadf585"
     ],
-    "_version_": 1667138457023021056,
-    "timestamp": "2020-05-19T16:52:08.358Z"
+    "_version_": 1684903599733211136,
+    "timestamp": "2020-12-01T19:01:28.690Z"
 }

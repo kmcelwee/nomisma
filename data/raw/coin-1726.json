@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "litra"
     ],
-    "issue_number_s": [
-        "1114"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "5a36372f6163a2f9"
     ],
-    "_version_": 1667138466535702528,
-    "timestamp": "2020-05-19T16:52:17.429Z"
+    "_version_": 1683105229916078080,
+    "timestamp": "2020-11-11T22:37:09.584Z"
 }

@@ -29,6 +29,9 @@
         "Phillips book, https://catalog.princeton.edu/catalog/664551, inserted between pp. 302 and 303"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15194\",\"call_number_browse\":\"Coin 15194\"}}",
+    "numismatic_collection_s": [
+        "Phillips"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "3 pounds"
-    ],
-    "issue_number_s": [
-        "9351"
     ],
     "issue_metal_s": [
         "Paper"
@@ -83,9 +83,12 @@
         "dummy123"
     ],
     "issue_monogram_1display": "[{\"title\":\"dummy123\",\"document_id\":\"179260e9-ea9f-448d-93d4-202c555e9745\"}]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "de4de4eefa24410e"
     ],
-    "_version_": 1667144700080947200,
-    "timestamp": "2020-05-19T18:31:22.498Z"
+    "_version_": 1684903351888642048,
+    "timestamp": "2020-12-01T18:57:32.327Z"
 }

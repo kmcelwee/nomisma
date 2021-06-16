@@ -29,13 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "26-5-1932"
+        "1932-05-26"
+    ],
+    "find_feature_s": [
+        "House A, S. of peristyle, surface"
     ],
     "find_locus_s": [
-        "10-N"
+        "DS 10-N (HSEA)"
     ],
-    "find_description_s": [
-        "N-10 House A, Surface South of Peristyle"
+    "find_number_s": [
+        "1777a"
     ],
     "die_axis_s": [
         "5"
@@ -47,6 +50,12 @@
         "1.21"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7321\",\"call_number_browse\":\"Coin 7321\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 337,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "4586"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,7 +95,7 @@
         "laurelled, draped, cuirassed"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTINVS MAX AVG"
+        "CONSTANTI-NVS MAX AVG"
     ],
     "issue_reverse_figure_s": [
         "Soldiers"
@@ -107,16 +113,19 @@
         "standard at center"
     ],
     "issue_reverse_legend_s": [
-        "GLORIA EXERCITUS"
+        "GLOR-IA EXERC-ITVS | SMAN"
     ],
     "issue_references_s": [
         "Cohen 7 377.114",
-        "RIC 7 697.108"
+        "RIC VII Antioch 108"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 337"
+    ],
     "hashed_id_s": [
         "2c78711d15cb2af7"
     ],
-    "_version_": 1667138356461436928,
-    "timestamp": "2020-05-19T16:50:32.454Z"
+    "_version_": 1691337603366780928,
+    "timestamp": "2021-02-10T19:27:12.733Z"
 }

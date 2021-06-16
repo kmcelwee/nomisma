@@ -53,6 +53,12 @@
         "2.88"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8129\",\"call_number_browse\":\"Coin 8129\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1071,
     "pub_date_end_sort": 1078,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5150"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -118,9 +121,12 @@
         "Sear  1878"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "432b30181ede4d12"
     ],
-    "_version_": 1667138349805076480,
-    "timestamp": "2020-05-19T16:50:26.108Z"
+    "_version_": 1684903535204892672,
+    "timestamp": "2020-12-01T19:00:27.150Z"
 }

@@ -35,8 +35,11 @@
         "1.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2498\",\"call_number_browse\":\"Coin 2498\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1382,
     "pub_date_end_sort": 1400,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "grosso"
-    ],
-    "issue_number_s": [
-        "1577"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,12 +102,15 @@
     ],
     "issue_references_s": [
         "Pap. Antonio Venier 229, 2",
-        "CNI, 7  III.27.1"
+        "CNI, 7  106, 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1382 to 1400"
+    ],
     "hashed_id_s": [
         "bd854ca853eb748f"
     ],
-    "_version_": 1667138160447979520,
-    "timestamp": "2020-05-19T16:47:25.520Z"
+    "_version_": 1684902931120259072,
+    "timestamp": "2020-12-01T18:50:51.053Z"
 }

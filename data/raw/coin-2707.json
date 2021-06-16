@@ -35,6 +35,16 @@
         "11.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2707\",\"call_number_browse\":\"Coin 2707\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Cahn; 1930; ",
+        "Cahn; 1930; "
+    ],
     "pub_date_start_sort": -19,
     "pub_date_end_sort": -18,
     "issue_object_type_s": [
@@ -95,9 +105,12 @@
         "BMC.1.  704"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-19 to -18"
+    ],
     "hashed_id_s": [
         "b3606fe9d94f1069"
     ],
-    "_version_": 1674370981018206208,
-    "timestamp": "2020-08-07T12:50:00.732Z"
+    "_version_": 1684903334401540096,
+    "timestamp": "2020-12-01T18:57:15.650Z"
 }

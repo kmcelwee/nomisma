@@ -38,8 +38,8 @@
         "2.32"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11393\",\"call_number_browse\":\"Coin 11393\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 751,
     "pub_date_end_sort": 769,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "7558"
     ],
     "issue_metal_s": [
         "Copper"
@@ -106,9 +103,12 @@
         "BMC.Byz. 382 23V"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "751 to 769"
+    ],
     "hashed_id_s": [
         "8699753e44a92d2b"
     ],
-    "_version_": 1667138293321433088,
-    "timestamp": "2020-05-19T16:49:32.241Z"
+    "_version_": 1684903504140828672,
+    "timestamp": "2020-12-01T18:59:57.526Z"
 }

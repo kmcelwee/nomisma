@@ -35,6 +35,12 @@
         "2.36"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1846\",\"call_number_browse\":\"Coin 1846\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "259: 1993-01-01 Certified Coin Exchange"
+    ],
     "pub_date_start_sort": -433,
     "pub_date_end_sort": -348,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tetrobol"
-    ],
-    "issue_number_s": [
-        "1202"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "BMC Mac. Macedonia p.68-13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-433 to -348"
+    ],
     "hashed_id_s": [
         "2010faadf17fddb4"
     ],
-    "_version_": 1667138214969737216,
-    "timestamp": "2020-05-19T16:48:17.519Z"
+    "_version_": 1684903449076957184,
+    "timestamp": "2020-12-01T18:59:05.011Z"
 }

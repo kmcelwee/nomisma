@@ -2,7 +2,7 @@
     "id": "coin-7790",
     "title_display": "Coin: 7790",
     "pub_created_display": [
-        "Constantine II, follis, Cyzicus"
+        "Constantine II   (337 to 340), follis, Cyzicus"
     ],
     "call_number_display": [
         "Coin 7790"
@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "May 2, 1932"
+        "1932-05-02"
     ],
     "find_feature_s": [
-        "West trench"
+        "[None recorded]"
     ],
     "find_locus_s": [
-        "N-9"
+        "DS 9-N"
     ],
     "find_number_s": [
         "1172"
@@ -50,6 +50,12 @@
         "2.68"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7790\",\"call_number_browse\":\"Coin 7790\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 333,
     "issue_object_type_s": [
@@ -58,23 +64,20 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4853"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
-        "Cyzicus, Hellespontus, Roman Empire"
+        "Cyzicus, Mysia, Roman Empire"
     ],
     "issue_city_s": [
         "Cyzicus"
     ],
     "issue_state_s": [
-        "Hellespontus"
+        "Mysia"
     ],
     "issue_region_s": [
         "Roman Empire"
@@ -113,9 +116,12 @@
         "RIC 7 653.67"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 333"
+    ],
     "hashed_id_s": [
         "bc823ad0f24b71a7"
     ],
-    "_version_": 1667138262627516416,
-    "timestamp": "2020-05-19T16:49:02.966Z"
+    "_version_": 1695435314307268608,
+    "timestamp": "2021-03-28T00:58:34.382Z"
 }

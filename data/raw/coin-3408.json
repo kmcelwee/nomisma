@@ -35,8 +35,11 @@
         "5.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3408\",\"call_number_browse\":\"Coin 3408\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1661,
     "pub_date_end_sort": 1683,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "2 Cash"
-    ],
-    "issue_number_s": [
-        "2032"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -76,9 +76,12 @@
         "Zhong Guo  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1661 to 1683"
+    ],
     "hashed_id_s": [
         "e4a4c11f586daad5"
     ],
-    "_version_": 1667138226759925760,
-    "timestamp": "2020-05-19T16:48:28.760Z"
+    "_version_": 1684903106551218176,
+    "timestamp": "2020-12-01T18:53:38.356Z"
 }

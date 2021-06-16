@@ -35,22 +35,25 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14843\",\"call_number_browse\":\"Coin 14843\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "686:  unknown"
+    ],
+    "pub_date_start_sort": -77,
+    "pub_date_end_sort": -77,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9113"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Satrienus  "
@@ -77,10 +80,13 @@
         "bust"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
     ],
     "issue_obverse_figure_description_s": [
-        "wearing helmet"
+        "helmeted"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "She-wolf"
@@ -89,18 +95,24 @@
         "standing"
     ],
     "issue_reverse_orientation_s": [
-        "facing left"
+        "left"
     ],
     "issue_reverse_legend_s": [
-        "ROMA P.SATRIE NVS"
+        "ROMA P\u00b7SATRIE / NVS"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  388-1b"
+        "RRC  388/1b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-77 to -77"
+    ],
     "hashed_id_s": [
         "271fddd33be85d31"
     ],
-    "_version_": 1667306148058890240,
-    "timestamp": "2020-05-21T13:17:31.017Z"
+    "_version_": 1686044111623159808,
+    "timestamp": "2020-12-14T09:09:25.605Z"
 }

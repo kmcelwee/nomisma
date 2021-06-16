@@ -32,8 +32,11 @@
         "4.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1494\",\"call_number_browse\":\"Coin 1494\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1360,
     "pub_date_end_sort": 1364,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "1 Cash"
     ],
-    "issue_number_s": [
-        "887"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_ruler_s": [
         "Da Yi \u5927\u7fa9 (Chen You Liang) (1360 to 1364)"
@@ -72,9 +75,12 @@
         "Jen  498"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1360 to 1364"
+    ],
     "hashed_id_s": [
         "20c18fc8ab25f385"
     ],
-    "_version_": 1667138212132290560,
-    "timestamp": "2020-05-19T16:48:14.809Z"
+    "_version_": 1684903445856780288,
+    "timestamp": "2020-12-01T18:59:01.943Z"
 }

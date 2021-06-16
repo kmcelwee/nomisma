@@ -35,6 +35,15 @@
         "3.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4079\",\"call_number_browse\":\"Coin 4079\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Etienne Bourgey,, Paris; 1926; $1.35"
+    ],
     "pub_date_start_sort": -49,
     "pub_date_end_sort": -49,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2338"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Cn. Nerius"
@@ -74,22 +83,25 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "bearded; harpa over shoulder; border of dots"
+        "bearded"
     ],
     "issue_obverse_legend_s": [
-        "NERI Q URB"
+        "NERI\u00b7Q\u00b7VRB"
     ],
     "issue_obverse_attributes_s": [
-        "harpa, over shoulder of Saturn"
+        "harpa, over shoulder",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Legionary eagle"
     ],
-    "issue_reverse_figure_description_s": [
-        "to l., standard of maniple of hastati; to r., standard of maniple of principes; radiate border"
-    ],
     "issue_reverse_legend_s": [
-        "L LENT | C \u039bARC | CO S"
+        "L\u00b7LENT C\u00b7MARC CO S"
+    ],
+    "issue_reverse_attributes_s": [
+        "standard of maniple of hastati and inscription, on l. ",
+        "standard of maniple of principes and inscription, on r. ",
+        "border, radiate"
     ],
     "issue_references_s": [
         "RRC  441/1",
@@ -97,9 +109,12 @@
         "Sear  411"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-49 to -49"
+    ],
     "hashed_id_s": [
         "b7ada20905f1c338"
     ],
-    "_version_": 1667138232344641536,
-    "timestamp": "2020-05-19T16:48:34.088Z"
+    "_version_": 1684902986751410176,
+    "timestamp": "2020-12-01T18:51:44.104Z"
 }

@@ -35,16 +35,19 @@
         "0.78"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4160\",\"call_number_browse\":\"Coin 4160\"}}",
-    "pub_date_start_sort": -47,
-    "pub_date_end_sort": -47,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": 0,
+    "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "sestertius"
-    ],
-    "issue_number_s": [
-        "2371"
     ],
     "issue_metal_s": [
         "Silver"
@@ -71,10 +74,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Corinthian; legend left downwards; border of dots"
+        "Corinthian helmet; legend left downwards"
     ],
     "issue_obverse_legend_s": [
-        "C ANTIVS"
+        "C.ANTIVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Owl"
@@ -86,13 +92,14 @@
         "facing"
     ],
     "issue_reverse_figure_description_s": [
-        "owl on shield; legend left downwards; border of dots"
+        "owl on shield; legend left downwards"
     ],
     "issue_reverse_legend_s": [
         "RESTIO"
     ],
     "issue_reverse_attributes_s": [
-        "shield, owl stands on shield"
+        "shield, owl standing on shield",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  455/6",
@@ -100,9 +107,12 @@
         "Sear  439"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "7737ceeadbbc1c82"
     ],
-    "_version_": 1667138233687867392,
-    "timestamp": "2020-05-19T16:48:35.367Z"
+    "_version_": 1684903459064643584,
+    "timestamp": "2020-12-01T18:59:14.537Z"
 }

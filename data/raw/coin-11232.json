@@ -38,8 +38,14 @@
         "3.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11232\",\"call_number_browse\":\"Coin 11232\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 01/13/2006"
     ],
     "pub_date_start_sort": 591,
     "pub_date_end_sort": 628,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7398"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +92,12 @@
         "SN  Uncertain Mint, Type IV/5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "591 to 628"
+    ],
     "hashed_id_s": [
         "099a2ed446ceb80b"
     ],
-    "_version_": 1667138161543741440,
-    "timestamp": "2020-05-19T16:47:26.567Z"
+    "_version_": 1684902934232432640,
+    "timestamp": "2020-12-01T18:50:54.019Z"
 }

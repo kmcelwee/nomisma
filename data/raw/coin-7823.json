@@ -50,6 +50,9 @@
         "3.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7823\",\"call_number_browse\":\"Coin 7823\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 708,
     "pub_date_end_sort": 748,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4888"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +89,12 @@
         "BMC  789"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "708 to 748"
+    ],
     "hashed_id_s": [
         "3c0f3a58df7f9807"
     ],
-    "_version_": 1667138331096383488,
-    "timestamp": "2020-05-19T16:50:08.264Z"
+    "_version_": 1684903526971473920,
+    "timestamp": "2020-12-01T19:00:19.299Z"
 }

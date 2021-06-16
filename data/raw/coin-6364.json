@@ -38,8 +38,11 @@
         "9.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6364\",\"call_number_browse\":\"Coin 6364\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 138,
     "pub_date_end_sort": 161,
@@ -107,9 +110,12 @@
         "BMC Gal. p. 255 66v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "138 to 161"
+    ],
     "hashed_id_s": [
         "bd7cf0fd6fa7acd1"
     ],
-    "_version_": 1674370143095881728,
-    "timestamp": "2020-08-07T12:36:41.627Z"
+    "_version_": 1684903368691023872,
+    "timestamp": "2020-12-01T18:57:48.351Z"
 }

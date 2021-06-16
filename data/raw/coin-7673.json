@@ -34,8 +34,11 @@
     "find_date_s": [
         "5/14/1937"
     ],
+    "find_feature_s": [
+        "Room D, trench NE. of Lion mosaic, to 2.5m (basket D)"
+    ],
     "find_locus_s": [
-        "DH 28-0"
+        "DH 28-O"
     ],
     "find_number_s": [
         "Ca1215"
@@ -47,6 +50,12 @@
         "0.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7673\",\"call_number_browse\":\"Coin 7673\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 450,
     "pub_date_end_sort": 457,
     "issue_object_type_s": [
@@ -54,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "aes IV"
-    ],
-    "issue_number_s": [
-        "4753"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,13 +101,16 @@
         "[illegible]"
     ],
     "issue_references_s": [
-        "RIC X  542",
+        "RIC X Marcian 542",
         "DOC  494"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "450 to 457"
+    ],
     "hashed_id_s": [
         "61ae888a61c26e93"
     ],
-    "_version_": 1667138175002214400,
-    "timestamp": "2020-05-19T16:47:39.400Z"
+    "_version_": 1684903683294232576,
+    "timestamp": "2020-12-01T19:02:48.381Z"
 }

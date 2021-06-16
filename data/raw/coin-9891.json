@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "billon trachy"
     ],
-    "issue_number_s": [
-        "6263"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -97,9 +94,12 @@
         "Sear  2003"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1185 to 1195"
+    ],
     "hashed_id_s": [
         "69e42af8b7d75376"
     ],
-    "_version_": 1667145496729223168,
-    "timestamp": "2020-05-19T19:01:22.133Z"
+    "_version_": 1684903348244840448,
+    "timestamp": "2020-12-01T18:57:28.853Z"
 }

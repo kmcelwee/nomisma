@@ -41,8 +41,14 @@
         "3.09"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12391\",\"call_number_browse\":\"Coin 12391\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
+    ],
+    "numismatic_provenance_s": [
+        "21.10.1954"
     ],
     "pub_date_start_sort": 1202,
     "pub_date_end_sort": 1215,
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8318"
     ],
     "issue_metal_s": [
         "Billon"
@@ -104,9 +107,12 @@
         "Sear  2017"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1202 to 1215"
+    ],
     "hashed_id_s": [
         "f7b01c9b62dd33f6"
     ],
-    "_version_": 1667138341578997760,
-    "timestamp": "2020-05-19T16:50:18.261Z"
+    "_version_": 1684903246794063872,
+    "timestamp": "2020-12-01T18:55:52.101Z"
 }

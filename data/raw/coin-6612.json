@@ -35,8 +35,11 @@
         "3.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6612\",\"call_number_browse\":\"Coin 6612\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
     ],
     "pub_date_start_sort": -206,
     "pub_date_end_sort": -195,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "4035"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -74,41 +77,39 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted Roma head r.; behind, X."
+        "helmeted"
     ],
     "issue_obverse_attributes_s": [
-        "border, Dot border."
+        "border, dotted",
+        "X, behind head"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
     ],
-    "issue_reverse_symbol_s": [
-        "rostrum tridens"
-    ],
     "issue_reverse_part_s": [
-        "riding"
+        "galloping"
     ],
     "issue_reverse_orientation_s": [
         "right"
-    ],
-    "issue_reverse_figure_description_s": [
-        "Dioscuri r.; rostrum tridens below. Legend in linear frame."
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "border, Line border."
+        "rostrum tridens, below horses"
     ],
     "issue_references_s": [
         "RRC  114/1",
         "Syd.  244",
-        "Sear Volume I 54"
+        "Sear  54"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-206 to -195"
+    ],
     "hashed_id_s": [
         "f9c79f464d95f573"
     ],
-    "_version_": 1667138364650815488,
-    "timestamp": "2020-05-19T16:50:40.264Z"
+    "_version_": 1684903700445790208,
+    "timestamp": "2020-12-01T19:03:04.736Z"
 }

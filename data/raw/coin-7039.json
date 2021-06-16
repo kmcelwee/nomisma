@@ -35,13 +35,13 @@
         "15.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7039\",\"call_number_browse\":\"Coin 7039\"}}",
+    "numismatic_provenance_s": [
+        "Rodgers; gift"
+    ],
     "pub_date_start_sort": 85,
     "pub_date_end_sort": 120,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "4374"
     ],
     "issue_metal_s": [
         "Copper"
@@ -93,9 +93,12 @@
         "Mitchiner pg. 405 3006"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "85 to 120"
+    ],
     "hashed_id_s": [
         "75bfece56b6fe08f"
     ],
-    "_version_": 1667138360116772864,
-    "timestamp": "2020-05-19T16:50:35.939Z"
+    "_version_": 1684903089814896640,
+    "timestamp": "2020-12-01T18:53:22.394Z"
 }

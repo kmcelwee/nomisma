@@ -35,6 +35,12 @@
         "1.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6762\",\"call_number_browse\":\"Coin 6762\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1270,
     "pub_date_end_sort": 1289,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1/2 tram"
-    ],
-    "issue_number_s": [
-        "4172"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +102,12 @@
         "Bedoukian  1529v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1270 to 1289"
+    ],
     "hashed_id_s": [
         "5a63cfa1f73dfef3"
     ],
-    "_version_": 1667138362177224704,
-    "timestamp": "2020-05-19T16:50:37.905Z"
+    "_version_": 1684903544497373184,
+    "timestamp": "2020-12-01T19:00:36.014Z"
 }

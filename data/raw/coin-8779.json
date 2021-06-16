@@ -38,6 +38,9 @@
         "1.35"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8779\",\"call_number_browse\":\"Coin 8779\"}}",
+    "numismatic_accession_s": [
+        "29: 2005-01-14 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1078,
     "pub_date_end_sort": 1081,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "miliaresion"
-    ],
-    "issue_number_s": [
-        "5581"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "BL Nikephorus III milaresion, second entry"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1078 to 1081"
+    ],
     "hashed_id_s": [
         "0fe6f1d76087eefe"
     ],
-    "_version_": 1667138181534842880,
-    "timestamp": "2020-05-19T16:47:45.632Z"
+    "_version_": 1684903426559836160,
+    "timestamp": "2020-12-01T18:58:43.540Z"
 }

@@ -35,6 +35,12 @@
         "13.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3579\",\"call_number_browse\":\"Coin 3579\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": 63,
     "pub_date_end_sort": 64,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1094"
     ],
     "issue_metal_s": [
         "Billon"
@@ -95,9 +98,12 @@
         "RPC.1  5275"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "63 to 64"
+    ],
     "hashed_id_s": [
         "69e0f552e74fa781"
     ],
-    "_version_": 1667138213816303616,
-    "timestamp": "2020-05-19T16:48:16.415Z"
+    "_version_": 1684903098911293440,
+    "timestamp": "2020-12-01T18:53:31.069Z"
 }

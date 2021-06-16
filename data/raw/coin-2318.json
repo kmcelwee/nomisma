@@ -38,8 +38,11 @@
         "6.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2318\",\"call_number_browse\":\"Coin 2318\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "1493"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,17 @@
         "Houghton  23"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, club",
+        "Other Person, Zeus",
+        "Category, thunderbolt"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "f1b08eda9f79e97b"
     ],
-    "_version_": 1667138114723774464,
-    "timestamp": "2020-05-19T16:46:41.917Z"
+    "_version_": 1684903650123579392,
+    "timestamp": "2020-12-01T19:02:16.745Z"
 }

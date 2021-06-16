@@ -53,6 +53,12 @@
         "8.39"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2962\",\"call_number_browse\":\"Coin 2962\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 976,
     "pub_date_end_sort": 1030,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1798"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -121,9 +124,12 @@
         "Sear 376 1813"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "ca95b7902d66df9d"
     ],
-    "_version_": 1667138421064204288,
-    "timestamp": "2020-05-19T16:51:34.065Z"
+    "_version_": 1684903198932860928,
+    "timestamp": "2020-12-01T18:55:06.456Z"
 }

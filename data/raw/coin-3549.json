@@ -35,19 +35,28 @@
         "14.5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3549\",\"call_number_browse\":\"Coin 3549\"}}",
-    "pub_date_start_sort": -30,
-    "pub_date_end_sort": 14,
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "380:  CCG"
+    ],
+    "pub_date_start_sort": -5,
+    "pub_date_end_sort": -5,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "2082"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -89,21 +98,24 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Tyche of Antioch seated right, with palm branch; before river god of Orontes; in field, \u03a5\u03a0\u0391 \u0399\u0392 and \u0391\u039d\u03a4"
+        "river god of Orontes before Tyche"
     ],
     "issue_reverse_legend_s": [
         "\u0395\u03a4\u039f\u03a5\u03a3 G\u039a \u039d\u0399\u039a\u0397\u03a3"
     ],
     "issue_reverse_attributes_s": [
-        "palm branch, Tyche holds a palm branch"
+        "palm branch, in outstretched hand"
     ],
     "issue_references_s": [
         "RPC.1  4151"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-5 to -5"
+    ],
     "hashed_id_s": [
         "165b3f1568651099"
     ],
-    "_version_": 1667138167241703424,
-    "timestamp": "2020-05-19T16:47:32Z"
+    "_version_": 1684903694393409536,
+    "timestamp": "2020-12-01T19:02:58.966Z"
 }

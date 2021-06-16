@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6665"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -102,9 +99,12 @@
         "ornament, fan-like floret below and above inscrip."
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "976 to 1030"
+    ],
     "hashed_id_s": [
         "1405fff6cc5e698b"
     ],
-    "_version_": 1667144828176039936,
-    "timestamp": "2020-05-19T18:33:24.656Z"
+    "_version_": 1684903140575412224,
+    "timestamp": "2020-12-01T18:54:10.802Z"
 }

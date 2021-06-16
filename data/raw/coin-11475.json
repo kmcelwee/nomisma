@@ -35,8 +35,11 @@
         "3.85"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11475\",\"call_number_browse\":\"Coin 11475\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -113,
     "pub_date_end_sort": -112,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "7632"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +92,12 @@
         "RRC  292-1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-113 to -112"
+    ],
     "hashed_id_s": [
         "b26dd0781d8299e2"
     ],
-    "_version_": 1667138131775717376,
-    "timestamp": "2020-05-19T16:46:58.176Z"
+    "_version_": 1684903377548345344,
+    "timestamp": "2020-12-01T18:57:56.798Z"
 }

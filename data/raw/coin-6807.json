@@ -35,8 +35,11 @@
         "5.76"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6807\",\"call_number_browse\":\"Coin 6807\"}}",
-    "donor_s": [
-        "Stanley E. Harris"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "242:  Stanley E. Harris"
     ],
     "pub_date_start_sort": 1226,
     "pub_date_end_sort": 1270,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "tank"
-    ],
-    "issue_number_s": [
-        "4216"
     ],
     "issue_metal_s": [
         "Copper"
@@ -101,9 +101,12 @@
         "Nercessian  357"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1226 to 1270"
+    ],
     "hashed_id_s": [
         "4bcd92cb815f62ed"
     ],
-    "_version_": 1667138361772474368,
-    "timestamp": "2020-05-19T16:50:37.518Z"
+    "_version_": 1684903094489448448,
+    "timestamp": "2020-12-01T18:53:26.852Z"
 }

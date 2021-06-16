@@ -29,7 +29,7 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "04/29/1938"
+        "1938-04-29"
     ],
     "find_feature_s": [
         "Room C308"
@@ -50,6 +50,12 @@
         "2.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8102\",\"call_number_browse\":\"Coin 8102\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 313,
     "pub_date_end_sort": 317,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5133"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,13 +116,16 @@
         "IOVI CONS-ERVATORI | SMN"
     ],
     "issue_references_s": [
-        "RIC.7 p. 601 13",
+        "RIC.7 Nicomedia 13",
         "Numismatique Constantinienne III p. 27, I 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "313 to 317"
+    ],
     "hashed_id_s": [
         "478510ff9073f08a"
     ],
-    "_version_": 1667138266451673088,
-    "timestamp": "2020-05-19T16:49:06.615Z"
+    "_version_": 1694234233660243968,
+    "timestamp": "2021-03-14T18:47:54.616Z"
 }

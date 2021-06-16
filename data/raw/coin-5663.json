@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "1 Dollar"
     ],
-    "issue_number_s": [
-        "3224"
-    ],
     "issue_metal_s": [
         "Tin"
     ],
@@ -96,9 +93,16 @@
         "Elisha Gaullaudet"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Franklin, Benjamin",
+        "Other Person, Rittenhouse, David"
+    ],
+    "issue_date_s": [
+        "1776 to 1776"
+    ],
     "hashed_id_s": [
         "216d8dd95d799b08"
     ],
-    "_version_": 1667138383336439808,
-    "timestamp": "2020-05-19T16:50:58.083Z"
+    "_version_": 1684903262438817792,
+    "timestamp": "2020-12-01T18:56:07.020Z"
 }

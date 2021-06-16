@@ -26,8 +26,11 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9880\",\"call_number_browse\":\"Coin 9880\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
     ],
     "pub_date_start_sort": 1092,
     "pub_date_end_sort": 1093,
@@ -36,9 +39,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "6251"
     ],
     "issue_metal_s": [
         "Copper"
@@ -85,9 +85,12 @@
         "Sear  1931"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1092 to 1093"
+    ],
     "hashed_id_s": [
         "6b889871132822ec"
     ],
-    "_version_": 1667146588845244416,
-    "timestamp": "2020-05-19T19:02:24.586Z"
+    "_version_": 1684903349571289088,
+    "timestamp": "2020-12-01T18:57:30.117Z"
 }

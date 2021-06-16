@@ -26,7 +26,7 @@
         "num"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/06/1932"
@@ -44,6 +44,12 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10472\",\"call_number_browse\":\"Coin 10472\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -226,
     "pub_date_end_sort": -223,
     "issue_object_type_s": [
@@ -51,9 +57,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "8924"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "H & L I,v.I,p.334 922.1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "d440aebb5abdbfa4"
     ],
-    "_version_": 1670291230194401280,
-    "timestamp": "2020-06-23T12:04:07.160Z"
+    "_version_": 1684903344220405760,
+    "timestamp": "2020-12-01T18:57:25.013Z"
 }

@@ -32,8 +32,11 @@
         "5.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9348\",\"call_number_browse\":\"Coin 9348\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "double dirham"
-    ],
-    "issue_number_s": [
-        "5969"
     ],
     "issue_metal_s": [
         "Glass"
@@ -74,6 +74,6 @@
     "hashed_id_s": [
         "fe51b65c74be3398"
     ],
-    "_version_": 1667145542664192000,
-    "timestamp": "2020-05-19T18:52:24.338Z"
+    "_version_": 1684903137724334080,
+    "timestamp": "2020-12-01T18:54:08.083Z"
 }

@@ -35,6 +35,9 @@
         "4.01"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7811\",\"call_number_browse\":\"Coin 7811\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 1221,
     "pub_date_end_sort": 1254,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "tetarteron"
-    ],
-    "issue_number_s": [
-        "4874"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,12 @@
         "Sear  2120"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1221 to 1254"
+    ],
     "hashed_id_s": [
         "364cb285612fa5d5"
     ],
-    "_version_": 1667138181051449344,
-    "timestamp": "2020-05-19T16:47:45.171Z"
+    "_version_": 1684902959043837952,
+    "timestamp": "2020-12-01T18:51:17.682Z"
 }

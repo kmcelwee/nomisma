@@ -50,11 +50,14 @@
         "3.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10320\",\"call_number_browse\":\"Coin 10320\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 1389,
     "pub_date_end_sort": 1399,
-    "issue_number_s": [
-        "6556"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -68,9 +71,12 @@
         "Balog Mamluk  ?"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1389 to 1399"
+    ],
     "hashed_id_s": [
         "9a9a20d4353bf046"
     ],
-    "_version_": 1667138175715246080,
-    "timestamp": "2020-05-19T16:47:40.080Z"
+    "_version_": 1684902951703805952,
+    "timestamp": "2020-12-01T18:51:10.681Z"
 }

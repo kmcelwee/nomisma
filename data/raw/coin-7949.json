@@ -53,6 +53,9 @@
         "2.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7949\",\"call_number_browse\":\"Coin 7949\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -226,
     "pub_date_end_sort": -223,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "4775"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -124,9 +124,12 @@
         "WSM  1032"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-226 to -223"
+    ],
     "hashed_id_s": [
         "7de7a2da8ea4c447"
     ],
-    "_version_": 1667145415569440768,
-    "timestamp": "2020-05-19T18:53:24.805Z"
+    "_version_": 1684903371081777152,
+    "timestamp": "2020-12-01T18:57:50.631Z"
 }

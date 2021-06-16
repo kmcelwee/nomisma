@@ -35,8 +35,11 @@
         "3.82"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 950\",\"call_number_browse\":\"Coin 950\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -310,
     "pub_date_end_sort": -301,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "422"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +102,12 @@
         "Price  1409"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-310 to -301"
+    ],
     "hashed_id_s": [
         "8089abcaeda9413f"
     ],
-    "_version_": 1667138380146671616,
-    "timestamp": "2020-05-19T16:50:55.043Z"
+    "_version_": 1684903260972908544,
+    "timestamp": "2020-12-01T18:56:05.623Z"
 }

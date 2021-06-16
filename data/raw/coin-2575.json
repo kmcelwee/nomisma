@@ -38,8 +38,11 @@
         "4.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2575\",\"call_number_browse\":\"Coin 2575\"}}",
-    "donor_s": [
-        "R. H.C."
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "263: 1961-02-01 R. H.C."
     ],
     "pub_date_start_sort": -261,
     "pub_date_end_sort": -246,
@@ -92,17 +95,24 @@
         "ANTIOXOY | \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3"
     ],
     "issue_reverse_attributes_s": [
-        "\u0395, in outer left field",
-        "m1617, in outer right field"
+        "\u0395, in outer l. field",
+        "monogram, in outer r. field"
     ],
     "issue_references_s": [
         "H & L  527.2a",
         "WSM  1402"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Apollo",
+        "Category, tripod"
+    ],
+    "issue_date_s": [
+        "-261 to -246"
+    ],
     "hashed_id_s": [
         "9bb02ced56544264"
     ],
-    "_version_": 1673104487523287040,
-    "timestamp": "2020-07-24T13:19:38.417Z"
+    "_version_": 1684902995638091776,
+    "timestamp": "2020-12-01T18:51:52.580Z"
 }

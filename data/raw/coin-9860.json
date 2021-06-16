@@ -38,16 +38,13 @@
         "264.26"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9860\",\"call_number_browse\":\"Coin 9860\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "6239"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,6 +92,6 @@
     "hashed_id_s": [
         "c31513d05ad34598"
     ],
-    "_version_": 1667146652540993536,
-    "timestamp": "2020-05-19T19:02:24.211Z"
+    "_version_": 1684903138146910208,
+    "timestamp": "2020-12-01T18:54:08.486Z"
 }

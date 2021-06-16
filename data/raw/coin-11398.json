@@ -50,6 +50,9 @@
         "0.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11398\",\"call_number_browse\":\"Coin 11398\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 347,
     "pub_date_end_sort": 348,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6225"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -80,7 +80,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Woman"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -89,7 +89,7 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled woman"
+        "Bust of Constantius II"
     ],
     "issue_obverse_legend_s": [
         "DV CONSTANTINVS PT AVGG"
@@ -113,13 +113,16 @@
         "SMANA"
     ],
     "issue_references_s": [
-        "RIC.8 521 112",
+        "RIC VIII Antioch 112",
         "Waage 121 1458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "1062997778c8be53"
     ],
-    "_version_": 1667138279619690496,
-    "timestamp": "2020-05-19T16:49:19.174Z"
+    "_version_": 1684903686998851584,
+    "timestamp": "2020-12-01T19:02:51.913Z"
 }

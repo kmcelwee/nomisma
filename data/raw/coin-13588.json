@@ -38,8 +38,11 @@
         "3.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13588\",\"call_number_browse\":\"Coin 13588\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "6981"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "MK  1313"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "d5fa9ceeb20639e8"
     ],
-    "_version_": 1667138176822542336,
-    "timestamp": "2020-05-19T16:47:41.136Z"
+    "_version_": 1684902952822636544,
+    "timestamp": "2020-12-01T18:51:11.747Z"
 }

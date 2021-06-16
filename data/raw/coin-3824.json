@@ -32,6 +32,12 @@
         "69x58"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3824\",\"call_number_browse\":\"Coin 3824\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "6 Pence"
-    ],
-    "issue_number_s": [
-        "2221"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +81,12 @@
         "Shafer & Cuhaj p. 1149 S2563"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "4b65e9256fb560f6"
     ],
-    "_version_": 1667138170393722880,
-    "timestamp": "2020-05-19T16:47:35.005Z"
+    "_version_": 1684902946492383232,
+    "timestamp": "2020-12-01T18:51:05.710Z"
 }

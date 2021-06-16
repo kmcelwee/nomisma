@@ -35,8 +35,14 @@
         "0.56"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10749\",\"call_number_browse\":\"Coin 10749\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Stephen Album, Santa Rosa CA; 04/01/2001"
     ],
     "pub_date_start_sort": 303,
     "pub_date_end_sort": 310,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "1/6 \u0394"
-    ],
-    "issue_number_s": [
-        "6910"
     ],
     "issue_metal_s": [
         "Silver"
@@ -86,9 +89,12 @@
         "SNS 2 Style D/1 Type Ia/4a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "303 to 310"
+    ],
     "hashed_id_s": [
         "35e97e4f391711e1"
     ],
-    "_version_": 1667138344041054208,
-    "timestamp": "2020-05-19T16:50:20.608Z"
+    "_version_": 1684903087004712960,
+    "timestamp": "2020-12-01T18:53:19.714Z"
 }

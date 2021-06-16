@@ -26,6 +26,12 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12428\",\"call_number_browse\":\"Coin 12428\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "285: 2000-10-09 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -123,
     "pub_date_end_sort": -88,
     "issue_object_type_s": [
@@ -80,9 +86,12 @@
         "Sellwood  24.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-123 to -88"
+    ],
     "hashed_id_s": [
         "e46847076780f275"
     ],
-    "_version_": 1673107667665551360,
-    "timestamp": "2020-07-24T14:10:11.235Z"
+    "_version_": 1684903154541395968,
+    "timestamp": "2020-12-01T18:54:24.123Z"
 }

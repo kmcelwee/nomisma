@@ -2,7 +2,7 @@
     "id": "coin-1233",
     "title_display": "Coin: 1233",
     "pub_created_display": [
-        "semis, Rome"
+        "triens, Rome"
     ],
     "call_number_display": [
         "Coin 1233"
@@ -35,22 +35,25 @@
         "7.16"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1233\",\"call_number_browse\":\"Coin 1233\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "172:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -211,
-    "pub_date_end_sort": 0,
+    "pub_date_end_sort": -211,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
-        "semis"
-    ],
-    "issue_number_s": [
-        "695"
+        "triens"
     ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -67,6 +70,9 @@
     "issue_obverse_figure_s": [
         "Minerva"
     ],
+    "issue_obverse_symbol_s": [
+        "4 dots"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -76,30 +82,30 @@
     "issue_obverse_figure_description_s": [
         "helmeted"
     ],
-    "issue_obverse_figure_relationship_s": [
-        "4 dots above head"
-    ],
     "issue_reverse_figure_s": [
         "Prow"
     ],
+    "issue_reverse_symbol_s": [
+        "4 dots"
+    ],
     "issue_reverse_orientation_s": [
         "right"
-    ],
-    "issue_reverse_figure_description_s": [
-        "Prow r.; legend below"
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_references_s": [
-        "RRC  54/1",
+        "RRC  56/4",
         "Syd.  245",
         "Sear  911"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-211 to -211"
+    ],
     "hashed_id_s": [
         "5595de3192f322a9"
     ],
-    "_version_": 1667138409783623680,
-    "timestamp": "2020-05-19T16:51:23.307Z"
+    "_version_": 1684903700038942720,
+    "timestamp": "2020-12-01T19:03:04.349Z"
 }

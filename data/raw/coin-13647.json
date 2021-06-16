@@ -35,8 +35,8 @@
         "3.298"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13647\",\"call_number_browse\":\"Coin 13647\"}}",
-    "donor_s": [
-        "Rodgers"
+    "numismatic_accession_s": [
+        "818:  Rodgers"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "8733"
     ],
     "issue_metal_s": [
         "Copper"
@@ -80,6 +77,6 @@
     "hashed_id_s": [
         "760049dde4c97845"
     ],
-    "_version_": 1667146582353510400,
-    "timestamp": "2020-05-19T19:02:24.581Z"
+    "_version_": 1684903351646420992,
+    "timestamp": "2020-12-01T18:57:32.095Z"
 }

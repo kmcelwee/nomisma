@@ -35,8 +35,11 @@
         "7.48"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 450\",\"call_number_browse\":\"Coin 450\"}}",
-    "donor_s": [
-        "Louis C. West"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "39: 1965-01-01 Louis C. West"
     ],
     "pub_date_start_sort": -15,
     "pub_date_end_sort": -13,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "aureus"
-    ],
-    "issue_number_s": [
-        "199"
     ],
     "issue_metal_s": [
         "Gold"
@@ -99,9 +99,15 @@
         "RIC.1. Augustus 327"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, bull"
+    ],
+    "issue_date_s": [
+        "-15 to -13"
+    ],
     "hashed_id_s": [
         "4f90748cabade7a2"
     ],
-    "_version_": 1667138450100322304,
-    "timestamp": "2020-05-19T16:52:01.755Z"
+    "_version_": 1684903590734331904,
+    "timestamp": "2020-12-01T19:01:20.107Z"
 }

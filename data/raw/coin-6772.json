@@ -35,6 +35,12 @@
         "2.07"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6772\",\"call_number_browse\":\"Coin 6772\"}}",
+    "numismatic_collection_s": [
+        "Armenian Heritage"
+    ],
+    "numismatic_accession_s": [
+        "516: 2009-12-16 Stack's"
+    ],
     "pub_date_start_sort": 1301,
     "pub_date_end_sort": 1307,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "takvorin"
-    ],
-    "issue_number_s": [
-        "4182"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,12 @@
         "Nercessian  419v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1301 to 1307"
+    ],
     "hashed_id_s": [
         "05b888b5682a3ff1"
     ],
-    "_version_": 1667138362070269952,
-    "timestamp": "2020-05-19T16:50:37.804Z"
+    "_version_": 1684903252719566848,
+    "timestamp": "2020-12-01T18:55:57.751Z"
 }

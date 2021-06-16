@@ -38,8 +38,11 @@
         "9.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 22\",\"call_number_browse\":\"Coin 22\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 507,
     "pub_date_end_sort": 512,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "33"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -109,9 +109,12 @@
         "Sear  18"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "507 to 512"
+    ],
     "hashed_id_s": [
         "38270fededbf8e73"
     ],
-    "_version_": 1667138199127851008,
-    "timestamp": "2020-05-19T16:48:02.410Z"
+    "_version_": 1684903090323456000,
+    "timestamp": "2020-12-01T18:53:22.878Z"
 }

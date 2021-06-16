@@ -53,6 +53,12 @@
         "1.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 475\",\"call_number_browse\":\"Coin 475\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 517,
     "pub_date_end_sort": 518,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "5 nummi"
-    ],
-    "issue_number_s": [
-        "136"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -116,9 +119,12 @@
         "Sear  53"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "517 to 518"
+    ],
     "hashed_id_s": [
         "d0d621d95582721a"
     ],
-    "_version_": 1667138458740588544,
-    "timestamp": "2020-05-19T16:52:09.997Z"
+    "_version_": 1684903601968775168,
+    "timestamp": "2020-12-01T19:01:30.821Z"
 }

@@ -29,10 +29,10 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "05/25/1937"
+        "1937-05-25"
     ],
     "find_feature_s": [
-        "Dig Buffet; Room 3 to 2.50 M."
+        "Buffet dig, room 3, to 2.5m (basket 3)"
     ],
     "find_locus_s": [
         "DH 27-O"
@@ -50,6 +50,12 @@
         "2.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8087\",\"call_number_browse\":\"Coin 8087\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 314,
     "pub_date_end_sort": 314,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5117"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,14 +116,17 @@
         "SOLIINV-I-CTOCOMITI | R Q"
     ],
     "issue_references_s": [
-        "RIC.7 p. 299 30",
+        "RIC VII Rome 30",
         "Numismatique Constantinienne I p. 210 I 2",
         "Cohen VII p. 205 163"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "314 to 314"
+    ],
     "hashed_id_s": [
         "9bb753adb5136819"
     ],
-    "_version_": 1667138349110919168,
-    "timestamp": "2020-05-19T16:50:25.444Z"
+    "_version_": 1694230552304943104,
+    "timestamp": "2021-03-14T17:49:23.835Z"
 }

@@ -35,8 +35,11 @@
         "5.55"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9346\",\"call_number_browse\":\"Coin 9346\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 1021,
     "pub_date_end_sort": 1036,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "double dirham"
-    ],
-    "issue_number_s": [
-        "5966"
     ],
     "issue_metal_s": [
         "Glass"
@@ -80,9 +80,12 @@
         "The Fatimid Glass Jeton  "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1021 to 1036"
+    ],
     "hashed_id_s": [
         "2e3cc0759bfea2c3"
     ],
-    "_version_": 1667144890258030592,
-    "timestamp": "2020-05-19T18:35:39.752Z"
+    "_version_": 1684903022679818240,
+    "timestamp": "2020-12-01T18:52:18.369Z"
 }

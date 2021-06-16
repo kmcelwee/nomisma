@@ -35,6 +35,9 @@
         "18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1228\",\"call_number_browse\":\"Coin 1228\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -340,
     "pub_date_end_sort": -328,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "672"
     ],
     "issue_metal_s": [
         "Gold"
@@ -95,9 +95,12 @@
         "Le Rider  p. 143"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-340 to -328"
+    ],
     "hashed_id_s": [
         "dbbef6e4c40ee1c1"
     ],
-    "_version_": 1667138409674571776,
-    "timestamp": "2020-05-19T16:51:23.201Z"
+    "_version_": 1684903276221300736,
+    "timestamp": "2020-12-01T18:56:20.165Z"
 }

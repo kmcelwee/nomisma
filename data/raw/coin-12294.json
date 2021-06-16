@@ -41,8 +41,11 @@
         "2.65"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12294\",\"call_number_browse\":\"Coin 12294\"}}",
-    "donor_s": [
-        "Peter Donald"
+    "numismatic_collection_s": [
+        "Donald"
+    ],
+    "numismatic_accession_s": [
+        "719: 2017-01-21 Peter Donald"
     ],
     "pub_date_start_sort": 1262,
     "pub_date_end_sort": 1264,
@@ -51,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "billon trachy"
-    ],
-    "issue_number_s": [
-        "8282"
     ],
     "issue_metal_s": [
         "Billon"
@@ -101,9 +101,12 @@
         "Iurukova p.91,type III"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1262 to 1264"
+    ],
     "hashed_id_s": [
         "5fc929db7067542c"
     ],
-    "_version_": 1667138303554486272,
-    "timestamp": "2020-05-19T16:49:41.998Z"
+    "_version_": 1684903515279851520,
+    "timestamp": "2020-12-01T19:00:08.149Z"
 }

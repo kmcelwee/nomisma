@@ -35,6 +35,9 @@
         "3.838"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7464\",\"call_number_browse\":\"Coin 7464\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "4674"
     ],
     "issue_metal_s": [
         "Silver"
@@ -109,6 +109,6 @@
     "hashed_id_s": [
         "65854193515faac2"
     ],
-    "_version_": 1667138190223343616,
-    "timestamp": "2020-05-19T16:47:53.916Z"
+    "_version_": 1684903430807617536,
+    "timestamp": "2020-12-01T18:58:47.590Z"
 }

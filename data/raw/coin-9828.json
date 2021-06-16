@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/23/1938"
+        "1938-05-23"
     ],
     "find_feature_s": [
-        "Under North end of B7"
+        "Under N. end of B7"
     ],
     "find_locus_s": [
-        "DH 27-0"
+        "DH 27-O"
     ],
     "find_number_s": [
         "Cb2527"
@@ -50,6 +50,9 @@
         "2.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9828\",\"call_number_browse\":\"Coin 9828\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 330,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -57,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6215"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,7 +92,7 @@
         "dr., cuir., rosette diadem"
     ],
     "issue_obverse_legend_s": [
-        "CONSTANTI NVSMAXAVG"
+        "CONSTANTI-NVSMAXAVG"
     ],
     "issue_reverse_figure_s": [
         "Two soldiers"
@@ -107,16 +107,19 @@
         "two soldiers with two standards, shields, spears"
     ],
     "issue_reverse_legend_s": [
-        "GLOR IAEXERC ITVS | SMAN[A or \u0394]"
+        "GLOR-IAEXERC-ITVS | SMAN[A or \u0394]"
     ],
     "issue_references_s": [
-        "RIC.7 693 86",
+        "RIC VII Antioch 86",
         "Waage 118 1404"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "330 to 335"
+    ],
     "hashed_id_s": [
         "e2b99734e6cd7d58"
     ],
-    "_version_": 1667138277604327424,
-    "timestamp": "2020-05-19T16:49:17.249Z"
+    "_version_": 1684903687783186432,
+    "timestamp": "2020-12-01T19:02:52.660Z"
 }

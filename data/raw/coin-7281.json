@@ -29,7 +29,7 @@
         "Obverse bearly illigble. Most likely H&L 692 but might be H&L 695"
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "6/22/1938"
@@ -53,6 +53,12 @@
         "7.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7281\",\"call_number_browse\":\"Coin 7281\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -232,
     "pub_date_end_sort": -228,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "double"
-    ],
-    "issue_number_s": [
-        "4525"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -126,9 +129,12 @@
         "WSM  1015"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-232 to -228"
+    ],
     "hashed_id_s": [
         "5b37cdd6e1de6b96"
     ],
-    "_version_": 1670002459134656512,
-    "timestamp": "2020-06-20T07:34:13.616Z"
+    "_version_": 1684903652471341056,
+    "timestamp": "2020-12-01T19:02:18.986Z"
 }

@@ -35,8 +35,11 @@
         "2.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1075\",\"call_number_browse\":\"Coin 1075\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 67,
     "pub_date_end_sort": 68,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "529"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,9 +104,12 @@
         "Sear  1945v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "67 to 68"
+    ],
     "hashed_id_s": [
         "496b4aaaef84086d"
     ],
-    "_version_": 1667138457952059392,
-    "timestamp": "2020-05-19T16:52:09.245Z"
+    "_version_": 1684903600832118784,
+    "timestamp": "2020-12-01T19:01:29.738Z"
 }

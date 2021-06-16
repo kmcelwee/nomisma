@@ -32,8 +32,11 @@
         "5.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1577\",\"call_number_browse\":\"Coin 1577\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -43,11 +46,11 @@
     "issue_denomination_s": [
         "10 Cash"
     ],
-    "issue_number_s": [
-        "965"
-    ],
     "issue_metal_s": [
         "Brass"
+    ],
+    "issue_shape_s": [
+        "round with square hole"
     ],
     "issue_place_s": [
         "Zhe Jiang, China"
@@ -68,9 +71,12 @@
         "KM 2005 409 4"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "81aa948a6561c424"
     ],
-    "_version_": 1667138211930963968,
-    "timestamp": "2020-05-19T16:48:14.618Z"
+    "_version_": 1684902977206222848,
+    "timestamp": "2020-12-01T18:51:35.001Z"
 }

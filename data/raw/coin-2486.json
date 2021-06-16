@@ -35,8 +35,11 @@
         "3.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2486\",\"call_number_browse\":\"Coin 2486\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1624,
     "pub_date_end_sort": 1630,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "zecchino"
-    ],
-    "issue_number_s": [
-        "1568"
     ],
     "issue_metal_s": [
         "Gold"
@@ -101,9 +101,12 @@
         "Pap. Giovanni Cornero 3"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1624 to 1630"
+    ],
     "hashed_id_s": [
         "0853ac1f28e4084c"
     ],
-    "_version_": 1667138427385020416,
-    "timestamp": "2020-05-19T16:51:40.094Z"
+    "_version_": 1684903187635503104,
+    "timestamp": "2020-12-01T18:54:55.688Z"
 }

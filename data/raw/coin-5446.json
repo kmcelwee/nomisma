@@ -35,8 +35,11 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5446\",\"call_number_browse\":\"Coin 5446\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3071"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Marcius Philippus"
@@ -70,6 +73,9 @@
     "issue_obverse_figure_s": [
         "Ancus Marcius"
     ],
+    "issue_obverse_symbol_s": [
+        "lituus behind head"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -77,13 +83,19 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Diademed head of Ancus Marcius r.; lituus behind; border of dots"
+        "wearing diadem"
     ],
     "issue_obverse_legend_s": [
         "ANCVS"
     ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
+    ],
     "issue_reverse_figure_s": [
-        "Equestrian statue"
+        "Aqueduct"
+    ],
+    "issue_reverse_symbol_s": [
+        "flower at horse's feet"
     ],
     "issue_reverse_part_s": [
         "standing"
@@ -92,10 +104,14 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Equestrian statue r., on aqueduct; flower (?) beneath horse's hooves; border of dots"
+        "on which stands equestrian statue"
     ],
     "issue_reverse_legend_s": [
-        "Behind, PHILIPPVS; within arches of aqueduct, A - Q - V - A - MAR (MAR in monogram)"
+        "PHILIPPVS AQVA MAR"
+    ],
+    "issue_reverse_attributes_s": [
+        "inscription, within arches of aqueduct",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  425/1",
@@ -103,9 +119,12 @@
         "Sear  382"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "b558629b9c819bea"
     ],
-    "_version_": 1667138393054642176,
-    "timestamp": "2020-05-19T16:51:07.351Z"
+    "_version_": 1684903566466088960,
+    "timestamp": "2020-12-01T19:00:56.963Z"
 }

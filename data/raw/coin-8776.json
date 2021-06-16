@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "miliaresion"
     ],
-    "issue_number_s": [
-        "5578"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -106,9 +103,12 @@
         "BL Michael VII 55/Cp/AR/01v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1071 to 1078"
+    ],
     "hashed_id_s": [
         "7252d1df7e129287"
     ],
-    "_version_": 1667138270186700800,
-    "timestamp": "2020-05-19T16:49:10.175Z"
+    "_version_": 1684903135322046464,
+    "timestamp": "2020-12-01T18:54:05.792Z"
 }

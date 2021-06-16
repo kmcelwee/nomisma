@@ -38,6 +38,12 @@
         "2.24"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2319\",\"call_number_browse\":\"Coin 2319\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "293: 1997-07-26 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -277,
     "pub_date_end_sort": -272,
     "issue_object_type_s": [
@@ -101,9 +107,16 @@
         "Houghton  626"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Athena",
+        "Category, victory"
+    ],
+    "issue_date_s": [
+        "-277 to -272"
+    ],
     "hashed_id_s": [
         "cff3dae2834fd085"
     ],
-    "_version_": 1673104788805386240,
-    "timestamp": "2020-07-24T13:24:25.742Z"
+    "_version_": 1684903669200322560,
+    "timestamp": "2020-12-01T19:02:34.939Z"
 }

@@ -35,6 +35,12 @@
         "56.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1218\",\"call_number_browse\":\"Coin 1218\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "169: 2001-10-12 Classical Numismatic Group"
+    ],
     "pub_date_start_sort": -225,
     "pub_date_end_sort": -217,
     "issue_object_type_s": [
@@ -43,11 +49,14 @@
     "issue_denomination_s": [
         "quadrans"
     ],
-    "issue_number_s": [
-        "663"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_series_s": [
+        "Aes Grave"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -65,7 +74,7 @@
         "Hercules"
     ],
     "issue_obverse_symbol_s": [
-        "pellet"
+        "3 dots"
     ],
     "issue_obverse_part_s": [
         "head"
@@ -74,29 +83,37 @@
         "left"
     ],
     "issue_obverse_figure_description_s": [
-        "head of Hercules w/ three pellets behind"
+        "wearing lion skin"
+    ],
+    "issue_obverse_attributes_s": [
+        "denominational mark, behind head"
     ],
     "issue_reverse_figure_s": [
         "Prow"
     ],
     "issue_reverse_symbol_s": [
-        "pellet"
+        "3 dots"
     ],
     "issue_reverse_orientation_s": [
         "right"
     ],
-    "issue_reverse_figure_description_s": [
-        "prow of ship  w/ three pellets below"
+    "issue_reverse_attributes_s": [
+        "denominational mark, below prow"
     ],
     "issue_references_s": [
-        "RRC  35/4",
+        "RRC  35, 4",
+        "Haeb. pl. 18 1-9",
+        "Sear  582",
         "Syd.  75",
-        "Sear  582"
+        "ICC  54"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-225 to -217"
+    ],
     "hashed_id_s": [
         "7d97a91dc9aee0f7"
     ],
-    "_version_": 1667138208444448768,
-    "timestamp": "2020-05-19T16:48:11.294Z"
+    "_version_": 1684903698015191040,
+    "timestamp": "2020-12-01T19:03:02.418Z"
 }

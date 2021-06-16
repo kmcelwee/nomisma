@@ -35,8 +35,11 @@
         "3.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5050\",\"call_number_browse\":\"Coin 5050\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
     ],
     "pub_date_start_sort": -55,
     "pub_date_end_sort": -55,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2797"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Fonteius P.f. Capito"
@@ -77,10 +80,15 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Mars bust r., sometimes bearded; helmeted and draped; over shoulder, trophy; border of dots"
+        "helmeted and draped"
     ],
     "issue_obverse_legend_s": [
-        "\u0393 FONTEIVS \u0393 F CA\u0393ITO III VIR"
+        "P\u00b7FONTEIVS\u00b7P\u00b7F\u00b7CAPITO\u00b7III\u00b7VIR"
+    ],
+    "issue_obverse_attributes_s": [
+        "trophy, over shoulder",
+        "inscription, around head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Horseman"
@@ -92,10 +100,19 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Horseman holds reins in l. hand, thrusts spear at warrior below with r. hand; warrior poised to transfix unarmed captive with sword; to r., helmet and shield; legend above; MN and NT in monogram; border of dots"
+        "thrusting with spear at warrior below (warrior is about to drive sword through unarmed captive)"
+    ],
+    "issue_reverse_figure_relationship_s": [
+        "above warrior and captive"
     ],
     "issue_reverse_legend_s": [
-        "MN FONT TR MIL"
+        "MN\u00b7FONT\u00b7TR\u00b7MIL"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "spear, in r. hand",
+        "helmet and shield, on r. ",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  429/1",
@@ -103,9 +120,12 @@
         "Sear  392"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-55 to -55"
+    ],
     "hashed_id_s": [
         "c5d6e695853d4ac9"
     ],
-    "_version_": 1667138509899563008,
-    "timestamp": "2020-05-19T16:52:58.784Z"
+    "_version_": 1684903641532596224,
+    "timestamp": "2020-12-01T19:02:08.554Z"
 }

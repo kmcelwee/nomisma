@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "unit"
     ],
-    "issue_number_s": [
-        "4790"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -107,6 +104,6 @@
     "hashed_id_s": [
         "0ae36c2ce338c73e"
     ],
-    "_version_": 1667138174981242880,
-    "timestamp": "2020-05-19T16:47:39.381Z"
+    "_version_": 1683104896983760896,
+    "timestamp": "2020-11-11T22:31:52.075Z"
 }

@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "4/14/1932"
-    ],
-    "find_feature_s": [
-        "Room 43"
+        "04/14/1932"
     ],
     "find_locus_s": [
-        "N-10-SE"
+        "DS 10-N (SE.)"
     ],
     "find_number_s": [
-        "C389"
+        "C0389"
+    ],
+    "find_description_s": [
+        "Room 43"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "6.47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3940\",\"call_number_browse\":\"Coin 3940\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 5,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -58,11 +64,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2265"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +98,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -106,16 +112,16 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram, running r., looking back; star above"
-    ],
     "issue_references_s": [
         "RPC.1  4266, 4268-9"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "5 to 14"
+    ],
     "hashed_id_s": [
         "6e7f02b44eebe16b"
     ],
-    "_version_": 1667138486576087040,
-    "timestamp": "2020-05-19T16:52:36.540Z"
+    "_version_": 1684903694132314112,
+    "timestamp": "2020-12-01T19:02:58.716Z"
 }

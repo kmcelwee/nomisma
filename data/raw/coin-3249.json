@@ -35,8 +35,11 @@
         "2.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3249\",\"call_number_browse\":\"Coin 3249\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1573,
     "pub_date_end_sort": 1620,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "1 Cash"
-    ],
-    "issue_number_s": [
-        "2112"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,9 +74,12 @@
         "Jen 120 555"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1573 to 1620"
+    ],
     "hashed_id_s": [
         "275c9285cc2a9bb2"
     ],
-    "_version_": 1667138430113415168,
-    "timestamp": "2020-05-19T16:51:42.695Z"
+    "_version_": 1684903205076467712,
+    "timestamp": "2020-12-01T18:55:12.315Z"
 }

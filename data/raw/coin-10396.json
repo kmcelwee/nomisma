@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "6597"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -89,9 +86,12 @@
         "Roman Imperial Coinage  167"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "68 to 69"
+    ],
     "hashed_id_s": [
         "9ea28c8d4d348b37"
     ],
-    "_version_": 1667138192385507328,
-    "timestamp": "2020-05-19T16:47:55.979Z"
+    "_version_": 1684903432723365888,
+    "timestamp": "2020-12-01T18:58:49.416Z"
 }

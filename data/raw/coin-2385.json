@@ -50,6 +50,12 @@
         "1.11"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2385\",\"call_number_browse\":\"Coin 2385\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -278,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -106,9 +112,16 @@
         "Houghton  24"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Zeus",
+        "Category, thunderbolt"
+    ],
+    "issue_date_s": [
+        "-278 to -268"
+    ],
     "hashed_id_s": [
         "a14539ac422ff92b"
     ],
-    "_version_": 1676028385897218048,
-    "timestamp": "2020-08-25T19:53:45.201Z"
+    "_version_": 1684903683537502208,
+    "timestamp": "2020-12-01T19:02:48.612Z"
 }

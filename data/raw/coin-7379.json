@@ -40,9 +40,6 @@
     "issue_object_type_s": [
         "coin"
     ],
-    "issue_number_s": [
-        "4621"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -92,9 +89,12 @@
         "Mitchiner pg. 496 3808"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "515 to 530"
+    ],
     "hashed_id_s": [
         "8442d23dafc04402"
     ],
-    "_version_": 1667138353082925056,
-    "timestamp": "2020-05-19T16:50:29.232Z"
+    "_version_": 1684903538483789824,
+    "timestamp": "2020-12-01T19:00:30.278Z"
 }

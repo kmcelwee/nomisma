@@ -35,6 +35,12 @@
         "23.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 359\",\"call_number_browse\":\"Coin 359\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
+    "numismatic_accession_s": [
+        "14: 2005-09-01 Near Eastern Studies Department"
+    ],
     "pub_date_start_sort": 1839,
     "pub_date_end_sort": 1839,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "20 piastres"
-    ],
-    "issue_number_s": [
-        "182"
     ],
     "issue_metal_s": [
         "Silver"
@@ -77,9 +80,12 @@
         "star, in border"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1839 to 1839"
+    ],
     "hashed_id_s": [
         "dba6cd3e912fcece"
     ],
-    "_version_": 1667138201737756672,
-    "timestamp": "2020-05-19T16:48:04.899Z"
+    "_version_": 1684903438143455232,
+    "timestamp": "2020-12-01T18:58:54.585Z"
 }

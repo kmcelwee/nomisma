@@ -35,6 +35,12 @@
         "1.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13273\",\"call_number_browse\":\"Coin 13273\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "805: 2002-12-10 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hemidrachm"
-    ],
-    "issue_number_s": [
-        "8606"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,6 +92,6 @@
     "hashed_id_s": [
         "d4edd6911f721abf"
     ],
-    "_version_": 1667138318933950464,
-    "timestamp": "2020-05-19T16:49:56.664Z"
+    "_version_": 1684903164298395648,
+    "timestamp": "2020-12-01T18:54:33.426Z"
 }

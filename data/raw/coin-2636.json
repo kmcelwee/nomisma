@@ -35,8 +35,11 @@
         "0.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2636\",\"call_number_browse\":\"Coin 2636\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": 1382,
     "pub_date_end_sort": 1400,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldino"
-    ],
-    "issue_number_s": [
-        "1657"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,13 +99,16 @@
     ],
     "issue_references_s": [
         "Pap. Antonio Venier 5.C",
-        "CNI, 7  III.27.11",
+        "CNI, 7  107, 11",
         "MEC 12 647"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1382 to 1400"
+    ],
     "hashed_id_s": [
         "6694fcc9c5c2771f"
     ],
-    "_version_": 1667138222169260032,
-    "timestamp": "2020-05-19T16:48:24.384Z"
+    "_version_": 1684903453682302976,
+    "timestamp": "2020-12-01T18:59:09.406Z"
 }

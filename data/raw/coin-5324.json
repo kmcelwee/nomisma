@@ -35,6 +35,15 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5324\",\"call_number_browse\":\"Coin 5324\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $2.05"
+    ],
     "pub_date_start_sort": -60,
     "pub_date_end_sort": -60,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2975"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Plautius Hypsaeus"
@@ -67,6 +76,9 @@
     "issue_obverse_figure_s": [
         "Neptune"
     ],
+    "issue_obverse_symbol_s": [
+        "trident behind head"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -74,16 +86,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Neptune, bare, r.; trident behind; legend downwards before; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "divine ancestor of moneyer"
+        "bare"
     ],
     "issue_obverse_legend_s": [
-        "\u0393 Y\u0393SAE S C"
+        "P\u00b7YPSAE\u00b7S\u00b7C"
     ],
     "issue_obverse_attributes_s": [
-        "trident l., trident behind head of Neptune"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -95,10 +104,14 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter in quadriga left, holding reins in left hand and hurling thunderbolt with right hand; border of dots"
+        "in quadriga, hurling thunderbolt"
     ],
     "issue_reverse_legend_s": [
-        "C Y\u0393SAE COS / \u0393RIV | CE\u0393IT"
+        "C\u00b7YPSAE\u00b7COS / PRIV CEPIT"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "thunderbolt, in r. hand"
     ],
     "issue_references_s": [
         "RRC  420/1a",
@@ -106,9 +119,12 @@
         "Sear  375"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-60 to -60"
+    ],
     "hashed_id_s": [
         "6371560c51f30034"
     ],
-    "_version_": 1667138400830881792,
-    "timestamp": "2020-05-19T16:51:14.769Z"
+    "_version_": 1684903175761428480,
+    "timestamp": "2020-12-01T18:54:44.359Z"
 }

@@ -32,6 +32,9 @@
         "99x63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5230\",\"call_number_browse\":\"Coin 5230\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "5 dollars"
-    ],
-    "issue_number_s": [
-        "2914"
     ],
     "issue_metal_s": [
         "Paper"
@@ -81,9 +81,15 @@
         "F. Benard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University",
+        "Event, World War I    ",
+        "Place,     France",
+        "Category, memorial"
+    ],
     "hashed_id_s": [
         "22efd322f8ca8171"
     ],
-    "_version_": 1667314691943170048,
-    "timestamp": "2020-05-21T15:33:19.072Z"
+    "_version_": 1684903269277630464,
+    "timestamp": "2020-12-01T18:56:13.542Z"
 }

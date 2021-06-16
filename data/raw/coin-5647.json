@@ -35,8 +35,14 @@
         "6.6"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5647\",\"call_number_browse\":\"Coin 5647\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_collection_s": [
+        "Maull"
+    ],
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Faler, Naples; 11/1962; Lire 13,924 = $22.41"
     ],
     "pub_date_start_sort": -281,
     "pub_date_end_sort": -228,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "3213"
     ],
     "issue_metal_s": [
         "Silver"
@@ -92,9 +95,12 @@
         "Vlasto Coll.  995"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-281 to -228"
+    ],
     "hashed_id_s": [
         "24ec68530c881d93"
     ],
-    "_version_": 1667138249001271296,
-    "timestamp": "2020-05-19T16:48:49.973Z"
+    "_version_": 1684903120044294144,
+    "timestamp": "2020-12-01T18:53:51.222Z"
 }

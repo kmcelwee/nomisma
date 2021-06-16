@@ -38,8 +38,11 @@
         "7.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6582\",\"call_number_browse\":\"Coin 6582\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "Kreisberg-Schulman, New York, NY; April 3 & 4, 1959; $30"
     ],
     "pub_date_start_sort": -325,
     "pub_date_end_sort": -281,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3997"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "F-B  896"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-325 to -281"
+    ],
     "hashed_id_s": [
         "e14b481f8e3a4838"
     ],
-    "_version_": 1667138371486482432,
-    "timestamp": "2020-05-19T16:50:46.782Z"
+    "_version_": 1684903549852450816,
+    "timestamp": "2020-12-01T19:00:41.119Z"
 }

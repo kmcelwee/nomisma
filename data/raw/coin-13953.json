@@ -29,7 +29,7 @@
         "Mintmarks damaged."
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "05/23/1936"
@@ -53,6 +53,12 @@
         "2.44"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13953\",\"call_number_browse\":\"Coin 13953\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -187,
     "pub_date_end_sort": -175,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "half"
-    ],
-    "issue_number_s": [
-        "8986"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -124,12 +127,15 @@
         "m13953, on outer r."
     ],
     "issue_references_s": [
-        "H & L II,v.I,p.18 1319.2"
+        "H & L II,v.I,p.18 1319.2b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-187 to -175"
+    ],
     "hashed_id_s": [
         "ce188d46ffa805b4"
     ],
-    "_version_": 1670292851533021184,
-    "timestamp": "2020-06-23T12:29:53.388Z"
+    "_version_": 1684903413667594240,
+    "timestamp": "2020-12-01T18:58:31.244Z"
 }

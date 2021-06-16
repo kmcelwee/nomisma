@@ -38,8 +38,14 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 11172\",\"call_number_browse\":\"Coin 11172\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Donald Zauche; 11/02/2002"
     ],
     "pub_date_start_sort": 590,
     "pub_date_end_sort": 591,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7337"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SN  AHM Type I/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "590 to 591"
+    ],
     "hashed_id_s": [
         "b26b3d57ff6df183"
     ],
-    "_version_": 1667138170362265600,
-    "timestamp": "2020-05-19T16:47:34.977Z"
+    "_version_": 1684902946428420096,
+    "timestamp": "2020-12-01T18:51:05.650Z"
 }

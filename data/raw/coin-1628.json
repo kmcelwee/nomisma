@@ -35,8 +35,11 @@
         "4.43"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1628\",\"call_number_browse\":\"Coin 1628\"}}",
-    "donor_s": [
-        "Bourgey"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "100:  Bourgey/Wayte Raymond"
     ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "1019"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,15 @@
         "RPC.1 1 286"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Compostus, Marullus"
+    ],
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "85a338c0ce746367"
     ],
-    "_version_": 1667138212470980608,
-    "timestamp": "2020-05-19T16:48:15.133Z"
+    "_version_": 1684902977648721920,
+    "timestamp": "2020-12-01T18:51:35.424Z"
 }

@@ -35,8 +35,11 @@
         "15.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13709\",\"call_number_browse\":\"Coin 13709\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": -164,
     "pub_date_end_sort": -161,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetrachalkoi"
-    ],
-    "issue_number_s": [
-        "8770"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,7 +83,7 @@
         "one diadem end flying up behind, other forward over shoulder"
     ],
     "issue_obverse_attributes_s": [
-        "m13700, behind head"
+        ""
     ],
     "issue_reverse_figure_s": [
         "Nike"
@@ -107,9 +107,12 @@
         "H & L II,v.I,p.148 1601"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-164 to -161"
+    ],
     "hashed_id_s": [
         "ff9061221d3ee4cb"
     ],
-    "_version_": 1667138129255989248,
-    "timestamp": "2020-05-19T16:46:55.773Z"
+    "_version_": 1684902910136156160,
+    "timestamp": "2020-12-01T18:50:31.040Z"
 }

@@ -32,8 +32,11 @@
         "0.49"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1097\",\"call_number_browse\":\"Coin 1097\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "80: 1930-01-01 J.C. Wilson"
     ],
     "pub_date_start_sort": 1310,
     "pub_date_end_sort": 1324,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "546"
     ],
     "issue_metal_s": [
         "Billon"
@@ -86,9 +86,12 @@
         "Malloy Cyprus 66a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1310 to 1324"
+    ],
     "hashed_id_s": [
         "1ab8d24dea4b69c4"
     ],
-    "_version_": 1667138409077932032,
-    "timestamp": "2020-05-19T16:51:22.635Z"
+    "_version_": 1684903275748392960,
+    "timestamp": "2020-12-01T18:56:19.713Z"
 }

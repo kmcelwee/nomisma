@@ -40,9 +40,6 @@
     "issue_denomination_s": [
         "10 Shillings"
     ],
-    "issue_number_s": [
-        "2182"
-    ],
     "issue_master_s": [
         "Hall and Sellers"
     ],
@@ -74,9 +71,12 @@
         "Newman p. 345"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "8d4ad93ed417ca75"
     ],
-    "_version_": 1667138440899067904,
-    "timestamp": "2020-05-19T16:51:52.980Z"
+    "_version_": 1684903210690543616,
+    "timestamp": "2020-12-01T18:55:17.668Z"
 }

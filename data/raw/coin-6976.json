@@ -41,6 +41,12 @@
         "36.22"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6976\",\"call_number_browse\":\"Coin 6976\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -271,
     "pub_date_end_sort": -268,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "quadrans"
-    ],
-    "issue_number_s": [
-        "3195"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -85,9 +88,12 @@
         "MIA XLIX 5"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-271 to -268"
+    ],
     "hashed_id_s": [
         "e909a0e920eb9173"
     ],
-    "_version_": 1667138389980217344,
-    "timestamp": "2020-05-19T16:51:04.420Z"
+    "_version_": 1684903564258836480,
+    "timestamp": "2020-12-01T19:00:54.859Z"
 }

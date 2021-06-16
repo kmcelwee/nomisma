@@ -38,19 +38,25 @@
         "153.04"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7016\",\"call_number_browse\":\"Coin 7016\"}}",
-    "pub_date_start_sort": -280,
-    "pub_date_end_sort": -269,
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "pub_date_start_sort": -275,
+    "pub_date_end_sort": -270,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "semis"
     ],
-    "issue_number_s": [
-        "4377"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_place_s": [
         "Rome, Latium, Italy"
@@ -79,17 +85,23 @@
     "issue_reverse_symbol_s": [
         "S"
     ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
     "issue_references_s": [
         "Aes Grave: A Study of Cast Coinages of Rome and Central Italy  57",
         "Haeb. pl. 35 7-10",
-        "RRC pl. 18 2",
+        "RRC  18/2",
         "Syd.  16",
         "Sear  530"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-275 to -270"
+    ],
     "hashed_id_s": [
         "fa812cbafc1310ec"
     ],
-    "_version_": 1667138255787655168,
-    "timestamp": "2020-05-19T16:48:56.445Z"
+    "_version_": 1684903702931963904,
+    "timestamp": "2020-12-01T19:03:07.107Z"
 }

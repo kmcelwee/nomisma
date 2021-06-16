@@ -35,6 +35,9 @@
         "5.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 356\",\"call_number_browse\":\"Coin 356\"}}",
+    "numismatic_collection_s": [
+        "Near Eastern Studies"
+    ],
     "pub_date_start_sort": 1839,
     "pub_date_end_sort": 1839,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "5 piastre"
-    ],
-    "issue_number_s": [
-        "180"
     ],
     "issue_metal_s": [
         "Silver"
@@ -80,9 +80,12 @@
         "Jones  1316"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1839 to 1839"
+    ],
     "hashed_id_s": [
         "5d42804a696a8181"
     ],
-    "_version_": 1667138201671696384,
-    "timestamp": "2020-05-19T16:48:04.834Z"
+    "_version_": 1684902971548106752,
+    "timestamp": "2020-12-01T18:51:29.604Z"
 }

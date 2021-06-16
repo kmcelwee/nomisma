@@ -2,7 +2,7 @@
     "id": "coin-8170",
     "title_display": "Coin: 8170",
     "pub_created_display": [
-        "Phocas (809 to 831), follis, Cyzicus"
+        "Phocas   (602 to 610), follis, Cyzicus"
     ],
     "call_number_display": [
         "Coin 8170"
@@ -50,6 +50,9 @@
         "12.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8170\",\"call_number_browse\":\"Coin 8170\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 603,
     "pub_date_end_sort": 604,
     "issue_object_type_s": [
@@ -58,14 +61,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5182"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Phocas (809 to 831)"
+        "Phocas   (602 to 610)"
     ],
     "issue_place_s": [
         "Cyzicus, Mysia, Byzantium"
@@ -103,9 +103,12 @@
         "MIB vol. 2 76-77"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "603 to 604"
+    ],
     "hashed_id_s": [
         "4ea2d6e4a9d572ce"
     ],
-    "_version_": 1667138189102415872,
-    "timestamp": "2020-05-19T16:47:52.846Z"
+    "_version_": 1684903430114508800,
+    "timestamp": "2020-12-01T18:58:46.930Z"
 }

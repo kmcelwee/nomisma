@@ -35,8 +35,11 @@
         "3.809"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12986\",\"call_number_browse\":\"Coin 12986\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -108,
     "pub_date_end_sort": -107,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "8491"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +99,12 @@
         "Syd.  565"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-108 to -107"
+    ],
     "hashed_id_s": [
         "b2128c37c31297c2"
     ],
-    "_version_": 1667138315187388416,
-    "timestamp": "2020-05-19T16:49:53.091Z"
+    "_version_": 1684903054819721216,
+    "timestamp": "2020-12-01T18:52:49.018Z"
 }

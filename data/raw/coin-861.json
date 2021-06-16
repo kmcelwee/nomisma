@@ -35,6 +35,12 @@
         "6.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 861\",\"call_number_browse\":\"Coin 861\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "83: 1990-01-01 Joel Malter"
+    ],
     "pub_date_start_sort": -114,
     "pub_date_end_sort": -113,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "half-shekel"
-    ],
-    "issue_number_s": [
-        "348"
     ],
     "issue_metal_s": [
         "Silver"
@@ -105,9 +108,15 @@
         "Phoenician Letter"
     ],
     "issue_monogram_1display": "[{\"title\":\"Phoenician Letter\",\"document_id\":\"23501b80-6fb8-4dcf-8fe1-66271c25cc1d\"}]",
+    "issue_subjects_s": [
+        "Category, shield"
+    ],
+    "issue_date_s": [
+        "-114 to -113"
+    ],
     "hashed_id_s": [
         "45ca48aef737881e"
     ],
-    "_version_": 1667138453442134016,
-    "timestamp": "2020-05-19T16:52:04.941Z"
+    "_version_": 1684903291188674560,
+    "timestamp": "2020-12-01T18:56:34.439Z"
 }

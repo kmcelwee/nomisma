@@ -2,7 +2,7 @@
     "id": "coin-9392",
     "title_display": "Coin: 9392",
     "pub_created_display": [
-        "Tiberius, as, Carthago Nova"
+        "Tiberius   (14 to 37), as, Carthago Nova"
     ],
     "call_number_display": [
         "Coin 9392"
@@ -35,6 +35,9 @@
         "11.61"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9392\",\"call_number_browse\":\"Coin 9392\"}}",
+    "numismatic_accession_s": [
+        "688: 1988-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": 14,
     "pub_date_end_sort": 37,
     "issue_object_type_s": [
@@ -43,14 +46,11 @@
     "issue_denomination_s": [
         "as"
     ],
-    "issue_number_s": [
-        "6012"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
     "issue_ruler_s": [
-        "Tiberius"
+        "Tiberius   (14 to 37)"
     ],
     "issue_place_s": [
         "Carthago Nova, Spain, Roman Empire"
@@ -98,9 +98,12 @@
         "RPC  179"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "14 to 37"
+    ],
     "hashed_id_s": [
         "fe1f261405f0afdf"
     ],
-    "_version_": 1667138149579489280,
-    "timestamp": "2020-05-19T16:47:15.156Z"
+    "_version_": 1684903403757502464,
+    "timestamp": "2020-12-01T18:58:21.792Z"
 }

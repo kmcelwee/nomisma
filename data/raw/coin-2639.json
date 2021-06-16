@@ -35,8 +35,11 @@
         "5.53"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2639\",\"call_number_browse\":\"Coin 2639\"}}",
-    "donor_s": [
-        "Brooks Levy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "24: 2004-10-20 Brooks Levy"
     ],
     "pub_date_start_sort": 1684,
     "pub_date_end_sort": 1710,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "gazzetta"
-    ],
-    "issue_number_s": [
-        "1659"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +89,12 @@
         "Pap. Monete Anonime II 15"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1684 to 1710"
+    ],
     "hashed_id_s": [
         "45b0387bcd7d71df"
     ],
-    "_version_": 1667138424267603968,
-    "timestamp": "2020-05-19T16:51:37.118Z"
+    "_version_": 1684903202161426432,
+    "timestamp": "2020-12-01T18:55:09.535Z"
 }

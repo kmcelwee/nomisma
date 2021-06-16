@@ -53,6 +53,9 @@
         "4.05"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7853\",\"call_number_browse\":\"Coin 7853\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 685,
     "pub_date_end_sort": 705,
     "issue_object_type_s": [
@@ -60,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "fals"
-    ],
-    "issue_number_s": [
-        "4914"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +99,12 @@
         "  588"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "685 to 705"
+    ],
     "hashed_id_s": [
         "b2027ffafd138674"
     ],
-    "_version_": 1667138263374102528,
-    "timestamp": "2020-05-19T16:49:03.680Z"
+    "_version_": 1684902997361950720,
+    "timestamp": "2020-12-01T18:51:54.224Z"
 }

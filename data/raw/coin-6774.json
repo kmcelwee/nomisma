@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "aspron trachy nomisma"
     ],
-    "issue_number_s": [
-        "3767"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -104,9 +101,12 @@
         "DOC vol. IV, page 571 3a.1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1230 to 1237"
+    ],
     "hashed_id_s": [
         "d55ee92395226efb"
     ],
-    "_version_": 1667138372358897664,
-    "timestamp": "2020-05-19T16:50:47.616Z"
+    "_version_": 1684903258174259200,
+    "timestamp": "2020-12-01T18:56:02.955Z"
 }

@@ -35,8 +35,11 @@
         "17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 952\",\"call_number_browse\":\"Coin 952\"}}",
-    "donor_s": [
-        "J.C. Wilson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "79:  J.C. Wilson"
     ],
     "pub_date_start_sort": -319,
     "pub_date_end_sort": -305,
@@ -99,9 +102,12 @@
         "Price  1981"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-319 to -305"
+    ],
     "hashed_id_s": [
         "277201cb2492dfc6"
     ],
-    "_version_": 1672996284179415040,
-    "timestamp": "2020-07-23T08:39:47.665Z"
+    "_version_": 1684903665824956416,
+    "timestamp": "2020-12-01T19:02:31.719Z"
 }

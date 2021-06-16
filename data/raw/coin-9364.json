@@ -38,6 +38,9 @@
         "4.23"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9364\",\"call_number_browse\":\"Coin 9364\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
     "pub_date_start_sort": 1137,
     "pub_date_end_sort": 1143,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "5986"
     ],
     "issue_metal_s": [
         "Gold"
@@ -106,9 +106,12 @@
         "BMC.Byz. Vol. 2; John II Type 1 (Gold)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1137 to 1143"
+    ],
     "hashed_id_s": [
         "57db77347988b209"
     ],
-    "_version_": 1667138146279620608,
-    "timestamp": "2020-05-19T16:47:12.027Z"
+    "_version_": 1684903399544324096,
+    "timestamp": "2020-12-01T18:58:17.775Z"
 }

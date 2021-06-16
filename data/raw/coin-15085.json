@@ -53,6 +53,12 @@
         "4.06"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15085\",\"call_number_browse\":\"Coin 15085\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -246,
     "pub_date_end_sort": -222,
     "issue_object_type_s": [
@@ -116,9 +122,12 @@
         "Lorber I, v.II B462"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-246 to -222"
+    ],
     "hashed_id_s": [
         "42e2af3ea900cb8e"
     ],
-    "_version_": 1673106063697641472,
-    "timestamp": "2020-07-24T13:44:41.571Z"
+    "_version_": 1684903669708881920,
+    "timestamp": "2020-12-01T19:02:35.424Z"
 }

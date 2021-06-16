@@ -35,8 +35,14 @@
         "32.72"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13932\",\"call_number_browse\":\"Coin 13932\"}}",
-    "donor_s": [
-        "Robert Ross"
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Grade IV, enlisted men"
-    ],
-    "issue_number_s": [
-        "8966"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,6 +85,6 @@
     "hashed_id_s": [
         "f8b08a0282b1e834"
     ],
-    "_version_": 1667145058898411520,
-    "timestamp": "2020-05-19T18:42:24.077Z"
+    "_version_": 1684903367095091200,
+    "timestamp": "2020-12-01T18:57:46.828Z"
 }

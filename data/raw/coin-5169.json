@@ -35,8 +35,11 @@
         "3.75"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5169\",\"call_number_browse\":\"Coin 5169\"}}",
-    "donor_s": [
-        "W.S. Watson"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "12:  W.S. Watson"
     ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
@@ -46,11 +49,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2866"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -77,19 +80,25 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Wearing lionskin; border of dots"
+        "wearing lion-skin"
     ],
     "issue_obverse_legend_s": [
-        "S C"
+        "S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
-        "Wreath"
+        "Globe"
     ],
     "issue_reverse_symbol_s": [
-        "aplustre and ear of corn"
+        "aplustre below on l.; corn-ear below on r."
     ],
     "issue_reverse_figure_description_s": [
-        "4 wreaths around globe, the topmost one larger; to l. of bottommost wreath, aplustre; to r. of bottommost wreath, ear of corn; border of dots"
+        "surrounded by three small wreaths and one large wreath"
+    ],
+    "issue_reverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  426/4b",
@@ -97,9 +106,12 @@
         "Sear  385"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "b975a50cf6e4c891"
     ],
-    "_version_": 1667138511976792064,
-    "timestamp": "2020-05-19T16:53:00.765Z"
+    "_version_": 1684903314775343104,
+    "timestamp": "2020-12-01T18:56:56.934Z"
 }

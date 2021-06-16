@@ -35,16 +35,16 @@
         "4.64"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2915\",\"call_number_browse\":\"Coin 2915\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1662,
     "pub_date_end_sort": 1723,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1821"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -85,9 +85,12 @@
         "Coole 73 14Q"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1662 to 1723"
+    ],
     "hashed_id_s": [
         "3b731639a59ff930"
     ],
-    "_version_": 1667138479542239232,
-    "timestamp": "2020-05-19T16:52:29.831Z"
+    "_version_": 1684903302425214976,
+    "timestamp": "2020-12-01T18:56:45.155Z"
 }

@@ -35,8 +35,11 @@
         "0.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2469\",\"call_number_browse\":\"Coin 2469\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 1356,
     "pub_date_end_sort": 1361,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "soldino"
-    ],
-    "issue_number_s": [
-        "1555"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,13 +102,16 @@
     ],
     "issue_references_s": [
         "Pap. 1 196, 2",
-        "CNI, 7  III.25.1",
+        "CNI, 7  83, 1",
         "MEC 12 644-646"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1356 to 1361"
+    ],
     "hashed_id_s": [
         "8b22ccab3e874f28"
     ],
-    "_version_": 1667138426771603456,
-    "timestamp": "2020-05-19T16:51:39.506Z"
+    "_version_": 1684903578741768192,
+    "timestamp": "2020-12-01T19:01:08.671Z"
 }

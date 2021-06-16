@@ -35,6 +35,12 @@
         "14.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1112\",\"call_number_browse\":\"Coin 1112\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "130: 1994-10-01 Amphora Coins"
+    ],
     "pub_date_start_sort": 19,
     "pub_date_end_sort": 20,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "shekel"
-    ],
-    "issue_number_s": [
-        "558"
     ],
     "issue_metal_s": [
         "Silver"
@@ -107,9 +110,12 @@
         "Archaic Monogram"
     ],
     "issue_monogram_1display": "[{\"title\":\"Archaic Monogram\",\"document_id\":\"747e14f7-9629-45c8-ba75-f5eb1d07fcf8\"}]",
+    "issue_date_s": [
+        "19 to 20"
+    ],
     "hashed_id_s": [
         "77972bfae6ddb2e7"
     ],
-    "_version_": 1667138371258941440,
-    "timestamp": "2020-05-19T16:50:46.565Z"
+    "_version_": 1684903257889046528,
+    "timestamp": "2020-12-01T18:56:02.681Z"
 }

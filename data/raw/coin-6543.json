@@ -38,6 +38,9 @@
         "4.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6543\",\"call_number_browse\":\"Coin 6543\"}}",
+    "numismatic_accession_s": [
+        "352: 2008-01-15 A. H. Baldwin & Sons, Ltd."
+    ],
     "pub_date_start_sort": 1221,
     "pub_date_end_sort": 1254,
     "issue_object_type_s": [
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "hyperpyron"
-    ],
-    "issue_number_s": [
-        "3952"
     ],
     "issue_metal_s": [
         "Gold"
@@ -104,9 +104,12 @@
         "DOC vol. IV, page 483 3.2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1221 to 1254"
+    ],
     "hashed_id_s": [
         "e4b7d08d29cf54e2"
     ],
-    "_version_": 1667138253656948736,
-    "timestamp": "2020-05-19T16:48:54.411Z"
+    "_version_": 1684903011800842240,
+    "timestamp": "2020-12-01T18:52:08.060Z"
 }

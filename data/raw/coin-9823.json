@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "5/20/1938"
+        "1938-05-20"
     ],
     "find_feature_s": [
-        "Trench 7"
+        "Trench 7, in mortar strosis above pavement"
     ],
     "find_locus_s": [
-        "13-R(N)"
+        "A 13-R (N.)"
     ],
     "find_number_s": [
         "Cb2142"
-    ],
-    "find_description_s": [
-        "In mortar strosis above pavement"
     ],
     "die_axis_s": [
         "1"
@@ -53,6 +50,9 @@
         "2.46"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9823\",\"call_number_browse\":\"Coin 9823\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 335,
     "pub_date_end_sort": 335,
     "issue_object_type_s": [
@@ -60,9 +60,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "6210"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -110,13 +107,16 @@
         "GLORIA EXERCITVS | SMAN\u0393"
     ],
     "issue_references_s": [
-        "RIC.7 Vol VII., p693 86",
+        "RIC VII Antioch 86",
         "Waage 118 1404"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "335 to 335"
+    ],
     "hashed_id_s": [
         "654ee1724490e75d"
     ],
-    "_version_": 1667138277427118080,
-    "timestamp": "2020-05-19T16:49:17.080Z"
+    "_version_": 1684903014788235264,
+    "timestamp": "2020-12-01T18:52:10.843Z"
 }

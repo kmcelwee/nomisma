@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "3 shillings"
     ],
-    "issue_number_s": [
-        "3507"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "86a61ee9be2e9f42"
     ],
-    "_version_": 1667138167279452160,
-    "timestamp": "2020-05-19T16:47:32.036Z"
+    "_version_": 1684903421959733248,
+    "timestamp": "2020-12-01T18:58:39.151Z"
 }

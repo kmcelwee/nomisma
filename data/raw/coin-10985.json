@@ -38,8 +38,14 @@
         "4.1"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10985\",\"call_number_browse\":\"Coin 10985\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Zuzim Judea; 06/06/2006"
     ],
     "pub_date_start_sort": 420,
     "pub_date_end_sort": 438,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7146"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3 LYW Type Ia/2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "420 to 438"
+    ],
     "hashed_id_s": [
         "31aedc980c68fb5f"
     ],
-    "_version_": 1667138177595342848,
-    "timestamp": "2020-05-19T16:47:41.874Z"
+    "_version_": 1684902954153279488,
+    "timestamp": "2020-12-01T18:51:13.018Z"
 }

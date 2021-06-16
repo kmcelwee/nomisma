@@ -35,13 +35,13 @@
         "11.7"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6203\",\"call_number_browse\":\"Coin 6203\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "3649"
     ],
     "issue_metal_s": [
         "Lead"
@@ -68,9 +68,12 @@
         "Medailles, 1702 p. 8 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Battle of Trino    "
+    ],
     "hashed_id_s": [
         "5027b9051d36902f"
     ],
-    "_version_": 1667138252072550400,
-    "timestamp": "2020-05-19T16:48:52.902Z"
+    "_version_": 1684903124208189440,
+    "timestamp": "2020-12-01T18:53:55.195Z"
 }

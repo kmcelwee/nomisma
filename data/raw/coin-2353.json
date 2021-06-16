@@ -35,8 +35,11 @@
         "3.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2353\",\"call_number_browse\":\"Coin 2353\"}}",
-    "donor_s": [
-        "Lincoln"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "294: 1966-01-01 Lincoln/Lincoln"
     ],
     "pub_date_start_sort": 534,
     "pub_date_end_sort": 536,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "quarter siliqua"
-    ],
-    "issue_number_s": [
-        "1505"
     ],
     "issue_metal_s": [
         "Silver"
@@ -91,9 +91,12 @@
         " Ostrogothic 56"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "534 to 536"
+    ],
     "hashed_id_s": [
         "3e4c19aee1b3d4e7"
     ],
-    "_version_": 1667138218838982656,
-    "timestamp": "2020-05-19T16:48:21.208Z"
+    "_version_": 1684902993445519360,
+    "timestamp": "2020-12-01T18:51:50.488Z"
 }

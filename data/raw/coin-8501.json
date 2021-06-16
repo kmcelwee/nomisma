@@ -31,14 +31,14 @@
     "find_date_s": [
         "5/13/1937"
     ],
+    "find_feature_s": [
+        "Dig III, 3.5-4.5m (basket A)"
+    ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
         "Ca918"
-    ],
-    "find_description_s": [
-        "Dig III 3.50 to 4.50M. Basket A."
     ],
     "die_axis_s": [
         "5"
@@ -50,13 +50,16 @@
         "2.34"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8501\",\"call_number_browse\":\"Coin 8501\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "5409"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -114,6 +117,6 @@
     "hashed_id_s": [
         "15cde0a11bcaa48a"
     ],
-    "_version_": 1667138186763042816,
-    "timestamp": "2020-05-19T16:47:50.618Z"
+    "_version_": 1684903679367315456,
+    "timestamp": "2020-12-01T19:02:44.635Z"
 }

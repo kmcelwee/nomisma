@@ -41,6 +41,12 @@
         "138.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5114\",\"call_number_browse\":\"Coin 5114\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
     "pub_date_start_sort": -265,
     "pub_date_end_sort": -242,
     "issue_object_type_s": [
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "semis"
-    ],
-    "issue_number_s": [
-        "2826"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -94,9 +97,12 @@
         "Sear  535"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-265 to -242"
+    ],
     "hashed_id_s": [
         "fd81baa7934ddfe3"
     ],
-    "_version_": 1667138399185666048,
-    "timestamp": "2020-05-19T16:51:13.201Z"
+    "_version_": 1684903571888275456,
+    "timestamp": "2020-12-01T19:01:02.135Z"
 }

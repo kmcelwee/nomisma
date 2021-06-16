@@ -35,8 +35,11 @@
         "29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 760\",\"call_number_browse\":\"Coin 760\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -323,
     "pub_date_end_sort": -317,
@@ -46,9 +49,6 @@
     "issue_denomination_s": [
         "Tetradrachm"
     ],
-    "issue_number_s": [
-        "315"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -56,16 +56,16 @@
         "Philip III Arrhidaeus (-323 to -317)"
     ],
     "issue_place_s": [
-        "Ecbatana, Persia, Asia"
+        "Ecbatana, Media, Persia"
     ],
     "issue_city_s": [
         "Ecbatana"
     ],
     "issue_state_s": [
-        "Persia"
+        "Media"
     ],
     "issue_region_s": [
-        "Asia"
+        "Persia"
     ],
     "issue_obverse_figure_s": [
         "Hercules"
@@ -102,9 +102,12 @@
         "Price  P221"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-323 to -317"
+    ],
     "hashed_id_s": [
         "d67c7b3b160a8441"
     ],
-    "_version_": 1667138403675668480,
-    "timestamp": "2020-05-19T16:51:17.480Z"
+    "_version_": 1684903177918349312,
+    "timestamp": "2020-12-01T18:54:46.416Z"
 }

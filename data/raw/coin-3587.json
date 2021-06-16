@@ -35,16 +35,16 @@
         "struck"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3587\",\"call_number_browse\":\"Coin 3587\"}}",
-    "donor_s": [
-        "Mrs. Henry L. O' Gorman"
+    "numismatic_collection_s": [
+        "Savage"
+    ],
+    "numismatic_accession_s": [
+        "373: 1979-01-01 Mrs. Henry L. O' Gorman"
     ],
     "pub_date_start_sort": 1914,
     "pub_date_end_sort": 1918,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "2119"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -83,9 +83,18 @@
         "Henri E. Allouard, H Allouard"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, pro patria",
+        "Category, unknown soldiers",
+        "Category, memorial",
+        "Event, World War I    "
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
     "hashed_id_s": [
         "fc77b0485c1883c9"
     ],
-    "_version_": 1667138163697516544,
-    "timestamp": "2020-05-19T16:47:28.620Z"
+    "_version_": 1684902932608188416,
+    "timestamp": "2020-12-01T18:50:52.478Z"
 }

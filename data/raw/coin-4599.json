@@ -35,6 +35,15 @@
         "3.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4599\",\"call_number_browse\":\"Coin 4599\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "C. Platt; 1926; $1.20"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2534"
     ],
     "issue_metal_s": [
         "Silver"
@@ -102,9 +108,12 @@
         "Sear  1523"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "b565ee39ae11c7af"
     ],
-    "_version_": 1667138500236935168,
-    "timestamp": "2020-05-19T16:52:49.568Z"
+    "_version_": 1684903311530000384,
+    "timestamp": "2020-12-01T18:56:53.838Z"
 }

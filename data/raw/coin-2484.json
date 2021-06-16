@@ -35,8 +35,11 @@
         "1.9"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2484\",\"call_number_browse\":\"Coin 2484\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": 1567,
     "pub_date_end_sort": 1570,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "sesino"
-    ],
-    "issue_number_s": [
-        "1560"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,12 +89,15 @@
         "SANCTVS MARCVS VENET"
     ],
     "issue_references_s": [
-        "CNI, 7  XIV.12.42"
+        "CNI, 7  396, 42"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1567 to 1570"
+    ],
     "hashed_id_s": [
         "f24a5c746c313caf"
     ],
-    "_version_": 1667138427140702208,
-    "timestamp": "2020-05-19T16:51:39.858Z"
+    "_version_": 1684903577974210560,
+    "timestamp": "2020-12-01T19:01:07.939Z"
 }

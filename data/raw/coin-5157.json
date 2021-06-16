@@ -35,6 +35,15 @@
         "3.94"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5157\",\"call_number_browse\":\"Coin 5157\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "1925; $2.10"
+    ],
     "pub_date_start_sort": -56,
     "pub_date_end_sort": -56,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "2859"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "Faustus Cornelius Sulla"
@@ -67,9 +76,6 @@
     "issue_obverse_figure_s": [
         "Diana"
     ],
-    "issue_obverse_symbol_s": [
-        "lituus"
-    ],
     "issue_obverse_part_s": [
         "bust"
     ],
@@ -77,10 +83,15 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Bust r., draped; behind, lituus; before, legend; border of dots"
+        "draped and wearing diadem"
     ],
     "issue_obverse_legend_s": [
         "FAVSTVS"
+    ],
+    "issue_obverse_attributes_s": [
+        "crescent, above head",
+        "lituus, behind head",
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Sulla"
@@ -92,10 +103,10 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Sulla seated l.; below: to l., kneeling Bocchus holds palm branch; to r., Jugurtha kneels with hands tied behind back; border of dots"
+        "Bochus kneeling and holding olive-branch in r. hand; Jugurtha kneeling with hands tied behind back"
     ],
     "issue_reverse_figure_relationship_s": [
-        "Jugurtha was surrendered to Sulla by Bocchus"
+        "Bocchus on l.; Jugurtha on r."
     ],
     "issue_reverse_legend_s": [
         "FELIX"
@@ -106,9 +117,12 @@
         "Sear  383"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-56 to -56"
+    ],
     "hashed_id_s": [
         "70321989750d6308"
     ],
-    "_version_": 1667138511446212608,
-    "timestamp": "2020-05-19T16:53:00.259Z"
+    "_version_": 1684903309564968960,
+    "timestamp": "2020-12-01T18:56:51.964Z"
 }

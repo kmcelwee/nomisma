@@ -35,8 +35,11 @@
         "16.96"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2534\",\"call_number_browse\":\"Coin 2534\"}}",
-    "donor_s": [
-        "Cornelius C. Vermeule III"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "58: 2000-10-09 Cornelius C. Vermeule III"
     ],
     "pub_date_start_sort": -280,
     "pub_date_end_sort": -245,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "1594"
     ],
     "issue_metal_s": [
         "Silver"
@@ -111,9 +111,16 @@
         "WSM  1222"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Other Person, Hercules",
+        "Other Person, Zeus"
+    ],
+    "issue_date_s": [
+        "-280 to -245"
+    ],
     "hashed_id_s": [
         "728a92d537b56ad5"
     ],
-    "_version_": 1667138121350774784,
-    "timestamp": "2020-05-19T16:46:48.237Z"
+    "_version_": 1684902966329344000,
+    "timestamp": "2020-12-01T18:51:24.629Z"
 }

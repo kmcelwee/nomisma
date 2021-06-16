@@ -38,8 +38,11 @@
         "4.86"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 13729\",\"call_number_browse\":\"Coin 13729\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "325:  unknown"
     ],
     "pub_date_start_sort": -130,
     "pub_date_end_sort": -129,
@@ -49,14 +52,14 @@
     "issue_denomination_s": [
         "double"
     ],
-    "issue_number_s": [
-        "8786"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_shape_s": [
         "Round"
+    ],
+    "issue_era_s": [
+        "Seleucid"
     ],
     "issue_ruler_s": [
         "Antiochus VII Sidetes (-138 to -129)"
@@ -101,9 +104,12 @@
         "H & L II,v.I,p.368 2067.22"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-130 to -129"
+    ],
     "hashed_id_s": [
         "e7ab52abb34dc4cd"
     ],
-    "_version_": 1667138129301078016,
-    "timestamp": "2020-05-19T16:46:55.819Z"
+    "_version_": 1684902910341677056,
+    "timestamp": "2020-12-01T18:50:31.235Z"
 }

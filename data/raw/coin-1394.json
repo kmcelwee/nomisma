@@ -35,8 +35,11 @@
         "3.71"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1394\",\"call_number_browse\":\"Coin 1394\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -179,
     "pub_date_end_sort": -170,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "793"
     ],
     "issue_metal_s": [
         "Silver"
@@ -74,10 +74,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Helmeted head of Roma r.; behind, X."
+        "helmeted; behind, legend."
+    ],
+    "issue_obverse_legend_s": [
+        "X"
     ],
     "issue_obverse_attributes_s": [
-        "dots, Border"
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Dioscuri"
@@ -89,13 +92,13 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Dioscuri r.; below, monogram. Legend in exergue."
+        "below, monogram; legend in exergue."
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "line, Border",
+        "border, line",
         "m1394, Monogram"
     ],
     "issue_references_s": [
@@ -104,9 +107,12 @@
         "Sear  68"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-179 to -170"
+    ],
     "hashed_id_s": [
         "c7d04811ea7840ae"
     ],
-    "_version_": 1667138210934816768,
-    "timestamp": "2020-05-19T16:48:13.668Z"
+    "_version_": 1684902975502286848,
+    "timestamp": "2020-12-01T18:51:33.377Z"
 }

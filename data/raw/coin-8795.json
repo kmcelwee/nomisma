@@ -46,9 +46,6 @@
     "issue_denomination_s": [
         "nomisma histamenon"
     ],
-    "issue_number_s": [
-        "5595"
-    ],
     "issue_metal_s": [
         "Billon"
     ],
@@ -106,9 +103,12 @@
         "BL Alexis I no close parallels"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1082 to 1087"
+    ],
     "hashed_id_s": [
         "5bfc13ea14e1cfbc"
     ],
-    "_version_": 1667138185913696256,
-    "timestamp": "2020-05-19T16:47:49.808Z"
+    "_version_": 1684902936595922944,
+    "timestamp": "2020-12-01T18:50:56.274Z"
 }

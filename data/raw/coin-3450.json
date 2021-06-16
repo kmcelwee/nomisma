@@ -32,6 +32,9 @@
         "96x54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3450\",\"call_number_browse\":\"Coin 3450\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "3 pounds"
-    ],
-    "issue_number_s": [
-        "2042"
     ],
     "issue_metal_s": [
         "Paper"
@@ -84,9 +84,13 @@
         "Shafer & Cuhaj p. 1131 S1812"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "0522332d76956917"
     ],
-    "_version_": 1667138481915166720,
-    "timestamp": "2020-05-19T16:52:32.097Z"
+    "_version_": 1684903304102936576,
+    "timestamp": "2020-12-01T18:56:46.754Z"
 }

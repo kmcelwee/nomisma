@@ -50,6 +50,12 @@
         "4.51"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8001\",\"call_number_browse\":\"Coin 8001\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 615,
     "pub_date_end_sort": 620,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5035"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -99,9 +102,12 @@
         "DOC Volume 2 Part 1 90a.1, 92a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "615 to 620"
+    ],
     "hashed_id_s": [
         "0184c11db0a8c911"
     ],
-    "_version_": 1667138265203867648,
-    "timestamp": "2020-05-19T16:49:05.423Z"
+    "_version_": 1684903486951522304,
+    "timestamp": "2020-12-01T18:59:41.133Z"
 }

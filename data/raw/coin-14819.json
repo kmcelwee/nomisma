@@ -35,22 +35,25 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14819\",\"call_number_browse\":\"Coin 14819\"}}",
-    "donor_s": [
-        "Moses Taylor Pyne"
+    "numismatic_collection_s": [
+        "Firestone"
     ],
-    "pub_date_start_sort": 0,
-    "pub_date_end_sort": 0,
+    "numismatic_accession_s": [
+        "384:  Moses Taylor Pyne"
+    ],
+    "pub_date_start_sort": -76,
+    "pub_date_end_sort": -76,
     "issue_object_type_s": [
         "coin"
     ],
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "9098"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "L. Lucretius Trio  "
@@ -71,33 +74,46 @@
         "Sol"
     ],
     "issue_obverse_part_s": [
-        "radiate"
+        "head"
     ],
     "issue_obverse_orientation_s": [
-        "facing right"
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "radiate"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Crescent"
     ],
     "issue_reverse_part_s": [
-        "up"
+        "N/A"
     ],
     "issue_reverse_orientation_s": [
-        "facing up"
+        "N/A"
     ],
-    "issue_reverse_figure_relationship_s": [
+    "issue_reverse_figure_description_s": [
         "surrounded by seven stars"
     ],
     "issue_reverse_legend_s": [
-        "TRIO L.LVCRETI"
+        "TRIO L\u00b7LVCRETI"
+    ],
+    "issue_reverse_attributes_s": [
+        "inscription, above and below crescent",
+        "border, dotted"
     ],
     "issue_references_s": [
-        "RRC  390-1"
+        "RRC  390/1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-76 to -76"
+    ],
     "hashed_id_s": [
         "d8b85eb1e337abe5"
     ],
-    "_version_": 1667307598904295424,
-    "timestamp": "2020-05-21T13:40:34.628Z"
+    "_version_": 1684903080981692416,
+    "timestamp": "2020-12-01T18:53:13.970Z"
 }

@@ -58,9 +58,6 @@
     "issue_denomination_s": [
         "fals"
     ],
-    "issue_number_s": [
-        "6422"
-    ],
     "issue_metal_s": [
         "Copper"
     ],
@@ -92,9 +89,12 @@
         "BMC  729"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "695 to 750"
+    ],
     "hashed_id_s": [
         "5eed06db27e2e0c8"
     ],
-    "_version_": 1667145144497864704,
-    "timestamp": "2020-05-19T18:38:26.031Z"
+    "_version_": 1684903352858574848,
+    "timestamp": "2020-12-01T18:57:33.252Z"
 }

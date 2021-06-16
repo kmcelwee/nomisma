@@ -38,8 +38,8 @@
         "7.92"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 916\",\"call_number_browse\":\"Coin 916\"}}",
-    "donor_s": [
-        "Mark and Lottie Salton in memory of Felix Schlessinger"
+    "numismatic_accession_s": [
+        "42: 1998-11-24 Mark and Lottie Salton in memory of Felix Schlessinger"
     ],
     "pub_date_start_sort": -480,
     "pub_date_end_sort": -420,
@@ -48,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "stater"
-    ],
-    "issue_number_s": [
-        "388"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,9 +86,12 @@
         "ANS Part 2, Bruttium 264"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-480 to -420"
+    ],
     "hashed_id_s": [
         "54d524f61db6640c"
     ],
-    "_version_": 1667138408072347648,
-    "timestamp": "2020-05-19T16:51:21.672Z"
+    "_version_": 1684903275068915712,
+    "timestamp": "2020-12-01T18:56:19.065Z"
 }

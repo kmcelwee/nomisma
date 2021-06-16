@@ -32,6 +32,9 @@
         "91x70"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3816\",\"call_number_browse\":\"Coin 3816\"}}",
+    "numismatic_accession_s": [
+        "1:  "
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "18 pence"
-    ],
-    "issue_number_s": [
-        "2214"
     ],
     "issue_metal_s": [
         "Paper"
@@ -78,9 +78,12 @@
         "Shafer & Cuhaj p. 1149 S2550"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "fc33466fe38d60f2"
     ],
-    "_version_": 1667138483553042432,
-    "timestamp": "2020-05-19T16:52:33.659Z"
+    "_version_": 1684903306470621184,
+    "timestamp": "2020-12-01T18:56:49.014Z"
 }

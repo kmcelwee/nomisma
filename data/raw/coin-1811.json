@@ -35,8 +35,11 @@
         "7.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1811\",\"call_number_browse\":\"Coin 1811\"}}",
-    "donor_s": [
-        "Stanley E. Harris"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "242:  Stanley E. Harris"
     ],
     "pub_date_start_sort": 931,
     "pub_date_end_sort": 944,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "1181"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear 338 1760"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "931 to 944"
+    ],
     "hashed_id_s": [
         "d33101afa22a4345"
     ],
-    "_version_": 1667138468448305152,
-    "timestamp": "2020-05-19T16:52:19.254Z"
+    "_version_": 1684903297357447168,
+    "timestamp": "2020-12-01T18:56:40.321Z"
 }

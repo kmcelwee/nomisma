@@ -61,9 +61,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "6225"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -83,7 +80,7 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Woman"
+        "Emperor"
     ],
     "issue_obverse_part_s": [
         "bust"
@@ -92,7 +89,7 @@
         "center, facing right"
     ],
     "issue_obverse_figure_description_s": [
-        "veiled woman"
+        "Bust of Constantius II"
     ],
     "issue_obverse_legend_s": [
         "DV CONSTANTINVS PT AVGG"
@@ -116,13 +113,16 @@
         "SMANA"
     ],
     "issue_references_s": [
-        "RIC.8 521 112",
+        "RIC VIII Antioch 112",
         "Waage 121 1458"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "347 to 348"
+    ],
     "hashed_id_s": [
         "9f6218ac734c1913"
     ],
-    "_version_": 1667138196665794560,
-    "timestamp": "2020-05-19T16:48:00.061Z"
+    "_version_": 1684903686556352512,
+    "timestamp": "2020-12-01T19:02:51.491Z"
 }

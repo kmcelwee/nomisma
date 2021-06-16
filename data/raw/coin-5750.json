@@ -35,8 +35,11 @@
         "16.63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5750\",\"call_number_browse\":\"Coin 5750\"}}",
-    "donor_s": [
-        "Kurt Weitzmann"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "422: 2001-09-21 Kurt Weitzmann"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "3 mark"
-    ],
-    "issue_number_s": [
-        "3286"
     ],
     "issue_metal_s": [
         "Silver"
@@ -104,6 +104,6 @@
     "hashed_id_s": [
         "5dda6fd2d637030e"
     ],
-    "_version_": 1667138386909986816,
-    "timestamp": "2020-05-19T16:51:01.493Z"
+    "_version_": 1684903561700311040,
+    "timestamp": "2020-12-01T19:00:52.419Z"
 }

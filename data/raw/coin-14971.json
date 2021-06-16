@@ -35,8 +35,14 @@
         "22.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14971\",\"call_number_browse\":\"Coin 14971\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
+    ],
+    "numismatic_provenance_s": [
+        "Aster Wu; 2006"
     ],
     "pub_date_start_sort": 760,
     "pub_date_end_sort": 761,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "10 Cash"
-    ],
-    "issue_number_s": [
-        "9181"
     ],
     "issue_metal_s": [
         "Copper"
@@ -80,9 +83,12 @@
         "Aster Wu"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "760 to 761"
+    ],
     "hashed_id_s": [
         "095f904c8e857c69"
     ],
-    "_version_": 1667144700013838336,
-    "timestamp": "2020-05-19T18:31:22.136Z"
+    "_version_": 1684903320040243200,
+    "timestamp": "2020-12-01T18:57:01.953Z"
 }

@@ -35,6 +35,9 @@
         "3.3"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1898\",\"call_number_browse\":\"Coin 1898\"}}",
+    "numismatic_accession_s": [
+        "270: 1999-01-01 Colosseum Coin Exchange"
+    ],
     "pub_date_start_sort": -279,
     "pub_date_end_sort": -241,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "1241"
     ],
     "issue_metal_s": [
         "Silver"
@@ -97,9 +97,12 @@
         "SNG Cop. Sicily Part I 107v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-279 to -241"
+    ],
     "hashed_id_s": [
         "e2bd80ffc585ae19"
     ],
-    "_version_": 1667138133718728704,
-    "timestamp": "2020-05-19T16:47:00.031Z"
+    "_version_": 1684903380703510528,
+    "timestamp": "2020-12-01T18:57:59.807Z"
 }

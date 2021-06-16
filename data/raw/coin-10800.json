@@ -35,8 +35,14 @@
         "4.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10800\",\"call_number_browse\":\"Coin 10800\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 01/10/1999"
     ],
     "pub_date_start_sort": 310,
     "pub_date_end_sort": 379,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6961"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -89,9 +92,12 @@
         "SNS 3 Mint V= Sakastan Type 1b1/2b1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "310 to 379"
+    ],
     "hashed_id_s": [
         "2832c5d4e6592233"
     ],
-    "_version_": 1667138285995032576,
-    "timestamp": "2020-05-19T16:49:25.253Z"
+    "_version_": 1684903029107589120,
+    "timestamp": "2020-12-01T18:52:24.498Z"
 }

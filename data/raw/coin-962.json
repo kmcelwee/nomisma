@@ -35,8 +35,11 @@
         "4.08"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 962\",\"call_number_browse\":\"Coin 962\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "34:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -334,
     "pub_date_end_sort": -323,
@@ -99,9 +102,12 @@
         "Price  2567"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-334 to -323"
+    ],
     "hashed_id_s": [
         "5f117a9504772320"
     ],
-    "_version_": 1673105599256068096,
-    "timestamp": "2020-07-24T13:37:18.650Z"
+    "_version_": 1684903259907555328,
+    "timestamp": "2020-12-01T18:56:04.607Z"
 }

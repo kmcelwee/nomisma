@@ -26,7 +26,7 @@
         "num"
     ],
     "notes_display": [
-        "Fragment, half coin. Size: 21 mm.  Weight: 3.43 g.  Die axis indeterminate.  Both obverse and reverse are completely obliterated. Notes: (Cb1014-1016); Senatorial bronze; Julio-Claudian or 68 A.D."
+        "Fragment, half coin. Both obverse and reverse are completely obliterated. "
     ],
     "find_place_s": [
         "Antioch, Syria"
@@ -40,8 +40,26 @@
     "find_number_s": [
         "Cb1014"
     ],
+    "find_description_s": [
+        "C300 building, to within .1-.2m of mosaics"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "21"
+    ],
+    "weight_s": [
+        "3.43"
+    ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5422\",\"call_number_browse\":\"Coin 5422\"}}",
-    "pub_date_start_sort": 27,
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
+    "pub_date_start_sort": -27,
     "pub_date_end_sort": 68,
     "issue_object_type_s": [
         "coin"
@@ -49,11 +67,11 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "3039"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_ruler_s": [
         "Julio-Claudian (-27 to 68)"
@@ -74,15 +92,21 @@
         "Head"
     ],
     "issue_obverse_figure_description_s": [
-        "obscure head, of a generic Julio Claudian type"
+        "of a generic Julio Claudian type"
     ],
     "issue_reverse_figure_description_s": [
         "none (see notes)"
     ],
+    "issue_references_s": [
+        "Waage  869v"
+    ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-27 to 68"
+    ],
     "hashed_id_s": [
         "b5360981cc047768"
     ],
-    "_version_": 1667138392301764608,
-    "timestamp": "2020-05-19T16:51:06.635Z"
+    "_version_": 1684902889849356288,
+    "timestamp": "2020-12-01T18:50:11.691Z"
 }

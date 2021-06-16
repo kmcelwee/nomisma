@@ -35,16 +35,16 @@
         "4.54"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3143\",\"call_number_browse\":\"Coin 3143\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1723,
     "pub_date_end_sort": 1736,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1922"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -82,9 +82,12 @@
         "Coole 72 13"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1723 to 1736"
+    ],
     "hashed_id_s": [
         "c72fd2a007e7a3b8"
     ],
-    "_version_": 1667138433899823104,
-    "timestamp": "2020-05-19T16:51:46.309Z"
+    "_version_": 1684903212118704128,
+    "timestamp": "2020-12-01T18:55:19.031Z"
 }

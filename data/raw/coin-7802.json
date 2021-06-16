@@ -32,13 +32,13 @@
         "55.0"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7802\",\"call_number_browse\":\"Coin 7802\"}}",
+    "numismatic_collection_s": [
+        "RBSC"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "4865"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -75,6 +75,6 @@
     "hashed_id_s": [
         "aaa1dc40d3a5ea7f"
     ],
-    "_version_": 1667138262602350592,
-    "timestamp": "2020-05-19T16:49:02.943Z"
+    "_version_": 1684903131459092480,
+    "timestamp": "2020-12-01T18:54:02.109Z"
 }

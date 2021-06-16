@@ -38,8 +38,11 @@
         "9.14"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6349\",\"call_number_browse\":\"Coin 6349\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "395:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 142,
     "pub_date_end_sort": 143,
@@ -107,9 +110,12 @@
         "BMC Gal. 256 68"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "142 to 143"
+    ],
     "hashed_id_s": [
         "dadc14b2f46d15ee"
     ],
-    "_version_": 1674370052859625472,
-    "timestamp": "2020-08-07T12:35:15.587Z"
+    "_version_": 1684903334019858432,
+    "timestamp": "2020-12-01T18:57:15.287Z"
 }

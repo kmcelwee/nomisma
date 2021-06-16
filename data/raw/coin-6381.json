@@ -38,8 +38,11 @@
         "7.59"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6381\",\"call_number_browse\":\"Coin 6381\"}}",
-    "donor_s": [
-        "Baldwin Maull"
+    "numismatic_accession_s": [
+        "421: 1966-01-01 Baldwin Maull"
+    ],
+    "numismatic_provenance_s": [
+        "de Nicola, Rome; Oct. 1959; Lire 3,800 = $6.27, Sept. 1959 catalog"
     ],
     "pub_date_start_sort": -380,
     "pub_date_end_sort": -355,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Didrachm"
-    ],
-    "issue_number_s": [
-        "3813"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +96,12 @@
         "F-B  588"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-380 to -355"
+    ],
     "hashed_id_s": [
         "b2281ba0f0935ac2"
     ],
-    "_version_": 1667138375449051136,
-    "timestamp": "2020-05-19T16:50:50.563Z"
+    "_version_": 1684903259281555456,
+    "timestamp": "2020-12-01T18:56:04.009Z"
 }

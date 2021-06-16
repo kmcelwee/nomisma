@@ -29,6 +29,9 @@
         "5"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14784\",\"call_number_browse\":\"Coin 14784\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_place_s": [
@@ -51,6 +54,6 @@
     "hashed_id_s": [
         "8015f665f9e382ef"
     ],
-    "_version_": 1674255560699019264,
-    "timestamp": "2020-08-06T06:15:27.348Z"
+    "_version_": 1684903650671984640,
+    "timestamp": "2020-12-01T19:02:17.267Z"
 }

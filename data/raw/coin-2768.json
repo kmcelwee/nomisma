@@ -35,13 +35,16 @@
         "47"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2768\",\"call_number_browse\":\"Coin 2768\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "283:  "
+    ],
     "pub_date_start_sort": 1800,
     "pub_date_end_sort": 1860,
     "issue_object_type_s": [
         "medal"
-    ],
-    "issue_number_s": [
-        "1752"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -91,9 +94,17 @@
         "Edward Duffield"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, French and Indian War    ",
+        "Place, Kittanning  Pennsylvania  United States of America",
+        "Event, Armstrong Expedition    Sep  8 1756 12:00AM"
+    ],
+    "issue_date_s": [
+        "1800 to 1860"
+    ],
     "hashed_id_s": [
         "b8cbfd1ffb5643f9"
     ],
-    "_version_": 1667138478103592960,
-    "timestamp": "2020-05-19T16:52:28.463Z"
+    "_version_": 1684903225363267584,
+    "timestamp": "2020-12-01T18:55:31.662Z"
 }

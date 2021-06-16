@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "08/01/1939"
+        "1939-08-01"
     ],
     "find_feature_s": [
         "Surface"
     ],
     "find_locus_s": [
-        "13-R"
+        "A 13-R"
     ],
     "find_number_s": [
         "Cc2711"
@@ -50,6 +50,12 @@
         "2.2"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8117\",\"call_number_browse\":\"Coin 8117\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 317,
     "pub_date_end_sort": 320,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5141"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -117,9 +120,12 @@
         "Numismatique Constantinienne III p. 34 V 1"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "317 to 320"
+    ],
     "hashed_id_s": [
         "102cdab5da28f4a5"
     ],
-    "_version_": 1667138266379321344,
-    "timestamp": "2020-05-19T16:49:06.544Z"
+    "_version_": 1694235976992292864,
+    "timestamp": "2021-03-14T19:15:37.193Z"
 }

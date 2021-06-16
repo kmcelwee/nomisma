@@ -35,8 +35,11 @@
         "28.29"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1397\",\"call_number_browse\":\"Coin 1397\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "33:  Frederick W. Brown"
     ],
     "pub_date_start_sort": -169,
     "pub_date_end_sort": -158,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "796"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -74,10 +74,10 @@
         "head"
     ],
     "issue_obverse_figure_description_s": [
-        "Laureate head of Janus; above, l."
+        "laureate; above, legend."
     ],
-    "issue_obverse_attributes_s": [
-        "l, Above head of Janus"
+    "issue_obverse_legend_s": [
+        "I"
     ],
     "issue_reverse_figure_s": [
         "Prow"
@@ -86,13 +86,12 @@
         "right"
     ],
     "issue_reverse_figure_description_s": [
-        "Prow r.; above, monogram; below, l. Legend below."
+        "above, monogram; below, l; below, legend."
     ],
     "issue_reverse_legend_s": [
         "ROMA"
     ],
     "issue_reverse_attributes_s": [
-        "l, Below prow",
         "m1397, Monogram"
     ],
     "issue_references_s": [
@@ -101,9 +100,12 @@
         "Sear  698"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-169 to -158"
+    ],
     "hashed_id_s": [
         "dc84346393895a83"
     ],
-    "_version_": 1667138463087984640,
-    "timestamp": "2020-05-19T16:52:14.140Z"
+    "_version_": 1684903221632434176,
+    "timestamp": "2020-12-01T18:55:28.105Z"
 }

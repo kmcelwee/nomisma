@@ -2,7 +2,7 @@
     "id": "coin-7657",
     "title_display": "Coin: 7657",
     "pub_created_display": [
-        "Constantine II, follis, Antioch"
+        "Constantine II   (337 to 340), follis, Antioch"
     ],
     "call_number_display": [
         "Coin 7657"
@@ -29,19 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "10/22/1934"
+        "1934-10-22"
     ],
     "find_feature_s": [
-        "Rm 1"
+        "Below Phoenix mosaic"
     ],
     "find_locus_s": [
-        "D-H 256"
+        "DH 256"
     ],
     "find_number_s": [
         "C3864"
-    ],
-    "find_description_s": [
-        "Below Phoenix Mosaic"
     ],
     "die_axis_s": [
         "11"
@@ -53,6 +50,12 @@
         "2.657"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7657\",\"call_number_browse\":\"Coin 7657\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 326,
     "pub_date_end_sort": 327,
     "issue_object_type_s": [
@@ -61,14 +64,11 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "4761"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
     "issue_ruler_s": [
-        "Constantine II"
+        "Constantine II   (337 to 340)"
     ],
     "issue_place_s": [
         "Antioch, Syria, Roman Empire"
@@ -107,16 +107,19 @@
         "camp gate, two turrets no doors, star above, varying number of stone layers"
     ],
     "issue_reverse_legend_s": [
-        "PROVIDEN-TIAE CAESS"
+        "PROVIDEN-TIAE CAESS | SMAN"
     ],
     "issue_references_s": [
-        "RIC 7 690.73",
+        "RIC VII Antioch 73",
         "Cohen 7 384.160"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "326 to 327"
+    ],
     "hashed_id_s": [
         "99827d653a36955a"
     ],
-    "_version_": 1667138351073853440,
-    "timestamp": "2020-05-19T16:50:27.315Z"
+    "_version_": 1690524119686184960,
+    "timestamp": "2021-02-01T19:57:14.220Z"
 }

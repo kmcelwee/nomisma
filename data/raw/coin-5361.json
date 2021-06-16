@@ -35,8 +35,11 @@
         "5.57"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5361\",\"call_number_browse\":\"Coin 5361\"}}",
-    "donor_s": [
-        "unknown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "519:  unknown"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "mark"
-    ],
-    "issue_number_s": [
-        "3003"
     ],
     "issue_metal_s": [
         "Silver"
@@ -89,6 +89,6 @@
     "hashed_id_s": [
         "0e6c16df3ffbed00"
     ],
-    "_version_": 1667138420266237952,
-    "timestamp": "2020-05-19T16:51:33.305Z"
+    "_version_": 1684903282878709760,
+    "timestamp": "2020-12-01T18:56:26.513Z"
 }

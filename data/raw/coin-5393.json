@@ -35,6 +35,15 @@
         "3.95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 5393\",\"call_number_browse\":\"Coin 5393\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Thomas Elder; Henry C. Miller; 1920; $1.80; lot # 626"
+    ],
     "pub_date_start_sort": -60,
     "pub_date_end_sort": -60,
     "issue_object_type_s": [
@@ -43,11 +52,11 @@
     "issue_denomination_s": [
         "denarius"
     ],
-    "issue_number_s": [
-        "3034"
-    ],
     "issue_metal_s": [
         "Silver"
+    ],
+    "issue_shape_s": [
+        "round"
     ],
     "issue_master_s": [
         "P. Plautius Hypsaeus"
@@ -67,6 +76,9 @@
     "issue_obverse_figure_s": [
         "Leuconoe"
     ],
+    "issue_obverse_symbol_s": [
+        "dolphin behind head"
+    ],
     "issue_obverse_part_s": [
         "head"
     ],
@@ -74,13 +86,13 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "Head of Leuconoe r.; dolphin behind; legend downwards before; border of dots"
-    ],
-    "issue_obverse_figure_relationship_s": [
-        "divine ancestor of moneyer"
+        "draped and with bejewelled hair"
     ],
     "issue_obverse_legend_s": [
-        "\u0393 Y\u0393SAE S C"
+        "P\u00b7YPSAE\u00b7S\u00b7C"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, dotted"
     ],
     "issue_reverse_figure_s": [
         "Jupiter"
@@ -92,10 +104,15 @@
         "left"
     ],
     "issue_reverse_figure_description_s": [
-        "Jupiter in quadriga left, holding reins in left hand and hurling thunderbolt with right hand; border of dots"
+        "in quadriga, hurling thunderbolt"
     ],
     "issue_reverse_legend_s": [
-        "C Y\u0393SAE COS / \u0393RIV | CE\u0393IT"
+        "C\u00b7YPSAE\u00b7COS / PRIV CEPIT"
+    ],
+    "issue_reverse_attributes_s": [
+        "reins, in l. hand",
+        "thunderbolt, in r. hand",
+        "border, dotted"
     ],
     "issue_references_s": [
         "RRC  420/2a",
@@ -103,9 +120,12 @@
         "Sear  376"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-60 to -60"
+    ],
     "hashed_id_s": [
         "cebb4114902c39a5"
     ],
-    "_version_": 1667138393771868160,
-    "timestamp": "2020-05-19T16:51:08.036Z"
+    "_version_": 1684903566904393728,
+    "timestamp": "2020-12-01T19:00:57.382Z"
 }

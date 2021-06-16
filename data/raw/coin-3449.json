@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "3 pounds"
     ],
-    "issue_number_s": [
-        "2041"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -78,9 +75,13 @@
         "Shafer & Cuhaj p. 1131 S1825"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, lion",
+        "Animal, unicorn"
+    ],
     "hashed_id_s": [
         "6080dfe8312f384d"
     ],
-    "_version_": 1667145310580768768,
-    "timestamp": "2020-05-19T18:50:08.269Z"
+    "_version_": 1684903106679144448,
+    "timestamp": "2020-12-01T18:53:38.477Z"
 }

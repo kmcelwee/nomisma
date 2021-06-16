@@ -43,9 +43,6 @@
     "issue_denomination_s": [
         "aspron trachy nomisma"
     ],
-    "issue_number_s": [
-        "6114"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -98,9 +95,12 @@
         "DOC vol 4 pt. 2 p. 506 50"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1221 to 1254"
+    ],
     "hashed_id_s": [
         "4624e9c094c41592"
     ],
-    "_version_": 1667138143736823808,
-    "timestamp": "2020-05-19T16:47:09.585Z"
+    "_version_": 1684903395776790528,
+    "timestamp": "2020-12-01T18:58:14.181Z"
 }

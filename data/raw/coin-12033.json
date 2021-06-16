@@ -23,18 +23,21 @@
         "num"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 12033\",\"call_number_browse\":\"Coin 12033\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "754: 2018-05-23 Robert Ross"
+    ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
     "issue_object_type_s": [
         "medal"
     ],
-    "issue_number_s": [
-        "8152"
-    ],
     "issue_monogram_1display": "[]",
     "hashed_id_s": [
         "838de3986e5dca74"
     ],
-    "_version_": 1667949280031145984,
-    "timestamp": "2020-05-28T15:39:49.432Z"
+    "_version_": 1684903329308606464,
+    "timestamp": "2020-12-01T18:57:10.792Z"
 }

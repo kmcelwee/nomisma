@@ -38,8 +38,11 @@
         "9.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6277\",\"call_number_browse\":\"Coin 6277\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "323:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 81,
     "pub_date_end_sort": 96,
@@ -107,9 +110,12 @@
         "BMC Gal. 252 34v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "81 to 96"
+    ],
     "hashed_id_s": [
         "ed27a5669709d1d7"
     ],
-    "_version_": 1674370349888700416,
-    "timestamp": "2020-08-07T12:39:58.841Z"
+    "_version_": 1684903334126813184,
+    "timestamp": "2020-12-01T18:57:15.392Z"
 }

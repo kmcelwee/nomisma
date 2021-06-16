@@ -35,6 +35,12 @@
         "16.28"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 727\",\"call_number_browse\":\"Coin 727\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "70:  Joel Malter"
+    ],
     "pub_date_start_sort": -125,
     "pub_date_end_sort": -70,
     "issue_object_type_s": [
@@ -42,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "Tetradrachm"
-    ],
-    "issue_number_s": [
-        "298"
     ],
     "issue_metal_s": [
         "Silver"
@@ -99,9 +102,12 @@
         "Price  1190"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-125 to -70"
+    ],
     "hashed_id_s": [
         "0cee338d0d52ca75"
     ],
-    "_version_": 1667138405656428544,
-    "timestamp": "2020-05-19T16:51:19.371Z"
+    "_version_": 1684903574793879552,
+    "timestamp": "2020-12-01T19:01:04.914Z"
 }

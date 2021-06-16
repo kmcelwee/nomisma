@@ -37,9 +37,6 @@
     "issue_denomination_s": [
         "1 Shilling and 6 Pence"
     ],
-    "issue_number_s": [
-        "3506"
-    ],
     "issue_metal_s": [
         "Paper"
     ],
@@ -77,6 +74,6 @@
     "hashed_id_s": [
         "38204b362e743f5f"
     ],
-    "_version_": 1667138385847779328,
-    "timestamp": "2020-05-19T16:51:00.480Z"
+    "_version_": 1684903560944287744,
+    "timestamp": "2020-12-01T19:00:51.697Z"
 }

@@ -50,6 +50,9 @@
         "2.13"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8074\",\"call_number_browse\":\"Coin 8074\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 551,
     "pub_date_end_sort": 556,
     "issue_object_type_s": [
@@ -95,9 +98,12 @@
         "center, facing right"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "551 to 556"
+    ],
     "hashed_id_s": [
         "035b505e9f285330"
     ],
-    "_version_": 1673365559114203136,
-    "timestamp": "2020-07-27T10:29:15.690Z"
+    "_version_": 1684902897659150336,
+    "timestamp": "2020-12-01T18:50:19.140Z"
 }

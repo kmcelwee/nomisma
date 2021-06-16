@@ -35,8 +35,11 @@
         "1.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 305\",\"call_number_browse\":\"Coin 305\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "16:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": 987,
     "pub_date_end_sort": 996,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "penny"
-    ],
-    "issue_number_s": [
-        "155"
     ],
     "issue_metal_s": [
         "Silver"
@@ -81,9 +81,12 @@
         "Robert  2251"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "987 to 996"
+    ],
     "hashed_id_s": [
         "fc0dba045de73d1c"
     ],
-    "_version_": 1667138201383337984,
-    "timestamp": "2020-05-19T16:48:04.560Z"
+    "_version_": 1684903091424460800,
+    "timestamp": "2020-12-01T18:53:23.928Z"
 }

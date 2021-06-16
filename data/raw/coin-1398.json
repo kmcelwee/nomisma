@@ -32,8 +32,8 @@
         "5.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1398\",\"call_number_browse\":\"Coin 1398\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1890,
     "pub_date_end_sort": 1908,
@@ -42,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "2 Jiao"
-    ],
-    "issue_number_s": [
-        "799"
     ],
     "issue_metal_s": [
         "Silver"
@@ -75,9 +72,12 @@
         "KM 2005 386 201"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1890 to 1908"
+    ],
     "hashed_id_s": [
         "a8fc53abed8db6ae"
     ],
-    "_version_": 1667138211002974208,
-    "timestamp": "2020-05-19T16:48:13.735Z"
+    "_version_": 1684902975662718976,
+    "timestamp": "2020-12-01T18:51:33.529Z"
 }

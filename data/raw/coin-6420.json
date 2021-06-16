@@ -29,8 +29,11 @@
         "76x95"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6420\",\"call_number_browse\":\"Coin 6420\"}}",
-    "donor_s": [
-        "Andre de Coppet"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "463:  Andre de Coppet"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -39,9 +42,6 @@
     ],
     "issue_denomination_s": [
         "500 dollars"
-    ],
-    "issue_number_s": [
-        "3846"
     ],
     "issue_metal_s": [
         "Paper"
@@ -68,6 +68,6 @@
     "hashed_id_s": [
         "0f605bae2e8f262d"
     ],
-    "_version_": 1667138253175652352,
-    "timestamp": "2020-05-19T16:48:53.953Z"
+    "_version_": 1684903125433974784,
+    "timestamp": "2020-12-01T18:53:56.363Z"
 }

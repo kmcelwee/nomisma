@@ -38,8 +38,14 @@
         "4.19"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10865\",\"call_number_browse\":\"Coin 10865\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 11/21/2009"
     ],
     "pub_date_start_sort": 379,
     "pub_date_end_sort": 383,
@@ -48,9 +54,6 @@
     ],
     "issue_denomination_s": [
         "Drachm"
-    ],
-    "issue_number_s": [
-        "7026"
     ],
     "issue_metal_s": [
         "Silver"
@@ -95,9 +98,12 @@
         "SNS 3  Mint VII (Marw) Type Ib/1a"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "379 to 383"
+    ],
     "hashed_id_s": [
         "896800a8c56c9f7d"
     ],
-    "_version_": 1667138177007091712,
-    "timestamp": "2020-05-19T16:47:41.313Z"
+    "_version_": 1684902953168666624,
+    "timestamp": "2020-12-01T18:51:12.077Z"
 }

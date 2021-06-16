@@ -35,16 +35,16 @@
         "4.17"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3159\",\"call_number_browse\":\"Coin 3159\"}}",
-    "donor_s": [
-        "Aster Wu"
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
     ],
     "pub_date_start_sort": 1796,
     "pub_date_end_sort": 1821,
     "issue_object_type_s": [
         "coin"
-    ],
-    "issue_number_s": [
-        "1937"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -81,9 +81,12 @@
         "Shang Hai YMQ 394 1462"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1796 to 1821"
+    ],
     "hashed_id_s": [
         "18544830a1aa47c7"
     ],
-    "_version_": 1667138220546064384,
-    "timestamp": "2020-05-19T16:48:22.836Z"
+    "_version_": 1684902994789793792,
+    "timestamp": "2020-12-01T18:51:51.770Z"
 }

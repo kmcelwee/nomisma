@@ -29,16 +29,16 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "9/28/1934"
-    ],
-    "find_feature_s": [
-        "Street under canal"
+        "09/28/1934"
     ],
     "find_locus_s": [
-        "19-M"
+        "A 19-M (MSD3)"
     ],
     "find_number_s": [
         "C3682"
+    ],
+    "find_description_s": [
+        "Main Street Dig 3, street under canal"
     ],
     "die_axis_s": [
         "12"
@@ -50,6 +50,12 @@
         "6.99"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3967\",\"call_number_browse\":\"Coin 3967\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 11,
     "pub_date_end_sort": 12,
     "issue_object_type_s": [
@@ -58,11 +64,14 @@
     "issue_denomination_s": [
         "bronze"
     ],
-    "issue_number_s": [
-        "2274"
-    ],
     "issue_metal_s": [
         "Bronze"
+    ],
+    "issue_shape_s": [
+        "round"
+    ],
+    "issue_era_s": [
+        "Actian"
     ],
     "issue_ruler_s": [
         "Augustus (-30 to 14)"
@@ -92,7 +101,7 @@
         "right"
     ],
     "issue_obverse_figure_description_s": [
-        "laureate head, r."
+        "laureate"
     ],
     "issue_reverse_figure_s": [
         "Ram"
@@ -106,9 +115,6 @@
     "issue_reverse_orientation_s": [
         "right, looking backward"
     ],
-    "issue_reverse_figure_description_s": [
-        "ram running r., head back; star above; date BM beneath"
-    ],
     "issue_reverse_legend_s": [
         "\u0391\u039d\u03a4\u0399\u039f\u03a7\u0395\u03a9\u039d \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u039b\u0395\u03a9\u03a3"
     ],
@@ -119,9 +125,12 @@
         "RPC.1  4266"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "11 to 12"
+    ],
     "hashed_id_s": [
         "4a2559294c82035c"
     ],
-    "_version_": 1667138230069231616,
-    "timestamp": "2020-05-19T16:48:31.918Z"
+    "_version_": 1684902889589309440,
+    "timestamp": "2020-12-01T18:50:11.443Z"
 }

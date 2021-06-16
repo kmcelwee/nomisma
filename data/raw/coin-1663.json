@@ -35,8 +35,11 @@
         "5.42"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1663\",\"call_number_browse\":\"Coin 1663\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "6: 1965-01-01 Frederick W. Brown"
     ],
     "pub_date_start_sort": -359,
     "pub_date_end_sort": -336,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1057"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -92,9 +92,12 @@
         "SNG-Alpha Bank  890v(Cassander)"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-359 to -336"
+    ],
     "hashed_id_s": [
         "e1599e9b306f6345"
     ],
-    "_version_": 1667138413991559168,
-    "timestamp": "2020-05-19T16:51:27.319Z"
+    "_version_": 1684903187144769536,
+    "timestamp": "2020-12-01T18:54:55.215Z"
 }

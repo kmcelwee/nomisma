@@ -29,13 +29,13 @@
         "Antioch, Syria"
     ],
     "find_date_s": [
-        "08/15/1935"
+        "1935-08-15"
     ],
     "find_feature_s": [
-        "Surface"
+        "Circus"
     ],
     "find_locus_s": [
-        "9-N CIRCUS"
+        "DS 9-N (CIR)"
     ],
     "find_number_s": [
         "C5801"
@@ -50,6 +50,12 @@
         "2.25"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8036\",\"call_number_browse\":\"Coin 8036\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 321,
     "pub_date_end_sort": 323,
     "issue_object_type_s": [
@@ -57,9 +63,6 @@
     ],
     "issue_denomination_s": [
         "follis"
-    ],
-    "issue_number_s": [
-        "5070"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -113,13 +116,16 @@
         "IOVICONS-ERVATORI | SMANTA"
     ],
     "issue_references_s": [
-        "RIC, VII 682 35",
+        "RIC VII Antioch 35",
         "Numismatique Constantinienne III p. 195 I 2"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "321 to 323"
+    ],
     "hashed_id_s": [
         "47cf7e251f48afb9"
     ],
-    "_version_": 1667138265480691712,
-    "timestamp": "2020-05-19T16:49:05.688Z"
+    "_version_": 1690422729526738944,
+    "timestamp": "2021-01-31T17:05:41.022Z"
 }

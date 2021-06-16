@@ -32,8 +32,11 @@
         "104x63"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9584\",\"call_number_browse\":\"Coin 9584\"}}",
-    "donor_s": [
-        "Charles Cass"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "619: 1958-01-01 Charles Cass"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "2 Shillings"
-    ],
-    "issue_number_s": [
-        "2712"
     ],
     "issue_metal_s": [
         "Paper"
@@ -84,9 +84,12 @@
         "Shafer & Cuhaj p. 1150 S2579"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Category, Princeton University"
+    ],
     "hashed_id_s": [
         "622065c8b5e1c3ef"
     ],
-    "_version_": 1667145328262905856,
-    "timestamp": "2020-05-19T18:41:21.281Z"
+    "_version_": 1684903442697420800,
+    "timestamp": "2020-12-01T18:58:58.930Z"
 }

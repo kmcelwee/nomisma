@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "dirham"
     ],
-    "issue_number_s": [
-        "27"
-    ],
     "issue_metal_s": [
         "Silver"
     ],
@@ -66,9 +63,12 @@
         "BMC 342 801"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "138"
+    ],
     "hashed_id_s": [
         "df73ebf84885fb97"
     ],
-    "_version_": 1667146086895058944,
-    "timestamp": "2020-05-19T18:53:24.769Z"
+    "_version_": 1684902889532686336,
+    "timestamp": "2020-12-01T18:50:11.388Z"
 }

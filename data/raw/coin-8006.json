@@ -34,9 +34,6 @@
     "issue_denomination_s": [
         "follis"
     ],
-    "issue_number_s": [
-        "5030"
-    ],
     "issue_metal_s": [
         "Bronze"
     ],
@@ -84,9 +81,12 @@
         "DOC Volume 2 part 1 166b"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "624 to 627"
+    ],
     "hashed_id_s": [
         "942de0f2e2246c32"
     ],
-    "_version_": 1667145394224627712,
-    "timestamp": "2020-05-19T18:52:44.578Z"
+    "_version_": 1684903367175831552,
+    "timestamp": "2020-12-01T18:57:46.907Z"
 }

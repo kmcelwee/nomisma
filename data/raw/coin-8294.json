@@ -29,7 +29,7 @@
         "This coin was difficult to read and attribute. The reverse is nearly entirely illigible, though I find it likely that it depicts Apollo on ompahlos. Coin could be from reigns of Seleucus II or III or, less likely, a later period."
     ],
     "find_place_s": [
-        "Antioch, Syria"
+        "Antioch, , Syria"
     ],
     "find_date_s": [
         "5/12/1937"
@@ -53,6 +53,12 @@
         "16.8"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8294\",\"call_number_browse\":\"Coin 8294\"}}",
+    "numismatic_collection_s": [
+        "Antioch"
+    ],
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": -223,
     "pub_date_end_sort": -213,
     "issue_object_type_s": [
@@ -60,9 +66,6 @@
     ],
     "issue_denomination_s": [
         "unit"
-    ],
-    "issue_number_s": [
-        "5002"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -121,9 +124,12 @@
         "H & L  1050"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-223 to -213"
+    ],
     "hashed_id_s": [
         "39a51b6b94cc3221"
     ],
-    "_version_": 1670005073767301120,
-    "timestamp": "2020-06-20T08:15:47.123Z"
+    "_version_": 1684903399686930432,
+    "timestamp": "2020-12-01T18:58:17.910Z"
 }

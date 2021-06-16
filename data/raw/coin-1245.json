@@ -35,8 +35,11 @@
         "4.33"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1245\",\"call_number_browse\":\"Coin 1245\"}}",
-    "donor_s": [
-        "Sir Orville Watson, Jr Mosher"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "172:  Sir Orville Watson, Jr Mosher"
     ],
     "pub_date_start_sort": -399,
     "pub_date_end_sort": -300,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "699"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -93,9 +93,15 @@
         "Sear  2287v"
     ],
     "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Animal, pegasus"
+    ],
+    "issue_date_s": [
+        "-399 to -300"
+    ],
     "hashed_id_s": [
         "72a42f0e09633a97"
     ],
-    "_version_": 1667138460776923136,
-    "timestamp": "2020-05-19T16:52:11.937Z"
+    "_version_": 1684903293718888448,
+    "timestamp": "2020-12-01T18:56:36.852Z"
 }

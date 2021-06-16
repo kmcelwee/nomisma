@@ -35,6 +35,15 @@
         "3.79"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 4580\",\"call_number_browse\":\"Coin 4580\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
+    "numismatic_accession_s": [
+        "240: 2004-01-01 Princeton University Museum"
+    ],
+    "numismatic_provenance_s": [
+        "Spink, London; 1927; $9.75"
+    ],
     "pub_date_start_sort": -42,
     "pub_date_end_sort": -42,
     "issue_object_type_s": [
@@ -42,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "denarius"
-    ],
-    "issue_number_s": [
-        "2525"
     ],
     "issue_metal_s": [
         "Silver"
@@ -96,9 +102,12 @@
         "Syd.  1095"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-42 to -42"
+    ],
     "hashed_id_s": [
         "fd444303b6969e97"
     ],
-    "_version_": 1667138237767876608,
-    "timestamp": "2020-05-19T16:48:39.260Z"
+    "_version_": 1684903000916623360,
+    "timestamp": "2020-12-01T18:51:57.614Z"
 }

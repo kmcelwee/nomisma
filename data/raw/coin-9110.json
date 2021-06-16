@@ -35,6 +35,9 @@
         "10.98"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 9110\",\"call_number_browse\":\"Coin 9110\"}}",
+    "numismatic_collection_s": [
+        "Museum"
+    ],
     "pub_date_start_sort": 98,
     "pub_date_end_sort": 117,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "as"
-    ],
-    "issue_number_s": [
-        "5794"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -101,9 +101,12 @@
         "RIC 2, Trajan, 281 510"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "98 to 117"
+    ],
     "hashed_id_s": [
         "1b94cb7d3aaf0f3c"
     ],
-    "_version_": 1667138151026524160,
-    "timestamp": "2020-05-19T16:47:16.544Z"
+    "_version_": 1684903405576781824,
+    "timestamp": "2020-12-01T18:58:23.528Z"
 }

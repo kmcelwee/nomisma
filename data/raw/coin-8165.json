@@ -32,16 +32,13 @@
         "05-07-1937"
     ],
     "find_feature_s": [
-        "Dig I, under level 3"
+        "Dig I, under level III, room 2, under Byzantine pavement, to 5m (basket C)"
     ],
     "find_locus_s": [
-        "17-O"
+        "A 17-O"
     ],
     "find_number_s": [
-        "Ca793"
-    ],
-    "find_description_s": [
-        "to 5m, room 2; under By.z pavement, basket C"
+        "Ca0793"
     ],
     "die_axis_s": [
         "10"
@@ -53,6 +50,9 @@
         "1.73"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 8165\",\"call_number_browse\":\"Coin 8165\"}}",
+    "numismatic_accession_s": [
+        "179: 1939-01-01 Antioch Excavation"
+    ],
     "pub_date_start_sort": 395,
     "pub_date_end_sort": 401,
     "issue_object_type_s": [
@@ -110,13 +110,16 @@
         "VIRTVS EXERCITI"
     ],
     "issue_references_s": [
-        "RIC 10.246 56-76",
+        "RIC X Arcadius 56",
         "LRC 213 "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "395 to 401"
+    ],
     "hashed_id_s": [
         "4c7b646b8e5b85f3"
     ],
-    "_version_": 1673551561275473920,
-    "timestamp": "2020-07-29T11:45:41.170Z"
+    "_version_": 1684903679113560064,
+    "timestamp": "2020-12-01T19:02:44.394Z"
 }

@@ -38,8 +38,11 @@
         "13.30"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14980\",\"call_number_browse\":\"Coin 14980\"}}",
-    "donor_s": [
-        "E.C. Pomeroy"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "142:  E.C. Pomeroy"
     ],
     "pub_date_start_sort": 0,
     "pub_date_end_sort": 0,
@@ -48,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "Half Dollar"
-    ],
-    "issue_number_s": [
-        "9188"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "John Reich, "
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        " to "
+    ],
     "hashed_id_s": [
         "b642b7aa5446c360"
     ],
-    "_version_": 1667144700610478081,
-    "timestamp": "2020-05-19T18:31:22.882Z"
+    "_version_": 1684903320114692096,
+    "timestamp": "2020-12-01T18:57:02.024Z"
 }

@@ -35,6 +35,9 @@
         "8.62"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 20\",\"call_number_browse\":\"Coin 20\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": 507,
     "pub_date_end_sort": 512,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "40 nummi"
-    ],
-    "issue_number_s": [
-        "32"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -102,9 +102,12 @@
         "Sear  16"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "507 to 512"
+    ],
     "hashed_id_s": [
         "3279d307e5b4ebcb"
     ],
-    "_version_": 1667138444272336896,
-    "timestamp": "2020-05-19T16:51:56.195Z"
+    "_version_": 1684903289102008320,
+    "timestamp": "2020-12-01T18:56:32.449Z"
 }

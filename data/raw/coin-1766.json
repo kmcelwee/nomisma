@@ -35,6 +35,9 @@
         "9.45"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1766\",\"call_number_browse\":\"Coin 1766\"}}",
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
     "pub_date_start_sort": -30,
     "pub_date_end_sort": 14,
     "issue_object_type_s": [
@@ -42,9 +45,6 @@
     ],
     "issue_denomination_s": [
         "bronze"
-    ],
-    "issue_number_s": [
-        "1148"
     ],
     "issue_metal_s": [
         "Bronze"
@@ -95,9 +95,12 @@
         "RPC.1 1 1629"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "-30 to 14"
+    ],
     "hashed_id_s": [
         "a30919f8be4cfa17"
     ],
-    "_version_": 1667138213158846464,
-    "timestamp": "2020-05-19T16:48:15.790Z"
+    "_version_": 1684903447528210432,
+    "timestamp": "2020-12-01T18:59:03.534Z"
 }

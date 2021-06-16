@@ -35,8 +35,11 @@
         "3.87"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2623\",\"call_number_browse\":\"Coin 2623\"}}",
-    "donor_s": [
-        "Frederick W. Brown"
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "13:  Frederick W. Brown"
     ],
     "pub_date_start_sort": 1488,
     "pub_date_end_sort": 1494,
@@ -45,9 +48,6 @@
     ],
     "issue_denomination_s": [
         "coronato"
-    ],
-    "issue_number_s": [
-        "1644"
     ],
     "issue_metal_s": [
         "Silver"
@@ -98,9 +98,12 @@
         "MEC 14  1008"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1488 to 1494"
+    ],
     "hashed_id_s": [
         "3e465150282f5b26"
     ],
-    "_version_": 1667138476263342080,
-    "timestamp": "2020-05-19T16:52:26.707Z"
+    "_version_": 1684903301000200192,
+    "timestamp": "2020-12-01T18:56:43.797Z"
 }

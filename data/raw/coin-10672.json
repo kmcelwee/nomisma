@@ -35,8 +35,14 @@
         "13.02"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 10672\",\"call_number_browse\":\"Coin 10672\"}}",
-    "donor_s": [
-        "Robert Schaaf"
+    "numismatic_collection_s": [
+        "Schaaf"
+    ],
+    "numismatic_accession_s": [
+        "702: 2015-05-21 Robert Schaaf"
+    ],
+    "numismatic_provenance_s": [
+        "Warden Numismatics, LLC; 01/06/2012"
     ],
     "pub_date_start_sort": 273,
     "pub_date_end_sort": 276,
@@ -45,9 +51,6 @@
     ],
     "issue_denomination_s": [
         "AE"
-    ],
-    "issue_number_s": [
-        "6833"
     ],
     "issue_metal_s": [
         "Copper"
@@ -92,9 +95,12 @@
         "SNS 2 Style H (\"Sakastan\") Type I/2B"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "273 to 276"
+    ],
     "hashed_id_s": [
         "3325ff5d12166fcc"
     ],
-    "_version_": 1667138283968135168,
-    "timestamp": "2020-05-19T16:49:23.318Z"
+    "_version_": 1684903027249512448,
+    "timestamp": "2020-12-01T18:52:22.728Z"
 }

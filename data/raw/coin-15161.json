@@ -2,7 +2,7 @@
     "id": "coin-15161",
     "title_display": "Coin: 15161",
     "pub_created_display": [
-        "Antoninus Pius (138 to 161), denaurius, Rome"
+        "Antoninus Pius (138 to 161), denarius, Rome"
     ],
     "call_number_display": [
         "Coin 15161"
@@ -35,7 +35,13 @@
         "7.18"
     ],
     "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15161\",\"call_number_browse\":\"Coin 15161\"}}",
-    "donor_s": [
+    "numismatic_collection_s": [
+        "Firestone"
+    ],
+    "numismatic_accession_s": [
+        "346:  Moses Taylor Pyne"
+    ],
+    "numismatic_provenance_s": [
         "Moses Taylor Pyne"
     ],
     "pub_date_start_sort": 151,
@@ -44,19 +50,16 @@
         "coin"
     ],
     "issue_denomination_s": [
-        "denaurius"
-    ],
-    "issue_number_s": [
-        "9316"
+        "denarius"
     ],
     "issue_metal_s": [
         "Silver"
     ],
     "issue_shape_s": [
-        "Round"
+        "round"
     ],
     "issue_era_s": [
-        "Antoninus Pius"
+        "Consular"
     ],
     "issue_ruler_s": [
         "Antoninus Pius (138 to 161)"
@@ -74,26 +77,52 @@
         "Roman Empire"
     ],
     "issue_obverse_figure_s": [
-        "Laurel head r."
+        "Emperor"
+    ],
+    "issue_obverse_part_s": [
+        "head"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "laureate"
     ],
     "issue_obverse_legend_s": [
-        "ANTONINVS AVG-PIVS P P TR P XV"
+        "ANTONINVS AVG PIVS P P TR P XV"
     ],
     "issue_reverse_figure_s": [
-        "Dr. female figure (Annona) standing, head l., with wheat-ears and modius set on prow"
+        "Annona"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_orientation_s": [
+        "left"
+    ],
+    "issue_reverse_figure_description_s": [
+        "draped"
     ],
     "issue_reverse_legend_s": [
-        "C-O-S-IIII"
+        "COS IIII"
+    ],
+    "issue_reverse_attributes_s": [
+        "two corn-ears, lowered in r. hand",
+        "modius set on prow, under set l. hand",
+        "rudder, resting against prow"
     ],
     "issue_references_s": [
-        "BMC.1 111 765-6",
-        "RIC 51 204",
-        "Strack 242 "
+        "RIC III  Antoninus Pius 204",
+        "Strack  242",
+        "BMC.4 111 765-6"
     ],
     "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "151 to 152"
+    ],
     "hashed_id_s": [
         "3e00b73b6df58470"
     ],
-    "_version_": 1667145481062449152,
-    "timestamp": "2020-05-19T18:43:47.002Z"
+    "_version_": 1684902988919865344,
+    "timestamp": "2020-12-01T18:51:46.172Z"
 }
