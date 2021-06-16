@@ -3,6 +3,10 @@ inherit_from: .rubocop_todo.yml
 AllCops:
   TargetRubyVersion: 2.6.5
 
+Style/GlobalVars:
+  Exclude:
+    - spec/**/*
+
 Layout/LineLength:
   Max: 135
 

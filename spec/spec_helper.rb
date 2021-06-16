@@ -20,6 +20,12 @@ require_relative '../lib/nomisma_xml_generator'
 
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
+  ##
+  # Set fixture path
+  config.before(:all) do
+    $fixture_path = "#{__dir__}/fixtures"
+  end
+
   # rspec-expectations config goes here. You can use an alternate
   # assertion/expectation library such as wrong or the stdlib/minitest
   # assertions if you prefer.
