@@ -1,6 +1,7 @@
 import json
 import requests
 import os
+import typer
 from os.path import join as pjoin
 
 import pandas as pd
@@ -8,9 +9,11 @@ import pandas as pd
 from rdflib import Graph, Literal, RDF, URIRef, Namespace
 from rdflib.namespace import FOAF, XSD, VOID, DCTERMS
 
+app = typer.Typer(name="Nomisma Pipeline", add_completion=False)
+
 
 class NomismaPipeline(object):
-    """Extracts data from figgy, validates that it meets our required schema,
+    """Extracts data from the catalog, validates that it meets our required schema,
     and generates an RDF that follows Nomisma's guidelines.
     """
 
@@ -218,6 +221,19 @@ class NomismaPipeline(object):
         self.generate_rdf()
 
 
-if __name__ == "__main__":
+@app.command()
+def main(
+    scrape: bool = typer.Option(
+        False,
+        "--scrape",
+        "-s",
+        help="Initiate scrape of the PUL catalog for new coin data.",
+    )
+):
+    """Run the Nomisma Pipeline without scraping"""
     nm = NomismaPipeline()
-    nm.run_pipeline(scrape=False)
+    nm.run_pipeline(scrape=scrape)
+
+
+if __name__ == "__main__":
+    app()

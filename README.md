@@ -17,7 +17,7 @@
 
 Create a python 3.8 environment and install dependencies using the command `pip install -r requirements.txt`
 
-`python NomismaPipeline.py` will execute the `run_pipeline` function, which will iterate through all steps outlined above.
+`python NomismaPipeline.py --scrape` will execute the `run_pipeline` function, which will iterate through all steps outlined above. The scraping process is time-intensive, so dropping the `--scrape` flag will run the process with the raw data found locally. This is useful for debugging.
 
 ## Notes
 
