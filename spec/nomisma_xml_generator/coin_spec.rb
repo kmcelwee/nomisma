@@ -7,7 +7,7 @@ RSpec.describe NomismaXmlGenerator::Coin do
 
   it 'has a path to a JSON file and parses JSON' do
     expect(coin).instance_of? NomismaXmlGenerator::Coin
-    expect(File.exist?(coin.json_path))
+    expect(File.exist?(coin.json_path)).to eq(true)
 
     catalog_hash = coin.catalog_hash
     expect(catalog_hash).instance_of? Hash
