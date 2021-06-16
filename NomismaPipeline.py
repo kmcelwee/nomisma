@@ -91,7 +91,7 @@ class NomismaPipeline(object):
             for coin in coin_list:
                 get_coin_json(coin)
 
-            print(page, end=", ")
+            print(f"\tScraped catalog page: {page}")
 
     def preprocessing(self):
         """Collect only the useful components of the raw JSON data and output
