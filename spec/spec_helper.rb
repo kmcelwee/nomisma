@@ -26,7 +26,8 @@ RSpec.configure do |config|
   # Set fixture path
   config.before(:all) do
     $fixture_path = "#{__dir__}/fixtures"
-    $xml_output_file = "#{__dir__}/output/princeton-nomisma.rdf"
+    $output_dir = "#{__dir__}/output"
+    $xml_output_file = "#{$output_dir}/princeton-nomisma.rdf"
   end
 
   config.before(:suite) do
