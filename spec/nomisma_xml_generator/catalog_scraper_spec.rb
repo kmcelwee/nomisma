@@ -25,7 +25,12 @@ RSpec.describe NomismaXmlGenerator::CatalogScraper do
     expect(scraper.max_page).to eq 3
   end
 
-  it 'scrapes a page' do
+  it 'scrapes from the list page' do
     expect(scraper.get_json_from_page(1)).to be_a_kind_of Hash
+  end
+
+  it 'collects the list of coins' do
+    expect(scraper.coin_list).to include("https://catalog.princeton.edu/catalog/coin-1521")
+    expect(scraper.coin_list.length).to eq 300
   end
 end
