@@ -8,7 +8,7 @@ module NomismaXmlGenerator
   #  to the given output directory. This requires first collecting all coin
   #  identifiers from the catalog list page, and then querying the raw data
   #  for each of those coins on their detail pages.
-  class CatalogScraper
+  class CatalogListScraper
     attr_reader :output_dir
 
     def initialize(output_dir: "data/raw")
@@ -24,20 +24,16 @@ module NomismaXmlGenerator
     end
 
     def scrape_max_page
-      get_json_from_page(1)["meta"]["pages"]["total_pages"]
+      get_json_from_list_page(1)["meta"]["pages"]["total_pages"]
     end
 
-    def url_page(page)
-      "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=#{page}"
-    end
-
-    def get_json_from_page(page)
-      response = Faraday.get url_page(page)
+    def get_json_from_list_page(page)
+      response = Faraday.get "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=#{page}"
       JSON.parse(response.body)
     end
 
     def get_coins_from_page(page)
-      coin_json = get_json_from_page(page)['data']
+      coin_json = get_json_from_list_page(page)['data']
       coin_ids = []
       coin_json.each do |coin|
         coin_ids << coin["links"]["self"]

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.describe NomismaXmlGenerator::CatalogScraper do
+RSpec.describe NomismaXmlGenerator::CatalogListScraper do
   let(:scrape_output_dir) { "#{$output_dir}/raw" }
   let(:scraper) { described_class.new(output_dir: scrape_output_dir) }
   before(:each) do
@@ -13,7 +13,7 @@ RSpec.describe NomismaXmlGenerator::CatalogScraper do
   end
 
   it 'has an output directory' do
-    expect(scraper).to be_a_kind_of NomismaXmlGenerator::CatalogScraper
+    expect(scraper).to be_a_kind_of NomismaXmlGenerator::CatalogListScraper
     expect(scraper.output_dir).to eq scrape_output_dir
     expect(File.directory?(scraper.output_dir)).to eq true
 
@@ -26,7 +26,7 @@ RSpec.describe NomismaXmlGenerator::CatalogScraper do
   end
 
   it 'scrapes from the list page' do
-    expect(scraper.get_json_from_page(1)).to be_a_kind_of Hash
+    expect(scraper.get_json_from_list_page(1)).to be_a_kind_of Hash
   end
 
   it 'collects the list of coins' do
