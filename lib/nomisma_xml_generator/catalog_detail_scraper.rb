@@ -17,5 +17,15 @@ module NomismaXmlGenerator
       response = Faraday.get coin_url
       JSON.parse(response.body)
     end
+
+    def write_coin_json(coin_url)
+      output_path = File.join(@output_dir, "#{coin_url.split('/')[-1]}.json")
+      coin_json = scrape_coin(coin_url)
+
+      File.open(output_path, 'w') do |f|
+        f.write(coin_json.to_json)
+      end
+      # File.open(output_path, JSON.dump(coin_json))
+    end
   end
 end

@@ -36,4 +36,14 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
 
     expect(coin_details["weight_s"]).to eq(["22.04"])
   end
+
+  it 'writes coin response to the proper directory' do
+    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+    coin_url = 'https://catalog.princeton.edu/catalog/coin-15039'
+
+    expected_path = "#{output_dir}/coin-15039.json"
+    File.delete expected_path if File.exist? expected_path
+    detail_scraper.write_coin_json(coin_url)
+    expect(File.exist?(expected_path)).to eq true
+  end
 end
