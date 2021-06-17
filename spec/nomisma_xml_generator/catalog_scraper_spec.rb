@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
 RSpec.describe NomismaXmlGenerator::CatalogScraper do
-  let(:scraper) { described_class.new(output_dir: $output_dir) }
+  let(:scrape_output_dir) { "#{$output_dir}/raw" }
+  let(:scraper) { described_class.new(output_dir: scrape_output_dir) }
   before(:each) do
     [1, 2, 3].each do |page|
       catalog_fixture = File.read("#{$fixture_path}/catalog_fixtures/catalog#{page}.json")
@@ -13,7 +14,7 @@ RSpec.describe NomismaXmlGenerator::CatalogScraper do
 
   it 'has an output directory' do
     expect(scraper).to be_a_kind_of NomismaXmlGenerator::CatalogScraper
-    expect(scraper.output_dir).to eq $output_dir
+    expect(scraper.output_dir).to eq scrape_output_dir
     expect(File.directory?(scraper.output_dir)).to eq true
 
     default_scraper = described_class.new
