@@ -8,4 +8,14 @@ RSpec.describe NomismaXmlGenerator::XmlFactory do
     expect(factory).instance_of? NomismaXmlGenerator::XmlFactory
     expect(factory.coin_collection).instance_of? NomismaXmlGenerator::CoinCollection
   end
+
+  it 'contains xml' do
+    expect(factory.xml).instance_of? RDF::Statement
+  end
+
+  it 'writes xml to a file' do
+    expect(File.exist?($xml_output_file)).to eq false
+    factory.write_xml($xml_output_file)
+    expect(File.exist?($xml_output_file)).to eq true
+  end
 end

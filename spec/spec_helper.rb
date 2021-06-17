@@ -24,6 +24,12 @@ RSpec.configure do |config|
   # Set fixture path
   config.before(:all) do
     $fixture_path = "#{__dir__}/fixtures"
+    $xml_output_file = "#{__dir__}/output/princeton-nomisma.rdf"
+  end
+
+  config.before(:suite) do
+    xml_output_file = "#{__dir__}/output/princeton-nomisma.rdf"
+    File.delete(xml_output_file) if File.exist?(xml_output_file)
   end
 
   # rspec-expectations config goes here. You can use an alternate
