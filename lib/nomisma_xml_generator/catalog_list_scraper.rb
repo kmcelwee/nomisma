@@ -11,7 +11,7 @@ module NomismaXmlGenerator
   class CatalogListScraper
     attr_reader :output_dir
 
-    def initialize(output_dir: "data/raw")
+    def initialize(output_dir: "data")
       @output_dir = output_dir
     end
 
@@ -47,6 +47,14 @@ module NomismaXmlGenerator
         coin_list.push(*get_coins_from_page(page))
       end
       coin_list
+    end
+
+    def write_coin_list(filename: 'coin-list.txt')
+      path = File.join(@output_dir, filename)
+
+      File.open(path, 'w+') do |f|
+        coin_list.each { |row| f.puts(row) }
+      end
     end
   end
 end

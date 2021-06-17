@@ -2,6 +2,7 @@ scratch/
 data/coin-list-raw.json
 
 spec/output/princeton-nomisma.rdf
+spec/output/coin-list.txt
 .byebug_history
 coverage/
 .yardoc
