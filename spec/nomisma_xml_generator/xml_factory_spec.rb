@@ -10,7 +10,7 @@ RSpec.describe NomismaXmlGenerator::XmlFactory do
   end
 
   it 'contains xml' do
-    expect(factory.xml).instance_of? RDF::Statement
+    expect(factory.graph).instance_of? RDF::Statement
   end
 
   it 'writes xml to a file' do

@@ -18,6 +18,8 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require_relative '../lib/nomisma_xml_generator'
 
+require 'byebug'
+
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
   ##
