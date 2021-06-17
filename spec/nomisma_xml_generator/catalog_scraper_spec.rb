@@ -3,10 +3,12 @@
 RSpec.describe NomismaXmlGenerator::CatalogScraper do
   let(:scraper) { described_class.new(output_dir: $output_dir) }
   before(:each) do
-    catalog_fixture = File.read("#{$fixture_path}/catalog_fixtures/catalog.json")
-    catalog_response = JSON.parse(catalog_fixture)
-    stub_request(:get, "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=1")
-      .to_return(status: 200, body: catalog_response.to_json)
+    [1, 2, 3].each do |page|
+      catalog_fixture = File.read("#{$fixture_path}/catalog_fixtures/catalog#{page}.json")
+      catalog_response = JSON.parse(catalog_fixture)
+      stub_request(:get, "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=#{page}")
+        .to_return(status: 200, body: catalog_response.to_json)
+    end
   end
 
   it 'has an output directory' do
@@ -19,7 +21,7 @@ RSpec.describe NomismaXmlGenerator::CatalogScraper do
   end
 
   it 'gets the max page' do
-    expect(scraper.max_page).to eq 141
+    expect(scraper.max_page).to eq 3
   end
 
   it 'scrapes a page' do
