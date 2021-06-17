@@ -6,7 +6,7 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
 
   before(:each) do
     [1, 2, 3].each do |page|
-      catalog_fixture = File.read("#{$fixture_path}/catalog_fixtures/catalog#{page}.json")
+      catalog_fixture = File.read("#{$fixture_path}/coin_list_fixtures/catalog#{page}.json")
       catalog_response = JSON.parse(catalog_fixture)
       stub_request(:get, "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=#{page}")
         .to_return(status: 200, body: catalog_response.to_json)
