@@ -5,10 +5,11 @@ module NomismaXmlGenerator
   # Given a list of coin links (which can be provided by CatalogListScraper)
   #  collect all the raw JSON attached to each coin in the list
   class CatalogDetailScraper
-    attr_reader :output_dir
+    attr_reader :output_dir, :coin_list
 
-    def initialize(output_dir: 'data/raw')
+    def initialize(coin_list, output_dir: 'data/raw')
       @output_dir = output_dir
+      @coin_list = coin_list
     end
   end
 end
