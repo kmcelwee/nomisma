@@ -1,0 +1,73 @@
+{
+    "id": "coin-15088",
+    "title_display": "Coin: 15088",
+    "call_number_display": [
+        "Coin 15088"
+    ],
+    "call_number_browse_s": [
+        "Coin 15088"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "44 \u00d7 35"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15088\",\"call_number_browse\":\"Coin 15088\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
+    ],
+    "pub_date_start_sort": 1911,
+    "pub_date_end_sort": 1917,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "maltese cross"
+    ],
+    "issue_color_s": [
+        "red, white, blue"
+    ],
+    "issue_obverse_figure_s": [
+        "Soldier"
+    ],
+    "issue_obverse_figure_description_s": [
+        "holding a rifle on a white enameled field"
+    ],
+    "issue_obverse_legend_s": [
+        "HONOR | PATRIA LIBERTAD"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a blue enameled band"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1911 to 1917"
+    ],
+    "hashed_id_s": [
+        "f2ec2a6da7def3de"
+    ],
+    "_version_": 1684903326656757760,
+    "timestamp": "2020-12-01T18:57:08.264Z"
+}

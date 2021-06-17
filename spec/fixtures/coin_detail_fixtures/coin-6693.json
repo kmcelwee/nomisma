@@ -1,0 +1,91 @@
+{
+    "id": "coin-6693",
+    "title_display": "Coin: 6693",
+    "call_number_display": [
+        "Coin 6693"
+    ],
+    "call_number_browse_s": [
+        "Coin 6693"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "70"
+    ],
+    "weight_s": [
+        "94.16"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6693\",\"call_number_browse\":\"Coin 6693\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Belgium"
+    ],
+    "issue_region_s": [
+        "Belgium"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Naked, kneeling woman presents a lyre to a woman whose wrists are chained. Two angles fly above."
+    ],
+    "issue_obverse_legend_s": [
+        "LA BELGIQUE ROMPT SA NEUTRALITE      TRAITE DE VERSAILLES 28 JUIN 1919"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldier"
+    ],
+    "issue_reverse_part_s": [
+        "standing"
+    ],
+    "issue_reverse_figure_description_s": [
+        "half-clothed soldier stands looking to the right with sword and shield in hand"
+    ],
+    "issue_reverse_legend_s": [
+        "L'ARMEE BELGE PARTICIPE A LA GARDE DU RHIN"
+    ],
+    "issue_artists_s": [
+        "Paul DuBois, PAUL DUBOIS"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Treaty of Versailles    June 28 1919"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "42d16410ff2c49a5"
+    ],
+    "_version_": 1684903126550708224,
+    "timestamp": "2020-12-01T18:53:57.427Z"
+}

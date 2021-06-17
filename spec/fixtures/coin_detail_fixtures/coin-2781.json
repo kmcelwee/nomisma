@@ -1,0 +1,92 @@
+{
+    "id": "coin-2781",
+    "title_display": "Coin: 2781",
+    "pub_created_display": [
+        "Abraham Lincoln (1809 to 1865)"
+    ],
+    "call_number_display": [
+        "Coin 2781"
+    ],
+    "call_number_browse_s": [
+        "Coin 2781"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "68"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2781\",\"call_number_browse\":\"Coin 2781\"}}",
+    "pub_date_start_sort": 1865,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Abraham Lincoln (1809 to 1865)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust in bowtie and suit to r. with legend"
+    ],
+    "issue_obverse_legend_s": [
+        "FEB.12.1809.APRIL.14.1865| ABRAHAM.LINCOLN"
+    ],
+    "issue_reverse_symbol_s": [
+        "hatchets"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Lincoln quote lettered  between two double-sided hatchets"
+    ],
+    "issue_reverse_legend_s": [
+        "WITH MALICE TOWARD NONE| WITH CHARITY FOR ALL| WITH FIRMNESS IN THE RIGHT| AS GOD GIVES US TO SEE THE RIGHT| LET US STRIVE ON TO FINISH| THE WORK WE ARE IN| SELECTED BY BRUCE BARTON FOR MEDALLIC ART CO NY"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_artists_s": [
+        "C Calverley, C. CALVERLEY."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "16888ff811bcefe5"
+    ],
+    "_version_": 1683105038557249536,
+    "timestamp": "2020-11-11T22:34:07.090Z"
+}

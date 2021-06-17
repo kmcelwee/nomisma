@@ -1,0 +1,71 @@
+{
+    "id": "coin-15093",
+    "title_display": "Coin: 15093",
+    "call_number_display": [
+        "Coin 15093"
+    ],
+    "call_number_browse_s": [
+        "Coin 15093"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15093\",\"call_number_browse\":\"Coin 15093\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1937,
+    "pub_date_end_sort": 1959,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_obverse_symbol_s": [
+        "Branches of the armed forces"
+    ],
+    "issue_obverse_legend_s": [
+        "CUBA"
+    ],
+    "issue_reverse_attributes_s": [
+        "Inscription, 4 SEPT. | 1933"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:283-88",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  325"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1937 to 1959"
+    ],
+    "hashed_id_s": [
+        "1812d6fe30a2f48a"
+    ],
+    "_version_": 1684903371889180672,
+    "timestamp": "2020-12-01T18:57:51.401Z"
+}

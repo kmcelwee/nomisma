@@ -11,5 +11,11 @@ module NomismaXmlGenerator
       @output_dir = output_dir
       @coin_list = coin_list
     end
+
+    def scrape_coin(coin_url)
+      coin_url += '/raw'
+      response = Faraday.get coin_url
+      JSON.parse(response.body)
+    end
   end
 end

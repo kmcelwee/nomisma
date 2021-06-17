@@ -1,0 +1,108 @@
+{
+    "id": "coin-2771",
+    "title_display": "Coin: 2771",
+    "pub_created_display": [
+        "George Washington (1789 to 1797)"
+    ],
+    "call_number_display": [
+        "Coin 2771"
+    ],
+    "call_number_browse_s": [
+        "Coin 2771"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "MEDALLIC ART. CO.N.Y. BRONZE"
+    ],
+    "notes_display": [
+        "Bronze strike US mint 1939"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "62"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2771\",\"call_number_browse\":\"Coin 2771\"}}",
+    "donor_s": [
+        "Pacquet"
+    ],
+    "pub_date_start_sort": 1939,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "George Washington (1789 to 1797)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "military caped bust in three-cornered hat left, oak leaf and ANS symbol of society at bottom"
+    ],
+    "issue_obverse_legend_s": [
+        "ONE HUNDRED AND FIFTIETH ANNIVERSARY | 1789 1939"
+    ],
+    "issue_reverse_figure_s": [
+        "Legend"
+    ],
+    "issue_reverse_symbol_s": [
+        "stars"
+    ],
+    "issue_reverse_figure_description_s": [
+        "thirteen stars around the rim enclose the inscription; plain edge"
+    ],
+    "issue_reverse_legend_s": [
+        "TO COMMEMORATE| THE INAUGURATION| OF GEORGE| WASHINGTON| FIRST PRESIDENT| OF THE UNITED STATES| APRIL 30TH| 1789"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Rulau and Fuld pp. 239 ",
+        "Baker  3000A"
+    ],
+    "issue_artists_s": [
+        "Albert Stewart"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "713028a4fd50c32a"
+    ],
+    "_version_": 1683105345381072896,
+    "timestamp": "2020-11-11T22:38:59.699Z"
+}

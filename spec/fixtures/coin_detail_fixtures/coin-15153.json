@@ -1,0 +1,86 @@
+{
+    "id": "coin-15153",
+    "title_display": "Coin: 15153",
+    "pub_created_display": [
+        "Grand Cross"
+    ],
+    "call_number_display": [
+        "Coin 15153"
+    ],
+    "call_number_browse_s": [
+        "Coin 15153"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "86"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15153\",\"call_number_browse\":\"Coin 15153\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1926,
+    "pub_date_end_sort": 1979,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grand Cross"
+    ],
+    "issue_metal_s": [
+        "Brass"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_color_s": [
+        "blue, green"
+    ],
+    "issue_obverse_figure_s": [
+        "Carlos Manuel de C\u00e9spedes"
+    ],
+    "issue_obverse_part_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing"
+    ],
+    "issue_obverse_legend_s": [
+        "CARLOS MANUEL DE CESPEDES | 1868"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a blue enameled band"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:177-90, 2:247-48, 3:109-11",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  330-31"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1926 to 1979"
+    ],
+    "hashed_id_s": [
+        "07bd9eaf97b8d19c"
+    ],
+    "_version_": 1684903366819315712,
+    "timestamp": "2020-12-01T18:57:46.566Z"
+}

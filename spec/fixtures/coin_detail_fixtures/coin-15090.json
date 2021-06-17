@@ -1,0 +1,77 @@
+{
+    "id": "coin-15090",
+    "title_display": "Coin: 15090",
+    "call_number_display": [
+        "Coin 15090"
+    ],
+    "call_number_browse_s": [
+        "Coin 15090"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15090\",\"call_number_browse\":\"Coin 15090\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1921,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_obverse_figure_s": [
+        "Silhouette of a submarine"
+    ],
+    "issue_obverse_figure_description_s": [
+        "with a rising sun in the background"
+    ],
+    "issue_obverse_attributes_s": [
+        "Inscription, 1917-1919"
+    ],
+    "issue_reverse_legend_s": [
+        "CAMPA\u00d1A | POR | LA HUMANIDAD | LA JUSTICIA | Y EL | DERECHO"
+    ],
+    "issue_reverse_attributes_s": [
+        "Legend, above the arms of Cuba and surounded by an oak and laurel wreath"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:275",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  326"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1921 to "
+    ],
+    "hashed_id_s": [
+        "00d11e240c7ef8a1"
+    ],
+    "_version_": 1684903355926708224,
+    "timestamp": "2020-12-01T18:57:36.179Z"
+}

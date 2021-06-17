@@ -1,0 +1,83 @@
+{
+    "id": "coin-14848",
+    "title_display": "Coin: 14848",
+    "pub_created_display": [
+        "Grand Cross"
+    ],
+    "call_number_display": [
+        "Coin 14848"
+    ],
+    "call_number_browse_s": [
+        "Coin 14848"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "81"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14848\",\"call_number_browse\":\"Coin 14848\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        ""
+    ],
+    "pub_date_start_sort": 1944,
+    "pub_date_end_sort": 1978,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grand Cross"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_shape_s": [
+        "Star"
+    ],
+    "issue_color_s": [
+        "red and green"
+    ],
+    "issue_obverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_obverse_figure_description_s": [
+        "enameled"
+    ],
+    "issue_obverse_legend_s": [
+        "ORDEN DEL MERITO AGRICOLA E INDUSTRIAL | CUBA"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a red enameled band "
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:219-221",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  332"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1944 to 1978"
+    ],
+    "hashed_id_s": [
+        "288b6034d96e6f9d"
+    ],
+    "_version_": 1684903071928287232,
+    "timestamp": "2020-12-01T18:53:05.337Z"
+}

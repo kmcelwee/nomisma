@@ -1,0 +1,98 @@
+{
+    "id": "coin-2780",
+    "title_display": "Coin: 2780",
+    "pub_created_display": [
+        "George Washington (1789 to 1797)"
+    ],
+    "call_number_display": [
+        "Coin 2780"
+    ],
+    "call_number_browse_s": [
+        "Coin 2780"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "112"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2780\",\"call_number_browse\":\"Coin 2780\"}}",
+    "pub_date_start_sort": 1889,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "George Washington (1789 to 1797)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Presidential Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "half-length civil bust l., 13 stars around rim"
+    ],
+    "issue_obverse_legend_s": [
+        "GEORGE WASHINGTON| PHILIP. MARTINY. MODELED. DESIGN. AND| COPYRIGHT. BY. AVGVSTVS. SAINT. GAVDENS.| PATER.|M.D.C.C.L.| PAT-RAIE| XX-XIX."
+    ],
+    "issue_reverse_figure_s": [
+        "Eagler"
+    ],
+    "issue_reverse_figure_description_s": [
+        "eagle with outspread wings above 12-line inscription; shield of arms at lower left; all surrounded by border of 5-point stars"
+    ],
+    "issue_reverse_legend_s": [
+        "THE INAVGVRATION| OF. GEORGE. WASHINGTON| AS. FIRST. PRESIDENT. OF THE| UNITED STATES OF AMERICA| AT. NEW. YORK. APRIL. XXX| M.D.C.C.LXXXIX.| BY AVTHORITY. OF| THE COMMITTEE| ON. CELEBRATION| NEW YORK. APRIL| .XXX.| M.D.C.C.C.LXXXIX"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Rulau and Fuld pp. 216 ",
+        "Wash  53",
+        "Baxter pp. 28-31 ",
+        "1845-1945  346"
+    ],
+    "issue_artists_s": [
+        "Augustus Saint-Gaudens"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "dee63bd0e1e19cac"
+    ],
+    "_version_": 1683105116958228480,
+    "timestamp": "2020-11-11T22:35:21.858Z"
+}

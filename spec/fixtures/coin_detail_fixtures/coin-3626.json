@@ -1,0 +1,104 @@
+{
+    "id": "coin-3626",
+    "title_display": "Coin: 3626",
+    "pub_created_display": [
+        "New York"
+    ],
+    "call_number_display": [
+        "Coin 3626"
+    ],
+    "call_number_browse_s": [
+        "Coin 3626"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "48"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "63"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3626\",\"call_number_browse\":\"Coin 3626\"}}",
+    "numismatic_collection_s": [
+        "Savage"
+    ],
+    "numismatic_accession_s": [
+        "373: 1979-01-01 Mrs. Henry L. O' Gorman"
+    ],
+    "pub_date_start_sort": 1919,
+    "pub_date_end_sort": 1919,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_series_s": [
+        "American Numismatic Society"
+    ],
+    "issue_place_s": [
+        "New York, New York, United States of America"
+    ],
+    "issue_city_s": [
+        "New York"
+    ],
+    "issue_state_s": [
+        "New York"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_symbol_s": [
+        "Palace of Versailles"
+    ],
+    "issue_obverse_orientation_s": [
+        "center"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Laurel wreath along outer edges.  Sun at top, rays extending down over Palace of Versailles. Banner at bottom reads \"1919\". Art nouveau."
+    ],
+    "issue_obverse_legend_s": [
+        "PEACE OF VERSAILLES | 1919 | THE AMERICAN NUMISMATIC SOCIETY"
+    ],
+    "issue_reverse_figure_s": [
+        "Pegasus"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Pegasis at center with man on top, extending arm to right. Man on left thrusting sword down.  Woman on right holding palm frond and laurel wreath. Small scales on left."
+    ],
+    "issue_reverse_legend_s": [
+        "JUSTICE | PEACE"
+    ],
+    "issue_artists_s": [
+        "Chester Beach"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Peace of Versailles    "
+    ],
+    "issue_date_s": [
+        "1919 to 1919"
+    ],
+    "hashed_id_s": [
+        "930ffaafd65d6d2c"
+    ],
+    "_version_": 1684903107404759040,
+    "timestamp": "2020-12-01T18:53:39.169Z"
+}

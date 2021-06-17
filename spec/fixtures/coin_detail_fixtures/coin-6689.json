@@ -1,0 +1,94 @@
+{
+    "id": "coin-6689",
+    "title_display": "Coin: 6689",
+    "pub_created_display": [
+        "Strasbourg"
+    ],
+    "call_number_display": [
+        "Coin 6689"
+    ],
+    "call_number_browse_s": [
+        "Coin 6689"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "CUIVRE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "weight_s": [
+        "47.6"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6689\",\"call_number_browse\":\"Coin 6689\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Brass"
+    ],
+    "issue_place_s": [
+        "Strasbourg, France"
+    ],
+    "issue_city_s": [
+        "Strasbourg"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Crowned woman embraces soldier on horseback"
+    ],
+    "issue_obverse_legend_s": [
+        ". 1870-1918  .  NEC  DESPERAVERUNT ."
+    ],
+    "issue_reverse_figure_s": [
+        "Five figures"
+    ],
+    "issue_reverse_figure_description_s": [
+        "three soldiers and two women stand in a line clasping  hands"
+    ],
+    "issue_reverse_legend_s": [
+        "STRASBOURG  22 NOVEMBRE 1918"
+    ],
+    "issue_artists_s": [
+        "Henry Dropsy, HENRY DROPSY"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "4d0a9b8b83a31d64"
+    ],
+    "_version_": 1684903126599991296,
+    "timestamp": "2020-12-01T18:53:57.474Z"
+}

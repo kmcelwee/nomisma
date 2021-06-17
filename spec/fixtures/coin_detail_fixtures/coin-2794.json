@@ -1,0 +1,104 @@
+{
+    "id": "coin-2794",
+    "title_display": "Coin: 2794",
+    "pub_created_display": [
+        "Andrew Johnson (1808 to 1875)"
+    ],
+    "call_number_display": [
+        "Coin 2794"
+    ],
+    "call_number_browse_s": [
+        "Coin 2794"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "76"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2794\",\"call_number_browse\":\"Coin 2794\"}}",
+    "donor_s": [
+        "Rodman Wanamaker"
+    ],
+    "pub_date_start_sort": 1865,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Andrew Johnson (1808 to 1875)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "Indian Peace Medal"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "naked bust to r. with legend"
+    ],
+    "issue_obverse_legend_s": [
+        "ANDREW JOHNSON, PRESIDENT OF THE UNITED STATES| 1865"
+    ],
+    "issue_reverse_figure_s": [
+        "Columbia, Indian"
+    ],
+    "issue_reverse_symbol_s": [
+        "peace pipe, steam train"
+    ],
+    "issue_reverse_orientation_s": [
+        "facing each other"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Columbia clasps the hand of an Indian Chief before a tomb with Washington's bust; symbols Indian civilization at lower l., peace pipe, herd of buffalo; around Columbia symbols and vistas of industrial civilization, incl. steam train crossing viaduct"
+    ],
+    "issue_reverse_legend_s": [
+        "INAUGURATED| PRESIDENT| OF THE| UNITED STATES| MARCH 4. 1881| ASSASSINATED| JULY 2, 1881| DIED| SEPT. 19, 1881"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  IP-40"
+    ],
+    "issue_artists_s": [
+        "Anthony C. Pacquett, PACQUET F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "659a5a838657c362"
+    ],
+    "_version_": 1683105120152190976,
+    "timestamp": "2020-11-11T22:35:24.912Z"
+}

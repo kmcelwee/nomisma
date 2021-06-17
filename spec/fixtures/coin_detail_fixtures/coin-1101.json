@@ -1,0 +1,70 @@
+{
+    "id": "coin-1101",
+    "title_display": "Coin: 1101",
+    "pub_created_display": [
+        "Tong Zhi \u540c\u6cbb (1862 to 1875)"
+    ],
+    "call_number_display": [
+        "Coin 1101"
+    ],
+    "call_number_browse_s": [
+        "Coin 1101"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "size_s": [
+        "25.5"
+    ],
+    "weight_s": [
+        "5.25"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 1101\",\"call_number_browse\":\"Coin 1101\"}}",
+    "numismatic_collection_s": [
+        "Wu"
+    ],
+    "numismatic_accession_s": [
+        "119: 2006-05-30 Aster Wu"
+    ],
+    "pub_date_start_sort": 1862,
+    "pub_date_end_sort": 1875,
+    "issue_object_type_s": [
+        "coin"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Tong Zhi \u540c\u6cbb (1862 to 1875)"
+    ],
+    "issue_obverse_legend_s": [
+        "\u540c\u6cbb\u901a\u5bf6"
+    ],
+    "issue_reverse_legend_s": [
+        "\u58fd\u58fd"
+    ],
+    "issue_references_s": [
+        "KM 352 Variant "
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1862 to 1875"
+    ],
+    "hashed_id_s": [
+        "f27f81bd8cf01481"
+    ],
+    "_version_": 1684903600536420352,
+    "timestamp": "2020-12-01T19:01:29.456Z"
+}

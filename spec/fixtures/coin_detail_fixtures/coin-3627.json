@@ -1,0 +1,101 @@
+{
+    "id": "coin-3627",
+    "title_display": "Coin: 3627",
+    "call_number_display": [
+        "Coin 3627"
+    ],
+    "call_number_browse_s": [
+        "Coin 3627"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "technique_s": [
+        "struck"
+    ],
+    "weight_s": [
+        "42.14"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3627\",\"call_number_browse\":\"Coin 3627\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "373: 1979-01-01 Mrs. Henry L. O' Gorman"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Man, woman and child facing right. Torn down buildings in landscape. One bear tree."
+    ],
+    "issue_obverse_legend_s": [
+        "LA SOMME DEVASTEE"
+    ],
+    "issue_reverse_figure_s": [
+        "Eagler"
+    ],
+    "issue_reverse_orientation_s": [
+        "center, looking right"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Eagle at top, wings spread, looking right.  Three tree stumps and tufts of grass on ground.  Path winding toward upper left horizon."
+    ],
+    "issue_reverse_legend_s": [
+        "1914 | 1918"
+    ],
+    "issue_references_s": [
+        "Forrer vol. 8 "
+    ],
+    "issue_artists_s": [
+        "Albert Auguste Roze, ALB ROZE",
+        "P Ansart, P ANSART",
+        "Albert Auguste Roze, A R",
+        "P Ansart, P A"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Event, Battle of the Somme    Jul  1 1916 12:00AM"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "119ce624d49a1702"
+    ],
+    "_version_": 1684902984081735680,
+    "timestamp": "2020-12-01T18:51:41.560Z"
+}
