@@ -5,10 +5,12 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'coveralls', require: false
 gem 'creek'
+gem 'faraday'
 gem 'rake'
 gem 'rdf-rdfxml'
 gem 'rubyzip'
 gem 'thor'
+gem 'webmock'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
