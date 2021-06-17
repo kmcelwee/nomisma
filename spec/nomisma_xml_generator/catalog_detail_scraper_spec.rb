@@ -46,4 +46,23 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
     detail_scraper.write_coin_json(coin_url)
     expect(File.exist?(expected_path)).to eq true
   end
+
+  it 'writes all coins to the proper directory' do
+    Dir[output_dir].each do |file|
+      File.delete(file) unless File.directory? file
+    end
+
+    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+    detail_scraper.collect_all_coins
+
+    expected_path = "#{output_dir}/coin-15190.json"
+    expect(File.exist?(expected_path)).to eq true
+
+    file = File.open(expected_path)
+    coin_json = JSON.parse(file.read)
+    expect(coin_json["pub_date_start_sort"]).to eq 1979
+
+    # TODO: There are duplicates in the first three pages of the catalog fixture?
+    expect(Dir["#{output_dir}/*"].length).to eq 288
+  end
 end

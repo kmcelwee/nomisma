@@ -25,7 +25,12 @@ module NomismaXmlGenerator
       File.open(output_path, 'w') do |f|
         f.write(coin_json.to_json)
       end
-      # File.open(output_path, JSON.dump(coin_json))
+    end
+
+    def collect_all_coins
+      coin_list.each do |coin_url|
+        write_coin_json(coin_url)
+      end
     end
   end
 end
