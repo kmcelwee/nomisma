@@ -2,7 +2,7 @@
 
 RSpec.describe NomismaXmlGenerator::Coin do
   let(:coin_id) { "coin-9099" }
-  let(:coin_json_path) { "#{$fixture_path}/#{coin_id}.json" }
+  let(:coin_json_path) { "#{$fixture_path}/coin_detail_fixtures/#{coin_id}.json" }
   let(:coin) { described_class.new(coin_json_path) }
 
   it 'has a path to a JSON file and parses JSON' do
@@ -15,7 +15,7 @@ RSpec.describe NomismaXmlGenerator::Coin do
   end
 
   context 'collects correct values from catalog JSON' do
-    let(:sparse_coin_path) { "#{$fixture_path}/coin-11036.json" }
+    let(:sparse_coin_path) { "#{$fixture_path}/coin_detail_fixtures/coin-11036.json" }
     let(:sparse_coin) { described_class.new(sparse_coin_path) }
 
     it 'has an identifier' do

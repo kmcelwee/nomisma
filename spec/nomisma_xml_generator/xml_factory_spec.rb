@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe NomismaXmlGenerator::XmlFactory do
-  let(:coin_collection) { NomismaXmlGenerator::CoinCollection.new($fixture_path.to_s) }
+  let(:coin_collection) { NomismaXmlGenerator::CoinCollection.new("#{$fixture_path}/coin_detail_fixtures") }
   let(:factory) { described_class.new(coin_collection) }
 
   it 'contains a CoinCollection' do
