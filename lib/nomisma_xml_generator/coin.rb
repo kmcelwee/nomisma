@@ -8,9 +8,11 @@ module NomismaXmlGenerator
   #  from the catalog
   class Coin
     attr_reader :json_path
+    attr_accessor :reference_link
 
     def initialize(coin_json_path)
       @json_path = coin_json_path
+      @reference_link = nil
     end
 
     def catalog_hash

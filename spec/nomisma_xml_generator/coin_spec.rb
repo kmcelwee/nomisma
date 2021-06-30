@@ -55,5 +55,11 @@ RSpec.describe NomismaXmlGenerator::Coin do
     it 'has a full link' do
       expect(coin.full_link).to eq("https://catalog.princeton.edu/catalog/coin-9099")
     end
+
+    it 'a reference link can be set' do
+      expect(coin.reference_link).to eq(nil)
+      coin.reference_link = 'http://numismatics.com/pella34556'
+      expect(coin.reference_link).to eq('http://numismatics.com/pella34556')
+    end
   end
 end
