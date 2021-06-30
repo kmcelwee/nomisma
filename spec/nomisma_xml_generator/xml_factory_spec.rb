@@ -18,4 +18,14 @@ RSpec.describe NomismaXmlGenerator::XmlFactory do
     factory.write_xml($xml_output_file)
     expect(File.exist?($xml_output_file)).to eq true
   end
+
+  it 'builds a graph with the correct triples' do
+    # TODO: This can be done better.
+    coin_triples = []
+    factory.graph.triples.each do |triple|
+      coin_triples << triple if triple[0].value == "https://catalog.princeton.edu/catalog/coin-9099"
+    end
+
+    expect(coin_triples.length).to eq(9)
+  end
 end

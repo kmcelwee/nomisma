@@ -13,6 +13,14 @@ Layout/LineLength:
 Metrics/BlockLength:
   Enabled: false
 
+Metrics/MethodLength:
+  Exclude:
+    - lib/nomisma_xml_generator/xml_factory.rb
+
+Metrics/AbcSize:
+  Exclude:
+    - lib/nomisma_xml_generator/xml_factory.rb  
+
 Metrics/ClassLength:
   Enabled: false
 
