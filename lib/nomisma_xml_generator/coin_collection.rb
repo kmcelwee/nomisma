@@ -13,6 +13,7 @@ module NomismaXmlGenerator
       @json_dir = json_dir
     end
 
+    # TODO: rename to coin_list
     def all_coins
       @all_coins ||= generate_coin_list
     end
