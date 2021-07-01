@@ -9,6 +9,6 @@
 		<dcterms:publisher>Princeton University Library</dcterms:publisher>
 		<dcterms:license rdf:resource="http://opendatacommons.org/licenses/odbl/"/>
 		<void:uriSpace>https://catalog.princeton.edu/catalog/</void:uriSpace>
-		<void:dataDump rdf:resource="https://raw.githubusercontent.com/pulibrary/nomisma/main/princeton-nomisma.rdf"/>
+		<void:dataDump rdf:resource="https://raw.githubusercontent.com/pulibrary/nomisma/main/data/princeton-nomisma.rdf"/>
 	</void:Dataset>
 </rdf:RDF>
