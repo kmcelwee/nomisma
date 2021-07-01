@@ -29,7 +29,9 @@ module NomismaXmlGenerator
 
     def get_json_from_list_page(page)
       response = Faraday.get "https://catalog.princeton.edu/catalog?f[format][]=Coin&format=json&per_page=100&page=#{page}"
-      JSON.parse(response.body)
+      response_json = JSON.parse(response.body)
+      puts "Scraped page #{page}"
+      response_json
     end
 
     def get_coins_from_page(page)

@@ -33,7 +33,7 @@ module NomismaXmlGenerator
       File.open(@progress_file_path, 'a') do |f|
         f << coin_url.delete_suffix('/raw') + "\n"
       end
-      # puts "Scraped: #{coin_url}"
+      puts "Scraped: #{coin_url}"
     end
 
     def scrape_coin(coin_url)

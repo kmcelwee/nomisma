@@ -34,8 +34,8 @@ RSpec.configure do |config|
     # Silence output
     # original_stderr = $stderr
     # original_stdout = $stdout
-    # $stderr = File.new(File.join($output_dir, 'null.txt'), 'w')
-    # $stdout = File.new(File.join($output_dir, 'null.txt'), 'w')
+    $stderr = File.new(File.join($output_dir, 'null.txt'), 'w')
+    $stdout = File.new(File.join($output_dir, 'null.txt'), 'w')
   end
 
   config.before(:suite) do
