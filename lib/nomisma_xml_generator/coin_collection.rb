@@ -9,8 +9,9 @@ module NomismaXmlGenerator
   class CoinCollection
     attr_reader :json_dir
 
-    def initialize(json_dir)
+    def initialize(json_dir, coin_list_path: nil)
       @json_dir = json_dir
+      @coin_list_path = coin_list_path
     end
 
     # TODO: rename to coin_list
@@ -19,6 +20,10 @@ module NomismaXmlGenerator
     end
 
     def all_json_paths
+      if @coin_list_path
+        coin_ids = File.readlines(@coin_list_path).map { |x| x.split('/')[-1].strip }
+        return coin_ids.map { |coin_id| "#{@json_dir}/#{coin_id}.json" }
+      end
       Dir["#{@json_dir}/*.json"]
     end
 

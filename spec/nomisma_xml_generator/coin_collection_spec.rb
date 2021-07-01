@@ -31,6 +31,12 @@ RSpec.describe NomismaXmlGenerator::CoinCollection do
     expect(single_coin).instance_of? NomismaXmlGenerator::Coin
   end
 
+  it 'can create a collection from txt file' do
+    coin_list_path = File.join($output_dir, 'coin-list.txt')
+    coin_collection2 = described_class.new(coin_json_dir, coin_list_path: coin_list_path)
+    expect(coin_collection2.all_coins.length).to eq(300)
+  end
+
   context 'draws reference data from a csv file' do
     it 'creates a mapper from a csv file' do
       mapper = coin_collection.reference_link_mapper(mapper_csv)

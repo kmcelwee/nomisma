@@ -22,6 +22,7 @@ Metrics/MethodLength:
 Metrics/AbcSize:
   Exclude:
     - lib/nomisma_xml_generator/xml_factory.rb  
+    - lib/nomisma_xml_generator/cli.rb
 
 Metrics/ClassLength:
   Enabled: false

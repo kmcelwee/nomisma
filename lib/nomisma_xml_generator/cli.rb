@@ -41,7 +41,8 @@ module NomismaXmlGenerator
     option :output_dir, desc: 'Directory where princeton-nomisma.rdf will be written', default: 'data'
     option :mapper_csv_path, desc: 'Path to CSV that maps IDs to their numismatic reference links', default: 'nomisma-mapper.csv'
     def generate_xml
-      collection = NomismaXmlGenerator::CoinCollection.new(options[:json_dir])
+      coin_list_path = File.join(options[:output_dir], 'coin-list.txt')
+      collection = NomismaXmlGenerator::CoinCollection.new(options[:json_dir], coin_list_path: coin_list_path)
       collection.apply_reference_link(options[:mapper_csv_path])
       xml_path = File.join(options[:output_dir], 'princeton-nomisma.rdf')
       xml_factory = NomismaXmlGenerator::XmlFactory.new(collection)
