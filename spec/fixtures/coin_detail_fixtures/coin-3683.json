@@ -1,0 +1,86 @@
+{
+    "id": "coin-3683",
+    "title_display": "Coin: 3683",
+    "call_number_display": [
+        "Coin 3683"
+    ],
+    "call_number_browse_s": [
+        "Coin 3683"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[Cornucopia] BRONZE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "66"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3683\",\"call_number_browse\":\"Coin 3683\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Rectangle"
+    ],
+    "issue_place_s": [
+        "France"
+    ],
+    "issue_region_s": [
+        "France"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Soldier on  right holding musket with bayonet. Female angel over soldier's left shoulder in military helmet holding palm leaf over his head."
+    ],
+    "issue_obverse_legend_s": [
+        "AUX BRAVES"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Oak leaves on bottom. Palm frond on left."
+    ],
+    "issue_artists_s": [
+        "J Aumont, J. Aumont"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Category, palm"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "9464060b29124cb0"
+    ],
+    "_version_": 1684903207023673344,
+    "timestamp": "2020-12-01T18:55:14.173Z"
+}

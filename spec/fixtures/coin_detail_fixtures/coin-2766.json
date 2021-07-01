@@ -1,0 +1,101 @@
+{
+    "id": "coin-2766",
+    "title_display": "Coin: 2766",
+    "pub_created_display": [
+        "Stephen Decatur Jr. (1779 to 1820)"
+    ],
+    "call_number_display": [
+        "Coin 2766"
+    ],
+    "call_number_browse_s": [
+        "Coin 2766"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "notes_display": [
+        "Bronze restrike post-1881 US mint"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "64"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 2766\",\"call_number_browse\":\"Coin 2766\"}}",
+    "donor_s": [
+        "Setton"
+    ],
+    "pub_date_start_sort": 1881,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_ruler_s": [
+        "Stephen Decatur Jr. (1779 to 1820)"
+    ],
+    "issue_workshop_s": [
+        "US Mint"
+    ],
+    "issue_series_s": [
+        "US Historical Medals"
+    ],
+    "issue_place_s": [
+        "United States of America"
+    ],
+    "issue_region_s": [
+        "United States of America"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "bust to r."
+    ],
+    "issue_obverse_legend_s": [
+        "STEPHANUS DECATUR NAVARCHUS| PUGNIS PLURIBUS| VICTOR"
+    ],
+    "issue_reverse_figure_s": [
+        "Sailing ships"
+    ],
+    "issue_reverse_figure_description_s": [
+        "naval battle scene with American ship at r. firing on ship to l."
+    ],
+    "issue_reverse_legend_s": [
+        "OCCIDIT SIGNUM HOSTILE SIDERA SURGUNT| INTER STA. UNI. NAV. AMERI.|  ET MACEDO. NAV. ANG. DIE| XXV OCTOBRIS| MDCCCXII| REPRODUCTION 1881"
+    ],
+    "issue_reverse_attributes_s": [
+        "die",
+        "die"
+    ],
+    "issue_references_s": [
+        "Julian  NA-9"
+    ],
+    "issue_artists_s": [
+        "Moritz Furst, FURST. F."
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "c6dc9616676f9456"
+    ],
+    "_version_": 1683105119115149312,
+    "timestamp": "2020-11-11T22:35:23.916Z"
+}

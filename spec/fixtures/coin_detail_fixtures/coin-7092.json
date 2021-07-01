@@ -1,0 +1,86 @@
+{
+    "id": "coin-7092",
+    "title_display": "Coin: 7092",
+    "call_number_display": [
+        "Coin 7092"
+    ],
+    "call_number_browse_s": [
+        "Coin 7092"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "CASA NACIONAL DE MONEDA  LIMA - PERU"
+    ],
+    "analysis_s": [
+        "970 (hallmark)"
+    ],
+    "notes_display": [
+        "Fasteners on reverse: pin on hinge, hooks"
+    ],
+    "size_s": [
+        "80 x 65"
+    ],
+    "technique_s": [
+        "enameled"
+    ],
+    "weight_s": [
+        "90.02"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 7092\",\"call_number_browse\":\"Coin 7092\"}}",
+    "donor_s": [
+        "Robert Ross"
+    ],
+    "pub_date_start_sort": 1957,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "badge"
+    ],
+    "issue_metal_s": [
+        "Gilt silver"
+    ],
+    "issue_workshop_s": [
+        "Casa Nacional de Moneda"
+    ],
+    "issue_place_s": [
+        "Peru"
+    ],
+    "issue_region_s": [
+        "Peru"
+    ],
+    "issue_obverse_figure_s": [
+        "Bust"
+    ],
+    "issue_obverse_orientation_s": [
+        "3/4 right"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Portrait of Daniel A. Carri\u00f3n"
+    ],
+    "issue_obverse_legend_s": [
+        "DANIEL.A CARRION"
+    ],
+    "issue_obverse_attributes_s": [
+        "border, Oak leaves to left, laurel leaves to right, bow b",
+        "enamel, Purple Greek cross above"
+    ],
+    "issue_monogram_1display": "[]",
+    "hashed_id_s": [
+        "1b119d8aa24f259b"
+    ],
+    "_version_": 1683105022639865856,
+    "timestamp": "2020-11-11T22:33:51.910Z"
+}

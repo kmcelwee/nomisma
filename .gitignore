@@ -1,4 +1,10 @@
 scratch/
-.ipynb_checkpoints/
-data/coin-list-raw.json
-__pycache__/
+spec/output/
+!spec/output/.keep
+!spec/output/raw/.keep
+
+.byebug_history
+coverage/
+.yardoc
+
+data/coin-list-progress.txt

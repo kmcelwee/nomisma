@@ -1,0 +1,85 @@
+{
+    "id": "coin-15039",
+    "title_display": "Coin: 15039",
+    "call_number_display": [
+        "Coin 15039"
+    ],
+    "call_number_browse_s": [
+        "Coin 15039"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "30"
+    ],
+    "weight_s": [
+        "22.04"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15039\",\"call_number_browse\":\"Coin 15039\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1982,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Matte gilt"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_obverse_figure_s": [
+        "Raised weapons"
+    ],
+    "issue_obverse_figure_description_s": [
+        "surrounded by a band containing a laurel wreath"
+    ],
+    "issue_obverse_attributes_s": [
+        "Inscription, NUESTRA FUERZA | ES LA FUERZA | DEL PUEBLO"
+    ],
+    "issue_reverse_legend_s": [
+        "MINSTERIO DEL INTERIOR"
+    ],
+    "issue_reverse_attributes_s": [
+        "Inscription, 19 | DE ABRIL "
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  3:338-90"
+    ],
+    "issue_monogram_title_s": [
+        "m9109.jpg"
+    ],
+    "issue_monogram_1display": "[{\"title\":\"m9109.jpg\",\"document_id\":\"cfd9c51f-f2bc-463c-9cc5-9cb98958a1b3\"}]",
+    "issue_subjects_s": [
+        "Decoration Name , La Distinci\u00f3n del \"19 de Abril\""
+    ],
+    "issue_date_s": [
+        "1982 to "
+    ],
+    "hashed_id_s": [
+        "cb3c342e8c3ab0a7"
+    ],
+    "_version_": 1684902914189950976,
+    "timestamp": "2020-12-01T18:50:34.904Z"
+}

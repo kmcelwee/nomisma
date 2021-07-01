@@ -1,0 +1,79 @@
+{
+    "id": "coin-6617",
+    "title_display": "Coin: 6617",
+    "call_number_display": [
+        "Coin 6617"
+    ],
+    "call_number_browse_s": [
+        "Coin 6617"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "FONSON & CIE"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "55"
+    ],
+    "weight_s": [
+        "65.54"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6617\",\"call_number_browse\":\"Coin 6617\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Silver"
+    ],
+    "issue_obverse_figure_s": [
+        "Two figures"
+    ],
+    "issue_obverse_figure_description_s": [
+        "young girl holds parcels while woman sticks her arm through opening in door"
+    ],
+    "issue_obverse_legend_s": [
+        "LA CANTINE du SOLDAT PRISONNIER    BRUXELELLES 1914-1915"
+    ],
+    "issue_reverse_figure_s": [
+        "Soldier"
+    ],
+    "issue_reverse_figure_description_s": [
+        "Soldier is holding parcel in left hand. Right hand is holding  woman's hand while he kisses it."
+    ],
+    "issue_artists_s": [
+        "Godefroid Devreese, G. DEVREESE"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "6076aed0565c6840"
+    ],
+    "_version_": 1684903545519734784,
+    "timestamp": "2020-12-01T19:00:36.987Z"
+}

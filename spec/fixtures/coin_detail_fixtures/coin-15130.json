@@ -1,0 +1,83 @@
+{
+    "id": "coin-15130",
+    "title_display": "Coin: 15130",
+    "pub_created_display": [
+        "Grade III varient: officers (other than senior officers)"
+    ],
+    "call_number_display": [
+        "Coin 15130"
+    ],
+    "call_number_browse_s": [
+        "Coin 15130"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15130\",\"call_number_browse\":\"Coin 15130\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1912,
+    "pub_date_end_sort": 1959,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grade III varient: officers (other than senior officers)"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "maltese cross"
+    ],
+    "issue_color_s": [
+        "red"
+    ],
+    "issue_obverse_figure_s": [
+        "MM intertwined"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on a red enameled field"
+    ],
+    "issue_obverse_legend_s": [
+        "HONOR VIRTUD VALOR"
+    ],
+    "issue_obverse_attributes_s": [
+        "Legend, on a red enameled band"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I  1:151-61",
+        "Reference Catalogue of Orders, Medals and Decorations of the World  326-27"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1912 to 1959"
+    ],
+    "hashed_id_s": [
+        "6fd5091ad6f18a2d"
+    ],
+    "_version_": 1684903354519519232,
+    "timestamp": "2020-12-01T18:57:34.834Z"
+}

@@ -1,0 +1,97 @@
+{
+    "id": "coin-6694",
+    "title_display": "Coin: 6694",
+    "call_number_display": [
+        "Coin 6694"
+    ],
+    "call_number_browse_s": [
+        "Coin 6694"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "J. FONSON"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "70"
+    ],
+    "weight_s": [
+        "107.2"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 6694\",\"call_number_browse\":\"Coin 6694\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "409:  Savage"
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1918,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_place_s": [
+        "Belgium"
+    ],
+    "issue_region_s": [
+        "Belgium"
+    ],
+    "issue_obverse_figure_s": [
+        "Woman"
+    ],
+    "issue_obverse_part_s": [
+        "kneeling"
+    ],
+    "issue_obverse_orientation_s": [
+        "facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "woman is naked and looking at a vulture"
+    ],
+    "issue_obverse_legend_s": [
+        "1914   1918    POUR LA CIVILISATION"
+    ],
+    "issue_reverse_figure_s": [
+        "Lion"
+    ],
+    "issue_reverse_figure_description_s": [
+        " lion is partially crouched on top of a canon, overlooking the city"
+    ],
+    "issue_reverse_legend_s": [
+        " LIEGE ARRETE L'ARMEE ALLEMANDE     4-16 AOUT 1914"
+    ],
+    "issue_artists_s": [
+        "Josue Dupon, Josue Dupon"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, Battle of Liege    August 4-16 1914"
+    ],
+    "issue_date_s": [
+        "1914 to 1918"
+    ],
+    "hashed_id_s": [
+        "b286beeefea2052b"
+    ],
+    "_version_": 1684903476575862784,
+    "timestamp": "2020-12-01T18:59:31.238Z"
+}

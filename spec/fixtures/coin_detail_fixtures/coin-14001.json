@@ -1,0 +1,96 @@
+{
+    "id": "coin-14001",
+    "title_display": "Coin: 14001",
+    "pub_created_display": [
+        "Grade III: officers (other than senior officers)"
+    ],
+    "call_number_display": [
+        "Coin 14001"
+    ],
+    "call_number_browse_s": [
+        "Coin 14001"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "49"
+    ],
+    "weight_s": [
+        "33.69"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 14001\",\"call_number_browse\":\"Coin 14001\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "numismatic_provenance_s": [
+        "Allen Menke"
+    ],
+    "pub_date_start_sort": 1912,
+    "pub_date_end_sort": 1978,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_denomination_s": [
+        "Grade III: officers (other than senior officers)"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "badge"
+    ],
+    "issue_color_s": [
+        "white and blue"
+    ],
+    "issue_place_s": [
+        "Cuba"
+    ],
+    "issue_region_s": [
+        "Cuba"
+    ],
+    "issue_obverse_figure_s": [
+        "MN intertwined"
+    ],
+    "issue_obverse_figure_description_s": [
+        "on a dark blue enameled field"
+    ],
+    "issue_obverse_legend_s": [
+        "HONOR VIRTUD VALOR"
+    ],
+    "issue_obverse_attributes_s": [
+        "legend, on a white enameled band matching the anchor"
+    ],
+    "issue_references_s": [
+        "Thankful Nation  Cu59",
+        "Condecoraciones Cubanas: Teor\u00eda e Historia 1:162-70 ",
+        "Reference Catalogue of Orders, Medals and Decorations of the World 328-29 "
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1912 to 1978"
+    ],
+    "hashed_id_s": [
+        "861a1a22189c3192"
+    ],
+    "_version_": 1684903525685919744,
+    "timestamp": "2020-12-01T19:00:18.073Z"
+}

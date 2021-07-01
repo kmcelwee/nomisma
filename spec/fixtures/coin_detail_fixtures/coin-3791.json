@@ -1,0 +1,86 @@
+{
+    "id": "coin-3791",
+    "title_display": "Coin: 3791",
+    "call_number_display": [
+        "Coin 3791"
+    ],
+    "call_number_browse_s": [
+        "Coin 3791"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "counter_stamp_s": [
+        "[TRIANGLE] BRONZE"
+    ],
+    "size_s": [
+        "75.5"
+    ],
+    "technique_s": [
+        "Struck"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 3791\",\"call_number_browse\":\"Coin 3791\"}}",
+    "numismatic_collection_s": [
+        "Medals"
+    ],
+    "numismatic_accession_s": [
+        "1:  "
+    ],
+    "pub_date_start_sort": 1914,
+    "pub_date_end_sort": 1920,
+    "issue_object_type_s": [
+        "medal"
+    ],
+    "issue_metal_s": [
+        "Bronze"
+    ],
+    "issue_shape_s": [
+        "Vertical rectangle"
+    ],
+    "issue_place_s": [
+        "Rome"
+    ],
+    "issue_region_s": [
+        "Rome"
+    ],
+    "issue_obverse_figure_s": [
+        "Virgin and child"
+    ],
+    "issue_obverse_orientation_s": [
+        "center, facing left"
+    ],
+    "issue_obverse_figure_description_s": [
+        "Virgin sitting, with child to the right, under her arm - both facing left. Virgin has left hand on half-sphere in lap. Leaves on bottom left."
+    ],
+    "issue_obverse_legend_s": [
+        "IN MEMORIAM | ROME 1920"
+    ],
+    "issue_artists_s": [
+        "Raouil Ren\u00e9 Alphonse B\u00e9nard, R. BENARD"
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_subjects_s": [
+        "Event, World War I    ",
+        "Category, memorial"
+    ],
+    "issue_date_s": [
+        "1914 to 1920"
+    ],
+    "hashed_id_s": [
+        "3d76490dece881f4"
+    ],
+    "_version_": 1684903219149406208,
+    "timestamp": "2020-12-01T18:55:25.736Z"
+}

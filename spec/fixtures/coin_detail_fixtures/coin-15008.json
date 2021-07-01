@@ -1,0 +1,79 @@
+{
+    "id": "coin-15008",
+    "title_display": "Coin: 15008",
+    "call_number_display": [
+        "Coin 15008"
+    ],
+    "call_number_browse_s": [
+        "Coin 15008"
+    ],
+    "location_code_s": [
+        "num"
+    ],
+    "location": [
+        "Special Collections"
+    ],
+    "location_display": [
+        "Special Collections - Numismatics Collection"
+    ],
+    "format": [
+        "Coin"
+    ],
+    "advanced_location_s": [
+        "num"
+    ],
+    "die_axis_s": [
+        "12"
+    ],
+    "size_s": [
+        "32"
+    ],
+    "weight_s": [
+        "23.38"
+    ],
+    "holdings_1display": "{\"numismatics\":{\"location\":\"Special Collections - Numismatics Collection\",\"library\":\"Special Collections\",\"location_code\":\"num\",\"call_number\":\"Coin 15008\",\"call_number_browse\":\"Coin 15008\"}}",
+    "numismatic_collection_s": [
+        "Ross"
+    ],
+    "numismatic_accession_s": [
+        "21:  Robert Ross"
+    ],
+    "pub_date_start_sort": 1989,
+    "pub_date_end_sort": 0,
+    "issue_object_type_s": [
+        "decoration"
+    ],
+    "issue_metal_s": [
+        "Gilt"
+    ],
+    "issue_shape_s": [
+        "Round"
+    ],
+    "issue_obverse_figure_s": [
+        "Star"
+    ],
+    "issue_obverse_figure_description_s": [
+        "above a rendering of Cuba and Ethiopia"
+    ],
+    "issue_obverse_legend_s": [
+        "POR LA VICTORIA | CUBA-ETIOPIA | 1979 1989"
+    ],
+    "issue_reverse_figure_s": [
+        "Arms of Cuba"
+    ],
+    "issue_reverse_legend_s": [
+        "REPUBLICA DE CUBA | CONSEJO DE ESTADO"
+    ],
+    "issue_references_s": [
+        "Condecoraciones Cubanas: Teor\u00eda e Historia Volume I 3:300-303 "
+    ],
+    "issue_monogram_1display": "[]",
+    "issue_date_s": [
+        "1989 to "
+    ],
+    "hashed_id_s": [
+        "5781559345724117"
+    ],
+    "_version_": 1684902914136473600,
+    "timestamp": "2020-12-01T18:50:34.854Z"
+}
