@@ -1,7 +1,0 @@
-# name: Run tests and validate data
-
-# on: [push]
-
-# jobs:
-  # run test
-  # validate that RDF is properly formatted
