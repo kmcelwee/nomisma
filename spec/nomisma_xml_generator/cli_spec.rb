@@ -33,11 +33,11 @@ RSpec.describe NomismaXmlGenerator::Cli do
   end
 
   it 'scrapes the detail coin data' do
-    Dir[output_dir].each do |file|
+    Dir["#{output_dir}/*.json"].each do |file|
       File.delete(file) unless File.directory? file
     end
 
-    options = { output_dir: output_dir }
+    options = { output_dir: output_dir, coin_list_path: File.join($fixture_path, 'coin-list.txt') }
     cli.invoke(:scrape_catalog_detail, [], options)
 
     expected_path = "#{output_dir}/coin-15190.json"

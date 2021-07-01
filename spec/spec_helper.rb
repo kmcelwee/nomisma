@@ -20,6 +20,7 @@ require_relative '../lib/nomisma_xml_generator'
 
 require 'byebug'
 require 'webmock/rspec'
+require 'fileutils'
 
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
@@ -30,6 +31,9 @@ RSpec.configure do |config|
     $output_dir = "#{__dir__}/output"
     $xml_output_file = "#{$output_dir}/princeton-nomisma.rdf"
     $unique_fixture_count = 288
+
+    # Copy coin-list to output for all tests
+    FileUtils.cp(File.join($fixture_path, 'coin-list.txt'), $output_dir)
 
     # Silence output
     # original_stderr = $stderr
