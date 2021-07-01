@@ -4,7 +4,7 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
   let(:output_dir) { "#{$output_dir}/raw" }
   let(:coin_list_path) { "#{$output_dir}/coin-list.txt" }
   let(:list_scraper) { NomismaXmlGenerator::CatalogListScraper.new }
-  let(:detail_scraper) { NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path }
+  let(:detail_scraper) { NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, output_dir: output_dir }
   let(:progress_file_path) { "#{$output_dir}/coin-list-progress.txt" }
 
   before(:each) do
@@ -69,7 +69,7 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
     end
 
     it "will not scrape any values provided in coin-list-progress.txt if continue is selected" do
-      Dir[output_dir].each do |file|
+      Dir["#{output_dir}/*.json"].each do |file|
         File.delete(file) unless File.directory? file
       end
 
@@ -81,16 +81,40 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
 
       File.open(progress_file_path, 'w') do |f|
         f.write(mock_already_completed.join("\n"))
+        f.write("\n")
       end
 
-      scraper = NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, continue: true
+      scraper = NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, output_dir: output_dir, continue: true
       scraper.collect_all_coins
-      # byebug
 
-      # expect(Dir["#{output_dir}/*"].length).to eq($unique_fixture_count - 3)
+      expect(scraper.coin_list).not_to include(mock_already_completed[0])
+      expect(scraper.coin_list).not_to include(mock_already_completed[1])
+      expect(scraper.coin_list).not_to include(mock_already_completed[2])
+      expect(Dir["#{output_dir}/*.json"].length).to eq($unique_fixture_count - 3)
     end
 
     it "writes all the requests to a progress file" do
+      scraper = NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, output_dir: output_dir
+      coin_url = 'https://catalog.princeton.edu/catalog/coin-1141'
+      scraper.scrape_coin(coin_url)
+      expect(File.readlines(scraper.progress_file_path).each(&:strip!)[0]).to eq(coin_url)
+    end
+
+    it "clears the progress file if continue is not selected" do
+      mock_already_completed = [
+        "https://catalog.princeton.edu/catalog/coin-1141",
+        "https://catalog.princeton.edu/catalog/coin-1195",
+        "https://catalog.princeton.edu/catalog/coin-1193"
+      ]
+
+      File.open(progress_file_path, 'w') do |f|
+        f.write(mock_already_completed.join("\n"))
+        f.write("\n")
+      end
+
+      scraper = NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, output_dir: output_dir
+      expect(File.readlines(progress_file_path).length).to eq(0)
+      expect(scraper.coin_list.length).to eq($unique_fixture_count)
     end
   end
 end

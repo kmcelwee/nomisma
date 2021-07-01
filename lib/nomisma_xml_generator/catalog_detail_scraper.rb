@@ -5,7 +5,7 @@ module NomismaXmlGenerator
   # Given a list of coin links (which can be provided by CatalogListScraper)
   #  collect all the raw JSON attached to each coin in the list
   class CatalogDetailScraper
-    attr_reader :output_dir, :coin_list, :progress_file_path
+    attr_reader :output_dir, :coin_list, :progress_file_path, :continue, :coin_list_path
 
     def initialize(coin_list_path, output_dir: 'data/raw', continue: false)
       @output_dir = output_dir
@@ -31,7 +31,7 @@ module NomismaXmlGenerator
 
     def log_scrape(coin_url)
       File.open(@progress_file_path, 'a') do |f|
-        f << coin_url + "\n"
+        f << coin_url.delete_suffix('/raw') + "\n"
       end
       # puts "Scraped: #{coin_url}"
     end

@@ -20,6 +20,8 @@ module NomismaXmlGenerator
     end
 
     def all_json_paths
+      # Get the list of coins from the given txt file, otherwise take the entire
+      #  JSON directory of raw coin files
       if @coin_list_path
         coin_ids = File.readlines(@coin_list_path).map { |x| x.split('/')[-1].strip }
         return coin_ids.map { |coin_id| "#{@json_dir}/#{coin_id}.json" }
