@@ -9,6 +9,8 @@ Style/GlobalVars:
 
 Layout/LineLength:
   Max: 135
+  Exclude:
+    - lib/nomisma_xml_generator/cli.rb
 
 Metrics/BlockLength:
   Enabled: false

@@ -14,7 +14,7 @@ RSpec.describe NomismaXmlGenerator::XmlFactory do
   end
 
   it 'writes xml to a file' do
-    expect(File.exist?($xml_output_file)).to eq false
+    File.delete $xml_output_file if File.exist? $xml_output_file
     factory.write_xml($xml_output_file)
     expect(File.exist?($xml_output_file)).to eq true
   end

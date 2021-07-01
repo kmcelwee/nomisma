@@ -28,6 +28,15 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
     expect(detail_scraper.output_dir).to eq output_dir
   end
 
+  it 'can take a file containing a list of coins as input' do
+    coin_list_path = list_scraper.write_coin_list
+    detail_scraper = described_class.new(coin_list_path, output_dir: output_dir)
+
+    detail_scraper2 = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+
+    expect(detail_scraper.coin_list).to eq(detail_scraper2.coin_list)
+  end
+
   it 'can scrape a coin url' do
     detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
     coin_url = 'https://catalog.princeton.edu/catalog/coin-15039'

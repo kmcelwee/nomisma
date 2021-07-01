@@ -9,7 +9,11 @@ module NomismaXmlGenerator
 
     def initialize(coin_list, output_dir: 'data/raw')
       @output_dir = output_dir
-      @coin_list = coin_list
+      @coin_list = if coin_list.class == Array
+                     coin_list
+                   else
+                     File.readlines(coin_list).each(&:strip!)
+                   end
     end
 
     def scrape_coin(coin_url)
@@ -27,6 +31,7 @@ module NomismaXmlGenerator
       end
     end
 
+    # TODO: name change to "scrape_all_coins"
     def collect_all_coins
       coin_list.each do |coin_url|
         write_coin_json(coin_url)

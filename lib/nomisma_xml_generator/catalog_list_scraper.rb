@@ -55,6 +55,8 @@ module NomismaXmlGenerator
       File.open(path, 'w+') do |f|
         coin_list.each { |row| f.puts(row) }
       end
+
+      path
     end
   end
 end
