@@ -24,7 +24,6 @@ module NomismaXmlGenerator
       list_scraper.scrape_coin_list
       list_scraper.write_coin_list
       puts 'Scraped coin list and wrote to coin-list.txt'
-      list_scraper
     end
 
     desc 'scrape_catalog_detail', 'Collect all coin details from catalog'

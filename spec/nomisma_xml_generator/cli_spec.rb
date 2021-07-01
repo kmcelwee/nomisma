@@ -57,7 +57,4 @@ RSpec.describe NomismaXmlGenerator::Cli do
 
     expect(File.exist?(expected_path)).to eq true
   end
-
-  it 'takes in a CSV as a mapper' do
-  end
 end

@@ -51,6 +51,8 @@ module NomismaXmlGenerator
       @graph << RDF::Statement(coin_element, nmo.hasAxis, RDF::Literal.new(coin.axis, datatype: RDF::XSD.decimal)) if coin.axis
       @graph << RDF::Statement(coin_element, nmo.hasMaterial, RDF::Literal.new(coin.material)) if coin.material
 
+      @graph << RDF::Statement(coin_element, nmo.hasTypeSeriesItem, RDF::URI.new(coin.reference_link)) if coin.reference_link
+
       coin_element
     end
 
