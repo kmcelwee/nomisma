@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe NomismaXmlGenerator::CoinCollection do
-  let(:coin_json_dir) { "#{$fixture_path}/coin_detail_fixtures" }
+  let(:coin_json_dir) { "#{$output_dir}/raw" }
   let(:mapper_csv) { "#{$fixture_path}/nomisma-mapper.csv" }
   let(:coin_collection) { described_class.new(coin_json_dir) }
 
@@ -14,18 +14,18 @@ RSpec.describe NomismaXmlGenerator::CoinCollection do
   it 'to have a list of all json paths' do
     paths = coin_collection.all_json_paths
     expect(paths).instance_of? Array
-    expect(paths).to include("#{$fixture_path}/coin_detail_fixtures/coin-11036.json")
-    expect(paths).to include("#{$fixture_path}/coin_detail_fixtures/coin-9099.json")
+    expect(paths).to include("#{coin_json_dir}/coin-1041.json")
+    expect(paths).to include("#{coin_json_dir}/coin-1069.json")
   end
 
   it 'has a size value' do
-    expect(coin_collection.size).to eq(290)
+    expect(coin_collection.size).to eq($unique_fixture_count)
   end
 
   it 'to generate a list of coin objects' do
     all_coins = coin_collection.all_coins
     expect(all_coins).instance_of? Array
-    expect(all_coins.length).to eq(290)
+    expect(all_coins.length).to eq($unique_fixture_count)
 
     single_coin = all_coins[0]
     expect(single_coin).instance_of? NomismaXmlGenerator::Coin
@@ -34,7 +34,7 @@ RSpec.describe NomismaXmlGenerator::CoinCollection do
   it 'can create a collection from txt file' do
     coin_list_path = File.join($output_dir, 'coin-list.txt')
     coin_collection2 = described_class.new(coin_json_dir, coin_list_path: coin_list_path)
-    expect(coin_collection2.all_coins.length).to eq(300)
+    expect(coin_collection2.all_coins.length).to eq($unique_fixture_count)
   end
 
   context 'draws reference data from a csv file' do

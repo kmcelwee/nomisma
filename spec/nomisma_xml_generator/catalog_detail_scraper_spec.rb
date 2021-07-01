@@ -2,7 +2,10 @@
 
 RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
   let(:output_dir) { "#{$output_dir}/raw" }
+  let(:coin_list_path) { "#{$output_dir}/coin-list.txt" }
   let(:list_scraper) { NomismaXmlGenerator::CatalogListScraper.new }
+  let(:detail_scraper) { NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path }
+  let(:progress_file_path) { "#{$output_dir}/coin-list-progress.txt" }
 
   before(:each) do
     [1, 2, 3].each do |page|
@@ -21,24 +24,8 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
     end
   end
 
-  it 'has an output directory and a list of coin URLs' do
-    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
-
-    expect(detail_scraper).to be_a_kind_of NomismaXmlGenerator::CatalogDetailScraper
-    expect(detail_scraper.output_dir).to eq output_dir
-  end
-
-  it 'can take a file containing a list of coins as input' do
-    coin_list_path = list_scraper.write_coin_list
-    detail_scraper = described_class.new(coin_list_path, output_dir: output_dir)
-
-    detail_scraper2 = described_class.new(list_scraper.coin_list, output_dir: output_dir)
-
-    expect(detail_scraper.coin_list).to eq(detail_scraper2.coin_list)
-  end
-
   it 'can scrape a coin url' do
-    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+    detail_scraper = described_class.new(coin_list_path, output_dir: output_dir)
     coin_url = 'https://catalog.princeton.edu/catalog/coin-15039'
     coin_details = detail_scraper.scrape_coin(coin_url)
     expect(coin_details).to be_a_kind_of Hash
@@ -47,7 +34,7 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
   end
 
   it 'writes coin response to the proper directory' do
-    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+    detail_scraper = described_class.new(coin_list_path, output_dir: output_dir)
     coin_url = 'https://catalog.princeton.edu/catalog/coin-15039'
 
     expected_path = "#{output_dir}/coin-15039.json"
@@ -61,7 +48,7 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
       File.delete(file) unless File.directory? file
     end
 
-    detail_scraper = described_class.new(list_scraper.coin_list, output_dir: output_dir)
+    detail_scraper = described_class.new(coin_list_path, output_dir: output_dir)
     detail_scraper.collect_all_coins
 
     expected_path = "#{output_dir}/coin-15190.json"
@@ -71,7 +58,39 @@ RSpec.describe NomismaXmlGenerator::CatalogDetailScraper do
     coin_json = JSON.parse(file.read)
     expect(coin_json["pub_date_start_sort"]).to eq 1979
 
-    # TODO: There are duplicates in the first three pages of the catalog fixture?
-    expect(Dir["#{output_dir}/*"].length).to eq 288
+    expect(Dir["#{output_dir}/*.json"].length).to eq $unique_fixture_count
+  end
+
+  context 'it can handle interruptions to the scrape' do
+    it "raises an error if an 200 response isn't received" do
+      error_url = 'https://catalog.princeton.edu/catalog/coin-11362/raw'
+      stub_request(:get, error_url + '/raw').to_return(status: 404, body: '{error: 404}')
+      expect { detail_scraper.scrape_coin(error_url) }.to raise_error(RuntimeError)
+    end
+
+    it "will not scrape any values provided in coin-list-progress.txt if continue is selected" do
+      Dir[output_dir].each do |file|
+        File.delete(file) unless File.directory? file
+      end
+
+      mock_already_completed = [
+        "https://catalog.princeton.edu/catalog/coin-1141",
+        "https://catalog.princeton.edu/catalog/coin-1195",
+        "https://catalog.princeton.edu/catalog/coin-1193"
+      ]
+
+      File.open(progress_file_path, 'w') do |f|
+        f.write(mock_already_completed.join("\n"))
+      end
+
+      scraper = NomismaXmlGenerator::CatalogDetailScraper.new coin_list_path, continue: true
+      scraper.collect_all_coins
+      # byebug
+
+      # expect(Dir["#{output_dir}/*"].length).to eq($unique_fixture_count - 3)
+    end
+
+    it "writes all the requests to a progress file" do
+    end
   end
 end

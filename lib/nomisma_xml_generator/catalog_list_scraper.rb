@@ -46,7 +46,7 @@ module NomismaXmlGenerator
       Array(1..max_page).each do |page|
         coin_list.push(*get_coins_from_page(page))
       end
-      coin_list
+      coin_list.to_set.to_a
     end
 
     def write_coin_list(filename: 'coin-list.txt')

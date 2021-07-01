@@ -29,11 +29,23 @@ RSpec.configure do |config|
     $fixture_path = "#{__dir__}/fixtures"
     $output_dir = "#{__dir__}/output"
     $xml_output_file = "#{$output_dir}/princeton-nomisma.rdf"
+    $unique_fixture_count = 288
+
+    # Silence output
+    # original_stderr = $stderr
+    # original_stdout = $stdout
+    # $stderr = File.new(File.join($output_dir, 'null.txt'), 'w')
+    # $stdout = File.new(File.join($output_dir, 'null.txt'), 'w')
   end
 
   config.before(:suite) do
     xml_output_file = "#{__dir__}/output/princeton-nomisma.rdf"
     File.delete(xml_output_file) if File.exist?(xml_output_file)
+  end
+
+  config.after(:all) do
+    # $stderr = original_stderr
+    # $stdout = original_stdout
   end
 
   # rspec-expectations config goes here. You can use an alternate

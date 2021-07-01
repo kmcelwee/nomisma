@@ -31,7 +31,7 @@ RSpec.describe NomismaXmlGenerator::CatalogListScraper do
 
   it 'collects the list of coins' do
     expect(scraper.coin_list).to include("https://catalog.princeton.edu/catalog/coin-1521")
-    expect(scraper.coin_list.length).to eq 300
+    expect(scraper.coin_list.length).to eq $unique_fixture_count
   end
 
   it 'writes list of coins to a txt file' do

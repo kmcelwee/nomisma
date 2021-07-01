@@ -29,7 +29,7 @@ RSpec.describe NomismaXmlGenerator::Cli do
     cli.invoke(:scrape_catalog_list, [], options)
     expect(File.exist?(expected_path)).to eq(true)
 
-    expect(File.readlines(expected_path).length).to eq(300)
+    expect(File.readlines(expected_path).length).to eq($unique_fixture_count)
   end
 
   it 'scrapes the detail coin data' do
@@ -44,7 +44,7 @@ RSpec.describe NomismaXmlGenerator::Cli do
     expect(File.exist?(expected_path)).to eq true
 
     # TODO: There are duplicates in the first three pages of the catalog fixture?
-    expect(Dir["#{output_dir}/*"].length).to eq 288
+    expect(Dir["#{output_dir}/*"].length).to eq $unique_fixture_count
   end
 
   it 'generates the xml' do
