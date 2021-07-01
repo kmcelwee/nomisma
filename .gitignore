@@ -8,3 +8,4 @@ coverage/
 .yardoc
 
 data/coin-list-progress.txt
+.rubocop_todo.yml
