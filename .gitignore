@@ -1,5 +1,4 @@
 scratch/
-data/coin-list-raw.json
 spec/output/
 !spec/output/.keep
 !spec/output/raw/.keep
@@ -7,3 +6,5 @@ spec/output/
 .byebug_history
 coverage/
 .yardoc
+
+data/coin-list-progress.txt
